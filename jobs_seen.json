@@ -1,1 +1,68 @@
-{}
+{
+  "remoteok::1130909": {
+    "company": "Ivanti",
+    "title": "Senior Software Engineer C++ Windows SDK WIN32 API",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-c-windows-sdk-win32-api-ivanti-1130909",
+    "first_seen_utc": "2026-03-30 17:51:57"
+  },
+  "remoteok::1130893": {
+    "company": "MinIO",
+    "title": "Site Reliability Engineer US West",
+    "url": "https://remoteOK.com/remote-jobs/remote-site-reliability-engineer-us-west-minio-1130893",
+    "first_seen_utc": "2026-03-30 17:51:57"
+  },
+  "remoteok::1130817": {
+    "company": "OpenAI",
+    "title": "Software Engineer Reliability",
+    "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-reliability-openai-1130817",
+    "first_seen_utc": "2026-03-30 17:51:57"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/marketerx-senior-devops-engineer": {
+    "company": "Marketerx",
+    "title": "Senior DevOps Engineer",
+    "url": "https://weworkremotely.com/remote-jobs/marketerx-senior-devops-engineer",
+    "first_seen_utc": "2026-03-30 17:51:57"
+  },
+  "jobicy::141321": {
+    "company": "Dayforce",
+    "title": "DevOps Engineer",
+    "url": "https://jobicy.com/jobs/141321-devops-engineer-2",
+    "first_seen_utc": "2026-03-30 17:52:00"
+  },
+  "jobicy::141305": {
+    "company": "ECS",
+    "title": "Software Development Project Manager (Agile, DevOps)",
+    "url": "https://jobicy.com/jobs/141305-software-development-project-manager-agile-devops-2",
+    "first_seen_utc": "2026-03-30 17:52:00"
+  },
+  "jobicy::140852": {
+    "company": "Automat-it",
+    "title": "Senior DevOps Engineer",
+    "url": "https://jobicy.com/jobs/140852-senior-devops-engineer-3",
+    "first_seen_utc": "2026-03-30 17:52:00"
+  },
+  "jobicy::140704": {
+    "company": "Five9",
+    "title": "Senior DevOps Engineer",
+    "url": "https://jobicy.com/jobs/140704-senior-devops-engineer-2",
+    "first_seen_utc": "2026-03-30 17:52:00"
+  },
+  "jobicy::140597": {
+    "company": "Planet Labs Inc.",
+    "title": "Senior Software Engineer, DevOps",
+    "url": "https://jobicy.com/jobs/140597-senior-software-engineer-devops",
+    "first_seen_utc": "2026-03-30 17:52:00"
+  },
+  "jobicy::140691": {
+    "company": "Bloom Insurance",
+    "title": "Cloud Infrastructure Engineer",
+    "url": "https://jobicy.com/jobs/140691-cloud-infrastructure-engineer-3",
+    "first_seen_utc": "2026-03-30 17:52:00"
+  },
+  "jobicy::140100": {
+    "company": "Libertex Group",
+    "title": "Infrastructure Engineer (Remote or Relocation to Montenegro)",
+    "url": "https://jobicy.com/jobs/140100-infrastructure-engineer-remote-or-relocation-to-montenegro",
+    "first_seen_utc": "2026-03-30 17:52:00"
+  }
+}
