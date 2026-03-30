@@ -47,7 +47,12 @@ def matches_keywords(job: Dict[str, Any], keywords: List[str]) -> bool:
 
 
 # Locations that clearly exclude US candidates
-_EXCLUDED_TITLE_WORDS = ["architect", "staff ", "staff/", "(staff"]
+_EXCLUDED_TITLE_WORDS = [
+    "architect", "staff ", "staff/", "(staff",
+    "principal", "manager", "director", "vp ", "vp,", "vp/",
+    "vice president", "head of", "intern", "internship",
+    "distinguished", "fellow", "executive",
+]
 
 def is_excluded_title(title: str) -> bool:
     t = normalize(title)
