@@ -53,7 +53,22 @@
         "plaid", "brex", "rippling", "vercel", "retool", "mercury", "ramp",
         "gusto", "snyk", "harness", "supabase", "linear", "clerk",
         "temporal", "prefect", "dagster", "render", "fly", "planetscale",
-        "neon", "turso", "weaviate", "qdrant", "modal", "anyscale"
+        "neon", "turso", "weaviate", "qdrant", "modal", "anyscale",
+        "twilio", "discord", "airtable", "duolingo", "amplitude", "mixpanel",
+        "contentful", "algolia", "pulumi", "launchdarkly", "split", "posthog",
+        "mux", "loom", "coda", "descript", "replit", "railway", "encore",
+        "doppler", "infisical", "teleport", "strongdm", "boundary",
+        "cloudsmith", "jfrog", "artifactory", "sonatype", "snyk",
+        "chainguard", "sigstore", "gruntwork", "spacelift", "env0",
+        "atlantis", "digger", "porter", "qovery", "northflank",
+        "convex", "trigger", "inngest", "windmill", "n8n",
+        "metabase", "preset", "lightdash", "evidence", "cube",
+        "airbyte", "meltano", "estuary", "rivery", "rudderstack",
+        "stitch", "hightouch", "census", "polytomic",
+        "grafana", "honeycomb", "axiom", "highlight", "baselime",
+        "sentry", "rollbar", "bugsnag", "appsignal",
+        "incident", "rootly", "firehydrant", "blameless",
+        "cortex", "backstage", "configure8", "opslevel"
       ]
     },
     {
@@ -62,10 +77,27 @@
       "companies": [
         "airbnb", "spotify", "hashicorp", "confluent", "elastic",
         "pagerduty", "okta", "zendesk", "rubrik", "gitlab", "fastly",
-        "cloudflare", "splunk", "newrelic", "grafana", "influxdata",
+        "cloudflare", "splunk", "newrelic", "influxdata",
         "cockroachdb", "mongodb", "dbt", "fivetran", "starburst",
-        "imply", "pinecone", "cohere", "anthropic", "mistral",
-        "huggingface", "weights-biases", "datarobot", "scale"
+        "pinecone", "cohere", "anthropic", "huggingface", "datarobot",
+        "lyft", "pinterest", "dropbox", "box", "zoom", "sendgrid",
+        "squareup", "github", "npm", "aquasecurity", "paloaltonetworks",
+        "crowdstrike", "sentinelone", "lacework", "orca", "wiz",
+        "tenable", "qualys", "rapid7", "bugcrowd", "hackerone",
+        "dynatrace", "sumo-logic", "logz", "coralogix", "mezmo",
+        "databand", "montecarlo", "acceldata", "bigeye", "soda",
+        "dremio", "starburst", "ahana", "vastdata", "celerdata",
+        "clickhouse", "tinybird", "materialize", "ksqldb",
+        "redpanda", "memphis", "nats", "liftbridge",
+        "timescale", "questdb", "victoriametrics", "m3db",
+        "yugabyte", "fauna", "tigrisdata", "edgedb", "surrealdb",
+        "hasura", "graphql", "stepzen", "stellate",
+        "vercel", "netlify", "gatsby", "sanity", "contentful",
+        "prisma", "railway", "fly", "render", "cyclic",
+        "aws", "camunda", "temporal", "conductor", "infinitic",
+        "tilt", "skaffold", "garden", "devspace", "okteto",
+        "loft", "rancher", "portainer", "suse", "canonical",
+        "redhat", "hashicorp", "jetbrains", "atlassian", "github"
       ]
     },
     {
