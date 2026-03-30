@@ -674,6 +674,12 @@ def main() -> None:
     now = datetime.now(timezone.utc)
     cutoff = now.timestamp() - WINDOW_HOURS * 3600
 
+    # Drop seen entries older than WINDOW_HOURS so jobs reappear after 24h
+    seen = {
+        k: v for k, v in seen.items()
+        if datetime.fromisoformat(v["first_seen_utc"].replace("Z", "+00:00")).timestamp() >= cutoff
+    }
+
     # Load rolling window and drop jobs older than WINDOW_HOURS
     current_jobs: List[Dict[str, Any]] = load_json_file(CURRENT_FILE, [])
     current_jobs = [
