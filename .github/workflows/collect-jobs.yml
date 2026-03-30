@@ -25,6 +25,9 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run collector
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          GOOGLE_CX: ${{ secrets.GOOGLE_CX }}
         run: python collector.py
 
       - name: Upload reports

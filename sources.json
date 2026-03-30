@@ -42,12 +42,62 @@
       "tags": ["devops", "sre", "kubernetes", "terraform", "infrastructure", "cloud"]
     },
     {
-      "type": "arbeitnow",
-      "name": "arbeitnow"
-    },
-    {
       "type": "themuse",
       "name": "The Muse"
+    },
+    {
+      "type": "google_cse",
+      "name": "Google → Lever",
+      "site": "jobs.lever.co",
+      "pages": 3
+    },
+    {
+      "type": "google_cse",
+      "name": "Google → Greenhouse",
+      "site": "boards.greenhouse.io",
+      "pages": 3
+    },
+    {
+      "type": "google_cse",
+      "name": "Google → Ashby",
+      "site": "jobs.ashbyhq.com",
+      "pages": 3
+    },
+    {
+      "type": "google_cse",
+      "name": "Google → Workday",
+      "site": "myworkdayjobs.com",
+      "pages": 3
+    },
+    {
+      "type": "google_cse",
+      "name": "Google → SmartRecruiters",
+      "site": "jobs.smartrecruiters.com",
+      "pages": 2
+    },
+    {
+      "type": "google_cse",
+      "name": "Google → iCIMS",
+      "site": "jobs.icims.com",
+      "pages": 2
+    },
+    {
+      "type": "google_cse",
+      "name": "Google → Jobvite",
+      "site": "jobs.jobvite.com",
+      "pages": 2
+    },
+    {
+      "type": "google_cse",
+      "name": "Google → Workable",
+      "site": "apply.workable.com",
+      "pages": 2
+    },
+    {
+      "type": "google_cse",
+      "name": "Google → Recruitee",
+      "site": "jobs.recruitee.com",
+      "pages": 2
     }
   ]
 }

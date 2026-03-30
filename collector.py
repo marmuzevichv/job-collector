@@ -241,6 +241,99 @@ def collect_arbeitnow(session: requests.Session, source: Dict[str, Any]) -> List
 
 
 # ---------------------------------------------------------------------------
+# Google Custom Search API  →  any ATS site
+# ---------------------------------------------------------------------------
+
+# One combined query per site to save quota (100 free calls/day)
+_GOOGLE_TITLE_KEYWORDS = (
+    '"DevOps" OR "SRE" OR "Site Reliability" OR "Platform Engineer" '
+    'OR "Cloud Engineer" OR "Infrastructure Engineer" OR "DevSecOps" '
+    'OR "MLOps" OR "Cloud Architect" OR "Reliability Engineer"'
+)
+
+
+def _extract_company(url: str, site: str) -> str:
+    """Pull company slug from ATS URL path."""
+    try:
+        after = url.lower().split(site.lower())[-1].strip("/")
+        part = after.split("/")[0]
+        return part if part and part != "jobs" else ""
+    except Exception:
+        return ""
+
+
+def _clean_google_title(raw: str) -> str:
+    """'Company - Job Title | Lever' → 'Job Title'"""
+    for sep in [" | ", " - ", " – "]:
+        if sep in raw:
+            parts = raw.split(sep)
+            # longest part is usually the actual title
+            return max(parts, key=len).strip()
+    return raw.strip()
+
+
+def collect_google_cse(session: requests.Session, source: Dict[str, Any]) -> List[Dict[str, Any]]:
+    api_key = os.environ.get("GOOGLE_API_KEY", "")
+    cx = os.environ.get("GOOGLE_CX", "")
+    if not api_key or not cx:
+        print("  Skipping: GOOGLE_API_KEY or GOOGLE_CX not set")
+        return []
+
+    site = source["site"]
+    pages = source.get("pages", 3)
+    query = f"site:{site} ({_GOOGLE_TITLE_KEYWORDS})"
+
+    jobs = []
+    seen_urls: set = set()
+
+    for page in range(pages):
+        start = page * 10 + 1
+        endpoint = (
+            "https://www.googleapis.com/customsearch/v1"
+            f"?key={api_key}&cx={cx}"
+            f"&q={requests.utils.quote(query)}&start={start}"
+        )
+        try:
+            data = safe_get(session, endpoint)
+        except Exception as e:
+            print(f"  Google CSE [{site}] page {page + 1} failed: {e}")
+            break
+
+        items = data.get("items", [])
+        if not items:
+            break
+
+        for item in items:
+            job_url = (item.get("link") or "").strip()
+            if not job_url or job_url in seen_urls:
+                continue
+            seen_urls.add(job_url)
+
+            raw_title = item.get("title", "")
+            title = _clean_google_title(raw_title)
+            snippet = re.sub(r"\s+", " ", item.get("snippet", "")).strip()
+            company = _extract_company(job_url, site)
+
+            jobs.append({
+                "source_type": f"google:{site}",
+                "company": company,
+                "title": title,
+                "location": "",
+                "team": "",
+                "categories": [],
+                "url": job_url,
+                "external_id": f"google::{job_url}",
+                "description_snippet": snippet[:300],
+                "posted_at": "",
+                "_pre_filtered": True,  # Google already matched keywords
+            })
+
+        time.sleep(0.3)
+
+    return jobs
+
+
+# ---------------------------------------------------------------------------
 # The Muse  https://www.themuse.com/api/public/jobs
 # ---------------------------------------------------------------------------
 
@@ -355,6 +448,7 @@ COLLECTORS = {
     "jobicy": collect_jobicy,
     "arbeitnow": collect_arbeitnow,
     "themuse": collect_themuse,
+    "google_cse": collect_google_cse,
 }
 
 
@@ -396,7 +490,8 @@ def main() -> None:
         for job in jobs:
             if not job.get("url") or not job.get("external_id"):
                 continue
-            if not matches_keywords(job, keywords):
+            # Google CSE already filtered by keywords — skip local keyword check
+            if not job.pop("_pre_filtered", False) and not matches_keywords(job, keywords):
                 continue
             if us_only and not is_us_eligible(job.get("location", "")):
                 continue
