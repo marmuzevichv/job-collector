@@ -241,6 +241,45 @@ def collect_arbeitnow(session: requests.Session, source: Dict[str, Any]) -> List
 
 
 # ---------------------------------------------------------------------------
+# Remotive  https://remotive.com/api/remote-jobs
+# ---------------------------------------------------------------------------
+
+def collect_remotive(session: requests.Session, source: Dict[str, Any]) -> List[Dict[str, Any]]:
+    categories = source.get("categories", ["devops-sysadmin"])
+    seen_ids: set = set()
+    jobs = []
+
+    for cat in categories:
+        url = f"https://remotive.com/api/remote-jobs?category={cat}"
+        try:
+            data = safe_get(session, url)
+        except Exception as e:
+            print(f"  Remotive category '{cat}' failed: {e}")
+            continue
+
+        for item in data.get("jobs", []):
+            job_id = str(item.get("id", ""))
+            if not job_id or job_id in seen_ids:
+                continue
+            seen_ids.add(job_id)
+
+            jobs.append({
+                "source_type": "remotive",
+                "company": (item.get("company_name") or "").strip(),
+                "title": (item.get("title") or "").strip(),
+                "location": (item.get("candidate_required_location") or "Remote").strip(),
+                "team": (item.get("category") or "").strip(),
+                "categories": [item.get("job_type", "")],
+                "url": (item.get("url") or "").strip(),
+                "external_id": f"remotive::{job_id}",
+                "description_snippet": strip_html(item.get("description", ""))[:300],
+                "posted_at": item.get("publication_date", ""),
+            })
+
+    return jobs
+
+
+# ---------------------------------------------------------------------------
 # Google Custom Search API  →  any ATS site
 # ---------------------------------------------------------------------------
 
@@ -448,6 +487,7 @@ COLLECTORS = {
     "jobicy": collect_jobicy,
     "arbeitnow": collect_arbeitnow,
     "themuse": collect_themuse,
+    "remotive": collect_remotive,
     "google_cse": collect_google_cse,
 }
 

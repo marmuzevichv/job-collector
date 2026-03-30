@@ -46,6 +46,11 @@
       "name": "The Muse"
     },
     {
+      "type": "remotive",
+      "name": "Remotive",
+      "categories": ["devops-sysadmin", "software-dev"]
+    },
+    {
       "type": "google_cse",
       "name": "Google → Lever",
       "site": "jobs.lever.co",
