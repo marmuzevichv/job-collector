@@ -45,4 +45,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add jobs_seen.json latest_jobs.md latest_jobs.csv
           git diff --cached --quiet || git commit -m "Update collected jobs"
+          git pull --rebase origin main
           git push
