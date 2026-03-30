@@ -38,9 +38,9 @@ def strip_html(text: str) -> str:
 
 
 def matches_keywords(job: Dict[str, Any], keywords: List[str]) -> bool:
-    # Match only on title + categories — description causes too many false positives
     haystack = " ".join([
         normalize(str(job.get("title", ""))),
+        normalize(str(job.get("team", ""))),
         normalize(" ".join(job.get("categories", []))),
     ])
     return any(normalize(k) in haystack for k in keywords)
