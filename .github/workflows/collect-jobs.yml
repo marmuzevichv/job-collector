@@ -26,6 +26,7 @@ jobs:
 
       - name: Run collector
         env:
+          BING_API_KEY: ${{ secrets.BING_API_KEY }}
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
           GOOGLE_CX: ${{ secrets.GOOGLE_CX }}
         run: python collector.py

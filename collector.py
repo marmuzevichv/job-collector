@@ -352,6 +352,84 @@ def collect_remotive(session: requests.Session, source: Dict[str, Any]) -> List[
 
 
 # ---------------------------------------------------------------------------
+# Bing Web Search API  →  any ATS site
+# ---------------------------------------------------------------------------
+
+_cse_globally_failed = False
+
+
+def collect_bing_search(session: requests.Session, source: Dict[str, Any]) -> List[Dict[str, Any]]:
+    global _cse_globally_failed
+    if _cse_globally_failed:
+        print("  Skipping: Bing search failed earlier")
+        return []
+
+    api_key = os.environ.get("BING_API_KEY", "")
+    if not api_key:
+        print("  Skipping: BING_API_KEY not set")
+        return []
+
+    site = source["site"]
+    pages = source.get("pages", 3)
+    query = f"site:{site} ({_GOOGLE_TITLE_KEYWORDS})"
+
+    jobs = []
+    seen_urls: set = set()
+
+    for page in range(pages):
+        offset = page * 10
+        try:
+            resp = session.get(
+                "https://api.bing.microsoft.com/v7.0/search",
+                headers={"Ocp-Apim-Subscription-Key": api_key},
+                params={"q": query, "count": 10, "offset": offset, "mkt": "en-US"},
+                timeout=TIMEOUT,
+            )
+            resp.raise_for_status()
+            data = resp.json()
+        except Exception as e:
+            status = getattr(getattr(e, "response", None), "status_code", None)
+            if status in (401, 403):
+                _cse_globally_failed = True
+                print(f"  Bing [{site}] auth failed — stopping all Bing sources")
+            else:
+                print(f"  Bing [{site}] page {page + 1} failed: {e}")
+            break
+
+        items = data.get("webPages", {}).get("value", [])
+        if not items:
+            break
+
+        for item in items:
+            job_url = (item.get("url") or "").strip()
+            if not job_url or job_url in seen_urls:
+                continue
+            seen_urls.add(job_url)
+
+            title = _clean_google_title(item.get("name", ""))
+            snippet = re.sub(r"\s+", " ", item.get("snippet", "")).strip()
+            company = _extract_company(job_url, site)
+
+            jobs.append({
+                "source_type": f"bing:{site}",
+                "company": company,
+                "title": title,
+                "location": "",
+                "team": "",
+                "categories": [],
+                "url": job_url,
+                "external_id": f"bing::{job_url}",
+                "description_snippet": snippet[:300],
+                "posted_at": "",
+                "_pre_filtered": True,
+            })
+
+        time.sleep(0.3)
+
+    return jobs
+
+
+# ---------------------------------------------------------------------------
 # Google Custom Search API  →  any ATS site
 # ---------------------------------------------------------------------------
 
@@ -562,6 +640,7 @@ COLLECTORS = {
     "lever": collect_lever,
     "greenhouse": collect_greenhouse,
     "remotive": collect_remotive,
+    "bing_search": collect_bing_search,
     "google_cse": collect_google_cse,
 }
 
