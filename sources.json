@@ -46,6 +46,29 @@
       "name": "The Muse"
     },
     {
+      "type": "lever",
+      "name": "Lever (direct)",
+      "companies": [
+        "stripe", "reddit", "figma", "notion", "coinbase", "databricks",
+        "plaid", "brex", "rippling", "vercel", "retool", "mercury", "ramp",
+        "gusto", "snyk", "harness", "supabase", "linear", "clerk",
+        "temporal", "prefect", "dagster", "render", "fly", "planetscale",
+        "neon", "turso", "weaviate", "qdrant", "modal", "anyscale"
+      ]
+    },
+    {
+      "type": "greenhouse",
+      "name": "Greenhouse (direct)",
+      "companies": [
+        "airbnb", "spotify", "hashicorp", "confluent", "elastic",
+        "pagerduty", "okta", "zendesk", "rubrik", "gitlab", "fastly",
+        "cloudflare", "splunk", "newrelic", "grafana", "influxdata",
+        "cockroachdb", "mongodb", "dbt", "fivetran", "starburst",
+        "imply", "pinecone", "cohere", "anthropic", "mistral",
+        "huggingface", "weights-biases", "datarobot", "scale"
+      ]
+    },
+    {
       "type": "remotive",
       "name": "Remotive",
       "categories": ["devops-sysadmin", "software-dev"]

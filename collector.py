@@ -241,6 +241,78 @@ def collect_arbeitnow(session: requests.Session, source: Dict[str, Any]) -> List
 
 
 # ---------------------------------------------------------------------------
+# Lever  https://api.lever.co/v0/postings/{company}
+# ---------------------------------------------------------------------------
+
+def collect_lever(session: requests.Session, source: Dict[str, Any]) -> List[Dict[str, Any]]:
+    companies = source.get("companies", [])
+    jobs = []
+
+    for company in companies:
+        url = f"https://api.lever.co/v0/postings/{company}?mode=json"
+        try:
+            data = safe_get(session, url)
+        except Exception:
+            continue
+        if not isinstance(data, list):
+            continue
+
+        for item in data:
+            cats = item.get("categories") or {}
+            location = cats.get("location") or cats.get("allLocations", [""])[0] if isinstance(cats.get("allLocations"), list) else ""
+            jobs.append({
+                "source_type": "lever",
+                "company": item.get("company", company).strip(),
+                "title": (item.get("text") or "").strip(),
+                "location": (location or "").strip(),
+                "team": (cats.get("team") or "").strip(),
+                "categories": [cats.get("department", "")],
+                "url": (item.get("hostedUrl") or "").strip(),
+                "external_id": f"lever::{item.get('id', '')}",
+                "description_snippet": strip_html(item.get("descriptionPlain", ""))[:300],
+                "posted_at": str(item.get("createdAt", "")),
+            })
+
+    return jobs
+
+
+# ---------------------------------------------------------------------------
+# Greenhouse  https://boards-api.greenhouse.io/v1/boards/{company}/jobs
+# ---------------------------------------------------------------------------
+
+def collect_greenhouse(session: requests.Session, source: Dict[str, Any]) -> List[Dict[str, Any]]:
+    companies = source.get("companies", [])
+    jobs = []
+
+    for company in companies:
+        url = f"https://boards-api.greenhouse.io/v1/boards/{company}/jobs"
+        try:
+            data = safe_get(session, url)
+        except Exception:
+            continue
+
+        for item in data.get("jobs", []):
+            offices = item.get("offices") or []
+            location = offices[0].get("name", "") if offices else ""
+            departments = item.get("departments") or []
+            team = departments[0].get("name", "") if departments else ""
+            jobs.append({
+                "source_type": "greenhouse",
+                "company": company,
+                "title": (item.get("title") or "").strip(),
+                "location": location.strip(),
+                "team": team.strip(),
+                "categories": [],
+                "url": (item.get("absolute_url") or "").strip(),
+                "external_id": f"greenhouse::{item.get('id', '')}",
+                "description_snippet": "",
+                "posted_at": item.get("updated_at", ""),
+            })
+
+    return jobs
+
+
+# ---------------------------------------------------------------------------
 # Remotive  https://remotive.com/api/remote-jobs
 # ---------------------------------------------------------------------------
 
@@ -487,6 +559,8 @@ COLLECTORS = {
     "jobicy": collect_jobicy,
     "arbeitnow": collect_arbeitnow,
     "themuse": collect_themuse,
+    "lever": collect_lever,
+    "greenhouse": collect_greenhouse,
     "remotive": collect_remotive,
     "google_cse": collect_google_cse,
 }
