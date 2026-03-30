@@ -1,0 +1,53 @@
+{
+  "keywords": [
+    "devops",
+    "site reliability",
+    "sre",
+    "platform engineer",
+    "cloud engineer",
+    "infrastructure engineer",
+    "cloud infrastructure",
+    "devsecops",
+    "release engineer",
+    "build engineer",
+    "production engineer",
+    "mlops",
+    "dataops",
+    "cloud operations",
+    "cloud architect",
+    "infrastructure architect",
+    "systems reliability",
+    "reliability engineer",
+    "cloud reliability",
+    "cloud platform",
+    "infrastructure platform",
+    "kubernetes administrator",
+    "kubernetes operator",
+    "automation engineer",
+    "cloud automation"
+  ],
+  "us_only": true,
+  "sources": [
+    {
+      "type": "remoteok",
+      "name": "RemoteOK"
+    },
+    {
+      "type": "weworkremotely",
+      "name": "We Work Remotely"
+    },
+    {
+      "type": "jobicy",
+      "name": "Jobicy",
+      "tags": ["devops", "sre", "kubernetes", "terraform", "infrastructure", "cloud"]
+    },
+    {
+      "type": "arbeitnow",
+      "name": "arbeitnow"
+    },
+    {
+      "type": "themuse",
+      "name": "The Muse"
+    }
+  ]
+}

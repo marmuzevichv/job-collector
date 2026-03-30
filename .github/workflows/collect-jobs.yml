@@ -1,0 +1,45 @@
+name: Collect jobs
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 12 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run collector
+        run: python collector.py
+
+      - name: Upload reports
+        uses: actions/upload-artifact@v4
+        with:
+          name: latest-jobs
+          path: |
+            latest_jobs.md
+            latest_jobs.csv
+            jobs_seen.json
+
+      - name: Commit updated seen file and reports
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add jobs_seen.json latest_jobs.md latest_jobs.csv
+          git diff --cached --quiet || git commit -m "Update collected jobs"
+          git push
