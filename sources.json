@@ -33,6 +33,10 @@
       "name": "RemoteOK"
     },
     {
+      "type": "arbeitnow",
+      "name": "Arbeitnow"
+    },
+    {
       "type": "weworkremotely",
       "name": "We Work Remotely"
     },
