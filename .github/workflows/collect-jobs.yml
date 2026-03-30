@@ -44,7 +44,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add jobs_seen.json latest_jobs.md latest_jobs.csv
+          git add jobs_seen.json current_jobs.json latest_jobs.md latest_jobs.csv
           git diff --cached --quiet || git commit -m "Update collected jobs"
           git pull origin main -X ours --no-rebase
           git push

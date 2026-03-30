@@ -11,9 +11,11 @@ import requests
 
 CONFIG_FILE = "sources.json"
 SEEN_FILE = "jobs_seen.json"
+CURRENT_FILE = "current_jobs.json"
 OUTPUT_MD = "latest_jobs.md"
 OUTPUT_CSV = "latest_jobs.csv"
 TIMEOUT = 30
+WINDOW_HOURS = 24
 
 
 def load_json_file(path: str, default: Any) -> Any:
@@ -669,6 +671,16 @@ def main() -> None:
     })
 
     us_only = config.get("us_only", False)
+    now = datetime.now(timezone.utc)
+    cutoff = now.timestamp() - WINDOW_HOURS * 3600
+
+    # Load rolling window and drop jobs older than WINDOW_HOURS
+    current_jobs: List[Dict[str, Any]] = load_json_file(CURRENT_FILE, [])
+    current_jobs = [
+        j for j in current_jobs
+        if datetime.fromisoformat(j["collected_at_utc"].replace("Z", "+00:00")).timestamp() >= cutoff
+    ]
+    current_ids = {j["external_id"] for j in current_jobs}
 
     all_new_jobs: List[Dict[str, Any]] = []
     stats = {"checked_sources": 0, "found_total": 0, "new_total": 0}
@@ -695,7 +707,6 @@ def main() -> None:
         for job in jobs:
             if not job.get("url") or not job.get("external_id"):
                 continue
-            # Google CSE already filtered by keywords — skip local keyword check
             if not job.pop("_pre_filtered", False) and not matches_keywords(job, keywords):
                 continue
             if is_excluded_title(job.get("title", "")):
@@ -705,7 +716,7 @@ def main() -> None:
             if job["external_id"] in seen:
                 continue
 
-            job["collected_at_utc"] = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
+            job["collected_at_utc"] = now.strftime("%Y-%m-%d %H:%M:%S")
             all_new_jobs.append(job)
             seen[job["external_id"]] = {
                 "company": job["company"],
@@ -717,8 +728,13 @@ def main() -> None:
     all_new_jobs = sort_jobs(all_new_jobs)
     stats["new_total"] = len(all_new_jobs)
 
-    write_csv(all_new_jobs)
-    write_markdown(all_new_jobs)
+    # Merge new jobs into rolling window and write full 24h list
+    current_jobs = sort_jobs(current_jobs + [j for j in all_new_jobs if j["external_id"] not in current_ids])
+    stats["window_total"] = len(current_jobs)
+
+    write_csv(current_jobs)
+    write_markdown(current_jobs)
+    save_json_file(CURRENT_FILE, current_jobs)
     save_json_file(SEEN_FILE, seen)
 
     print(json.dumps(stats, indent=2))
