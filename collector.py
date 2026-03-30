@@ -47,6 +47,13 @@ def matches_keywords(job: Dict[str, Any], keywords: List[str]) -> bool:
 
 
 # Locations that clearly exclude US candidates
+_EXCLUDED_TITLE_WORDS = ["architect", "staff ", "staff/", "(staff"]
+
+def is_excluded_title(title: str) -> bool:
+    t = normalize(title)
+    return any(w in t for w in _EXCLUDED_TITLE_WORDS)
+
+
 _NON_US_MARKERS = [
     "europe", "eu only", "uk only", "germany", "berlin", "munich", "hamburg",
     "bochum", "potsdam", "france", "paris", "netherlands", "amsterdam",
@@ -685,6 +692,8 @@ def main() -> None:
                 continue
             # Google CSE already filtered by keywords — skip local keyword check
             if not job.pop("_pre_filtered", False) and not matches_keywords(job, keywords):
+                continue
+            if is_excluded_title(job.get("title", "")):
                 continue
             if us_only and not is_us_eligible(job.get("location", "")):
                 continue
