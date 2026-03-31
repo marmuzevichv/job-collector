@@ -13,8 +13,8 @@ import anthropic
 
 INPUT_FILE = "latest_jobs_combined.csv"
 OUTPUT_FILE = "latest_jobs_ranked.md"
-TOP_CANDIDATES = 80   # pre-filter before sending to Claude
-TOP_RANKED = 30       # how many to show in final output
+TOP_CANDIDATES = 200  # pre-filter before sending to Claude
+TOP_RANKED = 100      # how many to show in final output
 
 RESUME = """
 Slava Marmuzevich — DevOps Engineer, Minneapolis MN, Green Card Holder.
@@ -95,9 +95,10 @@ def read_jobs() -> List[Dict[str, Any]]:
         return list(csv.DictReader(f))
 
 
-def rank_with_claude(jobs: List[Dict[str, Any]]) -> str:
-    client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
+BATCH_SIZE = 50  # jobs per Claude API call
 
+
+def rank_batch(client: anthropic.Anthropic, jobs: List[Dict[str, Any]], batch_num: int) -> List[Dict[str, Any]]:
     jobs_text = ""
     for i, job in enumerate(jobs, 1):
         jobs_text += (
@@ -107,7 +108,7 @@ def rank_with_claude(jobs: List[Dict[str, Any]]) -> str:
             f"   Info: {job.get('description_snippet', '')[:200]}\n\n"
         )
 
-    prompt = f"""You are a job matching assistant. Below is a candidate's resume summary and a list of job postings.
+    prompt = f"""You are a job matching assistant. Score each job for fit with this candidate's resume.
 
 RESUME:
 {RESUME}
@@ -116,25 +117,47 @@ JOB POSTINGS:
 {jobs_text}
 
 TASK:
-1. Score each job 1-10 based on fit with the resume (10 = perfect match)
-2. Return TOP {TOP_RANKED} jobs sorted by score (highest first)
-3. For each job include: score, title, company, location, URL, and 1 sentence why it fits
-4. Skip any job that is clearly not DevOps/SRE/Platform/Cloud/Infrastructure
+- Score each job 1-10 (10 = perfect match for DevOps/SRE/Platform/Cloud/Infrastructure)
+- Skip jobs clearly unrelated (GRC, QA, software dev, data engineering, etc.)
+- For each relevant job return score, title, company, location, URL, and 1 sentence why it fits
 
-Format EXACTLY like this for each job:
+Format EXACTLY like this (one per job, no extra text):
 ### [SCORE/10] Job Title — Company
 - Location: ...
 - URL: ...
-- Why: ...
-
-Only return the ranked list, no intro text."""
+- Why: ..."""
 
     message = client.messages.create(
         model="claude-haiku-4-5-20251001",
-        max_tokens=4000,
+        max_tokens=6000,
         messages=[{"role": "user", "content": prompt}],
     )
     return message.content[0].text
+
+
+def rank_with_claude(jobs: List[Dict[str, Any]]) -> str:
+    client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
+
+    all_results = []
+    batches = [jobs[i:i + BATCH_SIZE] for i in range(0, len(jobs), BATCH_SIZE)]
+
+    for i, batch in enumerate(batches, 1):
+        print(f"  Ranking batch {i}/{len(batches)} ({len(batch)} jobs)...")
+        result = rank_batch(client, batch, i)
+        all_results.append(result)
+
+    # Combine all batch results
+    combined = "\n\n".join(all_results)
+
+    # Extract scored jobs and sort by score
+    entries = re.findall(r"(### \[(\d+)/10\].*?)(?=### \[|\Z)", combined, re.DOTALL)
+    scored = [(int(score), block.strip()) for block, score in entries]
+    scored.sort(key=lambda x: x[0], reverse=True)
+
+    top = scored[:TOP_RANKED]
+    print(f"  Total relevant jobs found: {len(scored)}, showing top {len(top)}")
+
+    return "\n\n".join(block for _, block in top)
 
 
 def write_markdown(ranked_text: str, total_input: int, candidates_sent: int) -> None:
