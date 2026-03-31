@@ -68,6 +68,9 @@ _NON_US_MARKERS = [
     "brazil", "mexico only", "asia", "singapore", "japan", "seoul",
 ]
 
+_HYBRID_MARKERS = ["hybrid", "on-site", "onsite", "in office", "in-office", "office"]
+_MINNESOTA_MARKERS = ["minnesota", "minneapolis", "mn,", " mn ", "saint paul", "st. paul", "st paul"]
+
 CSV_FIELDS = [
     "collected_at_utc", "source_type", "company", "title",
     "location", "team", "url", "external_id", "posted_at",
@@ -98,9 +101,17 @@ def is_excluded_title(title: str) -> bool:
 
 def is_us_eligible(location: str) -> bool:
     loc = normalize(location)
-    if not loc:
-        return True
-    return not any(m in loc for m in _NON_US_MARKERS)
+
+    # Block non-US locations
+    for marker in _NON_US_MARKERS:
+        if marker in loc:
+            return False
+
+    # Hybrid/on-site only if Minnesota
+    if any(m in loc for m in _HYBRID_MARKERS):
+        return any(m in loc for m in _MINNESOTA_MARKERS)
+
+    return True
 
 
 def clean_title(raw: str) -> str:

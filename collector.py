@@ -74,21 +74,37 @@ _NON_US_MARKERS = [
     "montenegro", "relocation to",
 ]
 
-_US_MARKERS = [
-    "united states", "usa", " us ", "u.s.", "us-", "remote us",
-    "us remote", "north america", "worldwide", "global", "anywhere",
-    "remote", "",  # empty location = assume open
-]
+_HYBRID_MARKERS = ["hybrid", "on-site", "onsite", "in office", "in-office", "office"]
+_MINNESOTA_MARKERS = ["minnesota", "minneapolis", "mn,", " mn ", "saint paul", "st. paul", "st paul"]
 
 
-def is_us_eligible(location: str) -> bool:
+def is_location_allowed(location: str) -> bool:
+    """
+    Allow:
+      - Remote (US only or no location specified)
+      - Hybrid/on-site only if Minnesota
+    Block:
+      - Any non-US location
+      - Hybrid/on-site outside Minnesota
+    """
     loc = normalize(location)
-    if not loc:
-        return True  # no location = assume open/remote
+
+    # Block non-US locations first
     for marker in _NON_US_MARKERS:
         if marker in loc:
             return False
+
+    # If hybrid or on-site — only allow Minnesota
+    if any(m in loc for m in _HYBRID_MARKERS):
+        return any(m in loc for m in _MINNESOTA_MARKERS)
+
+    # Remote or empty → allowed
     return True
+
+
+# Keep old name as alias so existing call sites work
+def is_us_eligible(location: str) -> bool:
+    return is_location_allowed(location)
 
 
 def safe_get(session: requests.Session, url: str) -> Any:
