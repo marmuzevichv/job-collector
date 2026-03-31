@@ -1,7 +1,7 @@
 # Jobs via DuckDuckGo Search
 
-Generated: 2026-03-31 17:10 UTC
-Total jobs (24h window): 765
+Generated: 2026-03-31 19:22 UTC
+Total jobs (24h window): 882
 
 ## ddg:apply.workable.com
 
@@ -560,6 +560,70 @@ Total jobs (24h window): 765
 - [SiteReliabilityEngineer- Tecsys Inc.](https://apply.workable.com/tecsys/j/C2935323AC/)
   - Company: tecsys
   - We are looking for a SiteReliabilityEngineerto join our Network and Security Operations Center (NOC), a team at the hear...
+
+- [SiteReliabilityEngineer(SRE)](https://apply.workable.com/leadtech/j/BB82C86A45)
+  - Company: leadtech
+  - We're looking for a Senior Infrastructure & DevOps to join our dream team and play a crucial role in building the Infras...
+
+- [PlatformEngineer- Runna](https://apply.workable.com/runna/j/0AAA85F2A8/)
+  - Company: runna
+  - As aPlatformEngineer, you will help drive best practices in cloud architecture, automation, reliability, and developer e...
+
+- [PlatformEngineer- Unitary](https://apply.workable.com/unitary/j/41856B59AD/)
+  - Company: unitary
+  - As aPlatformEngineer, you will help us improve and maintain our highly scalable platform that serves up Unitary’s cuttin...
+
+- [PlatformEngineer- Multi Media LLC](https://apply.workable.com/multimediallc/j/4580572BB3/)
+  - Company: multimediallc
+  - You’ll work on meaningful, high-leverage problems that impact everyengineerat the company. You’ll be part of a supportiv...
+
+- [PlatformEngineer- Deblock](https://apply.workable.com/deblock/j/0E11FFD196/apply/)
+  - Company: deblock
+  - As a DevOpsEngineer, you’ll be directly working with the engineering team. In this fast pace environment, you’ll be give...
+
+- [PlatformEngineer- Cogna](https://apply.workable.com/cogna/j/2694CEBB2A)
+  - Company: cogna
+  - We live in a world that runs on physical industries like energy, logistics, manufacturing. These sectors are essential t...
+
+- [SeniorCloudEngineer- Advansys](https://apply.workable.com/advansys-esc-1/j/AB45C502AE/apply/)
+  - Company: advansys-esc-1
+  - FORTECLOUDis at the forefront of revolutionizing businesses in the Middle East and Africa through cutting-edgecloudsolut...
+
+- [Virtualization/CloudEngineer- 1099 (3-Month Contract)](https://apply.workable.com/aretum/j/706108312D/)
+  - Company: aretum
+  - Thisengineeridentifies opportunities forcloudenablement (IaaS, PaaS, SaaS) within the separation scenarios and estimates...
+
+- [DevSecOpsSecurity Operations Analyst](https://apply.workable.com/assurity-trusted-solutions/j/F18F316D64/)
+  - Company: assurity-trusted-solutions
+  - DevSecOpsSecurity Operations Analyst. On-siteManaged ServicesContract. Singapore, Singapore, Singapore....
+
+- [Development, Security, and Operations (DevSecOps) Engineer](https://apply.workable.com/auria/j/7D5F1988DE/)
+  - Company: auria
+  - The ideal candidate will performDevSecOpstasks that design and implement solutions to build, test, and deploy containeri...
+
+- [DevSecOpsEngineer](https://apply.workable.com/bask-health-1/j/30923424F0/)
+  - Company: bask-health-1
+  - RequirementsExpertise inDevSecOps, automation and configuration management in production environmentsExperience with AWS...
+
+- [Activate Interactive Pte Ltd](https://apply.workable.com/activate-interactive-pte-ltd/j/0DC58528FC/)
+  - Company: activate-interactive-pte-ltd
+  - As the Lead ofDevSecOps, you will be accountable for all activities of the Cloud and CI/CD team business and serve as a ...
+
+- [CloudInfrastructure& Security Engineer](https://apply.workable.com/al-goodbody/j/FE82A62AAF/)
+  - Company: al-goodbody
+  - This role will provide an exciting opportunity for an experienced ITCloudInfrastructure& Security Engineer to work as pa...
+
+- [SeniorInfrastructure& DevOps Engineer (PrivateCloud...)](https://apply.workable.com/1global/j/1C8544E5D9/)
+  - Company: 1global
+  - Position Overview. We are seeking a Senior Infrastructure & DevOps Engineer to help design, manage, and automate our pri...
+
+- [SeniorCloudInfrastructureEngineer (Network Focus)](https://apply.workable.com/acoustic-3/j/532CAAFAA4)
+  - Company: acoustic-3
+  - We're seeking a SeniorCloudInfrastructureEngineer with a network focus to design, build, and maintain our AWScloudinfras...
+
+- [ReliabilityEngineer- Frida](https://apply.workable.com/fridababy/j/740D07B097/)
+  - Company: fridababy
+  - Frida is seeking aReliabilityEngineerto join our Product Development team in Miami, Florida.As theReliabilityEngineer, y...
 
 ## ddg:boards.greenhouse.io
 
@@ -1126,6 +1190,106 @@ Total jobs (24h window): 765
 - [Job Application for Site Reliability Engineer at Virtu Financial](https://boards.greenhouse.io/virtu/jobs/5499653002)
   - Company: virtu
   - Virtu is a leading financial firm that leverages cutting edge technology to deliver liquidity to the global markets and ...
+
+- [Job Application forDevOpsEngineerat Skylight](https://boards.greenhouse.io/skylighthq/jobs/4017411005?gh_jid=4017411005)
+  - Company: skylighthq
+  - Engineera great experience for developers who are working in web-based environments such as Ruby, Python, Java, and Node...
+
+- [Job Application forDevOpsEngineerat ThreatLocker](https://boards.greenhouse.io/threatlocker/jobs/4799535004)
+  - Company: threatlocker
+  - POSITION OVERVIEW. TheDevOpsengineerwill play a key role in managing various phases of software development project from...
+
+- [Job Application forDevOpsEngineerat Verikai](https://boards.greenhouse.io/verikai/jobs/5801419003)
+  - Company: verikai
+  - Minimizing risk. About the role. TheDevOpsEngineerfocusses on the deployment and stability of enterprise applications an...
+
+- [Robot Management Systems](https://boards.greenhouse.io/diligentrobotics/jobs/7684241003)
+  - Company: diligentrobotics
+  - 20 hours ago·Lead the adoption of modern DevOps practices, including infrastructure as code, automated deployments, and ...
+
+- [Job Application for SeniorSiteReliabilityEngineerat LastPass](https://boards.greenhouse.io/lastpass/jobs/4370467005)
+  - Company: lastpass
+  - As a SeniorSiteReliabilityEngineer(SRE) you will be responsible for keeping all user-facing services and other LastPass ...
+
+- [Job Application for Senior Backend Engineer at Remote](https://boards.greenhouse.io/remotecom/jobs/7684983003)
+  - Company: remotecom
+  - 9 hours ago·You'll be joining a team of engineers across Frontend, Backend, SRE and QA. We're organised into cross-funct...
+
+- [Trade Republic. Invest, spend and bank.](https://boards.greenhouse.io/traderepublicbank/jobs/7685048003)
+  - Company: traderepublicbank
+  - 3 hours ago·(Senior) Site Reliability Engineer – Data and ML Platform ... 5+ years of experience in infrastructure, plat...
+
+- [Trade Republic. Invest, spend and bank.](https://boards.greenhouse.io/traderepublicbank/jobs/7685049003)
+  - Company: traderepublicbank
+  - 3 hours ago·(Senior) Site Reliability Engineer – Data and ML Platform. Working Student – Corporate IT & Operations (m/f/...
+
+- [Trade Republic. Invest, spend and bank.](https://boards.greenhouse.io/traderepublicbank/jobs/7685045003)
+  - Company: traderepublicbank
+  - 3 hours ago·(Senior) Site Reliability Engineer – Data and ML Platform. Working Student – Corporate IT & Operations (m/f/...
+
+- [Job Application for DevOpsPlatformEngineer(mid/senior) at Vonage](https://boards.greenhouse.io/vonage/jobs/7061803002)
+  - Company: vonage
+  - On thePlatformEngineering Tooling Team, you will build internal tool sets which benefit our employees in their daily rou...
+
+- [Jobs at Coast](https://boards.greenhouse.io/coast/)
+  - Company: coast
+  - Current Job Openings. Engineering. Senior Full-Stack Engineer New York, NY. SeniorPlatformEngineer(DevOps/SRE/Infra) New...
+
+- [Senior Software Engineer, Data Distribution](https://boards.greenhouse.io/andurilindustries/jobs/5092819007)
+  - Company: andurilindustries
+  - 2 hours ago·As a Software Engineer on Data Distribution, you will design and build the core networking infrastructure th...
+
+- [Sr. Big Data Engineer](https://boards.greenhouse.io/databricks/jobs/8432827002)
+  - Company: databricks
+  - 10 hours ago·You will provide data engineering, data science, and cloud technology projects that require integrating wit...
+
+- [Job Application for Lead Deployment Engineer at Array](https://boards.greenhouse.io/array/jobs/5841728004?gh_jid=5841728004)
+  - Company: array
+  - 5 hours ago·As a Lead Deployment Engineer at Array, you will lead complex, enterprise-scale SaaS implementations in a po...
+
+- [Job Application for Senior Web Engineer, UI Platform at Reddit](https://boards.greenhouse.io/reddit/jobs/7767718)
+  - Company: reddit
+  - 16 hours ago·Experience building and maintaining shared UI platforms, such as design systems, component libraries, or fr...
+
+- [Job Application for Senior Software Engineer (Solvers) at Defuse Labs](https://boards.greenhouse.io/defuselabs/jobs/4826408101)
+  - Company: defuselabs
+  - 24 hours ago·We're looking for a Senior Software Engineer (Solvers) to architect and guide the development of our Solver...
+
+- [Technical Operations Engineer, Mission Autonomy](https://boards.greenhouse.io/andurilindustries/jobs/5092694007)
+  - Company: andurilindustries
+  - 23 hours ago·Provide end-to-end support for our Mission Autonomy systems, including hardware setup and software configur...
+
+- [Job Application for Cybersecurity Officer at GROWE](https://boards.greenhouse.io/growe/jobs/4826327101)
+  - Company: growe
+  - 7 hours ago·Manage a large cybersecurity team, including Cloud Security, SOC, Application Security / DevSecOps, Endpoint...
+
+- [Job Application for Cybersecurity Officer at Growe Talents](https://boards.greenhouse.io/growetalents/jobs/4826328101)
+  - Company: growetalents
+  - 7 hours ago·Manage a cybersecurity team, including Cloud Security, SOC, Application Security / DevSecOps, Endpoint Secur...
+
+- [Job Application for Sr. DevOps Engineer](https://boards.greenhouse.io/yurtsai/jobs/4066002007)
+  - Company: yurtsai
+  - A BS degree or higher in Computer Science, Engineering, or related fields. CompTIA Security+ Certification. 4+ years of ...
+
+- [Job Application for Software Engineer,CloudInfra at Scale AI](https://boards.greenhouse.io/scaleai/jobs/4418710005)
+  - Company: scaleai
+  - Extensive experience supportingcloud-basedinfrastructure(AWS preferred). Extensive experience in software development an...
+
+- [US Enterprise, HPC, AI & Neocloud ...](https://boards.greenhouse.io/ionq/jobs/5840896004)
+  - Company: ionq
+  - 19 hours ago·You'd be a good fit with: Industry GTM Tenure: Minimum of 10-years experience selling to the HPC or GPU Clo...
+
+- [Senior SiteReliabilityEngineer- Systems Engineering](https://boards.greenhouse.io/yext/jobs/5458620)
+  - Company: yext
+  - Develop automated systems that streamline the build, test, and operation of our infrastructure. Work with talented softw...
+
+- [Job Application for Avionics BuildReliabilityEngineer(Starshield) at...](https://boards.greenhouse.io/spacex/jobs/7472959002?gh_jid=7472959002)
+  - Company: spacex
+  - BuildReliabilityEngineer/ Level II: $110,000.00 - $115,000.00/per year. Your actual level and base salary will be determ...
+
+- [Jobs at Intelas](https://boards.greenhouse.io/intelas)
+  - Company: intelas
+  - SiteReliabilityEngineerNew York, NY....
 
 ## ddg:job-boards.greenhouse.io
 
@@ -1717,6 +1881,138 @@ Total jobs (24h window): 765
   - Company: gitlab
   - Job. Assigned Support Engineer (AMER). Remote, Americas. Engineering.Intermediate SiteReliabilityEngineer, Environment A...
 
+- [Job Application for DevOps Engineer at MEMX](https://job-boards.greenhouse.io/memx/jobs/5171222008)
+  - Company: memx
+  - 2 hours ago·DevOps Engineer · This role will be covering the US overnight shift of 11:00pm-8:00am ET · Collaborate with ...
+
+- [Job Application for DevOps Engineer at Capco](https://job-boards.greenhouse.io/capco/jobs/7765458)
+  - Company: capco
+  - 8 hours ago·The DevOps Engineer is responsible for supporting the bank's application delivery and operational automation...
+
+- [Sr DevOps IT Engineer (space/defense)](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5093849007)
+  - Company: altentechnologyusa
+  - 14 hours ago·Proven experience as a DevOps Engineer with a strong focus on GitLab CI/CD. Extensive experience working wi...
+
+- [Job Application for Cloud Infra/DevOps Engineer at AvePoint](https://job-boards.greenhouse.io/avepoint/jobs/6771887?utm_source=bandana)
+  - Company: avepoint
+  - 19 hours ago·Interested in building your career at AvePoint? Get future opportunities sent straight to your email. Creat...
+
+- [Job Application for Sr.DevOpsEngineerat OfferFit](https://job-boards.greenhouse.io/offerfit/jobs/4521166005)
+  - Company: offerfit
+  - Improve Developer Experience (DX) by streamlining workflows, improve tooling, and ensure the seamless adoption ofDevOpsb...
+
+- [Jobs at New Era Technology](https://job-boards.greenhouse.io/neweratech?error=true)
+  - Company: neweratech?error=true
+  - SeniorDevOpsEngineer. Hybrid - Jersey City, NJ.Level 2 IT Support Engineer. Cluj-Napoca, Cluj. Physical Security Solutio...
+
+- [Jobs at Figment](https://job-boards.greenhouse.io/figment)
+  - Company: figment
+  - SeniorDevOpsEngineer.Senior DevSecOps Engineer. Toronto, Canada....
+
+- [Senior Site Reliability Engineer, Production Engineering](https://job-boards.greenhouse.io/andurilindustries/jobs/5093563007)
+  - Company: andurilindustries
+  - 2 hours ago·Senior Site Reliability Engineer, Production Engineering ... 7+ years of engineering experience with at leas...
+
+- [Job Application for Senior Site Reliability Engineer at Crexi](https://job-boards.greenhouse.io/crexi/jobs/4679362005)
+  - Company: crexi
+  - 15 hours ago·Senior Site Reliability Engineer ... Mentors and develops junior and mid-level SRE and infrastructure engin...
+
+- [Job Application for Site Reliability Engineer (CloudOps) at Axon](https://job-boards.greenhouse.io/axon/jobs/7683359003)
+  - Company: axon
+  - 15 hours ago·Site Reliability Engineer (CloudOps). Australia. Apply Now. Join Axon and be a ... As a contributor in the ...
+
+- [Job Application for Senior Backend Engineer at Remote](https://job-boards.greenhouse.io/remotecom/jobs/7684983003)
+  - Company: remotecom
+  - 9 hours ago·You'll be joining a team of engineers across Frontend, Backend, SRE and QA. We're organised into cross-funct...
+
+- [Job Application for Cloud Reliability Engineer at Viant Technology](https://job-boards.greenhouse.io/vianttechnology/jobs/4204350009)
+  - Company: vianttechnology
+  - 19 hours ago·QUALIFICATIONS AND REQUIREMENTS · 3+ years experience in a DevOps or SRE-related role · 2+ years experience...
+
+- [Job Application for Lead IT Engineer](https://job-boards.greenhouse.io/nubank/jobs/7767668)
+  - Company: nubank
+  - 18 hours ago·Familiarity with adjacent frameworks: COBIT, ISO 20000, or SRE principles. Experience partnering with Secur...
+
+- [Job Application for Sales Engineer, MSSP at Sumo Logic](https://job-boards.greenhouse.io/sumologic/jobs/7735880)
+  - Company: sumologic
+  - 2 hours ago·... Site Reliability Engineer, or a Software Developer with experience leading projects and/or working with ...
+
+- [Job Application for Robotics Platform Engineer at Formic](https://job-boards.greenhouse.io/formic/jobs/4667581006)
+  - Company: formic
+  - 2 hours ago·As a Robotics Platform Engineer, you will design and maintain the distributed software architecture that pow...
+
+- [Job Application for Senior Platform Engineer, Voice AI at Together AI](https://job-boards.greenhouse.io/togetherai/jobs/5093344007)
+  - Company: togetherai
+  - 19 hours ago·We're looking for a Senior Platform Engineer to own the API and infrastructure layer for voice workloads. Y...
+
+- [Job Application for Data Platform Engineer at Capstone Investment ...](https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8485872002)
+  - Company: capstoneinvestmentadvisors
+  - 15 hours ago·Data Platform Engineer · Experience with Apache Iceberg on object storage (S3) and engines like Spark/Trino...
+
+- [Jobs at Captivation Software](https://job-boards.greenhouse.io/captivation?error=true)
+  - Company: captivation?error=true
+  - PlatformEngineer. Job.PlatformEngineer(Hybrid) - Python/Java/AWS/Linux....
+
+- [Jobs at Vonage](https://job-boards.greenhouse.io/vonage?error=true)
+  - Company: vonage?error=true
+  - PlatformEngineerIII (Kubernetes, IAC, Python/Go). Bengaluru, India. SDET Manager. Wrocław, Poland. Senior DevOps Softwar...
+
+- [Jobs at Schonfeld](https://job-boards.greenhouse.io/schonfeld?error=true)
+  - Company: schonfeld?error=true
+  - 2026 DMFI Software Engineer Summer Internship. London, England, United Kingdom.SeniorPlatformEngineer. New York, New Yor...
+
+- [Jobs at Schonfeld](https://job-boards.greenhouse.io/schonfeld)
+  - Company: schonfeld
+  - PlatformEngineer.Trade & Platform Onboarding. Job. Trading Systems Support Engineer. São Paulo, Brazil....
+
+- [Platform Administrator (Salesforce Service Cloud & CCaaS)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4665845006)
+  - Company: sharkninjaoperatingllc
+  - 4 hours ago·Salesforce Service Cloud Engineer; CX Integration Engineer; CX Platform Architect. You will gain exposure to...
+
+- [page_title](https://job-boards.greenhouse.io/trace3?error=true)
+  - Company: trace3?error=true
+  - CloudEngineerItags.new. Remote - United States - Colorado.Interface Engineer (26-018). Huntsville, AL. Java, DevSecOps S...
+
+- [Jobs at Black Forest Labs](https://job-boards.greenhouse.io/blackforestlabs?error=true)
+  - Company: blackforestlabs?error=true
+  - At Black Forest Labs, we’re on a mission to advance the state of the art in generative deep learning for media, building...
+
+- [Job Application for Cybersecurity Officer at Growe Talents](https://job-boards.greenhouse.io/growetalents/jobs/4826328101)
+  - Company: growetalents
+  - 7 hours ago·Manage a cybersecurity team, including Cloud Security, SOC, Application Security / DevSecOps, Endpoint Secur...
+
+- [Job Application for Cybersecurity Officer at GROWE](https://job-boards.greenhouse.io/growe/jobs/4826327101)
+  - Company: growe
+  - 7 hours ago·Manage a large cybersecurity team, including Cloud Security, SOC, Application Security / DevSecOps, Endpoint...
+
+- [Job Application for Team Lead, QA at Intradiem](https://job-boards.greenhouse.io/intradiem/jobs/4668646006)
+  - Company: intradiem
+  - 20 hours ago·Partner with Product, Engineering, and DevSecOps to ensure requirements are clearly defined, testable, and ...
+
+- [Jobs at DoiT](https://job-boards.greenhouse.io/doitintl?error=true)
+  - Company: doitintl?error=true
+  - Check out our recap video to relive the magic and see how we’re helping organizations streamline and scale theircloudinf...
+
+- [Jobs at Zscaler](https://job-boards.greenhouse.io/zscaler?error=true)
+  - Company: zscaler?error=true
+  - Zscaler (NASDAQ: ZS) is a pioneer and global leader in zero trust security. The world’s largest businesses, critical inf...
+
+- [Jobs at 66degrees](https://job-boards.greenhouse.io/66degrees)
+  - Company: 66degrees
+  - At 66degrees, we help companies unlock value by transforming Customer Experiences and Business Operations through innova...
+
+- [Jobs at Canonical](https://job-boards.greenhouse.io/canonical?error=true)
+  - Company: canonical?error=true
+  - CloudEngineering Manager. Home based - Worldwide. Canonical is a leading provider of open source software and operating ...
+
+- [Forward Deployed Infrastructure Engineer](https://job-boards.greenhouse.io/sitrepsllc/jobs/4180820009)
+  - Company: sitrepsllc
+  - 3 hours ago·Edge-to-Cloud Infrastructure. Design and maintain the infrastructure that connects distributed maritime edge...
+
+- [Jobs at Axon](https://job-boards.greenhouse.io/axon?error=true)
+  - Company: axon?error=true
+  - SiteReliabilityEngineerII. Seattle, Washington, United States. Sr SiteReliabilityEngineerI. London, England, United King...
+
 ## ddg:jobs.ashbyhq.com
 
 - [DevOpsEngineer@ Deel](https://jobs.ashbyhq.com/Deel/0007a911-2f94-4db1-9a25-9da6bce561bb)
@@ -2150,6 +2446,66 @@ Total jobs (24h window): 765
 - [SiteReliabilityEngineer@ One](https://jobs.ashbyhq.com/oneapp/7b3ae3e0-cfe7-40e1-b3d9-45c2bdcd863f?subid1=ca71efacf43b4315b97cc8326f1659c4)
   - Company: oneapp
   - As a SiteReliabilityEngineer(SRE) at One, your mandate is to ensure the availability and reliability of our most critica...
+
+- [FoundingDevOpsEngineer@ Altimate.ai](https://jobs.ashbyhq.com/altimate/f515f9f7-f55d-4ce1-90c3-22aa7cefc1fb)
+  - Company: altimate
+  - Join Altimate AI as aDevOpsEngineer. Lead Kubernetes-first infrastructure, automate CI/CD, and shape the future of AI-dr...
+
+- [DevOpsEngineer@ Peek](https://jobs.ashbyhq.com/peek/b00d054f-80b7-4efa-b186-b65323aec820)
+  - Company: peek
+  - At least 3 years of experience as aDevOpsEngineeror Platform Engineer. Proficiency with Infrastructure as Code (IaC) too...
+
+- [SoftwareEngineer(DevOps) @ Browserbase](https://jobs.ashbyhq.com/Browserbase/a055e70e-5f04-42d0-a6ed-3e7f6d9b914d)
+  - Company: browserbase
+  - As a SoftwareEngineer(DevOps) at Browserbase, you’ll be directly responsible for ensuring the operational excellence of ...
+
+- [SeniorDevOpsEngineer(Mainframe) 678 @ Protegrity](https://jobs.ashbyhq.com/protegrity/28c8e57e-5995-47ad-8e84-bfc789f894c9)
+  - Company: protegrity
+  - As a SeniorDevOpsEngineer, you will be responsible for implementing and managing the DevOps approach within an organizat...
+
+- [DevOpsEngineer@ 0g Labs](https://jobs.ashbyhq.com/0g/cc109ddf-279a-4359-8516-86f2a5c18e99)
+  - Company: 0g
+  - About The Role We are looking for a highly skilledDevOpsEngineerwith expertise in infrastructure automation and quality ...
+
+- [DevOpsEngineer@ VidMob](https://jobs.ashbyhq.com/VidMob/e757ff24-007e-4be6-909c-6a94432665d8?embed=js)
+  - Company: vidmob
+  - As aDevOpsengineer, you will be supporting production and development environments, from creating new and improving exis...
+
+- [SiteReliabilityEngineer(SRE) @ Air Apps](https://jobs.ashbyhq.com/airapps/e8d2ee4c-83af-42b6-b333-f17a70055e46)
+  - Company: airapps
+  - As aSiteReliabilityEngineer(SRE) at Air Apps, you will be responsible for ensuring the reliability, availability, and sc...
+
+- [PlatformEngineer@ Onebrief](https://jobs.ashbyhq.com/onebrief/99b15d88-d9de-40a2-874a-2973bed67019)
+  - Company: onebrief
+  - As aPlatformEngineer, you’ll build and operate these deployments in classified environments where clarity, reliability, ...
+
+- [CloudEngineer@ Faculty](https://jobs.ashbyhq.com/faculty/671e4b18-fda2-4d86-b675-adba5ca16d3f)
+  - Company: faculty
+  - We're looking for aCloudEngineerto build the backbone of applied artificial intelligence for our customers. You will des...
+
+- [InfrastructureEngineer@ Deepgram](https://jobs.ashbyhq.com/Deepgram/3e70322f-f37e-448f-99e0-abe3ac07fe37)
+  - Company: deepgram
+  - We are seeking an experiencedInfrastructureEngineerto design, implement, and maintain our large-scale distributed system...
+
+- [Software Engineer,CloudInfrastructure@ OpenAI](https://jobs.ashbyhq.com/openai/27f268ed-9a32-4381-a04e-7a6074c1e127?i12m_id=i12m-2024-4-5UJ)
+  - Company: openai
+  - Thecloudinfrastructureteam builds and maintains infrastructure abstractions allowing OpenAI to ship products quickly and...
+
+- [CloudInfrastructureSoftware Engineer [Multiple Seniority Levels]](https://jobs.ashbyhq.com/beaconai/1c989883-41fd-4ba3-aaf8-9ecc2439fcf8)
+  - Company: beaconai
+  - Design and maintain secure, scalable AWScloudinfrastructure, managing data ingestion, ML Infra, CI/CD pipelines, and ens...
+
+- [SiteReliabilityEngineer(SRE) @ Baseten](https://jobs.ashbyhq.com/baseten/916e9d62-492a-4562-971f-3e97e3868392/)
+  - Company: baseten
+  - As a SiteReliabilityEngineerat Baseten, you'll ensure our infrastructure is scalable, reliable, and efficient, focusing ...
+
+- [SiteReliabilityEngineer@ One](https://jobs.ashbyhq.com/oneapp/7b3ae3e0-cfe7-40e1-b3d9-45c2bdcd863f)
+  - Company: oneapp
+  - As a SiteReliabilityEngineer(SRE) at One, your mandate is to ensure the availability and reliability of our most critica...
+
+- [SiteReliabilityEngineer(SRE) @ Baseten](https://jobs.ashbyhq.com/baseten/916e9d62-492a-4562-971f-3e97e3868392/application)
+  - Company: baseten
+  - As a SiteReliabilityEngineerat Baseten, you'll ensure our infrastructure is scalable, reliable, and efficient, focusing ...
 
 ## ddg:jobs.lever.co
 
@@ -2665,6 +3021,54 @@ Total jobs (24h window): 765
   - Company: filevine
   - As a Site Reliability Engineer you will be embedded with a cross functional team who has key responsibilities for certai...
 
+- [Lead DevOps Engineer](https://jobs.lever.co/jobgether/665c1915-390f-41f3-b08a-08e32531c66a)
+  - Company: jobgether
+  - 1 hour ago·Lead DevOps Engineer - Remote ; Accountabilities. Lead the development and execution of a strategic technolog...
+
+- [DeepJudge -DevOpsEngineer](https://jobs.lever.co/DeepJudge/7f0a4af1-d02e-4cba-b594-01e73e8327aa)
+  - Company: deepjudge
+  - We're seeking aDevOpsEngineerto join our team who will take ownership from day one and is eager to work alongside smart,...
+
+- [Production Support Engineer](https://jobs.lever.co/rover/4fb0db6a-c5f2-437e-9fde-c273487b926c?lever-source=Otta)
+  - Company: rover
+  - 15 hours ago·The support engineer would be joining the Site Reliability (SRE) Team. The SRE team is responsible for the ...
+
+- [Remote Engineering Leader](https://jobs.lever.co/jobgether/91dcef26-1eec-499c-8a8f-3f10c9bd9d21)
+  - Company: jobgether
+  - 9 hours ago·Bachelor's degree in Computer Science or related field, or equivalent experience. · 7 years of people leader...
+
+- [Sporty Group -SiteReliabilityEngineer](https://jobs.lever.co/sporty/a2d92980-0741-412a-b467-22aa91326636)
+  - Company: sporty
+  - SiteReliabilityEngineer. GLOBAL REMOTE. Sporty – SPORTY Technical /.- 4+ years experience in aSREorDevOps position, or i...
+
+- [Ebury -SiteReliabilityEngineer(SRE)](https://jobs.lever.co/ebury/c281a1ca-877c-4703-92e1-71f9b7eb036c)
+  - Company: ebury
+  - Ebury is a Global FinTech: we apply new technologies to enhance and automate financial services and processes. This allo...
+
+- [SeniorPlatformEngineer](https://jobs.lever.co/zencore/c11476f8-0c63-41c0-9c05-09021058b93e)
+  - Company: zencore
+  - SeniorPlatformEngineer. Europe (Remote). Engineering – Infrastructure /.3 years of experience working with a major publi...
+
+- [LIFEN](https://jobs.lever.co/lifen)
+  - Company: lifen
+  - App Delivery/Infra. Apply.PlatformEngineer- F/H/N. Remote — CDI CadreParis. Engineering. Apply. Software Engineer - Pyth...
+
+- [Welocalize](https://jobs.lever.co/welocalize)
+  - Company: welocalize
+  - AI/MLPlatformEngineer. Hybrid — Full TimeNoida, India. Apply. AI/ML R&D Engineer....
+
+- [Shield AI](https://jobs.lever.co/shieldai)
+  - Company: shieldai
+  - Electrical Engineer II - Power Electronics. On-site — Full Time EmployeeDallas, Texas / Boston, MA.SeniorCloudEngineer(R...
+
+- [KDDI America](https://jobs.lever.co/kddia)
+  - Company: kddia
+  - Sales Engineer & Solution Engineer. Texas. Operations and Maintenance BU.Apply.CloudEngineer. Los Angeles, CAPSI – PSI 2...
+
+- [Loft Orbital Solutions](https://jobs.lever.co/loftorbital/)
+  - Company: loftorbital
+  - TestInfrastructure. Apply. Senior SoftwareEngineer. Hybrid — Full timeGolden, CO.EngineeringInfrastructure. Apply. Elect...
+
 ## ddg:jobs.smartrecruiters.com
 
 - [SmartRecruiters Job Search](https://jobs.smartrecruiters.com/?keyword=devops)
@@ -3074,3 +3478,67 @@ Total jobs (24h window): 765
 - [CyberArk Site Reliability Engineer](https://jobs.smartrecruiters.com/Cyberark1/744000102162236-site-reliability-engineer)
   - Company: cyberark1
   - CyberArk Cloud Engineering is looking for aSiteReliabilityEngineerwith "automation first" mindset who is passionate abou...
+
+- [NielsenIQDevOpsEngineer| SmartRecruiters](https://jobs.smartrecruiters.com/NielsenIQ/743999970719809-devops-engineer)
+  - Company: nielseniq
+  - As aDevOpsEngineer, you’ll be part of a team of smart, highly skilled technologists who are passionate about learning an...
+
+- [TrainlineSiteReliabilityEngineer| SmartRecruiters](https://jobs.smartrecruiters.com/Trainline/743999962858003)
+  - Company: trainline
+  - Trainline logo.SiteReliabilityEngineer. Full-time. Office: London.Promoting and expandingSREconcepts, and being a champi...
+
+- [GROW IncPlatformEngineer| SmartRecruiters](https://jobs.smartrecruiters.com/GROWInc/744000017558185-platform-engineer)
+  - Company: growinc
+  - GROW Inc logo.PlatformEngineer. Full-time.Use Scan QR Code in WeChat and click ··· to share.PlatformEngineer. Manila, Me...
+
+- [Sopra SteriaCloudEngineer| SmartRecruiters](https://jobs.smartrecruiters.com/SopraSteria1/744000022996016-cloud-engineer)
+  - Company: soprasteria1
+  - The sky’s the limit withcloudcomputing, so you’ll need to use skills of virtualisation, containerisation, and orchestrat...
+
+- [HumanityCloudEngineer| SmartRecruiters](https://jobs.smartrecruiters.com/Humanity/743999838978646-cloud-engineer)
+  - Company: humanity
+  - As aCloudEngineer, you’ll be part of a team of smart, highly skilled technologists who are passionate about Site Reliabi...
+
+- [InlogikCloudEngineer| SmartRecruiters](https://jobs.smartrecruiters.com/Inlogik/743999936455323-cloud-engineer)
+  - Company: inlogik
+  - Inlogik is looking to appoint aCloudEngineerthat will be responsible for but not limited to: Working closely with our He...
+
+- [InlogikCloudEngineer(Azure)](https://jobs.smartrecruiters.com/Inlogik/743999957764033-cloud-engineer-azure-)
+  - Company: inlogik
+  - You, theCloudEngineerwill need to be results orientated and experiment driven; capable on achieving desired outcomes tha...
+
+- [AJ BellInfrastructureEngineer| SmartRecruiters](https://jobs.smartrecruiters.com/AJBell1/743999843843385-infrastructure-engineer)
+  - Company: ajbell1
+  - InfrastructureEngineer. AJ Bell Business Solutions, Hybrid - WFH/Manchester, England, United Kingdom. Employees can work...
+
+- [AJ BellInfrastructureEngineer| SmartRecruiters](https://jobs.smartrecruiters.com/AJBell1/743999837476923-infrastructure-engineer)
+  - Company: ajbell1
+  - InfrastructureEngineerAJ Bell Business Solutions, Hybrid - WFH/Manchester, England, United KingdomDepartment: Service De...
+
+- [Unit4InfrastructureEngineer| SmartRecruiters](https://jobs.smartrecruiters.com/Unit44/744000058212761-infrastructure-engineer)
+  - Company: unit44
+  - The IT function is increasing its capabilities and therefore is looking for anInfrastructureEngineer. As anInfrastructur...
+
+- [Site Reliability (SRE) |DevSecOps](https://jobs.smartrecruiters.com/ServiceNow/744000071174285-security-manager-site-reliability-sre-devsecops)
+  - Company: servicenow
+  - TheDevSecOpsteam within Product Security is responsible for building, integrating, and operating scalable security servi...
+
+- [Site Reliability (SRE) |DevSecOps](https://jobs.smartrecruiters.com/ServiceNow/744000071174375-security-manager-site-reliability-sre-devsecops)
+  - Company: servicenow
+  - TheDevSecOpsteam within Product Security is responsible for building, integrating, and operating scalable security servi...
+
+- [Noblesse RecruitmentReliabilityEngineer| SmartRecruiters](https://jobs.smartrecruiters.com/NoblesseRecruitment/744000028963825-reliability-engineer)
+  - Company: noblesserecruitment
+  - TheReliabilityengineerassesses and manages the critical systems and equipment....
+
+- [Biogen Sr.ReliabilityEngineerI](https://jobs.smartrecruiters.com/Biogen/743999980608673-sr-reliability-engineer-i)
+  - Company: biogen
+  - Practical knowledge and application of GMP and EMEA regulations.CertifiedReliabilityEngineeror Certified Maintenance and...
+
+- [BlueScopeReliabilityEngineer| SmartRecruiters](https://jobs.smartrecruiters.com/BlueScope/744000021239775-reliability-engineer)
+  - Company: bluescope
+  - The Opportunity. Our Port Kembla Springhill Manufacturing facility is looking for aReliabilityEngineer(Mechanical, Elect...
+
+- [Biogen Sr.ReliabilityEngineerI](https://jobs.smartrecruiters.com/Biogen/743999996534535-sr-reliability-engineer-i)
+  - Company: biogen
+  - Practical knowledge and application of GMP and EMEA regulations.CertifiedReliabilityEngineeror Certified Maintenance and...
