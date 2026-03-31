@@ -32,17 +32,24 @@ jobs:
       - name: Merge job files
         run: python3 merge_jobs.py
 
-      - name: Upload combined report
+      - name: Rank jobs with AI
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python3 rank_jobs.py
+
+      - name: Upload reports
         uses: actions/upload-artifact@v4
         with:
           name: latest-jobs-combined
-          path: latest_jobs_combined.csv
+          path: |
+            latest_jobs_combined.csv
+            latest_jobs_ranked.md
 
-      - name: Commit combined file
+      - name: Commit combined and ranked files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add latest_jobs_combined.csv
-          git diff --cached --quiet || git commit -m "Update combined jobs"
+          git add latest_jobs_combined.csv latest_jobs_ranked.md
+          git diff --cached --quiet || git commit -m "Update combined and ranked jobs"
           git pull origin main -X ours --no-rebase
           git push
