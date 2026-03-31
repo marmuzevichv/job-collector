@@ -2776,5 +2776,353 @@
     "title": "Blend360 LeadMLOpsEngineer",
     "url": "https://jobs.smartrecruiters.com/Blend360/744000012274553-lead-mlops-engineer",
     "first_seen_utc": "2026-03-31 14:28:16"
+  },
+  "arbeitnow::senior-devops-platform-engineer-sre-100-remote-willich-447757": {
+    "company": "easybill GmbH",
+    "title": "(Senior) DevOps / Platform Engineer (SRE) 100 % remote (w/m/d)",
+    "url": "https://www.arbeitnow.com/jobs/companies/easybill-gmbh/senior-devops-platform-engineer-sre-100-remote-willich-447757",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "arbeitnow::senior-cloud-devops-engineer-koln-277320": {
+    "company": "Accso – Accelerated Solutions GmbH",
+    "title": "Senior Cloud & DevOps Engineer*",
+    "url": "https://www.arbeitnow.com/jobs/companies/accso-accelerated-solutions-gmbh/senior-cloud-devops-engineer-koln-277320",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "arbeitnow::senior-cloud-devops-engineer-darmstadt-5166": {
+    "company": "Accso – Accelerated Solutions GmbH",
+    "title": "Senior Cloud & DevOps Engineer*",
+    "url": "https://www.arbeitnow.com/jobs/companies/accso-accelerated-solutions-gmbh/senior-cloud-devops-engineer-darmstadt-5166",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "arbeitnow::cloud-devops-engineer-frankfurt-am-main-133064": {
+    "company": "Accso – Accelerated Solutions GmbH",
+    "title": "Cloud & DevOps Engineer*",
+    "url": "https://www.arbeitnow.com/jobs/companies/accso-accelerated-solutions-gmbh/cloud-devops-engineer-frankfurt-am-main-133064",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "arbeitnow::senior-devops-engineer-gn-lead-role-berlin-189794": {
+    "company": "Bikeleasing-Service GmbH & Co. KG",
+    "title": "Senior DevOps Engineer (gn) – Lead Role",
+    "url": "https://www.arbeitnow.com/jobs/companies/bikeleasing-service-gmbh-co-kg/senior-devops-engineer-gn-lead-role-berlin-189794",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "arbeitnow::senior-devops-engineer-gn-lead-role-berlin-43932": {
+    "company": "Bikeleasing-Service GmbH & Co. KG",
+    "title": "Senior DevOps Engineer (gn) – Lead Role",
+    "url": "https://www.arbeitnow.com/jobs/companies/bikeleasing-service-gmbh-co-kg/senior-devops-engineer-gn-lead-role-berlin-43932",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "arbeitnow::linux-system-platform-engineer-dresden-182758": {
+    "company": "K-tronik GmbH",
+    "title": "Linux System Platform Engineer (m/w/x)",
+    "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/linux-system-platform-engineer-dresden-182758",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/jobgether-db-devops-engineer-remote": {
+    "company": "Jobgether",
+    "title": "DB DevOps Engineer - REMOTE",
+    "url": "https://weworkremotely.com/remote-jobs/jobgether-db-devops-engineer-remote",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/jobgether-devops-cloud-engineer-remote-1": {
+    "company": "Jobgether",
+    "title": "DevOps Cloud Engineer - REMOTE",
+    "url": "https://weworkremotely.com/remote-jobs/jobgether-devops-cloud-engineer-remote-1",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/intetics-1025-senior-devops-engineer": {
+    "company": "Intetics",
+    "title": "1025 | Senior DevOps Engineer",
+    "url": "https://weworkremotely.com/remote-jobs/intetics-1025-senior-devops-engineer",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/h1-sr-devops-aws-cloud-engineer": {
+    "company": "H1",
+    "title": "Sr. DevOps AWS Cloud Engineer",
+    "url": "https://weworkremotely.com/remote-jobs/h1-sr-devops-aws-cloud-engineer",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/alphorm-formateur-it-independant-cybersecurite-ia-devops-reseaux": {
+    "company": "Alphorm",
+    "title": "Formateur IT Indépendant  Cybersécurité,IA, DevOps, Réseaux ...",
+    "url": "https://weworkremotely.com/remote-jobs/alphorm-formateur-it-independant-cybersecurite-ia-devops-reseaux",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/stakefish-f2pool-devops-engineer": {
+    "company": "Stakefish",
+    "title": "(f2pool) DevOps Engineer",
+    "url": "https://weworkremotely.com/remote-jobs/stakefish-f2pool-devops-engineer",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/digital-forms-azure-devops-engineer": {
+    "company": "Digital Forms",
+    "title": "Azure DevOps Engineer",
+    "url": "https://weworkremotely.com/remote-jobs/digital-forms-azure-devops-engineer",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/european-dynamics-devops-engineer-remote-thessaloniki": {
+    "company": "European Dynamics",
+    "title": "DevOps Engineer (Remote/Thessaloniki)",
+    "url": "https://weworkremotely.com/remote-jobs/european-dynamics-devops-engineer-remote-thessaloniki",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/european-dynamics-junior-java-developer-devops-engineer-remote-thessaloniki": {
+    "company": "European Dynamics",
+    "title": "Junior Java Developer / DevOps Engineer (Remote/Thessaloniki)",
+    "url": "https://weworkremotely.com/remote-jobs/european-dynamics-junior-java-developer-devops-engineer-remote-thessaloniki",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/nick-ai-backend-devops-engineer": {
+    "company": "Nick Ai",
+    "title": "Backend/DevOps Engineer",
+    "url": "https://weworkremotely.com/remote-jobs/nick-ai-backend-devops-engineer",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/oben-technology-devops-with-french": {
+    "company": "Oben Technology",
+    "title": "DevOps with French",
+    "url": "https://weworkremotely.com/remote-jobs/oben-technology-devops-with-french",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/decircle-m0-labs-devops-engineer": {
+    "company": "Decircle",
+    "title": "M0 Labs - DevOps - Engineer",
+    "url": "https://weworkremotely.com/remote-jobs/decircle-m0-labs-devops-engineer",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/akinox-solutions-teamlead-devops": {
+    "company": "Akinox Solutions",
+    "title": "TeamLead DevOps",
+    "url": "https://weworkremotely.com/remote-jobs/akinox-solutions-teamlead-devops",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/thaloz-he-sr-devops-go-developer-171": {
+    "company": "Thaloz",
+    "title": "HE - Sr. DevOps Go Developer - 171",
+    "url": "https://weworkremotely.com/remote-jobs/thaloz-he-sr-devops-go-developer-171",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/coderio-sr-data-engineer-devops": {
+    "company": "Coderio",
+    "title": "SR Data Engineer/DevOps",
+    "url": "https://weworkremotely.com/remote-jobs/coderio-sr-data-engineer-devops",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/tasq-staffing-solutions-senior-azure-devops-engineer-remote-midshift": {
+    "company": "Tasq Staffing Solutions",
+    "title": "Senior Azure DevOps Engineer - Remote, Midshift",
+    "url": "https://weworkremotely.com/remote-jobs/tasq-staffing-solutions-senior-azure-devops-engineer-remote-midshift",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/newsmatics-cloud-engineer-ruby-devops-100-remote": {
+    "company": "Newsmatics",
+    "title": "Cloud Engineer (Ruby/DevOps)  100% remote",
+    "url": "https://weworkremotely.com/remote-jobs/newsmatics-cloud-engineer-ruby-devops-100-remote",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/octo-technology-stage-devops-f-h-n": {
+    "company": "Octo Technology",
+    "title": "Stage - DevOps - F/H/N",
+    "url": "https://weworkremotely.com/remote-jobs/octo-technology-stage-devops-f-h-n",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/fetcherr-devops-team-leader": {
+    "company": "Fetcherr",
+    "title": "DevOps Team Leader",
+    "url": "https://weworkremotely.com/remote-jobs/fetcherr-devops-team-leader",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/tether-operations-limited-lead-devops-engineer-100-remote-3": {
+    "company": "Tether Operations Limited",
+    "title": "Lead DevOps Engineer (100% Remote)",
+    "url": "https://weworkremotely.com/remote-jobs/tether-operations-limited-lead-devops-engineer-100-remote-3",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/tether-operations-limited-lead-devops-engineer-100-remote-2": {
+    "company": "Tether Operations Limited",
+    "title": "Lead DevOps Engineer (100% Remote)",
+    "url": "https://weworkremotely.com/remote-jobs/tether-operations-limited-lead-devops-engineer-100-remote-2",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/tether-operations-limited-lead-devops-engineer-100-remote-1": {
+    "company": "Tether Operations Limited",
+    "title": "Lead DevOps Engineer (100% Remote)",
+    "url": "https://weworkremotely.com/remote-jobs/tether-operations-limited-lead-devops-engineer-100-remote-1",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/tether-operations-limited-lead-devops-engineer-100-remote": {
+    "company": "Tether Operations Limited",
+    "title": "Lead DevOps Engineer (100% Remote)",
+    "url": "https://weworkremotely.com/remote-jobs/tether-operations-limited-lead-devops-engineer-100-remote",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/selector-software-devops-sre": {
+    "company": "Selector Software",
+    "title": "DevOps/SRE",
+    "url": "https://weworkremotely.com/remote-jobs/selector-software-devops-sre",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/remotestar-devops-qa-automation-engineer-remote": {
+    "company": "Remotestar",
+    "title": "DevOps & QA Automation Engineer (Remote)",
+    "url": "https://weworkremotely.com/remote-jobs/remotestar-devops-qa-automation-engineer-remote",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/thoughtworks_new-consultant-infrastructure-developer-devops": {
+    "company": "Thoughtworks_new",
+    "title": "Consultant Infrastructure Developer (DevOps)",
+    "url": "https://weworkremotely.com/remote-jobs/thoughtworks_new-consultant-infrastructure-developer-devops",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/confidential-lead-devops-engineer-aws": {
+    "company": "Confidential",
+    "title": "Lead DevOps Engineer - AWS",
+    "url": "https://weworkremotely.com/remote-jobs/confidential-lead-devops-engineer-aws",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/corva-senior-devops-engineer-with-go-python-development-experience": {
+    "company": "Corva",
+    "title": "Senior DevOps Engineer (with Go/Python Development Experience)",
+    "url": "https://weworkremotely.com/remote-jobs/corva-senior-devops-engineer-with-go-python-development-experience",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/vexxhost-ingenieur-e-de-openstack-cloud-devops": {
+    "company": "Vexxhost",
+    "title": "Ingénieur(e) de OpenStack Cloud (DevOps)",
+    "url": "https://weworkremotely.com/remote-jobs/vexxhost-ingenieur-e-de-openstack-cloud-devops",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/auvaria-senior-cloud-consultant-devops-f-m-d-4-days-week-en": {
+    "company": "Auvaria",
+    "title": "Senior Cloud Consultant - DevOps (f/m/d) - 4-Days-Week (EN)",
+    "url": "https://weworkremotely.com/remote-jobs/auvaria-senior-cloud-consultant-devops-f-m-d-4-days-week-en",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/workidentity-java-devops-developer-gn": {
+    "company": "Workidentity",
+    "title": "Java DevOps Developer (gn)",
+    "url": "https://weworkremotely.com/remote-jobs/workidentity-java-devops-developer-gn",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/companion-group-ltd-senior-backend-game-engineer-devops": {
+    "company": "Companion Group Ltd.",
+    "title": "Senior Backend Game Engineer (DevOps)",
+    "url": "https://weworkremotely.com/remote-jobs/companion-group-ltd-senior-backend-game-engineer-devops",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/se-parte-de-nuestro-equipo-se-vos-python-backend-devops-full-remoto": {
+    "company": "Sé Parte De Nuestro Equipo. Sé Vos.",
+    "title": "Python Backend & DevOps  (Full-Remoto)",
+    "url": "https://weworkremotely.com/remote-jobs/se-parte-de-nuestro-equipo-se-vos-python-backend-devops-full-remoto",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/escala-24x7-careers-cloud-specialist-devops": {
+    "company": "Escala 24x7 Careers",
+    "title": "Cloud Specialist DevOps",
+    "url": "https://weworkremotely.com/remote-jobs/escala-24x7-careers-cloud-specialist-devops",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/cashjar-com-senior-devops-engineer-remote-for-outsidehire": {
+    "company": "CashJar.com",
+    "title": "Senior DevOps Engineer (Remote - for OutsideHire)",
+    "url": "https://weworkremotely.com/remote-jobs/cashjar-com-senior-devops-engineer-remote-for-outsidehire",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/bcw-senior-linux-systems-administrator-devops-engineer-remote": {
+    "company": "Bcw",
+    "title": "Senior Linux Systems Administrator & DevOps Engineer (Remote)",
+    "url": "https://weworkremotely.com/remote-jobs/bcw-senior-linux-systems-administrator-devops-engineer-remote",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/cognyte-devops-expert": {
+    "company": "Cognyte",
+    "title": "DevOps Expert",
+    "url": "https://weworkremotely.com/remote-jobs/cognyte-devops-expert",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/trafilea-cloud-engineer-devops": {
+    "company": "Trafilea",
+    "title": "Cloud Engineer (DevOps)",
+    "url": "https://weworkremotely.com/remote-jobs/trafilea-cloud-engineer-devops",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/syrve-linux-administrator-devops-team": {
+    "company": "Syrve",
+    "title": "Linux Administrator (DevOps team)",
+    "url": "https://weworkremotely.com/remote-jobs/syrve-linux-administrator-devops-team",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/octopus-it-devops-reseau-social-a-fort-trafic-full-remote-h-f": {
+    "company": "Octopus It",
+    "title": "DevOps - Réseau Social à Fort Trafic - Full Remote H/F",
+    "url": "https://weworkremotely.com/remote-jobs/octopus-it-devops-reseau-social-a-fort-trafic-full-remote-h-f",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/octopus-it-devops-start-up-healthtech-full-remote-possible-h-f": {
+    "company": "Octopus It",
+    "title": "DevOps - Start Up - Healthtech - Full Remote Possible H/F",
+    "url": "https://weworkremotely.com/remote-jobs/octopus-it-devops-start-up-healthtech-full-remote-possible-h-f",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/octopus-it-devops-start-up-specialisee-en-deep-learning-fullremote-h-f": {
+    "company": "Octopus It",
+    "title": "DevOps - Start-Up Spécialisée en Deep Learning - Fullremote H/F",
+    "url": "https://weworkremotely.com/remote-jobs/octopus-it-devops-start-up-specialisee-en-deep-learning-fullremote-h-f",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/amaris-consulting-ingenieur-devops-h-f": {
+    "company": "Amaris Consulting",
+    "title": "Ingénieur DevOps H/F",
+    "url": "https://weworkremotely.com/remote-jobs/amaris-consulting-ingenieur-devops-h-f",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/rheactive-devops-senior-expertise-cloud-et-kubernetes-h-f": {
+    "company": "Rheactive",
+    "title": "DevOps Senior - Expertise Cloud et Kubernetes H/F",
+    "url": "https://weworkremotely.com/remote-jobs/rheactive-devops-senior-expertise-cloud-et-kubernetes-h-f",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/aquisit-lead-devops-h-f": {
+    "company": "Aquisit",
+    "title": "Lead DevOps H/F",
+    "url": "https://weworkremotely.com/remote-jobs/aquisit-lead-devops-h-f",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/eviden-ingenieur-devops-cloud-confirme-h-f": {
+    "company": "Eviden",
+    "title": "Ingénieur DevOps Cloud Confirmé (H/F)",
+    "url": "https://weworkremotely.com/remote-jobs/eviden-ingenieur-devops-cloud-confirme-h-f",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/stormshield-ingenieur-devops-sre-h-f": {
+    "company": "Stormshield",
+    "title": "Ingénieur DevOps - Sre H/F",
+    "url": "https://weworkremotely.com/remote-jobs/stormshield-ingenieur-devops-sre-h-f",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/max-digital-services-ingenieur-e-devops-h-f": {
+    "company": "MAX Digital Services",
+    "title": "Ingénieur·e DevOps H/F",
+    "url": "https://weworkremotely.com/remote-jobs/max-digital-services-ingenieur-e-devops-h-f",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/aida-recruitment-middle-devops-engineer": {
+    "company": "Aida Recruitment",
+    "title": "Middle DevOps Engineer",
+    "url": "https://weworkremotely.com/remote-jobs/aida-recruitment-middle-devops-engineer",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/truelogic-devops-engineer-open-application": {
+    "company": "Truelogic",
+    "title": "DevOps Engineer - Open Application",
+    "url": "https://weworkremotely.com/remote-jobs/truelogic-devops-engineer-open-application",
+    "first_seen_utc": "2026-03-31 16:54:19"
+  },
+  "greenhouse::7565188": {
+    "company": "elastic",
+    "title": "Senior Site Reliability Engineer (FinOps) - Platform",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=7565188&gh_jid=7565188",
+    "first_seen_utc": "2026-03-31 16:54:19"
   }
 }
