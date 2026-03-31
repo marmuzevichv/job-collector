@@ -1,0 +1,46 @@
+name: Collect jobs (DuckDuckGo)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 14 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run DDG collector
+        run: python3 collector_search.py
+
+      - name: Upload reports
+        uses: actions/upload-artifact@v4
+        with:
+          name: latest-jobs-ddg
+          path: |
+            latest_jobs_ddg.md
+            latest_jobs_ddg.csv
+            jobs_seen_ddg.json
+
+      - name: Commit updated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add jobs_seen_ddg.json current_jobs_ddg.json latest_jobs_ddg.md latest_jobs_ddg.csv
+          git diff --cached --quiet || git commit -m "Update DDG collected jobs"
+          git pull origin main -X ours --no-rebase
+          git push
