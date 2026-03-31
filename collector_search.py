@@ -33,7 +33,8 @@ SEARCH_QUERIES = [
     '"Cloud Engineer"',
     '"Infrastructure Engineer"',
     '"DevSecOps"',
-    '"MLOps"',
+    '"Cloud Infrastructure"',
+    '"Reliability Engineer"',
 ]
 
 # ATS sites to search

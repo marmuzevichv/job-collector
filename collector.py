@@ -451,7 +451,7 @@ def collect_bing_search(session: requests.Session, source: Dict[str, Any]) -> Li
 _GOOGLE_TITLE_KEYWORDS = (
     '"DevOps" OR "SRE" OR "Site Reliability" OR "Platform Engineer" '
     'OR "Cloud Engineer" OR "Infrastructure Engineer" OR "DevSecOps" '
-    'OR "MLOps" OR "Cloud Architect" OR "Reliability Engineer"'
+    'OR "Cloud Architect" OR "Reliability Engineer"'
 )
 
 
