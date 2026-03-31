@@ -140,7 +140,7 @@ def search_ddg(site: str, query: str, max_results: int = RESULTS_PER_QUERY) -> L
     results = []
     try:
         with DDGS() as ddgs:
-            for r in ddgs.text(full_query, max_results=max_results):
+            for r in ddgs.text(full_query, max_results=max_results, timelimit='d'):
                 results.append(r)
         time.sleep(0.5)  # be polite
     except Exception as e:
