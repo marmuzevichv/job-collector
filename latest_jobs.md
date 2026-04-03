@@ -1,18 +1,18 @@
 # New jobs
 
-Generated: 2026-04-02 13:12 UTC
+Generated: 2026-04-03 13:04 UTC
 
-Total new jobs: 164
+Total new jobs: 162
 
 ## arbeitnow
 
+- [Cloud Engineer mit Karriereambitionen - jetzt mit uns voll durchstarten!](https://www.arbeitnow.com/jobs/companies/auralis-group/cloud-engineer-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-grunwald-61732)
+  - Company: Auralis Group
+  - Location: Remote
+  - Level/Team: Remote, System and Network Administration
+
 - [AI Automation Engineer (m/w/d) - Vollzeit - (Remote)](https://www.arbeitnow.com/jobs/companies/convact/ai-automation-engineer-vollzeit-remote-sinsheim-264847)
   - Company: Convact
-  - Location: Remote
-  - Level/Team: Remote, IT
-
-- [QA/Test Automation Engineer (all genders) - Remote - EU](https://www.arbeitnow.com/jobs/companies/doozer-real-estate-systems-gmbh/qa-test-automation-engineer-all-genders-remote-eu-berlin-70851)
-  - Company: Doozer Real Estate Systems GmbH
   - Location: Remote
   - Level/Team: Remote, IT
 
@@ -26,15 +26,20 @@ Total new jobs: 164
   - Location: Remote
   - Level/Team: Remote, IT
 
+- [DevSecOps / IT Security Specialist (m/w/d)](https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/devsecops-it-security-specialist-augsburg-229497)
+  - Company: MY Humancapital GmbH
+  - Location: Augsburg
+  - Level/Team: System and Network Administration
+
+- [Cloud & Network Automation Engineer (m/w/d) (inhouse/ 80% remote)](https://www.arbeitnow.com/jobs/companies/polarstern-experts/cloud-network-automation-engineer-inhouse-80-remote-cologne-462874)
+  - Company: Polarstern Experts
+  - Location: Cologne
+  - Level/Team: Software Development
+
 - [Cloud Engineer / DevOps Specialist (m/f/d)](https://www.arbeitnow.com/jobs/companies/rahantech-gmbh/cloud-engineer-devops-specialist-frankfurt-am-main-349233)
   - Company: Rahantech GmbH
   - Location: Frankfurt am Main
   - Level/Team: Software Development
-
-- [DevOps-Ingenieur (m/w/d) (Ref.Nr.: 46455)](https://www.arbeitnow.com/jobs/companies/wavestone-germany-ag/devops-ingenieur-refnr-46455-munich-294556)
-  - Company: Wavestone Germany AG
-  - Location: Remote
-  - Level/Team: Remote, IT
 
 ## greenhouse
 
@@ -98,31 +103,11 @@ Total new jobs: 164
   - Company: clickhouse
   - Location: Remote
 
-- [Cloud Platform Engineer - Control Plane](https://job-boards.greenhouse.io/clickhouse/jobs/5802320004)
-  - Company: clickhouse
-  - Location: Remote
-
 - [Cloud Platform Engineer - Control Plane](https://job-boards.greenhouse.io/clickhouse/jobs/5802319004)
   - Company: clickhouse
   - Location: Remote
 
-- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5765639004)
-  - Company: clickhouse
-  - Location: Remote
-
-- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5643311004)
-  - Company: clickhouse
-  - Location: Remote
-
-- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5643312004)
-  - Company: clickhouse
-  - Location: Remote
-
-- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5643314004)
-  - Company: clickhouse
-  - Location: Remote
-
-- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5813332004)
+- [Cloud Platform Engineer - Control Plane](https://job-boards.greenhouse.io/clickhouse/jobs/5802320004)
   - Company: clickhouse
   - Location: Remote
 
@@ -146,11 +131,11 @@ Total new jobs: 164
   - Company: clickhouse
   - Location: Remote
 
-- [Release Engineer - Data Plane](https://job-boards.greenhouse.io/clickhouse/jobs/5813432004)
+- [Release Engineer - Data Plane](https://job-boards.greenhouse.io/clickhouse/jobs/5813444004)
   - Company: clickhouse
   - Location: Remote
 
-- [Release Engineer - Data Plane](https://job-boards.greenhouse.io/clickhouse/jobs/5813444004)
+- [Release Engineer - Data Plane](https://job-boards.greenhouse.io/clickhouse/jobs/5813432004)
   - Company: clickhouse
   - Location: Remote
 
@@ -170,15 +155,11 @@ Total new jobs: 164
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819755004)
-  - Company: clickhouse
-  - Location: Remote
-
 - [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819757004)
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819754004)
+- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819755004)
   - Company: clickhouse
   - Location: Remote
 
@@ -186,11 +167,11 @@ Total new jobs: 164
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819677004)
+- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819754004)
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819679004)
+- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819678004)
   - Company: clickhouse
   - Location: Remote
 
@@ -198,11 +179,15 @@ Total new jobs: 164
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819674004)
+- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819679004)
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819678004)
+- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819677004)
+  - Company: clickhouse
+  - Location: Remote
+
+- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819674004)
   - Company: clickhouse
   - Location: Remote
 
@@ -230,11 +215,11 @@ Total new jobs: 164
   - Company: contentful
   - Location: Remote
 
-- [Atlassian Cloud Platform Engineer](https://jobs.dropbox.com/listing/7626205?gh_jid=7626205)
+- [Atlassian Cloud Platform Engineer](https://jobs.dropbox.com/listing/7525048?gh_jid=7525048)
   - Company: dropbox
   - Location: Remote
 
-- [Atlassian Cloud Platform Engineer](https://jobs.dropbox.com/listing/7525048?gh_jid=7525048)
+- [Atlassian Cloud Platform Engineer](https://jobs.dropbox.com/listing/7626205?gh_jid=7626205)
   - Company: dropbox
   - Location: Remote
 
@@ -254,11 +239,11 @@ Total new jobs: 164
   - Company: fastly
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7581688003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7581692003)
   - Company: fivetran
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7581692003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7581688003)
   - Company: fivetran
   - Location: Remote
 
@@ -306,11 +291,11 @@ Total new jobs: 164
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Observability](https://www.mongodb.com/careers/job/?gh_jid=6711349)
+- [Site Reliability Engineer (Senior or Staff), Observability](https://www.mongodb.com/careers/job/?gh_jid=7192648)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Observability](https://www.mongodb.com/careers/job/?gh_jid=7192648)
+- [Site Reliability Engineer (Senior or Staff), Observability](https://www.mongodb.com/careers/job/?gh_jid=6711349)
   - Company: mongodb
   - Location: Remote
 
@@ -342,19 +327,19 @@ Total new jobs: 164
   - Company: okta
   - Location: Remote
 
-- [Senior Database Reliability Engineer (DBRE)](https://www.okta.com/company/careers/opportunity/7437974?gh_jid=7437974)
-  - Company: okta
-  - Location: Remote
-
-- [Senior Database Reliability Engineer (DBRE)](https://www.okta.com/company/careers/opportunity/7436028?gh_jid=7436028)
-  - Company: okta
-  - Location: Remote
-
-- [Senior Database Reliability Engineer (DBRE)](https://www.okta.com/company/careers/opportunity/7437947?gh_jid=7437947)
-  - Company: okta
-  - Location: Remote
-
 - [Senior Database Reliability Engineer (DBRE) ; postgreSQL](https://www.okta.com/company/careers/opportunity/7774364?gh_jid=7774364)
+  - Company: okta
+  - Location: Remote
+
+- [Senior Database Reliability Engineer (DBRE) ; postgreSQL](https://www.okta.com/company/careers/opportunity/7437974?gh_jid=7437974)
+  - Company: okta
+  - Location: Remote
+
+- [Senior Database Reliability Engineer (DBRE) ; postgreSQL](https://www.okta.com/company/careers/opportunity/7437947?gh_jid=7437947)
+  - Company: okta
+  - Location: Remote
+
+- [Senior Database Reliability Engineer (DBRE) ; postgreSQL](https://www.okta.com/company/careers/opportunity/7436028?gh_jid=7436028)
   - Company: okta
   - Location: Remote
 
@@ -403,10 +388,6 @@ Total new jobs: 164
   - Location: Remote
 
 - [Senior Integration & Automation Engineer](https://www.rubrik.com/company/careers/departments/job.7570678?gh_jid=7570678)
-  - Company: rubrik
-  - Location: Remote
-
-- [Software Engineer - Cloud Infrastructure](https://www.rubrik.com/company/careers/departments/job.7370716?gh_jid=7370716)
   - Company: rubrik
   - Location: Remote
 
@@ -572,8 +553,16 @@ Total new jobs: 164
   - Company: Eviden
   - Location: Remote
 
+- [ed3b ANALISTA DEVOPS III](https://weworkremotely.com/remote-jobs/extreme-digital-solutions-ed3b-analista-devops-iii)
+  - Company: Extreme Digital Solutions
+  - Location: Remote
+
 - [DevOps Team Leader](https://weworkremotely.com/remote-jobs/fetcherr-devops-team-leader)
   - Company: Fetcherr
+  - Location: Remote
+
+- [Analista de Sustentação N1 - Dados (Azure & DevOps) - Pleno - 26181](https://weworkremotely.com/remote-jobs/grupo-taking-analista-de-sustentacao-n1-dados-azure-devops-pleno-26181)
+  - Company: Grupo Taking
   - Location: Remote
 
 - [Sr. DevOps AWS Cloud Engineer](https://weworkremotely.com/remote-jobs/h1-sr-devops-aws-cloud-engineer)
@@ -584,8 +573,12 @@ Total new jobs: 164
   - Company: Intetics
   - Location: Remote
 
-- [Senior DevOps Engineer](https://weworkremotely.com/remote-jobs/marketerx-senior-devops-engineer)
-  - Company: Marketerx
+- [Profissional SRE/DevOps (AWS/Terraform) Sênior - Remoto](https://weworkremotely.com/remote-jobs/luby-profissional-sre-devops-aws-terraform-senior-remoto)
+  - Company: Luby
+  - Location: Remote
+
+- [Devops - Pleno e Sênior (Banco de Talentos)](https://weworkremotely.com/remote-jobs/matera-devops-pleno-e-senior-banco-de-talentos)
+  - Company: Matera
   - Location: Remote
 
 - [Ingénieur·e DevOps H/F](https://weworkremotely.com/remote-jobs/max-digital-services-ingenieur-e-devops-h-f)
