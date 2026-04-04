@@ -1,18 +1,5 @@
 [
   {
-    "source_type": "weworkremotely",
-    "company": "Aida Recruitment",
-    "title": "Middle DevOps Engineer",
-    "location": "Remote",
-    "team": "",
-    "categories": [],
-    "url": "https://weworkremotely.com/remote-jobs/aida-recruitment-middle-devops-engineer",
-    "external_id": "wwr::https://weworkremotely.com/remote-jobs/aida-recruitment-middle-devops-engineer",
-    "description_snippet": "Headquarters: Kyiv city Ukraine Для нашого клієнта української IT аутсорс компанії,&nbsp;ми шукаємо DevOps Engineer в команду на довгострокову співпрацю. Проєкт пов`язаний із підтримкою інфраструктури, DevOps- завданнями та автоматизацією процесів у хмарних та локальних середовищах. Ви працюватимете",
-    "posted_at": "Wed, 04 Mar 2026 16:43:51 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
-  },
-  {
     "source_type": "greenhouse",
     "company": "airbnb",
     "title": "Senior Android Automation Engineer",
@@ -62,7 +49,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/akinox-solutions-teamlead-devops",
     "description_snippet": "Headquarters: Montréal, Quebec, Canada Akinox&nbsp;s’engage à être un véritable agent de changement. Nous cherchons à faire une réelle différence dans la vie des gens à l’aide de solutions numériques modernes permettant des soins accessibles, efficaces, collaboratifs et centrés sur le patient. Nous ",
     "posted_at": "Mon, 09 Mar 2026 20:32:46 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
+    "collected_at_utc": "2026-04-04 12:53:47"
   },
   {
     "source_type": "weworkremotely",
@@ -75,20 +62,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/alphorm-formateur-it-independant-cybersecurite-ia-devops-reseaux",
     "description_snippet": "Headquarters: 6 Rue dArmaillé Paris, Île-de-France, 75017 France Description de l'offre d'emploi À propos d’Alphorm: Alphorm est le leader de l’e-learning IT en français, engagé à proposer des formations innovantes, accessibles et de haute qualité. Notre mission est de développer les compétences de ",
     "posted_at": "Thu, 19 Mar 2026 20:31:48 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
-  },
-  {
-    "source_type": "weworkremotely",
-    "company": "Amaris Consulting",
-    "title": "Ingénieur DevOps H/F",
-    "location": "Remote",
-    "team": "",
-    "categories": [],
-    "url": "https://weworkremotely.com/remote-jobs/amaris-consulting-ingenieur-devops-h-f",
-    "external_id": "wwr::https://weworkremotely.com/remote-jobs/amaris-consulting-ingenieur-devops-h-f",
-    "description_snippet": "Headquarters: Bordeaux, Nouvelle-Aquitaine, FR Les missions du posteAmaris Consulting est une société indépendante de conseil et de technologies au service des entreprises. Avec plus de 1000 clients dans le monde, nous déployons des solutions pour les plus grands projets depuis plus d'une décennie -",
-    "posted_at": "Wed, 04 Mar 2026 16:43:53 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
+    "collected_at_utc": "2026-04-04 12:53:47"
   },
   {
     "source_type": "greenhouse",
@@ -128,19 +102,6 @@
     "description_snippet": "",
     "posted_at": "2026-04-01T10:49:08-04:00",
     "collected_at_utc": "2026-04-03 13:01:38"
-  },
-  {
-    "source_type": "weworkremotely",
-    "company": "Aquisit",
-    "title": "Lead DevOps H/F",
-    "location": "Remote",
-    "team": "",
-    "categories": [],
-    "url": "https://weworkremotely.com/remote-jobs/aquisit-lead-devops-h-f",
-    "external_id": "wwr::https://weworkremotely.com/remote-jobs/aquisit-lead-devops-h-f",
-    "description_snippet": "Headquarters: Toulouse, Occitanie, FR Les missions du posteAquisIT est une société spécialisée dans le recrutement de Talents IT, pour le compte de clients finaux au niveau national. Nous valorisons une approche humaine et des relations de confiances. AquisIT s'engage à être réactif et présent pour ",
-    "posted_at": "Wed, 04 Mar 2026 16:43:52 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
   },
   {
     "source_type": "arbeitnow",
@@ -184,7 +145,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/auvaria-senior-cloud-consultant-devops-f-m-d-4-days-week-en",
     "description_snippet": "Headquarters: Remote (RS),Novi Sad Welcome to Auvaria, where passion, team spirit, responsibility and courage form the basis of our culture.We are looking for a motivated and solution-oriented team player (f/m/d) with a flair for individual customer requirements and a strong hands-on mentality. As a",
     "posted_at": "Thu, 05 Mar 2026 16:45:16 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
+    "collected_at_utc": "2026-04-04 12:53:47"
   },
   {
     "source_type": "weworkremotely",
@@ -197,7 +158,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/bcw-senior-linux-systems-administrator-devops-engineer-remote",
     "description_snippet": "Headquarters: Hong Kong, Hong Kong The BCW Technologies Infrastructure (BCWT-I) team are seeking a Senior (5+ years experience) Systems Administrator with very high technical and English communication proficiency. &nbsp;This senior Dev Ops engineer will be responsible for entire verticals of operati",
     "posted_at": "Thu, 05 Mar 2026 16:03:54 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
+    "collected_at_utc": "2026-04-04 12:53:47"
   },
   {
     "source_type": "jobicy",
@@ -329,7 +290,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/cashjar-com-senior-devops-engineer-remote-for-outsidehire",
     "description_snippet": "Headquarters: City Of Manila, Philippines Senior DevOps EngineerRole DefinitionThe DevOps Engineer is responsible for establishing and maintaining the cloud infrastructure, deployment pipelines, monitoring systems, and operational excellence practices that support the FanFair platform throughout dev",
     "posted_at": "Thu, 05 Mar 2026 16:03:54 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
+    "collected_at_utc": "2026-04-04 12:53:47"
   },
   {
     "source_type": "greenhouse",
@@ -377,50 +338,11 @@
     "location": "",
     "team": "",
     "categories": [],
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5843425004",
-    "external_id": "greenhouse::5843425004",
-    "description_snippet": "",
-    "posted_at": "2026-04-01T20:22:48-04:00",
-    "collected_at_utc": "2026-04-02 13:11:40"
-  },
-  {
-    "source_type": "greenhouse",
-    "company": "clickhouse",
-    "title": "Database Reliability Engineer - Core Team",
-    "location": "",
-    "team": "",
-    "categories": [],
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5843421004",
-    "external_id": "greenhouse::5843421004",
-    "description_snippet": "",
-    "posted_at": "2026-04-01T20:22:42-04:00",
-    "collected_at_utc": "2026-04-02 13:11:40"
-  },
-  {
-    "source_type": "greenhouse",
-    "company": "clickhouse",
-    "title": "Database Reliability Engineer - Core Team",
-    "location": "",
-    "team": "",
-    "categories": [],
     "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5843422004",
     "external_id": "greenhouse::5843422004",
     "description_snippet": "",
     "posted_at": "2026-04-01T20:22:44-04:00",
-    "collected_at_utc": "2026-04-02 13:11:40"
-  },
-  {
-    "source_type": "greenhouse",
-    "company": "clickhouse",
-    "title": "Database Reliability Engineer - Core Team",
-    "location": "",
-    "team": "",
-    "categories": [],
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5843424004",
-    "external_id": "greenhouse::5843424004",
-    "description_snippet": "",
-    "posted_at": "2026-04-01T20:22:47-04:00",
-    "collected_at_utc": "2026-04-02 13:11:40"
+    "collected_at_utc": "2026-04-04 12:53:47"
   },
   {
     "source_type": "greenhouse",
@@ -433,7 +355,46 @@
     "external_id": "greenhouse::5843423004",
     "description_snippet": "",
     "posted_at": "2026-04-01T20:22:45-04:00",
-    "collected_at_utc": "2026-04-02 13:11:40"
+    "collected_at_utc": "2026-04-04 12:53:47"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "clickhouse",
+    "title": "Database Reliability Engineer - Core Team",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5843424004",
+    "external_id": "greenhouse::5843424004",
+    "description_snippet": "",
+    "posted_at": "2026-04-01T20:22:47-04:00",
+    "collected_at_utc": "2026-04-04 12:53:47"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "clickhouse",
+    "title": "Database Reliability Engineer - Core Team",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5843425004",
+    "external_id": "greenhouse::5843425004",
+    "description_snippet": "",
+    "posted_at": "2026-04-01T20:22:48-04:00",
+    "collected_at_utc": "2026-04-04 12:53:47"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "clickhouse",
+    "title": "Database Reliability Engineer - Core Team",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5843421004",
+    "external_id": "greenhouse::5843421004",
+    "description_snippet": "",
+    "posted_at": "2026-04-01T20:22:42-04:00",
+    "collected_at_utc": "2026-04-04 12:53:47"
   },
   {
     "source_type": "greenhouse",
@@ -693,7 +654,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/coderio-sr-data-engineer-devops",
     "description_snippet": "Headquarters: Santiago de Chile / Concepción / Talca / Valparaíso / Lima / Arequipa / Bogotá Sobre CoderioCoderio diseña y entrega soluciones digitales escalables para empresas globales. Con una base técnica sólida y una mentalidad orientada al producto, nuestros equipos lideran proyectos de softwar",
     "posted_at": "Sun, 08 Mar 2026 20:46:00 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
+    "collected_at_utc": "2026-04-04 12:53:47"
   },
   {
     "source_type": "weworkremotely",
@@ -706,7 +667,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/cognyte-devops-expert",
     "description_snippet": "Headquarters: Herzliya, Tel Aviv District, IL Description: Today’s world is crime-riddled. Criminals are everywhere, invisible, virtual, and sophisticated. Traditional ways to prevent and investigate crime and terror are no longer enough…&nbsp;Technology is changing incredibly fast. The criminals kn",
     "posted_at": "Thu, 05 Mar 2026 16:03:09 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
+    "collected_at_utc": "2026-04-04 12:53:47"
   },
   {
     "source_type": "weworkremotely",
@@ -719,7 +680,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/companion-group-ltd-senior-backend-game-engineer-devops",
     "description_snippet": "Headquarters: London GB Companion Group is a AAA co-development gaming studio with a globally distributed and fully remote setup, renowned for its adeptness in overcoming the most intricate challenges in multiplayer game development. Our reputation precedes us as an excellent choice for clients aspi",
     "posted_at": "Thu, 05 Mar 2026 16:05:52 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
+    "collected_at_utc": "2026-04-04 12:53:47"
   },
   {
     "source_type": "weworkremotely",
@@ -732,7 +693,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/confidential-lead-devops-engineer-aws",
     "description_snippet": "Headquarters: Edinburgh, Midlothian Lead DevOps Engineer - AWS Edinburgh (Remote first) £85,000 - £90,000 My client, a leading software company is looking to hire an experienced Lead DevOps Engineer to support their R&amp;D department as well as the deployment and maintenance of their SaaS product. ",
     "posted_at": "Thu, 05 Mar 2026 16:45:20 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
+    "collected_at_utc": "2026-04-04 12:53:47"
   },
   {
     "source_type": "greenhouse",
@@ -761,35 +722,6 @@
     "collected_at_utc": "2026-04-03 13:01:38"
   },
   {
-    "source_type": "arbeitnow",
-    "company": "Convact",
-    "title": "AI Automation Engineer (m/w/d) - Vollzeit - (Remote)",
-    "location": "Remote",
-    "team": "Remote, IT",
-    "categories": [
-      "Remote",
-      "IT"
-    ],
-    "url": "https://www.arbeitnow.com/jobs/companies/convact/ai-automation-engineer-vollzeit-remote-sinsheim-264847",
-    "external_id": "arbeitnow::ai-automation-engineer-vollzeit-remote-sinsheim-264847",
-    "description_snippet": "Wir sind eine wachsende Marketingagentur und suchen einen neuen Mitarbeiter, der unsere internen Prozesse mit KI und Automatisierung auf das nächste Level bringt. Dabei geht es nicht um klassische IT Verwaltung, sondern um echte Umsetzung. Wir suchen jemanden, der moderne KI Tools nicht nur spannend",
-    "posted_at": "1775118630",
-    "collected_at_utc": "2026-04-02 13:11:40"
-  },
-  {
-    "source_type": "weworkremotely",
-    "company": "Corva",
-    "title": "Senior DevOps Engineer (with Go/Python Development Experience)",
-    "location": "Remote",
-    "team": "",
-    "categories": [],
-    "url": "https://weworkremotely.com/remote-jobs/corva-senior-devops-engineer-with-go-python-development-experience",
-    "external_id": "wwr::https://weworkremotely.com/remote-jobs/corva-senior-devops-engineer-with-go-python-development-experience",
-    "description_snippet": "Headquarters: Poland About CorvaCorva has built a first-of-its-kind energy app store on a bedrock of best-in-class technologies, data pipelines, and a secure and scalable architecture. &nbsp;Our energy solutions solve today's toughest well delivery challenges, from well design through drillout. &nbs",
-    "posted_at": "Thu, 05 Mar 2026 16:45:18 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
-  },
-  {
     "source_type": "jobicy",
     "company": "Dayforce",
     "title": "DevOps Engineer",
@@ -815,7 +747,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/decircle-m0-labs-devops-engineer",
     "description_snippet": "Headquarters: New York, New York, United States Job descriptionM0 is a stablecoin platform for builders. With M0, developers can create their stablecoins in minutes by extending $M - M0’s superior digital-dollar building block, and customize attributes such as branding, compliance behaviors, and yie",
     "posted_at": "Mon, 09 Mar 2026 20:34:46 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
+    "collected_at_utc": "2026-04-04 12:53:47"
   },
   {
     "source_type": "weworkremotely",
@@ -828,7 +760,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/digital-forms-azure-devops-engineer",
     "description_snippet": "Headquarters: Warsaw, 14, Poland Job descriptionAs a DevOps Engineer at Digital Forms, you’ll work at the heart of our digital transformation projects - designing robust infrastructure, shaping CI/CD pipelines, and ensuring smooth delivery of products used by companies around the world.This role ble",
     "posted_at": "Wed, 11 Mar 2026 20:31:53 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
+    "collected_at_utc": "2026-04-04 12:53:47"
   },
   {
     "source_type": "greenhouse",
@@ -870,21 +802,6 @@
     "collected_at_utc": "2026-04-03 13:01:38"
   },
   {
-    "source_type": "arbeitnow",
-    "company": "DUALIS GMBH IT Solution",
-    "title": "DevOps Engineer (m/w/d)",
-    "location": "Dresden",
-    "team": "Software Development",
-    "categories": [
-      "Software Development"
-    ],
-    "url": "https://www.arbeitnow.com/jobs/companies/dualis-gmbh-it-solution/devops-engineer-dresden-474153",
-    "external_id": "arbeitnow::devops-engineer-dresden-474153",
-    "description_snippet": "DU &#x26; DUALIS – let’s plan your future together! Smarte Prozesse, Industrie 4.0 oder einfach clevere Lösungen, wir helfen Fertigungsunternehmen, den Überblick zu behalten, effizienter zu arbeiten und sich zukunftssicher aufzustellen. Werde Teil unseres Teams und gestalte mit uns die Fabrik von mo",
-    "posted_at": "1775116824",
-    "collected_at_utc": "2026-04-02 13:11:40"
-  },
-  {
     "source_type": "greenhouse",
     "company": "elastic",
     "title": "Senior Site Reliability Engineer (FinOps) - Platform",
@@ -895,7 +812,7 @@
     "external_id": "greenhouse::7565188",
     "description_snippet": "",
     "posted_at": "2026-03-31T10:44:14-04:00",
-    "collected_at_utc": "2026-04-02 13:11:40"
+    "collected_at_utc": "2026-04-04 12:53:47"
   },
   {
     "source_type": "greenhouse",
@@ -921,7 +838,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/escala-24x7-careers-cloud-specialist-devops",
     "description_snippet": "Headquarters: Guatemala ¡Se parte del principal partner de AWS en Latinoamérica y ayuda a las empresas más grandes e innovadoras a acelerar su viaje a la nube! ️Somos un grupo de profesionales talentosos y apasionados en tecnologías en la nube, enfocados en el cliente y con capacidad de afrontar cua",
     "posted_at": "Thu, 05 Mar 2026 16:04:04 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
+    "collected_at_utc": "2026-04-04 12:53:47"
   },
   {
     "source_type": "weworkremotely",
@@ -934,7 +851,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/european-dynamics-devops-engineer-remote-thessaloniki",
     "description_snippet": "Headquarters: Thessaloniki, Central Macedonia, Greece Are you a skilled DevOps Engineer looking to make an impact? We have an exciting opportunity for you to join our expanding development team in Thessaloniki or work fully remotely. Be part of a dynamic and innovative environment where your experti",
     "posted_at": "Wed, 11 Mar 2026 20:31:49 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
+    "collected_at_utc": "2026-04-04 12:53:47"
   },
   {
     "source_type": "weworkremotely",
@@ -947,20 +864,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/european-dynamics-junior-java-developer-devops-engineer-remote-thessaloniki",
     "description_snippet": "Headquarters: Thessaloniki, Central Macedonia, Greece Are you a Junior Java Developer or DevOps Engineer looking for a dynamic role in a growing development team? Join us in Thessaloniki or work fully remotely, and become part of our innovative team implementing cutting-edge IT software projects for",
     "posted_at": "Wed, 11 Mar 2026 20:31:43 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
-  },
-  {
-    "source_type": "weworkremotely",
-    "company": "Eviden",
-    "title": "Ingénieur DevOps Cloud Confirmé (H/F)",
-    "location": "Remote",
-    "team": "",
-    "categories": [],
-    "url": "https://weworkremotely.com/remote-jobs/eviden-ingenieur-devops-cloud-confirme-h-f",
-    "external_id": "wwr::https://weworkremotely.com/remote-jobs/eviden-ingenieur-devops-cloud-confirme-h-f",
-    "description_snippet": "Headquarters: Les Clayes-Sous-Bois Descriptif du poste Dans le cadre de son développement Evidian recherche son Développeur DevOps Cloud (H/F) pour participer à la mise en place d'une infrastructure complète pour la solution IDaaS Evidian. L'objectif est de participer à la mise en place, support et ",
-    "posted_at": "Wed, 04 Mar 2026 16:43:52 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
+    "collected_at_utc": "2026-04-04 12:53:47"
   },
   {
     "source_type": "weworkremotely",
@@ -999,7 +903,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/fetcherr-devops-team-leader",
     "description_snippet": "Headquarters: Netanya, Center District, Israel Fetcherr experts in deep learning, e-commerce, and digitization, Fetcherr disrupts traditional systems with its cutting-edge AI technology. At its core is the Large Market Model (LMM), an adaptable AI engine that forecasts demand and market trends with ",
     "posted_at": "Fri, 06 Mar 2026 20:43:01 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
+    "collected_at_utc": "2026-04-04 12:53:47"
   },
   {
     "source_type": "jobicy",
@@ -1069,6 +973,19 @@
     "collected_at_utc": "2026-04-03 13:01:38"
   },
   {
+    "source_type": "greenhouse",
+    "company": "gitlab",
+    "title": "Salesforce Admin/Release Engineer, CRM Systems",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8398256002",
+    "external_id": "greenhouse::8398256002",
+    "description_snippet": "",
+    "posted_at": "2026-04-03T14:05:46-04:00",
+    "collected_at_utc": "2026-04-04 12:53:47"
+  },
+  {
     "source_type": "weworkremotely",
     "company": "Grupo Taking",
     "title": "Analista de Sustentação N1 - Dados (Azure & DevOps) - Pleno - 26181",
@@ -1092,7 +1009,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/h1-sr-devops-aws-cloud-engineer",
     "description_snippet": "Headquarters: New York At H1, we believe access to the best healthcare information is a basic human right. Our mission is to provide a platform that can optimally inform every doctor interaction globally. This promotes health equity and builds needed trust in healthcare systems. To accomplish this o",
     "posted_at": "Fri, 20 Mar 2026 20:32:19 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
+    "collected_at_utc": "2026-04-04 12:53:47"
   },
   {
     "source_type": "weworkremotely",
@@ -1105,7 +1022,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/intetics-1025-senior-devops-engineer",
     "description_snippet": "Headquarters: Latvia Intetics Inc., a leading American technology company specializing in custom software application development, distributed professional teams creation, software product quality assessment, and “all-things-digital” solutions, is looking for a&nbsp; Senior DevOps&nbsp; to join its ",
     "posted_at": "Fri, 20 Mar 2026 20:35:27 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
+    "collected_at_utc": "2026-04-04 12:53:47"
   },
   {
     "source_type": "remoteok",
@@ -1219,22 +1136,6 @@
     "collected_at_utc": "2026-04-03 13:01:38"
   },
   {
-    "source_type": "arbeitnow",
-    "company": "MAIA",
-    "title": "Senior DevOps / Platform Engineer (f/m/x)",
-    "location": "Remote",
-    "team": "Remote, IT",
-    "categories": [
-      "Remote",
-      "IT"
-    ],
-    "url": "https://www.arbeitnow.com/jobs/companies/maia/senior-devops-platform-engineer-leipzig-147320",
-    "external_id": "arbeitnow::senior-devops-platform-engineer-leipzig-147320",
-    "description_snippet": "MAIA is the AI platform built for industrial companies - where generic AI tools break down because the data is complex, the stakes are high, and precision actually matters. We focus on the hard problems: integrating with real engineering workflows, understanding complex technical documents, and turn",
-    "posted_at": "1775062824",
-    "collected_at_utc": "2026-04-02 13:11:40"
-  },
-  {
     "source_type": "remotive",
     "company": "Marketerx",
     "title": "Senior DevOps Engineer",
@@ -1261,19 +1162,6 @@
     "description_snippet": "Headquarters: BR URL: http://matera.com.br Aqui na&nbsp; Matera , tecnologia conecta pessoas, transforma negócios e amplia possibilidades. Trabalhamos para tornar o acesso a serviços financeiros mais seguro, eficiente e democrático, desenvolvendo soluções que impactam milhões de pessoas todos os dia",
     "posted_at": "Fri, 03 Apr 2026 00:08:59 +0000",
     "collected_at_utc": "2026-04-03 13:01:38"
-  },
-  {
-    "source_type": "weworkremotely",
-    "company": "MAX Digital Services",
-    "title": "Ingénieur·e DevOps H/F",
-    "location": "Remote",
-    "team": "",
-    "categories": [],
-    "url": "https://weworkremotely.com/remote-jobs/max-digital-services-ingenieur-e-devops-h-f",
-    "external_id": "wwr::https://weworkremotely.com/remote-jobs/max-digital-services-ingenieur-e-devops-h-f",
-    "description_snippet": "Headquarters: Rennes, Bretagne, FR Détail du posteConstruire une Infrastructure as Code sous Terraform ou Ansible ? Même pas peur !Y mettre du Kubernetes pour garder des containers up ? Un classique.L'héberger dans le Cloud ? AWS, GCP ou Azure, tu maîtrises.Automatiser le tout sous Gitlab ou Jenkins",
-    "posted_at": "Wed, 04 Mar 2026 16:43:52 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
   },
   {
     "source_type": "lever",
@@ -1481,7 +1369,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/newsmatics-cloud-engineer-ruby-devops-100-remote",
     "description_snippet": "Headquarters: Czech Republic Who are we looking for?We’re looking for more than just an infrastructure guru. We want a DevOps powerhouse with solid AWS expertise – who also brings something extra to the table. Maybe you’re a part-time data scientist, a seasoned backend coder, or you geek out on dash",
     "posted_at": "Sat, 07 Mar 2026 20:44:56 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
+    "collected_at_utc": "2026-04-04 12:53:47"
   },
   {
     "source_type": "weworkremotely",
@@ -1494,7 +1382,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/nick-ai-backend-devops-engineer",
     "description_snippet": "Headquarters: United States About NickAINickAI is revolutionizing cryptocurrency investing through AI-powered autonomous trading agents. Our platform enables users to create sophisticated AI agents that manage crypto portfolios 24/7, eliminating emotional trading decisions and maximizing investment ",
     "posted_at": "Tue, 10 Mar 2026 20:35:50 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
+    "collected_at_utc": "2026-04-04 12:53:47"
   },
   {
     "source_type": "weworkremotely",
@@ -1507,7 +1395,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/oben-technology-devops-with-french",
     "description_snippet": "Headquarters: Bucharest Romania ABOUT COMPANY Oben stands ready to provide the IT Strategy and Consulting support for Global Leaders to help them steer their Organizations through Change. We leverage our functional and technology expertise, insights and industry know-how to help Enterprises reach th",
     "posted_at": "Tue, 10 Mar 2026 20:33:47 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
+    "collected_at_utc": "2026-04-04 12:53:47"
   },
   {
     "source_type": "weworkremotely",
@@ -1520,46 +1408,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/octo-technology-stage-devops-f-h-n",
     "description_snippet": "Headquarters: 34 Av. de l&#39;Opéra, 75002 Paris, France Description de l'entrepriseOCTOPremier cabinet d’architectes IT fondé en 1998, pionnier du delivery agile et véritable concentrateur de talents. Nous incarnons les nouvelles façons de faire du conseil et du Delivery. Digital Doers &amp; Thinke",
     "posted_at": "Fri, 06 Mar 2026 20:43:02 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
-  },
-  {
-    "source_type": "weworkremotely",
-    "company": "Octopus It",
-    "title": "DevOps - Réseau Social à Fort Trafic - Full Remote H/F",
-    "location": "Remote",
-    "team": "",
-    "categories": [],
-    "url": "https://weworkremotely.com/remote-jobs/octopus-it-devops-reseau-social-a-fort-trafic-full-remote-h-f",
-    "external_id": "wwr::https://weworkremotely.com/remote-jobs/octopus-it-devops-reseau-social-a-fort-trafic-full-remote-h-f",
-    "description_snippet": "Headquarters: Paris, Île-de-France, FR Détail du posteLa sociétéNotre client est une société à taille humaine, qui développe notamment un réseau social (5 millions d'inscrits, 700 000 visites / jour).Leur mission est de proposer des produits qui permettent à nos utilisateurs d'être eux-même.En forte",
-    "posted_at": "Wed, 04 Mar 2026 16:43:53 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
-  },
-  {
-    "source_type": "weworkremotely",
-    "company": "Octopus It",
-    "title": "DevOps - Start Up - Healthtech - Full Remote Possible H/F",
-    "location": "Remote",
-    "team": "",
-    "categories": [],
-    "url": "https://weworkremotely.com/remote-jobs/octopus-it-devops-start-up-healthtech-full-remote-possible-h-f",
-    "external_id": "wwr::https://weworkremotely.com/remote-jobs/octopus-it-devops-start-up-healthtech-full-remote-possible-h-f",
-    "description_snippet": "Headquarters: Paris, Île-de-France, FR Détail du posteLa sociétéLeur mission :rendre l'accès aux soins cardiaques de haut niveauaccessible à tous, n'importe où, n'importe quand.Pour concrétiser cette vision, ils tirent parti des technologies d'apprentissage automatique (IA) et de cloud computing. Le",
-    "posted_at": "Wed, 04 Mar 2026 16:43:53 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
-  },
-  {
-    "source_type": "weworkremotely",
-    "company": "Octopus It",
-    "title": "DevOps - Start-Up Spécialisée en Deep Learning - Fullremote H/F",
-    "location": "Remote",
-    "team": "",
-    "categories": [],
-    "url": "https://weworkremotely.com/remote-jobs/octopus-it-devops-start-up-specialisee-en-deep-learning-fullremote-h-f",
-    "external_id": "wwr::https://weworkremotely.com/remote-jobs/octopus-it-devops-start-up-specialisee-en-deep-learning-fullremote-h-f",
-    "description_snippet": "Headquarters: Paris, Île-de-France, FR Détail du posteLa sociétéCréée en 2018 cette start-up a construit une plateforme basée sur du deep learningafin defournir des services de prédiction pour l'agriculture à grande échelle.Les clients utilisent leur smartphone pour diagnostiquer leur production en ",
-    "posted_at": "Wed, 04 Mar 2026 16:43:53 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
+    "collected_at_utc": "2026-04-04 12:53:47"
   },
   {
     "source_type": "greenhouse",
@@ -1620,19 +1469,6 @@
     "location": "",
     "team": "",
     "categories": [],
-    "url": "https://www.okta.com/company/careers/opportunity/7774364?gh_jid=7774364",
-    "external_id": "greenhouse::7774364",
-    "description_snippet": "",
-    "posted_at": "2026-04-01T22:35:11-04:00",
-    "collected_at_utc": "2026-04-02 13:11:40"
-  },
-  {
-    "source_type": "greenhouse",
-    "company": "okta",
-    "title": "Senior Database Reliability Engineer (DBRE) ; postgreSQL",
-    "location": "",
-    "team": "",
-    "categories": [],
     "url": "https://www.okta.com/company/careers/opportunity/7437974?gh_jid=7437974",
     "external_id": "greenhouse::7437974",
     "description_snippet": "",
@@ -1664,6 +1500,19 @@
     "description_snippet": "",
     "posted_at": "2026-04-01T22:33:09-04:00",
     "collected_at_utc": "2026-04-03 13:01:38"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "okta",
+    "title": "Senior Database Reliability Engineer (DBRE) ; postgreSQL",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://www.okta.com/company/careers/opportunity/7774364?gh_jid=7774364",
+    "external_id": "greenhouse::7774364",
+    "description_snippet": "",
+    "posted_at": "2026-04-01T22:35:11-04:00",
+    "collected_at_utc": "2026-04-04 12:53:47"
   },
   {
     "source_type": "greenhouse",
@@ -1770,6 +1619,21 @@
     "collected_at_utc": "2026-04-03 13:01:38"
   },
   {
+    "source_type": "arbeitnow",
+    "company": "Paymentology",
+    "title": "Cloud Engineer",
+    "location": "Remote",
+    "team": "Remote",
+    "categories": [
+      "Remote"
+    ],
+    "url": "https://www.arbeitnow.com/jobs/companies/paymentology/remote-cloud-engineer-berlin-157811",
+    "external_id": "arbeitnow::remote-cloud-engineer-berlin-157811",
+    "description_snippet": "At Paymentology , we’re redefining what’s possible in the payments space. As the first truly global issuer-processor, we give banks and fintechs the technology and talent to launch and manage Mastercard and Visa cards at scale – across more than 60 countries. Our advanced, multi-cloud platform deliv",
+    "posted_at": "1775281331",
+    "collected_at_utc": "2026-04-04 12:53:47"
+  },
+  {
     "source_type": "lever",
     "company": "plaid",
     "title": "Senior Software Engineer - Data Infrastructure",
@@ -1845,21 +1709,6 @@
     "collected_at_utc": "2026-04-03 13:01:38"
   },
   {
-    "source_type": "arbeitnow",
-    "company": "Rahantech GmbH",
-    "title": "Cloud Engineer / DevOps Specialist (m/f/d)",
-    "location": "Frankfurt am Main",
-    "team": "Software Development",
-    "categories": [
-      "Software Development"
-    ],
-    "url": "https://www.arbeitnow.com/jobs/companies/rahantech-gmbh/cloud-engineer-devops-specialist-frankfurt-am-main-349233",
-    "external_id": "arbeitnow::cloud-engineer-devops-specialist-frankfurt-am-main-349233",
-    "description_snippet": "Tasks Assist in designing, deploying, and managing cloud solutions on AWS, Azure, and Google Cloud. Learn to build and maintain Continuous Integration/Continuous Deployment pipelines for efficient software releases. Help automate cloud processes using tools like Terraform, Ansible, and Docker. Suppo",
-    "posted_at": "1775124025",
-    "collected_at_utc": "2026-04-02 13:11:40"
-  },
-  {
     "source_type": "weworkremotely",
     "company": "Remotestar",
     "title": "DevOps & QA Automation Engineer (Remote)",
@@ -1870,20 +1719,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/remotestar-devops-qa-automation-engineer-remote",
     "description_snippet": "Headquarters: Cambourne, United Kingdom Of Great Britain And Northern Ireland About the Role:&nbsp;We are looking for a DevOps &amp; QA Automation Engineer to join our team during a pivotal architectural transformation. You will be directly responsible for building and maintaining robust CI/CD pipel",
     "posted_at": "Thu, 05 Mar 2026 16:45:21 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
-  },
-  {
-    "source_type": "weworkremotely",
-    "company": "Rheactive",
-    "title": "DevOps Senior - Expertise Cloud et Kubernetes H/F",
-    "location": "Remote",
-    "team": "",
-    "categories": [],
-    "url": "https://weworkremotely.com/remote-jobs/rheactive-devops-senior-expertise-cloud-et-kubernetes-h-f",
-    "external_id": "wwr::https://weworkremotely.com/remote-jobs/rheactive-devops-senior-expertise-cloud-et-kubernetes-h-f",
-    "description_snippet": "Headquarters: Toulouse, Occitanie, FR Les missions du posteJe suis consultante en recrutement au sein du cabinet RHéactive. Je vous accompagne dans la concrétisation de vos projets professionnels en vous proposant des opportunités sur mesure, en adéquation avec votre profil et vos attentes.Contexte ",
-    "posted_at": "Wed, 04 Mar 2026 16:43:53 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
+    "collected_at_utc": "2026-04-04 12:53:47"
   },
   {
     "source_type": "greenhouse",
@@ -1948,7 +1784,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/selector-software-devops-sre",
     "description_snippet": "Headquarters: Selector is building an operational intelligence platform for digital infrastructure. By adopting an AI/ML based analytics approach, the platform provides actionable multi-dimensional insights to network, cloud and application operators. It enables operations teams to meet their KPIs t",
     "posted_at": "Fri, 06 Mar 2026 16:01:33 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
+    "collected_at_utc": "2026-04-04 12:53:47"
   },
   {
     "source_type": "remoteok",
@@ -1971,7 +1807,7 @@
     "external_id": "remoteok::1130943",
     "description_snippet": "About Us &nbsp; SharkNinja&nbsp;is a global product design and technology company, with a diversified portfolio of 5-star rated lifestyle solutions that positively&nbsp;impact&nbsp;peopleâs lives in homes around the world. Powered by two trusted, global brands, Shark and Ninja , the company has a ",
     "posted_at": "2026-03-31T16:00:24+00:00",
-    "collected_at_utc": "2026-04-02 13:11:40"
+    "collected_at_utc": "2026-04-04 12:53:47"
   },
   {
     "source_type": "weworkremotely",
@@ -1984,33 +1820,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/stakefish-f2pool-devops-engineer",
     "description_snippet": "Headquarters: Singapore As our DevOps Engineer, you will be helping us build and maintain blockchain networks and protocols. You will work on improving our current infrastructure including security, automation, and monitoring among other things. You will also have the chance to dive deep into new bl",
     "posted_at": "Thu, 19 Mar 2026 20:31:34 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
-  },
-  {
-    "source_type": "weworkremotely",
-    "company": "Stormshield",
-    "title": "Ingénieur DevOps - Sre H/F",
-    "location": "Remote",
-    "team": "",
-    "categories": [],
-    "url": "https://weworkremotely.com/remote-jobs/stormshield-ingenieur-devops-sre-h-f",
-    "external_id": "wwr::https://weworkremotely.com/remote-jobs/stormshield-ingenieur-devops-sre-h-f",
-    "description_snippet": "Headquarters: Lyon, Auvergne-Rhône-Alpes, FR Les missions du postePourquoi choisir Stormshield ?- Vous voulez exercer un métier au coeur des actualités du moment, dans un marché porteur ;- Vous souhaitez intégrer un acteur européen, aux ambitions internationales ;- Vous êtes désireux d'apporter votr",
-    "posted_at": "Wed, 04 Mar 2026 16:43:52 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
-  },
-  {
-    "source_type": "weworkremotely",
-    "company": "Syrve",
-    "title": "Linux Administrator (DevOps team)",
-    "location": "Remote",
-    "team": "",
-    "categories": [],
-    "url": "https://weworkremotely.com/remote-jobs/syrve-linux-administrator-devops-team",
-    "external_id": "wwr::https://weworkremotely.com/remote-jobs/syrve-linux-administrator-devops-team",
-    "description_snippet": "Headquarters: Yerevan, ER Welcome to Syrve, a leading provider of comprehensive software solutions for cash registers and restaurant management. With a strong foothold in the international market, we are proud to serve over 9000 customers worldwide and counting.Role DescriptionWe are seeking a skill",
-    "posted_at": "Wed, 04 Mar 2026 16:43:54 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
+    "collected_at_utc": "2026-04-04 12:53:47"
   },
   {
     "source_type": "weworkremotely",
@@ -2023,7 +1833,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/se-parte-de-nuestro-equipo-se-vos-python-backend-devops-full-remoto",
     "description_snippet": "Headquarters: Remoto Acelera tu carrera en Interinnova. ¡Aplica ahora y te contactaremos!Requisitos- Graduado/a o estudiante avanzado/a de carreras de Sistemas, Ingenierías o afines.- Experiencia mínima de 4 años en roles similares dentro de IT.- Contar&nbsp;con skills DevOps&nbsp;&nbsp;- Residir en",
     "posted_at": "Thu, 05 Mar 2026 16:04:39 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
+    "collected_at_utc": "2026-04-04 12:53:47"
   },
   {
     "source_type": "weworkremotely",
@@ -2036,7 +1846,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/tasq-staffing-solutions-senior-azure-devops-engineer-remote-midshift",
     "description_snippet": "Headquarters: Makati Metro Manila Philippines Position: Lead Azure DevOps Engineer | RemoteSchedule: Midshift (5 p.m. to 2 a.m.) Job Highlights:Our primary focus is on Azure technology, offering numerous exciting opportunities to develop your skills within the Microsoft and Azure ecosystems. Working",
     "posted_at": "Sun, 08 Mar 2026 20:45:58 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
+    "collected_at_utc": "2026-04-04 12:53:47"
   },
   {
     "source_type": "weworkremotely",
@@ -2049,7 +1859,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/tether-operations-limited-lead-devops-engineer-100-remote-3",
     "description_snippet": "Headquarters: London, ENG, United Kingdom Job descriptionJoin Tether and Shape the Future of Digital FinanceAt Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ",
     "posted_at": "Fri, 06 Mar 2026 16:05:20 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
+    "collected_at_utc": "2026-04-04 12:53:47"
   },
   {
     "source_type": "weworkremotely",
@@ -2062,7 +1872,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/tether-operations-limited-lead-devops-engineer-100-remote-2",
     "description_snippet": "Headquarters: Belgrade, 00, Serbia Job descriptionJoin Tether and Shape the Future of Digital FinanceAt Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to",
     "posted_at": "Fri, 06 Mar 2026 16:05:12 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
+    "collected_at_utc": "2026-04-04 12:53:47"
   },
   {
     "source_type": "weworkremotely",
@@ -2075,7 +1885,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/tether-operations-limited-lead-devops-engineer-100-remote-1",
     "description_snippet": "Headquarters: Buenos Aires, B, Argentina Job descriptionJoin Tether and Shape the Future of Digital FinanceAt Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and A",
     "posted_at": "Fri, 06 Mar 2026 16:05:08 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
+    "collected_at_utc": "2026-04-04 12:53:47"
   },
   {
     "source_type": "weworkremotely",
@@ -2088,7 +1898,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/tether-operations-limited-lead-devops-engineer-100-remote",
     "description_snippet": "Headquarters: Medellin, ANT, Colombia Job descriptionJoin Tether and Shape the Future of Digital FinanceAt Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs",
     "posted_at": "Fri, 06 Mar 2026 16:05:01 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
+    "collected_at_utc": "2026-04-04 12:53:47"
   },
   {
     "source_type": "weworkremotely",
@@ -2101,7 +1911,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/thaloz-he-sr-devops-go-developer-171",
     "description_snippet": "Headquarters: Brazil We are seeking a highly skilled and motivated Senior DevOps Go Developer to join our Platform Engineering team. This pivotal role focuses on architecting, developing, and refining Go-based Kubernetes controllers and operators to advance our internal GitOps-driven Kubernetes host",
     "posted_at": "Sun, 08 Mar 2026 20:46:01 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
+    "collected_at_utc": "2026-04-04 12:53:47"
   },
   {
     "source_type": "weworkremotely",
@@ -2114,33 +1924,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/thoughtworks_new-consultant-infrastructure-developer-devops",
     "description_snippet": "Headquarters: Manchester, United Kingdom Infrastructure Developers take a multifaceted approach to helping clients achieve technical excellence by assessing challenges from both a technical and operational perspective. As consummate ‘bringers of knowledge,' they take extra care to ensure their team ",
     "posted_at": "Thu, 05 Mar 2026 16:45:21 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
-  },
-  {
-    "source_type": "weworkremotely",
-    "company": "Trafilea",
-    "title": "Cloud Engineer (DevOps)",
-    "location": "Remote",
-    "team": "",
-    "categories": [],
-    "url": "https://weworkremotely.com/remote-jobs/trafilea-cloud-engineer-devops",
-    "external_id": "wwr::https://weworkremotely.com/remote-jobs/trafilea-cloud-engineer-devops",
-    "description_snippet": "Headquarters: Montevideo, Montevideo, Uruguay About Trafilea Trafilea is a dynamic and innovative Tech E-commerce Group that operates multiple direct-to-consumer brands in the intimate apparel and beauty sectors, with a focus on using data-driven strategies to scale their businesses. In addition to ",
-    "posted_at": "Wed, 04 Mar 2026 16:43:54 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
-  },
-  {
-    "source_type": "weworkremotely",
-    "company": "Truelogic",
-    "title": "DevOps Engineer - Open Application",
-    "location": "Remote",
-    "team": "",
-    "categories": [],
-    "url": "https://weworkremotely.com/remote-jobs/truelogic-devops-engineer-open-application",
-    "external_id": "wwr::https://weworkremotely.com/remote-jobs/truelogic-devops-engineer-open-application",
-    "description_snippet": "Headquarters: About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achi",
-    "posted_at": "Wed, 04 Mar 2026 16:43:51 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
+    "collected_at_utc": "2026-04-04 12:53:47"
   },
   {
     "source_type": "greenhouse",
@@ -2166,7 +1950,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/vexxhost-ingenieur-e-de-openstack-cloud-devops",
     "description_snippet": "Headquarters: Version FrançaiseNous recherchons une forte expérience en technologies Linux et cloud. Dans ce rôle, vous soutiendrez non seulement nos clients utilisant Atmosphere, notre produit cloud open-source, mais vous fournirez également un soutien essentiel à notre équipe interne de CloudOps q",
     "posted_at": "Thu, 05 Mar 2026 16:45:17 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
+    "collected_at_utc": "2026-04-04 12:53:47"
   },
   {
     "source_type": "weworkremotely",
@@ -2179,6 +1963,6 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/workidentity-java-devops-developer-gn",
     "description_snippet": "Headquarters: Remote,München Einleitung Wir suchen nach einem erfahrenden DevOps Engineer/Developer mit umfangreicher Java-Expertise. Wenn Sie Ihre Fähigkeiten in einem hochinnovativen Umfeld einsetzen möchten und denken, dass Sie die Zukunft der IT mitgestalten können, sollten Sie sich bewerben! De",
     "posted_at": "Thu, 05 Mar 2026 16:45:15 +0000",
-    "collected_at_utc": "2026-04-02 13:11:40"
+    "collected_at_utc": "2026-04-04 12:53:47"
   }
 ]

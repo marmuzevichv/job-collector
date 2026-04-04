@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-04-03 13:04 UTC
+Generated: 2026-04-04 12:54 UTC
 
-Total new jobs: 162
+Total new jobs: 146
 
 ## arbeitnow
 
@@ -11,34 +11,19 @@ Total new jobs: 162
   - Location: Remote
   - Level/Team: Remote, System and Network Administration
 
-- [AI Automation Engineer (m/w/d) - Vollzeit - (Remote)](https://www.arbeitnow.com/jobs/companies/convact/ai-automation-engineer-vollzeit-remote-sinsheim-264847)
-  - Company: Convact
-  - Location: Remote
-  - Level/Team: Remote, IT
-
-- [DevOps Engineer (m/w/d)](https://www.arbeitnow.com/jobs/companies/dualis-gmbh-it-solution/devops-engineer-dresden-474153)
-  - Company: DUALIS GMBH IT Solution
-  - Location: Dresden
-  - Level/Team: Software Development
-
-- [Senior DevOps / Platform Engineer (f/m/x)](https://www.arbeitnow.com/jobs/companies/maia/senior-devops-platform-engineer-leipzig-147320)
-  - Company: MAIA
-  - Location: Remote
-  - Level/Team: Remote, IT
-
 - [DevSecOps / IT Security Specialist (m/w/d)](https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/devsecops-it-security-specialist-augsburg-229497)
   - Company: MY Humancapital GmbH
   - Location: Augsburg
   - Level/Team: System and Network Administration
 
+- [Cloud Engineer](https://www.arbeitnow.com/jobs/companies/paymentology/remote-cloud-engineer-berlin-157811)
+  - Company: Paymentology
+  - Location: Remote
+  - Level/Team: Remote
+
 - [Cloud & Network Automation Engineer (m/w/d) (inhouse/ 80% remote)](https://www.arbeitnow.com/jobs/companies/polarstern-experts/cloud-network-automation-engineer-inhouse-80-remote-cologne-462874)
   - Company: Polarstern Experts
   - Location: Cologne
-  - Level/Team: Software Development
-
-- [Cloud Engineer / DevOps Specialist (m/f/d)](https://www.arbeitnow.com/jobs/companies/rahantech-gmbh/cloud-engineer-devops-specialist-frankfurt-am-main-349233)
-  - Company: Rahantech GmbH
-  - Location: Frankfurt am Main
   - Level/Team: Software Development
 
 ## greenhouse
@@ -111,15 +96,11 @@ Total new jobs: 162
   - Company: clickhouse
   - Location: Remote
 
-- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843425004)
-  - Company: clickhouse
-  - Location: Remote
-
-- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843421004)
-  - Company: clickhouse
-  - Location: Remote
-
 - [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843422004)
+  - Company: clickhouse
+  - Location: Remote
+
+- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843423004)
   - Company: clickhouse
   - Location: Remote
 
@@ -127,7 +108,11 @@ Total new jobs: 162
   - Company: clickhouse
   - Location: Remote
 
-- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843423004)
+- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843425004)
+  - Company: clickhouse
+  - Location: Remote
+
+- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843421004)
   - Company: clickhouse
   - Location: Remote
 
@@ -255,6 +240,10 @@ Total new jobs: 162
   - Company: gitlab
   - Location: Remote
 
+- [Salesforce Admin/Release Engineer, CRM Systems](https://job-boards.greenhouse.io/gitlab/jobs/8398256002)
+  - Company: gitlab
+  - Location: Remote
+
 - [Cloud Infrastructure Engineer (Kineto)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4777558101)
   - Company: jetbrains
   - Location: Remote
@@ -327,10 +316,6 @@ Total new jobs: 162
   - Company: okta
   - Location: Remote
 
-- [Senior Database Reliability Engineer (DBRE) ; postgreSQL](https://www.okta.com/company/careers/opportunity/7774364?gh_jid=7774364)
-  - Company: okta
-  - Location: Remote
-
 - [Senior Database Reliability Engineer (DBRE) ; postgreSQL](https://www.okta.com/company/careers/opportunity/7437974?gh_jid=7437974)
   - Company: okta
   - Location: Remote
@@ -340,6 +325,10 @@ Total new jobs: 162
   - Location: Remote
 
 - [Senior Database Reliability Engineer (DBRE) ; postgreSQL](https://www.okta.com/company/careers/opportunity/7436028?gh_jid=7436028)
+  - Company: okta
+  - Location: Remote
+
+- [Senior Database Reliability Engineer (DBRE) ; postgreSQL](https://www.okta.com/company/careers/opportunity/7774364?gh_jid=7774364)
   - Company: okta
   - Location: Remote
 
@@ -477,24 +466,12 @@ Total new jobs: 162
 
 ## weworkremotely
 
-- [Middle DevOps Engineer](https://weworkremotely.com/remote-jobs/aida-recruitment-middle-devops-engineer)
-  - Company: Aida Recruitment
-  - Location: Remote
-
 - [TeamLead DevOps](https://weworkremotely.com/remote-jobs/akinox-solutions-teamlead-devops)
   - Company: Akinox Solutions
   - Location: Remote
 
 - [Formateur IT Indépendant  Cybersécurité,IA, DevOps, Réseaux ...](https://weworkremotely.com/remote-jobs/alphorm-formateur-it-independant-cybersecurite-ia-devops-reseaux)
   - Company: Alphorm
-  - Location: Remote
-
-- [Ingénieur DevOps H/F](https://weworkremotely.com/remote-jobs/amaris-consulting-ingenieur-devops-h-f)
-  - Company: Amaris Consulting
-  - Location: Remote
-
-- [Lead DevOps H/F](https://weworkremotely.com/remote-jobs/aquisit-lead-devops-h-f)
-  - Company: Aquisit
   - Location: Remote
 
 - [Senior Cloud Consultant - DevOps (f/m/d) - 4-Days-Week (EN)](https://weworkremotely.com/remote-jobs/auvaria-senior-cloud-consultant-devops-f-m-d-4-days-week-en)
@@ -525,10 +502,6 @@ Total new jobs: 162
   - Company: Confidential
   - Location: Remote
 
-- [Senior DevOps Engineer (with Go/Python Development Experience)](https://weworkremotely.com/remote-jobs/corva-senior-devops-engineer-with-go-python-development-experience)
-  - Company: Corva
-  - Location: Remote
-
 - [M0 Labs - DevOps - Engineer](https://weworkremotely.com/remote-jobs/decircle-m0-labs-devops-engineer)
   - Company: Decircle
   - Location: Remote
@@ -547,10 +520,6 @@ Total new jobs: 162
 
 - [Junior Java Developer / DevOps Engineer (Remote/Thessaloniki)](https://weworkremotely.com/remote-jobs/european-dynamics-junior-java-developer-devops-engineer-remote-thessaloniki)
   - Company: European Dynamics
-  - Location: Remote
-
-- [Ingénieur DevOps Cloud Confirmé (H/F)](https://weworkremotely.com/remote-jobs/eviden-ingenieur-devops-cloud-confirme-h-f)
-  - Company: Eviden
   - Location: Remote
 
 - [ed3b ANALISTA DEVOPS III](https://weworkremotely.com/remote-jobs/extreme-digital-solutions-ed3b-analista-devops-iii)
@@ -581,10 +550,6 @@ Total new jobs: 162
   - Company: Matera
   - Location: Remote
 
-- [Ingénieur·e DevOps H/F](https://weworkremotely.com/remote-jobs/max-digital-services-ingenieur-e-devops-h-f)
-  - Company: MAX Digital Services
-  - Location: Remote
-
 - [Cloud Engineer (Ruby/DevOps)  100% remote](https://weworkremotely.com/remote-jobs/newsmatics-cloud-engineer-ruby-devops-100-remote)
   - Company: Newsmatics
   - Location: Remote
@@ -601,24 +566,8 @@ Total new jobs: 162
   - Company: Octo Technology
   - Location: Remote
 
-- [DevOps - Réseau Social à Fort Trafic - Full Remote H/F](https://weworkremotely.com/remote-jobs/octopus-it-devops-reseau-social-a-fort-trafic-full-remote-h-f)
-  - Company: Octopus It
-  - Location: Remote
-
-- [DevOps - Start Up - Healthtech - Full Remote Possible H/F](https://weworkremotely.com/remote-jobs/octopus-it-devops-start-up-healthtech-full-remote-possible-h-f)
-  - Company: Octopus It
-  - Location: Remote
-
-- [DevOps - Start-Up Spécialisée en Deep Learning - Fullremote H/F](https://weworkremotely.com/remote-jobs/octopus-it-devops-start-up-specialisee-en-deep-learning-fullremote-h-f)
-  - Company: Octopus It
-  - Location: Remote
-
 - [DevOps & QA Automation Engineer (Remote)](https://weworkremotely.com/remote-jobs/remotestar-devops-qa-automation-engineer-remote)
   - Company: Remotestar
-  - Location: Remote
-
-- [DevOps Senior - Expertise Cloud et Kubernetes H/F](https://weworkremotely.com/remote-jobs/rheactive-devops-senior-expertise-cloud-et-kubernetes-h-f)
-  - Company: Rheactive
   - Location: Remote
 
 - [DevOps/SRE](https://weworkremotely.com/remote-jobs/selector-software-devops-sre)
@@ -627,14 +576,6 @@ Total new jobs: 162
 
 - [(f2pool) DevOps Engineer](https://weworkremotely.com/remote-jobs/stakefish-f2pool-devops-engineer)
   - Company: Stakefish
-  - Location: Remote
-
-- [Ingénieur DevOps - Sre H/F](https://weworkremotely.com/remote-jobs/stormshield-ingenieur-devops-sre-h-f)
-  - Company: Stormshield
-  - Location: Remote
-
-- [Linux Administrator (DevOps team)](https://weworkremotely.com/remote-jobs/syrve-linux-administrator-devops-team)
-  - Company: Syrve
   - Location: Remote
 
 - [Python Backend & DevOps  (Full-Remoto)](https://weworkremotely.com/remote-jobs/se-parte-de-nuestro-equipo-se-vos-python-backend-devops-full-remoto)
@@ -667,14 +608,6 @@ Total new jobs: 162
 
 - [Consultant Infrastructure Developer (DevOps)](https://weworkremotely.com/remote-jobs/thoughtworks_new-consultant-infrastructure-developer-devops)
   - Company: Thoughtworks_new
-  - Location: Remote
-
-- [Cloud Engineer (DevOps)](https://weworkremotely.com/remote-jobs/trafilea-cloud-engineer-devops)
-  - Company: Trafilea
-  - Location: Remote
-
-- [DevOps Engineer - Open Application](https://weworkremotely.com/remote-jobs/truelogic-devops-engineer-open-application)
-  - Company: Truelogic
   - Location: Remote
 
 - [Ingénieur(e) de OpenStack Cloud (DevOps)](https://weworkremotely.com/remote-jobs/vexxhost-ingenieur-e-de-openstack-cloud-devops)
