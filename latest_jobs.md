@@ -1,15 +1,10 @@
 # New jobs
 
-Generated: 2026-04-05 12:59 UTC
+Generated: 2026-04-06 13:11 UTC
 
-Total new jobs: 131
+Total new jobs: 122
 
 ## arbeitnow
-
-- [DevSecOps / IT Security Specialist (m/w/d)](https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/devsecops-it-security-specialist-augsburg-229497)
-  - Company: MY Humancapital GmbH
-  - Location: Augsburg
-  - Level/Team: System and Network Administration
 
 - [Cloud Engineer](https://www.arbeitnow.com/jobs/companies/paymentology/remote-cloud-engineer-berlin-157811)
   - Company: Paymentology
@@ -67,10 +62,6 @@ Total new jobs: 131
   - Location: Remote
 
 - [Site Reliability Engineer](https://job-boards.greenhouse.io/canonical/jobs/4468036)
-  - Company: canonical
-  - Location: Remote
-
-- [Telco Cloud Engineer (5G, OpenRan, OpenStack, Python) - Americas and EMEA](https://job-boards.greenhouse.io/canonical/jobs/3748266)
   - Company: canonical
   - Location: Remote
 
@@ -270,11 +261,11 @@ Total new jobs: 131
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Observability](https://www.mongodb.com/careers/job/?gh_jid=7192648)
+- [Site Reliability Engineer (Senior or Staff), Observability](https://www.mongodb.com/careers/job/?gh_jid=6711349)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Observability](https://www.mongodb.com/careers/job/?gh_jid=6711349)
+- [Site Reliability Engineer (Senior or Staff), Observability](https://www.mongodb.com/careers/job/?gh_jid=7192648)
   - Company: mongodb
   - Location: Remote
 
@@ -282,11 +273,11 @@ Total new jobs: 131
   - Company: mongodb
   - Location: Remote
 
-- [Team Lead, Site Reliability Engineering - Storage Layer Service](https://www.mongodb.com/careers/job/?gh_jid=7743306)
+- [Team Lead, Site Reliability Engineering - Storage Layer Service](https://www.mongodb.com/careers/job/?gh_jid=7743304)
   - Company: mongodb
   - Location: Remote
 
-- [Team Lead, Site Reliability Engineering - Storage Layer Service](https://www.mongodb.com/careers/job/?gh_jid=7743304)
+- [Team Lead, Site Reliability Engineering - Storage Layer Service](https://www.mongodb.com/careers/job/?gh_jid=7743306)
   - Company: mongodb
   - Location: Remote
 
@@ -306,19 +297,19 @@ Total new jobs: 131
   - Company: okta
   - Location: Remote
 
-- [Senior Database Reliability Engineer (DBRE) ; postgreSQL](https://www.okta.com/company/careers/opportunity/7437947?gh_jid=7437947)
-  - Company: okta
-  - Location: Remote
-
 - [Senior Database Reliability Engineer (DBRE) ; postgreSQL](https://www.okta.com/company/careers/opportunity/7436028?gh_jid=7436028)
   - Company: okta
   - Location: Remote
 
-- [Senior Database Reliability Engineer (DBRE) ; postgreSQL](https://www.okta.com/company/careers/opportunity/7774364?gh_jid=7774364)
+- [Senior Database Reliability Engineer (DBRE) ; postgreSQL](https://www.okta.com/company/careers/opportunity/7437974?gh_jid=7437974)
   - Company: okta
   - Location: Remote
 
-- [Senior Database Reliability Engineer (DBRE) ; postgreSQL](https://www.okta.com/company/careers/opportunity/7437974?gh_jid=7437974)
+- [Senior Database Reliability Engineer (DBRE) ; postgreSQL](https://www.okta.com/company/careers/opportunity/7437947?gh_jid=7437947)
+  - Company: okta
+  - Location: Remote
+
+- [Senior Database Reliability Engineer (DBRE) ; postgreSQL](https://www.okta.com/company/careers/opportunity/7774364?gh_jid=7774364)
   - Company: okta
   - Location: Remote
 
@@ -483,10 +474,6 @@ Total new jobs: 131
   - Company: Extreme Digital Solutions
   - Location: Remote
 
-- [DevOps Team Leader](https://weworkremotely.com/remote-jobs/fetcherr-devops-team-leader)
-  - Company: Fetcherr
-  - Location: Remote
-
 - [Analista de Sustentação N1 - Dados (Azure & DevOps) - Pleno - 26181](https://weworkremotely.com/remote-jobs/grupo-taking-analista-de-sustentacao-n1-dados-azure-devops-pleno-26181)
   - Company: Grupo Taking
   - Location: Remote
@@ -519,36 +506,12 @@ Total new jobs: 131
   - Company: Oben Technology
   - Location: Remote
 
-- [Stage - DevOps - F/H/N](https://weworkremotely.com/remote-jobs/octo-technology-stage-devops-f-h-n)
-  - Company: Octo Technology
-  - Location: Remote
-
-- [DevOps/SRE](https://weworkremotely.com/remote-jobs/selector-software-devops-sre)
-  - Company: Selector Software
-  - Location: Remote
-
 - [(f2pool) DevOps Engineer](https://weworkremotely.com/remote-jobs/stakefish-f2pool-devops-engineer)
   - Company: Stakefish
   - Location: Remote
 
 - [Senior Azure DevOps Engineer - Remote, Midshift](https://weworkremotely.com/remote-jobs/tasq-staffing-solutions-senior-azure-devops-engineer-remote-midshift)
   - Company: Tasq Staffing Solutions
-  - Location: Remote
-
-- [Lead DevOps Engineer (100% Remote)](https://weworkremotely.com/remote-jobs/tether-operations-limited-lead-devops-engineer-100-remote-3)
-  - Company: Tether Operations Limited
-  - Location: Remote
-
-- [Lead DevOps Engineer (100% Remote)](https://weworkremotely.com/remote-jobs/tether-operations-limited-lead-devops-engineer-100-remote-2)
-  - Company: Tether Operations Limited
-  - Location: Remote
-
-- [Lead DevOps Engineer (100% Remote)](https://weworkremotely.com/remote-jobs/tether-operations-limited-lead-devops-engineer-100-remote-1)
-  - Company: Tether Operations Limited
-  - Location: Remote
-
-- [Lead DevOps Engineer (100% Remote)](https://weworkremotely.com/remote-jobs/tether-operations-limited-lead-devops-engineer-100-remote)
-  - Company: Tether Operations Limited
   - Location: Remote
 
 - [HE - Sr. DevOps Go Developer - 171](https://weworkremotely.com/remote-jobs/thaloz-he-sr-devops-go-developer-171)
