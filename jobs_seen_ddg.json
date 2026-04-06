@@ -1,1508 +1,1478 @@
 {
+  "ddg::https://job-boards.greenhouse.io/defcon/jobs/5091753007": {
+    "company": "defcon",
+    "title": "Job Application for Cloud Infrastructure Engineer at DEFCON AI",
+    "url": "https://job-boards.greenhouse.io/defcon/jobs/5091753007",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
   "ddg::https://job-boards.greenhouse.io/altium?error=true": {
     "company": "altium?error=true",
     "title": "Jobs at Altium",
     "url": "https://job-boards.greenhouse.io/altium?error=true",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://job-boards.greenhouse.io/altium": {
     "company": "altium",
     "title": "Jobs at Altium",
     "url": "https://job-boards.greenhouse.io/altium",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://job-boards.greenhouse.io/twosixtechnologies?error=true": {
-    "company": "twosixtechnologies?error=true",
-    "title": "Jobs at Two Six Technologies",
-    "url": "https://job-boards.greenhouse.io/twosixtechnologies?error=true",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://job-boards.greenhouse.io/figment": {
+    "company": "figment",
+    "title": "Jobs at Figment",
+    "url": "https://job-boards.greenhouse.io/figment",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://job-boards.greenhouse.io/vonage": {
-    "company": "vonage",
-    "title": "Jobs at Vonage",
-    "url": "https://job-boards.greenhouse.io/vonage",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://job-boards.greenhouse.io/launchpadtechnologiesinc?error=true": {
+    "company": "launchpadtechnologiesinc?error=true",
+    "title": "Jobs at Launchpad Technologies",
+    "url": "https://job-boards.greenhouse.io/launchpadtechnologiesinc?error=true",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://job-boards.greenhouse.io/captivation?error=true": {
-    "company": "captivation?error=true",
-    "title": "Jobs at Captivation Software",
-    "url": "https://job-boards.greenhouse.io/captivation?error=true",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://job-boards.greenhouse.io/hyphenconnect?error=true": {
+    "company": "hyphenconnect?error=true",
+    "title": "Jobs at Hyphen Connect Limited",
+    "url": "https://job-boards.greenhouse.io/hyphenconnect?error=true",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://job-boards.greenhouse.io/merge/jobs/5461803004": {
-    "company": "merge",
-    "title": "Job Application for Sr./Staff,DevOpsEngineerat Merge API",
-    "url": "https://job-boards.greenhouse.io/merge/jobs/5461803004",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://job-boards.greenhouse.io/andurilindustries/jobs/5099219007": {
-    "company": "andurilindustries",
-    "title": "Job Application for Senior Firmware Engineer at Anduril Industries",
-    "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5099219007",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://job-boards.greenhouse.io/redcellpartners/jobs/5091685007": {
-    "company": "redcellpartners",
-    "title": "Job Application for IT Support Specialist at Red Cell Partners",
-    "url": "https://job-boards.greenhouse.io/redcellpartners/jobs/5091685007",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://job-boards.greenhouse.io/remotecom/jobs/7690140003": {
-    "company": "remotecom",
-    "title": "Job Application for Senior Backend Engineer (Elixir) at Remote",
-    "url": "https://job-boards.greenhouse.io/remotecom/jobs/7690140003",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://job-boards.greenhouse.io/blackduck?error=true": {
+    "company": "blackduck?error=true",
+    "title": "Jobs at Black Duck Software, Inc.",
+    "url": "https://job-boards.greenhouse.io/blackduck?error=true",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://job-boards.greenhouse.io/gitlab/jobs/8282465002": {
     "company": "gitlab",
     "title": "SeniorSiteReliabilityEngineer, Environment Automation",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8282465002",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://job-boards.greenhouse.io/xai?error=true": {
-    "company": "xai?error=true",
-    "title": "Jobs at xAI",
-    "url": "https://job-boards.greenhouse.io/xai?error=true",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://job-boards.greenhouse.io/geotab": {
     "company": "geotab",
     "title": "Jobs at Geotab",
     "url": "https://job-boards.greenhouse.io/geotab",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://job-boards.greenhouse.io/galaxydigitalservices": {
     "company": "galaxydigitalservices",
     "title": "Jobs at Galaxy",
     "url": "https://job-boards.greenhouse.io/galaxydigitalservices",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://job-boards.greenhouse.io/chowbus": {
     "company": "chowbus",
     "title": "Jobs at Chowbus",
     "url": "https://job-boards.greenhouse.io/chowbus",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://job-boards.greenhouse.io/veza": {
-    "company": "veza",
-    "title": "Jobs at Veza Technologies, Inc.",
-    "url": "https://job-boards.greenhouse.io/veza",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://job-boards.greenhouse.io/fireblocks": {
+    "company": "fireblocks",
+    "title": "Jobs at Fireblocks",
+    "url": "https://job-boards.greenhouse.io/fireblocks",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://job-boards.greenhouse.io/bottomlinetechnologies": {
+    "company": "bottomlinetechnologies",
+    "title": "Jobs at Bottomline",
+    "url": "https://job-boards.greenhouse.io/bottomlinetechnologies",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://job-boards.greenhouse.io/andurilindustries/jobs/5086631007?gh_jid=5086631007": {
+    "company": "andurilindustries",
+    "title": "Flight Software Platform Engineer, Embedded C/C++, Air Dominance ...",
+    "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5086631007?gh_jid=5086631007",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://job-boards.greenhouse.io/blackcanyonconsulting/jobs/5754387003": {
     "company": "blackcanyonconsulting",
     "title": "Job Application forPlatformEngineer(DataOps) at NIH-NCBI",
     "url": "https://job-boards.greenhouse.io/blackcanyonconsulting/jobs/5754387003",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://job-boards.greenhouse.io/vonage?error=true": {
-    "company": "vonage?error=true",
-    "title": "Jobs at Vonage",
-    "url": "https://job-boards.greenhouse.io/vonage?error=true",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://job-boards.greenhouse.io/jungroup": {
-    "company": "jungroup",
-    "title": "Jobs at Jun Group",
-    "url": "https://job-boards.greenhouse.io/jungroup",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://job-boards.greenhouse.io/aptoslabs": {
+    "company": "aptoslabs",
+    "title": "Jobs at Aptos",
+    "url": "https://job-boards.greenhouse.io/aptoslabs",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://job-boards.greenhouse.io/defenseunicorns?error=true": {
     "company": "defenseunicorns?error=true",
     "title": "Jobs at Defense Unicorns",
     "url": "https://job-boards.greenhouse.io/defenseunicorns?error=true",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://job-boards.greenhouse.io/khanacademy?error=true": {
-    "company": "khanacademy?error=true",
-    "title": "Jobs at Khan Academy",
-    "url": "https://job-boards.greenhouse.io/khanacademy?error=true",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://job-boards.greenhouse.io/blackcanyonconsulting": {
+    "company": "blackcanyonconsulting",
+    "title": "Jobs at NIH-NCBI",
+    "url": "https://job-boards.greenhouse.io/blackcanyonconsulting",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://job-boards.greenhouse.io/defcon/jobs/5091753007": {
-    "company": "defcon",
-    "title": "Job Application for Cloud Infrastructure Engineer at DEFCON AI",
-    "url": "https://job-boards.greenhouse.io/defcon/jobs/5091753007",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://job-boards.greenhouse.io/remotecom/jobs/7690150003": {
-    "company": "remotecom",
-    "title": "Job Application for Senior Backend Engineer at Remote",
-    "url": "https://job-boards.greenhouse.io/remotecom/jobs/7690150003",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://job-boards.greenhouse.io/cloudbedsthirdpartyboard/jobs/4681358005": {
-    "company": "cloudbedsthirdpartyboard",
-    "title": "Job Application for Senior Fullstack Engineer at Third-Party Job Posts",
-    "url": "https://job-boards.greenhouse.io/cloudbedsthirdpartyboard/jobs/4681358005",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://job-boards.greenhouse.io/anaplan/jobs/8493625002": {
-    "company": "anaplan",
-    "title": "Job Application for Senior GenAI Engineer at Anaplan",
-    "url": "https://job-boards.greenhouse.io/anaplan/jobs/8493625002",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://job-boards.greenhouse.io/spacex/jobs/8492762002?utm_source=Thrive+Capital+job+board": {
-    "company": "spacex",
-    "title": "Member of Technical Staff",
-    "url": "https://job-boards.greenhouse.io/spacex/jobs/8492762002?utm_source=Thrive+Capital+job+board",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://job-boards.greenhouse.io/splitero/jobs/5162723008": {
-    "company": "splitero",
-    "title": "Job Application for Applied AI Engineer at Splitero",
-    "url": "https://job-boards.greenhouse.io/splitero/jobs/5162723008",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://job-boards.greenhouse.io/anthropic/jobs/4778843008": {
-    "company": "anthropic",
-    "title": "Job Application for MLInfrastructureEngineer, Safeguards at Anthropic",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4778843008",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://job-boards.greenhouse.io/togetherai?error=true": {
-    "company": "togetherai?error=true",
-    "title": "Jobs at Together AI",
-    "url": "https://job-boards.greenhouse.io/togetherai?error=true",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://job-boards.greenhouse.io/anthropic?error=true": {
-    "company": "anthropic?error=true",
-    "title": "Jobs at Anthropic",
-    "url": "https://job-boards.greenhouse.io/anthropic?error=true",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://job-boards.greenhouse.io/cresta": {
-    "company": "cresta",
-    "title": "Jobs at Cresta",
-    "url": "https://job-boards.greenhouse.io/cresta",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://job-boards.greenhouse.io/togetherai": {
-    "company": "togetherai",
-    "title": "Jobs at Together AI",
-    "url": "https://job-boards.greenhouse.io/togetherai",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://job-boards.greenhouse.io/arcinstitute?error=true": {
-    "company": "arcinstitute?error=true",
-    "title": "Jobs at Arc Institute",
-    "url": "https://job-boards.greenhouse.io/arcinstitute?error=true",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://job-boards.greenhouse.io/gitlab/jobs/7787148002": {
-    "company": "gitlab",
-    "title": "Job Application for Public Sector SAE (UK based) at GitLab",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/7787148002",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://job-boards.greenhouse.io/gitlab/jobs/7927755002": {
-    "company": "gitlab",
-    "title": "Job Application for Product Designer, AI at GitLab",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/7927755002",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://job-boards.greenhouse.io/gitlab/jobs/7799965002": {
-    "company": "gitlab",
-    "title": "Job Application for Senior Product Designer, AI at GitLab",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/7799965002",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://job-boards.greenhouse.io/smartsheet?error=true": {
-    "company": "smartsheet?error=true",
-    "title": "page_title",
-    "url": "https://job-boards.greenhouse.io/smartsheet?error=true",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://job-boards.greenhouse.io/zscaler": {
-    "company": "zscaler",
-    "title": "Jobs at Zscaler",
-    "url": "https://job-boards.greenhouse.io/zscaler",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://job-boards.greenhouse.io/zscaler?error=true": {
-    "company": "zscaler?error=true",
-    "title": "Jobs at Zscaler",
-    "url": "https://job-boards.greenhouse.io/zscaler?error=true",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://job-boards.greenhouse.io/clickhouse": {
-    "company": "clickhouse",
-    "title": "Jobs at ClickHouse",
-    "url": "https://job-boards.greenhouse.io/clickhouse",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://job-boards.greenhouse.io/doitintl": {
-    "company": "doitintl",
-    "title": "Jobs at DoiT",
-    "url": "https://job-boards.greenhouse.io/doitintl",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://job-boards.greenhouse.io/doitintl?error=true": {
-    "company": "doitintl?error=true",
-    "title": "Jobs at DoiT",
-    "url": "https://job-boards.greenhouse.io/doitintl?error=true",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4679953005": {
-    "company": "razorpaysoftwareprivatelimited",
-    "title": "Lead Software Development Engineer",
-    "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4679953005",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://job-boards.greenhouse.io/spacex/jobs/8490574002?gh_jid=8490574002": {
-    "company": "spacex",
-    "title": "Equipment Maintenace Reliability Engineer (Starlink)",
-    "url": "https://job-boards.greenhouse.io/spacex/jobs/8490574002?gh_jid=8490574002",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://job-boards.greenhouse.io/pingidentity?error=true": {
-    "company": "pingidentity?error=true",
-    "title": "Jobs at Ping Identity",
-    "url": "https://job-boards.greenhouse.io/pingidentity?error=true",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://job-boards.greenhouse.io/gitlab": {
-    "company": "gitlab",
-    "title": "Jobs at GitLab",
-    "url": "https://job-boards.greenhouse.io/gitlab",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://job-boards.greenhouse.io/aptoslabs?error=true": {
+    "company": "aptoslabs?error=true",
+    "title": "Jobs at Aptos",
+    "url": "https://job-boards.greenhouse.io/aptoslabs?error=true",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://job-boards.greenhouse.io/clickhouse?error=true": {
     "company": "clickhouse?error=true",
     "title": "Jobs at ClickHouse",
     "url": "https://job-boards.greenhouse.io/clickhouse?error=true",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://job-boards.greenhouse.io/surveymonkey": {
-    "company": "surveymonkey",
-    "title": "Jobs at SurveyMonkey",
-    "url": "https://job-boards.greenhouse.io/surveymonkey",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://job-boards.greenhouse.io/sigmacomputing/jobs/7690403003": {
+    "company": "sigmacomputing",
+    "title": "Job Application for Senior Software Engineer",
+    "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7690403003",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://boards.greenhouse.io/skylighthq/jobs/4017411005?gh_jid=4017411005": {
-    "company": "skylighthq",
-    "title": "Job Application forDevOpsEngineerat Skylight",
-    "url": "https://boards.greenhouse.io/skylighthq/jobs/4017411005?gh_jid=4017411005",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://job-boards.greenhouse.io/redcellpartners/jobs/5091754007": {
+    "company": "redcellpartners",
+    "title": "Job Application for Cloud Infrastructure Engineer at Red Cell ...",
+    "url": "https://job-boards.greenhouse.io/redcellpartners/jobs/5091754007",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://job-boards.greenhouse.io/sigmacomputing/jobs/7690394003": {
+    "company": "sigmacomputing",
+    "title": "Job Application for Senior Software Engineer",
+    "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7690394003",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://job-boards.greenhouse.io/capitalontap/jobs/8483044002": {
+    "company": "capitalontap",
+    "title": "Engineering Team Lead – Cloud & Platform",
+    "url": "https://job-boards.greenhouse.io/capitalontap/jobs/8483044002",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://job-boards.greenhouse.io/armada/jobs/5173525008": {
+    "company": "armada",
+    "title": "Job Application for AI Factory Customer Engineer at Armada",
+    "url": "https://job-boards.greenhouse.io/armada/jobs/5173525008",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://job-boards.greenhouse.io/sigmacomputing/jobs/7690409003": {
+    "company": "sigmacomputing",
+    "title": "Job Application for Software Engineer",
+    "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7690409003",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://job-boards.greenhouse.io/sigmacomputing/jobs/7639836003": {
+    "company": "sigmacomputing",
+    "title": "Fullstack at Sigma Computing",
+    "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7639836003",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://job-boards.greenhouse.io/anthropic/jobs/4778843008": {
+    "company": "anthropic",
+    "title": "Job Application for MLInfrastructureEngineer, Safeguards at Anthropic",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4778843008",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://job-boards.greenhouse.io/anthropic?error=true": {
+    "company": "anthropic?error=true",
+    "title": "Jobs at Anthropic",
+    "url": "https://job-boards.greenhouse.io/anthropic?error=true",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://job-boards.greenhouse.io/cresta": {
+    "company": "cresta",
+    "title": "Jobs at Cresta",
+    "url": "https://job-boards.greenhouse.io/cresta",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://job-boards.greenhouse.io/drweng/jobs/7451759?ref=web3jobs.io": {
+    "company": "drweng",
+    "title": "Job Application forInfrastructureSupportEngineer- Desktop at DRW",
+    "url": "https://job-boards.greenhouse.io/drweng/jobs/7451759?ref=web3jobs.io",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://job-boards.greenhouse.io/arcinstitute?error=true": {
+    "company": "arcinstitute?error=true",
+    "title": "Jobs at Arc Institute",
+    "url": "https://job-boards.greenhouse.io/arcinstitute?error=true",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://job-boards.greenhouse.io/cresta?error=true": {
+    "company": "cresta?error=true",
+    "title": "Jobs at Cresta",
+    "url": "https://job-boards.greenhouse.io/cresta?error=true",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://job-boards.greenhouse.io/gitlab/jobs/7731570002": {
+    "company": "gitlab",
+    "title": "Job Application for Intermediate Product Designer, Authentication at...",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/7731570002",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://job-boards.greenhouse.io/devtechnology?error=true": {
+    "company": "devtechnology?error=true",
+    "title": "Jobs at Dev Technology",
+    "url": "https://job-boards.greenhouse.io/devtechnology?error=true",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://job-boards.greenhouse.io/gitlab/jobs/7831993002": {
+    "company": "gitlab",
+    "title": "Job Application for Intermediate Backend Engineer, Developer...",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/7831993002",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://job-boards.greenhouse.io/gitlab/jobs/7469581002": {
+    "company": "gitlab",
+    "title": "Job Application for Support Engineer (AMER) at GitLab",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/7469581002",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://job-boards.greenhouse.io/gitlab/jobs/7810934002": {
+    "company": "gitlab",
+    "title": "Intermediate Backend Engineer, AI Powered: Duo Workflow",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/7810934002",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/5848411004": {
+    "company": "morganmorganjobsapplynow",
+    "title": "Job Application for Senior Software Engineer",
+    "url": "https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/5848411004",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://job-boards.greenhouse.io/doitintl?error=true": {
+    "company": "doitintl?error=true",
+    "title": "Jobs at DoiT",
+    "url": "https://job-boards.greenhouse.io/doitintl?error=true",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://job-boards.greenhouse.io/anthropic/jobs/4801218008": {
+    "company": "anthropic",
+    "title": "Job Application for Capacity Engineer, Compute at Anthropic",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4801218008",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://job-boards.greenhouse.io/doitintl": {
+    "company": "doitintl",
+    "title": "Jobs at DoiT",
+    "url": "https://job-boards.greenhouse.io/doitintl",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://job-boards.greenhouse.io/formic/jobs/4670196006": {
+    "company": "formic",
+    "title": "Job Application for Controls & Automation Engineer at Formic",
+    "url": "https://job-boards.greenhouse.io/formic/jobs/4670196006",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://job-boards.greenhouse.io/clickhouse/jobs/5842101004": {
+    "company": "clickhouse",
+    "title": "Python and Data Ecosystem",
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5842101004",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://job-boards.greenhouse.io/bringg/jobs/8494451002": {
+    "company": "bringg",
+    "title": "Job Application for Quality Engineer (Manual) at Bringg",
+    "url": "https://job-boards.greenhouse.io/bringg/jobs/8494451002",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://job-boards.greenhouse.io/formic/jobs/4669657006": {
+    "company": "formic",
+    "title": "Job Application for Robotics Field Service Engineer at Formic",
+    "url": "https://job-boards.greenhouse.io/formic/jobs/4669657006",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://job-boards.greenhouse.io/appliedintuition/jobs/4678610005?gh_jid=4678610005": {
+    "company": "appliedintuition",
+    "title": "Insights Platform at Applied Intuition",
+    "url": "https://job-boards.greenhouse.io/appliedintuition/jobs/4678610005?gh_jid=4678610005",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://boards.greenhouse.io/cloudflare/jobs/5796454?gh_jid=5796454": {
     "company": "cloudflare",
     "title": "Job Application for SoftwareEngineer-DevOps& Automation at...",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/5796454?gh_jid=5796454",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://boards.greenhouse.io/threatlocker/jobs/4799535004": {
-    "company": "threatlocker",
-    "title": "Job Application forDevOpsEngineerat ThreatLocker",
-    "url": "https://boards.greenhouse.io/threatlocker/jobs/4799535004",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://boards.greenhouse.io/verikai/jobs/5801419003": {
-    "company": "verikai",
-    "title": "Job Application forDevOpsEngineerat Verikai",
-    "url": "https://boards.greenhouse.io/verikai/jobs/5801419003",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://boards.greenhouse.io/accenturefederalservices/jobs/4238096006": {
     "company": "accenturefederalservices",
     "title": "Job Application forDevOpsEngineerat Accenture Federal Services",
     "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4238096006",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://boards.greenhouse.io/figureai/jobs/4009265006": {
     "company": "figureai",
     "title": "Job Application forDevOpsEngineerat Figure",
     "url": "https://boards.greenhouse.io/figureai/jobs/4009265006",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://boards.greenhouse.io/andurilindustries/jobs/5099219007": {
-    "company": "andurilindustries",
-    "title": "Job Application for Senior Firmware Engineer at Anduril Industries",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5099219007",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://boards.greenhouse.io/ada18/jobs/4288832007": {
+    "company": "ada18",
+    "title": "Job Application for SeniorDevOpsEngineer, Cloud Infrastructure at Ada",
+    "url": "https://boards.greenhouse.io/ada18/jobs/4288832007",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://boards.greenhouse.io/gitlab/jobs/7103843002": {
-    "company": "gitlab",
-    "title": "Job Application forSiteReliabilityEngineer, Foundations...",
-    "url": "https://boards.greenhouse.io/gitlab/jobs/7103843002",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://boards.greenhouse.io/betsson/jobs/5362483": {
+    "company": "betsson",
+    "title": "Job Application forDevOpsEngineerat Betsson Group",
+    "url": "https://boards.greenhouse.io/betsson/jobs/5362483",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://boards.greenhouse.io/gitlab/jobs/7093854002": {
-    "company": "gitlab",
-    "title": "Job Application forSiteReliabilityEngineer- Datastores at GitLab",
-    "url": "https://boards.greenhouse.io/gitlab/jobs/7093854002",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://boards.greenhouse.io/focusedlabs": {
+    "company": "focusedlabs",
+    "title": "Jobs at Focused Labs",
+    "url": "https://boards.greenhouse.io/focusedlabs",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://boards.greenhouse.io/andurilindustries/jobs/5092737007": {
-    "company": "andurilindustries",
-    "title": "Job Application for Mission Software Engineer at Anduril Industries",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5092737007",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://boards.greenhouse.io/clickhouse/jobs/5848764004": {
+    "company": "clickhouse",
+    "title": "Python and Data Ecosystem",
+    "url": "https://boards.greenhouse.io/clickhouse/jobs/5848764004",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://boards.greenhouse.io/andurilindustries/jobs/5097444007": {
-    "company": "andurilindustries",
-    "title": "Senior Machine Learning Engineer, Perception",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5097444007",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5836234004": {
+    "company": "sonyinteractiveentertainmentglobal",
+    "title": "Job Application for Software Engineer II, Data Platform at PlayStation Global",
+    "url": "https://boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5836234004",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://boards.greenhouse.io/trueanomalyinc/jobs/5098200007?utm_source=Menlo+Ventures+job+board": {
-    "company": "trueanomalyinc",
-    "title": "Mechanical Engineer, Spacecraft (II-III)",
-    "url": "https://boards.greenhouse.io/trueanomalyinc/jobs/5098200007?utm_source=Menlo+Ventures+job+board",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://boards.greenhouse.io/axon/jobs/7576971003": {
+    "company": "axon",
+    "title": "Job Application for Software Engineer I at Axon",
+    "url": "https://boards.greenhouse.io/axon/jobs/7576971003",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://boards.greenhouse.io/pdtpartners/jobs/4472982": {
     "company": "pdtpartners",
     "title": "Job Application forPlatformEngineerat PDT Partners",
     "url": "https://boards.greenhouse.io/pdtpartners/jobs/4472982",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://boards.greenhouse.io/bjss/jobs/2301201": {
     "company": "bjss",
     "title": "Job Application forPlatformEngineer- Azure at BJSS",
     "url": "https://boards.greenhouse.io/bjss/jobs/2301201",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://boards.greenhouse.io/paypay/jobs/4919371004": {
-    "company": "paypay",
-    "title": "Job Application forPlatformEngineer(DB Specialist) at PayPay",
-    "url": "https://boards.greenhouse.io/paypay/jobs/4919371004",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://boards.greenhouse.io/anthropic/jobs/4131823008": {
+    "company": "anthropic",
+    "title": "Job Application for Applied AI ProductEngineerat Anthropic",
+    "url": "https://boards.greenhouse.io/anthropic/jobs/4131823008",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://boards.greenhouse.io/spacex/jobs/8492762002?utm_source=Thrive+Capital+job+board": {
-    "company": "spacex",
-    "title": "Member of Technical Staff",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8492762002?utm_source=Thrive+Capital+job+board",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://boards.greenhouse.io/ada18/jobs/4288832007": {
-    "company": "ada18",
-    "title": "Job Application for Senior DevOpsEngineer,CloudInfrastructure at...",
-    "url": "https://boards.greenhouse.io/ada18/jobs/4288832007",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://boards.greenhouse.io/ciazumano/jobs/4681046005": {
-    "company": "ciazumano",
-    "title": "Job Application for Sr. Technology Specialist at CI Azumano",
-    "url": "https://boards.greenhouse.io/ciazumano/jobs/4681046005",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://boards.greenhouse.io/canonical?gh_src=5d948ffe1us": {
-    "company": "canonical?gh_src=5d948ffe1us",
-    "title": "Jobs at Canonical",
-    "url": "https://boards.greenhouse.io/canonical?gh_src=5d948ffe1us",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://boards.greenhouse.io/mark43/jobs/7766509": {
+    "company": "mark43",
+    "title": "Enterprise AI Enablement Lead",
+    "url": "https://boards.greenhouse.io/mark43/jobs/7766509",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://boards.greenhouse.io/celonis/": {
     "company": "celonis",
     "title": "Jobs at Celonis",
     "url": "https://boards.greenhouse.io/celonis/",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://boards.greenhouse.io/stridertechnologies/": {
-    "company": "stridertechnologies",
-    "title": "Jobs at Strider Technologies",
-    "url": "https://boards.greenhouse.io/stridertechnologies/",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://boards.greenhouse.io/cabinethealth": {
+    "company": "cabinethealth",
+    "title": "Jobs at Cabinet Health",
+    "url": "https://boards.greenhouse.io/cabinethealth",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://boards.greenhouse.io/andurilindustries/jobs/4792948007": {
-    "company": "andurilindustries",
-    "title": "Generative AI Integration Engineer",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/4792948007",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://boards.greenhouse.io/coast/": {
+    "company": "coast",
+    "title": "Jobs at Coast",
+    "url": "https://boards.greenhouse.io/coast/",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://boards.greenhouse.io/spacex/jobs/8493881002?utm_source=Thrive+Capital+job+board": {
-    "company": "spacex",
-    "title": "Sr. ASIC Design Verification Engineer (Starshield)",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8493881002?utm_source=Thrive+Capital+job+board",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://boards.greenhouse.io/clickhouse/jobs/5848765004": {
+    "company": "clickhouse",
+    "title": "Python and Data Ecosystem",
+    "url": "https://boards.greenhouse.io/clickhouse/jobs/5848765004",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://boards.greenhouse.io/andurilindustries/jobs/5099163007": {
-    "company": "andurilindustries",
-    "title": "Senior Production & Supply Chain Operations Lead, Maritime",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5099163007",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://boards.greenhouse.io/canonical?gh_src=5d948ffe1us": {
+    "company": "canonical?gh_src=5d948ffe1us",
+    "title": "Jobs at Canonical",
+    "url": "https://boards.greenhouse.io/canonical?gh_src=5d948ffe1us",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://boards.greenhouse.io/pearceservices/jobs/5175015008": {
-    "company": "pearceservices",
-    "title": "Job Application for Advanced Solar Field Service Technician at Pearce ...",
-    "url": "https://boards.greenhouse.io/pearceservices/jobs/5175015008",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://boards.greenhouse.io/dedicatedit/jobs/4054315009": {
+    "company": "dedicatedit",
+    "title": "Job Application for Onsite IT Engineer",
+    "url": "https://boards.greenhouse.io/dedicatedit/jobs/4054315009",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://boards.greenhouse.io/aptoslabs/jobs/4365722005": {
+    "company": "aptoslabs",
+    "title": "Job Application for EcosystemInfrastructureEngineerat Aptos",
+    "url": "https://boards.greenhouse.io/aptoslabs/jobs/4365722005",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://boards.greenhouse.io/arcesiumllc": {
+    "company": "arcesiumllc",
+    "title": "Jobs at Arcesium LLC",
+    "url": "https://boards.greenhouse.io/arcesiumllc",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://boards.greenhouse.io/spotter/jobs/4395922005": {
     "company": "spotter",
     "title": "Job Application for Senior Devops Security Engineer (DevSecOps) at...",
     "url": "https://boards.greenhouse.io/spotter/jobs/4395922005",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://boards.greenhouse.io/gitlab/jobs/7296739002": {
+  "ddg::https://boards.greenhouse.io/gitlab/jobs/7103843002": {
     "company": "gitlab",
-    "title": "Job Application for Backend Engineer, MLOps at GitLab",
-    "url": "https://boards.greenhouse.io/gitlab/jobs/7296739002",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "title": "Job Application for Site Reliability Engineer, Foundations...",
+    "url": "https://boards.greenhouse.io/gitlab/jobs/7103843002",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://boards.greenhouse.io/gitlab/jobs/7332932002": {
     "company": "gitlab",
     "title": "Job Application for Senior Benefits Analyst at GitLab",
     "url": "https://boards.greenhouse.io/gitlab/jobs/7332932002",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://boards.greenhouse.io/pay2dc/jobs/4286240006": {
-    "company": "pay2dc",
-    "title": "Job Application for 05.CloudInfrastructureEngineer at PayPay India",
-    "url": "https://boards.greenhouse.io/pay2dc/jobs/4286240006",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://boards.greenhouse.io/canonical/jobs/4881805": {
+    "company": "canonical",
+    "title": "Job Application for Cloud Operations Engineer, APAC at Canonical",
+    "url": "https://boards.greenhouse.io/canonical/jobs/4881805",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://boards.greenhouse.io/scaleai/jobs/4418710005": {
-    "company": "scaleai",
-    "title": "Job Application for Software Engineer,CloudInfra at Scale AI",
-    "url": "https://boards.greenhouse.io/scaleai/jobs/4418710005",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://boards.greenhouse.io/clickhouse/jobs/5842101004": {
+    "company": "clickhouse",
+    "title": "Python and Data Ecosystem",
+    "url": "https://boards.greenhouse.io/clickhouse/jobs/5842101004",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://boards.greenhouse.io/supportingstrategies/jobs/4657998006": {
+    "company": "supportingstrategies",
+    "title": "Netsuite (Part-Time)",
+    "url": "https://boards.greenhouse.io/supportingstrategies/jobs/4657998006",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://boards.greenhouse.io/carta/jobs/5936341003": {
     "company": "carta",
     "title": "Job Application for Senior Site Reliability Engineer at Carta",
     "url": "https://boards.greenhouse.io/carta/jobs/5936341003",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://boards.greenhouse.io/fortrobotics/jobs/4333094005": {
-    "company": "fortrobotics",
-    "title": "Job Application for DevOps Engineer (Contractor) at FORT Robotics",
-    "url": "https://boards.greenhouse.io/fortrobotics/jobs/4333094005",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://boards.greenhouse.io/acronis/": {
+    "company": "acronis",
+    "title": "Jobs at Acronis",
+    "url": "https://boards.greenhouse.io/acronis/",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://boards.greenhouse.io/trueanomalyinc/jobs/5099076007?utm_source=Menlo+Ventures+job+board": {
-    "company": "trueanomalyinc",
-    "title": "Job Application for Senior Autonomy Engineer at True Anomaly",
-    "url": "https://boards.greenhouse.io/trueanomalyinc/jobs/5099076007?utm_source=Menlo+Ventures+job+board",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://boards.greenhouse.io/doordash/jobs/5624802?gh_jid=5624802": {
+    "company": "doordash",
+    "title": "Job Application for Software Engineer II, Backend",
+    "url": "https://boards.greenhouse.io/doordash/jobs/5624802?gh_jid=5624802",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://boards.greenhouse.io/yext/jobs/5458620": {
-    "company": "yext",
-    "title": "Senior SiteReliabilityEngineer- Systems Engineering",
-    "url": "https://boards.greenhouse.io/yext/jobs/5458620",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://boards.greenhouse.io/clickhouse/jobs/5053892004": {
+    "company": "clickhouse",
+    "title": "Job Application for Core Software Engineer (C++)",
+    "url": "https://boards.greenhouse.io/clickhouse/jobs/5053892004",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://boards.greenhouse.io/canonical/jobs/2927958": {
+    "company": "canonical",
+    "title": "Job Application for Field Engineer",
+    "url": "https://boards.greenhouse.io/canonical/jobs/2927958",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://boards.greenhouse.io/creditkarma/jobs/6006776003": {
     "company": "creditkarma",
     "title": "Job Application for DatabaseReliabilityEngineerat Credit Karma",
     "url": "https://boards.greenhouse.io/creditkarma/jobs/6006776003",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://boards.greenhouse.io/ibkr/jobs/6042473002": {
     "company": "ibkr",
     "title": "Job Application for Release andReliabilityEngineerat Interactive...",
     "url": "https://boards.greenhouse.io/ibkr/jobs/6042473002",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://boards.greenhouse.io/gitlab/jobs/7093854002": {
+    "company": "gitlab",
+    "title": "Job Application for SiteReliabilityEngineer- Datastores at GitLab",
+    "url": "https://boards.greenhouse.io/gitlab/jobs/7093854002",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://boards.greenhouse.io/clickhouse/jobs/5848763004": {
+    "company": "clickhouse",
+    "title": "Python and Data Ecosystem",
+    "url": "https://boards.greenhouse.io/clickhouse/jobs/5848763004",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://jobs.lever.co/comply/80f1379e-b76c-4346-9967-e3599ad4e46d": {
     "company": "comply",
     "title": "COMPLY -DevOpsEngineer",
     "url": "https://jobs.lever.co/comply/80f1379e-b76c-4346-9967-e3599ad4e46d",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://jobs.lever.co/USMobile/3fe6fbee-fef3-432d-95e1-2c38a7652b25": {
     "company": "usmobile",
     "title": "US Mobile -DevOpsEngineer(NYC)",
     "url": "https://jobs.lever.co/USMobile/3fe6fbee-fef3-432d-95e1-2c38a7652b25",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://jobs.lever.co/DeepJudge/7f0a4af1-d02e-4cba-b594-01e73e8327aa": {
     "company": "deepjudge",
     "title": "DeepJudge -DevOpsEngineer",
     "url": "https://jobs.lever.co/DeepJudge/7f0a4af1-d02e-4cba-b594-01e73e8327aa",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://jobs.lever.co/perforce/2d49eba1-56c0-428b-8384-816d89e7210b": {
-    "company": "perforce",
-    "title": "Sr.DevOpsEngineer, Delphix",
-    "url": "https://jobs.lever.co/perforce/2d49eba1-56c0-428b-8384-816d89e7210b",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://jobs.lever.co/patchmypc/6e323de8-48f1-4809-b9ae-3ac14f6611d7": {
-    "company": "patchmypc",
-    "title": "Patch My PC -DevOpsEngineer",
-    "url": "https://jobs.lever.co/patchmypc/6e323de8-48f1-4809-b9ae-3ac14f6611d7",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://jobs.lever.co/binance/014f8ea5-bdba-491d-91bb-df4d6f1aad0a/apply?ref=web3jobs.io": {
     "company": "binance",
     "title": "SeniorDevOpsEngineer(Blockchain)",
     "url": "https://jobs.lever.co/binance/014f8ea5-bdba-491d-91bb-df4d6f1aad0a/apply?ref=web3jobs.io",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.lever.co/qonto/9fa01a3c-4087-49f5-963d-4f2356e4abbe": {
-    "company": "qonto",
-    "title": "Qonto -SiteReliabilityEngineerStorage",
-    "url": "https://jobs.lever.co/qonto/9fa01a3c-4087-49f5-963d-4f2356e4abbe",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.lever.co/great-gray-group/f9598a3c-5304-4074-89f2-698b47210235": {
+    "company": "great-gray-group",
+    "title": "SeniorDevOpsEngineer",
+    "url": "https://jobs.lever.co/great-gray-group/f9598a3c-5304-4074-89f2-698b47210235",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://jobs.lever.co/Polygon/36c542ca-8ff4-4aab-96a0-ae8dcf65d78b": {
+    "company": "polygon",
+    "title": "StaffDevOpsEngineer(GMT+12/GMT+8/GMT-4)",
+    "url": "https://jobs.lever.co/Polygon/36c542ca-8ff4-4aab-96a0-ae8dcf65d78b",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://jobs.lever.co/oowlish/ff00ef9b-a262-4122-9f55-fb46adece15c/apply": {
+    "company": "oowlish",
+    "title": "Senior Cloud Infrastructure Engineer (AWS)",
+    "url": "https://jobs.lever.co/oowlish/ff00ef9b-a262-4122-9f55-fb46adece15c/apply",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://jobs.lever.co/newton/3a0bac3a-c907-4ba5-b6a4-b795b054bfbf/apply?lever-origin=applied": {
+    "company": "newton",
+    "title": "Site Reliability Engineer",
+    "url": "https://jobs.lever.co/newton/3a0bac3a-c907-4ba5-b6a4-b795b054bfbf/apply?lever-origin=applied",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://jobs.lever.co/airalo/f5c10c7d-a48d-4c40-8b8a-3ff4fdd758e0/apply?lever-origin=applied": {
+    "company": "airalo",
+    "title": "Senior DevSecOps Engineer",
+    "url": "https://jobs.lever.co/airalo/f5c10c7d-a48d-4c40-8b8a-3ff4fdd758e0/apply?lever-origin=applied",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://jobs.lever.co/activecampaign/d97d9261-ed76-4022-b27b-df6d270120fc": {
+    "company": "activecampaign",
+    "title": "Senior Detection Engineer",
+    "url": "https://jobs.lever.co/activecampaign/d97d9261-ed76-4022-b27b-df6d270120fc",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://jobs.lever.co/binance/?+research[0]=": {
+    "company": "binance",
+    "title": "Binance",
+    "url": "https://jobs.lever.co/binance/?+research[0]=",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://jobs.lever.co/nordsec/0604c0c6-58e1-408a-828d-c6e6e3c09394": {
+    "company": "nordsec",
+    "title": "StaffSiteReliabilityEngineer- Platform Engineering",
+    "url": "https://jobs.lever.co/nordsec/0604c0c6-58e1-408a-828d-c6e6e3c09394",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://jobs.lever.co/binance/7943cc80-5a16-4aaa-852f-95fc683097ab/apply?ref=web3jobs.io": {
     "company": "binance",
     "title": "SeniorSiteReliabilityEngineer(Node.js & QA), Trading...",
     "url": "https://jobs.lever.co/binance/7943cc80-5a16-4aaa-852f-95fc683097ab/apply?ref=web3jobs.io",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://jobs.lever.co/filevine/3714a5b3-5e4b-4f5f-bf62-9d7ab08e55a6": {
-    "company": "filevine",
-    "title": "SeniorSiteReliabilityEngineer- AWS",
-    "url": "https://jobs.lever.co/filevine/3714a5b3-5e4b-4f5f-bf62-9d7ab08e55a6",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://jobs.lever.co/aurora-dev/2837eaaf-fcce-4896-b5e2-5b379b0352a7": {
     "company": "aurora-dev",
     "title": "Aurora Labs -SiteReliabilityEngineer",
     "url": "https://jobs.lever.co/aurora-dev/2837eaaf-fcce-4896-b5e2-5b379b0352a7",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://jobs.lever.co/sporty/a2d92980-0741-412a-b467-22aa91326636": {
     "company": "sporty",
     "title": "Sporty Group -SiteReliabilityEngineer",
     "url": "https://jobs.lever.co/sporty/a2d92980-0741-412a-b467-22aa91326636",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://jobs.lever.co/axoni/9bcb978e-6306-423f-bbf6-e3eb0c6ec468": {
+    "company": "axoni",
+    "title": "Axoni -SiteReliabilityEngineer- AWS",
+    "url": "https://jobs.lever.co/axoni/9bcb978e-6306-423f-bbf6-e3eb0c6ec468",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://jobs.lever.co/ebury/c281a1ca-877c-4703-92e1-71f9b7eb036c": {
     "company": "ebury",
     "title": "Ebury -SiteReliabilityEngineer(SRE)",
     "url": "https://jobs.lever.co/ebury/c281a1ca-877c-4703-92e1-71f9b7eb036c",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.lever.co/clarity?__hstc=&__hssc=&hsCtaTracking=5ea9cb5e-1428-4055-8916-d7194fac13c4|6c20063d-ad29-4c24-9932-3f42b3beed8b": {
-    "company": "clarity?__hstc=&__hssc=&hsctatracking=5ea9cb5e-1428-4055-8916-d7194fac13c4|6c20063d-ad29-4c24-9932-3f42b3beed8b",
-    "title": "Clarity Insights",
-    "url": "https://jobs.lever.co/clarity?__hstc=&__hssc=&hsCtaTracking=5ea9cb5e-1428-4055-8916-d7194fac13c4|6c20063d-ad29-4c24-9932-3f42b3beed8b",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.lever.co/apolloresearch/1a2af2fb-dd64-4053-8718-db307755175a": {
+    "company": "apolloresearch",
+    "title": "EvalsPlatformEngineer",
+    "url": "https://jobs.lever.co/apolloresearch/1a2af2fb-dd64-4053-8718-db307755175a",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.lever.co/coalfire": {
-    "company": "coalfire",
-    "title": "Coalfire",
-    "url": "https://jobs.lever.co/coalfire",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.lever.co/logz/ff6d6da4-6525-4b1e-b111-f011d49f9002/apply": {
+    "company": "logz",
+    "title": "Senior Backend Software Engineer (GenAI Platform)",
+    "url": "https://jobs.lever.co/logz/ff6d6da4-6525-4b1e-b111-f011d49f9002/apply",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.lever.co/xero?department=Technology": {
-    "company": "xero?department=technology",
-    "title": "Xero",
-    "url": "https://jobs.lever.co/xero?department=Technology",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.lever.co/netomi/cc7c0f28-0eac-4924-8294-91369e38c1c2": {
+    "company": "netomi",
+    "title": "Agentic Solution Engineer",
+    "url": "https://jobs.lever.co/netomi/cc7c0f28-0eac-4924-8294-91369e38c1c2",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.lever.co/shieldai": {
-    "company": "shieldai",
-    "title": "Shield AI",
-    "url": "https://jobs.lever.co/shieldai",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.lever.co/Grid/637a49f0-7244-4bca-8093-232cb27b42c0": {
+    "company": "grid",
+    "title": "Grid - Software Engineer",
+    "url": "https://jobs.lever.co/Grid/637a49f0-7244-4bca-8093-232cb27b42c0",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.lever.co/topazlabs": {
-    "company": "topazlabs",
-    "title": "Topaz Labs",
-    "url": "https://jobs.lever.co/topazlabs",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.lever.co/clearedge/4ebd42b3-4d2b-4866-a203-8c55cb211f85": {
+    "company": "clearedge",
+    "title": "High-Performance Computing Software Engineer III",
+    "url": "https://jobs.lever.co/clearedge/4ebd42b3-4d2b-4866-a203-8c55cb211f85",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.lever.co/kddia": {
-    "company": "kddia",
-    "title": "KDDI America",
-    "url": "https://jobs.lever.co/kddia",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.lever.co/lucidworks/dd3e9e53-92e7-446c-949b-21aec0810dc6/apply": {
+    "company": "lucidworks",
+    "title": "Software Engineer, Data Acquisition",
+    "url": "https://jobs.lever.co/lucidworks/dd3e9e53-92e7-446c-949b-21aec0810dc6/apply",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.lever.co/workos/b7526f76-8db2-4c30-bc83-f0a0fb998bc1": {
-    "company": "workos",
-    "title": "WorkOS -InfrastructureEngineer",
-    "url": "https://jobs.lever.co/workos/b7526f76-8db2-4c30-bc83-f0a0fb998bc1",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.lever.co/ifm-us/4cdef0c6-319d-4877-97fb-4392b32e50e2": {
+    "company": "ifm-us",
+    "title": "High Performance Computing Software Engineer",
+    "url": "https://jobs.lever.co/ifm-us/4cdef0c6-319d-4877-97fb-4392b32e50e2",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.lever.co/palantir/b57f08e9-546c-4b9b-8d21-db0ebbc11363": {
-    "company": "palantir",
-    "title": "Forward DeployedInfrastructureEngineer...",
-    "url": "https://jobs.lever.co/palantir/b57f08e9-546c-4b9b-8d21-db0ebbc11363",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.lever.co/BestEgg/7d89949a-1ebb-4c0d-888b-0190e110feb6/apply?lever-origin=applied": {
+    "company": "bestegg",
+    "title": "Lead Software Engineer II – Java & Python",
+    "url": "https://jobs.lever.co/BestEgg/7d89949a-1ebb-4c0d-888b-0190e110feb6/apply?lever-origin=applied",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.lever.co/cohere/9abc9bd8-645b-4e0c-95e3-b5df28e94c94": {
-    "company": "cohere",
-    "title": "Senior MLInfrastructureEngineer- Supercompute",
-    "url": "https://jobs.lever.co/cohere/9abc9bd8-645b-4e0c-95e3-b5df28e94c94",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.lever.co/gohighlevel/8098682a-0433-42e7-a83f-803777f95f2d": {
+    "company": "gohighlevel",
+    "title": "Full Stack Builder (Team of One",
+    "url": "https://jobs.lever.co/gohighlevel/8098682a-0433-42e7-a83f-803777f95f2d",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.lever.co/palantir": {
-    "company": "palantir",
-    "title": "Palantir Technologies",
-    "url": "https://jobs.lever.co/palantir",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.lever.co/humble-robotics/910e6e24-e644-42d8-aa08-18e87d535cbd": {
+    "company": "humble-robotics",
+    "title": "Software Engineer, Autonomous Systems",
+    "url": "https://jobs.lever.co/humble-robotics/910e6e24-e644-42d8-aa08-18e87d535cbd",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.lever.co/zoox": {
-    "company": "zoox",
-    "title": "Zoox",
-    "url": "https://jobs.lever.co/zoox",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://jobs.lever.co/zoox?department=Software": {
-    "company": "zoox?department=software",
-    "title": "Zoox",
-    "url": "https://jobs.lever.co/zoox?department=Software",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.lever.co/cti-md/e9ded960-5db6-4594-9d31-223f680a7f61": {
+    "company": "cti-md",
+    "title": "FULLY CLEARED with POLYGRAPH ...",
+    "url": "https://jobs.lever.co/cti-md/e9ded960-5db6-4594-9d31-223f680a7f61",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://jobs.lever.co/agile-defense": {
     "company": "agile-defense",
     "title": "Agile Defense",
     "url": "https://jobs.lever.co/agile-defense",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://jobs.lever.co/codeway": {
     "company": "codeway",
     "title": "Codeway",
     "url": "https://jobs.lever.co/codeway",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://jobs.lever.co/researchinnovations.com": {
-    "company": "researchinnovations.com",
-    "title": "Research Innovations",
-    "url": "https://jobs.lever.co/researchinnovations.com",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://jobs.lever.co/barbaricum": {
-    "company": "barbaricum",
-    "title": "Barbaricum",
-    "url": "https://jobs.lever.co/barbaricum",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://jobs.lever.co/appzen": {
     "company": "appzen",
     "title": "AppZen, Inc.",
     "url": "https://jobs.lever.co/appzen",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://jobs.lever.co/dlocal": {
+    "company": "dlocal",
+    "title": "dLocal",
+    "url": "https://jobs.lever.co/dlocal",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://jobs.lever.co/confluent/82e57176-067a-45c8-8e15-f7d95f55b027": {
     "company": "confluent",
     "title": "Confluent -CloudInfrastructureSoftware Engineer [Remote",
     "url": "https://jobs.lever.co/confluent/82e57176-067a-45c8-8e15-f7d95f55b027",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.lever.co/octopus/1cd9e728-a276-4a03-96e1-fb4cb764b4c8": {
-    "company": "octopus",
-    "title": "Senior Software Engineer -CloudPlatform Team",
-    "url": "https://jobs.lever.co/octopus/1cd9e728-a276-4a03-96e1-fb4cb764b4c8",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.lever.co/augmedix": {
+    "company": "augmedix",
+    "title": "Augmedix",
+    "url": "https://jobs.lever.co/augmedix",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.lever.co/palantir/d93b96d1-3e4e-4f30-80eb-dbf5aca076cc": {
-    "company": "palantir",
-    "title": "ProductReliabilityEngineer",
-    "url": "https://jobs.lever.co/palantir/d93b96d1-3e4e-4f30-80eb-dbf5aca076cc",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.lever.co/genesistherapeutics/": {
+    "company": "genesistherapeutics",
+    "title": "Genesis Therapeutics",
+    "url": "https://jobs.lever.co/genesistherapeutics/",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.lever.co/palantir/63494bd6-3c41-4449-b01f-0932dc664fc4": {
-    "company": "palantir",
-    "title": "ProductReliabilityEngineer, New Grad",
-    "url": "https://jobs.lever.co/palantir/63494bd6-3c41-4449-b01f-0932dc664fc4",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.lever.co/cere-network/ea1fbde4-8e26-4479-bd03-457293a7855f": {
+    "company": "cere-network",
+    "title": "Cerebellum Network",
+    "url": "https://jobs.lever.co/cere-network/ea1fbde4-8e26-4479-bd03-457293a7855f",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://jobs.lever.co/ampeco-global/7c541aa9-4319-48d9-b937-4d0aaa3180dc?lever-source=Job+postings+feed": {
+    "company": "ampeco-global",
+    "title": "Senior PHP Developer",
+    "url": "https://jobs.lever.co/ampeco-global/7c541aa9-4319-48d9-b937-4d0aaa3180dc?lever-source=Job+postings+feed",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://jobs.lever.co/dexcarehealth/f99247f8-eb70-4126-beab-96b14fb271c4?lever-source=KubeCareers&lever-origin=applied": {
     "company": "dexcarehealth",
     "title": "Senior SiteReliabilityEngineer",
     "url": "https://jobs.lever.co/dexcarehealth/f99247f8-eb70-4126-beab-96b14fb271c4?lever-source=KubeCareers&lever-origin=applied",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://jobs.lever.co/mistral": {
+    "company": "mistral",
+    "title": "Mistral AI",
+    "url": "https://jobs.lever.co/mistral",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://jobs.lever.co/coupa/": {
+    "company": "coupa",
+    "title": "Coupa Software, Inc.",
+    "url": "https://jobs.lever.co/coupa/",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://apply.workable.com/accellor/j/D7F8AD3D0A": {
     "company": "accellor",
     "title": "Senior Infrastructure/DevOpsEngineer- Accellor",
     "url": "https://apply.workable.com/accellor/j/D7F8AD3D0A",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://apply.workable.com/ampcontrol/j/A664174084/": {
-    "company": "ampcontrol",
-    "title": "DevOpsEngineer- Ampcontrol",
-    "url": "https://apply.workable.com/ampcontrol/j/A664174084/",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://apply.workable.com/crewbloom/j/6E020ED2E0/": {
-    "company": "crewbloom",
-    "title": "DevOpsEngineer(Project-Based)",
-    "url": "https://apply.workable.com/crewbloom/j/6E020ED2E0/",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://apply.workable.com/accellor/j/37C62673ED/": {
     "company": "accellor",
     "title": "CloudDevopsEngineer- Accellor",
     "url": "https://apply.workable.com/accellor/j/37C62673ED/",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://apply.workable.com/1global/j/0446B95DBD/": {
+  "ddg::https://apply.workable.com/newrich-network/j/1E440F064F/": {
+    "company": "newrich-network",
+    "title": "AWSDevOpsEngineer- Newrich Network",
+    "url": "https://apply.workable.com/newrich-network/j/1E440F064F/",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://apply.workable.com/1valet/j/B3A4A0B945/": {
+    "company": "1valet",
+    "title": "DevOpsEngineer- Azure Infrastructure",
+    "url": "https://apply.workable.com/1valet/j/B3A4A0B945/",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://apply.workable.com/proarch-3/j/ECB94FBBD2/": {
+    "company": "proarch-3",
+    "title": "SeniorDevOpsEngineer- ProArch",
+    "url": "https://apply.workable.com/proarch-3/j/ECB94FBBD2/",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://apply.workable.com/1global/j/1C8544E5D9/": {
     "company": "1global",
-    "title": "DevOpsEngineer- Cloud & On-Prem Infrastructure",
-    "url": "https://apply.workable.com/1global/j/0446B95DBD/",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://apply.workable.com/resonance/j/7938DFC75D": {
-    "company": "resonance",
-    "title": "DevOpsEngineer(Mid-to-Senior Level)",
-    "url": "https://apply.workable.com/resonance/j/7938DFC75D",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://apply.workable.com/salla/j/CC7B11DB9D": {
-    "company": "salla",
-    "title": "SeniorSiteReliabilityEngineer(SRE)",
-    "url": "https://apply.workable.com/salla/j/CC7B11DB9D",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://apply.workable.com/enroute/j/E3C8480CF1/": {
-    "company": "enroute",
-    "title": "SeniorSiteReliabilityEngineer(SRE)",
-    "url": "https://apply.workable.com/enroute/j/E3C8480CF1/",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://apply.workable.com/io-global/j/ECC96021EC/": {
-    "company": "io-global",
-    "title": "SiteReliabilityEngineerIOE: Cardano",
-    "url": "https://apply.workable.com/io-global/j/ECC96021EC/",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "title": "Senior Infrastructure &DevOpsEngineer(Private Cloud...)",
+    "url": "https://apply.workable.com/1global/j/1C8544E5D9/",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://apply.workable.com/pepperstone/j/AEC4C3296C/apply/": {
     "company": "pepperstone",
     "title": "SeniorSiteReliabilityEngineer- Pepperstone",
     "url": "https://apply.workable.com/pepperstone/j/AEC4C3296C/apply/",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://apply.workable.com/board-intelligence/j/2360EB4AC0/": {
-    "company": "board-intelligence",
-    "title": "LeadSiteReliabilityEngineer- Board Intelligence",
-    "url": "https://apply.workable.com/board-intelligence/j/2360EB4AC0/",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://apply.workable.com/perlego/j/18F6C5EC47/": {
+    "company": "perlego",
+    "title": "SiteReliabilityEngineer(Remote)",
+    "url": "https://apply.workable.com/perlego/j/18F6C5EC47/",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://apply.workable.com/io-global/j/D40F6AF5A7/": {
+    "company": "io-global",
+    "title": "SeniorSiteReliabilityEngineer- Midnight",
+    "url": "https://apply.workable.com/io-global/j/D40F6AF5A7/",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://apply.workable.com/cloudlinux-1/j/70F2AF1366": {
+    "company": "cloudlinux-1",
+    "title": "SeniorSiteReliabilityEngineer(SRE) for Release Engineering...",
+    "url": "https://apply.workable.com/cloudlinux-1/j/70F2AF1366",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://apply.workable.com/acoustic-3/j/58C7ECB23C/": {
+    "company": "acoustic-3",
+    "title": "SeniorSiteReliabilityEngineer- Acoustic",
+    "url": "https://apply.workable.com/acoustic-3/j/58C7ECB23C/",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://apply.workable.com/goreel/j/A20D154F44/": {
+    "company": "goreel",
+    "title": "SiteReliabilityEngineer- GoReel",
+    "url": "https://apply.workable.com/goreel/j/A20D154F44/",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://apply.workable.com/runna/j/0AAA85F2A8/": {
     "company": "runna",
     "title": "PlatformEngineer- Runna",
     "url": "https://apply.workable.com/runna/j/0AAA85F2A8/",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://apply.workable.com/air/j/B81492BDBE/": {
-    "company": "air",
-    "title": "PlatformEngineer- Air",
-    "url": "https://apply.workable.com/air/j/B81492BDBE/",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://apply.workable.com/10xbanking/j/C7A1A86B22/": {
+    "company": "10xbanking",
+    "title": "PlatformEngineer- 10x Banking",
+    "url": "https://apply.workable.com/10xbanking/j/C7A1A86B22/",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://apply.workable.com/constructor-1/j/736E11E869/": {
-    "company": "constructor-1",
-    "title": "PlatformEngineer: Platform Solutions (Remote)",
-    "url": "https://apply.workable.com/constructor-1/j/736E11E869/",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://apply.workable.com/our-future-health/j/0A6C646125/": {
+    "company": "our-future-health",
+    "title": "SeniorPlatformEngineer- Our Future Health",
+    "url": "https://apply.workable.com/our-future-health/j/0A6C646125/",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://apply.workable.com/multimediallc/j/4580572BB3/": {
-    "company": "multimediallc",
-    "title": "PlatformEngineer- Multi Media LLC",
-    "url": "https://apply.workable.com/multimediallc/j/4580572BB3/",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://apply.workable.com/ellison-institute-of-technology/j/9B9A6985AB/": {
+    "company": "ellison-institute-of-technology",
+    "title": "Ellison Institute of Technology",
+    "url": "https://apply.workable.com/ellison-institute-of-technology/j/9B9A6985AB/",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://apply.workable.com/unitary/j/41856B59AD/": {
-    "company": "unitary",
-    "title": "PlatformEngineer- Unitary",
-    "url": "https://apply.workable.com/unitary/j/41856B59AD/",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://apply.workable.com/natterbox-ltd-1/j/36C83B7B3B/apply/": {
+    "company": "natterbox-ltd-1",
+    "title": "JuniorPlatformEngineer- Natterbox Ltd",
+    "url": "https://apply.workable.com/natterbox-ltd-1/j/36C83B7B3B/apply/",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://apply.workable.com/cogna/j/2694CEBB2A": {
     "company": "cogna",
     "title": "PlatformEngineer- Cogna",
     "url": "https://apply.workable.com/cogna/j/2694CEBB2A",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://apply.workable.com/euromonitor/j/5337A28619/": {
-    "company": "euromonitor",
-    "title": "CloudEngineer- Euromonitor",
-    "url": "https://apply.workable.com/euromonitor/j/5337A28619/",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://apply.workable.com/orfium/j/F47FA1D86D/": {
-    "company": "orfium",
-    "title": "CloudEngineer- Orfium",
-    "url": "https://apply.workable.com/orfium/j/F47FA1D86D/",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://apply.workable.com/and-digital/j/077604B910/": {
-    "company": "and-digital",
-    "title": "AzureCloudEngineer- AND Digital",
-    "url": "https://apply.workable.com/and-digital/j/077604B910/",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://apply.workable.com/and-digital/j/B17965E52F/": {
-    "company": "and-digital",
-    "title": "CloudEngineer- AND Digital",
-    "url": "https://apply.workable.com/and-digital/j/B17965E52F/",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://apply.workable.com/accellor/j/9792B512E6/": {
     "company": "accellor",
     "title": "AzureCloudEngineer- Accellor",
     "url": "https://apply.workable.com/accellor/j/9792B512E6/",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://apply.workable.com/accellor/j/822421FA88/": {
-    "company": "accellor",
-    "title": "AzureCloudEngineer- Accellor",
-    "url": "https://apply.workable.com/accellor/j/822421FA88/",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://apply.workable.com/pepperstone/j/7425C0FE4B/": {
+    "company": "pepperstone",
+    "title": "SeniorCloudEngineer- Pepperstone",
+    "url": "https://apply.workable.com/pepperstone/j/7425C0FE4B/",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://apply.workable.com/horizontal-digital/j/3C9075FEB4/": {
-    "company": "horizontal-digital",
-    "title": "InfrastructureEngineer- Horizontal Digital",
-    "url": "https://apply.workable.com/horizontal-digital/j/3C9075FEB4/",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://apply.workable.com/acentra-health/j/11C60E7C4D/": {
+    "company": "acentra-health",
+    "title": "CloudEngineerSpecialist",
+    "url": "https://apply.workable.com/acentra-health/j/11C60E7C4D/",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://apply.workable.com/lightmatter/j/7C83D813BC/": {
-    "company": "lightmatter",
-    "title": "InfrastructureEngineer(Toronto)",
-    "url": "https://apply.workable.com/lightmatter/j/7C83D813BC/",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://apply.workable.com/zoneit/j/AA7E09819C/": {
+    "company": "zoneit",
+    "title": "CloudEngineer- Zone IT Solutions",
+    "url": "https://apply.workable.com/zoneit/j/AA7E09819C/",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://apply.workable.com/ttech/j/76DC409A6F/": {
-    "company": "ttech",
-    "title": "InfrastructureEngineer- T-Tech",
-    "url": "https://apply.workable.com/ttech/j/76DC409A6F/",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://apply.workable.com/d-one/j/BB22DA864A/": {
+    "company": "d-one",
+    "title": "CloudEngineer(Athens, Greece)",
+    "url": "https://apply.workable.com/d-one/j/BB22DA864A/",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://apply.workable.com/rokt/j/934984BE89/": {
-    "company": "rokt",
-    "title": "Individual ContributorInfrastructureEngineer- Rokt",
-    "url": "https://apply.workable.com/rokt/j/934984BE89/",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://apply.workable.com/lightmatter/j/607580DF63/": {
-    "company": "lightmatter",
-    "title": "InfrastructureEngineer(Mountain View and Boston)",
-    "url": "https://apply.workable.com/lightmatter/j/607580DF63/",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://apply.workable.com/softone-technologies-s-a/j/F65FBE8A31/apply/": {
+    "company": "softone-technologies-s-a",
+    "title": "JuniorCloudEngineer- SOFTONE",
+    "url": "https://apply.workable.com/softone-technologies-s-a/j/F65FBE8A31/apply/",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://apply.workable.com/1global/j/78E36FCDC5/": {
     "company": "1global",
     "title": "InfrastructureEngineer- Infrastructure & IP",
     "url": "https://apply.workable.com/1global/j/78E36FCDC5/",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://apply.workable.com/auria/j/BDCD6D9750/": {
-    "company": "auria",
-    "title": "Development, Security, and Operations (DevSecOps) Engineer",
-    "url": "https://apply.workable.com/auria/j/BDCD6D9750/",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://apply.workable.com/lightmatter/j/607580DF63/": {
+    "company": "lightmatter",
+    "title": "InfrastructureEngineer(Mountain View and Boston)",
+    "url": "https://apply.workable.com/lightmatter/j/607580DF63/",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://apply.workable.com/assurity-trusted-solutions/j/D33C394A3D/": {
-    "company": "assurity-trusted-solutions",
-    "title": "DevSecOpsSecurity Operations Analyst",
-    "url": "https://apply.workable.com/assurity-trusted-solutions/j/D33C394A3D/",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://apply.workable.com/3e/j/B391D1827F/": {
+    "company": "3e",
+    "title": "InfrastructureEngineer- 3E",
+    "url": "https://apply.workable.com/3e/j/B391D1827F/",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://apply.workable.com/auria/j/55D7053948/": {
-    "company": "auria",
-    "title": "DevSecOpsEngineer",
-    "url": "https://apply.workable.com/auria/j/55D7053948/",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://apply.workable.com/foodics/j/45FFEC6F43/apply/": {
+    "company": "foodics",
+    "title": "Senior CloudInfrastructureEngineer- Foodics",
+    "url": "https://apply.workable.com/foodics/j/45FFEC6F43/apply/",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://apply.workable.com/auria/j/7D5F1988DE/": {
-    "company": "auria",
-    "title": "Development, Security, and Operations (DevSecOps) Engineer",
-    "url": "https://apply.workable.com/auria/j/7D5F1988DE/",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://apply.workable.com/aretum/j/BDCB5D8385/": {
+    "company": "aretum",
+    "title": "SeniorInfrastructureEngineer/Tech Lead",
+    "url": "https://apply.workable.com/aretum/j/BDCB5D8385/",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://apply.workable.com/avint/j/444A0CA9BC/": {
-    "company": "avint",
-    "title": "DevSecOpsEngineer",
-    "url": "https://apply.workable.com/avint/j/444A0CA9BC/",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://apply.workable.com/pipingtech/j/446201E69E/": {
+    "company": "pipingtech",
+    "title": "SeniorInfrastructureEngineer- Piping Technology & Products, Inc.",
+    "url": "https://apply.workable.com/pipingtech/j/446201E69E/",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://apply.workable.com/aviso/j/C6C493F764/apply/": {
-    "company": "aviso",
-    "title": "AssociateDevSecOpsEngineer, Temporary",
-    "url": "https://apply.workable.com/aviso/j/C6C493F764/apply/",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://apply.workable.com/activate-interactive-pte-ltd/j/79A71E77BB/": {
+    "company": "activate-interactive-pte-ltd",
+    "title": "Activate Interactive Pte Ltd",
+    "url": "https://apply.workable.com/activate-interactive-pte-ltd/j/79A71E77BB/",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://apply.workable.com/al-goodbody/j/FE82A62AAF/": {
-    "company": "al-goodbody",
-    "title": "CloudInfrastructure& Security Engineer",
-    "url": "https://apply.workable.com/al-goodbody/j/FE82A62AAF/",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://apply.workable.com/activate-interactive-pte-ltd/j/B94B590336/": {
+    "company": "activate-interactive-pte-ltd",
+    "title": "Activate Interactive Pte Ltd",
+    "url": "https://apply.workable.com/activate-interactive-pte-ltd/j/B94B590336/",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://apply.workable.com/analytic-solutions-group/j/9706459909/": {
-    "company": "analytic-solutions-group",
+  "ddg::https://apply.workable.com/1global/j/168F060595/": {
+    "company": "1global",
+    "title": "SeniorDevSecOpsEngineer",
+    "url": "https://apply.workable.com/1global/j/168F060595/",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://apply.workable.com/1global/j/47BB628674/": {
+    "company": "1global",
+    "title": "Senior Cloud Security Engineer",
+    "url": "https://apply.workable.com/1global/j/47BB628674/",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://apply.workable.com/activate-interactive-pte-ltd/j/0DC58528FC/": {
+    "company": "activate-interactive-pte-ltd",
+    "title": "Activate Interactive Pte Ltd",
+    "url": "https://apply.workable.com/activate-interactive-pte-ltd/j/0DC58528FC/",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://apply.workable.com/activate-interactive-pte-ltd/j/B1779DFD77/": {
+    "company": "activate-interactive-pte-ltd",
+    "title": "Activate Interactive Pte Ltd",
+    "url": "https://apply.workable.com/activate-interactive-pte-ltd/j/B1779DFD77/",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://apply.workable.com/advansys-esc-1/j/63DB695A7D/apply/": {
+    "company": "advansys-esc-1",
     "title": "CloudInfrastructureEngineer",
-    "url": "https://apply.workable.com/analytic-solutions-group/j/9706459909/",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "url": "https://apply.workable.com/advansys-esc-1/j/63DB695A7D/apply/",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://apply.workable.com/acoustic-3/j/532CAAFAA4": {
     "company": "acoustic-3",
     "title": "SeniorCloudInfrastructureEngineer (Network Focus)",
     "url": "https://apply.workable.com/acoustic-3/j/532CAAFAA4",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://apply.workable.com/allwynls/j/161DC41E22/": {
-    "company": "allwynls",
-    "title": "CloudInfrastructureEngineer",
-    "url": "https://apply.workable.com/allwynls/j/161DC41E22/",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://apply.workable.com/accellor/j/822421FA88/": {
+    "company": "accellor",
+    "title": "AzureCloudEngineer",
+    "url": "https://apply.workable.com/accellor/j/822421FA88/",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://apply.workable.com/assurity-trusted-solutions/j/8AFB6895C3/": {
-    "company": "assurity-trusted-solutions",
-    "title": "CloudInfrastructureEngineer (Kubernetes, Redhat OpenShift)...",
-    "url": "https://apply.workable.com/assurity-trusted-solutions/j/8AFB6895C3/",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://apply.workable.com/weetabix/j/5BA182B4A0/": {
-    "company": "weetabix",
-    "title": "ReliabilityEngineer- Weetabix",
-    "url": "https://apply.workable.com/weetabix/j/5BA182B4A0/",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://apply.workable.com/multimediallc/j/CC0CBB3AC6/": {
-    "company": "multimediallc",
-    "title": "Senior SiteReliabilityEngineer- Multi Media LLC",
-    "url": "https://apply.workable.com/multimediallc/j/CC0CBB3AC6/",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://apply.workable.com/tecsys/j/C2935323AC/": {
-    "company": "tecsys",
-    "title": "SiteReliabilityEngineer- Tecsys Inc.",
-    "url": "https://apply.workable.com/tecsys/j/C2935323AC/",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://apply.workable.com/oura-health-ltd/j/6649E9306C/": {
-    "company": "oura-health-ltd",
-    "title": "Senior SiteReliabilityEngineer- Oura",
-    "url": "https://apply.workable.com/oura-health-ltd/j/6649E9306C/",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://apply.workable.com/15below-ltd/j/1D2E094E33/": {
+    "company": "15below-ltd",
+    "title": "Systems Engineer (Brighton/Hybrid)",
+    "url": "https://apply.workable.com/15below-ltd/j/1D2E094E33/",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://apply.workable.com/fridababy/j/740D07B097/": {
     "company": "fridababy",
     "title": "ReliabilityEngineer- Frida",
     "url": "https://apply.workable.com/fridababy/j/740D07B097/",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://apply.workable.com/pepperstone/j/CF193D4F92/": {
+    "company": "pepperstone",
+    "title": "SiteReliabilityEngineer- Pepperstone",
+    "url": "https://apply.workable.com/pepperstone/j/CF193D4F92/",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://apply.workable.com/io-global/j/6DF747B71F/apply?ref=web3jobs.io": {
+    "company": "io-global",
+    "title": "SiteReliabilityEngineer- Blockfrost",
+    "url": "https://apply.workable.com/io-global/j/6DF747B71F/apply?ref=web3jobs.io",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://apply.workable.com/urban-grid-solar-projects/j/7867B1031E/": {
+    "company": "urban-grid-solar-projects",
+    "title": "Urban Grid Solar Projects, LLC",
+    "url": "https://apply.workable.com/urban-grid-solar-projects/j/7867B1031E/",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://apply.workable.com/io-global/j/16B84655D0": {
+    "company": "io-global",
+    "title": "Senior SiteReliabilityEngineer- Midnight",
+    "url": "https://apply.workable.com/io-global/j/16B84655D0",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://jobs.ashbyhq.com/Deel/0007a911-2f94-4db1-9a25-9da6bce561bb": {
     "company": "deel",
     "title": "DevOpsEngineer@ Deel",
     "url": "https://jobs.ashbyhq.com/Deel/0007a911-2f94-4db1-9a25-9da6bce561bb",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.ashbyhq.com/Deel/fe284678-d120-43e4-acf4-17ac73e63fb0": {
-    "company": "deel",
-    "title": "DevOpsEngineer@ Deel",
-    "url": "https://jobs.ashbyhq.com/Deel/fe284678-d120-43e4-acf4-17ac73e63fb0",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.ashbyhq.com/protege/9283fac0-2fe2-4483-ac45-9f82f8e674e9": {
+    "company": "protege",
+    "title": "DevOpsEngineer@ Protege",
+    "url": "https://jobs.ashbyhq.com/protege/9283fac0-2fe2-4483-ac45-9f82f8e674e9",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.ashbyhq.com/Deel/0007a911-2f94-4db1-9a25-9da6bce561bb?src=LinkedIn": {
-    "company": "deel",
-    "title": "DevOpsEngineer@ Deel",
-    "url": "https://jobs.ashbyhq.com/Deel/0007a911-2f94-4db1-9a25-9da6bce561bb?src=LinkedIn",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.ashbyhq.com/virtuous/f816e0d2-66a4-499d-be82-9d46f1703c64": {
+    "company": "virtuous",
+    "title": "DevOpsEngineer@ Virtuous",
+    "url": "https://jobs.ashbyhq.com/virtuous/f816e0d2-66a4-499d-be82-9d46f1703c64",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.ashbyhq.com/Deel/bf7d8953-2997-4b79-a472-2eb5f787fd98?departmentId=8c27e7fa-f898-4de1-adf6-70c67c1e1c11": {
-    "company": "deel",
-    "title": "DevOpsEngineer@ Deel",
-    "url": "https://jobs.ashbyhq.com/Deel/bf7d8953-2997-4b79-a472-2eb5f787fd98?departmentId=8c27e7fa-f898-4de1-adf6-70c67c1e1c11",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.ashbyhq.com/altimate/f515f9f7-f55d-4ce1-90c3-22aa7cefc1fb": {
+    "company": "altimate",
+    "title": "FoundingDevOpsEngineer@ Altimate.ai",
+    "url": "https://jobs.ashbyhq.com/altimate/f515f9f7-f55d-4ce1-90c3-22aa7cefc1fb",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.ashbyhq.com/Oxygen/34ef0584-65de-4000-aa57-96d26812b9ef?departmentId=c28bf3bd-a5bb-40c4-a043-ac6ed053e3fd&amp;locationId=d3e38ccb-b511-4f08-a0f9-602dd46c7b48&amp": {
-    "company": "oxygen",
-    "title": "DevOpsEngineer@ Oxygen",
-    "url": "https://jobs.ashbyhq.com/Oxygen/34ef0584-65de-4000-aa57-96d26812b9ef?departmentId=c28bf3bd-a5bb-40c4-a043-ac6ed053e3fd&amp;locationId=d3e38ccb-b511-4f08-a0f9-602dd46c7b48&amp",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.ashbyhq.com/Ankorstore/b2fdbb61-9559-429a-9ecc-5e78563aead3": {
+    "company": "ankorstore",
+    "title": "DevOpsEngineer@ Ankorstore",
+    "url": "https://jobs.ashbyhq.com/Ankorstore/b2fdbb61-9559-429a-9ecc-5e78563aead3",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.ashbyhq.com/Deel/bf7d8953-2997-4b79-a472-2eb5f787fd98/application?departmentId=8c27e7fa-f898-4de1-adf6-70c67c1e1c11": {
-    "company": "deel",
-    "title": "DevOpsEngineer@ Deel",
-    "url": "https://jobs.ashbyhq.com/Deel/bf7d8953-2997-4b79-a472-2eb5f787fd98/application?departmentId=8c27e7fa-f898-4de1-adf6-70c67c1e1c11",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://jobs.ashbyhq.com/openai/d24f97b8-8861-4d07-9ae3-0116fec8a33b?i12m_id=i12m-2024-4-5UJ": {
-    "company": "openai",
-    "title": "SiteReliabilityEngineer, Research Platform,SRE@ OpenAI",
-    "url": "https://jobs.ashbyhq.com/openai/d24f97b8-8861-4d07-9ae3-0116fec8a33b?i12m_id=i12m-2024-4-5UJ",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.ashbyhq.com/Aspora/2315ceee-2b8a-4c94-8866-39a4ec49d5f0": {
+    "company": "aspora",
+    "title": "DevOpsEngineer@ Aspora",
+    "url": "https://jobs.ashbyhq.com/Aspora/2315ceee-2b8a-4c94-8866-39a4ec49d5f0",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://jobs.ashbyhq.com/finmid.com/7d59a091-1d8f-456e-bd38-f8234864e661": {
     "company": "finmid.com",
     "title": "SiteReliabilityEngineer(SRE) @ Finmid",
     "url": "https://jobs.ashbyhq.com/finmid.com/7d59a091-1d8f-456e-bd38-f8234864e661",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.ashbyhq.com/assured/df6cadf6-0ffe-48e2-bc95-0193b14fe001?ref=getin.ai": {
-    "company": "assured",
-    "title": "SeniorSiteReliabilityEngineer(SRE) @ Assured",
-    "url": "https://jobs.ashbyhq.com/assured/df6cadf6-0ffe-48e2-bc95-0193b14fe001?ref=getin.ai",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.ashbyhq.com/baseten/916e9d62-492a-4562-971f-3e97e3868392": {
+    "company": "baseten",
+    "title": "SiteReliabilityEngineer(SRE) @ Baseten",
+    "url": "https://jobs.ashbyhq.com/baseten/916e9d62-492a-4562-971f-3e97e3868392",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.ashbyhq.com/Promise/db6045a3-f821-410e-9066-59ea42d72ce3": {
-    "company": "promise",
-    "title": "CloudSiteReliabilityEngineer(SRE) @ Promise",
-    "url": "https://jobs.ashbyhq.com/Promise/db6045a3-f821-410e-9066-59ea42d72ce3",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.ashbyhq.com/DeepL/49916ce6-2c95-47e9-9613-ef4fd0e80685": {
+    "company": "deepl",
+    "title": "SeniorSiteReliabilityEngineer@ DeepL",
+    "url": "https://jobs.ashbyhq.com/DeepL/49916ce6-2c95-47e9-9613-ef4fd0e80685",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://jobs.ashbyhq.com/amo/11ad3081-f6a0-4150-8681-4246d3cfa3e1": {
     "company": "amo",
     "title": "LeadSiteReliabilityEngineer(SRE) @ amo",
     "url": "https://jobs.ashbyhq.com/amo/11ad3081-f6a0-4150-8681-4246d3cfa3e1",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.ashbyhq.com/airapps/3078910f-918e-4aed-a2a8-b0027c94a4f2": {
-    "company": "airapps",
-    "title": "SiteReliabilityEngineer(SRE) @ Air Apps",
-    "url": "https://jobs.ashbyhq.com/airapps/3078910f-918e-4aed-a2a8-b0027c94a4f2",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://jobs.ashbyhq.com/v7labs.com/90ced817-cafd-4c6e-9348-ee7bc4c035c9": {
-    "company": "v7labs.com",
-    "title": "PlatformEngineer@ V7",
-    "url": "https://jobs.ashbyhq.com/v7labs.com/90ced817-cafd-4c6e-9348-ee7bc4c035c9",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://jobs.ashbyhq.com/oneapp/b068e6ee-dc63-4ec8-a5be-55b469dc97c6?subid1=31c01c5421d84fd7af0f8b5639f998a1": {
-    "company": "oneapp",
-    "title": "PlatformEngineer@ One",
-    "url": "https://jobs.ashbyhq.com/oneapp/b068e6ee-dc63-4ec8-a5be-55b469dc97c6?subid1=31c01c5421d84fd7af0f8b5639f998a1",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.ashbyhq.com/baseten/916e9d62-492a-4562-971f-3e97e3868392/application": {
+    "company": "baseten",
+    "title": "SiteReliabilityEngineer(SRE) @ Baseten",
+    "url": "https://jobs.ashbyhq.com/baseten/916e9d62-492a-4562-971f-3e97e3868392/application",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://jobs.ashbyhq.com/oneapp/b068e6ee-dc63-4ec8-a5be-55b469dc97c6?subid1=59b5a9e14e39439692e3d8f0af2fc0ee": {
     "company": "oneapp",
     "title": "PlatformEngineer@ One",
     "url": "https://jobs.ashbyhq.com/oneapp/b068e6ee-dc63-4ec8-a5be-55b469dc97c6?subid1=59b5a9e14e39439692e3d8f0af2fc0ee",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://jobs.ashbyhq.com/humanitec/0a1ad796-cd3b-4816-a0a6-89aef5a0c3ad": {
-    "company": "humanitec",
-    "title": "PlatformEngineer@ Humanitec",
-    "url": "https://jobs.ashbyhq.com/humanitec/0a1ad796-cd3b-4816-a0a6-89aef5a0c3ad",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://jobs.ashbyhq.com/onebrief/99b15d88-d9de-40a2-874a-2973bed67019": {
-    "company": "onebrief",
-    "title": "PlatformEngineer@ Onebrief",
-    "url": "https://jobs.ashbyhq.com/onebrief/99b15d88-d9de-40a2-874a-2973bed67019",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://jobs.ashbyhq.com/Abridge/d980a314-1c5f-422e-99f9-d36bda21f49d?departmentId=56d34434-48b2-462b-838a-c0ca458945be": {
     "company": "abridge",
     "title": "PlatformEngineer@ Abridge",
     "url": "https://jobs.ashbyhq.com/Abridge/d980a314-1c5f-422e-99f9-d36bda21f49d?departmentId=56d34434-48b2-462b-838a-c0ca458945be",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.ashbyhq.com/trainline/086e773e-8eda-4f7e-806a-bf85eb8bdef8": {
-    "company": "trainline",
-    "title": "CloudEngineer@ Trainline",
-    "url": "https://jobs.ashbyhq.com/trainline/086e773e-8eda-4f7e-806a-bf85eb8bdef8",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.ashbyhq.com/meticulous/2381385c-300f-4d91-91e4-b36f1ec86123": {
+    "company": "meticulous",
+    "title": "PlatformEngineer@ Meticulous",
+    "url": "https://jobs.ashbyhq.com/meticulous/2381385c-300f-4d91-91e4-b36f1ec86123",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.ashbyhq.com/neurons-lab.com/6aa51b76-f244-4cf2-99fb-6a1ac50a87cd": {
-    "company": "neurons-lab.com",
-    "title": "CloudEngineer@ Neurons Lab",
-    "url": "https://jobs.ashbyhq.com/neurons-lab.com/6aa51b76-f244-4cf2-99fb-6a1ac50a87cd",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.ashbyhq.com/humanitec/0a1ad796-cd3b-4816-a0a6-89aef5a0c3ad": {
+    "company": "humanitec",
+    "title": "PlatformEngineer@ Humanitec",
+    "url": "https://jobs.ashbyhq.com/humanitec/0a1ad796-cd3b-4816-a0a6-89aef5a0c3ad",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://jobs.ashbyhq.com/Abridge/d980a314-1c5f-422e-99f9-d36bda21f49d/application": {
+    "company": "abridge",
+    "title": "PlatformEngineer@ Abridge",
+    "url": "https://jobs.ashbyhq.com/Abridge/d980a314-1c5f-422e-99f9-d36bda21f49d/application",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://jobs.ashbyhq.com/openai/45ab8896-06bd-4c8e-bb76-914483d5d180": {
+    "company": "openai",
+    "title": "PlatformEngineer, Forward Deployed Engineering (FDE)",
+    "url": "https://jobs.ashbyhq.com/openai/45ab8896-06bd-4c8e-bb76-914483d5d180",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://jobs.ashbyhq.com/g2i/baed670e-4d57-4d2d-803d-7bb5843038ae": {
     "company": "g2i",
     "title": "CloudEngineer@ G2i Inc.",
     "url": "https://jobs.ashbyhq.com/g2i/baed670e-4d57-4d2d-803d-7bb5843038ae",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.ashbyhq.com/faculty/671e4b18-fda2-4d86-b675-adba5ca16d3f": {
-    "company": "faculty",
-    "title": "CloudEngineer@ Faculty",
-    "url": "https://jobs.ashbyhq.com/faculty/671e4b18-fda2-4d86-b675-adba5ca16d3f",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.ashbyhq.com/loopio/4319a30b-881a-4553-ac02-43ee8b5ee13a": {
+    "company": "loopio",
+    "title": "SeniorCloudEngineer- Ahmedabad/Hybrid @ Loopio Inc.",
+    "url": "https://jobs.ashbyhq.com/loopio/4319a30b-881a-4553-ac02-43ee8b5ee13a",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.ashbyhq.com/faculty/029ca795-622c-464e-b3cf-1b6942ac2c2a": {
-    "company": "faculty",
-    "title": "CloudEngineer- Talent Pool @ Faculty",
-    "url": "https://jobs.ashbyhq.com/faculty/029ca795-622c-464e-b3cf-1b6942ac2c2a",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.ashbyhq.com/careerstrengo/1c21ef96-da43-4cfa-8d4a-6de3e9cab015": {
+    "company": "careerstrengo",
+    "title": "SeniorCloudEngineer@ Trengo",
+    "url": "https://jobs.ashbyhq.com/careerstrengo/1c21ef96-da43-4cfa-8d4a-6de3e9cab015",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.ashbyhq.com/hyperexponential/01897d66-6a62-43e8-a77e-a13a6126e84c": {
-    "company": "hyperexponential",
-    "title": "CloudEngineer@ hyperexponential",
-    "url": "https://jobs.ashbyhq.com/hyperexponential/01897d66-6a62-43e8-a77e-a13a6126e84c",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.ashbyhq.com/neurons-lab.com/6aa51b76-f244-4cf2-99fb-6a1ac50a87cd/application": {
+    "company": "neurons-lab.com",
+    "title": "CloudEngineer@ Neurons Lab",
+    "url": "https://jobs.ashbyhq.com/neurons-lab.com/6aa51b76-f244-4cf2-99fb-6a1ac50a87cd/application",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.ashbyhq.com/openai/3de62595-eb62-4272-a611-ae393bb973a6": {
-    "company": "openai",
-    "title": "InfrastructureEngineer, Public Sector @ OpenAI",
-    "url": "https://jobs.ashbyhq.com/openai/3de62595-eb62-4272-a611-ae393bb973a6",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.ashbyhq.com/CUBE/435334fa-4b46-4b1b-9d96-33029990f640/application": {
+    "company": "cube",
+    "title": "CloudEngineer@ CUBE",
+    "url": "https://jobs.ashbyhq.com/CUBE/435334fa-4b46-4b1b-9d96-33029990f640/application",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.ashbyhq.com/inngest/50439b44-2a91-4136-b054-60e123d6251e": {
-    "company": "inngest",
-    "title": "InfrastructureEngineer@ Inngest",
-    "url": "https://jobs.ashbyhq.com/inngest/50439b44-2a91-4136-b054-60e123d6251e",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.ashbyhq.com/Ekumenlabs/e0c74c0b-ae37-48ff-b5b2-d4fc30be3488": {
+    "company": "ekumenlabs",
+    "title": "CloudEngineer@ Ekumen",
+    "url": "https://jobs.ashbyhq.com/Ekumenlabs/e0c74c0b-ae37-48ff-b5b2-d4fc30be3488",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://jobs.ashbyhq.com/Deepgram/3e70322f-f37e-448f-99e0-abe3ac07fe37?employmentType=FullTime": {
     "company": "deepgram",
     "title": "InfrastructureEngineer@ Deepgram",
     "url": "https://jobs.ashbyhq.com/Deepgram/3e70322f-f37e-448f-99e0-abe3ac07fe37?employmentType=FullTime",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.ashbyhq.com/Deepgram/3e70322f-f37e-448f-99e0-abe3ac07fe37": {
-    "company": "deepgram",
-    "title": "InfrastructureEngineer@ Deepgram",
-    "url": "https://jobs.ashbyhq.com/Deepgram/3e70322f-f37e-448f-99e0-abe3ac07fe37",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.ashbyhq.com/workos/26a54ffa-9465-4d13-bc5f-db41a2bbe505": {
+    "company": "workos",
+    "title": "InfrastructureEngineer@ WorkOS",
+    "url": "https://jobs.ashbyhq.com/workos/26a54ffa-9465-4d13-bc5f-db41a2bbe505",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.ashbyhq.com/openai/3de62595-eb62-4272-a611-ae393bb973a6?i12m_id=i12m-2024-4-5UJ": {
-    "company": "openai",
-    "title": "InfrastructureEngineer, Public Sector @ OpenAI",
-    "url": "https://jobs.ashbyhq.com/openai/3de62595-eb62-4272-a611-ae393bb973a6?i12m_id=i12m-2024-4-5UJ",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.ashbyhq.com/taktile/8b9387e0-0ec1-46b4-90aa-008432b4e23e": {
+    "company": "taktile",
+    "title": "InfrastructureEngineer@ Taktile",
+    "url": "https://jobs.ashbyhq.com/taktile/8b9387e0-0ec1-46b4-90aa-008432b4e23e",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.ashbyhq.com/Keyrock/8f9be728-cd30-4e58-9b94-3a96344b3115": {
-    "company": "keyrock",
-    "title": "InfrastructureEngineer@ Keyrock",
-    "url": "https://jobs.ashbyhq.com/Keyrock/8f9be728-cd30-4e58-9b94-3a96344b3115",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.ashbyhq.com/tandem/9727023d-02ff-412f-89ec-0f3074bb0ef3": {
+    "company": "tandem",
+    "title": "InfrastructureEngineer@ Tandem",
+    "url": "https://jobs.ashbyhq.com/tandem/9727023d-02ff-412f-89ec-0f3074bb0ef3",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.ashbyhq.com/airspace-intelligence.com/de0e53fb-8f74-4c65-8958-a5f54a1f93f7": {
-    "company": "airspace-intelligence.com",
-    "title": "DevSecOps@ Air Space Intelligence",
-    "url": "https://jobs.ashbyhq.com/airspace-intelligence.com/de0e53fb-8f74-4c65-8958-a5f54a1f93f7",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.ashbyhq.com/g2i/615ba46c-75ac-405a-ac45-1168e3f1a96d": {
+    "company": "g2i",
+    "title": "InfrastructureEngineer@ G2i Inc.",
+    "url": "https://jobs.ashbyhq.com/g2i/615ba46c-75ac-405a-ac45-1168e3f1a96d",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.ashbyhq.com/Flock+Safety/7585a2b2-1f69-48a0-8706-070e235fc272": {
-    "company": "flock+safety",
-    "title": "DevSecOpsEngineer @ Flock Safety",
-    "url": "https://jobs.ashbyhq.com/Flock+Safety/7585a2b2-1f69-48a0-8706-070e235fc272",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.ashbyhq.com/tern/3884a287-de84-4ef4-85d5-fa51cbf8bd04": {
+    "company": "tern",
+    "title": "InfrastructureEngineer@ Tern Travel",
+    "url": "https://jobs.ashbyhq.com/tern/3884a287-de84-4ef4-85d5-fa51cbf8bd04",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.ashbyhq.com/siena/cb547102-241a-46c4-b138-e52c459dc210?ref=supporthuman.cx": {
-    "company": "siena",
-    "title": "DevSecOpsEngineer @ Siena AI",
-    "url": "https://jobs.ashbyhq.com/siena/cb547102-241a-46c4-b138-e52c459dc210?ref=supporthuman.cx",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.ashbyhq.com/truelogic/92a02030-8b83-4819-848e-402ede7e1257": {
+    "company": "truelogic",
+    "title": "SeniorDevSecOpsEngineer",
+    "url": "https://jobs.ashbyhq.com/truelogic/92a02030-8b83-4819-848e-402ede7e1257",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://jobs.ashbyhq.com/truelogic/0be77ba2-6b58-46ae-adcc-ff69237ae997": {
+    "company": "truelogic",
+    "title": "SeniorDevSecOpsEngineer",
+    "url": "https://jobs.ashbyhq.com/truelogic/0be77ba2-6b58-46ae-adcc-ff69237ae997",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://jobs.ashbyhq.com/truelogic/1377edd1-f117-428f-bd8c-57ca97c7e3af": {
+    "company": "truelogic",
+    "title": "SeniorDevSecOpsEngineer",
+    "url": "https://jobs.ashbyhq.com/truelogic/1377edd1-f117-428f-bd8c-57ca97c7e3af",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://jobs.ashbyhq.com/truelogic/9138b7cc-46a8-4ded-a357-8f1640bb1ed2": {
+    "company": "truelogic",
+    "title": "SeniorDevSecOpsEngineer",
+    "url": "https://jobs.ashbyhq.com/truelogic/9138b7cc-46a8-4ded-a357-8f1640bb1ed2",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://jobs.ashbyhq.com/playson/b18938c8-6f6b-4955-ab5c-45b9e9281ca1": {
     "company": "playson",
     "title": "DevSecOpsEngineer @ Playson",
     "url": "https://jobs.ashbyhq.com/playson/b18938c8-6f6b-4955-ab5c-45b9e9281ca1",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://jobs.ashbyhq.com/oneapp/71c03ff4-5370-474a-be5c-a472056bce35?locationId=9ff59dee-5fb8-4482-9973-b0efd8f15b82": {
     "company": "oneapp",
     "title": "CloudInfrastructureEngineer @ ONE",
     "url": "https://jobs.ashbyhq.com/oneapp/71c03ff4-5370-474a-be5c-a472056bce35?locationId=9ff59dee-5fb8-4482-9973-b0efd8f15b82",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://jobs.ashbyhq.com/M-KOPA/540fcad1-aeab-44ab-a9d9-79a21cd16f82": {
     "company": "m-kopa",
     "title": "CloudInfrastructureEngineer @ M-KOPA",
     "url": "https://jobs.ashbyhq.com/M-KOPA/540fcad1-aeab-44ab-a9d9-79a21cd16f82",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.ashbyhq.com/notion/e050309a-6b81-4341-b1ca-9bdd17e62e13?ref=Simplify": {
-    "company": "notion",
-    "title": "Software Engineer,CloudInfrastructure@ Notion",
-    "url": "https://jobs.ashbyhq.com/notion/e050309a-6b81-4341-b1ca-9bdd17e62e13?ref=Simplify",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://jobs.ashbyhq.com/openai/973ef76d-ddb8-41fd-87bb-2f701556749d": {
-    "company": "openai",
-    "title": "Software Engineer,CloudInfrastructure@ OpenAI",
-    "url": "https://jobs.ashbyhq.com/openai/973ef76d-ddb8-41fd-87bb-2f701556749d",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.ashbyhq.com/hatch/4c62ae75-eeb3-48c3-96c1-4c30c90b81b0": {
+    "company": "hatch",
+    "title": "CloudInfrastructureEngineer @ Hatch",
+    "url": "https://jobs.ashbyhq.com/hatch/4c62ae75-eeb3-48c3-96c1-4c30c90b81b0",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://jobs.ashbyhq.com/M-KOPA/540fcad1-aeab-44ab-a9d9-79a21cd16f82?embed=js": {
     "company": "m-kopa",
     "title": "CloudInfrastructureEngineer @ M-KOPA",
     "url": "https://jobs.ashbyhq.com/M-KOPA/540fcad1-aeab-44ab-a9d9-79a21cd16f82?embed=js",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.ashbyhq.com/M-KOPA/540fcad1-aeab-44ab-a9d9-79a21cd16f82/application": {
-    "company": "m-kopa",
-    "title": "CloudInfrastructureEngineer @ M-KOPA",
-    "url": "https://jobs.ashbyhq.com/M-KOPA/540fcad1-aeab-44ab-a9d9-79a21cd16f82/application",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.ashbyhq.com/openai/27f268ed-9a32-4381-a04e-7a6074c1e127?i12m_id=i12m-2024-4-5UJ": {
+    "company": "openai",
+    "title": "Software Engineer,CloudInfrastructure@ OpenAI",
+    "url": "https://jobs.ashbyhq.com/openai/27f268ed-9a32-4381-a04e-7a6074c1e127?i12m_id=i12m-2024-4-5UJ",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.ashbyhq.com/elevenlabs/e33b89aa-a64d-4ac9-a394-6287143bdda0": {
-    "company": "elevenlabs",
-    "title": "Reliability& TestEngineer@ Elevenlabs",
-    "url": "https://jobs.ashbyhq.com/elevenlabs/e33b89aa-a64d-4ac9-a394-6287143bdda0",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.ashbyhq.com/atlan/4a625b89-5b88-4bf2-9e4c-edba06f15151": {
+    "company": "atlan",
+    "title": "SiteReliabilityEngineerII @ Atlan",
+    "url": "https://jobs.ashbyhq.com/atlan/4a625b89-5b88-4bf2-9e4c-edba06f15151",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.ashbyhq.com/Crusoe/96d29d17-1357-486e-bf87-ca315d59b344": {
-    "company": "crusoe",
-    "title": "Senior SiteReliabilityEngineer, Storage @ Crusoe",
-    "url": "https://jobs.ashbyhq.com/Crusoe/96d29d17-1357-486e-bf87-ca315d59b344",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.ashbyhq.com/Baseten/916e9d62-492a-4562-971f-3e97e3868392": {
+    "company": "baseten",
+    "title": "SiteReliabilityEngineer(SRE) @ Baseten",
+    "url": "https://jobs.ashbyhq.com/Baseten/916e9d62-492a-4562-971f-3e97e3868392",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.ashbyhq.com/oneapp/d228364c-1b6b-4666-a979-4b12158a0104?subid1=ca71efacf43b4315b97cc8326f1659c4": {
-    "company": "oneapp",
-    "title": "SiteReliabilityEngineer@ ONE",
-    "url": "https://jobs.ashbyhq.com/oneapp/d228364c-1b6b-4666-a979-4b12158a0104?subid1=ca71efacf43b4315b97cc8326f1659c4",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.ashbyhq.com/articul8/235d1fb6-db36-4364-9fe8-67219b11bc43": {
+    "company": "articul8",
+    "title": "Senior SiteReliabilityEngineer(SRE)",
+    "url": "https://jobs.ashbyhq.com/articul8/235d1fb6-db36-4364-9fe8-67219b11bc43",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.ashbyhq.com/duck-duck-go/9f845ea5-4bdd-432a-8266-7febe26c7163": {
-    "company": "duck-duck-go",
-    "title": "Senior SiteReliabilityEngineer@ DuckDuckGo",
-    "url": "https://jobs.ashbyhq.com/duck-duck-go/9f845ea5-4bdd-432a-8266-7febe26c7163",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.ashbyhq.com/thought-machine/d1e5020a-adb8-4e29-8c62-a1b6985cb232": {
+    "company": "thought-machine",
+    "title": "SiteReliabilityEngineer@ Thought Machine",
+    "url": "https://jobs.ashbyhq.com/thought-machine/d1e5020a-adb8-4e29-8c62-a1b6985cb232",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.ashbyhq.com/oneapp/7b3ae3e0-cfe7-40e1-b3d9-45c2bdcd863f?subid1=ca71efacf43b4315b97cc8326f1659c4": {
-    "company": "oneapp",
-    "title": "SiteReliabilityEngineer@ One",
-    "url": "https://jobs.ashbyhq.com/oneapp/7b3ae3e0-cfe7-40e1-b3d9-45c2bdcd863f?subid1=ca71efacf43b4315b97cc8326f1659c4",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.ashbyhq.com/astronomer/c9e81bce-beff-475d-8e67-1faf71f8a2e6": {
+    "company": "astronomer",
+    "title": "Senior CustomerReliabilityEngineer- Infrastructure @ Astronomer",
+    "url": "https://jobs.ashbyhq.com/astronomer/c9e81bce-beff-475d-8e67-1faf71f8a2e6",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://jobs.smartrecruiters.com/?keyword=devops": {
     "company": "?keyword=devops",
     "title": "SmartRecruiters Job Search",
     "url": "https://jobs.smartrecruiters.com/?keyword=devops",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://jobs.smartrecruiters.com/Insightsoftware/744000041125505-devops-engineer": {
-    "company": "insightsoftware",
-    "title": "insightsoftwareDevOpsEngineer| SmartRecruiters",
-    "url": "https://jobs.smartrecruiters.com/Insightsoftware/744000041125505-devops-engineer",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://jobs.smartrecruiters.com/NEXT2/744000006499035-devops-engineer": {
-    "company": "next2",
-    "title": "NEXTDevOpsengineer| SmartRecruiters",
-    "url": "https://jobs.smartrecruiters.com/NEXT2/744000006499035-devops-engineer",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://jobs.smartrecruiters.com/VONQ/743999844148538-devops-engineer": {
     "company": "vonq",
     "title": "VONQDevOpsEngineer| SmartRecruiters",
     "url": "https://jobs.smartrecruiters.com/VONQ/743999844148538-devops-engineer",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.smartrecruiters.com/SQLI1/743999919870575-devops-engineer": {
-    "company": "sqli1",
-    "title": "SQLIDevOpsEngineer| SmartRecruiters",
-    "url": "https://jobs.smartrecruiters.com/SQLI1/743999919870575-devops-engineer",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.smartrecruiters.com/DeepBlueCompany/743999818910899-devops-engineer": {
+    "company": "deepbluecompany",
+    "title": "Deep Blue CompanyDevOpsEngineer| SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/DeepBlueCompany/743999818910899-devops-engineer",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.smartrecruiters.com/NEXT2/744000046528155-devops-engineer": {
-    "company": "next2",
-    "title": "NEXTDevOpsengineer| SmartRecruiters",
-    "url": "https://jobs.smartrecruiters.com/NEXT2/744000046528155-devops-engineer",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.smartrecruiters.com/DeepBlueCompany/743999833219905-devops-engineer": {
+    "company": "deepbluecompany",
+    "title": "Deep Blue CompanyDevOpsEngineer| SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/DeepBlueCompany/743999833219905-devops-engineer",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://jobs.smartrecruiters.com/Devoteam/743999856793813-devops-engineer": {
+    "company": "devoteam",
+    "title": "DevoteamDevOpsEngineer| SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/Devoteam/743999856793813-devops-engineer",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://jobs.smartrecruiters.com/Renaissance/744000063607119-salesforce-devops-engineer": {
+    "company": "renaissance",
+    "title": "Renaissance SalesforceDevOpsEngineer| SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/Renaissance/744000063607119-salesforce-devops-engineer",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://jobs.smartrecruiters.com/Now100/743999884115973-site-reliability-engineer-sre": {
+    "company": "now100",
+    "title": "Now100SiteReliabilityEngineer-SRE| SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/Now100/743999884115973-site-reliability-engineer-sre",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://jobs.smartrecruiters.com/Devexperts/744000010915894-site-reliability-engineer-sre-": {
     "company": "devexperts",
     "title": "DevexpertsSiteReliabilityEngineer(SRE)",
     "url": "https://jobs.smartrecruiters.com/Devexperts/744000010915894-site-reliability-engineer-sre-",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.smartrecruiters.com/Square/743999834187932-site-reliability-engineer": {
-    "company": "square",
-    "title": "BlockSiteReliabilityEngineer| SmartRecruiters",
-    "url": "https://jobs.smartrecruiters.com/Square/743999834187932-site-reliability-engineer",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.smartrecruiters.com/Etsy2/743999887142178-senior-site-reliability-engineer-i-foundation-sre": {
+    "company": "etsy2",
+    "title": "Etsy SeniorSiteReliabilityEngineerI, FoundationSRE",
+    "url": "https://jobs.smartrecruiters.com/Etsy2/743999887142178-senior-site-reliability-engineer-i-foundation-sre",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.smartrecruiters.com/Square/743999826023954-site-reliability-engineer": {
-    "company": "square",
-    "title": "BlockSiteReliabilityEngineer| SmartRecruiters",
-    "url": "https://jobs.smartrecruiters.com/Square/743999826023954-site-reliability-engineer",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.smartrecruiters.com/JobsForHumanity/743999978735023-site-reliability-engineer-sre-": {
+    "company": "jobsforhumanity",
+    "title": "Jobs for HumanitySiteReliabilityEngineer(SRE)",
+    "url": "https://jobs.smartrecruiters.com/JobsForHumanity/743999978735023-site-reliability-engineer-sre-",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.smartrecruiters.com/NielsenIQ/744000056700860-site-reliability-engineer": {
-    "company": "nielseniq",
-    "title": "NielsenIQSiteReliabilityEngineer| SmartRecruiters",
-    "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000056700860-site-reliability-engineer",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://jobs.smartrecruiters.com/Humanity/743999847831816-senior-site-reliability-engineer": {
-    "company": "humanity",
-    "title": "Humanity SeniorSiteReliabilityEngineer| SmartRecruiters",
-    "url": "https://jobs.smartrecruiters.com/Humanity/743999847831816-senior-site-reliability-engineer",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://jobs.smartrecruiters.com/Devexperts/744000005693316-site-reliability-engineer-sre-": {
+  "ddg::https://jobs.smartrecruiters.com/Devexperts/744000037989856-site-reliability-engineer-sre-": {
     "company": "devexperts",
     "title": "DevexpertsSiteReliabilityEngineer(SRE)",
-    "url": "https://jobs.smartrecruiters.com/Devexperts/744000005693316-site-reliability-engineer-sre-",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "url": "https://jobs.smartrecruiters.com/Devexperts/744000037989856-site-reliability-engineer-sre-",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://jobs.smartrecruiters.com/Visa/743999808346730-sw-engineer-site-reliability-engineer": {
+    "company": "visa",
+    "title": "Visa SW Engineer -SiteReliabilityEngineer| SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/Visa/743999808346730-sw-engineer-site-reliability-engineer",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://jobs.smartrecruiters.com/NielsenIQ/744000065088124-platform-engineer": {
     "company": "nielseniq",
     "title": "NielsenIQPlatformEngineer| SmartRecruiters",
     "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000065088124-platform-engineer",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://jobs.smartrecruiters.com/NielsenIQ/744000062621025-platform-engineer": {
     "company": "nielseniq",
     "title": "NielsenIQPlatformEngineer| SmartRecruiters",
     "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000062621025-platform-engineer",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.smartrecruiters.com/AJBell1/743999960618313-platform-engineer": {
-    "company": "ajbell1",
-    "title": "AJ BellPlatformEngineer| SmartRecruiters",
-    "url": "https://jobs.smartrecruiters.com/AJBell1/743999960618313-platform-engineer",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://jobs.smartrecruiters.com/EvelynPartners/744000049761526-platform-engineer": {
-    "company": "evelynpartners",
-    "title": "Evelyn PartnersPlatformEngineer| SmartRecruiters",
-    "url": "https://jobs.smartrecruiters.com/EvelynPartners/744000049761526-platform-engineer",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://jobs.smartrecruiters.com/EvelynPartners/744000049761865-platform-engineer": {
-    "company": "evelynpartners",
-    "title": "Evelyn PartnersPlatformEngineer| SmartRecruiters",
-    "url": "https://jobs.smartrecruiters.com/EvelynPartners/744000049761865-platform-engineer",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://jobs.smartrecruiters.com/Nexthink/743999917221823-platform-engineer": {
-    "company": "nexthink",
-    "title": "NexthinkPlatformEngineer| SmartRecruiters",
-    "url": "https://jobs.smartrecruiters.com/Nexthink/743999917221823-platform-engineer",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://jobs.smartrecruiters.com/SopraSteria1/744000022996016-cloud-engineer": {
-    "company": "soprasteria1",
-    "title": "Sopra SteriaCloudEngineer| SmartRecruiters",
-    "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000022996016-cloud-engineer",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://jobs.smartrecruiters.com/Humanity/743999820380307-cloud-engineer": {
+  "ddg::https://jobs.smartrecruiters.com/Humanity/743999837194356-platform-engineer": {
     "company": "humanity",
-    "title": "HumanityCloudEngineer| SmartRecruiters",
-    "url": "https://jobs.smartrecruiters.com/Humanity/743999820380307-cloud-engineer",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "title": "HumanityPlatformEngineer| SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/Humanity/743999837194356-platform-engineer",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.smartrecruiters.com/TOPdesk/744000029885131-cloud-engineer": {
-    "company": "topdesk",
-    "title": "TOPdeskCloudengineer| SmartRecruiters",
-    "url": "https://jobs.smartrecruiters.com/TOPdesk/744000029885131-cloud-engineer",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.smartrecruiters.com/TTP1/744000073987386-platform-engineer": {
+    "company": "ttp1",
+    "title": "TTPPlatformEngineer| SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/TTP1/744000073987386-platform-engineer",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.smartrecruiters.com/Inlogik/743999957764033-cloud-engineer-azure-": {
-    "company": "inlogik",
-    "title": "InlogikCloudEngineer(Azure)",
-    "url": "https://jobs.smartrecruiters.com/Inlogik/743999957764033-cloud-engineer-azure-",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.smartrecruiters.com/Entain/744000021486380-platform-engineer-iii": {
+    "company": "entain",
+    "title": "EntainPlatformEngineerIII",
+    "url": "https://jobs.smartrecruiters.com/Entain/744000021486380-platform-engineer-iii",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.smartrecruiters.com/Humanity/743999838978646-cloud-engineer": {
-    "company": "humanity",
-    "title": "HumanityCloudEngineer| SmartRecruiters",
-    "url": "https://jobs.smartrecruiters.com/Humanity/743999838978646-cloud-engineer",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.smartrecruiters.com/Montu/744000019498345-platform-engineer": {
+    "company": "montu",
+    "title": "MontuPlatformEngineer| SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/Montu/744000019498345-platform-engineer",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.smartrecruiters.com/NielsenIQ/744000065088385-cloud-engineer": {
-    "company": "nielseniq",
-    "title": "NielsenIQCloudEngineer| SmartRecruiters",
-    "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000065088385-cloud-engineer",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.smartrecruiters.com/TelefonicaTech/743999925216323-infrastructure-engineer": {
+    "company": "telefonicatech",
+    "title": "Telefonica TechInfrastructureEngineer| SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/TelefonicaTech/743999925216323-infrastructure-engineer",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.smartrecruiters.com/Unit44/744000040230595-infrastructure-engineer": {
-    "company": "unit44",
-    "title": "Unit4InfrastructureEngineer| SmartRecruiters",
-    "url": "https://jobs.smartrecruiters.com/Unit44/744000040230595-infrastructure-engineer",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.smartrecruiters.com/TelefonicaTech/743999925216462-infrastructure-engineer": {
+    "company": "telefonicatech",
+    "title": "Telefonica TechInfrastructureEngineer| SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/TelefonicaTech/743999925216462-infrastructure-engineer",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.smartrecruiters.com/Nine/744000074867915-infrastructure-engineer": {
-    "company": "nine",
-    "title": "NineInfrastructureEngineer| SmartRecruiters",
-    "url": "https://jobs.smartrecruiters.com/Nine/744000074867915-infrastructure-engineer",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.smartrecruiters.com/TelefonicaTech/744000023258228-infrastructure-engineer": {
+    "company": "telefonicatech",
+    "title": "Telefonica TechInfrastructureEngineer| SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/TelefonicaTech/744000023258228-infrastructure-engineer",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.smartrecruiters.com/Unit44/744000067157725-infrastructure-engineer": {
-    "company": "unit44",
-    "title": "Unit4InfrastructureEngineer| SmartRecruiters",
-    "url": "https://jobs.smartrecruiters.com/Unit44/744000067157725-infrastructure-engineer",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.smartrecruiters.com/PenguinFormula/744000021658565-infrastructure-engineer-relocation-to-belgium-": {
+    "company": "penguinformula",
+    "title": "Penguin FormulaInfrastructureEngineer...",
+    "url": "https://jobs.smartrecruiters.com/PenguinFormula/744000021658565-infrastructure-engineer-relocation-to-belgium-",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.smartrecruiters.com/Unit44/744000058212761-infrastructure-engineer": {
-    "company": "unit44",
-    "title": "Unit4InfrastructureEngineer| SmartRecruiters",
-    "url": "https://jobs.smartrecruiters.com/Unit44/744000058212761-infrastructure-engineer",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.smartrecruiters.com/TelefonicaTech/744000016034064-infrastructure-engineer": {
+    "company": "telefonicatech",
+    "title": "Telefonica TechInfrastructureEngineer| SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/TelefonicaTech/744000016034064-infrastructure-engineer",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.smartrecruiters.com/AlterSolutions/744000064117174-infrastructure-engineer": {
-    "company": "altersolutions",
-    "title": "Alter SolutionsInfrastructureEngineer| SmartRecruiters",
-    "url": "https://jobs.smartrecruiters.com/AlterSolutions/744000064117174-infrastructure-engineer",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://jobs.smartrecruiters.com/IQEQ/743999779221116-infrastructure-engineer": {
-    "company": "iqeq",
-    "title": "IQ-EQInfrastructureEngineer| SmartRecruiters",
-    "url": "https://jobs.smartrecruiters.com/IQEQ/743999779221116-infrastructure-engineer",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://jobs.smartrecruiters.com/01Systems/744000068382986-devsecops-engineer": {
-    "company": "01systems",
-    "title": "01 SystemsDevSecOpsEngineer",
-    "url": "https://jobs.smartrecruiters.com/01Systems/744000068382986-devsecops-engineer",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://jobs.smartrecruiters.com/01Systems/744000071680240-devsecops-engineer": {
-    "company": "01systems",
-    "title": "01 SystemsDevSecOpsEngineer",
-    "url": "https://jobs.smartrecruiters.com/01Systems/744000071680240-devsecops-engineer",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://jobs.smartrecruiters.com/ServiceNow/744000071174285-security-manager-site-reliability-sre-devsecops": {
-    "company": "servicenow",
-    "title": "Site Reliability (SRE) |DevSecOps",
-    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000071174285-security-manager-site-reliability-sre-devsecops",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://jobs.smartrecruiters.com/ServiceNow/744000071174375-security-manager-site-reliability-sre-devsecops": {
-    "company": "servicenow",
-    "title": "Site Reliability (SRE) |DevSecOps",
-    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000071174375-security-manager-site-reliability-sre-devsecops",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.smartrecruiters.com/TelefonicaTech/744000014155676-infrastructure-engineer": {
+    "company": "telefonicatech",
+    "title": "Telefonica TechInfrastructureEngineer| SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/TelefonicaTech/744000014155676-infrastructure-engineer",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://jobs.smartrecruiters.com/Cint/744000070509564-cloud-infrastructure-finops-engineer": {
     "company": "cint",
     "title": "CintCloudInfrastructureFinOps Engineer",
     "url": "https://jobs.smartrecruiters.com/Cint/744000070509564-cloud-infrastructure-finops-engineer",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://jobs.smartrecruiters.com/Cint/744000070509076-cloud-infrastructure-finops-engineer": {
-    "company": "cint",
-    "title": "CintCloudInfrastructureFinOps Engineer",
-    "url": "https://jobs.smartrecruiters.com/Cint/744000070509076-cloud-infrastructure-finops-engineer",
-    "first_seen_utc": "2026-04-05 13:08:20"
-  },
-  "ddg::https://jobs.smartrecruiters.com/Shawbrook/744000025445385-cloud-infrastructure-engineer": {
-    "company": "shawbrook",
-    "title": "ShawbrookCloudInfrastructureEngineer",
-    "url": "https://jobs.smartrecruiters.com/Shawbrook/744000025445385-cloud-infrastructure-engineer",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://jobs.smartrecruiters.com/Cint/744000065664375-cloud-infrastructure-finops-engineer": {
     "company": "cint",
     "title": "CintCloudInfrastructureFinOps Engineer",
     "url": "https://jobs.smartrecruiters.com/Cint/744000065664375-cloud-infrastructure-finops-engineer",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.smartrecruiters.com/NoblesseRecruitment/744000028963825-reliability-engineer": {
-    "company": "noblesserecruitment",
-    "title": "Noblesse RecruitmentReliabilityEngineer| SmartRecruiters",
-    "url": "https://jobs.smartrecruiters.com/NoblesseRecruitment/744000028963825-reliability-engineer",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.smartrecruiters.com/IOMAXISLLC/3743990007276226-cloud-infrastructure-engineer": {
+    "company": "iomaxisllc",
+    "title": "MAXISIQ, Inc.CloudInfrastructureEngineer",
+    "url": "https://jobs.smartrecruiters.com/IOMAXISLLC/3743990007276226-cloud-infrastructure-engineer",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://jobs.smartrecruiters.com/Shawbrook/744000025445385-cloud-infrastructure-engineer": {
+    "company": "shawbrook",
+    "title": "ShawbrookCloudInfrastructureEngineer",
+    "url": "https://jobs.smartrecruiters.com/Shawbrook/744000025445385-cloud-infrastructure-engineer",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
   "ddg::https://jobs.smartrecruiters.com/LLNL/3743990005529406-reliability-engineer": {
     "company": "llnl",
     "title": "LLNLReliabilityEngineer| SmartRecruiters",
     "url": "https://jobs.smartrecruiters.com/LLNL/3743990005529406-reliability-engineer",
-    "first_seen_utc": "2026-04-05 13:08:20"
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000026293676-reliability-engineer": {
-    "company": "veoliaenvironnementsa",
-    "title": "Veolia Environnement SAReliabilityEngineer| SmartRecruiters",
-    "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000026293676-reliability-engineer",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.smartrecruiters.com/Eurofins/743999835042616-reliability-engineer": {
+    "company": "eurofins",
+    "title": "EurofinsReliabilityEngineer| SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/Eurofins/743999835042616-reliability-engineer",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.smartrecruiters.com/Biogen/744000008665924-sr-reliability-engineer-i-manufacturing-maintenance-?trid=e7b8bf00-bb73-4855-bbd7-4429f418b1f8": {
-    "company": "biogen",
-    "title": "Biogen Sr.ReliabilityEngineerI (Manufacturing...)",
-    "url": "https://jobs.smartrecruiters.com/Biogen/744000008665924-sr-reliability-engineer-i-manufacturing-maintenance-?trid=e7b8bf00-bb73-4855-bbd7-4429f418b1f8",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.smartrecruiters.com/AngloAmericanDeBeersGroup/744000064432376-reliability-engineer": {
+    "company": "angloamericandebeersgroup",
+    "title": "Anglo American / De Beers GroupReliabilityEngineer",
+    "url": "https://jobs.smartrecruiters.com/AngloAmericanDeBeersGroup/744000064432376-reliability-engineer",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.smartrecruiters.com/Biogen/744000022066826-sr-reliability-engineer-i-maintenance-reliability-": {
-    "company": "biogen",
-    "title": "Biogen Sr.ReliabilityEngineerI (Maintenance...)",
-    "url": "https://jobs.smartrecruiters.com/Biogen/744000022066826-sr-reliability-engineer-i-maintenance-reliability-",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.smartrecruiters.com/?company=visa": {
+    "company": "?company=visa",
+    "title": "SmartRecruiters Job Search",
+    "url": "https://jobs.smartrecruiters.com/?company=visa",
+    "first_seen_utc": "2026-04-06 13:20:58"
   },
-  "ddg::https://jobs.smartrecruiters.com/Biogen/743999980608673-sr-reliability-engineer-i": {
-    "company": "biogen",
-    "title": "Biogen Sr.ReliabilityEngineerI",
-    "url": "https://jobs.smartrecruiters.com/Biogen/743999980608673-sr-reliability-engineer-i",
-    "first_seen_utc": "2026-04-05 13:08:20"
+  "ddg::https://jobs.smartrecruiters.com/AditiStaffing1/743999658450681-reliability-engineer": {
+    "company": "aditistaffing1",
+    "title": "AditiStaffingReliabilityEngineer| SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/AditiStaffing1/743999658450681-reliability-engineer",
+    "first_seen_utc": "2026-04-06 13:20:58"
+  },
+  "ddg::https://jobs.smartrecruiters.com/Trainline/743999962858003": {
+    "company": "trainline",
+    "title": "Trainline SiteReliabilityEngineer| SmartRecruiters",
+    "url": "https://jobs.smartrecruiters.com/Trainline/743999962858003",
+    "first_seen_utc": "2026-04-06 13:20:58"
   }
 }
