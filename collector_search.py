@@ -62,10 +62,50 @@ _EXCLUDED_TITLE_WORDS = [
 ]
 
 _NON_US_MARKERS = [
-    "europe", "uk only", "germany", "berlin", "france", "paris",
-    "netherlands", "amsterdam", "spain", "poland", "sweden", "india",
-    "bangalore", "mumbai", "latam", "australia", "sydney", "canada only",
-    "brazil", "mexico only", "asia", "singapore", "japan", "seoul",
+    "europe", "eu only", "uk only", "united kingdom", "england", "london",
+    "germany", "berlin", "munich", "münchen", "hamburg", "frankfurt", "cologne",
+    "köln", "dusseldorf", "düsseldorf", "stuttgart", "dortmund", "bremen",
+    "bochum", "potsdam", "darmstadt", "nuremberg", "nürnberg", "hannover",
+    "france", "paris", "lyon", "marseille",
+    "netherlands", "amsterdam", "rotterdam",
+    "spain", "madrid", "barcelona", "seville",
+    "poland", "warsaw", "krakow",
+    "sweden", "stockholm", "gothenburg",
+    "denmark", "copenhagen",
+    "norway", "oslo",
+    "finland", "helsinki",
+    "austria", "vienna",
+    "switzerland", "zurich", "zürich", "geneva",
+    "belgium", "brussels",
+    "portugal", "lisbon",
+    "italy", "milan", "rome", "turin",
+    "czechia", "prague", "czech republic",
+    "romania", "bucharest",
+    "hungary", "budapest",
+    "ukraine", "kyiv",
+    "russia", "moscow",
+    "serbia", "belgrade", "slovenia", "ljubljana",
+    "croatia", "zagreb", "slovakia", "bratislava", "bulgaria", "sofia",
+    "greece", "athens", "cyprus", "nicosia", "estonia", "tallinn",
+    "latvia", "riga", "lithuania", "vilnius", "iceland", "reykjavik",
+    "turkey", "istanbul", "ankara", "israel", "tel aviv", "dubai", "uae",
+    "egypt", "cairo", "south africa", "nigeria", "kenya",
+    "india", "bangalore", "bengaluru", "mumbai", "delhi", "hyderabad", "pune", "chennai",
+    "latam", "latin america",
+    "apac", "australia", "sydney", "melbourne", "brisbane",
+    "new zealand", "auckland",
+    "canada only",
+    "brazil", "são paulo", "sao paulo",
+    "mexico only", "mexico city",
+    "asia", "singapore", "japan", "tokyo", "osaka",
+    "south korea", "seoul",
+    "china", "beijing", "shanghai",
+    "taiwan", "taipei",
+    "indonesia", "jakarta",
+    "thailand", "bangkok",
+    "vietnam", "ho chi minh",
+    "philippines", "manila",
+    "montenegro", "remoto", "relocation to",
 ]
 
 _HYBRID_MARKERS = ["hybrid", "on-site", "onsite", "in office", "in-office", "office"]
@@ -99,7 +139,10 @@ def is_excluded_title(title: str) -> bool:
     return any(w in t for w in _EXCLUDED_TITLE_WORDS)
 
 
-def is_us_eligible(location: str) -> bool:
+_HQ_RE = re.compile(r"headquarters?\s*[:：]\s*([^\n.]+)", re.IGNORECASE)
+
+
+def is_us_eligible(location: str, description: str = "") -> bool:
     loc = normalize(location)
 
     # Block non-US locations
@@ -110,6 +153,22 @@ def is_us_eligible(location: str) -> bool:
     # Hybrid/on-site only if Minnesota
     if any(m in loc for m in _HYBRID_MARKERS):
         return any(m in loc for m in _MINNESOTA_MARKERS)
+
+    # Check description for "Headquarters: <city>" pattern
+    if description:
+        m = _HQ_RE.search(description)
+        if m:
+            hq = normalize(m.group(1))
+            for marker in _NON_US_MARKERS:
+                if marker in hq:
+                    return False
+
+    # Block if description snippet reveals non-US location (for empty-location DDG results)
+    if description and not loc:
+        desc_norm = normalize(description)
+        for marker in _NON_US_MARKERS:
+            if marker in desc_norm:
+                return False
 
     return True
 
@@ -262,7 +321,7 @@ def main() -> None:
             continue
         if is_excluded_title(job.get("title", "")):
             continue
-        if not is_us_eligible(job.get("location", "")):
+        if not is_us_eligible(job.get("location", ""), job.get("description_snippet", "")):
             continue
 
         job["collected_at_utc"] = now.strftime("%Y-%m-%d %H:%M:%S")

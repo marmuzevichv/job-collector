@@ -62,23 +62,60 @@ def is_excluded_title(title: str) -> bool:
 
 
 _NON_US_MARKERS = [
-    "europe", "eu only", "uk only", "germany", "berlin", "munich", "hamburg",
-    "bochum", "potsdam", "france", "paris", "netherlands", "amsterdam",
-    "spain", "madrid", "barcelona", "poland", "warsaw", "sweden", "stockholm",
-    "denmark", "norway", "finland", "austria", "vienna", "switzerland",
-    "belgium", "portugal", "italy", "milan", "rome", "czechia", "prague",
-    "czech republic", "romania", "hungary", "india", "bangalore", "mumbai",
-    "latam", "latin america", "apac", "australia", "sydney", "melbourne",
-    "new zealand", "canada only", "brazil", "mexico only", "mexico city",
-    "asia", "singapore", "japan", "tokyo", "south korea", "seoul",
-    "montenegro", "relocation to",
+    "europe", "eu only", "uk only", "united kingdom", "england", "london",
+    "germany", "berlin", "munich", "münchen", "hamburg", "frankfurt", "cologne",
+    "köln", "dusseldorf", "düsseldorf", "stuttgart", "dortmund", "bremen",
+    "bochum", "potsdam", "darmstadt", "nuremberg", "nürnberg", "hannover",
+    "france", "paris", "lyon", "marseille",
+    "netherlands", "amsterdam", "rotterdam",
+    "spain", "madrid", "barcelona", "seville",
+    "poland", "warsaw", "krakow",
+    "sweden", "stockholm", "gothenburg",
+    "denmark", "copenhagen",
+    "norway", "oslo",
+    "finland", "helsinki",
+    "austria", "vienna",
+    "switzerland", "zurich", "zürich", "geneva",
+    "belgium", "brussels",
+    "portugal", "lisbon",
+    "italy", "milan", "rome", "turin",
+    "czechia", "prague", "czech republic",
+    "romania", "bucharest",
+    "hungary", "budapest",
+    "ukraine", "kyiv",
+    "russia", "moscow",
+    "india", "bangalore", "bengaluru", "mumbai", "delhi", "hyderabad", "pune", "chennai",
+    "latam", "latin america",
+    "apac", "australia", "sydney", "melbourne", "brisbane",
+    "new zealand", "auckland",
+    "canada only",
+    "brazil", "são paulo", "sao paulo",
+    "mexico only", "mexico city",
+    "asia", "singapore", "japan", "tokyo", "osaka",
+    "south korea", "seoul",
+    "china", "beijing", "shanghai",
+    "taiwan", "taipei",
+    "indonesia", "jakarta",
+    "thailand", "bangkok",
+    "vietnam", "ho chi minh",
+    "philippines", "manila",
+    "montenegro", "serbia", "belgrade", "slovenia", "ljubljana",
+    "croatia", "zagreb", "slovakia", "bratislava", "bulgaria", "sofia",
+    "greece", "athens", "cyprus", "nicosia", "estonia", "tallinn",
+    "latvia", "riga", "lithuania", "vilnius", "iceland", "reykjavik",
+    "turkey", "istanbul", "ankara", "israel", "tel aviv", "dubai", "uae",
+    "egypt", "cairo", "south africa", "nigeria", "kenya",
+    "remoto", "relocation to",
 ]
 
 _HYBRID_MARKERS = ["hybrid", "on-site", "onsite", "in office", "in-office", "office"]
 _MINNESOTA_MARKERS = ["minnesota", "minneapolis", "mn,", " mn ", "saint paul", "st. paul", "st paul"]
 
 
-def is_location_allowed(location: str) -> bool:
+_HQ_RE = re.compile(r"headquarters?\s*[:：]\s*([^\n.]+)", re.IGNORECASE)
+
+
+def is_location_allowed(location: str, description: str = "") -> bool:
     """
     Allow:
       - Remote (US only or no location specified)
@@ -86,6 +123,7 @@ def is_location_allowed(location: str) -> bool:
     Block:
       - Any non-US location
       - Hybrid/on-site outside Minnesota
+      - Jobs whose HQ or description snippet reveals a non-US location
     """
     loc = normalize(location)
 
@@ -98,13 +136,30 @@ def is_location_allowed(location: str) -> bool:
     if any(m in loc for m in _HYBRID_MARKERS):
         return any(m in loc for m in _MINNESOTA_MARKERS)
 
+    # Check description for "Headquarters: <city>" pattern
+    if description:
+        m = _HQ_RE.search(description)
+        if m:
+            hq = normalize(m.group(1))
+            for marker in _NON_US_MARKERS:
+                if marker in hq:
+                    return False
+
+    # Also block if description snippet itself contains obvious non-US markers
+    # (catches DDG results with empty location)
+    if description and not loc:
+        desc_norm = normalize(description)
+        for marker in _NON_US_MARKERS:
+            if marker in desc_norm:
+                return False
+
     # Remote or empty → allowed
     return True
 
 
 # Keep old name as alias so existing call sites work
-def is_us_eligible(location: str) -> bool:
-    return is_location_allowed(location)
+def is_us_eligible(location: str, description: str = "") -> bool:
+    return is_location_allowed(location, description)
 
 
 def safe_get(session: requests.Session, url: str) -> Any:
@@ -253,7 +308,8 @@ def collect_arbeitnow(session: requests.Session, source: Dict[str, Any]) -> List
 
     for item in data.get("data", []):
         tags = item.get("tags", []) or []
-        location = "Remote" if item.get("remote") else (item.get("location") or "").strip()
+        real_location = (item.get("location") or "").strip()
+        location = real_location if real_location else ("Remote" if item.get("remote") else "")
         jobs.append({
             "source_type": "arbeitnow",
             "company": (item.get("company_name") or "").strip(),
@@ -733,7 +789,7 @@ def main() -> None:
                 continue
             if is_excluded_title(job.get("title", "")):
                 continue
-            if us_only and not is_us_eligible(job.get("location", "")):
+            if us_only and not is_us_eligible(job.get("location", ""), job.get("description_snippet", "")):
                 continue
             if job["external_id"] in seen:
                 continue
