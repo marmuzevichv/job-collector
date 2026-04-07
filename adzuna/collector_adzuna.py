@@ -143,7 +143,7 @@ def search_adzuna(query: str, page: int = 1) -> List[Dict]:
                 "what":             query,
                 "content-type":     "application/json",
                 "results_per_page": RESULTS_PER_QUERY,
-                "what_or":          "remote",
+                "what_and":         "remote",
                 "sort_by":          "date",
             },
             timeout=15,
