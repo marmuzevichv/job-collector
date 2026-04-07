@@ -6,10 +6,12 @@ Outputs latest_jobs_ranked.md with top matches for the resume.
 import csv
 import os
 import re
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
 from typing import Any, Dict, List
 
 import anthropic
+import requests
 
 INPUT_FILE = "latest_jobs_combined.csv"
 OUTPUT_FILE = "latest_jobs_ranked.md"
@@ -87,6 +89,83 @@ def score_simple(job: Dict[str, Any]) -> int:
     return score
 
 
+_CLOSED_PHRASES = [
+    "no longer open", "no longer available", "position has been filled",
+    "job has been closed", "this job is closed", "posting has expired",
+    "requisition is closed", "role has been filled", "not accepting applications",
+    "position is no longer", "job is no longer",
+    # Ashby "Job not found" page
+    "job not found", "the job you requested was not found",
+    # Workable not_found redirect
+    "not_found=true",
+]
+
+# URL patterns that indicate a closed/error page
+_CLOSED_URL_PATTERNS = [
+    "error=true", "not_found=true", "job_not_found",
+]
+
+# Phrases that indicate the role requires specific location (non-US country or office-required city)
+_NON_US_REQUIRED_PHRASES = [
+    "must be based in", "must reside in", "must live in", "must be located in",
+    "only considering candidates in", "only considering applicants in",
+    "candidates must be in", "applicants must be in",
+    "fully living and resident in",
+    "resident in romania", "resident in spain", "resident in the uk",
+    "based in the uk", "based in romania", "based in spain",
+    "based in germany", "based in france", "based in netherlands",
+    "based in poland", "based in india", "based in canada",
+    "located in the uk", "located in romania", "located in spain",
+    # Office-required roles in specific US cities (candidate is in Minnesota, remote only)
+    "nyc-based role", "new york city-based", "must be based in new york",
+    "must be in new york", "required to work in our new york",
+    "san francisco-based", "must be based in san francisco",
+    "must be in the bay area", "bay area-based role",
+    "must be based in seattle", "must be based in austin",
+    "must be based in chicago", "must be based in los angeles",
+    "in-person interview required",
+]
+
+_SESSION = requests.Session()
+_SESSION.headers.update({"User-Agent": "Mozilla/5.0 (compatible; JobChecker/1.0)"})
+
+
+def is_job_open(url: str) -> bool:
+    """Return True if the job URL is reachable and not showing a closed message."""
+    if not url:
+        return False
+    try:
+        resp = _SESSION.get(url, timeout=10, allow_redirects=True)
+        if resp.status_code >= 400:
+            return False
+        # Check final URL for error patterns (e.g. Greenhouse ?error=true)
+        final_url = resp.url.lower()
+        if any(p in final_url for p in _CLOSED_URL_PATTERNS):
+            return False
+        text = resp.text.lower()
+        if any(phrase in text for phrase in _CLOSED_PHRASES):
+            return False
+        if any(phrase in text for phrase in _NON_US_REQUIRED_PHRASES):
+            return False
+        return True
+    except Exception:
+        return False
+
+
+def verify_jobs(jobs: List[Dict[str, Any]], workers: int = 10) -> List[Dict[str, Any]]:
+    """Filter out closed/unreachable jobs using parallel HTTP checks."""
+    print(f"Verifying {len(jobs)} jobs (checking if still open)...")
+    open_jobs = []
+    with ThreadPoolExecutor(max_workers=workers) as ex:
+        future_to_job = {ex.submit(is_job_open, j["url"]): j for j in jobs}
+        for future in as_completed(future_to_job):
+            job = future_to_job[future]
+            if future.result():
+                open_jobs.append(job)
+    print(f"Open jobs after verification: {len(open_jobs)} (removed {len(jobs) - len(open_jobs)} closed)")
+    return open_jobs
+
+
 def read_jobs() -> List[Dict[str, Any]]:
     if not os.path.exists(INPUT_FILE):
         print(f"File not found: {INPUT_FILE}")
@@ -119,6 +198,7 @@ JOB POSTINGS:
 TASK:
 - Score each job 1-10 (10 = perfect match for DevOps/SRE/Platform/Cloud/Infrastructure)
 - Skip jobs clearly unrelated (GRC, QA, software dev, data engineering, etc.)
+- SKIP any job that requires residency or physical presence in a specific non-US country (e.g. UK, Romania, Spain, Germany, India, Canada, etc.). The candidate is in the US and only wants US-remote or US-based roles.
 - For each relevant job return score, title, company, location, URL, and 1 sentence why it fits
 
 Format EXACTLY like this (one per job, no extra text):
@@ -194,6 +274,9 @@ def main() -> None:
     # Sort by simple score and take top N
     relevant.sort(key=score_simple, reverse=True)
     candidates = relevant[:TOP_CANDIDATES]
+
+    # Verify jobs are still open before sending to Claude
+    candidates = verify_jobs(candidates)
     print(f"Sending top {len(candidates)} to Claude for ranking...")
 
     ranked_text = rank_with_claude(candidates)

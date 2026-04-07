@@ -1,0 +1,49 @@
+name: Collect jobs (Google)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 12 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Google collector
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          GOOGLE_CSE_ID: ${{ secrets.GOOGLE_CSE_ID }}
+        run: python3 collector_search_google.py
+
+      - name: Upload reports
+        uses: actions/upload-artifact@v4
+        with:
+          name: latest-jobs-google
+          path: |
+            google/latest_jobs_google.md
+            google/latest_jobs_google.csv
+            google/jobs_seen_google.json
+
+      - name: Commit updated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add google/
+          git diff --cached --quiet || git commit -m "Update Google collected jobs"
+          git pull origin main -X ours --no-rebase
+          git push

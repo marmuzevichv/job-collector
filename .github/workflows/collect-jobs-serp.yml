@@ -1,0 +1,48 @@
+name: Collect jobs (SerpAPI)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 12 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run SerpAPI collector
+        env:
+          SERP_API_KEY: ${{ secrets.SERP_API_KEY }}
+        run: python3 serpSearch/collector_search_serp.py
+
+      - name: Upload reports
+        uses: actions/upload-artifact@v4
+        with:
+          name: latest-jobs-serp
+          path: |
+            serpSearch/latest_jobs_serp.md
+            serpSearch/latest_jobs_serp.csv
+            serpSearch/jobs_seen_serp.json
+
+      - name: Commit updated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add serpSearch/
+          git diff --cached --quiet || git commit -m "Update SerpAPI collected jobs"
+          git pull origin main -X ours --no-rebase
+          git push
