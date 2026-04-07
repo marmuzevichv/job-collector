@@ -13,8 +13,9 @@ from typing import Any, Dict, List
 import anthropic
 import requests
 
-INPUT_FILE = "latest_jobs_combined.csv"
-OUTPUT_FILE = "latest_jobs_ranked.md"
+import sys
+INPUT_FILE  = sys.argv[1] if len(sys.argv) > 1 else "latest_jobs_combined.csv"
+OUTPUT_FILE = sys.argv[2] if len(sys.argv) > 2 else "latest_jobs_ranked.md"
 TOP_CANDIDATES = 200  # pre-filter before sending to Claude
 TOP_RANKED = 100      # how many to show in final output
 
