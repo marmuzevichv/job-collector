@@ -1,0 +1,53 @@
+name: Collect jobs (Adzuna)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 12 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Adzuna collector
+        env:
+          ADZUNA_APP_ID:  ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+        run: python3 adzuna/collector_adzuna.py
+
+      - name: Rank jobs
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python3 rank_jobs.py adzuna/latest_jobs_adzuna.csv adzuna/latest_jobs_ranked_adzuna.md
+
+      - name: Upload reports
+        uses: actions/upload-artifact@v4
+        with:
+          name: latest-jobs-adzuna
+          path: |
+            adzuna/latest_jobs_ranked_adzuna.md
+            adzuna/latest_jobs_adzuna.csv
+
+      - name: Commit updated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add adzuna/
+          git diff --cached --quiet || git commit -m "Update Adzuna collected jobs"
+          git pull origin main -X ours --no-rebase
+          git push
