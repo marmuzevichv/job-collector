@@ -32,7 +32,7 @@ OUTPUT_MD    = os.path.join(BASE_DIR, "latest_jobs_serp.md")
 OUTPUT_CSV   = os.path.join(BASE_DIR, "latest_jobs_serp.csv")
 WINDOW_HOURS = 24
 
-SERP_API_KEY = os.environ.get("SERP_API_KEY", "")
+SERPER_API_KEY = os.environ.get("SERPER_API_KEY", "")
 
 SEARCH_QUERIES = [
     '"DevOps Engineer"',
@@ -160,43 +160,45 @@ def extract_company(url: str, site: str) -> str:
 # ---------------------------------------------------------------------------
 
 def search_serp(site: str, query: str, max_results: int = RESULTS_PER_QUERY) -> List[Dict]:
-    """Search via SerpAPI Google Search endpoint."""
-    if not SERP_API_KEY:
-        print("  ERROR: SERP_API_KEY not set")
+    """Search via Serper.dev Google Search endpoint."""
+    if not SERPER_API_KEY:
+        print("  ERROR: SERPER_API_KEY not set")
         return []
 
     full_query = f'site:{site} {query} ("remote" OR "united states")'
     results = []
 
     try:
-        resp = requests.get(
-            "https://serpapi.com/search",
-            params={
-                "api_key": SERP_API_KEY,
-                "engine":  "google",
-                "q":       full_query,
-                "num":     max_results,
-                "gl":      "us",
-                "hl":      "en",
+        resp = requests.post(
+            "https://google.serper.dev/search",
+            headers={
+                "X-API-KEY":    SERPER_API_KEY,
+                "Content-Type": "application/json",
+            },
+            json={
+                "q":   full_query,
+                "num": max_results,
+                "gl":  "us",
+                "hl":  "en",
             },
             timeout=15,
         )
         resp.raise_for_status()
         data = resp.json()
 
-        for item in data.get("organic_results", []):
+        for item in data.get("organic", []):
             results.append({
                 "url":   item.get("link", ""),
                 "title": item.get("title", ""),
                 "body":  item.get("snippet", ""),
             })
 
-        time.sleep(0.5)
+        time.sleep(0.3)
 
     except requests.exceptions.HTTPError as e:
-        print(f"  SerpAPI error [{site}]: {e} — {resp.text[:200]}")
+        print(f"  Serper error [{site}]: {e} — {resp.text[:200]}")
     except Exception as e:
-        print(f"  SerpAPI search failed [{site}]: {e}")
+        print(f"  Serper search failed [{site}]: {e}")
 
     return results
 
@@ -281,9 +283,9 @@ def write_markdown(jobs: List[Dict[str, Any]]) -> None:
 # ---------------------------------------------------------------------------
 
 def main() -> None:
-    if not SERP_API_KEY:
-        print("ERROR: Set SERP_API_KEY environment variable.")
-        print("Get a free key at: https://serpapi.com/manage-api-key")
+    if not SERPER_API_KEY:
+        print("ERROR: Set SERPER_API_KEY environment variable.")
+        print("Get a free key at: https://serper.dev")
         return
 
     seen = load_json_file(SEEN_FILE, {})

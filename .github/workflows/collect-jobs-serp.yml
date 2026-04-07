@@ -26,7 +26,7 @@ jobs:
 
       - name: Run SerpAPI collector
         env:
-          SERP_API_KEY: ${{ secrets.SERP_API_KEY }}
+          SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
         run: python3 serpSearch/collector_search_serp.py
 
       - name: Upload reports
