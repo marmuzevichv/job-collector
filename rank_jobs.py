@@ -199,7 +199,9 @@ JOB POSTINGS:
 TASK:
 - Score each job 1-10 (10 = perfect match for DevOps/SRE/Platform/Cloud/Infrastructure)
 - Skip jobs clearly unrelated (GRC, QA, software dev, data engineering, etc.)
-- SKIP any job that requires residency or physical presence in a specific non-US country (e.g. UK, Romania, Spain, Germany, India, Canada, etc.). The candidate is in the US and only wants US-remote or US-based roles.
+- SKIP any job that is not explicitly Remote (US) or based in the United States. If location mentions any non-US country (UK, Romania, Spain, Germany, India, Canada, Netherlands, Australia, etc.) — skip it.
+- SKIP any job that requires residency or physical presence outside the US.
+- If location is unclear or not mentioned, assume it's OK only if the snippet or title mentions "remote", "US", "United States", or nothing at all.
 - For each relevant job return score, title, company, location, URL, and 1 sentence why it fits
 
 Format EXACTLY like this (one per job, no extra text):

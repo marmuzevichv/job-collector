@@ -176,10 +176,11 @@ def search_serp(site: str, query: str, max_results: int = RESULTS_PER_QUERY) -> 
                 "Content-Type": "application/json",
             },
             json={
-                "q":   full_query,
-                "num": max_results,
-                "gl":  "us",
-                "hl":  "en",
+                "q":        full_query,
+                "num":      max_results,
+                "gl":       "us",
+                "hl":       "en",
+                "location": "United States",
             },
             timeout=15,
         )
