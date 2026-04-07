@@ -1,0 +1,192 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - link "Gong.io Logo" [ref=e5] [cursor=pointer]:
+        - /url: https://www.gong.io/careers/
+        - img "Gong.io Logo" [ref=e6]
+      - generic [ref=e7]:
+        - link "Back to jobs" [ref=e8] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/gongio
+          - img [ref=e9]
+          - text: Back to jobs
+        - generic [ref=e13]: New
+        - generic [ref=e14]:
+          - generic [ref=e15]:
+            - heading "DevOps Engineer" [level=1] [ref=e16]
+            - generic [ref=e17]:
+              - img [ref=e18]
+              - generic [ref=e20]: New York City
+          - button "Apply" [ref=e21] [cursor=pointer]
+        - generic [ref=e22]:
+          - generic [ref=e23]:
+            - paragraph [ref=e24]: Gong harnesses the power of AI to transform how revenue teams win. The Gong Revenue AI Operating System unifies data, insights, and workflows into a single, trusted system that observes, guides, and acts alongside the world’s most successful revenue teams. Powered by the Gong Revenue Graph, AI-powered intelligence, specialized agents, and trusted applications, Gong helps more than 5,000 companies around the world deeply understand their teams and customers, automate critical sales workflows, and close more deals with less effort. For more information, visit www.gong.io.
+            - paragraph [ref=e25]: At Gong, you will join a company built on innovative products, ambitious goals, and passionate people. We are shaping the future of revenue intelligence and we want people who are excited to build what comes next. You will work with a team that dreams big, moves fast, and cares deeply about the craft and about each other. Here, transparency and trust are core to how we operate, and every person has the opportunity to make a visible impact. If you want to grow, stretch, and do work that truly matters, Gong is the place to do the best work of your career.
+          - generic [ref=e26]:
+            - paragraph [ref=e27]:
+              - strong [ref=e28]: NYC-Based Role - No Exceptions
+              - text: This position requires being based in the New York City area with 3 days/week in our office. In-person interview required.
+            - paragraph [ref=e29]: We’re growing fast—and we’re building a world-class R&D organization in the U.S. to scale our global impact. This is an opportunity to become a part of a critical function at the ground floor of that expansion.
+            - paragraph [ref=e30]: We’re looking for a Senior DevSecOps Engineer to join and scale our U.S.-based DevSecOps function. You’ll join a small team, focused on DevOps tasks in Security-related areas. You’ll be pivotal in designing, implementing and maintaining our cloud infrastructure, especially security-related parts of it. You’ll partner closely with the larger DevOps organization along with Engineering, Security, and IT teams globally to ensure Gong’s systems are secure, scalable, and high-performing.
+            - paragraph [ref=e31]: As one of the foundational members in our U.S. R&D team, you’ll shape not only the infrastructure but also the culture and processes that support Gong’s next phase of expansion and innovation.
+            - heading "RESPONSIBILITIES" [level=5] [ref=e32]
+            - list [ref=e33]:
+              - listitem [ref=e34]: Help designing, deployment, and continuous improvement of secured, scalable and reliable cloud infrastructure (primarily AWS).
+              - listitem [ref=e35]: Contribute to the design and implementation of best security practices and tooling for CI/CD, monitoring and developer experience.
+              - listitem [ref=e36]: "Automation & Streamlining: Help automate and streamline our operations and processes, enhancing efficiency and reducing manual intervention."
+              - listitem [ref=e37]: "Cross-Functional Collaboration: Work closely with all major stakeholders in the company, including R&D, Security, Product, and more, to ensure seamless integration of DevOps practices."
+              - listitem [ref=e38]: "Impactful Contribution: Play a major part in shaping the company's cloud strategy, focusing on innovation and long-term success with security considerations in mind."
+            - heading "QUALIFICATIONS" [level=5] [ref=e39]
+            - list [ref=e40]:
+              - listitem [ref=e41]: BS in Computer Science or related field.
+              - listitem [ref=e42]: 3 + years of experience in DevOps, Site Reliability, or Platform Engineering roles.
+              - listitem [ref=e43]: Proven track record of building and operating scalable cloud environments (AWS preferred).
+              - listitem [ref=e44]: Deep understanding of infrastructure-as-code and GitOps methodologies (Crossplane, Terraform, CloudFormation, Pulumi).
+              - listitem [ref=e45]: Strong experience with CI/CD pipelines (e.g., GitHub Actions, Jenkins, ArgoCD, CircleCI).
+              - listitem [ref=e46]: Extensive experience with running Kubernetes and container orchestration in production.
+              - listitem [ref=e47]: A solid understanding of computer networking fundamentals, REST architecture, and cloud security concepts.
+              - listitem [ref=e48]: Familiarity with vulnerability scanning and management tools.
+              - listitem [ref=e49]: Experience implementing security automation in CI/CD pipelines.
+              - listitem [ref=e50]: Background in container security and Kubernetes security best practices.
+              - listitem [ref=e51]: Experience working in a Java-based environment.
+              - listitem [ref=e52]: One or more security-related certifications (CKA,CISSP, CEH, Security+, or similar).
+              - listitem [ref=e53]: Hands-on experience with observability tools (Prometheus, Grafana, Datadog, etc.).
+              - listitem [ref=e54]: Excellent communication skills.
+              - listitem [ref=e55]: Experience working in fast-paced, high-growth SaaS or product environments.
+              - listitem [ref=e56]: "Bonus: Experience working in a hybrid/global team across time zones."
+              - listitem [ref=e57]: Willing to travel internationally from time to time
+            - heading "PERKS & BENEFITS" [level=5] [ref=e58]
+            - list [ref=e59]:
+              - listitem [ref=e60]: We offer Gongsters a variety of medical, dental, and vision plans, designed to fit you and your family’s needs.
+              - listitem [ref=e61]: Wellbeing Fund - flexible wellness stipend to support a healthy lifestyle.
+              - listitem [ref=e62]: Mental Health benefits with covered therapy and coaching.
+              - listitem [ref=e63]: 401(k) program to help you invest in your future.
+              - listitem [ref=e64]: Education & learning stipend for personal growth and development.
+              - listitem [ref=e65]: Flexible vacation time to promote a healthy work-life blend.
+              - listitem [ref=e66]: Paid parental leave to support you and your family.
+              - listitem [ref=e67]: Company-wide recharge days each quarter.
+              - listitem [ref=e68]: Work from home stipend to help you succeed in a remote environment.
+            - paragraph [ref=e69]:
+              - strong [ref=e70]: The annual salary hiring range for this position is $168,000 - $205,000 USD.
+            - paragraph [ref=e71]: Compensation is based on factors unique to each candidate, including, but not limited to, job-related skills, qualification, education, experience, and location. At Gong, we have a location-based compensation structure, which means there may be a different range for candidates in other locations. The total compensation package for this position, in addition to base compensation, may include incentive compensation, bonus, equity, and benefits. Some of our sales compensation programs also offer the potential to achieve above targeted earnings for those who exceed their sales targets.
+            - paragraph [ref=e72]: We are always looking for outstanding Gongsters! So if this sounds like something that interests you regardless of compensation, please reach out. We may have more roles for you to consider and would love to connect.
+            - paragraph [ref=e73]:
+              - strong [ref=e74]: We have noticed a rise in recruiting impersonations across the industry, where scammers attempt to access candidates' personal and financial information through fake interviews and offers. All Gong recruiting email communications will always come from the @gong.io domain. Any outreach claiming to be from Gong via other sources should be ignored.
+            - separator [ref=e75]
+            - paragraph [ref=e76]:
+              - emphasis [ref=e77]: Gong is an equal-opportunity employer. We believe that diversity is integral to our success, and do not discriminate based on race, color, religion, age, sex, sexual orientation, gender identity, national origin, disability, military status, genetic information, or any other basis protected by applicable law.
+            - paragraph [ref=e78]:
+              - emphasis [ref=e79]:
+                - text: To review Gong's privacy policy, visit
+                - link "https://www.gong.io/gong-io-job-candidates-privacy-notice/" [ref=e80] [cursor=pointer]:
+                  - /url: https://www.gong.io/gong-io-job-candidates-privacy-notice/
+                - text: for more details.
+            - paragraph [ref=e84]:
+              - emphasis [ref=e85]: "#LI-SM1"
+      - separator [ref=e86]
+      - generic [ref=e87]:
+        - generic [ref=e89]:
+          - heading "Apply for this job" [level=2] [ref=e91]
+          - generic [ref=e92]:
+            - paragraph [ref=e94]: "*"
+            - paragraph [ref=e95]: indicates a required field
+        - generic [ref=e96]:
+          - generic [ref=e97]:
+            - generic [ref=e100]:
+              - generic [ref=e101]: First Name*
+              - textbox "First Name" [ref=e102]
+            - generic [ref=e105]:
+              - generic [ref=e106]: Last Name*
+              - textbox "Last Name" [ref=e107]
+            - generic [ref=e110]:
+              - generic [ref=e111]: Email*
+              - textbox "Email" [ref=e112]
+            - group "Phone" [ref=e114]:
+              - generic [ref=e115]: Phone
+              - generic [ref=e118]:
+                - generic [ref=e119]: Country*
+                - generic [ref=e120]:
+                  - log [ref=e122]
+                  - generic [ref=e124]:
+                    - combobox "Country" [ref=e127]
+                    - button "Toggle flyout" [ref=e129] [cursor=pointer]:
+                      - img [ref=e130]
+                  - textbox
+              - generic [ref=e134]:
+                - generic [ref=e135]: Phone*
+                - textbox "Phone" [ref=e137]
+            - group "Resume/CV*" [ref=e139]:
+              - generic [ref=e140]: Resume/CV*
+              - generic [ref=e142]:
+                - generic [ref=e144]:
+                  - button "Attach" [ref=e145] [cursor=pointer]
+                  - generic [ref=e146]: Attach
+                  - button "Attach" [ref=e147]
+                - button "Dropbox" [ref=e149] [cursor=pointer]
+                - button "Google Drive" [ref=e151] [cursor=pointer]
+                - generic [ref=e153]:
+                  - button "Enter manually" [ref=e154] [cursor=pointer]
+                  - generic [ref=e155]: Enter manually
+                - paragraph [ref=e156]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e157]:
+            - separator [ref=e158]
+            - generic [ref=e161]:
+              - generic [ref=e162]: LinkedIn Profile
+              - textbox "LinkedIn Profile" [ref=e163]
+            - generic [ref=e166]:
+              - generic [ref=e167]: In which major metro area do you currently reside?*
+              - generic [ref=e168]:
+                - log [ref=e170]
+                - generic [ref=e172]:
+                  - generic [ref=e173]:
+                    - generic [ref=e174]: Select...
+                    - combobox "In which major metro area do you currently reside?" [ref=e176]
+                  - button "Toggle flyout" [ref=e178] [cursor=pointer]:
+                    - img [ref=e179]
+                - textbox
+            - generic [ref=e183]:
+              - generic [ref=e184]: Are you legally authorized to work in the US?*
+              - generic [ref=e185]:
+                - log [ref=e187]
+                - generic [ref=e189]:
+                  - generic [ref=e190]:
+                    - generic [ref=e191]: Select...
+                    - combobox "Are you legally authorized to work in the US?" [ref=e193]
+                  - button "Toggle flyout" [ref=e195] [cursor=pointer]:
+                    - img [ref=e196]
+                - textbox
+            - generic [ref=e200]:
+              - generic [ref=e201]: Will you now or in the future require sponsorship for an immigration-related employment benefit, such as H-1B, E-3, TN, etc.?*
+              - generic [ref=e202]:
+                - log [ref=e204]
+                - generic [ref=e206]:
+                  - generic [ref=e207]:
+                    - generic [ref=e208]: Select...
+                    - combobox "Will you now or in the future require sponsorship for an immigration-related employment benefit, such as H-1B, E-3, TN, etc.?" [ref=e210]
+                  - button "Toggle flyout" [ref=e212] [cursor=pointer]:
+                    - img [ref=e213]
+                - textbox
+            - generic [ref=e215]:
+              - generic [ref=e217]:
+                - generic [ref=e218]: Data Privacy & Protection*
+                - generic [ref=e219]:
+                  - log [ref=e221]
+                  - generic [ref=e223]:
+                    - generic [ref=e224]:
+                      - generic [ref=e225]: Select...
+                      - combobox "Data Privacy & Protection" [ref=e227]
+                    - button "Toggle flyout" [ref=e229] [cursor=pointer]:
+                      - img [ref=e230]
+                  - textbox
+              - generic [ref=e233]:
+                - paragraph [ref=e234]: Gong will collect and use your personal data (e.g. - name, email, resume info) to evaluate your application for employment. Gong will save your personal data for up to 2 years in order to consider you for other, future potential job opportunities. We are happy to delete your data upon request.
+                - paragraph [ref=e235]:
+                  - text: For a list of personal data categories, how Gong uses your personal data, and rights you have to your personal data, please visit Gong’s Job Candidates Privacy Notice, available at
+                  - link "https://www.gong.io/gong-io-job-candidates-privacy-notice/" [ref=e236] [cursor=pointer]:
+                    - /url: https://www.gong.io/gong-io-job-candidates-privacy-notice/
+          - button "Submit application" [ref=e238] [cursor=pointer]
+  - contentinfo [ref=e239]:
+    - generic [ref=e240]:
+      - paragraph [ref=e241]: Powered by
+      - link "Greenhouse logo" [ref=e242] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e243]

@@ -1,0 +1,586 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+  - generic [ref=e4]:
+    - banner [ref=e5]:
+      - generic [ref=e7]:
+        - generic [ref=e9]:
+          - paragraph [ref=e11]: Solve authorization for agents and phishing.
+          - generic [ref=e12]:
+            - paragraph [ref=e13]:
+              - link "Register now →" [ref=e14] [cursor=pointer]:
+                - /url: https://pages.okta.com/2025-11-WBN-SolvingtheAuthorizationCrisis-LP.html?_gl=1%2A1acbsaw%2A_gcl_au%2ANDI4NzU4MzE5LjE3NTc5NDAwMzg.%2A_ga%2ANDM5MzIxNzk5LjE3MzI3MjUxODA.%2A_ga_QKMSDV5369%2AczE3NjMwNDEzNDgkbzQwNSRnMSR0MTc2MzA0MTM0OCRqNjAkbDAkaDA.
+            - text: → →
+        - link [ref=e15] [cursor=pointer]:
+          - /url: https://www.okta.com/search
+          - img [ref=e16]
+        - navigation [ref=e20]:
+          - img [ref=e21] [cursor=pointer]
+          - generic [ref=e24] [cursor=pointer]: United States
+          - list [ref=e25]:
+            - listitem [ref=e26]:
+              - link "Australia":
+                - /url: /au/?id=countrydropdownheader-AU
+            - listitem [ref=e27]:
+              - link "Brazil":
+                - /url: /pt/?id=countrydropdownheader-PT-BR
+            - listitem [ref=e28]:
+              - link "France":
+                - /url: /fr/?id=countrydropdownheader-FR
+            - listitem [ref=e29]:
+              - link "Germany":
+                - /url: /de/?id=countrydropdownheader-DE
+            - listitem [ref=e30]:
+              - link "Japan":
+                - /url: /jp/?id=countrydropdownheader-JP
+            - listitem [ref=e31]:
+              - link "Korea":
+                - /url: /kr/?id=countrydropdownheader-KR
+            - listitem [ref=e32]:
+              - link "Mexico":
+                - /url: /es/?id=countrydropdownheader-ES-MX
+            - listitem [ref=e33]:
+              - link "Netherlands":
+                - /url: /nl/?id=countrydropdownheader-NL
+            - listitem [ref=e34]:
+              - link "Singapore":
+                - /url: /sg/?id=countrydropdownheader-SG
+            - listitem [ref=e35]:
+              - link "Sweden":
+                - /url: /se/?id=countrydropdownheader-SE
+            - listitem [ref=e36]:
+              - link "United Kingdom":
+                - /url: /uk/?id=countrydropdownheader-UK
+            - listitem [ref=e37]:
+              - link "Canada (EN)":
+                - /url: /en-ca/?id=countrydropdownheader-EN-CA
+            - listitem [ref=e38]:
+              - link "Spain":
+                - /url: /es-es/?id=countrydropdownheader-ES-ES
+      - generic:
+        - link "Okta" [ref=e40] [cursor=pointer]:
+          - /url: https://www.okta.com/
+          - img [ref=e41]
+        - navigation "Main Navigation" [ref=e45]:
+          - list [ref=e47]:
+            - listitem [ref=e48]:
+              - button "Products" [ref=e49] [cursor=pointer]
+              - text: → →
+            - listitem [ref=e50]:
+              - button "Why Okta" [ref=e51] [cursor=pointer]
+              - text: ↗
+            - listitem [ref=e52]:
+              - button "Developers" [ref=e53] [cursor=pointer]
+              - text: ↗ ↗ ↗ ↗ ↗ ↗ ↗ ↗
+            - listitem [ref=e54]:
+              - button "Resources" [ref=e55] [cursor=pointer]
+              - text: ↗ ↗ ↗ ↗ ↗
+        - generic:
+          - link "Free trial" [ref=e57] [cursor=pointer]:
+            - /url: /free-trial/
+          - link "Contact us" [ref=e59] [cursor=pointer]:
+            - /url: /contact-sales/
+        - link "Contact us" [ref=e62] [cursor=pointer]:
+          - /url: /contact-sales/
+        - link "Sign In" [ref=e65] [cursor=pointer]:
+          - /url: https://login.okta.com/
+          - img [ref=e66]
+          - paragraph [ref=e68]: Login
+        - navigation "Toggle Navigation" [ref=e70] [cursor=pointer]:
+          - img [ref=e71]
+    - main [ref=e73]:
+      - generic [ref=e75]:
+        - list [ref=e80]:
+          - listitem [ref=e81]:
+            - link "Careers" [ref=e82] [cursor=pointer]:
+              - /url: /company/careers/
+          - listitem [ref=e83]:
+            - link "Engineering" [ref=e84] [cursor=pointer]:
+              - /url: /company/careers/?department=4183#careers-job-postings
+          - listitem [ref=e85]:
+            - link "Senior Site Reliability Engineer, TCore (FedRamp)" [ref=e86] [cursor=pointer]:
+              - /url: /company/careers/engineering/senior-site-reliability-engineer-tcore-fedramp-7674807/
+        - generic [ref=e88]:
+          - generic [ref=e91]:
+            - link "Share to Twitter" [ref=e92] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e94]
+            - link "Share to Facebook" [ref=e97] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e99]
+            - link "Share to Linkedin" [ref=e101] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e103]
+          - generic [ref=e105]:
+            - generic [ref=e106]:
+              - heading "Senior Site Reliability Engineer, TCore (FedRamp)" [level=1] [ref=e107]
+              - generic [ref=e108]: San Francisco, California
+            - generic [ref=e109]:
+              - article [ref=e110]:
+                - paragraph [ref=e111]:
+                  - strong [ref=e112]: Secure Every Identity, from AI to Human
+                  - text: Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.
+                  - text: This is an opportunity to do career-defining work. We're all in on this mission. If you are too, let's talk.
+                - paragraph [ref=e113]:
+                  - strong [ref=e114]: The Team
+                - paragraph [ref=e115]: The TCore team is a specialized engineering group that owns and operates all of Okta's networks. They are focused on ensuring the reliability, performance, and security of Okta's core infrastructure, particularly its global traffic entry points and the complete internal networking.
+                - paragraph [ref=e116]:
+                  - strong [ref=e117]: The Role
+                - paragraph [ref=e118]: We are looking for a Senior Site Reliability Engineer to join the TCore team. The ideal candidate is someone who enjoys analyzing systems and identifying areas of opportunity to improve system performance, availability and capacity. They are part systems administrator, part network administrator, and part developer.
+                - paragraph [ref=e119]:
+                  - strong [ref=e120]: What you’ll be doing
+                - list [ref=e121]:
+                  - listitem [ref=e122]: Maintain a highly available cloud infrastructure edge for the Okta identity platform
+                  - listitem [ref=e123]: Collect and analyze data to identify root causes for network-specific events
+                  - listitem [ref=e124]: Automate AWS infrastructure with Terraform and/or Chef
+                  - listitem [ref=e125]: Evolve the system by introducing changes to improve efficiency, scalability, and velocity
+                - paragraph [ref=e126]:
+                  - strong [ref=e127]: What you’ll bring to the role
+                - list [ref=e128]:
+                  - listitem [ref=e129]: 3+ years experience in a Cloud Network Engineer role or related, with experience configuring, deploying, monitoring and troubleshooting applications and infrastructure in the cloud
+                  - listitem [ref=e130]: Demonstrated in-depth understanding of TCP/IP networking stack; (layer 2 through 7). Ability to implement a highly available VPC network, including inter-vpc connectivity. Working knowledge of stateless and stateful firewalls. Familiar with DNS, web-application firewalls, and various load balancing methods available in the cloud.
+                  - listitem [ref=e131]: 3-5+ years administering or operating within a Linux environment, strong experience using Linux based tooling, and ability to debug systems level problems
+                  - listitem [ref=e132]: In-depth understanding of TCP/IP, HTTP, Load Balancing, DNS and other networking protocols
+                  - listitem [ref=e133]: Solid understanding and experience with Apache httpd, nginx, Apache Tomcat, or similar
+                  - listitem [ref=e134]: Strong problem solving and debugging skills coupled with a desire to take on ownership and responsibility
+                  - listitem [ref=e135]: Proficiency in Bash, Python, Golang, or similar. Experienced with git
+                  - listitem [ref=e136]: Experience working with Terraform, Ansible, Chef, Puppet or similar automation tools
+                  - listitem [ref=e137]: Excellent written and verbal communication skills
+                  - listitem [ref=e138]: Willingness to work on-call
+                - paragraph [ref=e139]:
+                  - strong [ref=e140]: And extra credit if you have experience in any of the following!
+                - list [ref=e141]:
+                  - listitem [ref=e142]: Experience working in a security-oriented cloud environment
+                  - listitem [ref=e143]: Experience debugging software using gdb, strace, ltrace, tcpdump, Wireshark, etc.
+                  - listitem [ref=e144]: Experience working with Docker and Kubernetes
+                  - listitem [ref=e145]: Experience with PKI / certificate management (edited)
+                - paragraph [ref=e146]:
+                  - strong [ref=e147]: "Additional requirements:"
+                - list [ref=e148]:
+                  - listitem [ref=e149]: This position requires the ability to access federal environments and/or have access to protected federal data. As a condition of employment for this position, the successful candidate must be able to submit documentation establishing U.S. Person status (e.g. a U.S. Citizen, National, Lawful Permanent Resident, Refugee, or Asylee. 22 CFR 120.15) upon hire.
+                - paragraph [ref=e150]: "#LI-SM1"
+                - paragraph [ref=e151]: "#LI-Hybrid"
+                - paragraph [ref=e152]: P24507_3376750
+                - paragraph [ref=e153]:
+                  - text: "Below is the annual base salary range for candidates located in San Francisco Bay Area. Your actual base salary will depend on factors such as your skills, qualifications, experience, and work location. In addition, Okta offers equity (where applicable), bonus, and benefits, including health, dental and vision insurance, 401(k), flexible spending account, and paid leave (including PTO and parental leave) in accordance with our applicable plans and policies. To learn more about our Total Rewards program please visit:"
+                  - link "https://rewards.okta.com/us" [ref=e154] [cursor=pointer]:
+                    - /url: https://rewards.okta.com/us
+                  - text: .
+                - text: "The annual base salary range for this position for candidates located in the San Francisco Bay area is between: $165,000—$227,000 USD"
+                - paragraph [ref=e155]:
+                  - strong [ref=e156]: The Okta Experience
+                - list [ref=e157]:
+                  - listitem [ref=e158]:
+                    - link "Supporting Your Well-Being" [ref=e159] [cursor=pointer]:
+                      - /url: http://rewards.okta.com
+                  - listitem [ref=e160]:
+                    - link "Driving Social Impact" [ref=e161] [cursor=pointer]:
+                      - /url: https://www.okta.com/company/okta-for-good/
+                  - listitem [ref=e162]:
+                    - link "Developing Talent and Fostering Connection + Community" [ref=e163] [cursor=pointer]:
+                      - /url: https://www.okta.com/company/talent-connection-community/
+                - paragraph [ref=e164]:
+                  - text: We are intentional about connection. Our global community, spanning over 20 offices worldwide, is united by a drive to innovate. Your journey begins with an immersive, in-person onboarding experience designed to accelerate your impact and connect you to our mission and team from day one.
+                  - text: Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws.
+                  - text: If reasonable accommodation is needed to complete any part of the job application, interview process, or onboarding please
+                  - link "use this Form" [ref=e165] [cursor=pointer]:
+                    - /url: https://docs.google.com/forms/d/1EfiEYZrIyhA2X4Fijk0R3RKYOzNoS3wtvyM4nhbZnXE/edit
+                  - text: to request an accommodation.
+                  - text: "Notice for New York City Applicants & Employees: Okta may use Automated Employment Decision Tools (AEDT), as defined by New York City Local Law 144, that use artificial intelligence, machine learning, or other automated processes to assist in our recruitment and hiring process. In accordance with NYC Local Law 144, if you are an applicant or employee residing in New York City, please"
+                  - link "click here" [ref=e166] [cursor=pointer]:
+                    - /url: https://talent.okta.com/new-york-city-aedt-notice.html
+                  - text: to view our full NYC AEDT Notice.
+                  - text: Okta is committed to complying with applicable data privacy and security laws and regulations. For more information, please see our Personnel and Job Candidate Privacy Notice at
+                  - link "https://www.okta.com/legal/personnel-policy/" [ref=e167] [cursor=pointer]:
+                    - /url: https://www.okta.com/legal/personnel-policy/
+                  - text: .
+              - generic [ref=e169]:
+                - strong [ref=e170]: U.S. Equal Opportunity Employment Information
+                - link "Read more ›" [ref=e171] [cursor=pointer]:
+                  - /url: "#"
+              - generic [ref=e174]:
+                - generic [ref=e178]:
+                  - link "Okta" [ref=e179] [cursor=pointer]:
+                    - /url: /company/careers/engineering/senior-site-reliability-engineer-tcore-fedramp-7674807/
+                  - generic [ref=e180]: The foundation for secure connections between people and technology
+                - paragraph [ref=e182]: Okta is the leading independent provider of identity for the enterprise. The Okta Identity Cloud enables organizations to securely connect the right people to the right technologies at the right time. With over 7,000 pre-built integrations to applications and infrastructure providers, Okta customers can easily and securely use the best technologies for their business. More than 19,300 organizations, including JetBlue, Nordstrom, Slack, T-Mobile, Takeda, Teach for America, and Twilio, trust Okta to help protect the identities of their workforces and customers.
+                - generic [ref=e184]:
+                  - heading "Follow Okta" [level=6] [ref=e185]
+                  - link "Share on Twitter" [ref=e186] [cursor=pointer]:
+                    - /url: https://x.com/okta
+                    - img "Share on Twitter" [ref=e187]
+                  - link "Share on Linkedin" [ref=e188] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/okta-inc-/
+                    - img "Share on Linkedin" [ref=e189]
+                  - link "Share on Youtube" [ref=e190] [cursor=pointer]:
+                    - /url: https://www.youtube.com/OktaInc
+                    - img "Share on Youtube" [ref=e191]
+            - generic [ref=e194]:
+              - heading "Apply" [level=3] [ref=e196]
+              - generic [ref=e197]:
+                - group [ref=e198]:
+                  - generic [ref=e200]:
+                    - generic [ref=e202]: First Name
+                    - textbox "First Name" [ref=e203]
+                - group [ref=e204]:
+                  - generic [ref=e206]:
+                    - generic [ref=e208]: Last Name
+                    - textbox "Last Name" [ref=e209]
+                - group [ref=e210]:
+                  - generic [ref=e212]:
+                    - generic [ref=e214]: Email
+                    - textbox "Email" [ref=e215]
+                - group [ref=e216]:
+                  - generic [ref=e218]:
+                    - generic [ref=e220]: Phone
+                    - textbox "Phone" [ref=e221]
+                - group "Resume" [ref=e222]:
+                  - generic [ref=e223]: Resume
+                  - generic [ref=e225]:
+                    - group [ref=e226]:
+                      - generic [ref=e228]:
+                        - radio "Upload PDF" [checked] [ref=e229]
+                        - generic [ref=e231]: Upload PDF
+                    - group [ref=e232]:
+                      - generic [ref=e234]:
+                        - radio "Paste" [ref=e235]
+                        - generic [ref=e237]: Paste
+                - group [ref=e239]:
+                  - generic [ref=e241]:
+                    - button "Resume/CV" [ref=e243]
+                    - generic [ref=e244]: Upload Resume/CV (PDF must be less than 8 MB )
+                - group
+                - group "Cover Letter" [ref=e245]:
+                  - generic [ref=e246]: Cover Letter
+                  - generic [ref=e248]:
+                    - group [ref=e249]:
+                      - generic [ref=e251]:
+                        - radio "Upload PDF" [checked] [ref=e252]
+                        - generic [ref=e254]: Upload PDF
+                    - group [ref=e255]:
+                      - generic [ref=e257]:
+                        - radio "Paste" [ref=e258]
+                        - generic [ref=e260]: Paste
+                - group [ref=e262]:
+                  - generic [ref=e264]:
+                    - button "Cover Letter" [ref=e266]
+                    - generic [ref=e267]: Upload Cover Letter (PDF must be less than 8 MB )
+                - group
+                - group [ref=e268]:
+                  - generic [ref=e270]:
+                    - generic [ref=e272]: LinkedIn Profile
+                    - textbox "LinkedIn Profile" [ref=e273]
+                - group [ref=e274]:
+                  - generic [ref=e276]:
+                    - generic [ref=e278]: Website
+                    - textbox "Website" [ref=e279]
+                - group [ref=e280]:
+                  - generic [ref=e282]:
+                    - generic [ref=e284]: "Are you a U.S. Person (U.S. Citizen, National, Lawful Permanent Resident, Refugee, or Asylee), and can you provide documentation establishing U.S. Person status upon hire? Please note: Candidates who require visa sponsorship (e.g. H-1B, F-1, O-1, L-1, etc.) are not U.S. Persons."
+                    - 'combobox "Are you a U.S. Person (U.S. Citizen, National, Lawful Permanent Resident, Refugee, or Asylee), and can you provide documentation establishing U.S. Person status upon hire? Please note: Candidates who require visa sponsorship (e.g. H-1B, F-1, O-1, L-1, etc.) are not U.S. Persons." [ref=e285]':
+                      - option "Choose" [selected]
+                      - option "Yes"
+                      - option "No"
+                - group [ref=e286]:
+                  - generic [ref=e288]:
+                    - generic [ref=e290]: "If yes, please describe:"
+                    - textbox "If yes, please describe:" [ref=e291]:
+                      - /placeholder: "If yes, please describe: "
+                - group [ref=e292]:
+                  - generic [ref=e294]:
+                    - generic [ref=e296]: To the best of your knowledge, do you have any family members / relatives or personal relationships at Okta or at any suppliers, partners, or vendors that have a business relationship with Okta? (For purposes of this question, a “family member / relative or personal relationship” is defined as close personal friends (including sexual and/or romantic relationships), close relatives (spouse, partner, children, cousins, aunts, uncles, nieces, nephews, grandparents or grandchildren), someone who lives in your household, or anyone else with whom you have a close enough personal relationship or connection that it could improperly bias your conduct or decision making or be perceived to be capable of impacting your conduct or decision making.
+                    - combobox "To the best of your knowledge, do you have any family members / relatives or personal relationships at Okta or at any suppliers, partners, or vendors that have a business relationship with Okta? (For purposes of this question, a “family member / relative or personal relationship” is defined as close personal friends (including sexual and/or romantic relationships), close relatives (spouse, partner, children, cousins, aunts, uncles, nieces, nephews, grandparents or grandchildren), someone who lives in your household, or anyone else with whom you have a close enough personal relationship or connection that it could improperly bias your conduct or decision making or be perceived to be capable of impacting your conduct or decision making." [ref=e297]:
+                      - option "Choose" [selected]
+                      - option "Yes"
+                      - option "No"
+                - group [ref=e298]:
+                  - generic [ref=e300]:
+                    - generic [ref=e302]: "If yes, please identify name of person / vendor and describe relationship / association:"
+                    - textbox "If yes, please identify name of person / vendor and describe relationship / association:" [ref=e303]:
+                      - /placeholder: "If yes, please identify name of person / vendor and describe relationship / association: "
+                - group [ref=e304]:
+                  - generic [ref=e306]:
+                    - generic [ref=e308]: Do you have any outside business activity(ies) (advisory, consulting, or board roles, or side businesses) that you would continue engaging in or plan to engage in if you joined Okta in this role?
+                    - combobox "Do you have any outside business activity(ies) (advisory, consulting, or board roles, or side businesses) that you would continue engaging in or plan to engage in if you joined Okta in this role?" [ref=e309]:
+                      - option "Choose" [selected]
+                      - option "Yes"
+                      - option "No"
+                - group [ref=e310]:
+                  - generic [ref=e312]:
+                    - generic [ref=e314]: Have you worked for Okta in the past?
+                    - combobox "Have you worked for Okta in the past?" [ref=e315]:
+                      - option "Choose" [selected]
+                      - option "Yes"
+                      - option "No"
+                - group "I acknowledge and agree to the processing of my personal data in accordance with Okta's Privacy Policy." [ref=e317]:
+                  - generic [ref=e318]: I acknowledge and agree to the processing of my personal data in accordance with Okta's Privacy Policy.
+                  - generic [ref=e319]:
+                    - group [ref=e321]:
+                      - generic [ref=e323]:
+                        - checkbox "I acknowledge" [ref=e324]
+                        - generic [ref=e326]: I acknowledge
+                    - generic [ref=e327]:
+                      - paragraph [ref=e328]:
+                        - link "https://www.okta.com/privacy-policy/" [ref=e329] [cursor=pointer]:
+                          - /url: https://www.okta.com/privacy-policy/
+                      - paragraph [ref=e330]:
+                        - text: (California residents, click
+                        - link "here" [ref=e331] [cursor=pointer]:
+                          - /url: https://www.okta.com/privacy-policy/#xi-information-for-california-residents--your-california-privacy-rights-17:~:text=relevant%20supervisory%20authority.-,XI.%20Information%20for%20California%20Residents%20/%20Your%20California%20Privacy%20Rights,-Under%20the%20California
+                        - text: )
+                - group "By checking this box, you consent to Okta using your data to evaluate your candidacy for this role and any other current or future roles that may be a fit for your profile. You may request the removal of your data at any time by contacting greenhouse@okta.com." [ref=e333]:
+                  - generic [ref=e335]: By checking this box, you consent to Okta using your data to evaluate your candidacy for this role and any other current or future roles that may be a fit for your profile. You may request the removal of your data at any time by contacting greenhouse@okta.com.
+                  - group [ref=e338]:
+                    - generic [ref=e340]:
+                      - checkbox "Yes" [ref=e341]
+                      - generic [ref=e343]: "Yes"
+                - group "U.S. Equal Opportunity Employment Information (Click here for instructions)" [ref=e345]:
+                  - generic [ref=e347]:
+                    - text: U.S. Equal Opportunity Employment Information
+                    - link "(Click here for instructions)" [ref=e348] [cursor=pointer]:
+                      - /url: /
+                  - generic [ref=e350]:
+                    - paragraph [ref=e351]: Responding to the survey is voluntary.
+                    - group [ref=e352]:
+                      - generic [ref=e354]:
+                        - generic [ref=e356]:
+                          - text: Disability Status
+                          - link "(Click here for more specific information)" [ref=e357] [cursor=pointer]:
+                            - /url: /
+                        - combobox "Disability Status (Click here for more specific information)" [ref=e358]:
+                          - option "Choose" [selected]
+                          - option "I do not want to answer"
+                          - option "No, I do not have a disability and have not had one in the past"
+                          - option "Yes, I have a disability, or have had one in the past"
+                    - group [ref=e359]:
+                      - generic [ref=e361]:
+                        - generic [ref=e363]: Veteran Status
+                        - combobox "Veteran Status" [ref=e364]:
+                          - option "Choose" [selected]
+                          - option "I don't wish to answer"
+                          - option "I identify as one or more of the classifications of a protected veteran"
+                          - option "I am not a protected veteran"
+                    - group [ref=e365]:
+                      - generic [ref=e367]:
+                        - generic [ref=e369]: Race
+                        - combobox "Race" [ref=e370]:
+                          - option "Choose" [selected]
+                          - option "Decline To Self Identify"
+                          - option "Two or More Races"
+                          - option "Native Hawaiian or Other Pacific Islander"
+                          - option "White"
+                          - option "Hispanic or Latino"
+                          - option "Black or African American"
+                          - option "Asian"
+                          - option "American Indian or Alaskan Native"
+                    - group [ref=e371]:
+                      - generic [ref=e373]:
+                        - generic [ref=e375]: Gender
+                        - combobox "Gender" [ref=e376]:
+                          - option "Choose" [selected]
+                          - option "Decline To Self Identify"
+                          - option "Female"
+                          - option "Male"
+                - iframe [ref=e380]:
+                  - generic [ref=f2e2]:
+                    - generic [ref=f2e3]:
+                      - checkbox "I'm not a robot" [ref=f2e7]
+                      - generic [ref=f2e11]: I'm not a robot
+                      - generic [ref=f2e13]:
+                        - text: reCAPTCHA is changing its terms of service.
+                        - link "Take action." [ref=f2e14] [cursor=pointer]:
+                          - /url: https://google.com/recaptcha/admin/migrate
+                    - generic [ref=f2e18]: reCAPTCHA
+                - button "Submit Application" [ref=e382] [cursor=pointer]
+    - contentinfo [ref=e383]:
+      - generic [ref=e385]:
+        - generic [ref=e388]:
+          - generic [ref=e389]:
+            - generic [ref=e392]:
+              - link [ref=e394] [cursor=pointer]:
+                - /url: https://www.okta.com/
+                - figure [ref=e395]
+              - paragraph [ref=e396]:
+                - text: To connect with a product expert today, use our
+                - link "chat box" [ref=e397] [cursor=pointer]:
+                  - /url: https://www.okta.com/#chat-now
+                - text: ","
+                - link "email us" [ref=e398] [cursor=pointer]:
+                  - /url: https://www.okta.com/contact-sales/
+                - text: ", or call"
+                - link "+1-800-425-1267" [ref=e399] [cursor=pointer]:
+                  - /url: tel:+1-800-425-1267
+                - text: .
+              - link "Contact Us" [ref=e401] [cursor=pointer]:
+                - /url: https://www.okta.com/contact-sales/
+            - list [ref=e404]:
+              - listitem [ref=e405]:
+                - link "Youtube" [ref=e406] [cursor=pointer]:
+                  - /url: https://www.youtube.com/OktaInc
+                  - text: YouTube
+              - listitem [ref=e407]:
+                - link "Twitter" [ref=e408] [cursor=pointer]:
+                  - /url: https://x.com/okta
+                  - text: Twitter𝕏
+              - listitem [ref=e409]:
+                - link "LinkedIn" [ref=e410] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/okta-inc-/
+                  - text: LinkedIn
+          - navigation "Footer Navtane22" [ref=e412]:
+            - generic [ref=e413]: Footer Navtane22
+            - list [ref=e415]:
+              - listitem [ref=e416]:
+                - generic [ref=e417]: Company
+                - list [ref=e418]:
+                  - listitem [ref=e419]:
+                    - link "About Us" [ref=e420] [cursor=pointer]:
+                      - /url: https://www.okta.com/company/
+                  - listitem [ref=e421]:
+                    - link "Our Customers" [ref=e422] [cursor=pointer]:
+                      - /url: https://www.okta.com/customers/
+                  - listitem [ref=e423]:
+                    - link "Leadership" [ref=e424] [cursor=pointer]:
+                      - /url: https://www.okta.com/company/leadership/
+                  - listitem [ref=e425]:
+                    - link "Investors" [ref=e426] [cursor=pointer]:
+                      - /url: https://investor.okta.com/?_ga=2.173311395.1408537636.1665532992-1758812997.1653668763
+                  - listitem [ref=e427]:
+                    - link "Careers" [ref=e428] [cursor=pointer]:
+                      - /url: https://www.okta.com/company/careers/
+                  - listitem [ref=e429]:
+                    - link "Events" [ref=e430] [cursor=pointer]:
+                      - /url: https://www.okta.com/resources/events/
+                  - listitem [ref=e431]:
+                    - link "Press Room" [ref=e432] [cursor=pointer]:
+                      - /url: https://www.okta.com/press-room/
+                  - listitem [ref=e433]:
+                    - link "Partners" [ref=e434] [cursor=pointer]:
+                      - /url: https://www.okta.com/partners/
+                  - listitem [ref=e435]:
+                    - link "Responsibility" [ref=e436] [cursor=pointer]:
+                      - /url: https://www.okta.com/responsibility/
+                  - listitem [ref=e437]:
+                    - link "Okta for Good" [ref=e438] [cursor=pointer]:
+                      - /url: https://www.okta.com/okta-for-good/
+              - listitem [ref=e439]:
+                - generic [ref=e440]: Starting with Okta
+                - list [ref=e441]:
+                  - listitem [ref=e442]:
+                    - link "Auth0 Platform" [ref=e443] [cursor=pointer]:
+                      - /url: https://www.okta.com/customer-identity/
+                  - listitem [ref=e444]:
+                    - link "Okta Platform" [ref=e445] [cursor=pointer]:
+                      - /url: https://www.okta.com/workforce-identity/
+                  - listitem [ref=e446]:
+                    - link "Free Trial" [ref=e447] [cursor=pointer]:
+                      - /url: https://www.okta.com/free-trial/
+                  - listitem [ref=e448]:
+                    - link "Pricing" [ref=e449] [cursor=pointer]:
+                      - /url: https://www.okta.com/pricing/
+                  - listitem [ref=e450]:
+                    - link "Contact Sales" [ref=e451] [cursor=pointer]:
+                      - /url: https://www.okta.com/contact-sales/
+                  - listitem [ref=e452]:
+                    - link "Trust" [ref=e453] [cursor=pointer]:
+                      - /url: https://trust.okta.com/?_ga=2.112714756.1408537636.1665532992-1758812997.1653668763&_gl=1%2A16ec8o3%2A_ga%2AMTc1ODgxMjk5Ny4xNjUzNjY4NzYz%2A_ga_QKMSDV5369%2AMTY2NTU4ODY2NC41Ny4xLjE2NjU1ODg5MTIuNjAuMC4w
+                  - listitem [ref=e454]:
+                    - link "Accessibility" [ref=e455] [cursor=pointer]:
+                      - /url: https://www.okta.com/accessibility/
+              - listitem [ref=e456]:
+                - generic [ref=e457]: Help & Support
+                - list [ref=e458]:
+                  - listitem [ref=e459]:
+                    - link "Help and Support" [ref=e460] [cursor=pointer]:
+                      - /url: https://support.okta.com/help/s/?language=en_US&_ga=2.141001906.1408537636.1665532992-1758812997.1653668763&_gl=1%2A19k8ftp%2A_ga%2AMTc1ODgxMjk5Ny4xNjUzNjY4NzYz%2A_ga_QKMSDV5369%2AMTY2NTU4ODY2NC41Ny4xLjE2NjU1ODk0OTAuNTkuMC4w
+                  - listitem [ref=e461]:
+                    - link "Frequently Asked Questions" [ref=e462] [cursor=pointer]:
+                      - /url: https://www.okta.com/faq/
+                  - listitem [ref=e463]:
+                    - link "Contact Us" [ref=e464] [cursor=pointer]:
+                      - /url: https://www.okta.com/contact-sales/
+                  - listitem [ref=e465]:
+                    - link "Okta Platform Status" [ref=e466] [cursor=pointer]:
+                      - /url: https://status.okta.com/?_ga=2.51476969.1131952190.1694551039-2108337227.1682701839&_gl=1%2A1gwr68d%2A_ga%2AMjEwODMzNzIyNy4xNjgyNzAxODM5%2A_ga_QKMSDV5369%2AMTY5NDU1MTAzOS4zOC4xLjE2OTQ1NTI2OTMuNC4wLjA.
+                  - listitem [ref=e467]:
+                    - link "Auth0 Status" [ref=e468] [cursor=pointer]:
+                      - /url: https://status.auth0.com/?_ga=2.51476969.1131952190.1694551039-2108337227.1682701839&_gl=1%2A16s7hs7%2A_ga%2AMjEwODMzNzIyNy4xNjgyNzAxODM5%2A_ga_QKMSDV5369%2AMTY5NDU1MTAzOS4zOC4xLjE2OTQ1NTI2NzcuMjAuMC4w
+        - navigation "Footer utility Navtane22" [ref=e470]:
+          - generic [ref=e471]: Footer utility Navtane22
+          - list [ref=e473]:
+            - listitem [ref=e474]:
+              - link "Legal" [ref=e475] [cursor=pointer]:
+                - /url: https://www.okta.com/agreements/
+            - listitem [ref=e476]:
+              - link "Privacy Policy" [ref=e477] [cursor=pointer]:
+                - /url: https://www.okta.com/legal/privacy-policy/
+            - listitem [ref=e478]:
+              - link "Site Terms" [ref=e479] [cursor=pointer]:
+                - /url: https://www.okta.com/terms-of-service/
+            - listitem [ref=e480]:
+              - link "Security" [ref=e481] [cursor=pointer]:
+                - /url: https://trust.okta.com/
+            - listitem [ref=e482]:
+              - link "Sitemap" [ref=e483] [cursor=pointer]:
+                - /url: /html-sitemap/
+            - listitem [ref=e484]: Cookie Settings
+            - listitem [ref=e485]:
+              - link "Your Privacy Choices" [ref=e486] [cursor=pointer]:
+                - /url: https://www.okta.com/your-privacy-choices/
+        - generic [ref=e491]:
+          - generic [ref=e492]: Copyright © 2026 Okta. All rights reserved.
+          - navigation [ref=e493]:
+            - img [ref=e494] [cursor=pointer]
+            - text: United States
+            - list [ref=e497]:
+              - listitem [ref=e498]:
+                - link "Australia":
+                  - /url: /au/?id=countrydropdownfooter-AU
+              - listitem [ref=e499]:
+                - link "Brazil":
+                  - /url: /pt/?id=countrydropdownfooter-PT-BR
+              - listitem [ref=e500]:
+                - link "France":
+                  - /url: /fr/?id=countrydropdownfooter-FR
+              - listitem [ref=e501]:
+                - link "Germany":
+                  - /url: /de/?id=countrydropdownfooter-DE
+              - listitem [ref=e502]:
+                - link "Japan":
+                  - /url: /jp/?id=countrydropdownfooter-JP
+              - listitem [ref=e503]:
+                - link "Korea":
+                  - /url: /kr/?id=countrydropdownfooter-KR
+              - listitem [ref=e504]:
+                - link "Mexico":
+                  - /url: /es/?id=countrydropdownfooter-ES-MX
+              - listitem [ref=e505]:
+                - link "Netherlands":
+                  - /url: /nl/?id=countrydropdownfooter-NL
+              - listitem [ref=e506]:
+                - link "Singapore":
+                  - /url: /sg/?id=countrydropdownfooter-SG
+              - listitem [ref=e507]:
+                - link "Sweden":
+                  - /url: /se/?id=countrydropdownfooter-SE
+              - listitem [ref=e508]:
+                - link "United Kingdom":
+                  - /url: /uk/?id=countrydropdownfooter-UK
+              - listitem [ref=e509]:
+                - link "Canada (EN)":
+                  - /url: /en-ca/?id=countrydropdownfooter-EN-CA
+              - listitem [ref=e510]:
+                - link "Spain":
+                  - /url: /es-es/?id=countrydropdownfooter-ES-ES
+  - region "Cookie banner" [ref=e511]:
+    - dialog "Privacy" [ref=e512]:
+      - generic [ref=e514]:
+        - generic [ref=e517]:
+          - text: We use cookies to provide the best website experience and to help understand marketing efforts. We may also share data with ad partners to reach potential customers across the web. To learn more, visit our
+          - link "Privacy Policy" [ref=e518] [cursor=pointer]:
+            - /url: https://www.okta.com/privacy-policy/
+          - text: . Click here for
+          - link "Your Privacy Choices" [ref=e519] [cursor=pointer]:
+            - /url: https://www.okta.com/your-privacy-choices/
+          - text: . You may also opt out of this sharing by signaling your preference via GPC, applicable only to the browser signaling the opt-out.
+        - button "Cookie Settings" [ref=e522] [cursor=pointer]
+      - button "Close" [ref=e524] [cursor=pointer]

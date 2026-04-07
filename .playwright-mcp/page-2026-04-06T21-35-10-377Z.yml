@@ -1,0 +1,217 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - link "ClickHouse Logo" [ref=e5] [cursor=pointer]:
+        - /url: https://clickhouse.com/
+        - img "ClickHouse Logo" [ref=e6]
+      - generic [ref=e7]:
+        - link "Back to jobs" [ref=e8] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/clickhouse
+          - img [ref=e9]
+          - text: Back to jobs
+        - generic [ref=e12]:
+          - generic [ref=e13]:
+            - heading "Cloud Platform Engineer - Control Plane" [level=1] [ref=e14]
+            - generic [ref=e15]:
+              - img [ref=e16]
+              - generic [ref=e18]: Netherlands (remote)
+          - button "Apply" [ref=e19] [cursor=pointer]
+        - generic [ref=e20]:
+          - generic [ref=e21]:
+            - heading "About ClickHouse" [level=3] [ref=e22]
+            - paragraph [ref=e23]: Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads.
+            - paragraph [ref=e24]: The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla.
+            - paragraph [ref=e25]: We’re on a mission to transform how companies use data. Come be a part of our journey!
+          - generic [ref=e26]:
+            - paragraph [ref=e27]: The Control Plane Infrastructure team develops and manages the foundational resources and tools for the Control Plane Platform. This includes compute, storage, networking, security, and a multi-region architecture that provides a reliable and scalable managed Cloud Console experience for ClickHouse Cloud customers. Our team is looking for highly skilled and experienced cloud platform engineers to join our team, who will be responsible for designing, deploying, and maintaining our infrastructure.
+            - paragraph [ref=e28]:
+              - strong [ref=e29]: "What you will do:"
+            - list [ref=e30]:
+              - listitem [ref=e31]: Design, implement and maintain scalable, highly available, and secure cloud-based infrastructure in AWS (EKS, SQS, DocumentDB, Redis, PostgreSQL, Lambdas)
+              - listitem [ref=e32]: Experience with containerization technologies (Docker, Kubernetes) and orchestration platforms
+              - listitem [ref=e33]: Automate the provisioning of cloud infrastructure using Infrastructure as Code (IaC) tools such as Terraform, AWS CDK, CloudFormation, or ARM templates
+              - listitem [ref=e34]: Define and implement strategies for load balancing, auto-scaling, disaster recovery, and failover for cloud environments
+              - listitem [ref=e35]: Collaborate with cross-functional teams to ensure seamless integration, scalability, and security of cloud environments
+              - listitem [ref=e36]: Enhancing DevX
+              - listitem [ref=e37]: Helping with instrumentation of cloud monitoring and alerting solutions
+              - listitem [ref=e38]: Work with the security team to implement security best practices, including identity and access management (IAM), network security, encryption, and compliance controls within the cloud infrastructure
+              - listitem [ref=e39]: Identify and correct bottlenecks and fix bugs
+            - paragraph [ref=e40]:
+              - strong [ref=e41]: "What you bring along:"
+            - list [ref=e42]:
+              - listitem [ref=e43]: Minimum 6+ years of experience in cloud infrastructure engineering or related roles
+              - listitem [ref=e44]: Strong proficiency in Kubernetes, SQS, RDBMS, Node.JS
+              - listitem [ref=e45]: Deep understanding of cloud architecture, networking, and security
+              - listitem [ref=e46]: Proven experience designing and operating large-scale public and internal APIs
+              - listitem [ref=e47]: Excellent problem-solving skills and attention to detail
+              - listitem [ref=e48]: Knowledge of CI/CD pipelines
+            - paragraph [ref=e49]:
+              - strong [ref=e50]: "Preferred Qualifications:"
+            - list [ref=e51]:
+              - listitem [ref=e52]: Proficiency with frontend frameworks (React)
+              - listitem [ref=e53]: Experience with ClickHouse
+              - listitem [ref=e54]: Previous experience in developing analytics or data-intensive applications
+          - generic [ref=e55]:
+            - heading "Compensation" [level=3] [ref=e56]:
+              - strong [ref=e57]: Compensation
+            - paragraph [ref=e58]:
+              - generic [ref=e59]:
+                - text: For roles based in the
+                - strong [ref=e60]: United States
+                - text: ", t"
+              - text: he typical starting salary range for this position is listed above. In certain locations, such as the San Francisco Bay Area and the New York City Metro Area, a premium market range may apply, as listed.
+            - paragraph [ref=e61]: These salary ranges reflect what we reasonably and in good faith believe to be the minimum and maximum pay for this role at the time of posting. The actual compensation may be higher or lower than the amounts listed, and the ranges may be subject to future adjustments.
+            - paragraph [ref=e62]: An individual’s placement within the range will depend on various factors, including (but not limited to) education, qualifications, certifications, experience, skills, location, performance, and the needs of the business or organization.
+            - paragraph [ref=e63]:
+              - generic [ref=e64]:
+                - text: If you have any questions or comments about compensation as a candidate, please get in touch with us at
+                - link "paytransparency@clickhouse.com" [ref=e65] [cursor=pointer]:
+                  - /url: mailto:paytransparency@clickhouse.com
+                - text: .
+            - heading "Perks" [level=3] [ref=e66]:
+              - strong [ref=e67]: Perks
+            - list [ref=e68]:
+              - listitem [ref=e69]:
+                - strong [ref=e70]: Flexible work environment
+                - text: "- ClickHouse is a globally distributed company and remote-friendly. We currently operate in 20 countries."
+              - listitem [ref=e71]:
+                - strong [ref=e72]: Healthcare
+                - text: "- Employer contributions towards your healthcare."
+              - listitem [ref=e73]:
+                - strong [ref=e74]: Equity in the company
+                - text: "- Every new team member who joins our company receives stock options."
+              - listitem [ref=e75]:
+                - strong [ref=e76]: Time off
+                - text: "- Flexible time off in the US, generous entitlement in other countries."
+              - listitem [ref=e77]:
+                - strong [ref=e78]: A $500 Home office setup
+                - text: if you’re a remote employee.
+              - listitem [ref=e79]:
+                - strong [ref=e80]: Global Gatherings
+                - text: – We believe in the power of in-person connection and offer opportunities to engage with colleagues at company-wide offsites.
+            - paragraph [ref=e81]:
+              - strong [ref=e82]: Culture - We All Shape It
+            - paragraph [ref=e83]: As part of our first 500 employees, you will be instrumental in shaping our culture.
+            - paragraph [ref=e84]:
+              - generic [ref=e85]:
+                - text: Are you interested in finding out more about our culture? Learn more about our values
+                - link "here" [ref=e86] [cursor=pointer]:
+                  - /url: https://clickhouse.com/company/careers
+                - text: . Check out our
+                - link "blog posts" [ref=e87] [cursor=pointer]:
+                  - /url: https://clickhouse.com/blog
+                - text: or follow us on
+                - link "LinkedIn" [ref=e88] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/clickhouseinc/life/0c1ee7f4-2129-488d-b413-e7f6270659fd/?viewAsMember=true
+                - text: to find out more about what’s happening at ClickHouse.
+            - paragraph [ref=e89]:
+              - strong [ref=e90]: Equal Opportunity & Privacy
+            - paragraph [ref=e91]: ClickHouse provides equal employment opportunities to all employees and applicants and prohibits discrimination and harassment of any type based on factors such as race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.
+            - paragraph [ref=e92]:
+              - generic [ref=e93]:
+                - text: Please see
+                - link "here" [ref=e94] [cursor=pointer]:
+                  - /url: https://clickhouse.com/legal/applicant-privacy-notice
+                - text: for our Privacy Statement.
+        - generic [ref=e95]:
+          - img [ref=e96]
+          - generic [ref=e98]:
+            - paragraph [ref=e99]: Create a Job Alert
+            - paragraph [ref=e100]: Interested in building your career at ClickHouse? Get future opportunities sent straight to your email.
+            - link "Create alert" [ref=e101] [cursor=pointer]:
+              - /url: https://my.greenhouse.io/users/sign_in?job_board=clickhouse&source=job_alert_post
+      - separator [ref=e102]
+      - generic [ref=e103]:
+        - generic [ref=e104]:
+          - generic [ref=e105]:
+            - heading "Apply for this job" [level=2] [ref=e107]
+            - generic [ref=e108]:
+              - paragraph [ref=e110]: "*"
+              - paragraph [ref=e111]: indicates a required field
+          - button "Autofill with MyGreenhouse" [ref=e114] [cursor=pointer]
+        - generic [ref=e115]:
+          - generic [ref=e116]:
+            - generic [ref=e119]:
+              - generic [ref=e120]: First Name*
+              - textbox "First Name" [ref=e121]
+            - generic [ref=e124]:
+              - generic [ref=e125]: Last Name*
+              - textbox "Last Name" [ref=e126]
+            - generic [ref=e129]:
+              - generic [ref=e130]: Email*
+              - textbox "Email" [ref=e131]
+            - group "Phone" [ref=e133]:
+              - generic [ref=e134]: Phone
+              - generic [ref=e137]:
+                - generic [ref=e138]: Country
+                - generic [ref=e139]:
+                  - log [ref=e141]
+                  - generic [ref=e143]:
+                    - combobox "Country" [ref=e146]
+                    - button "Toggle flyout" [ref=e148] [cursor=pointer]:
+                      - img [ref=e149]
+              - generic [ref=e153]:
+                - generic [ref=e154]: Phone
+                - textbox "Phone" [ref=e156]
+            - group "Resume/CV*" [ref=e158]:
+              - generic [ref=e159]: Resume/CV*
+              - generic [ref=e161]:
+                - generic [ref=e163]:
+                  - button "Attach" [ref=e164] [cursor=pointer]
+                  - generic [ref=e165]: Attach
+                  - button "Attach" [ref=e166]
+                - generic [ref=e168]:
+                  - button "Enter manually" [ref=e169] [cursor=pointer]
+                  - generic [ref=e170]: Enter manually
+                - paragraph [ref=e171]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e173]:
+              - generic [ref=e174]: Cover Letter
+              - generic [ref=e176]:
+                - generic [ref=e178]:
+                  - button "Attach" [ref=e179] [cursor=pointer]
+                  - generic [ref=e180]: Attach
+                  - button "Attach" [ref=e181]
+                - generic [ref=e183]:
+                  - button "Enter manually" [ref=e184] [cursor=pointer]
+                  - generic [ref=e185]: Enter manually
+                - paragraph [ref=e186]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e187]:
+            - separator [ref=e188]
+            - generic [ref=e191]:
+              - generic [ref=e192]: LinkedIn Profile
+              - textbox "LinkedIn Profile" [ref=e193]
+            - generic [ref=e196]:
+              - generic [ref=e197]: Website or GitHub
+              - textbox "Website or GitHub" [ref=e198]
+            - generic [ref=e201]:
+              - generic [ref=e202]: Where are you currently based?*
+              - textbox "Where are you currently based?" [ref=e203]
+            - generic [ref=e206]:
+              - generic [ref=e207]: If hired, will you require sponsorship of your right to work in the Netherlands?*
+              - generic [ref=e208]:
+                - log [ref=e210]
+                - generic [ref=e212]:
+                  - generic [ref=e213]:
+                    - generic [ref=e214]: Select...
+                    - combobox "If hired, will you require sponsorship of your right to work in the Netherlands?" [ref=e216]
+                  - button "Toggle flyout" [ref=e218] [cursor=pointer]:
+                    - img [ref=e219]
+                - textbox
+            - generic [ref=e223]:
+              - generic [ref=e224]: By selecting Yes, I am consenting to the use of AI for evaluating my candidacy.*
+              - generic [ref=e225]:
+                - log [ref=e227]
+                - generic [ref=e229]:
+                  - generic [ref=e230]:
+                    - generic [ref=e231]: Select...
+                    - combobox "By selecting Yes, I am consenting to the use of AI for evaluating my candidacy." [ref=e233]
+                  - button "Toggle flyout" [ref=e235] [cursor=pointer]:
+                    - img [ref=e236]
+                - textbox
+          - button "Submit application" [ref=e239] [cursor=pointer]
+  - contentinfo [ref=e240]:
+    - generic [ref=e241]:
+      - paragraph [ref=e242]: Powered by
+      - link "Greenhouse logo" [ref=e243] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e244]

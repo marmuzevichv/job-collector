@@ -2296,5 +2296,143 @@
     "title": "Openstack (remote in the US)",
     "url": "https://jobs.smartrecruiters.com/Mirantis/744000117621107-product-manager-openstack-remote-in-the-us-",
     "first_seen_utc": "2026-04-07 01:47:18"
+  },
+  "serp::https://jobs.lever.co/pointclickcare/53e0c620-e7e9-4e54-90f5-3ff2bff10a35": {
+    "company": "pointclickcare",
+    "title": "Senior AI-Enabled DevOps Engineer",
+    "url": "https://jobs.lever.co/pointclickcare/53e0c620-e7e9-4e54-90f5-3ff2bff10a35",
+    "first_seen_utc": "2026-04-07 01:50:11"
+  },
+  "serp::https://jobs.lever.co/panopto/4a6efe88-2552-4e99-a5c9-efe9b2517b89/apply": {
+    "company": "panopto",
+    "title": "DevOps Engineer",
+    "url": "https://jobs.lever.co/panopto/4a6efe88-2552-4e99-a5c9-efe9b2517b89/apply",
+    "first_seen_utc": "2026-04-07 01:50:11"
+  },
+  "serp::https://jobs.lever.co/oci/c69b5353-d759-4209-941b-63c59c99e9a7?utm_source=remotive.com&ref=remotive.com": {
+    "company": "oci",
+    "title": "Object Computing, Inc.",
+    "url": "https://jobs.lever.co/oci/c69b5353-d759-4209-941b-63c59c99e9a7?utm_source=remotive.com&ref=remotive.com",
+    "first_seen_utc": "2026-04-07 01:50:11"
+  },
+  "serp::https://jobs.lever.co/serverfarm/20759625-ff1f-4037-9f61-eefeb0415dbd": {
+    "company": "serverfarm",
+    "title": "Senior Critical Infrastructure Engineer",
+    "url": "https://jobs.lever.co/serverfarm/20759625-ff1f-4037-9f61-eefeb0415dbd",
+    "first_seen_utc": "2026-04-07 01:50:11"
+  },
+  "serp::https://jobs.lever.co/stradaeducation/340f9b63-db59-40b8-b462-4ac61a1961b6/apply": {
+    "company": "stradaeducation",
+    "title": "Strada Education Foundation",
+    "url": "https://jobs.lever.co/stradaeducation/340f9b63-db59-40b8-b462-4ac61a1961b6/apply",
+    "first_seen_utc": "2026-04-07 01:50:11"
+  },
+  "serp::http://job-boards.greenhouse.io/arine/jobs/5795151004": {
+    "company": "arine",
+    "title": "Job Application for DevOps Engineer at Arine",
+    "url": "http://job-boards.greenhouse.io/arine/jobs/5795151004",
+    "first_seen_utc": "2026-04-07 01:50:11"
+  },
+  "serp::https://job-boards.greenhouse.io/janeasystems/jobs/5737004004": {
+    "company": "janeasystems",
+    "title": "Platform Engineer at Janea Systems",
+    "url": "https://job-boards.greenhouse.io/janeasystems/jobs/5737004004",
+    "first_seen_utc": "2026-04-07 01:50:11"
+  },
+  "serp::http://job-boards.greenhouse.io/twilio/jobs/7474040": {
+    "company": "twilio",
+    "title": "Job Application for Senior Infrastructure Engineer at Twilio",
+    "url": "http://job-boards.greenhouse.io/twilio/jobs/7474040",
+    "first_seen_utc": "2026-04-07 01:50:11"
+  },
+  "serp::https://jobs.ashbyhq.com/mux/1c59add9-132d-443a-9b55-069c0266a3d8": {
+    "company": "mux",
+    "title": "Senior Platform Engineer @ Mux",
+    "url": "https://jobs.ashbyhq.com/mux/1c59add9-132d-443a-9b55-069c0266a3d8",
+    "first_seen_utc": "2026-04-07 01:50:11"
+  },
+  "serp::https://jobs.ashbyhq.com/socket/8f9f4b7a-5933-4c07-8fec-900fe2e425c6": {
+    "company": "socket",
+    "title": "Senior Platform Engineer @ Socket",
+    "url": "https://jobs.ashbyhq.com/socket/8f9f4b7a-5933-4c07-8fec-900fe2e425c6",
+    "first_seen_utc": "2026-04-07 01:50:11"
+  },
+  "serp::https://jobs.ashbyhq.com/spoton/83463676-c81f-44b1-b800-6b9100589e71": {
+    "company": "spoton",
+    "title": "Senior Platform Engineer @ SpotOn",
+    "url": "https://jobs.ashbyhq.com/spoton/83463676-c81f-44b1-b800-6b9100589e71",
+    "first_seen_utc": "2026-04-07 01:50:11"
+  },
+  "serp::https://jobs.ashbyhq.com/cloudscaler/9e88bd78-b917-4cac-ae18-a32e8e488fad": {
+    "company": "cloudscaler",
+    "title": "Senior Cloud Engineer (AWS) (Multiple) @ Cloudscaler",
+    "url": "https://jobs.ashbyhq.com/cloudscaler/9e88bd78-b917-4cac-ae18-a32e8e488fad",
+    "first_seen_utc": "2026-04-07 01:50:11"
+  },
+  "serp::https://jobs.ashbyhq.com/astronomer/c9e81bce-beff-475d-8e67-1faf71f8a2e6": {
+    "company": "astronomer",
+    "title": "Senior Customer Reliability Engineer",
+    "url": "https://jobs.ashbyhq.com/astronomer/c9e81bce-beff-475d-8e67-1faf71f8a2e6",
+    "first_seen_utc": "2026-04-07 01:50:11"
+  },
+  "serp::https://jobs.ashbyhq.com/ditto/89254e25-82f7-4634-960a-a6f1f35bbae0": {
+    "company": "ditto",
+    "title": "Site Reliability Engineer @ Ditto",
+    "url": "https://jobs.ashbyhq.com/ditto/89254e25-82f7-4634-960a-a6f1f35bbae0",
+    "first_seen_utc": "2026-04-07 01:50:11"
+  },
+  "serp::https://apply.workable.com/devsu/j/0E0E694B25": {
+    "company": "devsu",
+    "title": "Site Reliability Engineer (SRE)",
+    "url": "https://apply.workable.com/devsu/j/0E0E694B25",
+    "first_seen_utc": "2026-04-07 01:50:11"
+  },
+  "serp::https://apply.workable.com/sidetrade/j/E69FF63939/": {
+    "company": "sidetrade",
+    "title": "DevSecOps Analyst",
+    "url": "https://apply.workable.com/sidetrade/j/E69FF63939/",
+    "first_seen_utc": "2026-04-07 01:50:11"
+  },
+  "serp::https://apply.workable.com/two95-international-inc-3/j/E29507A844/": {
+    "company": "two95-international-inc-3",
+    "title": "Azure Cloud Infrastructure",
+    "url": "https://apply.workable.com/two95-international-inc-3/j/E29507A844/",
+    "first_seen_utc": "2026-04-07 01:50:11"
+  },
+  "serp::https://apply.workable.com/creativechaos/j/778E2FD691/": {
+    "company": "creativechaos",
+    "title": "Lead Cloud Infrastructure Engineer (Azure+AWS)",
+    "url": "https://apply.workable.com/creativechaos/j/778E2FD691/",
+    "first_seen_utc": "2026-04-07 01:50:11"
+  },
+  "serp::https://apply.workable.com/leading-path-consulting/j/A772C2A783/": {
+    "company": "leading-path-consulting",
+    "title": "Cloud Solutions Engineer (TS/SCI w/ FS Poly required)",
+    "url": "https://apply.workable.com/leading-path-consulting/j/A772C2A783/",
+    "first_seen_utc": "2026-04-07 01:50:11"
+  },
+  "serp::https://apply.workable.com/tecsys/j/C2935323AC/": {
+    "company": "tecsys",
+    "title": "Site Reliability Engineer",
+    "url": "https://apply.workable.com/tecsys/j/C2935323AC/",
+    "first_seen_utc": "2026-04-07 01:50:11"
+  },
+  "serp::https://jobs.smartrecruiters.com/Miratech1/744000111331266-senior-devops-engineer": {
+    "company": "miratech1",
+    "title": "Miratech Senior DevOps Engineer",
+    "url": "https://jobs.smartrecruiters.com/Miratech1/744000111331266-senior-devops-engineer",
+    "first_seen_utc": "2026-04-07 01:50:11"
+  },
+  "serp::https://jobs.smartrecruiters.com/Docplanner/744000117265288-senior-devops-engineer-": {
+    "company": "docplanner",
+    "title": "Docplanner Senior DevOps Engineer",
+    "url": "https://jobs.smartrecruiters.com/Docplanner/744000117265288-senior-devops-engineer-",
+    "first_seen_utc": "2026-04-07 01:50:11"
+  },
+  "serp::https://jobs.smartrecruiters.com/Workila/92102813-infrastructure-engineer": {
+    "company": "workila",
+    "title": "Workila Infrastructure Engineer",
+    "url": "https://jobs.smartrecruiters.com/Workila/92102813-infrastructure-engineer",
+    "first_seen_utc": "2026-04-07 01:50:11"
   }
 }

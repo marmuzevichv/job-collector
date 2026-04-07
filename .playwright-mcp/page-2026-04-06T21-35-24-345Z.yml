@@ -1,0 +1,473 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - img [ref=e6]
+    - paragraph [ref=e8]: The job you are looking for is no longer open.
+  - main [ref=e9]:
+    - generic [ref=e10]:
+      - link "GitLab Logo" [ref=e12] [cursor=pointer]:
+        - /url: https://boards.greenhouse.io/gitlab
+        - img "GitLab Logo" [ref=e13]
+      - heading "Current openings at GitLab" [level=1] [ref=e14]
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - generic [ref=e19]:
+            - generic [ref=e20]: Search
+            - textbox "Search" [ref=e21]
+          - generic [ref=e23]:
+            - generic [ref=e24]: Department
+            - generic [ref=e25]:
+              - log [ref=e27]
+              - generic [ref=e29]:
+                - generic [ref=e30]:
+                  - generic [ref=e31]: Select...
+                  - combobox "Department" [ref=e33]
+                - button "Toggle flyout" [ref=e35] [cursor=pointer]:
+                  - img [ref=e36]
+        - generic [ref=e38]:
+          - heading "175 jobs" [level=2] [ref=e39]
+          - generic [ref=e40]:
+            - generic [ref=e41]:
+              - paragraph [ref=e43]: Engineering
+              - heading "AI Engineering" [level=3] [ref=e44]
+              - table [ref=e46]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e47]:
+                      - paragraph [ref=e48]: Job
+                - rowgroup [ref=e49]:
+                  - row "Engineering Manager, AI Engineering:Workflow Catalog New Remote, EMEA; Remote, US-Southeast" [ref=e50]:
+                    - cell "Engineering Manager, AI Engineering:Workflow Catalog New Remote, EMEA; Remote, US-Southeast" [ref=e51]:
+                      - link "Engineering Manager, AI Engineering:Workflow Catalog New Remote, EMEA; Remote, US-Southeast" [ref=e52] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8484753002
+                        - paragraph [ref=e53]:
+                          - text: Engineering Manager, AI Engineering:Workflow Catalog
+                          - generic [ref=e55]: New
+                        - paragraph [ref=e56]: Remote, EMEA; Remote, US-Southeast
+                  - 'row "Senior Fullstack Engineer (TypeScript), AI Engineering: Editor Extensions Remote, APAC; Remote, Canada; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom; Remote, US-Southeast" [ref=e57]':
+                    - 'cell "Senior Fullstack Engineer (TypeScript), AI Engineering: Editor Extensions Remote, APAC; Remote, Canada; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom; Remote, US-Southeast" [ref=e58]':
+                      - 'link "Senior Fullstack Engineer (TypeScript), AI Engineering: Editor Extensions Remote, APAC; Remote, Canada; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom; Remote, US-Southeast" [ref=e59] [cursor=pointer]':
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8452278002
+                        - paragraph [ref=e60]: "Senior Fullstack Engineer (TypeScript), AI Engineering: Editor Extensions"
+                        - paragraph [ref=e61]: Remote, APAC; Remote, Canada; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom; Remote, US-Southeast
+                  - row "Staff Backend (Python) Engineer, AI Engineering:Duo Chat Remote, Americas; Remote, Canada; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom" [ref=e62]:
+                    - cell "Staff Backend (Python) Engineer, AI Engineering:Duo Chat Remote, Americas; Remote, Canada; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom" [ref=e63]:
+                      - link "Staff Backend (Python) Engineer, AI Engineering:Duo Chat Remote, Americas; Remote, Canada; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom" [ref=e64] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8450446002
+                        - paragraph [ref=e65]: Staff Backend (Python) Engineer, AI Engineering:Duo Chat
+                        - paragraph [ref=e66]: Remote, Americas; Remote, Canada; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom
+            - generic [ref=e67]:
+              - paragraph [ref=e69]: Engineering
+              - heading "Customer Support" [level=3] [ref=e70]
+              - table [ref=e72]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e73]:
+                      - paragraph [ref=e74]: Job
+                - rowgroup [ref=e75]:
+                  - row "Support Engineer, U.S. Government Support Remote, US" [ref=e76]:
+                    - cell "Support Engineer, U.S. Government Support Remote, US" [ref=e77]:
+                      - link "Support Engineer, U.S. Government Support Remote, US" [ref=e78] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8389856002
+                        - paragraph [ref=e79]: Support Engineer, U.S. Government Support
+                        - paragraph [ref=e80]: Remote, US
+            - generic [ref=e81]:
+              - paragraph [ref=e83]: Engineering
+              - heading "Data Engineering" [level=3] [ref=e84]
+              - table [ref=e86]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e87]:
+                      - paragraph [ref=e88]: Job
+                - rowgroup [ref=e89]:
+                  - row "Backend Engineer, Analytics Instrumentation (Golang) Remote, India" [ref=e90]:
+                    - cell "Backend Engineer, Analytics Instrumentation (Golang) Remote, India" [ref=e91]:
+                      - link "Backend Engineer, Analytics Instrumentation (Golang) Remote, India" [ref=e92] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8481922002
+                        - paragraph [ref=e93]: Backend Engineer, Analytics Instrumentation (Golang)
+                        - paragraph [ref=e94]: Remote, India
+                  - row "Backend Engineer, Analytics Instrumentation (Golang) Remote, India" [ref=e95]:
+                    - cell "Backend Engineer, Analytics Instrumentation (Golang) Remote, India" [ref=e96]:
+                      - link "Backend Engineer, Analytics Instrumentation (Golang) Remote, India" [ref=e97] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8481929002
+                        - paragraph [ref=e98]: Backend Engineer, Analytics Instrumentation (Golang)
+                        - paragraph [ref=e99]: Remote, India
+                  - row "Backend Engineer, Knowledge Graph (Rust) Remote, Canada; Remote, US" [ref=e100]:
+                    - cell "Backend Engineer, Knowledge Graph (Rust) Remote, Canada; Remote, US" [ref=e101]:
+                      - link "Backend Engineer, Knowledge Graph (Rust) Remote, Canada; Remote, US" [ref=e102] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8437754002
+                        - paragraph [ref=e103]: Backend Engineer, Knowledge Graph (Rust)
+                        - paragraph [ref=e104]: Remote, Canada; Remote, US
+                  - row "Backend Engineer, Knowledge Graph (Rust) Remote, India" [ref=e105]:
+                    - cell "Backend Engineer, Knowledge Graph (Rust) Remote, India" [ref=e106]:
+                      - link "Backend Engineer, Knowledge Graph (Rust) Remote, India" [ref=e107] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8481958002
+                        - paragraph [ref=e108]: Backend Engineer, Knowledge Graph (Rust)
+                        - paragraph [ref=e109]: Remote, India
+                  - row "Principal Database Engineer, Data Engineering Remote, EMEA; Remote, North America" [ref=e110]:
+                    - cell "Principal Database Engineer, Data Engineering Remote, EMEA; Remote, North America" [ref=e111]:
+                      - link "Principal Database Engineer, Data Engineering Remote, EMEA; Remote, North America" [ref=e112] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8231379002
+                        - paragraph [ref=e113]: Principal Database Engineer, Data Engineering
+                        - paragraph [ref=e114]: Remote, EMEA; Remote, North America
+                  - row "Senior Backend Engineer, Analytics Instrumentation (Golang) Remote, Americas; Remote, APAC" [ref=e115]:
+                    - cell "Senior Backend Engineer, Analytics Instrumentation (Golang) Remote, Americas; Remote, APAC" [ref=e116]:
+                      - link "Senior Backend Engineer, Analytics Instrumentation (Golang) Remote, Americas; Remote, APAC" [ref=e117] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8451512002
+                        - paragraph [ref=e118]: Senior Backend Engineer, Analytics Instrumentation (Golang)
+                        - paragraph [ref=e119]: Remote, Americas; Remote, APAC
+                  - row "Staff Backend Engineer, Knowledge Graph (Rust) Remote, India" [ref=e120]:
+                    - cell "Staff Backend Engineer, Knowledge Graph (Rust) Remote, India" [ref=e121]:
+                      - link "Staff Backend Engineer, Knowledge Graph (Rust) Remote, India" [ref=e122] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8481945002
+                        - paragraph [ref=e123]: Staff Backend Engineer, Knowledge Graph (Rust)
+                        - paragraph [ref=e124]: Remote, India
+            - generic [ref=e125]:
+              - paragraph [ref=e127]: Engineering
+              - heading "DevOps Engineering" [level=3] [ref=e128]
+              - table [ref=e130]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e131]:
+                      - paragraph [ref=e132]: Job
+                - rowgroup [ref=e133]:
+                  - row "Engineering Manager, Continuous Delivery New Remote, India" [ref=e134]:
+                    - cell "Engineering Manager, Continuous Delivery New Remote, India" [ref=e135]:
+                      - link "Engineering Manager, Continuous Delivery New Remote, India" [ref=e136] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8482744002
+                        - paragraph [ref=e137]:
+                          - text: Engineering Manager, Continuous Delivery
+                          - generic [ref=e139]: New
+                        - paragraph [ref=e140]: Remote, India
+                  - row "Engineering Manager, Create:Source Code Remote, Americas" [ref=e141]:
+                    - cell "Engineering Manager, Create:Source Code Remote, Americas" [ref=e142]:
+                      - link "Engineering Manager, Create:Source Code Remote, Americas" [ref=e143] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8366115002
+                        - paragraph [ref=e144]: Engineering Manager, Create:Source Code
+                        - paragraph [ref=e145]: Remote, Americas
+                  - 'row "Senior Backend Engineer (Ruby on Rails), Plan: Knowledge Remote, Americas; Remote, APAC; Remote, EMEA" [ref=e146]':
+                    - 'cell "Senior Backend Engineer (Ruby on Rails), Plan: Knowledge Remote, Americas; Remote, APAC; Remote, EMEA" [ref=e147]':
+                      - 'link "Senior Backend Engineer (Ruby on Rails), Plan: Knowledge Remote, Americas; Remote, APAC; Remote, EMEA" [ref=e148] [cursor=pointer]':
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8455304002
+                        - paragraph [ref=e149]: "Senior Backend Engineer (Ruby on Rails), Plan: Knowledge"
+                        - paragraph [ref=e150]: Remote, Americas; Remote, APAC; Remote, EMEA
+                  - row "Staff Backend Engineer (AI), Verify Remote, APAC; Remote, Canada; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom; Remote, US" [ref=e151]:
+                    - cell "Staff Backend Engineer (AI), Verify Remote, APAC; Remote, Canada; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom; Remote, US" [ref=e152]:
+                      - link "Staff Backend Engineer (AI), Verify Remote, APAC; Remote, Canada; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom; Remote, US" [ref=e153] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8448283002
+                        - paragraph [ref=e154]: Staff Backend Engineer (AI), Verify
+                        - paragraph [ref=e155]: Remote, APAC; Remote, Canada; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom; Remote, US
+            - generic [ref=e156]:
+              - paragraph [ref=e158]: Engineering
+              - heading "Platforms Engineering" [level=3] [ref=e159]
+              - table [ref=e161]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e162]:
+                      - paragraph [ref=e163]: Job
+                - rowgroup [ref=e164]:
+                  - 'row "Engineering Manager, Gitlab Delivery: Upgrades Remote, India" [ref=e165]':
+                    - 'cell "Engineering Manager, Gitlab Delivery: Upgrades Remote, India" [ref=e166]':
+                      - 'link "Engineering Manager, Gitlab Delivery: Upgrades Remote, India" [ref=e167] [cursor=pointer]':
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8463917002
+                        - paragraph [ref=e168]: "Engineering Manager, Gitlab Delivery: Upgrades"
+                        - paragraph [ref=e169]: Remote, India
+                  - 'row "Intermediate Backend Engineer, Gitlab Delivery: Upgrades Remote, India" [ref=e170]':
+                    - 'cell "Intermediate Backend Engineer, Gitlab Delivery: Upgrades Remote, India" [ref=e171]':
+                      - 'link "Intermediate Backend Engineer, Gitlab Delivery: Upgrades Remote, India" [ref=e172] [cursor=pointer]':
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8463951002
+                        - paragraph [ref=e173]: "Intermediate Backend Engineer, Gitlab Delivery: Upgrades"
+                        - paragraph [ref=e174]: Remote, India
+                  - row "Intermediate Site Reliability Engineer, Environment Automation Remote, India" [ref=e175]:
+                    - cell "Intermediate Site Reliability Engineer, Environment Automation Remote, India" [ref=e176]:
+                      - link "Intermediate Site Reliability Engineer, Environment Automation Remote, India" [ref=e177] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8464417002
+                        - paragraph [ref=e178]: Intermediate Site Reliability Engineer, Environment Automation
+                        - paragraph [ref=e179]: Remote, India
+                  - row "Principal Engineer, Infrastructure Platforms Remote, Australia; Remote, Canada; Remote, France; Remote, Germany; Remote, India; Remote, Ireland; Remote, Israel; Remote, Japan; Remote, Netherlands; Remote, Singapore; Remote, South Korea; Remote, Spain; Remote, United Kingdom; Remote, US" [ref=e180]:
+                    - cell "Principal Engineer, Infrastructure Platforms Remote, Australia; Remote, Canada; Remote, France; Remote, Germany; Remote, India; Remote, Ireland; Remote, Israel; Remote, Japan; Remote, Netherlands; Remote, Singapore; Remote, South Korea; Remote, Spain; Remote, United Kingdom; Remote, US" [ref=e181]:
+                      - link "Principal Engineer, Infrastructure Platforms Remote, Australia; Remote, Canada; Remote, France; Remote, Germany; Remote, India; Remote, Ireland; Remote, Israel; Remote, Japan; Remote, Netherlands; Remote, Singapore; Remote, South Korea; Remote, Spain; Remote, United Kingdom; Remote, US" [ref=e182] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8366595002
+                        - paragraph [ref=e183]: Principal Engineer, Infrastructure Platforms
+                        - paragraph [ref=e184]: Remote, Australia; Remote, Canada; Remote, France; Remote, Germany; Remote, India; Remote, Ireland; Remote, Israel; Remote, Japan; Remote, Netherlands; Remote, Singapore; Remote, South Korea; Remote, Spain; Remote, United Kingdom; Remote, US
+                  - row "Senior Backend Engineer, Gitlab Delivery - Runway Remote, Canada; Remote, EMEA" [ref=e185]:
+                    - cell "Senior Backend Engineer, Gitlab Delivery - Runway Remote, Canada; Remote, EMEA" [ref=e186]:
+                      - link "Senior Backend Engineer, Gitlab Delivery - Runway Remote, Canada; Remote, EMEA" [ref=e187] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8324132002
+                        - paragraph [ref=e188]: Senior Backend Engineer, Gitlab Delivery - Runway
+                        - paragraph [ref=e189]: Remote, Canada; Remote, EMEA
+                  - 'row "Senior Backend Engineer, Gitlab Delivery: Upgrades Remote, India" [ref=e190]':
+                    - 'cell "Senior Backend Engineer, Gitlab Delivery: Upgrades Remote, India" [ref=e191]':
+                      - 'link "Senior Backend Engineer, Gitlab Delivery: Upgrades Remote, India" [ref=e192] [cursor=pointer]':
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8463933002
+                        - paragraph [ref=e193]: "Senior Backend Engineer, Gitlab Delivery: Upgrades"
+                        - paragraph [ref=e194]: Remote, India
+                  - row "Senior Backend Engineer (Ruby and/or Go), Tenant Scale; Cells Infrastructure Remote, Americas; Remote, APAC; Remote, EMEA" [ref=e195]:
+                    - cell "Senior Backend Engineer (Ruby and/or Go), Tenant Scale; Cells Infrastructure Remote, Americas; Remote, APAC; Remote, EMEA" [ref=e196]:
+                      - link "Senior Backend Engineer (Ruby and/or Go), Tenant Scale; Cells Infrastructure Remote, Americas; Remote, APAC; Remote, EMEA" [ref=e197] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8437148002
+                        - paragraph [ref=e198]: Senior Backend Engineer (Ruby and/or Go), Tenant Scale; Cells Infrastructure
+                        - paragraph [ref=e199]: Remote, Americas; Remote, APAC; Remote, EMEA
+                  - 'row "Staff Backend Engineer, Gitlab Delivery: Upgrades Remote, India" [ref=e200]':
+                    - 'cell "Staff Backend Engineer, Gitlab Delivery: Upgrades Remote, India" [ref=e201]':
+                      - 'link "Staff Backend Engineer, Gitlab Delivery: Upgrades Remote, India" [ref=e202] [cursor=pointer]':
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8463922002
+                        - paragraph [ref=e203]: "Staff Backend Engineer, Gitlab Delivery: Upgrades"
+                        - paragraph [ref=e204]: Remote, India
+            - generic [ref=e205]:
+              - paragraph [ref=e207]: Engineering
+              - heading "Sec Engineering" [level=3] [ref=e208]
+              - table [ref=e210]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e211]:
+                      - paragraph [ref=e212]: Job
+                - rowgroup [ref=e213]:
+                  - 'row "Engineering Manager, AST: Composition Analysis Remote" [ref=e214]':
+                    - 'cell "Engineering Manager, AST: Composition Analysis Remote" [ref=e215]':
+                      - 'link "Engineering Manager, AST: Composition Analysis Remote" [ref=e216] [cursor=pointer]':
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8455737002
+                        - paragraph [ref=e217]: "Engineering Manager, AST: Composition Analysis"
+                        - paragraph [ref=e218]: Remote
+                  - 'row "Engineering Manager, Software Supply Chain Security: Pipeline Security Remote, Canada; Remote, Israel; Remote, Netherlands; Remote, United Kingdom; Remote, US" [ref=e219]':
+                    - 'cell "Engineering Manager, Software Supply Chain Security: Pipeline Security Remote, Canada; Remote, Israel; Remote, Netherlands; Remote, United Kingdom; Remote, US" [ref=e220]':
+                      - 'link "Engineering Manager, Software Supply Chain Security: Pipeline Security Remote, Canada; Remote, Israel; Remote, Netherlands; Remote, United Kingdom; Remote, US" [ref=e221] [cursor=pointer]':
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8339221002
+                        - paragraph [ref=e222]: "Engineering Manager, Software Supply Chain Security: Pipeline Security"
+                        - paragraph [ref=e223]: Remote, Canada; Remote, Israel; Remote, Netherlands; Remote, United Kingdom; Remote, US
+                  - 'row "Engineering Manager, SSCS: AI Governance Remote, India" [ref=e224]':
+                    - 'cell "Engineering Manager, SSCS: AI Governance Remote, India" [ref=e225]':
+                      - 'link "Engineering Manager, SSCS: AI Governance Remote, India" [ref=e226] [cursor=pointer]':
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8477935002
+                        - paragraph [ref=e227]: "Engineering Manager, SSCS: AI Governance"
+                        - paragraph [ref=e228]: Remote, India
+                  - 'row "Engineering Manager, SSCS: Supply Chain Remote, India" [ref=e229]':
+                    - 'cell "Engineering Manager, SSCS: Supply Chain Remote, India" [ref=e230]':
+                      - 'link "Engineering Manager, SSCS: Supply Chain Remote, India" [ref=e231] [cursor=pointer]':
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8478405002
+                        - paragraph [ref=e232]: "Engineering Manager, SSCS: Supply Chain"
+                        - paragraph [ref=e233]: Remote, India
+                  - 'row "Intermediate Backend Engineer, SRM: Security Platform Management Remote" [ref=e234]':
+                    - 'cell "Intermediate Backend Engineer, SRM: Security Platform Management Remote" [ref=e235]':
+                      - 'link "Intermediate Backend Engineer, SRM: Security Platform Management Remote" [ref=e236] [cursor=pointer]':
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8443325002
+                        - paragraph [ref=e237]: "Intermediate Backend Engineer, SRM: Security Platform Management"
+                        - paragraph [ref=e238]: Remote
+                  - 'row "Intermediate Vulnerability Researcher, AST: Vulnerability Research Remote" [ref=e239]':
+                    - 'cell "Intermediate Vulnerability Researcher, AST: Vulnerability Research Remote" [ref=e240]':
+                      - 'link "Intermediate Vulnerability Researcher, AST: Vulnerability Research Remote" [ref=e241] [cursor=pointer]':
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8443302002
+                        - paragraph [ref=e242]: "Intermediate Vulnerability Researcher, AST: Vulnerability Research"
+                        - paragraph [ref=e243]: Remote
+                  - row "Principal Engineer, Software Supply Chain Security Remote, Canada; Remote, Israel; Remote, Netherlands; Remote, United Kingdom; Remote, US" [ref=e244]:
+                    - cell "Principal Engineer, Software Supply Chain Security Remote, Canada; Remote, Israel; Remote, Netherlands; Remote, United Kingdom; Remote, US" [ref=e245]:
+                      - link "Principal Engineer, Software Supply Chain Security Remote, Canada; Remote, Israel; Remote, Netherlands; Remote, United Kingdom; Remote, US" [ref=e246] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8373553002
+                        - paragraph [ref=e247]: Principal Engineer, Software Supply Chain Security
+                        - paragraph [ref=e248]: Remote, Canada; Remote, Israel; Remote, Netherlands; Remote, United Kingdom; Remote, US
+                  - 'row "Senior Backend Engineer(Golang),Software Supply Chain Security: Auth Infrastructure Remote, Americas; Remote, APAC; Remote, Canada" [ref=e249]':
+                    - 'cell "Senior Backend Engineer(Golang),Software Supply Chain Security: Auth Infrastructure Remote, Americas; Remote, APAC; Remote, Canada" [ref=e250]':
+                      - 'link "Senior Backend Engineer(Golang),Software Supply Chain Security: Auth Infrastructure Remote, Americas; Remote, APAC; Remote, Canada" [ref=e251] [cursor=pointer]':
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8157520002
+                        - paragraph [ref=e252]: "Senior Backend Engineer(Golang),Software Supply Chain Security: Auth Infrastructure"
+                        - paragraph [ref=e253]: Remote, Americas; Remote, APAC; Remote, Canada
+                  - 'row "Senior Backend Engineer (RoR), SSCS: Authorization Remote, Canada; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom; Remote, US" [ref=e254]':
+                    - 'cell "Senior Backend Engineer (RoR), SSCS: Authorization Remote, Canada; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom; Remote, US" [ref=e255]':
+                      - 'link "Senior Backend Engineer (RoR), SSCS: Authorization Remote, Canada; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom; Remote, US" [ref=e256] [cursor=pointer]':
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8457315002
+                        - paragraph [ref=e257]: "Senior Backend Engineer (RoR), SSCS: Authorization"
+                        - paragraph [ref=e258]: Remote, Canada; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom; Remote, US
+                  - 'row "Senior Backend Engineer (RoR), SSCS: Pipeline Security Remote, Canada; Remote, Ireland; Remote, Israel; Remote, Netherlands; Remote, United Kingdom; Remote, US" [ref=e259]':
+                    - 'cell "Senior Backend Engineer (RoR), SSCS: Pipeline Security Remote, Canada; Remote, Ireland; Remote, Israel; Remote, Netherlands; Remote, United Kingdom; Remote, US" [ref=e260]':
+                      - 'link "Senior Backend Engineer (RoR), SSCS: Pipeline Security Remote, Canada; Remote, Ireland; Remote, Israel; Remote, Netherlands; Remote, United Kingdom; Remote, US" [ref=e261] [cursor=pointer]':
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8432221002
+                        - paragraph [ref=e262]: "Senior Backend Engineer (RoR), SSCS: Pipeline Security"
+                        - paragraph [ref=e263]: Remote, Canada; Remote, Ireland; Remote, Israel; Remote, Netherlands; Remote, United Kingdom; Remote, US
+                  - 'row "Staff Backend Engineer (Go), Software Supply Chain Security: Secrets Management Remote, Canada; Remote, Ireland; Remote, Israel; Remote, Netherlands; Remote, United Kingdom; Remote, US" [ref=e264]':
+                    - 'cell "Staff Backend Engineer (Go), Software Supply Chain Security: Secrets Management Remote, Canada; Remote, Ireland; Remote, Israel; Remote, Netherlands; Remote, United Kingdom; Remote, US" [ref=e265]':
+                      - 'link "Staff Backend Engineer (Go), Software Supply Chain Security: Secrets Management Remote, Canada; Remote, Ireland; Remote, Israel; Remote, Netherlands; Remote, United Kingdom; Remote, US" [ref=e266] [cursor=pointer]':
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8432235002
+                        - paragraph [ref=e267]: "Staff Backend Engineer (Go), Software Supply Chain Security: Secrets Management"
+                        - paragraph [ref=e268]: Remote, Canada; Remote, Ireland; Remote, Israel; Remote, Netherlands; Remote, United Kingdom; Remote, US
+            - generic [ref=e269]:
+              - paragraph [ref=e271]: G&A / CIO
+              - heading "Data" [level=3] [ref=e272]
+              - table [ref=e274]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e275]:
+                      - paragraph [ref=e276]: Job
+                - rowgroup [ref=e277]:
+                  - row "Data Analyst, Product Remote, North America" [ref=e278]:
+                    - cell "Data Analyst, Product Remote, North America" [ref=e279]:
+                      - link "Data Analyst, Product Remote, North America" [ref=e280] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8455464002
+                        - paragraph [ref=e281]: Data Analyst, Product
+                        - paragraph [ref=e282]: Remote, North America
+                  - row "Senior Data Analyst, Enterprise Analytics New Remote, Bangalore" [ref=e283]:
+                    - cell "Senior Data Analyst, Enterprise Analytics New Remote, Bangalore" [ref=e284]:
+                      - link "Senior Data Analyst, Enterprise Analytics New Remote, Bangalore" [ref=e285] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8478359002
+                        - paragraph [ref=e286]:
+                          - text: Senior Data Analyst, Enterprise Analytics
+                          - generic [ref=e288]: New
+                        - paragraph [ref=e289]: Remote, Bangalore
+                  - row "Senior Data Analyst, Marketing Analytics Remote, North America" [ref=e290]:
+                    - cell "Senior Data Analyst, Marketing Analytics Remote, North America" [ref=e291]:
+                      - link "Senior Data Analyst, Marketing Analytics Remote, North America" [ref=e292] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8472178002
+                        - paragraph [ref=e293]: Senior Data Analyst, Marketing Analytics
+                        - paragraph [ref=e294]: Remote, North America
+                  - row "Senior Director, Data Analytics Remote, US" [ref=e295]:
+                    - cell "Senior Director, Data Analytics Remote, US" [ref=e296]:
+                      - link "Senior Director, Data Analytics Remote, US" [ref=e297] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8436589002
+                        - paragraph [ref=e298]: Senior Director, Data Analytics
+                        - paragraph [ref=e299]: Remote, US
+            - generic [ref=e300]:
+              - paragraph [ref=e302]: G&A / CIO
+              - heading "Enterprise Applications" [level=3] [ref=e303]
+              - table [ref=e305]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e306]:
+                      - paragraph [ref=e307]: Job
+                - rowgroup [ref=e308]:
+                  - row "IT Enterprise Applications Engineer, Zuora/NetSuite New Remote, Bangalore" [ref=e309]:
+                    - cell "IT Enterprise Applications Engineer, Zuora/NetSuite New Remote, Bangalore" [ref=e310]:
+                      - link "IT Enterprise Applications Engineer, Zuora/NetSuite New Remote, Bangalore" [ref=e311] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8465346002
+                        - paragraph [ref=e312]:
+                          - text: IT Enterprise Applications Engineer, Zuora/NetSuite
+                          - generic [ref=e314]: New
+                        - paragraph [ref=e315]: Remote, Bangalore
+                  - row "Salesforce Admin/Release Engineer, CRM Systems Remote, APAC" [ref=e316]:
+                    - cell "Salesforce Admin/Release Engineer, CRM Systems Remote, APAC" [ref=e317]:
+                      - link "Salesforce Admin/Release Engineer, CRM Systems Remote, APAC" [ref=e318] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8398256002
+                        - paragraph [ref=e319]: Salesforce Admin/Release Engineer, CRM Systems
+                        - paragraph [ref=e320]: Remote, APAC
+                  - row "Salesforce Developer, CPQ Remote, US" [ref=e321]:
+                    - cell "Salesforce Developer, CPQ Remote, US" [ref=e322]:
+                      - link "Salesforce Developer, CPQ Remote, US" [ref=e323] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8401813002
+                        - paragraph [ref=e324]: Salesforce Developer, CPQ
+                        - paragraph [ref=e325]: Remote, US
+                  - row "Salesforce Manager, CRM Systems Remote, Bangalore" [ref=e326]:
+                    - cell "Salesforce Manager, CRM Systems Remote, Bangalore" [ref=e327]:
+                      - link "Salesforce Manager, CRM Systems Remote, Bangalore" [ref=e328] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8184975002
+                        - paragraph [ref=e329]: Salesforce Manager, CRM Systems
+                        - paragraph [ref=e330]: Remote, Bangalore
+                  - row "Senior AI Engineer Remote, EMEA" [ref=e331]:
+                    - cell "Senior AI Engineer Remote, EMEA" [ref=e332]:
+                      - link "Senior AI Engineer Remote, EMEA" [ref=e333] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8464072002
+                        - paragraph [ref=e334]: Senior AI Engineer
+                        - paragraph [ref=e335]: Remote, EMEA
+                  - row "Senior Director, Enterprise Architecture and AI Remote, US" [ref=e336]:
+                    - cell "Senior Director, Enterprise Architecture and AI Remote, US" [ref=e337]:
+                      - link "Senior Director, Enterprise Architecture and AI Remote, US" [ref=e338] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8393292002
+                        - paragraph [ref=e339]: Senior Director, Enterprise Architecture and AI
+                        - paragraph [ref=e340]: Remote, US
+            - generic [ref=e341]:
+              - paragraph [ref=e343]: G&A
+              - heading "FP&A" [level=3] [ref=e344]
+              - table [ref=e346]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e347]:
+                      - paragraph [ref=e348]: Job
+                - rowgroup [ref=e349]:
+                  - row "GTM FP&A Manager, Professional Services Remote, Americas" [ref=e350]:
+                    - cell "GTM FP&A Manager, Professional Services Remote, Americas" [ref=e351]:
+                      - link "GTM FP&A Manager, Professional Services Remote, Americas" [ref=e352] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8471711002
+                        - paragraph [ref=e353]: GTM FP&A Manager, Professional Services
+                        - paragraph [ref=e354]: Remote, Americas
+                  - row "Senior Analyst, Analytics and Insights Remote, Canada; Remote, US" [ref=e355]:
+                    - cell "Senior Analyst, Analytics and Insights Remote, Canada; Remote, US" [ref=e356]:
+                      - link "Senior Analyst, Analytics and Insights Remote, Canada; Remote, US" [ref=e357] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8343792002
+                        - paragraph [ref=e358]: Senior Analyst, Analytics and Insights
+                        - paragraph [ref=e359]: Remote, Canada; Remote, US
+            - generic [ref=e360]:
+              - paragraph [ref=e362]: G&A / FP&A
+              - heading "Accounting Operations" [level=3] [ref=e363]
+              - table [ref=e365]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e366]:
+                      - paragraph [ref=e367]: Job
+                - rowgroup [ref=e368]:
+                  - row "Billing Operations Analyst, West Remote, North America" [ref=e369]:
+                    - cell "Billing Operations Analyst, West Remote, North America" [ref=e370]:
+                      - link "Billing Operations Analyst, West Remote, North America" [ref=e371] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8442330002
+                        - paragraph [ref=e372]: Billing Operations Analyst, West
+                        - paragraph [ref=e373]: Remote, North America
+            - generic [ref=e374]:
+              - paragraph [ref=e376]: G&A / FP&A
+              - heading "Internal Audit" [level=3] [ref=e377]
+              - table [ref=e379]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e380]:
+                      - paragraph [ref=e381]: Job
+                - rowgroup [ref=e382]:
+                  - row "IT Audit Manager Remote, Americas" [ref=e383]:
+                    - cell "IT Audit Manager Remote, Americas" [ref=e384]:
+                      - link "IT Audit Manager Remote, Americas" [ref=e385] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8400445002
+                        - paragraph [ref=e386]: IT Audit Manager
+                        - paragraph [ref=e387]: Remote, Americas
+            - generic [ref=e388]:
+              - paragraph [ref=e390]: G&A / FP&A
+              - heading "Office of CFO" [level=3] [ref=e391]
+              - table [ref=e393]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e394]:
+                      - paragraph [ref=e395]: Job
+                - rowgroup [ref=e396]:
+                  - row "Vice President, Enterprise Transformation & Finance Strategy Remote, US" [ref=e397]:
+                    - cell "Vice President, Enterprise Transformation & Finance Strategy Remote, US" [ref=e398]:
+                      - link "Vice President, Enterprise Transformation & Finance Strategy Remote, US" [ref=e399] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8467198002
+                        - paragraph [ref=e400]: Vice President, Enterprise Transformation & Finance Strategy
+                        - paragraph [ref=e401]: Remote, US
+            - generic [ref=e402]:
+              - paragraph [ref=e404]: G&A
+              - heading "Legal" [level=3] [ref=e405]
+              - table [ref=e407]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e408]:
+                      - paragraph [ref=e409]: Job
+                - rowgroup [ref=e410]:
+                  - row "Legal Counsel, Commercial Remote, Canada; Remote, US" [ref=e411]:
+                    - cell "Legal Counsel, Commercial Remote, Canada; Remote, US" [ref=e412]:
+                      - link "Legal Counsel, Commercial Remote, Canada; Remote, US" [ref=e413] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/gitlab/jobs/8432266002
+                        - paragraph [ref=e414]: Legal Counsel, Commercial
+                        - paragraph [ref=e415]: Remote, Canada; Remote, US
+          - navigation "Pagination" [ref=e417]:
+            - button "Previous page" [disabled] [ref=e418]:
+              - img [ref=e419]
+            - list [ref=e421]:
+              - listitem [ref=e422]:
+                - button "Go to page 1": "1"
+              - listitem [ref=e423]:
+                - button "Go to page 2" [ref=e424] [cursor=pointer]: "2"
+              - listitem [ref=e425]:
+                - button "Go to page 3" [ref=e426] [cursor=pointer]: "3"
+              - listitem [ref=e427]:
+                - button "Go to page 4" [ref=e428] [cursor=pointer]: "4"
+            - button "Next page" [ref=e429] [cursor=pointer]:
+              - img [ref=e430]
+  - contentinfo [ref=e432]:
+    - generic [ref=e433]:
+      - paragraph [ref=e434]: Powered by
+      - link "Greenhouse logo" [ref=e435] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e436]

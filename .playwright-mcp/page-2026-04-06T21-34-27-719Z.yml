@@ -1,0 +1,153 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - img "FORT Robotics Logo" [ref=e5]
+      - generic [ref=e9]:
+        - heading [level=2]
+        - generic [ref=e10]:
+          - paragraph [ref=e11]:
+            - strong [ref=e12]: Join a team that's driven to win and accomplish the impossible!
+          - paragraph [ref=e13]
+          - paragraph [ref=e14]:
+            - text: At FORT, we're not just building smart machines but shaping the future of autonomy. Our game-changing safety and security technology is deployed on vehicles and robots around the world, and this is just the beginning!
+            - superscript
+          - paragraph [ref=e15]
+          - paragraph [ref=e16]:
+            - text: We're looking for talented individuals who share our passion for pushing boundaries and achieving what others thought was impossible.
+            - superscript
+            - text: From engineering and product to sales and support, every role at FORT is an opportunity to make a real difference.
+            - superscript
+          - paragraph [ref=e17]
+          - paragraph [ref=e18]:
+            - strong [ref=e19]: What sets FORT apart?
+          - list [ref=e20]:
+            - listitem [ref=e21]:
+              - strong [ref=e22]: "We think out loud:"
+              - text: We foster a culture of open communication and collaboration where everyone's ideas are valued.
+              - superscript
+            - listitem [ref=e23]:
+              - strong [ref=e24]: "We accomplish the impossible:"
+              - text: We embrace challenges head-on and work tirelessly to exceed expectations.
+              - superscript
+            - listitem [ref=e25]:
+              - strong [ref=e26]: "We deliver a customer experience worthy of loyalty:"
+              - text: We go above and beyond to ensure our customers are not just satisfied, but truly delighted.
+              - superscript
+          - paragraph [ref=e27]:
+            - strong [ref=e28]: But it's not just about the work.
+          - paragraph [ref=e29]
+          - paragraph [ref=e30]:
+            - text: At FORT, we're committed to creating a workplace where everyone feels like they belong. We celebrate diversity and are dedicated to building an inclusive environment where every employee can thrive.
+            - superscript
+          - paragraph [ref=e31]
+          - paragraph [ref=e32]:
+            - strong [ref=e33]: We offer competitive pay, unlimited PTO, healthcare benefits, stock options, and more!
+          - paragraph [ref=e34]:
+            - strong [ref=e35]: Ready to join a team that's changing the world?
+          - paragraph [ref=e36]:
+            - strong [ref=e37]: Apply now and help us build the future of autonomy!
+        - heading [level=2]
+        - heading [level=2]
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - link:
+                    - /url: https://contribution.usercontent.google.com/download?c=CgxiYXJkX3N0b3JhZ2USTxIMcmVxdWVzdF9kYXRhGj8KMDAwMDYyZWU4OTEzZmVjZWEwOTE0ZTIwMDkzMWIzYzM1YzkwYzM5ZDU0NGEyYjVjNBILEgcQlOqZ48cWGAE&filename=FORT+Employee+Values+-+Individual+(IC)+(2).pdf&opi=103135050
+      - generic [ref=e38]:
+        - img [ref=e39]
+        - generic [ref=e41]:
+          - paragraph [ref=e42]: Create a Job Alert
+          - paragraph [ref=e43]: Level-up your career by having opportunities at FORT Robotics sent directly to your inbox.
+          - button "Create alert" [ref=e44] [cursor=pointer]
+      - generic [ref=e45]:
+        - generic [ref=e46]:
+          - generic [ref=e48]:
+            - generic [ref=e49]: Search
+            - textbox "Search" [ref=e50]
+          - generic [ref=e52]:
+            - generic [ref=e53]: Department
+            - generic [ref=e54]:
+              - log [ref=e56]
+              - generic [ref=e58]:
+                - generic [ref=e59]:
+                  - generic [ref=e60]: Select...
+                  - combobox "Department" [ref=e62]
+                - button "Toggle flyout" [ref=e64] [cursor=pointer]:
+                  - img [ref=e65]
+          - generic [ref=e68]:
+            - generic [ref=e69]: Office
+            - generic [ref=e70]:
+              - log [ref=e72]
+              - generic [ref=e74]:
+                - generic [ref=e75]:
+                  - generic [ref=e76]: Select...
+                  - combobox "Office" [ref=e78]
+                - button "Toggle flyout" [ref=e80] [cursor=pointer]:
+                  - img [ref=e81]
+        - generic [ref=e83]:
+          - heading "5 jobs" [level=2] [ref=e84]
+          - generic [ref=e85]:
+            - generic [ref=e86]:
+              - heading "Customer Experience" [level=3] [ref=e87]
+              - table [ref=e89]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e90]:
+                      - paragraph [ref=e91]: Job
+                - rowgroup [ref=e92]:
+                  - row "Manager, Supply Chain New Philadelphia, PA, United States" [ref=e93]:
+                    - cell "Manager, Supply Chain New Philadelphia, PA, United States" [ref=e94]:
+                      - link "Manager, Supply Chain New Philadelphia, PA, United States" [ref=e95] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/fortrobotics/jobs/4681372005
+                        - paragraph [ref=e96]:
+                          - text: Manager, Supply Chain
+                          - generic [ref=e98]: New
+                        - paragraph [ref=e99]: Philadelphia, PA, United States
+                  - row "Sr. Application Engineer San Francisco" [ref=e100]:
+                    - cell "Sr. Application Engineer San Francisco" [ref=e101]:
+                      - link "Sr. Application Engineer San Francisco" [ref=e102] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/fortrobotics/jobs/4678006005
+                        - paragraph [ref=e103]: Sr. Application Engineer
+                        - paragraph [ref=e104]: San Francisco
+                  - row "Sr. Application Engineer Philadelphia, PA, United States" [ref=e105]:
+                    - cell "Sr. Application Engineer Philadelphia, PA, United States" [ref=e106]:
+                      - link "Sr. Application Engineer Philadelphia, PA, United States" [ref=e107] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/fortrobotics/jobs/4677945005
+                        - paragraph [ref=e108]: Sr. Application Engineer
+                        - paragraph [ref=e109]: Philadelphia, PA, United States
+            - generic [ref=e110]:
+              - heading "Engineering" [level=3] [ref=e111]
+              - table [ref=e113]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e114]:
+                      - paragraph [ref=e115]: Job
+                - rowgroup [ref=e116]:
+                  - row "Embedded Software Engineer Philadelphia, PA" [ref=e117]:
+                    - cell "Embedded Software Engineer Philadelphia, PA" [ref=e118]:
+                      - link "Embedded Software Engineer Philadelphia, PA" [ref=e119] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/fortrobotics/jobs/4665943005
+                        - paragraph [ref=e120]: Embedded Software Engineer
+                        - paragraph [ref=e121]: Philadelphia, PA
+            - generic [ref=e122]:
+              - heading "Sales & Marketing" [level=3] [ref=e123]
+              - table [ref=e125]:
+                - rowgroup:
+                  - row "Job":
+                    - columnheader "Job" [ref=e126]:
+                      - paragraph [ref=e127]: Job
+                - rowgroup [ref=e128]:
+                  - row "Senior Account Executive, West Coast Remote" [ref=e129]:
+                    - cell "Senior Account Executive, West Coast Remote" [ref=e130]:
+                      - link "Senior Account Executive, West Coast Remote" [ref=e131] [cursor=pointer]:
+                        - /url: https://job-boards.greenhouse.io/fortrobotics/jobs/4619244005
+                        - paragraph [ref=e132]: Senior Account Executive, West Coast
+                        - paragraph [ref=e133]: Remote
+  - contentinfo [ref=e134]:
+    - generic [ref=e135]:
+      - paragraph [ref=e136]: Powered by
+      - link "Greenhouse logo" [ref=e137] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e138]
