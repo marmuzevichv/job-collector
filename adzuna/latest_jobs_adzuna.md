@@ -1,7 +1,7 @@
 # Jobs via Adzuna API
 
-Generated: 2026-04-07 17:05 UTC
-Total jobs (24h window): 457
+Generated: 2026-04-08 13:28 UTC
+Total jobs (24h window): 479
 
 - [Devops Emgineer](https://www.adzuna.com/details/5692198313?utm_medium=api&utm_source=632a28fd)
   - Company: Alltech Consulting Services, Inc. | US
@@ -1830,3 +1830,91 @@ Total jobs (24h window): 457
 - [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/land/ad/5469926168?se=6KWm8qMy8RG4g5fzSLxD-w&utm_medium=api&utm_source=632a28fd&v=78EB84FCC17ADFD976A9255478E465E866A287E1)
   - Company: SitusAMC | La Cienga, Santa Fe County
   - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior DevOPS Engineer](https://www.adzuna.com/details/5693185008?utm_medium=api&utm_source=632a28fd)
+  - Company: Abbott Laboratories | Abbott Park, Lake County
+  - Abbott is a global healthcare leader that helps people live more fully at all stages of life. Our portfolio of life-chan...
+
+- [Azure DevOps Engineer- Ex Microsoft](https://www.adzuna.com/details/5692533918?utm_medium=api&utm_source=632a28fd)
+  - Company: Ventechsoft Inc | US
+  - Position: Azure DevOps Engineer Location: Remote EXP: 8 Ex: Microsoft candidates only. Skills: Azure DevOps with Python....
+
+- [Senior DevOps Engineer - (US - Remote) with Security Clearance](https://www.adzuna.com/land/ad/5692320871?se=NlW00k4z8RGTOa4z8BOoGw&utm_medium=api&utm_source=632a28fd&v=A2B076F188AF1C05CB022BDD2046D0370A294394)
+  - Company: ICF Consulting Group, Inc. | Reston, Fairfax County
+  - Description Our Engineering and Emerging Technologies (EET) team works side by side with customers to articulate a visio...
+
+- [SRE / DevOps Engineers - Helix](https://www.adzuna.com/details/5692283011?utm_medium=api&utm_source=632a28fd)
+  - Company: Emergere Technologies | US
+  - Role: SRE / DevOps Engineers - Helix Location: Remote Contract: C2C Exp: 10 Years Role Summary We are seeking three SRE ...
+
+- [Bazel Engineer/ (Sr. Build Systems Engineer)](https://www.adzuna.com/details/5692280117?utm_medium=api&utm_source=632a28fd)
+  - Company: Headway Tek Inc | US
+  - Role : Bazel Engineer/DevOps Engineer (Sr. Build Systems Engineer) Location : Remote (EST support) Job Type : C2C or W2 ...
+
+- [Salesforce DevOps Engineer](https://www.adzuna.com/details/5692226614?utm_medium=api&utm_source=632a28fd)
+  - Company: Pebal Bright Technologies LLC | Elsmere, Albany County
+  - Greetings from Tech-Apex Job Title: Salesforce DevOps Engineer Location: Albany NY ( 50% Remote and 50% Onsite ) Contrac...
+
+- [Sr. DevOps Engineer-Remote -W2 Role](https://www.adzuna.com/details/5691388427?utm_medium=api&utm_source=632a28fd)
+  - Company: Cyber Sphere LLC | US
+  - Title - Sr. DevOps Engineer Location-Remote Duration Contract Job Summary: Senior technical contributor responsible for ...
+
+- [Senior Site Reliability Engineer (Azure)](https://www.adzuna.com/land/ad/5692780335?se=WERg1E4z8RGTOa4z8BOoGw&utm_medium=api&utm_source=632a28fd&v=965E798C27237780C9B8BC1CC76A445FB0E300FF)
+  - Company: Career Renew | New York City, New York
+  - Job Description Job Description Career Renew is recruiting for one of its clients a Senior Site Reliability Engineer (Az...
+
+- [Sr. Site Reliability Engineer](https://www.adzuna.com/land/ad/5692779256?se=WERg1E4z8RGTOa4z8BOoGw&utm_medium=api&utm_source=632a28fd&v=3552CD6E1E720CF7AB4C9E0DCB3F3BC8F7D9DF99)
+  - Company: Intuitive Machines LLC | Houston, Harris County
+  - Job Description Job Description Sr. Site Reliability Engineer Remote, US About Intuitive Machines: Intuitive Machines is...
+
+- [Senior Software Engineer - Site Reliability (Remote)](https://www.adzuna.com/land/ad/5692751778?se=WERg1E4z8RGTOa4z8BOoGw&utm_medium=api&utm_source=632a28fd&v=6E2B2345CF0F6D3980CD90CC3E89A86A7271D1D9)
+  - Company: Home Depot | US
+  - With a career at The Home Depot, you can be yourself and also be part of something bigger. Position Purpose: The Senior ...
+
+- [Senior Software Engineer - Site Reliability (Remote)](https://www.adzuna.com/land/ad/5692622227?se=WERg1E4z8RGTOa4z8BOoGw&utm_medium=api&utm_source=632a28fd&v=914352F7B3EAA00F0F7A16424B3CD6840C75B4E9)
+  - Company: Home Depot | Atlanta, Fulton County
+  - Position Purpose: The Senior Software Engineer for Site Reliability drives the platform's stability, scalability, and pe...
+
+- [100 % Remote - SRE Site Reliability Engineer - Data Visualization - Senior Observability Engineer Telemetry & Tooling](https://www.adzuna.com/details/5683252701?utm_medium=api&utm_source=632a28fd)
+  - Company: GRT Corporation | US
+  - 100 % Remote Work from Home SRE Site Reliability Engineer - Data Visualization - Senior Observability Engineer – Telemet...
+
+- [Full Stack Cloud Engineer (AI Security Platform)](https://www.adzuna.com/details/5692807857?utm_medium=api&utm_source=632a28fd)
+  - Company: HiddenLayer | US
+  - Full Stack Cloud Engineer (AI Security Platform) Remote [within the US]- strong preference for Eastern Time Zone hours A...
+
+- [Kafka Platform Engineer (Contract-to-Hire | Remote – U.S.)](https://www.adzuna.com/details/5692518059?utm_medium=api&utm_source=632a28fd)
+  - Company: Workforce Connections LLC | US
+  - Kafka Platform Engineer (Contract-to-Hire | Remote – U.S.) Contract duration: 5 months with potential to extend or conve...
+
+- [Intune Platform Engineer](https://www.adzuna.com/details/5692511464?utm_medium=api&utm_source=632a28fd)
+  - Company: Spiceorb | US
+  - Hi, I hope you're doing well! Please look at the requirements below, let us know of your interest, and send us your upda...
+
+- [Cloud Network Engineer - Remote](https://www.adzuna.com/details/5693044291?utm_medium=api&utm_source=632a28fd)
+  - Company: Genesis10 | Eagan, Dakota County
+  - Genesis10 is currently seeking a Cloud Network Engineer for a contract position located in MN. This is a remote role. Co...
+
+- [Cloud Engineer II](https://www.adzuna.com/details/5692511826?utm_medium=api&utm_source=632a28fd)
+  - Company: Vaco by Highspring | Cloverdale, Shelby County
+  - Vaco is actively seeking a remote Cloud Engineer II for a long-term contract employment with our client in Memphis. This...
+
+- [Remote Jr/Mid Level Cloud Migration Engineer](https://www.adzuna.com/details/5692468456?utm_medium=api&utm_source=632a28fd)
+  - Company: Insight Global | Herndon, Fairfax County
+  - Job Description A client of Insight Global is looking for a Jr/Mid Level Remote Cloud Engineer to join their team suppor...
+
+- [IT Infrastructure and Security Engineer](https://www.adzuna.com/land/ad/5692720388?se=ACjZ2U4z8RG84qFBMhtl-Q&utm_medium=api&utm_source=632a28fd&v=BE76CFC5EBECD5D4CEC3D8AEF7FAABEFCDBDD62E)
+  - Company: Judge Group, Inc. | Warrenville, DuPage County
+  - Location: Warrenville, IL Description: Our client is currently seeking a IT Infrastructure and Security Engineer! This i...
+
+- [Infrastructure Security Engineer - REMOTE](https://www.adzuna.com/land/ad/5692653982?se=ACjZ2U4z8RG84qFBMhtl-Q&utm_medium=api&utm_source=632a28fd&v=5B05363027A61DF72D76BC5CD09E0BDD33B5CAF6)
+  - Company: Insight Global | Newark, Essex County
+  - Job Description The IAM Infrastructure Security Engineer supports and enhances enterprise Windows and identity infrastru...
+
+- [Senior AWS Platform Engineer](https://www.adzuna.com/details/5693133590?utm_medium=api&utm_source=632a28fd)
+  - Company: Commonwealth Trading Partners | US
+  - CTP is a privately held small business based in Herndon, VA. We provide program management services for government and p...
+
+- [Kubernetes Platform Engineer (Remote) - 26573 with Security Clearance](https://www.adzuna.com/land/ad/5640564589?se=4CpN3U4z8RGTOa4z8BOoGw&utm_medium=api&utm_source=632a28fd&v=0DAE4C3E153147B03CF24C0573B82D7F89628676)
+  - Company: Enlighten, an HII - Mission Technologies Company | Fairfax, Fairfax County
+  - Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with ...
