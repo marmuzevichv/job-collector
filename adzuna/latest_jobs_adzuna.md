@@ -1,7 +1,7 @@
 # Jobs via Adzuna API
 
-Generated: 2026-04-09 13:52 UTC
-Total jobs (24h window): 377
+Generated: 2026-04-10 13:21 UTC
+Total jobs (24h window): 493
 
 - [DevOps Engineer with Security Clearance](https://www.adzuna.com/land/ad/5694194625?se=ulQwRxs08RGMwtry4lbh0w&utm_medium=api&utm_source=632a28fd&v=DF0439F2F19AB7BFF2DE1BE771286CEC9AB74167)
   - Company: Aquila Technology | Lexington, Middlesex County
@@ -1509,4 +1509,468 @@ Total jobs (24h window): 377
 
 - [Kubernetes Platform Engineer (Remote) - 26573](https://www.adzuna.com/details/5576805369?utm_medium=api&utm_source=632a28fd)
   - Company: Huntington Ingalls Industries | Fairfax, Fairfax County
+  - Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with ...
+
+- [DevOps Engineer - Latam](https://www.adzuna.com/details/5695324831?utm_medium=api&utm_source=632a28fd)
+  - Company: IDT | US
+  - IDT is looking for a DevOps Engineer to join us remotely from Latam. As a Senior DevOps Engineer, you will play a crucia...
+
+- [Lead AWS DEVoPS Developer - Remote](https://www.adzuna.com/details/5694631253?utm_medium=api&utm_source=632a28fd)
+  - Company: Cyberobotix | US
+  - Job Title: Lead AWS DevOps Engineer Location: Remote Job Type: 3-6 months -Contract To Hire (C2H) Duration: Long Term Jo...
+
+- [Lead AWS DevOps Engineer | RemoteContract To Hire (C2H)-3-6 months](https://www.adzuna.com/details/5694595798?utm_medium=api&utm_source=632a28fd)
+  - Company: Cyberobotix | US
+  - Job Title: Lead AWS DevOps Engineer Location: Remote Job Type: Contract To Hire (C2H)-3-6 months Duration: Long Term Not...
+
+- [W2 Role DevOps Engineer With GKE](https://www.adzuna.com/details/5694594968?utm_medium=api&utm_source=632a28fd)
+  - Company: Logicplanet, Inc. | Northlake, DeKalb County
+  - Role: Sr. DevOps Engineer Location: Remote Duration: Long Term Contract The job description provided below outlines the ...
+
+- [Senior DevOPS Engineer](https://www.adzuna.com/details/5693185008?utm_medium=api&utm_source=632a28fd)
+  - Company: Abbott Laboratories | Abbott Park, Lake County
+  - Abbott is a global healthcare leader that helps people live more fully at all stages of life. Our portfolio of life-chan...
+
+- [Site Reliability Engineer (Remote Device Management)](https://www.adzuna.com/details/5695402633?utm_medium=api&utm_source=632a28fd)
+  - Company: Locus Robotics | Wilmington, Middlesex County
+  - Locus Robotics is a global leader in warehouse automation, delivering unmatched flexibility, unlimited throughput, and a...
+
+- [Data Platform Engineer](https://www.adzuna.com/details/5694993202?utm_medium=api&utm_source=632a28fd)
+  - Company: Apex Systems | Highland Park, Dallas
+  - Job: 3026224 Job Description: Data Platform Engineer Location: Dallas, Texas (Partial Remote) Employment Type: Permanent...
+
+- [Kubernetes Engineer - AWS EKS / Platform Engineering (REMOTE)](https://www.adzuna.com/details/5694983764?utm_medium=api&utm_source=632a28fd)
+  - Company: Xcellent Technology Solutions | US
+  - Step into a Kubernetes environment that’s already running, but not perfect, and help make it stronger, faster, and more ...
+
+- [Google Cloud Platform Gen AI Engineer (LLMs, OCR)](https://www.adzuna.com/details/5694663690?utm_medium=api&utm_source=632a28fd)
+  - Company: Reliable Software Resources | US
+  - Job Title: Google Cloud Platform Gen AI Engineer (LLMs, OCR) Location: Remote with travel C2H Skills: Must Have: Google ...
+
+- [Power Platform Automation Engineer (Power Automate Certified)  100% Remote](https://www.adzuna.com/details/5694633745?utm_medium=api&utm_source=632a28fd)
+  - Company: Trebecon LLC | US
+  - Job Title: Power Platform Automation Engineer (Power Automate Certified) Location: Remote Key Responsibilities Develop, ...
+
+- [Cloud Software Engineer with Java or C/C++, TS/SCI with a Full Scope Polygraph Security Clearance Required, Onsite - M](https://www.adzuna.com/details/5695532939?utm_medium=api&utm_source=632a28fd)
+  - Company: Next Step Systems | Maryland, Anne Arundel County
+  - Cloud Software Engineer with Java or C/C++, TS/SCI with a Full Scope Polygraph Security Clearance Required, Onsite in An...
+
+- [Cloud Security Engineer](https://www.adzuna.com/details/5695383677?utm_medium=api&utm_source=632a28fd)
+  - Company: Explore AI2IO | US
+  - Position Title Cloud Security Engineer Position Location Remote – work virtually from anywhere in the United States Sala...
+
+- [Cloud Communications Engineer](https://www.adzuna.com/details/5695269780?utm_medium=api&utm_source=632a28fd)
+  - Company: Explore AI2IO | US
+  - Position Title Cloud Communications Engineer Position Location Remote – work virtually from anywhere in the United State...
+
+- [Platform Engineer](https://www.adzuna.com/details/5695191571?utm_medium=api&utm_source=632a28fd)
+  - Company: Exiger | US
+  - Who We Are: Exiger transforms supply chains into a strategic advantage—advancing our mission to make the world a safer a...
+
+- [Remote Cloud Engineer](https://www.adzuna.com/land/ad/5695126439?se=bkjkIOA08RGmVOIZel6lEA&utm_medium=api&utm_source=632a28fd&v=1F6A3AA1559BFA94BA68785CCBF94754824EBE01)
+  - Company: Insight Global | Burlington, Middlesex County
+  - Job Description We are seeking a hands-on and dependable Cloud Engineer to join the Infrastructure team. In this role, y...
+
+- [AWS Cloud Security Engineer](https://www.adzuna.com/details/5695050727?utm_medium=api&utm_source=632a28fd)
+  - Company: Resource 1 | US
+  - Resource 1 is in need of an AWS Cloud Security Engineer for a remote contract role with our client based in Oak Brook, I...
+
+- [High Performance Computing (HPC) Engineer](https://www.adzuna.com/land/ad/5695302619?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=0449CB6B2CC87AF18F14D63216FD781E2437C652)
+  - Company: GovCIO | Madison, Dane County
+  - United States No Clearance Needed Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently ...
+
+- [SME Network Engineer](https://www.adzuna.com/land/ad/5695302596?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=7C7FA19835620B4A13B490550F020B140943224E)
+  - Company: GovCIO | Madison, Dane County
+  - United States Secret Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently hiring for a ...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5695302615?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=556B120609FB8B005CEC9C221D79B7D7AC9A308A)
+  - Company: GovCIO | Madison, Dane County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [SME Network Engineer](https://www.adzuna.com/land/ad/5695291890?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=C8184F88DA1021CB2FF9DB9132F314704B2A4569)
+  - Company: GovCIO | Tumwater, Thurston County
+  - United States Secret Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently hiring for a ...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5695287638?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=7957744E6E5F48B45305C56BF8589BA4C967994F)
+  - Company: GovCIO | Bonnie, Utah County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [SME Network Engineer](https://www.adzuna.com/land/ad/5695287653?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=FDC42C0B9871640EEB504C7CB5924EE3EE8B476D)
+  - Company: GovCIO | Bonnie, Utah County
+  - United States Secret Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently hiring for a ...
+
+- [High Performance Computing (HPC) Engineer](https://www.adzuna.com/land/ad/5695287628?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=80B0B7BE0AAC8F6632B8B03588239DB9D5B8E0DB)
+  - Company: GovCIO | Bonnie, Utah County
+  - United States No Clearance Needed Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently ...
+
+- [High Performance Computing (HPC) Engineer](https://www.adzuna.com/land/ad/5695228111?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=98AF40B09F9B870B5310ABC3D14F324CAE4DAEBC)
+  - Company: GovCIO | Charleston, Kanawha County
+  - United States No Clearance Needed Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently ...
+
+- [SME Network Engineer](https://www.adzuna.com/land/ad/5695228122?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=D467E05D1EF2976DC65A6DEF2ACBD7596FE7E83B)
+  - Company: GovCIO | Charleston, Kanawha County
+  - United States Secret Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently hiring for a ...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5695228110?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=5F8603BD96FB3148557D21549F375EACEEF1B97B)
+  - Company: GovCIO | Charleston, Kanawha County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5695226757?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=CB28395AE73E67B2E6AEA5F23AE3B79454E73ECD)
+  - Company: GovCIO | Montpelier, Washington County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [High Performance Computing (HPC) Engineer](https://www.adzuna.com/land/ad/5695226765?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=C32F5046CB5B1CEE7781DBAF9CA9E53ED6C07AB4)
+  - Company: GovCIO | Montpelier, Washington County
+  - United States No Clearance Needed Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently ...
+
+- [SME Network Engineer](https://www.adzuna.com/land/ad/5695226759?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=ABFB90F245145F4AF07B362D775BF9764FBF089C)
+  - Company: GovCIO | Montpelier, Washington County
+  - United States Secret Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently hiring for a ...
+
+- [High Performance Computing (HPC) Engineer](https://www.adzuna.com/land/ad/5695186268?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=2DE70648CDEA76D8E6664172F093D0AF391DAA91)
+  - Company: GovCIO | Trenton, Mercer County
+  - United States No Clearance Needed Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently ...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5695186267?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=ECDCBC06651268D8C431302F0DF7A0EE97D0BB1A)
+  - Company: GovCIO | Trenton, Mercer County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [SME Network Engineer](https://www.adzuna.com/land/ad/5695186276?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=D691039247323B8AB3730313AF30C708E381079D)
+  - Company: GovCIO | Trenton, Mercer County
+  - United States Secret Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently hiring for a ...
+
+- [SME Network Engineer](https://www.adzuna.com/land/ad/5695185159?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=9C845761622638B1A41ED80F7F6AC88B905CF64C)
+  - Company: GovCIO | State House, Lancaster County
+  - United States Secret Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently hiring for a ...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5695185192?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=6F0828AB99BC9D853A2F9A42F19D5ACE5D2D0711)
+  - Company: GovCIO | State House, Lancaster County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [High Performance Computing (HPC) Engineer](https://www.adzuna.com/land/ad/5695185177?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=E3905856A54C0A248AD956D974ED78106A652D4F)
+  - Company: GovCIO | State House, Lancaster County
+  - United States No Clearance Needed Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently ...
+
+- [SME Network Engineer](https://www.adzuna.com/land/ad/5695184957?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=24275C9F10B865EE9A3CF2A1AC55E9826C57D2A9)
+  - Company: GovCIO | Carson Mall, Carson City
+  - United States Secret Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently hiring for a ...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5695184935?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=975AC50A06CE3DAE151E9E0DCD8C99D5EC0F1E36)
+  - Company: GovCIO | Carson Mall, Carson City
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [High Performance Computing (HPC) Engineer](https://www.adzuna.com/land/ad/5695184955?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=70D0C89D030370365BD1A00E7ED3E2B9F2F6D89A)
+  - Company: GovCIO | Carson Mall, Carson City
+  - United States No Clearance Needed Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently ...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5695184881?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=F744E3988A730D64ED22A7500EE9CF53205E829B)
+  - Company: GovCIO | Concord, Merrimack County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [SME Network Engineer](https://www.adzuna.com/land/ad/5695184869?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=87EE480184DCED8B4D638AA6EABF8C5A093AA70A)
+  - Company: GovCIO | Concord, Merrimack County
+  - United States Secret Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently hiring for a ...
+
+- [High Performance Computing (HPC) Engineer](https://www.adzuna.com/land/ad/5695184842?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=A87D3FE6679F34262B123A930992C9BCFE8940FC)
+  - Company: GovCIO | Concord, Merrimack County
+  - United States No Clearance Needed Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently ...
+
+- [High Performance Computing (HPC) Engineer](https://www.adzuna.com/land/ad/5695184534?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=491A24E38FFC85015B000403ED06D6DCFD01BC27)
+  - Company: GovCIO | Cedar, Cole County
+  - United States No Clearance Needed Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently ...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5695184562?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=65CFF7AFAFD755BF53A0FA2B89ECE1CAD1B55F35)
+  - Company: GovCIO | Cedar, Cole County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [SME Network Engineer](https://www.adzuna.com/land/ad/5695184564?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=70B306B5364CCBEC0AF951061A8134C3E296DCAE)
+  - Company: GovCIO | Cedar, Cole County
+  - United States Secret Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently hiring for a ...
+
+- [High Performance Computing (HPC) Engineer](https://www.adzuna.com/land/ad/5695183085?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=77135C08D5CC48D14420EC4F9532769E9E2130A0)
+  - Company: GovCIO | Frankfort, Franklin County
+  - United States No Clearance Needed Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently ...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5695183022?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=B4BA41FBB77CBE3CFE7394E715FC9C35C1AB7A50)
+  - Company: GovCIO | Frankfort, Franklin County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [SME Network Engineer](https://www.adzuna.com/land/ad/5695183018?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=82E56D439CB2529023E2F0EB10D87C8540B3B114)
+  - Company: GovCIO | Frankfort, Franklin County
+  - United States Secret Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently hiring for a ...
+
+- [SME Network Engineer](https://www.adzuna.com/land/ad/5695182332?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=756AC537EB05131915B4118F12E178A96FCF498B)
+  - Company: GovCIO | Jackson, Hinds County
+  - United States Secret Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently hiring for a ...
+
+- [High Performance Computing (HPC) Engineer](https://www.adzuna.com/land/ad/5695182326?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=8C3CD91CA01CE90C8E268CB5F51C2942E7766FB6)
+  - Company: GovCIO | Jackson, Hinds County
+  - United States No Clearance Needed Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently ...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5695182307?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=19DF4F1BD229CCDAA3D8690493F07C00A396307F)
+  - Company: GovCIO | Jackson, Hinds County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [SME Network Engineer](https://www.adzuna.com/land/ad/5695182208?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=A57407FC7F20527A67CA08632517335DF8A70996)
+  - Company: GovCIO | Topeka, Shawnee County
+  - United States Secret Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently hiring for a ...
+
+- [High Performance Computing (HPC) Engineer](https://www.adzuna.com/land/ad/5695182212?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=4ED3326F6545E886C781A5DFFE9432D2AF67E3C7)
+  - Company: GovCIO | Topeka, Shawnee County
+  - United States No Clearance Needed Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently ...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5695182211?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=8D32DB36166BAE82CF2827D8361833BD44656C5D)
+  - Company: GovCIO | Topeka, Shawnee County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5695173105?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=5C6297C2BD79CE0943AEA5429D97687B3E5A76C4)
+  - Company: GovCIO | Ny State Campus, Albany County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [SME Network Engineer](https://www.adzuna.com/land/ad/5695173115?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=603D12F56DB43FA21ABA86C970194A8C538FB72A)
+  - Company: GovCIO | Ny State Campus, Albany County
+  - United States Secret Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently hiring for a ...
+
+- [High Performance Computing (HPC) Engineer](https://www.adzuna.com/land/ad/5695173086?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=7A522D93CA4AB6E8257B299D1E34CAE4B508249A)
+  - Company: GovCIO | Ny State Campus, Albany County
+  - United States No Clearance Needed Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently ...
+
+- [SME Network Engineer](https://www.adzuna.com/land/ad/5695160159?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=44AC69026D52005920837A2FBA8C3187E247E617)
+  - Company: GovCIO | Grandview Heights, Franklin County
+  - United States Secret Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently hiring for a ...
+
+- [High Performance Computing (HPC) Engineer](https://www.adzuna.com/land/ad/5695160191?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=8461524C5D34A03DC1D52C3C31D8AB94B57CB00E)
+  - Company: GovCIO | Grandview Heights, Franklin County
+  - United States No Clearance Needed Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently ...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5695160160?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=7FAC85F4C776FC833CB8C213B1C6273DFE9A59A5)
+  - Company: GovCIO | Grandview Heights, Franklin County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5695158486?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=9FF56AEF53EAAFACCE8C089030C91AC68029CE62)
+  - Company: GovCIO | Pierre, Hughes County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [SME Network Engineer](https://www.adzuna.com/land/ad/5695158506?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=B1A1BFA1F4B37232E906EB0D6AA33EFDCEE3115E)
+  - Company: GovCIO | Pierre, Hughes County
+  - United States Secret Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently hiring for a ...
+
+- [High Performance Computing (HPC) Engineer](https://www.adzuna.com/land/ad/5695158516?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=3BBE6CBB7AC1B6975A7B9937858054C1899DAACC)
+  - Company: GovCIO | Pierre, Hughes County
+  - United States No Clearance Needed Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently ...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5695158411?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=1235AF5543E4051227F093618D664C767C064FE5)
+  - Company: GovCIO | Five Points, Wake County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [SME Network Engineer](https://www.adzuna.com/land/ad/5695158447?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=9B38A040358B7385F0E8554AEE16F9DFD053EEC7)
+  - Company: GovCIO | Five Points, Wake County
+  - United States Secret Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently hiring for a ...
+
+- [High Performance Computing (HPC) Engineer](https://www.adzuna.com/land/ad/5695158445?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=A35702ABD279D11E8DA269A541D26F0B619E5C48)
+  - Company: GovCIO | Five Points, Wake County
+  - United States No Clearance Needed Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently ...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5695158381?se=BJbqIuA08RGvwP0SsXWyjA&utm_medium=api&utm_source=632a28fd&v=C83C7192DC7C1D6FCFFE8933D6B5A6A351675082)
+  - Company: GovCIO | Providence, Providence County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [High Performance Computing (HPC) Engineer](https://www.adzuna.com/land/ad/5695158330?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=DF1AA57097BA8C5D9112EB0B7C7500CDC2BBE265)
+  - Company: GovCIO | Providence, Providence County
+  - United States No Clearance Needed Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently ...
+
+- [SME Network Engineer](https://www.adzuna.com/land/ad/5695158358?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=3475AFAF0DB4C48C008D4247F525FEDC1E3712CF)
+  - Company: GovCIO | Providence, Providence County
+  - United States Secret Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently hiring for a ...
+
+- [High Performance Computing (HPC) Engineer](https://www.adzuna.com/land/ad/5695132694?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=D832716D92CFCC8DA836FEE38C2FF2D325A82992)
+  - Company: GovCIO | Atlanta, Fulton County
+  - United States No Clearance Needed Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently ...
+
+- [SME Network Engineer](https://www.adzuna.com/land/ad/5695132699?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=70D9941B78094D0E1F89CE7327D03956EEFF114D)
+  - Company: GovCIO | Atlanta, Fulton County
+  - United States Secret Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently hiring for a ...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5695132663?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=C6A64977A88A158A63E5737A8CD5F6B7612B7B97)
+  - Company: GovCIO | Atlanta, Fulton County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [High Performance Computing (HPC) Engineer](https://www.adzuna.com/land/ad/5695130729?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=1812000B177B82944A0A7227D8B2CD75C34C1CFD)
+  - Company: GovCIO | Nashville, Davidson County
+  - United States No Clearance Needed Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently ...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5695130733?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=8708F63ADE75EC0DFA5473538B2E25DCC7E552F9)
+  - Company: GovCIO | Nashville, Davidson County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [SME Network Engineer](https://www.adzuna.com/land/ad/5695130730?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=1BA73E2A842D2665B214727482CAD95662B4FBDB)
+  - Company: GovCIO | Nashville, Davidson County
+  - United States Secret Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently hiring for a ...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5695128094?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=38D0DD9DDF11EC1A5EEFFFB9D11099286771DEC6)
+  - Company: GovCIO | Lansing, Ingham County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [High Performance Computing (HPC) Engineer](https://www.adzuna.com/land/ad/5695128109?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=75EC242CE0452AE31596DD9E24A71E9F22DBCDEC)
+  - Company: GovCIO | Lansing, Ingham County
+  - United States No Clearance Needed Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently ...
+
+- [SME Network Engineer](https://www.adzuna.com/land/ad/5695128102?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=172E7A78AC77696C7571C6B3D5F2FC88660CD537)
+  - Company: GovCIO | Lansing, Ingham County
+  - United States Secret Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently hiring for a ...
+
+- [SME Network Engineer](https://www.adzuna.com/land/ad/5695125668?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=7AC496D60FA33D5333EDBCBB8EC64AD375DCD2D0)
+  - Company: GovCIO | Uptown, Marion County
+  - United States Secret Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently hiring for a ...
+
+- [High Performance Computing (HPC) Engineer](https://www.adzuna.com/land/ad/5695125640?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=8E31D8F4215B6C0AF4A65D4B1606D4D062503CF1)
+  - Company: GovCIO | Uptown, Marion County
+  - United States No Clearance Needed Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently ...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5695125595?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=5A1DE551A64B7E32C05971C17ED86950AEEA8CC9)
+  - Company: GovCIO | Uptown, Marion County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5695107285?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=276F006BE0490463FBB4B35316A985E2FF2D5D7E)
+  - Company: GovCIO | Boston, Suffolk County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [High Performance Computing (HPC) Engineer](https://www.adzuna.com/land/ad/5695107187?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=EBAFCD854E52887E69AEA22094F36C01C1D124EB)
+  - Company: GovCIO | Boston, Suffolk County
+  - United States No Clearance Needed Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently ...
+
+- [SME Network Engineer](https://www.adzuna.com/land/ad/5695107206?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=55F821862AB0A84D47D503AFFA169372CD53C333)
+  - Company: GovCIO | Boston, Suffolk County
+  - United States Secret Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently hiring for a ...
+
+- [High Performance Computing (HPC) Engineer](https://www.adzuna.com/land/ad/5695105566?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=33DFF9386DE01B6F05D4755238AB807D1504DF61)
+  - Company: GovCIO | Phoenix, Maricopa County
+  - United States No Clearance Needed Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently ...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5695105503?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=D0A22EC1E6A6934602E70F717FD6DDFF27E7A962)
+  - Company: GovCIO | Phoenix, Maricopa County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [SME Network Engineer](https://www.adzuna.com/land/ad/5695105556?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=B83856422AC578F8635A752B8F21B1DBE7B75FF7)
+  - Company: GovCIO | Phoenix, Maricopa County
+  - United States Secret Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently hiring for a ...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5695105511?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=7113B2EE7D8AADEC32C2893329CB7FB74E91C51C)
+  - Company: GovCIO | Glendale, Denver
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [SME Network Engineer](https://www.adzuna.com/land/ad/5695105372?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=F707F2D96A3C057C1D5A4394B8948F7E82567901)
+  - Company: GovCIO | Glendale, Denver
+  - United States Secret Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently hiring for a ...
+
+- [High Performance Computing (HPC) Engineer](https://www.adzuna.com/land/ad/5695105487?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=6F66FE54854493E71D3BEA163C8BC8D5B03262AB)
+  - Company: GovCIO | Glendale, Denver
+  - United States No Clearance Needed Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently ...
+
+- [High Performance Computing (HPC) Engineer](https://www.adzuna.com/land/ad/5695105366?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=03C831956344C12404DEDE1103A307E608316621)
+  - Company: GovCIO | Chisolm, Montgomery County
+  - United States No Clearance Needed Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently ...
+
+- [SME Network Engineer](https://www.adzuna.com/land/ad/5695105338?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=589535E94E9DAEED43BD91AADBD42FEB5654890F)
+  - Company: GovCIO | Chisolm, Montgomery County
+  - United States Secret Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently hiring for a ...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5695105216?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=7A354862656A24C47727A763EED9E5394444F371)
+  - Company: GovCIO | Chisolm, Montgomery County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [High Performance Computing (HPC) Engineer](https://www.adzuna.com/land/ad/5695102116?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=79A2FFAF568DF32C5723EA25D7D1061AB3031B16)
+  - Company: GovCIO | Saint Paul, Ramsey County
+  - United States No Clearance Needed Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently ...
+
+- [SME Network Engineer](https://www.adzuna.com/land/ad/5695102196?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=8ECAD073BC2004B44FB5C3C2673478199AB416CD)
+  - Company: GovCIO | Saint Paul, Ramsey County
+  - United States Secret Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently hiring for a ...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5695102188?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=8B8AA01EA98FBCFCFF5FDEF596A8FD38B4241ADF)
+  - Company: GovCIO | Saint Paul, Ramsey County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [High Performance Computing (HPC) Engineer](https://www.adzuna.com/land/ad/5695101271?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=C36279E828FB3E3F7A2CD8A1901477ECECF5571D)
+  - Company: GovCIO | Oklahoma City, Oklahoma County
+  - United States No Clearance Needed Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently ...
+
+- [SME Network Engineer](https://www.adzuna.com/land/ad/5695101094?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=5E9F028ACEBBF50D5761C355D38B62DD687BB319)
+  - Company: GovCIO | Oklahoma City, Oklahoma County
+  - United States Secret Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently hiring for a ...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5695100950?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=8AB2D300BC5C944D2A2992622089D4FFD8432408)
+  - Company: GovCIO | Oklahoma City, Oklahoma County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5695100143?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=27D0926255B5A2A946047FD88CC44F5A060DF88D)
+  - Company: GovCIO | Cammack Village, Pulaski County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [SME Network Engineer](https://www.adzuna.com/land/ad/5695100091?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=09DF0160423D11FCB741AA577CF583A7BC22DC63)
+  - Company: GovCIO | Cammack Village, Pulaski County
+  - United States Secret Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently hiring for a ...
+
+- [High Performance Computing (HPC) Engineer](https://www.adzuna.com/land/ad/5695099967?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=0DF17286AF6B3DC2A9F776C8AAB9C3457DC624A7)
+  - Company: GovCIO | Cammack Village, Pulaski County
+  - United States No Clearance Needed Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently ...
+
+- [High Performance Computing (HPC) Engineer](https://www.adzuna.com/land/ad/5695089352?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=8FE09302D45E8CE0107141FB31ABD55E3DF717D3)
+  - Company: GovCIO | Edgewood, Richland County
+  - United States No Clearance Needed Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently ...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5695089232?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=EE40140DA6E159B58140279C50B7D3E1DB5C4455)
+  - Company: GovCIO | Edgewood, Richland County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [SME Network Engineer](https://www.adzuna.com/land/ad/5695089108?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=F18F42A4D89486F026E29CA7AA64F44E591115A3)
+  - Company: GovCIO | Edgewood, Richland County
+  - United States Secret Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently hiring for a ...
+
+- [SME Network Engineer](https://www.adzuna.com/land/ad/5695084457?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=077D6535F8915BC2D051613C057F37423124BF10)
+  - Company: GovCIO | Bismarck, Burleigh County
+  - United States Secret Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently hiring for a ...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5695084397?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=05B02740AF31479E0EE024046AC1642E135952D6)
+  - Company: GovCIO | Bismarck, Burleigh County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [High Performance Computing (HPC) Engineer](https://www.adzuna.com/land/ad/5695084145?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=CCD535E604B130E467304505140729B4E55B3995)
+  - Company: GovCIO | Bismarck, Burleigh County
+  - United States No Clearance Needed Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently ...
+
+- [High Performance Computing (HPC) Engineer](https://www.adzuna.com/land/ad/5695083408?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=72486CC04EA744D6081504C8A680856205D95C2A)
+  - Company: GovCIO | Boise, Ada County
+  - United States No Clearance Needed Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently ...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5695083292?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=FCAEA966453241870A400A6BA82B20F03A572466)
+  - Company: GovCIO | Boise, Ada County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [SME Network Engineer](https://www.adzuna.com/land/ad/5695083290?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=824F2EA436140B3A5D1CF6C3045DAE09CC7A6004)
+  - Company: GovCIO | Boise, Ada County
+  - United States Secret Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently hiring for a ...
+
+- [High Performance Computing (HPC) Engineer](https://www.adzuna.com/land/ad/5695083299?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=6BCE2DC6A65215111CC0731FC4D1F7D87F6E404B)
+  - Company: GovCIO | Washington, D.C., US
+  - United States No Clearance Needed Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently ...
+
+- [SME Network Engineer](https://www.adzuna.com/land/ad/5695083323?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=F1D46739492FB09C0DF59210D00761A61429B07E)
+  - Company: GovCIO | Washington, D.C., US
+  - United States Secret Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is currently hiring for a ...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5695083337?se=so_YI-A08RGR9IvqQRDyhg&utm_medium=api&utm_source=632a28fd&v=5DDB6FA2445B03C0AC45430F7116286EE987D21D)
+  - Company: GovCIO | Washington, D.C., US
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Jr DevSecOps Engineer](https://www.adzuna.com/details/5695353068?utm_medium=api&utm_source=632a28fd)
+  - Company: Shyft6 | Grand Central, Manhattan
+  - This is a remote position. Junior DevSecOps Engineer Overview We are seeking a Junior DevSecOps Engineer to support the ...
+
+- [Kubernetes Engineer (REMOTE)](https://www.adzuna.com/details/5694983765?utm_medium=api&utm_source=632a28fd)
+  - Company: Xcellent Technology Solutions | US
+  - Step into a Kubernetes environment that’s already running, but not perfect, and help make it stronger, faster, and more ...
+
+- [Kubernetes Platform Engineer (Remote) - 26573 with Security Clearance](https://www.adzuna.com/land/ad/5640417592?se=AsRQJ-A08RGmVOIZel6lEA&utm_medium=api&utm_source=632a28fd&v=644D3F87299CD13D5D1E4247E710893DAA149602)
+  - Company: HII Mission Technologies | Fairfax, Fairfax County
   - Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with ...
