@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-04-09 13:28 UTC
+Generated: 2026-04-10 13:15 UTC
 
-Total new jobs: 113
+Total new jobs: 117
 
 ## greenhouse
 
@@ -378,6 +378,13 @@ Total new jobs: 113
   - Company: vercel
   - Location: Remote
 
+## jobicy
+
+- [Cloud Infrastructure Engineer](https://jobicy.com/jobs/140691-cloud-infrastructure-engineer-3)
+  - Company: Bloom Insurance
+  - Location: USA
+  - Level/Team: DevOps &amp; Infrastructure
+
 ## lever
 
 - [Senior SRE/DevOps Engineer](https://jobs.lever.co/metabase/1b702919-4d0b-4085-baec-8947f9b7e4ee)
@@ -401,6 +408,10 @@ Total new jobs: 113
   - Company: SharkNinja
   - Location: Worldwide
 
+- [Mixed Signal IC Layout Design Engineer](https://remoteOK.com/remote-jobs/remote-mixed-signal-ic-layout-design-engineer-tenstorrent-1131040)
+  - Company: Tenstorrent
+  - Location: North America
+
 ## remotive
 
 - [Senior DevOps Engineer](https://remotive.com/remote-jobs/devops/senior-devops-engineer-2070150)
@@ -409,6 +420,10 @@ Total new jobs: 113
   - Level/Team: DevOps / Sysadmin
 
 ## weworkremotely
+
+- [Senior Technical Lead DevOps - AWS](https://weworkremotely.com/remote-jobs/3pillar-senior-technical-lead-devops-aws)
+  - Company: 3pillar
+  - Location: Remote
 
 - [Senior Sre - DevOps H/F](https://weworkremotely.com/remote-jobs/amadeus-senior-sre-devops-h-f)
   - Company: Amadeus
@@ -448,6 +463,10 @@ Total new jobs: 113
 
 - [Sr. DevOps AWS Cloud Engineer](https://weworkremotely.com/remote-jobs/h1-sr-devops-aws-cloud-engineer)
   - Company: H1
+  - Location: Remote
+
+- [Senior Data DevOps Engineer](https://weworkremotely.com/remote-jobs/hard-rock-digital-senior-data-devops-engineer)
+  - Company: Hard Rock Digital
   - Location: Remote
 
 - [Profissional SRE/DevOps (AWS/Terraform) Sênior - Remoto](https://weworkremotely.com/remote-jobs/luby-profissional-sre-devops-aws-terraform-senior-remoto)

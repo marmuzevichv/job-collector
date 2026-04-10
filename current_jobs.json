@@ -1,5 +1,18 @@
 [
   {
+    "source_type": "weworkremotely",
+    "company": "3pillar",
+    "title": "Senior Technical Lead DevOps - AWS",
+    "location": "Remote",
+    "team": "",
+    "categories": [],
+    "url": "https://weworkremotely.com/remote-jobs/3pillar-senior-technical-lead-devops-aws",
+    "external_id": "wwr::https://weworkremotely.com/remote-jobs/3pillar-senior-technical-lead-devops-aws",
+    "description_snippet": "Headquarters: Mexico Join Our Mission at 3Pillar: Elevate Your Impact! As a Senior DevOps Engineer, you are the cornerstone of operational excellence, driving forward innovations that redefine industries. Your expertise in DevOps practices will ensure the seamless integration and continuous delivery",
+    "posted_at": "Thu, 09 Apr 2026 20:32:14 +0000",
+    "collected_at_utc": "2026-04-10 13:07:46"
+  },
+  {
     "source_type": "greenhouse",
     "company": "airbnb",
     "title": "Senior Android Automation Engineer",
@@ -141,6 +154,21 @@
     "description_snippet": "Headquarters: United States THIS IS AN UNPAID VOLUNTEERING ROLE. Role Title: Technology Officers (Data Scientists/DevOps/Full Stack) Role Nature: Volunteer Location: Home-based The Blockchain &amp; Climate Institute (BCI) is an international volunteers-led think tank supporting and advocating the ap",
     "posted_at": "Tue, 07 Apr 2026 20:33:45 +0000",
     "collected_at_utc": "2026-04-09 13:25:48"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Bloom Insurance",
+    "title": "Cloud Infrastructure Engineer",
+    "location": "USA",
+    "team": "DevOps &amp; Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/140691-cloud-infrastructure-engineer-3",
+    "external_id": "jobicy::140691",
+    "description_snippet": "Cloud Infrastructure EngineerPosition Overview:Bloom, the insurance industry’s trusted growth partner, is looking for a talented, disciplined, and self-motivated Cloud Infrastructure Engineer with practical and broad experience building, deploying, optimizing, and...",
+    "posted_at": "2026-03-15T18:00:01+00:00",
+    "collected_at_utc": "2026-04-10 13:07:46"
   },
   {
     "source_type": "greenhouse",
@@ -858,6 +886,19 @@
     "collected_at_utc": "2026-04-09 13:25:48"
   },
   {
+    "source_type": "weworkremotely",
+    "company": "Hard Rock Digital",
+    "title": "Senior Data DevOps Engineer",
+    "location": "Remote",
+    "team": "",
+    "categories": [],
+    "url": "https://weworkremotely.com/remote-jobs/hard-rock-digital-senior-data-devops-engineer",
+    "external_id": "wwr::https://weworkremotely.com/remote-jobs/hard-rock-digital-senior-data-devops-engineer",
+    "description_snippet": "Headquarters: Florida, United States Job description What are we building? Hard Rock Digital is a team focused on becoming the best online sportsbook, casino, and social gaming company in the world. We’re building a team that resonates with passion for learning, operating and building new products a",
+    "posted_at": "Thu, 09 Apr 2026 20:32:05 +0000",
+    "collected_at_utc": "2026-04-10 13:07:46"
+  },
+  {
     "source_type": "greenhouse",
     "company": "jetbrains",
     "title": "Cloud Infrastructure Engineer (Kineto)",
@@ -1459,6 +1500,25 @@
     "description_snippet": "Headquarters: Kent A Marketplace on a Mission to the Moon… We are working with an exciting business on a mission to put themselves at the forefront of digital marketplace consumer services. To rival the corporate, and to put the little people - the merchant and the consumer - at the forefront of bus",
     "posted_at": "Mon, 06 Apr 2026 18:02:17 +0000",
     "collected_at_utc": "2026-04-09 13:25:48"
+  },
+  {
+    "source_type": "remoteok",
+    "company": "Tenstorrent",
+    "title": "Mixed Signal IC Layout Design Engineer",
+    "location": "North America",
+    "team": "",
+    "categories": [
+      "design",
+      "software",
+      "reliability",
+      "engineer",
+      "digital nomad"
+    ],
+    "url": "https://remoteOK.com/remote-jobs/remote-mixed-signal-ic-layout-design-engineer-tenstorrent-1131040",
+    "external_id": "remoteok::1131040",
+    "description_snippet": "Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency. With AI redefining the computing paradigm, solutions must evolve to unify innovations in software models, compilers, platforms, networking, and semiconductor",
+    "posted_at": "2026-04-09T00:00:37+00:00",
+    "collected_at_utc": "2026-04-10 13:07:46"
   },
   {
     "source_type": "greenhouse",
