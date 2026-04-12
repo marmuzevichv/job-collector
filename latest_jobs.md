@@ -1,6 +1,6 @@
 # New jobs
 
-Generated: 2026-04-11 12:58 UTC
+Generated: 2026-04-12 13:05 UTC
 
 Total new jobs: 117
 
@@ -414,6 +414,10 @@ Total new jobs: 117
 
 ## remoteok
 
+- [Senior Engineer Platform Devops](https://remoteOK.com/remote-jobs/remote-senior-engineer-platform-devops-cloudwalk-1131081)
+  - Company: CloudWalk
+  - Location: SÃ£o Paulo
+
 - [Mixed Signal IC Layout Design Engineer](https://remoteOK.com/remote-jobs/remote-mixed-signal-ic-layout-design-engineer-tenstorrent-1131040)
   - Company: Tenstorrent
   - Location: North America
@@ -445,10 +449,6 @@ Total new jobs: 117
 
 - [UNPAID VOLUNTEER - Technology Officers (Data Scientists/DevOps/Full Stack)](https://weworkremotely.com/remote-jobs/blockchain-climate-institute-bci-america-inc-unpaid-volunteer-technology-officers-data-scientists-devops-full-stack)
   - Company: Blockchain & Climate Institute/ Bci America Inc.
-  - Location: Remote
-
-- [Senior GCP DevOps con Especialización en MLOps & GenAI](https://weworkremotely.com/remote-jobs/dacodes-senior-gcp-devops-con-especializacion-en-mlops-genai)
-  - Company: Dacodes
   - Location: Remote
 
 - [Senior DevOps Engineer (CloudInfra)](https://weworkremotely.com/remote-jobs/evolutioniq-senior-devops-engineer-cloudinfra)
