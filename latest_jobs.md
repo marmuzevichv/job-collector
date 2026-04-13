@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-04-12 13:05 UTC
+Generated: 2026-04-13 13:27 UTC
 
-Total new jobs: 117
+Total new jobs: 116
 
 ## greenhouse
 
@@ -206,7 +206,7 @@ Total new jobs: 117
   - Company: fastly
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7581688003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7581685003)
   - Company: fivetran
   - Location: Remote
 
@@ -214,7 +214,7 @@ Total new jobs: 117
   - Company: fivetran
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7581685003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7581688003)
   - Company: fivetran
   - Location: Remote
 
@@ -258,11 +258,11 @@ Total new jobs: 117
   - Company: mongodb
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.mongodb.com/careers/job/?gh_jid=7793634)
+- [Senior Site Reliability Engineer](https://www.mongodb.com/careers/job/?gh_jid=7743366)
   - Company: mongodb
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.mongodb.com/careers/job/?gh_jid=7743366)
+- [Senior Site Reliability Engineer](https://www.mongodb.com/careers/job/?gh_jid=7793634)
   - Company: mongodb
   - Location: Remote
 
@@ -278,23 +278,15 @@ Total new jobs: 117
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Observability](https://www.mongodb.com/careers/job/?gh_jid=7192648)
-  - Company: mongodb
-  - Location: Remote
-
-- [Site Reliability Engineer (Senior or Staff), Observability](https://www.mongodb.com/careers/job/?gh_jid=6711349)
-  - Company: mongodb
-  - Location: Remote
-
 - [Team Lead, Site Reliability Engineering - Fleet Management](https://www.mongodb.com/careers/job/?gh_jid=7650199)
   - Company: mongodb
   - Location: Remote
 
-- [Team Lead, Site Reliability Engineering - Storage Layer Service](https://www.mongodb.com/careers/job/?gh_jid=7743304)
+- [Team Lead, Site Reliability Engineering - Storage Layer Service](https://www.mongodb.com/careers/job/?gh_jid=7743306)
   - Company: mongodb
   - Location: Remote
 
-- [Team Lead, Site Reliability Engineering - Storage Layer Service](https://www.mongodb.com/careers/job/?gh_jid=7743306)
+- [Team Lead, Site Reliability Engineering - Storage Layer Service](https://www.mongodb.com/careers/job/?gh_jid=7743304)
   - Company: mongodb
   - Location: Remote
 
@@ -355,6 +347,10 @@ Total new jobs: 117
   - Location: Remote
 
 - [Senior Site Reliability Engineer- Observability](https://www.okta.com/company/careers/opportunity/7653045?gh_jid=7653045)
+  - Company: okta
+  - Location: Remote
+
+- [Senior Software Engineer, Platform Engineering (CI - Build Services)](https://www.okta.com/company/careers/opportunity/7810108?gh_jid=7810108)
   - Company: okta
   - Location: Remote
 
