@@ -1,7 +1,7 @@
 # Jobs via Adzuna API
 
-Generated: 2026-04-14 13:55 UTC
-Total jobs (24h window): 419
+Generated: 2026-04-15 13:48 UTC
+Total jobs (24h window): 557
 
 - [Cloud DevOps Engineer](https://www.adzuna.com/details/5698520931?utm_medium=api&utm_source=632a28fd)
   - Company: Stefanini | Richmond, Richmond County
@@ -1678,3 +1678,555 @@ Total jobs (24h window): 419
 - [Kubernetes Platform Engineer (Remote) - 26573](https://www.adzuna.com/details/5576805369?utm_medium=api&utm_source=632a28fd)
   - Company: Huntington Ingalls Industries | Fairfax, Fairfax County
   - Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with ...
+
+- [DevOps Engineer (Remote)](https://www.adzuna.com/details/5699971547?utm_medium=api&utm_source=632a28fd)
+  - Company: Universal Background Screening | Phoenix, Maricopa County
+  - Universal Background Screening is a leading provider of compliant, accurate, and high-quality background screening solut...
+
+- [Cloud DevOps Engineer](https://www.adzuna.com/land/ad/5699851522?se=KPSNxtE48RGk3NtG_FRchg&utm_medium=api&utm_source=632a28fd&v=B518795A50C4CC55078C2C8D8020B66552C03224)
+  - Company: Stefanini Group | Capitol, Richmond
+  - Details: Stefanini Group is hiring! Stefanini is looking for a Cloud DevOps Engineer for Remote. For quick Apply, please...
+
+- [Full Stack Engineer, Sr / DevOps / CI/CD Pipelines / Remote](https://www.adzuna.com/land/ad/5699685484?se=KPSNxtE48RGk3NtG_FRchg&utm_medium=api&utm_source=632a28fd&v=593E27E9EC415336489B3509EBFCD52EA0382E55)
+  - Company: Lockheed Martin | Extensión Marbella, Aguadilla
+  - Job Description This is a Full Stack Engineering role to support platform service development and operations within our ...
+
+- [DevOps Engineer](https://www.adzuna.com/details/5699554303?utm_medium=api&utm_source=632a28fd)
+  - Company: Robert Half | Eden Prairie, Hennepin County
+  - Description Position: DevOps Engineer (Mobile-First) Location: Remote - Full Time | Direct Hire Salary: $140,000 - 160,0...
+
+- [Senior Cybersecurity DevOps and Kubernetes Engineer](https://www.adzuna.com/land/ad/5699540436?se=KPSNxtE48RGk3NtG_FRchg&utm_medium=api&utm_source=632a28fd&v=5CE22F6A140C9ED83C12A6EB0EA2619CE89BBC27)
+  - Company: Electronic Consulting Services, Inc  | Burke, Fairfax County
+  - Job Description ECS is seekin g a Senior Cybersecurity DevOPs and Kubernetes Engineer to work remotely . The Senior Cybe...
+
+- [Senior AWS Devops Engineer W2 role fully remote](https://www.adzuna.com/details/5699463430?utm_medium=api&utm_source=632a28fd)
+  - Company: Paradigm Infotech | US
+  - Fully Remote role No agency or C2C will NOT be considered and Visa sponsorship is not available nor provided. Environmen...
+
+- [Devops Engineer (AWS/Terraform)](https://www.adzuna.com/details/5699375597?utm_medium=api&utm_source=632a28fd)
+  - Company: Apex Systems | Virginia Beach, Virginia Beach City
+  - Job: 3030541 Job Description: Title: DevOps Engineer Location: Remote in USA Contract: Contracted through end of 2026 wi...
+
+- [Devops Engineer - Google Cloud Platform & Terraform (Remote, Full-Time) [HR154]](https://www.adzuna.com/details/5665984452?utm_medium=api&utm_source=632a28fd)
+  - Company: Smart Working Solutions | Redwood Falls, Redwood County
+  - Devops Engineer - Google Cloud Platform & Terraform (Remote, Full-Time) [HR154] About Smart Working At Smart Working Sol...
+
+- [DevOps Engineer (Remote)](https://www.adzuna.com/details/5664898448?utm_medium=api&utm_source=632a28fd)
+  - Company: SCALIS Careers | North Miami, Miami-Dade County
+  - Job Title: DevOps Engineer Location: Location to be determined Job Type: Full Time Salary: Compensation details availabl...
+
+- [INTL - Devops Engineer](https://www.adzuna.com/land/ad/5664555391?se=SpBbx9E48RGSMeNWexJ8kQ&utm_medium=api&utm_source=632a28fd&v=7BDD1D1831536CDD8C9B46FAD3086907F673AB11)
+  - Company: Insight Global | North Springs, DeKalb County
+  - Job Description A client is seekign a Remote Devops Engineer in Mexico. The rate will vary upon experience and education...
+
+- [Senior DevOPS Engineer](https://www.adzuna.com/details/5664244045?utm_medium=api&utm_source=632a28fd)
+  - Company: Abbott | Downey, Lake County
+  - Abbott is a global healthcare leader that helps people live more fully at all stages of life. Our portfolio of life-chan...
+
+- [Senior DevOPS Engineer](https://www.adzuna.com/details/5663874368?utm_medium=api&utm_source=632a28fd)
+  - Company: Abbott | US
+  - Abbott is a global healthcare leader that helps people live more fully at all stages of life. Our portfolio of life-chan...
+
+- [Senior Infrastructure Engineer - DevOps / Platform (Remote)](https://www.adzuna.com/details/5662894231?utm_medium=api&utm_source=632a28fd)
+  - Company: Map Ssg | US
+  - Senior Infrastructure Engineer (DevOps / Platform) Location Remote – United States (Occasional travel for team offsites ...
+
+- [Remote Azure DevOps Engineer](https://www.adzuna.com/land/ad/5662145376?se=SpBbx9E48RGSMeNWexJ8kQ&utm_medium=api&utm_source=632a28fd&v=F2D74A01A0C2846C4204F70C251A2A768C984577)
+  - Company: Insight Global | Druid, Baltimore
+  - Job Description Insight Global is seeking a Remote Azure DevOps Engineer to support a commercial client of ours on a 9am...
+
+- [DevOps Engineer (Mid-to-Senior Level)](https://www.adzuna.com/details/5655083342?utm_medium=api&utm_source=632a28fd)
+  - Company: Resonance | Cooper, Manhattan
+  - About Us Resonance is a technology company building a more sustainable and valuable fashion industry for designers, bran...
+
+- [DevOps Engineer](https://www.adzuna.com/details/5654336106?utm_medium=api&utm_source=632a28fd)
+  - Company: Initiate Government Solutions | Washington, D.C., US
+  - Full-time Description Founded in 2007, Initiate Government Solutions (IGS) is a Woman-Owned Small Business and a fully r...
+
+- [DevOps Engineer](https://www.adzuna.com/details/5652667369?utm_medium=api&utm_source=632a28fd)
+  - Company: Red Cedar Consultancy | Universal City, Bexar County
+  - Job Title: Developer Productivity Engineer / Devops Engineer (DPE) Location: McLean or Remote Summary: We are seeking a ...
+
+- [DevOps Engineer / AWS / Python / Remote](https://www.adzuna.com/land/ad/5639078757?se=SpBbx9E48RGSMeNWexJ8kQ&utm_medium=api&utm_source=632a28fd&v=B7E71EDFE0C9B33168B8CBF8B6D91E7A0C90A341)
+  - Company: Motion Recruitment Partners | Phoenix, Maricopa County
+  - DevOps Engineer / AWS / Python / Remote Phoenix, Arizona 100% Remote Contract $80/hr - $90/hr This is a Remote (U.S. - C...
+
+- [DevOps Engineer (Python Focused)](https://www.adzuna.com/details/5638948243?utm_medium=api&utm_source=632a28fd)
+  - Company: Motion Recruitment Partners | Highland Park, Dallas
+  - DevOps Engineer (Python Focused) Dallas, Texas 100% Remote Contract $80/hr - $90/hr Join an established technology servi...
+
+- [Senior DevOps Engineer (REMOTE)](https://www.adzuna.com/details/5628573323?utm_medium=api&utm_source=632a28fd)
+  - Company: Koniag Government Services | Chantilly, Fairfax County
+  - Koniag IT Systems, LLC a Koniag Government Services company, is seeking a Senior DevOps Engineer to support KITS and our...
+
+- [DevOps Engineer/Release Management Engineer](https://www.adzuna.com/details/5621637116?utm_medium=api&utm_source=632a28fd)
+  - Company: Semper Valens Solutions | Security Services, Bexar County
+  - DevOps Engineer/Release Management Engineer Full Time Remote Top Secret/SCI Clearance This position is contingent upon c...
+
+- [Infrastructure DevOps Engineer (42639)](https://www.adzuna.com/details/5618111851?utm_medium=api&utm_source=632a28fd)
+  - Company: Talent Management Plus | Raleigh, Wake County
+  - Position: Infrastructure DevOps Engineer (42639) Location: Remote Description: Infrastructure/DevOps engineer to work la...
+
+- [DevOps Engineer - TS/SCI](https://www.adzuna.com/details/5608922476?utm_medium=api&utm_source=632a28fd)
+  - Company: Sunayu | Somerset, Montgomery County
+  - Location: Bethesda, MD Category: DevOps Travel Required: No Remote Type: No Clearance: TS/SCI Sunayu, LLC has an excitin...
+
+- [Lead DevOps Engineer](https://www.adzuna.com/details/5605358222?utm_medium=api&utm_source=632a28fd)
+  - Company: Liberty Personnel Services, Inc | Middle West, Philadelphia County
+  - Lead DevOps Engineer I'm seeking a Technical Lead- DevOps Engineer for a full-time, Remote position with a stable and gr...
+
+- [Azure DevOps Engineer (Remote)](https://www.adzuna.com/details/5589891332?utm_medium=api&utm_source=632a28fd)
+  - Company: Insight Global | Tysons Corner, Fairfax County
+  - Job Description Insight Global is looking for an Azure Engineer to support a Big Four client sitting remote. This person...
+
+- [AI Solutions Engineer (Python, DevOps, Cloud, LLM) - REMOTE](https://www.adzuna.com/details/5583033516?utm_medium=api&utm_source=632a28fd)
+  - Company: NTT DATA North America | Highland Park, Dallas
+  - Req ID: 353918 NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If ...
+
+- [MD-DevOps Engineer - TS/SCI w/ Polygraph](https://www.adzuna.com/details/5577854609?utm_medium=api&utm_source=632a28fd)
+  - Company: Sunayu | Maryland, US
+  - Location: Annapolis Junction, Maryland Category: DevOps Engineer Travel Required: No Remote Type: No Clearance: TS/SCI w...
+
+- [DevOps Engineer - REMOTE](https://www.adzuna.com/details/5555232702?utm_medium=api&utm_source=632a28fd)
+  - Company: Interchain Labs | New York City, New York
+  - Who we are  Interchain Inc (formerly, Skip) leads development for the Cosmos Hub, ecosystem, and stack  the leading plat...
+
+- [Senior DevOps Engineer, Ephemeral Infrastructure](https://www.adzuna.com/details/5538756418?utm_medium=api&utm_source=632a28fd)
+  - Company: Recruiting From Scratch | Nob Hill, San Francisco
+  - Who is Recruiting from Scratch : Recruiting from Scratch is a specialized talent firm dedicated to helping companies bui...
+
+- [Senior DevOps Engineer - REMOTE](https://www.adzuna.com/details/5517494337?utm_medium=api&utm_source=632a28fd)
+  - Company: Flashbots | Church Street, Manhattan
+  - Flashbots started in 2020 as a research and development organization formed to mitigate the negative externalities and e...
+
+- [Dev ops engineer](https://www.adzuna.com/land/ad/5510664263?se=SpBbx9E48RGSMeNWexJ8kQ&utm_medium=api&utm_source=632a28fd&v=089E21CB17D643E85A746DE03DF8920093BA09E1)
+  - Company: Rulai | Campbell, Santa Clara County
+  - Devops Engineer at Rul.ai (Remote OK) Campbell, Silicon Valley, San Francisco Bay Area · Full Time Named by Bloomberg as...
+
+- [Sr. Devops Engineer - GitLab -Remote](https://www.adzuna.com/land/ad/5508332647?se=SpBbx9E48RGSMeNWexJ8kQ&utm_medium=api&utm_source=632a28fd&v=35A2E84BD11FADB1868AA3A5F03F9EB6FCD1840A)
+  - Company: Insight Global | Athol, Worcester County
+  - Job Description Insight Global is hiring a Senior DevOps Engineer with deep, hands-on expertise in GitLab and GitLab-bas...
+
+- [Big Data Systems Engineer - Cloud (DevOps)](https://www.adzuna.com/details/5330717253?utm_medium=api&utm_source=632a28fd)
+  - Company: Hired Recruiters | San Francisco, California
+  - JOB DESCRIPTION We’re looking for a Big Data Systems Engineer - Cloud (DevOps). We offer: remote work with a globally di...
+
+- [Remote DevOps Engineer (Kafka/Kong)](https://www.adzuna.com/details/5330694915?utm_medium=api&utm_source=632a28fd)
+  - Company: Pennant Solutions Group | Richmond, Richmond County
+  - Senior Kafka Administrator/Kong Administrator with DevOps Experience Remote-Contract to Hire Our client is seeking a ski...
+
+- [DevOps - Cloud Engineer - 100% Remote - 1973](https://www.adzuna.com/details/5330350073?utm_medium=api&utm_source=632a28fd)
+  - Company: Cyrten | Alexandria, Alexandria City
+  - Location: 100% Remote - Continental US Preferred Time Zones: EST, CST, MTN Rate Type: W2 ONLY Compensation: Upto $84 per...
+
+- [DevOps Engineer](https://www.adzuna.com/details/5271387452?utm_medium=api&utm_source=632a28fd)
+  - Company: SCOUT Solutions | US
+  - DevOps Engineer Location : Remote, US US Citizen or Permanent Resident Responsibilities Develop, implement, and manage C...
+
+- [Senior DevOps Engineer (Fully Remote)](https://www.adzuna.com/details/4811179531?utm_medium=api&utm_source=632a28fd)
+  - Company: Roberts Recruiting | Cambridge, Middlesex County
+  - We are a social media platform dedicated to empowering and advocating for the world’s workers. We develop technology to ...
+
+- [Lead DevOps Engineer (Remote)](https://www.adzuna.com/details/4805404553?utm_medium=api&utm_source=632a28fd)
+  - Company: Prominent Edge | US
+  - Job Description We are looking for a Lead DevOps engineer to join our team at Prominent Edge. We are a small, stable, gr...
+
+- [Senior Software Engineer- DevOps (Remote Option)](https://www.adzuna.com/details/4804667263?utm_medium=api&utm_source=632a28fd)
+  - Company: Roberts Recruiting | Massachusetts, US
+  - Our engineering team is building solutions to dramatically change the way people purchase their daily goods. We provide ...
+
+- [Remote DevOps Engineer](https://www.adzuna.com/land/ad/4330157566?se=SpBbx9E48RGSMeNWexJ8kQ&utm_medium=api&utm_source=632a28fd&v=5A7624136EDD18282650E7384F5F0120E3F2A5B1)
+  - Company: Insight Global | Saint Bernard, Hamilton County
+  - Job Description An employer in the Cincinnati area is looking for a remote DevOps Engineer to support their supply chain...
+
+- [Site Reliability Engineer (SRE)](https://www.adzuna.com/details/5699547485?utm_medium=api&utm_source=632a28fd)
+  - Company: Robert Half | Cedar Rapids, Linn County
+  - Description Position: Site Reliability Engineer Location: Remote, Full-Time | Direct Hire Salary: $90-110K base annual s...
+
+- [Site Reliability Engineer (SRE) - Remote](https://www.adzuna.com/land/ad/5699165946?se=1OtMyNE48RGIF5TWREFjPw&utm_medium=api&utm_source=632a28fd&v=BFA126108DEAF70C38FBEC5284CE1BB40AD41E87)
+  - Company: Kforce Technology Staffing | Grand Central, Manhattan
+  - RESPONSIBILITIES: Kforce has a client seeking a remote Site Reliability Engineer (SRE) to join their team. Summary: The ...
+
+- [Platform Engineer (AWS) - Remote](https://www.adzuna.com/details/5699846068?utm_medium=api&utm_source=632a28fd)
+  - Company: NTT DATA Services | Dallas, Texas
+  - Req ID: 367046 NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If ...
+
+- [Database Platform Engineer](https://www.adzuna.com/details/5699550873?utm_medium=api&utm_source=632a28fd)
+  - Company: Robert Half | Eden Prairie, Hennepin County
+  - Description Position: Database Platform Engineer Location: Remote - Full Time | Direct Hire Salary: $140,000 - 164,000 b...
+
+- [Technical Consultant - Cloud Platform Engineering (ONLY W2))](https://www.adzuna.com/details/5699464289?utm_medium=api&utm_source=632a28fd)
+  - Company: Trispark Inc | US
+  - Technical Consultant - Cloud Platform Engineering Remote Duration: 6-12 months Contract (Possible extension) No C2C or O...
+
+- [Kubernetes Networking Platform Engineer](https://www.adzuna.com/details/5699373407?utm_medium=api&utm_source=632a28fd)
+  - Company: Next Gen IT Inc | US
+  - Kubernetes Networking Platform Engineer Remote The biggest things they are looking for is a platform engineer who has ex...
+
+- [Sr. Platform Engineer - Kubernetes](https://www.adzuna.com/details/5699373404?utm_medium=api&utm_source=632a28fd)
+  - Company: ARK Solutions Inc | US
+  - Title: Sr. Kubernetes Networking Platform Engineer Location: 100% Remote Description: Job Summary: The Kubernetes Networ...
+
+- [Systems Engineer With CIAM platform - 100% Remote](https://www.adzuna.com/details/5699166042?utm_medium=api&utm_source=632a28fd)
+  - Company: Dexperts Inc | US
+  - Hello, I have below exclusive position with my client. Please let me know your interest so that we can move ahead for fu...
+
+- [Intune Platform Engineer - Remote / Telecommute](https://www.adzuna.com/details/5699163879?utm_medium=api&utm_source=632a28fd)
+  - Company: Cynet Systems | Santa Clara, Santa Clara County
+  - We are looking for Intune Platform Engineer - Remote / Telecommute for our client in Santa Clara, CA Job Title: Intune P...
+
+- [Google Cloud Platform Cloud Engineer with Java - W2 Contract - Remote](https://www.adzuna.com/details/5699109599?utm_medium=api&utm_source=632a28fd)
+  - Company: Silverlink Technologies LLC | US
+  - We are looking for a Google Cloud Platform Cloud Engineer with Java to join our team. Please review the job description ...
+
+- [Databricks Platform Engineer](https://www.adzuna.com/details/5696776562?utm_medium=api&utm_source=632a28fd)
+  - Company: BCforward | Elkins Park, Montgomery County
+  - Job Title: Databricks Platform Engineer Location: Remote, East Coast preferred Duration: Contract - 9 months Pay Range: ...
+
+- [Senior Cloud Software Engineer (Full-Stack)](https://www.adzuna.com/details/5699577584?utm_medium=api&utm_source=632a28fd)
+  - Company: St. George Tanaq Corporation | Eagle River, Anchorage
+  - Senior Cloud Software Engineer (Full-Stack) Fully Remote-United States Job Type Full-time Description Overview Tanaq Tec...
+
+- [Senior AWS Cloud Engineer - (US - Remote)](https://www.adzuna.com/details/5699483090?utm_medium=api&utm_source=632a28fd)
+  - Company: ICF | Reston, Fairfax County
+  - Description We are seeking a skilled Senior AWS Cloud Engineer to design, implement, and maintain scalable cloud solutio...
+
+- [14-20 years Experience - Sr. Cloud Network Engineer - NGINX Specialist  100% Remote - USA  W2 Contract - No third Party](https://www.adzuna.com/details/5699111601?utm_medium=api&utm_source=632a28fd)
+  - Company: Intellisoft Technologies | US
+  - Job Role : Sr. Cloud Network Engineer - NGINX Specialist Location: 100% Remote Job Type : W2 Contract (No third Party) E...
+
+- [Data Engineer](https://www.adzuna.com/details/5699108498?utm_medium=api&utm_source=632a28fd)
+  - Company: 3AMIGOSIT LLC | US
+  - BACKEND SOFTWARE ENGINEER - JAVA & PYTHON, Google Cloud Platform Remote - will work EST hours 6 Month Initial Contract w...
+
+- [BIM VDC Engineer - Critical Infrastructure](https://www.adzuna.com/land/ad/5700004034?se=Hpg3ztE48RGk3NtG_FRchg&utm_medium=api&utm_source=632a28fd&v=2520C571E2C7D69216F04227425CA0679C76A177)
+  - Company: Explore Smart Tech Contracting | Atlanta, Fulton County
+  - Position Title: BIM / VDC Engineer IV – Critical Infrastructure Position Location: Remote - work virtually from anywhere...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699784803?se=Hpg3ztE48RGk3NtG_FRchg&utm_medium=api&utm_source=632a28fd&v=D979EE944C10D63A13B2E79051894D492139AC85)
+  - Company: Hilton | Madison, Dane County
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699783194?se=Hpg3ztE48RGk3NtG_FRchg&utm_medium=api&utm_source=632a28fd&v=7DC42EDA70D068F6E5AB8AB9902DB7EF2479591E)
+  - Company: Hilton | Tumwater, Thurston County
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699781752?se=Hpg3ztE48RGk3NtG_FRchg&utm_medium=api&utm_source=632a28fd&v=CB349DE55AEB1040F770C5E66FAC0D519458EE8D)
+  - Company: Hilton | Bonnie, Utah County
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Systems Administrator - Access Services](https://www.adzuna.com/land/ad/5699781699?se=Hpg3ztE48RGk3NtG_FRchg&utm_medium=api&utm_source=632a28fd&v=B79D2A19BF8FC2F4A7853CAA1A80D532BE7CE7F4)
+  - Company: GovCIO | Bonnie, Utah County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699699119?se=Hpg3ztE48RGk3NtG_FRchg&utm_medium=api&utm_source=632a28fd&v=5E7BA55EF03605E142DD86E98A6BC7806DA324B3)
+  - Company: Hilton | Charleston, Kanawha County
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Systems Administrator - Access Services](https://www.adzuna.com/land/ad/5699699072?se=Hpg3ztE48RGk3NtG_FRchg&utm_medium=api&utm_source=632a28fd&v=E268C578668BA0A72CA056445BAB32662802E677)
+  - Company: GovCIO | Charleston, Kanawha County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699693228?se=Hpg3ztE48RGk3NtG_FRchg&utm_medium=api&utm_source=632a28fd&v=1D3D924A4970BEF9DB27DB80E810A4075A538018)
+  - Company: Hilton | Montpelier, Washington County
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Systems Administrator - Access Services](https://www.adzuna.com/land/ad/5699693197?se=Hpg3ztE48RGk3NtG_FRchg&utm_medium=api&utm_source=632a28fd&v=E7171219DF52060F1928163ABA1086201361BC0C)
+  - Company: GovCIO | Montpelier, Washington County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699622805?se=Hpg3ztE48RGk3NtG_FRchg&utm_medium=api&utm_source=632a28fd&v=BBE7A096E655B769694C15D87EA1E5B35B7ABD3C)
+  - Company: Hilton | Cedar, Cole County
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699622762?se=Hpg3ztE48RGk3NtG_FRchg&utm_medium=api&utm_source=632a28fd&v=77C6CAC4AC4758CBF8550F01D953455B3169A28F)
+  - Company: Hilton | Trenton, Mercer County
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Systems Administrator - Access Services](https://www.adzuna.com/land/ad/5699622611?se=Hpg3ztE48RGk3NtG_FRchg&utm_medium=api&utm_source=632a28fd&v=3FBFADED8A78871C14390D373430F46659837617)
+  - Company: GovCIO | Trenton, Mercer County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Systems Administrator - Access Services](https://www.adzuna.com/land/ad/5699622463?se=Hpg3ztE48RGk3NtG_FRchg&utm_medium=api&utm_source=632a28fd&v=9AB5ADFF2597C97CE9871BDF2738A6A876F75384)
+  - Company: GovCIO | Cedar, Cole County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699621321?se=Hpg3ztE48RGk3NtG_FRchg&utm_medium=api&utm_source=632a28fd&v=E65CCFCBE041F1ECDC7B233BE58215F76232322B)
+  - Company: Hilton | Frankfort, Franklin County
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Systems Administrator - Access Services](https://www.adzuna.com/land/ad/5699621260?se=Hpg3ztE48RGk3NtG_FRchg&utm_medium=api&utm_source=632a28fd&v=F06EC12CD00617B069406019B0919DDE902FBE25)
+  - Company: GovCIO | Frankfort, Franklin County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699620429?se=Hpg3ztE48RGk3NtG_FRchg&utm_medium=api&utm_source=632a28fd&v=E53DE2C5005A4A429CC0FA13803D452B1D95E02A)
+  - Company: Hilton | Jackson, Hinds County
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Systems Administrator - Access Services](https://www.adzuna.com/land/ad/5699620172?se=Hpg3ztE48RGk3NtG_FRchg&utm_medium=api&utm_source=632a28fd&v=6AA868C340966BAAB1D9DEFAF692E3796EC4578E)
+  - Company: GovCIO | Jackson, Hinds County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699619971?se=Hpg3ztE48RGk3NtG_FRchg&utm_medium=api&utm_source=632a28fd&v=657A8052A7F3BF937BD897C37CC110A0B813696A)
+  - Company: Hilton | State House, Lancaster County
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699619939?se=Hpg3ztE48RGk3NtG_FRchg&utm_medium=api&utm_source=632a28fd&v=014C598CF05948929C907F883F7A4F90B0BB5A26)
+  - Company: Hilton | Topeka, Shawnee County
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699619919?se=Hpg3ztE48RGk3NtG_FRchg&utm_medium=api&utm_source=632a28fd&v=BC8EA923BBBD10F2DCA901038BB4341CC2624105)
+  - Company: Hilton | Concord, Merrimack County
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Systems Administrator - Access Services](https://www.adzuna.com/land/ad/5699619882?se=Hpg3ztE48RGk3NtG_FRchg&utm_medium=api&utm_source=632a28fd&v=A60F505642994196E9CF13E3E7AC1F74F32C3957)
+  - Company: GovCIO | State House, Lancaster County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699619829?se=Hpg3ztE48RGk3NtG_FRchg&utm_medium=api&utm_source=632a28fd&v=D570958A303A6953E14765261C7C018509115C4A)
+  - Company: Hilton | Carson Mall, Carson City
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Systems Administrator - Access Services](https://www.adzuna.com/land/ad/5699619712?se=Hpg3ztE48RGk3NtG_FRchg&utm_medium=api&utm_source=632a28fd&v=53EEC1B93FB227EB4C798D4A6D941D85378A6736)
+  - Company: GovCIO | Carson Mall, Carson City
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Systems Administrator - Access Services](https://www.adzuna.com/land/ad/5699619684?se=Hpg3ztE48RGk3NtG_FRchg&utm_medium=api&utm_source=632a28fd&v=30D153A7C6F2480DA905C90F22FC21B7758AE082)
+  - Company: GovCIO | Concord, Merrimack County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Systems Administrator - Access Services](https://www.adzuna.com/land/ad/5699618889?se=Hpg3ztE48RGk3NtG_FRchg&utm_medium=api&utm_source=632a28fd&v=0C9ADD553C5E2F817454E057AE1B7DCC4727CA1D)
+  - Company: GovCIO | Topeka, Shawnee County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699610559?se=Hpg3ztE48RGk3NtG_FRchg&utm_medium=api&utm_source=632a28fd&v=9F6A624F9B4B779A28CA5720B7C16AA026311C70)
+  - Company: Hilton | Ny State Campus, Albany County
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Systems Administrator - Access Services](https://www.adzuna.com/land/ad/5699610355?se=Hpg3ztE48RGk3NtG_FRchg&utm_medium=api&utm_source=632a28fd&v=82E911BF2D1C99541CDA76850B0D998B300D8623)
+  - Company: GovCIO | Ny State Campus, Albany County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699593686?se=Hpg3ztE48RGk3NtG_FRchg&utm_medium=api&utm_source=632a28fd&v=2CFA68510BD4E3B8A80733DF090808F67E4BF45D)
+  - Company: Hilton | Five Points, Wake County
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699593394?se=Hpg3ztE48RGk3NtG_FRchg&utm_medium=api&utm_source=632a28fd&v=2B4212965708F855387BEC5351859486DFE7D90A)
+  - Company: Hilton | Grandview Heights, Franklin County
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Systems Administrator - Access Services](https://www.adzuna.com/land/ad/5699593339?se=Hpg3ztE48RGk3NtG_FRchg&utm_medium=api&utm_source=632a28fd&v=11C167B36368578E3C5A6C157D4437E48017401F)
+  - Company: GovCIO | Grandview Heights, Franklin County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Systems Administrator - Access Services](https://www.adzuna.com/land/ad/5699593311?se=Hpg3ztE48RGk3NtG_FRchg&utm_medium=api&utm_source=632a28fd&v=5FF7D5771A823EE2926FE5827A1DBE7E86B597E7)
+  - Company: GovCIO | Five Points, Wake County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699591915?se=Hpg3ztE48RGk3NtG_FRchg&utm_medium=api&utm_source=632a28fd&v=B7022C7EAC86B49CC655EDE8A47ADDC3A1EEBA60)
+  - Company: Hilton | Atlanta, Fulton County
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699584339?se=Hpg3ztE48RGk3NtG_FRchg&utm_medium=api&utm_source=632a28fd&v=160DA2FAC5CBBA5DF5DF257D8B4F663BC7A63D03)
+  - Company: Hilton | Cloverdale, Shelby County
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Systems Administrator - Access Services](https://www.adzuna.com/land/ad/5699583661?se=Hpg3ztE48RGk3NtG_FRchg&utm_medium=api&utm_source=632a28fd&v=D4517D846E40BDC6828266A4FDF93A1D1F210352)
+  - Company: GovCIO | Atlanta, Fulton County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Systems Administrator - Access Services](https://www.adzuna.com/land/ad/5699583532?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=ABC09EF0AAFC0997638F974B3BDD2ABE999861C0)
+  - Company: GovCIO | Nashville, Davidson County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699583420?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=4EDB6811DE4836206E7E815C77DB050ACE5E4D33)
+  - Company: Hilton | Pierre, Hughes County
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Systems Administrator - Access Services](https://www.adzuna.com/land/ad/5699583375?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=36567E0CD6AB2F807CF1C92EE5F33D471FEEFEC6)
+  - Company: GovCIO | Pierre, Hughes County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699583307?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=859F2C967194435E1E217450B651A4059D5CDFDD)
+  - Company: Hilton | Lansing, Ingham County
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699583292?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=BC44E5818380E4FAFF4CC7D3DAB4C3EB5C4B1C8F)
+  - Company: Hilton | Providence, Providence County
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Systems Administrator - Access Services](https://www.adzuna.com/land/ad/5699583238?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=C73C51E17D56BE827BEF10D2A8C69CD36F07F84A)
+  - Company: GovCIO | Providence, Providence County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Systems Administrator - Access Services](https://www.adzuna.com/land/ad/5699583220?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=1DEE273027C7C16555FDA5EE1ABC66B888F70C09)
+  - Company: GovCIO | Lansing, Ingham County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699580816?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=EA1A4DA90EDBE573D7ED0563E029A9F8A04384F4)
+  - Company: Hilton | Uptown, Marion County
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Systems Administrator - Access Services](https://www.adzuna.com/land/ad/5699580398?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=C0F01171351FB55FC6890BCDE40C33EC07A054A2)
+  - Company: GovCIO | Uptown, Marion County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699574643?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=0ECEB8826E75DB3611F823A394D20A401C8BEA1A)
+  - Company: Hilton | Boston, Suffolk County
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Systems Administrator - Access Services](https://www.adzuna.com/land/ad/5699574533?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=673E4FED901DC8293D70E7260E9F0621F671805D)
+  - Company: GovCIO | Boston, Suffolk County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699574430?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=BF737F8D0E2E2F17267DED165207193DA46A7C42)
+  - Company: Hilton | Saint Paul, Ramsey County
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Systems Administrator - Access Services](https://www.adzuna.com/land/ad/5699574336?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=BF58D6743DDF1A0B8988477337B74795FBE788B6)
+  - Company: GovCIO | Saint Paul, Ramsey County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699572797?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=B01A0A76631A05C36504B05787699811B0F0FE99)
+  - Company: Hilton | Chisolm, Montgomery County
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Systems Administrator - Access Services](https://www.adzuna.com/land/ad/5699572633?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=87B682032AA458D1EC63F15806792498F9C59778)
+  - Company: GovCIO | Chisolm, Montgomery County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699572463?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=44B302B43A61A3A2B8BFD43CB9CDA984C7751BAD)
+  - Company: Hilton | Phoenix, Maricopa County
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699572394?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=ECA6107D71281D75DFA549463D131D929D551EAC)
+  - Company: Hilton | Glendale, Denver
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Systems Administrator - Access Services](https://www.adzuna.com/land/ad/5699572226?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=57D148179E47E45CDC8D25FA99A95F8220E49861)
+  - Company: GovCIO | Phoenix, Maricopa County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Systems Administrator - Access Services](https://www.adzuna.com/land/ad/5699571472?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=562ADA2672693D03F496F89F0C9D263A9DD1F3B7)
+  - Company: GovCIO | Glendale, Denver
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699570796?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=0654A55C56BC14FD1D8A486EEF30121474E42EEF)
+  - Company: Hilton | Oklahoma City, Oklahoma County
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Systems Administrator - Access Services](https://www.adzuna.com/land/ad/5699570572?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=309F31FA4075DC2A507F89446F273787B675380F)
+  - Company: GovCIO | Oklahoma City, Oklahoma County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699570177?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=82BFEE347086AC7A6E6820CA8239DD0C2A2A3DAC)
+  - Company: Hilton | Cammack Village, Pulaski County
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Systems Administrator - Access Services](https://www.adzuna.com/land/ad/5699570100?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=726DD7F37A8A092965CABCB9634F1B769C664EB6)
+  - Company: GovCIO | Cammack Village, Pulaski County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699568782?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=736535AE7D7C69C9DB2F5A70A1B2E2784C36226F)
+  - Company: Hilton | Bismarck, Burleigh County
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699568806?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=C03125C7F52DE466AFD00ECEBC867F4A3D643DBE)
+  - Company: Hilton | Washington, D.C., US
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Systems Administrator - Access Services](https://www.adzuna.com/land/ad/5699568652?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=3F43E4779548477FBB5BACD27243360A10D864CA)
+  - Company: GovCIO | Bismarck, Burleigh County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Systems Administrator - Access Services](https://www.adzuna.com/land/ad/5699568625?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=99A847F688D165E651089E1C5DD20C18916E3AF3)
+  - Company: GovCIO | Washington, D.C., US
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699568446?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=7675BC54F55BDF6FE3F4FBC76EDDE98DD7E44416)
+  - Company: Hilton | Boise, Ada County
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Systems Administrator - Access Services](https://www.adzuna.com/land/ad/5699568350?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=C4821AB3C8713DC09087AD68053E6A912569E0C3)
+  - Company: GovCIO | Boise, Ada County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699568203?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=1834144954CA9789018540B268D4CA87D72C3A3A)
+  - Company: Hilton | Wyoming, Kent County
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/details/5699568177?utm_medium=api&utm_source=632a28fd)
+  - Company: Hilton | Douglas, Juneau
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Systems Administrator - Access Services](https://www.adzuna.com/land/ad/5699568154?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=29C2F1775FF320487270F1ED2C879200B23B98B4)
+  - Company: GovCIO | Wyoming, Kent County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Systems Administrator - Access Services](https://www.adzuna.com/details/5699568115?utm_medium=api&utm_source=632a28fd)
+  - Company: GovCIO | Douglas, Juneau
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699568085?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=3D8BDCD04994099726BAA4EC393BD0FD709C7791)
+  - Company: Hilton | Urbanización El Vedado, San Juan
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699567467?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=0B35D02B6AD8690E3471EDE5E6678D22DEE66404)
+  - Company: Hilton | Mongmong, Mongmong-Toto-Maite
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699564405?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=824B7D78052412AAE21B44CD66B5DCDE5551F3E0)
+  - Company: Hilton | Archer, Laramie County
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Systems Administrator - Access Services](https://www.adzuna.com/land/ad/5699564246?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=A072954DA2A3623FCA6DA50321AF98E4202D112E)
+  - Company: GovCIO | Archer, Laramie County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699563395?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=31AA1840429ADA9C0B776F422C229147F45AFAE6)
+  - Company: Hilton | Edgewood, Richland County
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Systems Administrator - Access Services](https://www.adzuna.com/land/ad/5699563246?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=9F63DFF3942C7B747995C8FAD537E723D86CB76A)
+  - Company: GovCIO | Edgewood, Richland County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699561742?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=6105F9E41A036128D821DFE68C51001EB451B82D)
+  - Company: Hilton | Des Moines, Polk County
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [BIM VDC Engineer - Critical Infrastructure](https://www.adzuna.com/details/5699556250?utm_medium=api&utm_source=632a28fd)
+  - Company: DLB Associates | Atlanta, Fulton County
+  - Smart Tech Contracting delivers turnkey BAS & EPMS solutions for mission-critical colocation and hyperscale data centers...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699538928?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=B93A0E7595F46819167CD256712E719D880E76BC)
+  - Company: Hilton | Salem, Marion County
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Systems Administrator - Access Services](https://www.adzuna.com/land/ad/5699538755?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=B988CDB11F8DB13A57707CA1CB24AB29430143DC)
+  - Company: GovCIO | Salem, Marion County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699538684?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=EB876F2241F74EFF37F6B012EE8EA65DAC4907FE)
+  - Company: Hilton | Talcott Village, Hartford County
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Systems Administrator - Access Services](https://www.adzuna.com/land/ad/5699538557?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=30D8D037D1FF4261EA07D66706D8BD857F179CB8)
+  - Company: GovCIO | Talcott Village, Hartford County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Systems Administrator - Access Services](https://www.adzuna.com/land/ad/5699524392?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=14A1E483926CEC8C12992B5F2902F8868C415BAD)
+  - Company: GovCIO | Des Moines, Polk County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699520293?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=62C2F5EAE4486634B5FD1C7A3B81A963BA18CDDD)
+  - Company: Hilton | Wake Island, Honolulu
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699520241?se=PGEdz9E48RGcj8BelO0n_g&utm_medium=api&utm_source=632a28fd&v=743A81C3F0E70A07F8016B85CF2E2B4013F79A99)
+  - Company: Hilton | Augusta, Kennebec County
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Application Security Developer](https://www.adzuna.com/details/5699463958?utm_medium=api&utm_source=632a28fd)
+  - Company: Estuate Inc. | US
+  - Job Title: Security Developer (AI-Enabled Remediation & DevSecOps) Job Type: Contract Location: Remote Role Summary We a...
