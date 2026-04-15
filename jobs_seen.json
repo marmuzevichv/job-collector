@@ -676,5 +676,29 @@
     "title": "Senior DevOps Engineer",
     "url": "https://remotive.com/remote-jobs/devops/senior-devops-engineer-2070150",
     "first_seen_utc": "2026-04-14 13:24:06"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/lemon-io-senior-devops-engineer-2": {
+    "company": "Lemon.io",
+    "title": "Senior DevOps Engineer",
+    "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-devops-engineer-2",
+    "first_seen_utc": "2026-04-15 13:22:44"
+  },
+  "greenhouse::7145126": {
+    "company": "mongodb",
+    "title": "Site Reliability Engineer 3",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7145126",
+    "first_seen_utc": "2026-04-15 13:22:44"
+  },
+  "greenhouse::7343251": {
+    "company": "mongodb",
+    "title": "Site Reliability Engineer 3",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7343251",
+    "first_seen_utc": "2026-04-15 13:22:44"
+  },
+  "greenhouse::6984814": {
+    "company": "mongodb",
+    "title": "Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=6984814",
+    "first_seen_utc": "2026-04-15 13:22:44"
   }
 }

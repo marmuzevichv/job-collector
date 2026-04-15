@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-04-14 13:26 UTC
+Generated: 2026-04-15 13:26 UTC
 
-Total new jobs: 113
+Total new jobs: 117
 
 ## greenhouse
 
@@ -270,6 +270,18 @@ Total new jobs: 113
   - Company: mongodb
   - Location: Remote
 
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=6984814)
+  - Company: mongodb
+  - Location: Remote
+
+- [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7145126)
+  - Company: mongodb
+  - Location: Remote
+
+- [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7343251)
+  - Company: mongodb
+  - Location: Remote
+
 - [Team Lead, Site Reliability Engineering - Fleet Management](https://www.mongodb.com/careers/job/?gh_jid=7650199)
   - Company: mongodb
   - Location: Remote
@@ -457,6 +469,10 @@ Total new jobs: 113
 
 - [Senior Data DevOps Engineer](https://weworkremotely.com/remote-jobs/hard-rock-digital-senior-data-devops-engineer)
   - Company: Hard Rock Digital
+  - Location: Remote
+
+- [Senior DevOps Engineer](https://weworkremotely.com/remote-jobs/lemon-io-senior-devops-engineer-2)
+  - Company: Lemon.io
   - Location: Remote
 
 - [Profissional SRE/DevOps (AWS/Terraform) Sênior - Remoto](https://weworkremotely.com/remote-jobs/luby-profissional-sre-devops-aws-terraform-senior-remoto)

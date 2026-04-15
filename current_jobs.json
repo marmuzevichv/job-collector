@@ -981,6 +981,19 @@
   },
   {
     "source_type": "weworkremotely",
+    "company": "Lemon.io",
+    "title": "Senior DevOps Engineer",
+    "location": "Remote",
+    "team": "",
+    "categories": [],
+    "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-devops-engineer-2",
+    "external_id": "wwr::https://weworkremotely.com/remote-jobs/lemon-io-senior-devops-engineer-2",
+    "description_snippet": "Headquarters: New York, NY URL: https://lemon.io Are you a talented Senior DevOps looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The ",
+    "posted_at": "Wed, 15 Apr 2026 10:42:33 +0000",
+    "collected_at_utc": "2026-04-15 13:22:44"
+  },
+  {
+    "source_type": "weworkremotely",
     "company": "Luby",
     "title": "Profissional SRE/DevOps (AWS/Terraform) Sênior - Remoto",
     "location": "Remote",
@@ -1125,6 +1138,45 @@
     "description_snippet": "",
     "posted_at": "2026-04-08T14:55:08-04:00",
     "collected_at_utc": "2026-04-14 13:24:06"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "mongodb",
+    "title": "Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=6984814",
+    "external_id": "greenhouse::6984814",
+    "description_snippet": "",
+    "posted_at": "2026-04-14T15:48:55-04:00",
+    "collected_at_utc": "2026-04-15 13:22:44"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "mongodb",
+    "title": "Site Reliability Engineer 3",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7145126",
+    "external_id": "greenhouse::7145126",
+    "description_snippet": "",
+    "posted_at": "2026-04-14T17:03:14-04:00",
+    "collected_at_utc": "2026-04-15 13:22:44"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "mongodb",
+    "title": "Site Reliability Engineer 3",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7343251",
+    "external_id": "greenhouse::7343251",
+    "description_snippet": "",
+    "posted_at": "2026-04-14T17:03:15-04:00",
+    "collected_at_utc": "2026-04-15 13:22:44"
   },
   {
     "source_type": "greenhouse",
