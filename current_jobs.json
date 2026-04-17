@@ -13,6 +13,30 @@
     "collected_at_utc": "2026-04-16 13:28:13"
   },
   {
+    "source_type": "remoteok",
+    "company": "540",
+    "title": "Test Automation Engineer",
+    "location": "Worldwide",
+    "team": "",
+    "categories": [
+      "test",
+      "design",
+      "system",
+      "support",
+      "testing",
+      "api",
+      "engineer",
+      "engineering",
+      "full-time",
+      "digital nomad"
+    ],
+    "url": "https://remoteOK.com/remote-jobs/remote-test-automation-engineer-540-1131147",
+    "external_id": "remoteok::1131147",
+    "description_snippet": "540 is seeking a Test Automation Engineer to support the DoW in building a next-generation Air Force aircraft maintenance application powered by Angular, Apigee, Kubernetes, and Google Cloud. Test Engineers on this team design and implement automated tests to ensure the platform performs reliably as",
+    "posted_at": "2026-04-16T00:00:40+00:00",
+    "collected_at_utc": "2026-04-17 13:17:27"
+  },
+  {
     "source_type": "greenhouse",
     "company": "airbnb",
     "title": "Senior Android Automation Engineer",
@@ -89,6 +113,19 @@
     "description_snippet": "",
     "posted_at": "2026-04-03T12:07:43-04:00",
     "collected_at_utc": "2026-04-16 13:28:13"
+  },
+  {
+    "source_type": "weworkremotely",
+    "company": "Bjak",
+    "title": "Senior QA Automation Engineer",
+    "location": "Remote",
+    "team": "",
+    "categories": [],
+    "url": "https://weworkremotely.com/remote-jobs/bjak-senior-qa-automation-engineer",
+    "external_id": "wwr::https://weworkremotely.com/remote-jobs/bjak-senior-qa-automation-engineer",
+    "description_snippet": "Headquarters: Malaysia URL: https://bjak.my/en If you enjoy building cutting-edge platforms and ecosystems to provide equal access to financial services for the masses, we'd love to speak with you! &nbsp; Your Mission: Design, develop, and enhance robust automation frameworks using modern tools (e.g",
+    "posted_at": "Thu, 16 Apr 2026 21:53:44 +0000",
+    "collected_at_utc": "2026-04-17 13:17:27"
   },
   {
     "source_type": "weworkremotely",
@@ -820,6 +857,26 @@
     "collected_at_utc": "2026-04-16 13:28:13"
   },
   {
+    "source_type": "remoteok",
+    "company": "GuidePoint Security",
+    "title": "CNAPP Security Engineer Mid Atlantic region",
+    "location": "Reston, VA",
+    "team": "",
+    "categories": [
+      "infosec",
+      "security",
+      "code",
+      "c",
+      "cloud",
+      "engineer"
+    ],
+    "url": "https://remoteOK.com/remote-jobs/remote-cnapp-security-engineer-mid-atlantic-region-guidepoint-security-1131144",
+    "external_id": "remoteok::1131144",
+    "description_snippet": "GuidePoint Security provides trusted cybersecurity expertise, solutions and services that help organizations make better decisions and minimize risk. By taking a three-tiered, holistic approach for evaluating security posture and ecosystems, GuidePoint enables some of the nationâs top organization",
+    "posted_at": "2026-04-16T00:00:06+00:00",
+    "collected_at_utc": "2026-04-17 13:17:27"
+  },
+  {
     "source_type": "weworkremotely",
     "company": "H1",
     "title": "Sr. DevOps AWS Cloud Engineer",
@@ -896,6 +953,19 @@
     "description_snippet": "",
     "posted_at": "2026-04-02T06:50:58-04:00",
     "collected_at_utc": "2026-04-16 13:28:13"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "jetbrains",
+    "title": "Technical Writer (JetBrains Cloud Platform)",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4808543101",
+    "external_id": "greenhouse::4808543101",
+    "description_snippet": "",
+    "posted_at": "2026-04-17T08:45:09-04:00",
+    "collected_at_utc": "2026-04-17 13:17:27"
   },
   {
     "source_type": "weworkremotely",

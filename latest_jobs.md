@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-04-16 13:34 UTC
+Generated: 2026-04-17 13:21 UTC
 
-Total new jobs: 110
+Total new jobs: 114
 
 ## greenhouse
 
@@ -226,6 +226,10 @@ Total new jobs: 110
   - Company: jetbrains
   - Location: Remote
 
+- [Technical Writer (JetBrains Cloud Platform)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4808543101)
+  - Company: jetbrains
+  - Location: Remote
+
 - [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=7453323)
   - Company: mongodb
   - Location: Remote
@@ -380,9 +384,17 @@ Total new jobs: 110
 
 ## remoteok
 
+- [Test Automation Engineer](https://remoteOK.com/remote-jobs/remote-test-automation-engineer-540-1131147)
+  - Company: 540
+  - Location: Worldwide
+
 - [Senior Engineer Platform Devops](https://remoteOK.com/remote-jobs/remote-senior-engineer-platform-devops-cloudwalk-1131081)
   - Company: CloudWalk
   - Location: SÃ£o Paulo
+
+- [CNAPP Security Engineer Mid Atlantic region](https://remoteOK.com/remote-jobs/remote-cnapp-security-engineer-mid-atlantic-region-guidepoint-security-1131144)
+  - Company: GuidePoint Security
+  - Location: Reston, VA
 
 - [Mixed Signal IC Layout Design Engineer](https://remoteOK.com/remote-jobs/remote-mixed-signal-ic-layout-design-engineer-tenstorrent-1131040)
   - Company: Tenstorrent
@@ -403,6 +415,10 @@ Total new jobs: 110
 
 - [Senior Sre - DevOps H/F](https://weworkremotely.com/remote-jobs/amadeus-senior-sre-devops-h-f)
   - Company: Amadeus
+  - Location: Remote
+
+- [Senior QA Automation Engineer](https://weworkremotely.com/remote-jobs/bjak-senior-qa-automation-engineer)
+  - Company: Bjak
   - Location: Remote
 
 - [Senior DevOps Engineer (m/w/d)](https://weworkremotely.com/remote-jobs/blau-direkt-senior-devops-engineer-m-w-d)

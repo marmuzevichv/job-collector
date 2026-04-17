@@ -658,5 +658,29 @@
     "title": "Senior DevOps Engineer",
     "url": "https://remotive.com/remote-jobs/devops/senior-devops-engineer-2070150",
     "first_seen_utc": "2026-04-16 13:28:13"
+  },
+  "remoteok::1131147": {
+    "company": "540",
+    "title": "Test Automation Engineer",
+    "url": "https://remoteOK.com/remote-jobs/remote-test-automation-engineer-540-1131147",
+    "first_seen_utc": "2026-04-17 13:17:27"
+  },
+  "remoteok::1131144": {
+    "company": "GuidePoint Security",
+    "title": "CNAPP Security Engineer Mid Atlantic region",
+    "url": "https://remoteOK.com/remote-jobs/remote-cnapp-security-engineer-mid-atlantic-region-guidepoint-security-1131144",
+    "first_seen_utc": "2026-04-17 13:17:27"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/bjak-senior-qa-automation-engineer": {
+    "company": "Bjak",
+    "title": "Senior QA Automation Engineer",
+    "url": "https://weworkremotely.com/remote-jobs/bjak-senior-qa-automation-engineer",
+    "first_seen_utc": "2026-04-17 13:17:27"
+  },
+  "greenhouse::4808543101": {
+    "company": "jetbrains",
+    "title": "Technical Writer (JetBrains Cloud Platform)",
+    "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4808543101",
+    "first_seen_utc": "2026-04-17 13:17:27"
   }
 }
