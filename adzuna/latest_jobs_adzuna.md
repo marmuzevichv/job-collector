@@ -1,7 +1,7 @@
 # Jobs via Adzuna API
 
-Generated: 2026-04-16 13:58 UTC
-Total jobs (24h window): 386
+Generated: 2026-04-17 13:28 UTC
+Total jobs (24h window): 418
 
 - [DevOps Engineer](https://www.adzuna.com/land/ad/5700884619?se=Wkt2Ppw58RGc9_1NsXJydQ&utm_medium=api&utm_source=632a28fd&v=08919C0BD9E31309196197FB45B60D15446F8981)
   - Company: Robert Half | Eden Prairie, Hennepin County
@@ -1546,3 +1546,131 @@ Total jobs (24h window): 386
 - [Kubernetes Platform Engineer (Remote) - 26573](https://www.adzuna.com/details/5576805369?utm_medium=api&utm_source=632a28fd)
   - Company: Huntington Ingalls Industries | Fairfax, Fairfax County
   - Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with ...
+
+- [Principle Cloud Engineer, DevOps](https://www.adzuna.com/details/5702189821?utm_medium=api&utm_source=632a28fd)
+  - Company: Abbott | Abbott Park, Lake County
+  - Abbott is a global healthcare leader that helps people live more fully at all stages of life. Our portfolio of life-chan...
+
+- [DevOps Enablement Engineer / SDLC Lead](https://www.adzuna.com/land/ad/5702059624?se=NF7gRGE68RG5MdAajAlS_A&utm_medium=api&utm_source=632a28fd&v=7C246F3BE0C3F8AA3962D516DB6F7D829BC2F0FD)
+  - Company: Electronic Consulting Services, Inc  | Burke, Fairfax County
+  - Job Description ECS is seeking a DevOps Enablement Engineer / SDLC Lead to work remotely . Position Summary ECS DevLabs ...
+
+- [Principle Cloud Engineer, DevOps](https://www.adzuna.com/details/5701946393?utm_medium=api&utm_source=632a28fd)
+  - Company: Abbott | Downey, Lake County
+  - Abbott is a global healthcare leader that helps people live more fully at all stages of life. Our portfolio of life-chan...
+
+- [Microsoft Azure DevOps Infrastructure Engineer](https://www.adzuna.com/details/5701939735?utm_medium=api&utm_source=632a28fd)
+  - Company: VDart Inc | US
+  - Role: Microsoft Azure DevOps Infrastructure Engineer Work Location: Richmond, VA (Remote) Type: Contract Description: A ...
+
+- [AWS DevOps Engineer](https://www.adzuna.com/details/5701939696?utm_medium=api&utm_source=632a28fd)
+  - Company: VDart Inc | Bellevue, King County
+  - AWS DevOps Engineer Remote Contract 1) Should be expert in AWS Services. 2) Should be expert in ArgoCD, Application setu...
+
+- [DevSecOps Engineer](https://www.adzuna.com/land/ad/5701910564?se=NF7gRGE68RG5MdAajAlS_A&utm_medium=api&utm_source=632a28fd&v=8C0DA7B1F7DB43F8D54A600AD1C9AC3099CDBEA1)
+  - Company: ManpowerGroup | Green Meadow, Prince George's County
+  - Our client, a leader in innovative AI and cloud solutions, is seeking a dedicated Cloud DevOps Engineer to join their te...
+
+- [Cloud DevOps Engineer](https://www.adzuna.com/land/ad/5701910562?se=NF7gRGE68RG5MdAajAlS_A&utm_medium=api&utm_source=632a28fd&v=45A3CFD3CEE2A3CA9E5454C91D78D8476BB7A75E)
+  - Company: ManpowerGroup | Green Meadow, Prince George's County
+  - Our client, a leader in innovative technology solutions, is seeking a dedicated Cloud DevOps Engineer to join their dyna...
+
+- [Sr.DevOps Engineer with Google Cloud Platform](https://www.adzuna.com/details/5701878693?utm_medium=api&utm_source=632a28fd)
+  - Company: MSYS Inc. | US
+  - Title: Sr.DevOps Engineer with Google Cloud Platform Location: Remote Length :Long term Restriction: w2 or c2c Descripti...
+
+- [Senior CI/CD Engineer (Azure DevOps / TFS Modernization)- W2 only](https://www.adzuna.com/details/5701531104?utm_medium=api&utm_source=632a28fd)
+  - Company: Nasscomm, Inc. | US
+  - Senior CI/CD Engineer (Azure DevOps / TFS Modernization) Remote We are seeking a CI/CD Engineer with strong hands-on exp...
+
+- [AZURE DEVOPS ENGINEER: Client need CITIZENS ONLY (NO Other Visas Please)](https://www.adzuna.com/details/5701531019?utm_medium=api&utm_source=632a28fd)
+  - Company: Symphony Corporation | US
+  - AZURE DEVOPS ENGINEER - REMOTE ROLE OUR W2 ONLY NO C2C / C2H Job Summary We are seeking a CI/CD Engineer with strong han...
+
+- [DeVops SRE Engineer- Remote - Fulltime](https://www.adzuna.com/details/5701530790?utm_medium=api&utm_source=632a28fd)
+  - Company: Siri Infosolutions Inc | US
+  - Senior DeVops SRE Engineer Location: Remote Full-time Job Description 1.Experience working on Google Cloud ( GCS, BigQue...
+
+- [Senior Site Reliability Engineer (remote)](https://www.adzuna.com/details/5701058368?utm_medium=api&utm_source=632a28fd)
+  - Company: Parsons | US
+  - In a world of possibilities, pursue one with endless opportunities. Imagine Next! At Parsons, you can imagine a career w...
+
+- [Google Cloud Platform Engineer](https://www.adzuna.com/details/5702482139?utm_medium=api&utm_source=632a28fd)
+  - Company: Apex Systems | Schiller Park, Cook County
+  - Job: 3030420 Job Description: (100% Remote ) - Google Cloud Platform Cloud Engineer -  $71.00 - $75.00 / Hourly Rate  Ap...
+
+- [2026 Raytheon Part Time Co-op - SW Platform Engineer (Remote)](https://www.adzuna.com/land/ad/5702452435?se=XrJ8SGE68RG5MdAajAlS_A&utm_medium=api&utm_source=632a28fd&v=2B0E24990AB3AD1E2894DF4DD52467F451A26DA2)
+  - Company: RTX | Richardson, Dallas
+  - Date Posted: 2026-04-15 Country: United States of America Location: US-TX-RICHARDSON-C27 ~ 1727 Cityline Dr ~ CITYLINE C...
+
+- [Senior AWS Cloud Platform Engineer](https://www.adzuna.com/details/5702333041?utm_medium=api&utm_source=632a28fd)
+  - Company: Percepta | US
+  - Senior AWS Cloud Platform Engineer At Percepta, we bring first-class service across each market we support . As a Senior...
+
+- [Software Engineering Technical Leader - Observability Platforms (Remote/Hybrid)](https://www.adzuna.com/details/5702318379?utm_medium=api&utm_source=632a28fd)
+  - Company: Cisco Systems | Boulder, Boulder County
+  - The application window is expected to close on: Job posting may be removed earlier if the position is filled or if a suf...
+
+- [Senior Data Engineer](https://www.adzuna.com/details/5702117625?utm_medium=api&utm_source=632a28fd)
+  - Company: Takeda | Boston, Suffolk County
+  - By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that t...
+
+- [Google Cloud Platform Engineer (focused on Networking)](https://www.adzuna.com/details/5701927940?utm_medium=api&utm_source=632a28fd)
+  - Company: eSolutionsFirst, LLC | US
+  - Hello, We currently have an exciting opportunity for a Google Cloud Platform Engineer (Networking-focused) with one of o...
+
+- [Java Backend Developer](https://www.adzuna.com/land/ad/5701349000?se=XrJ8SGE68RG5MdAajAlS_A&utm_medium=api&utm_source=632a28fd&v=0CFF503F9327C64BD968ECD9D9A2E23C273F727E)
+  - Company: Engage Partners, Inc. | Denver, Colorado
+  - Backend Java Engineer (AI-Driven SaaS Platform) Location: Remote (U.S. only) ??? Preference for Denver, Atlanta, NYC Met...
+
+- [Sr. Databricks Platform Engineer on AWS](https://www.adzuna.com/details/5696784426?utm_medium=api&utm_source=632a28fd)
+  - Company: BCforward | Elkins Park, Montgomery County
+  - Job Title: Sr. Databricks Platform Engineer on AWS Location: Remote, East Coast preferred but not mandatory Duration: Co...
+
+- [Databricks Platform Engineer](https://www.adzuna.com/details/5696776562?utm_medium=api&utm_source=632a28fd)
+  - Company: BCforward | Elkins Park, Montgomery County
+  - Job Title: Databricks Platform Engineer Location: Remote, East Coast preferred Duration: Contract - 9 months Pay Range: ...
+
+- [Cloud Security Engineer](https://www.adzuna.com/details/5702433515?utm_medium=api&utm_source=632a28fd)
+  - Company: Prestige Staffing | Hayes Valley, San Francisco
+  - JobID: 52813 Cloud Security Engineer Pay $160,000 Location Remote Summary We are seeking a highly skilled Cloud Security...
+
+- [Senior Cloud Cyber Security Engineer](https://www.adzuna.com/details/5702201520?utm_medium=api&utm_source=632a28fd)
+  - Company: Sentara Hospitals | Virginia Beach, Virginia Beach City
+  - City/State Virginia Beach, VA Work Shift First (Days) Overview: Sentara Health is seeking to hire a qualified individual...
+
+- [Sr Cloud Engineer - Remote](https://www.adzuna.com/land/ad/5702078970?se=4Op0SmE68RGZ3L9kDetG3g&utm_medium=api&utm_source=632a28fd&v=31C50D7E3931295416DD435D9F51664E55F9942A)
+  - Company: UnitedHealth Group | Minnetonka Mills, Hennepin County
+  - Requisition number: 2344641 Job category: Technology Optum Tech is a global leader in health care innovation. Our teams ...
+
+- [Senior Cloud Database Engineering Lead (Oracle / Azure) - Only W2 - Remote](https://www.adzuna.com/details/5701530727?utm_medium=api&utm_source=632a28fd)
+  - Company: Accion Labs | US
+  - Greeting from Accionlabs; Job Title: Senior Cloud Database Engineering Lead (Oracle / Azure) Location: Remote ( Preferre...
+
+- [Linux Infrastructure Engineer](https://www.adzuna.com/details/5701927598?utm_medium=api&utm_source=632a28fd)
+  - Company: Lumen Solutions Group Inc. | US
+  - Company Description Lumen Solutions Group Inc. is a technology consulting Services company based in Florida. We provide ...
+
+- [Network Reliability Engineer](https://www.adzuna.com/land/ad/5701069424?se=BgX8S2E68RG5MdAajAlS_A&utm_medium=api&utm_source=632a28fd&v=40DD7E99F2C6637920E28AE992B5F816CC0745C4)
+  - Company: GovCIO | Madison, Dane County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Network Reliability Engineer](https://www.adzuna.com/land/ad/5701064128?se=BgX8S2E68RG5MdAajAlS_A&utm_medium=api&utm_source=632a28fd&v=7D93CA6636577D03AF696BEFC58BD523AF2CCCE3)
+  - Company: GovCIO | Bonnie, Utah County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699591915?se=CPvzTGE68RGZ3L9kDetG3g&utm_medium=api&utm_source=632a28fd&v=B7022C7EAC86B49CC655EDE8A47ADDC3A1EEBA60)
+  - Company: Hilton | Atlanta, Fulton County
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Lead Cloud AI Platforms Engineer](https://www.adzuna.com/land/ad/5699584339?se=CPvzTGE68RGZ3L9kDetG3g&utm_medium=api&utm_source=632a28fd&v=160DA2FAC5CBBA5DF5DF257D8B4F663BC7A63D03)
+  - Company: Hilton | Cloverdale, Shelby County
+  - _\*\*\*This role is based at one of our corporate offices in Memphis, TN, McLean, VA, Dallas, TX or Remote\*\*\*_  Excep...
+
+- [Systems Administrator - Access Services](https://www.adzuna.com/land/ad/5699583661?se=CPvzTGE68RGZ3L9kDetG3g&utm_medium=api&utm_source=632a28fd&v=D4517D846E40BDC6828266A4FDF93A1D1F210352)
+  - Company: GovCIO | Atlanta, Fulton County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations GovCIO is curre...
+
+- [DevSecOps Engineer (Data & Integration)](https://www.adzuna.com/land/ad/5701275093?se=6ACuTWE68RGmQpZZA3C9gQ&utm_medium=api&utm_source=632a28fd&v=1ED79E378403B98311001881C954380FFD5E7C3E)
+  - Company: Decisionpoint Corporation | US
+  - Overview DecisionPoint seeks a DevSecOps Engineer (Data & Integration) to support automation, security, and monitoring o...
