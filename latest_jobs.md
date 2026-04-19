@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-04-18 13:04 UTC
+Generated: 2026-04-19 13:04 UTC
 
-Total new jobs: 114
+Total new jobs: 115
 
 ## greenhouse
 
@@ -400,6 +400,10 @@ Total new jobs: 114
 - [Senior Software Engineer Cloud Platform](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-cloud-platform-signifyd-1131169)
   - Company: Signifyd
   - Location: United States
+
+- [Senior Site Reliability Engineer](https://remoteOK.com/remote-jobs/remote-senior-site-reliability-engineer-ujet-1131206)
+  - Company: UJET
+  - Location: Austin, TX, US
 
 ## remotive
 
