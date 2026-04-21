@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-04-20 13:29 UTC
+Generated: 2026-04-21 13:28 UTC
 
-Total new jobs: 112
+Total new jobs: 117
 
 ## greenhouse
 
@@ -198,6 +198,10 @@ Total new jobs: 112
   - Company: gitlab
   - Location: Remote
 
+- [Intermediate Site Reliability Engineer, Environment Automation](https://job-boards.greenhouse.io/gitlab/jobs/8504232002)
+  - Company: gitlab
+  - Location: Remote
+
 - [Senior Site Reliability Engineer, Tenant Services: Geo](https://job-boards.greenhouse.io/gitlab/jobs/8490453002)
   - Company: gitlab
   - Location: Remote
@@ -258,6 +262,14 @@ Total new jobs: 112
   - Company: mongodb
   - Location: Remote
 
+- [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7821318)
+  - Company: mongodb
+  - Location: Remote
+
+- [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7821316)
+  - Company: mongodb
+  - Location: Remote
+
 - [Team Lead, Site Reliability Engineering - Fleet Management](https://www.mongodb.com/careers/job/?gh_jid=7650199)
   - Company: mongodb
   - Location: Remote
@@ -271,6 +283,10 @@ Total new jobs: 112
   - Location: Remote
 
 - [DevOps Data Engineer](https://www.okta.com/company/careers/opportunity/7615384?gh_jid=7615384)
+  - Company: okta
+  - Location: Remote
+
+- [Platform Engineer - PAM Core](https://www.okta.com/company/careers/opportunity/7834429?gh_jid=7834429)
   - Company: okta
   - Location: Remote
 
@@ -327,6 +343,10 @@ Total new jobs: 112
   - Location: Remote
 
 - [Senior Site Reliability Engineer, Edge - TS/SCI](https://www.okta.com/company/careers/opportunity/7562925?gh_jid=7562925)
+  - Company: okta
+  - Location: Remote
+
+- [Site Reliability Engineer (Auth0)](https://www.okta.com/company/careers/opportunity/7325605?gh_jid=7325605)
   - Company: okta
   - Location: Remote
 

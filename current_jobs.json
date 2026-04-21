@@ -784,6 +784,19 @@
   {
     "source_type": "greenhouse",
     "company": "gitlab",
+    "title": "Intermediate Site Reliability Engineer, Environment Automation",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8504232002",
+    "external_id": "greenhouse::8504232002",
+    "description_snippet": "",
+    "posted_at": "2026-04-20T13:13:31-04:00",
+    "collected_at_utc": "2026-04-21 13:24:32"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "gitlab",
     "title": "Senior Site Reliability Engineer, Tenant Services: Geo",
     "location": "",
     "team": "",
@@ -1142,6 +1155,32 @@
   {
     "source_type": "greenhouse",
     "company": "mongodb",
+    "title": "Site Reliability Engineer 3",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7821318",
+    "external_id": "greenhouse::7821318",
+    "description_snippet": "",
+    "posted_at": "2026-04-21T06:46:55-04:00",
+    "collected_at_utc": "2026-04-21 13:24:32"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "mongodb",
+    "title": "Site Reliability Engineer 3",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7821316",
+    "external_id": "greenhouse::7821316",
+    "description_snippet": "",
+    "posted_at": "2026-04-21T06:46:54-04:00",
+    "collected_at_utc": "2026-04-21 13:24:32"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "mongodb",
     "title": "Team Lead, Site Reliability Engineering - Fleet Management",
     "location": "",
     "team": "",
@@ -1190,6 +1229,19 @@
     "description_snippet": "",
     "posted_at": "2026-04-13T10:59:33-04:00",
     "collected_at_utc": "2026-04-20 13:27:12"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "okta",
+    "title": "Platform Engineer - PAM Core",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://www.okta.com/company/careers/opportunity/7834429?gh_jid=7834429",
+    "external_id": "greenhouse::7834429",
+    "description_snippet": "",
+    "posted_at": "2026-04-20T19:25:00-04:00",
+    "collected_at_utc": "2026-04-21 13:24:32"
   },
   {
     "source_type": "greenhouse",
@@ -1372,6 +1424,19 @@
     "description_snippet": "",
     "posted_at": "2026-03-23T15:50:52-04:00",
     "collected_at_utc": "2026-04-20 13:27:12"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "okta",
+    "title": "Site Reliability Engineer (Auth0)",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://www.okta.com/company/careers/opportunity/7325605?gh_jid=7325605",
+    "external_id": "greenhouse::7325605",
+    "description_snippet": "",
+    "posted_at": "2026-04-21T04:09:36-04:00",
+    "collected_at_utc": "2026-04-21 13:24:32"
   },
   {
     "source_type": "lever",

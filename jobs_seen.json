@@ -670,5 +670,35 @@
     "title": "QA Automation Engineer (IJ Platform / Remote Development)",
     "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4779443101",
     "first_seen_utc": "2026-04-20 13:27:12"
+  },
+  "greenhouse::7834429": {
+    "company": "okta",
+    "title": "Platform Engineer - PAM Core",
+    "url": "https://www.okta.com/company/careers/opportunity/7834429?gh_jid=7834429",
+    "first_seen_utc": "2026-04-21 13:24:32"
+  },
+  "greenhouse::7325605": {
+    "company": "okta",
+    "title": "Site Reliability Engineer (Auth0)",
+    "url": "https://www.okta.com/company/careers/opportunity/7325605?gh_jid=7325605",
+    "first_seen_utc": "2026-04-21 13:24:32"
+  },
+  "greenhouse::8504232002": {
+    "company": "gitlab",
+    "title": "Intermediate Site Reliability Engineer, Environment Automation",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8504232002",
+    "first_seen_utc": "2026-04-21 13:24:32"
+  },
+  "greenhouse::7821318": {
+    "company": "mongodb",
+    "title": "Site Reliability Engineer 3",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7821318",
+    "first_seen_utc": "2026-04-21 13:24:32"
+  },
+  "greenhouse::7821316": {
+    "company": "mongodb",
+    "title": "Site Reliability Engineer 3",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7821316",
+    "first_seen_utc": "2026-04-21 13:24:32"
   }
 }
