@@ -1,7 +1,7 @@
 # Jobs via Adzuna API
 
-Generated: 2026-04-21 13:53 UTC
-Total jobs (24h window): 400
+Generated: 2026-04-22 13:53 UTC
+Total jobs (24h window): 476
 
 - [Senior DevOps Engineer - (US - Remote)](https://www.adzuna.com/details/5704334915?utm_medium=api&utm_source=632a28fd)
   - Company: ICF | Reston, Fairfax County
@@ -1602,3 +1602,307 @@ Total jobs (24h window): 400
 - [Kubernetes Platform Engineer (Remote) - 26573](https://www.adzuna.com/details/5576805369?utm_medium=api&utm_source=632a28fd)
   - Company: Huntington Ingalls Industries | Fairfax, Fairfax County
   - Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with ...
+
+- [Entry Level Java/DevOps Developer - Remote/AI & Machine Learning Engineer](https://www.adzuna.com/details/5706919699?utm_medium=api&utm_source=632a28fd)
+  - Company: SynergisticIT | Lubbock, Lubbock County
+  - Applied Everywhere? Still No Interviews or Offers? Get Hired with a Process! Many job seekers assume the tech market has...
+
+- [Specialist Engineer DevOps / Kafka Administrator](https://www.adzuna.com/details/5706605992?utm_medium=api&utm_source=632a28fd)
+  - Company: Unknown, NC | North Carolina, US
+  - Hope you are doing well Number of Position: 2 Only W2 I, Abhishek would like to share a job opportunity as Specialist En...
+
+- [Sr. Technical Consultant](https://www.adzuna.com/details/5706601314?utm_medium=api&utm_source=632a28fd)
+  - Company: Milwaukee, WI | Milwaukee, Milwaukee County
+  - Candidates who receive an offer will be required to successfully complete a background check and drug test as a conditio...
+
+- [Remote role of Site Reliability Engineer Systems Analyst VII (SRE)](https://www.adzuna.com/details/5706616962?utm_medium=api&utm_source=632a28fd)
+  - Company: Buffalo, NY | Buffalo, Erie County
+  - Site Reliability Engineer Systems Analyst VII (SRE) 100% Remote 6-month contract Web Cam Interview $80-$100/Hr on W2 NOT...
+
+- [Software Engineer - Platform Productivity | USA | Remote](https://www.adzuna.com/details/5706928906?utm_medium=api&utm_source=632a28fd)
+  - Company: Grafana Labs | US
+  - Grafana Labs is a remote-first, open-source powerhouse. There are more than 20M users of Grafana, the open source visual...
+
+- [Geospatial Data & Platform Engineer](https://www.adzuna.com/details/5706601609?utm_medium=api&utm_source=632a28fd)
+  - Company: Westminster, CO | Westminster, Adams County
+  - Job Title: Geospatial Data & Platform Engineer Job Location: Remote Job Duration: 2 Months Job Summary: Core Responsibil...
+
+- [Java Backend Developer](https://www.adzuna.com/details/5706596575?utm_medium=api&utm_source=632a28fd)
+  - Company: Denver, CO | Denver, Colorado
+  - Backend Java Engineer (AI-Driven SaaS Platform) Location: Remote (U.S. only) ??? Preference for Denver, Atlanta, NYC Met...
+
+- [Sr. Databricks Platform Engineer on AWS](https://www.adzuna.com/details/5706590202?utm_medium=api&utm_source=632a28fd)
+  - Company: Philadelphia, PA | William Penn Annex West, Philadelphia County
+  - Job Title: Sr. Databricks Platform Engineer on AWS Location: Remote, East Coast preferred but not mandatory Duration: Co...
+
+- [Databricks Platform Engineer](https://www.adzuna.com/details/5706582916?utm_medium=api&utm_source=632a28fd)
+  - Company: Philadelphia, PA | William Penn Annex West, Philadelphia County
+  - Job Title: Databricks Platform Engineer Location: Remote, East Coast preferred Duration: Contract - 9 months Pay Range: ...
+
+- [Senior Power Platform & SharePoint Solutions Engineer](https://www.adzuna.com/details/5706582360?utm_medium=api&utm_source=632a28fd)
+  - Company: Columbia, SC | Columbia, Richland County
+  - Job Title: Senior Power Platform & SharePoint Solutions Engineer Location: 100% Remote (Must be a South Carolina residen...
+
+- [W2 ony : Informatica Platform Administrator](https://www.adzuna.com/details/5706568316?utm_medium=api&utm_source=632a28fd)
+  - Company: MM International | Alaska, US
+  - Job Title: Informatica Platform Administrator / ETL Support Engineer Location: Washington (Remote with occasional onsite...
+
+- [4 Nvidia Engineer or Archotect Remote](https://www.adzuna.com/details/5693179805?utm_medium=api&utm_source=632a28fd)
+  - Company: IT Search Corp | Prince, Manhattan
+  - NVIDIA AI Infrastructure & Kubernetes Platform Engineer (DGX Systems) Remote NVIDIA Certification required or no intervi...
+
+- [Senior Software Engineer, Cloud](https://www.adzuna.com/details/5707019713?utm_medium=api&utm_source=632a28fd)
+  - Company: Abbott | Abbott Park, Lake County
+  - Abbott is a global healthcare leader that helps people live more fully at all stages of life. Our portfolio of life-chan...
+
+- [Azure Network Engineer](https://www.adzuna.com/details/5706832934?utm_medium=api&utm_source=632a28fd)
+  - Company: Wright Technical Services | Edgewood, Orange County
+  - Job Title: Cloud Network Engineer Location: Remote Job Type: Contract-to-hire Eligibility: Permanent US Residency is req...
+
+- [Cloud Data Engineer](https://www.adzuna.com/details/5706827226?utm_medium=api&utm_source=632a28fd)
+  - Company: SS&C | New York City, New York
+  - As a leading financial services and healthcare technology company based on revenue, SS&C is headquartered in Windsor, Co...
+
+- [Cloud Security Engineer](https://www.adzuna.com/details/5706608183?utm_medium=api&utm_source=632a28fd)
+  - Company: San Francisco, CA | San Francisco, California
+  - JobID: 52813 Cloud Security Engineer Pay $160,000 Location Remote Summary We are seeking a highly skilled Cloud Security...
+
+- [Senior Cloud Security Engineer](https://www.adzuna.com/details/5706606347?utm_medium=api&utm_source=632a28fd)
+  - Company: Reston, VA | Reston, Fairfax County
+  - Title: Senior Cloud Security Engineer Location: Remote Note: Temp to hire. Pay Range: $70/hr. to $75/hr. on w2. About th...
+
+- [Senior Software Engineer, Cloud](https://www.adzuna.com/details/5706571460?utm_medium=api&utm_source=632a28fd)
+  - Company: Abbott | Downey, Lake County
+  - Abbott is a global healthcare leader that helps people live more fully at all stages of life. Our portfolio of life-chan...
+
+- [AWS CLOUD ENGINEER](https://www.adzuna.com/details/5706566942?utm_medium=api&utm_source=632a28fd)
+  - Company: ITMC Systems, Inc | Morristown, Morris County
+  - Role Details: Job Title: Senior Cloud Engineer Location: Morristown, NJ (Remote with occasional office visits required) ...
+
+- [Infra Cloud Engineer](https://www.adzuna.com/details/5706566842?utm_medium=api&utm_source=632a28fd)
+  - Company: Kutir Technologies | US
+  - Role name: Infra Engineer Cloud Work site: US (Remote) Duration: Long Term Job responsibilities Propose solution archite...
+
+- [Infra SCE Consultant Cloud](https://www.adzuna.com/details/5706566833?utm_medium=api&utm_source=632a28fd)
+  - Company: Kutir Technologies | US
+  - Role name: Infra Engineer Cloud Work site: US (Remote) Duration: 6 months with chance for extension Job responsibilities...
+
+- [Cloud Software Engineer](https://www.adzuna.com/land/ad/5706542842?se=0moPj1I-8RGPbvN0R7HDYQ&utm_medium=api&utm_source=632a28fd&v=ECCD174A80444D83C07FDA78FB9B6A7991D4CCCE)
+  - Company: CACI International | Hanover, Anne Arundel County
+  - Job Title: Cloud Software Engineer Job Category: Engineering Time Type: Full time Minimum Clearance Required to Start: N...
+
+- [Sr TechOps Lead Engineer (AWS Cloud)- REMOTE](https://www.adzuna.com/details/5703188495?utm_medium=api&utm_source=632a28fd)
+  - Company: Simple Solutions | Villano Beach, St. Johns County
+  - Sr TechOps Lead Engineer (AWS Cloud) Department: Technology / Engineering Role Overview We are seeking a highly experien...
+
+- [Network Engineer (Epic infrastructure) - Remote](https://www.adzuna.com/details/5706914790?utm_medium=api&utm_source=632a28fd)
+  - Company: NTT DATA Services | Plano, Collin County
+  - Req ID: 346851 NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If ...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706858706?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=69D4508FCA4A57AD7D80C32033897F20F28E0E69)
+  - Company: GovCIO | Madison, Dane County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706857249?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=945968D632239B4F817D96E1550926C27F094B03)
+  - Company: GovCIO | Tumwater, Thurston County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706855730?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=C8A1D281E517DC96972F7D6AECFA03DCDB3DCF2E)
+  - Company: GovCIO | Bonnie, Utah County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706797234?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=56E46EED9515217C6B363C6D5266B003C7F13119)
+  - Company: GovCIO | Charleston, Kanawha County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706793360?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=B4FE8948F281B919E89B2767DD56054615EA4F53)
+  - Company: GovCIO | Montpelier, Washington County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706736071?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=E63566DB39BE65BDBE693BA9B6627C872042420E)
+  - Company: GovCIO | Trenton, Mercer County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706735504?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=BB2919ECC9F6B044112D02BDB36D511DDAC85BC6)
+  - Company: GovCIO | Cedar, Cole County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706733130?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=46BA3302A0003EBD31B41B2337450AE68C2B9453)
+  - Company: GovCIO | State House, Lancaster County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706733029?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=ABBEC5F87D75BB1120222093F0CCA995C609A9D8)
+  - Company: GovCIO | Ny State Campus, Albany County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706732242?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=0FC0113CB84529D2F06270C3E011BAC1CF1F6AA7)
+  - Company: GovCIO | Frankfort, Franklin County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706732206?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=422656E5173C47F9D188DEA6817EAD305FF4BC48)
+  - Company: GovCIO | Carson Mall, Carson City
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706732088?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=F8A1992B8637CC5189629E17FA4A6077C7B57324)
+  - Company: GovCIO | Concord, Merrimack County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706731319?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=6D0817F40045E256FD48918611265087E93E9A80)
+  - Company: GovCIO | Jackson, Hinds County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706730387?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=3510EBADF58B950DC47788DB8A127E83408DA906)
+  - Company: GovCIO | Topeka, Shawnee County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706721628?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=D7D6F46CBAF83B28DC0D504D8093618B242A896C)
+  - Company: GovCIO | Grandview Heights, Franklin County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706719055?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=EED9FD746D47209D7F2F5060307C0359BC27776D)
+  - Company: GovCIO | Five Points, Wake County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706711731?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=FFF75C3B9E5B0000BFA29E7A96B54902C2CD5784)
+  - Company: GovCIO | Atlanta, Fulton County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706709412?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=2D6DA9DCF5E7E3EBE1A1905E407436007D5050C9)
+  - Company: GovCIO | Nashville, Davidson County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706708815?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=1266D4E1F69AD4090A6542D9134290E11D5F3908)
+  - Company: GovCIO | Lansing, Ingham County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706705921?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=AE57424B1474BE5396F6B7EAD7B67FED18691E40)
+  - Company: GovCIO | Pierre, Hughes County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706705811?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=23C086040BD678CD80D6C8D91428DE6D9C474B2F)
+  - Company: GovCIO | Providence, Providence County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706702950?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=C0B84919C6AAB2F9D15F1A94366129DE3E2540DB)
+  - Company: GovCIO | Uptown, Marion County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706702179?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=84065C76460D69B227612D6BE940C9175C638FD4)
+  - Company: GovCIO | Boston, Suffolk County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706701936?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=9943225DD9816AAF788309C068028B0F3E5209CE)
+  - Company: GovCIO | Saint Paul, Ramsey County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706699530?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=E571CCD9365EB02AB96BEB26A7B8C0B2A6948A2A)
+  - Company: GovCIO | Phoenix, Maricopa County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706699379?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=1BA971A0C0D82496A1F4B138DA7509FAFA671432)
+  - Company: GovCIO | Oklahoma City, Oklahoma County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706699105?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=5A78103BAE4FE71347BF803BFA0DD52184CAC9F5)
+  - Company: GovCIO | Chisolm, Montgomery County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706698718?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=22414E7DC5DE3D6F3A1B4509FDD053345CD5E31F)
+  - Company: GovCIO | Glendale, Denver
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706698579?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=6776F889B7034AB644E3655133D877B63413503D)
+  - Company: GovCIO | Cammack Village, Pulaski County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706696228?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=119A3B4DE79AEE3E2885A2147B2AB77F3E648C2F)
+  - Company: GovCIO | Bismarck, Burleigh County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706696201?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=6394B4AD3450FAFA76BF16B8DC8FCED96F686017)
+  - Company: GovCIO | Wyoming, Kent County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706696099?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=3D8CC94105ED5B6B2E4C0D5B52FAA042230DD75F)
+  - Company: GovCIO | Washington, D.C., US
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706695163?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=B1A1760B5EFCBA9F0DE11E9CA0D98100D6C7A111)
+  - Company: GovCIO | Boise, Ada County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/details/5706695110?utm_medium=api&utm_source=632a28fd)
+  - Company: GovCIO | Douglas, Juneau
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Software Test Infrastructure Engineer](https://www.adzuna.com/land/ad/5706695119?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=5DD1E977437EA673D5D6F775B3997070E0DD9B6F)
+  - Company: John Deere | Fargo, Cass County
+  - There are over 7 billion people on this planet. And by 2050, there will be 2 billion more many moving into urban centers...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706693369?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=4B6536157CE6B403B0D302BEE1F68D617FF85C06)
+  - Company: GovCIO | Helena, Lewis and Clark County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706692152?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=CD755497E2EBB2627ECE35DCFE942870F62978A7)
+  - Company: GovCIO | Archer, Laramie County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706683810?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=26B50AC480EA47A9964A7CCC61E4A140CD2E864A)
+  - Company: GovCIO | Salem, Marion County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706683670?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=F5D53723E42E61D60586E32719D2597C09B2E6DD)
+  - Company: GovCIO | Talcott Village, Hartford County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706645790?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=87AEDC236BA27925A87038549F9664D6A03693C1)
+  - Company: GovCIO | Edgewood, Richland County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706642720?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=616583F344A162675A2A33A6CF1285C33D5195FF)
+  - Company: GovCIO | Des Moines, Polk County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706640165?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=123D7C1BD04D4C81DA3055A1B9A716851AF4299F)
+  - Company: GovCIO | Augusta, Kennebec County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706640126?se=9vqpkFI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=B02CF1AACBC694D81AF2CDE69A8EF95D84893C63)
+  - Company: GovCIO | Wake Island, Honolulu
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Linux Infrastructure Engineer](https://www.adzuna.com/details/5706624741?utm_medium=api&utm_source=632a28fd)
+  - Company: Columbia, SC | Columbia, Richland County
+  - Company Description Lumen Solutions Group Inc. is a technology consulting Services company based in Florida. We provide ...
+
+- [Lead Systems Administrator](https://www.adzuna.com/details/5706591829?utm_medium=api&utm_source=632a28fd)
+  - Company: GovCIO | Penbrook, Dauphin County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/details/5706571320?utm_medium=api&utm_source=632a28fd)
+  - Company: GovCIO | Tallahassee, Leon County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/details/5706569383?utm_medium=api&utm_source=632a28fd)
+  - Company: GovCIO | Capitol, Richmond
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/details/5706568331?utm_medium=api&utm_source=632a28fd)
+  - Company: GovCIO | Springfield, Sangamon County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706543458?se=YB6ekVI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=726F6180BBAB0820A856222A541B900E4472A5E8)
+  - Company: GovCIO | Annapolis, Anne Arundel County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Lead Systems Administrator](https://www.adzuna.com/land/ad/5706542907?se=YB6ekVI-8RGcisPYkISD7w&utm_medium=api&utm_source=632a28fd&v=D403A3DCA3273C7364AA229C117932E525091494)
+  - Company: GovCIO | La Cienga, Santa Fe County
+  - United States Top Secret w/ SCI Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO is hir...
+
+- [Site Reliability Engineer- Senior Dev Operations Engineer - SRE](https://www.adzuna.com/details/5706589445?utm_medium=api&utm_source=632a28fd)
+  - Company: Pleasanton, CA | Pleasanton, Alameda County
+  - Site Reliability Engineer- Senior Dev Operations Engineer – SRE Pleasanton, CA (100% remote) 12 Months Web Cam Interview...
+
+- [Remote role of OpenShift/Kubernetes Engineer](https://www.adzuna.com/details/5706586201?utm_medium=api&utm_source=632a28fd)
+  - Company: Buffalo, NY | Buffalo, Erie County
+  - OpenShift/Kubernetes Engineer 100% Remote 12-month contract Web Cam Interview $53.20- $88.65/Hr on W2 NOTES FROM MANAGER...
