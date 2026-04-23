@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-04-22 13:27 UTC
+Generated: 2026-04-23 13:27 UTC
 
-Total new jobs: 116
+Total new jobs: 117
 
 ## greenhouse
 
@@ -62,7 +62,7 @@ Total new jobs: 116
   - Company: clickhouse
   - Location: Remote
 
-- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843424004)
+- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843425004)
   - Company: clickhouse
   - Location: Remote
 
@@ -78,7 +78,11 @@ Total new jobs: 116
   - Company: clickhouse
   - Location: Remote
 
-- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843425004)
+- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843424004)
+  - Company: clickhouse
+  - Location: Remote
+
+- [Release Engineer - Data Plane](https://job-boards.greenhouse.io/clickhouse/jobs/5813444004)
   - Company: clickhouse
   - Location: Remote
 
@@ -90,15 +94,7 @@ Total new jobs: 116
   - Company: clickhouse
   - Location: Remote
 
-- [Release Engineer - Data Plane](https://job-boards.greenhouse.io/clickhouse/jobs/5813444004)
-  - Company: clickhouse
-  - Location: Remote
-
 - [Senior Cloud Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/5733571004)
-  - Company: clickhouse
-  - Location: Remote
-
-- [Senior Infrastructure Engineer - Postgres](https://job-boards.greenhouse.io/clickhouse/jobs/5706417004)
   - Company: clickhouse
   - Location: Remote
 
@@ -106,11 +102,7 @@ Total new jobs: 116
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819754004)
-  - Company: clickhouse
-  - Location: Remote
-
-- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819755004)
+- [Senior Infrastructure Engineer - Postgres](https://job-boards.greenhouse.io/clickhouse/jobs/5706417004)
   - Company: clickhouse
   - Location: Remote
 
@@ -122,15 +114,11 @@ Total new jobs: 116
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819677004)
+- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819755004)
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819679004)
-  - Company: clickhouse
-  - Location: Remote
-
-- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819676004)
+- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819754004)
   - Company: clickhouse
   - Location: Remote
 
@@ -139,6 +127,18 @@ Total new jobs: 116
   - Location: Remote
 
 - [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819678004)
+  - Company: clickhouse
+  - Location: Remote
+
+- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819679004)
+  - Company: clickhouse
+  - Location: Remote
+
+- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819677004)
+  - Company: clickhouse
+  - Location: Remote
+
+- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819676004)
   - Company: clickhouse
   - Location: Remote
 
@@ -178,11 +178,11 @@ Total new jobs: 116
   - Company: fastly
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7581685003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7581688003)
   - Company: fivetran
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7581688003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7581685003)
   - Company: fivetran
   - Location: Remote
 
@@ -270,10 +270,6 @@ Total new jobs: 116
   - Company: okta
   - Location: Remote
 
-- [DevOps Engineer - PAM Core](https://www.okta.com/company/careers/opportunity/7838282?gh_jid=7838282)
-  - Company: okta
-  - Location: Remote
-
 - [Senior Adobe Experience Cloud Engineer](https://www.okta.com/company/careers/opportunity/7629690?gh_jid=7629690)
   - Company: okta
   - Location: Remote
@@ -290,14 +286,6 @@ Total new jobs: 116
   - Company: okta
   - Location: Remote
 
-- [Senior Database Reliability Engineer (DBRE) ; postgreSQL](https://www.okta.com/company/careers/opportunity/7436028?gh_jid=7436028)
-  - Company: okta
-  - Location: Remote
-
-- [Senior Database Reliability Engineer (DBRE) ; postgreSQL](https://www.okta.com/company/careers/opportunity/7437974?gh_jid=7437974)
-  - Company: okta
-  - Location: Remote
-
 - [Senior Database Reliability Engineer (DBRE) ; postgreSQL](https://www.okta.com/company/careers/opportunity/7437947?gh_jid=7437947)
   - Company: okta
   - Location: Remote
@@ -306,15 +294,23 @@ Total new jobs: 116
   - Company: okta
   - Location: Remote
 
+- [Senior Database Reliability Engineer (DBRE) ; postgreSQL](https://www.okta.com/company/careers/opportunity/7437974?gh_jid=7437974)
+  - Company: okta
+  - Location: Remote
+
+- [Senior Database Reliability Engineer (DBRE) ; postgreSQL](https://www.okta.com/company/careers/opportunity/7436028?gh_jid=7436028)
+  - Company: okta
+  - Location: Remote
+
 - [Senior Platform Engineer, Control Plane (Auth0)](https://www.okta.com/company/careers/opportunity/7595065?gh_jid=7595065)
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer (Auth0)](https://www.okta.com/company/careers/opportunity/7418982?gh_jid=7418982)
+- [Senior Site Reliability Engineer (Auth0)](https://www.okta.com/company/careers/opportunity/7791590?gh_jid=7791590)
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer (Auth0)](https://www.okta.com/company/careers/opportunity/7791590?gh_jid=7791590)
+- [Senior Site Reliability Engineer (Auth0)](https://www.okta.com/company/careers/opportunity/7418982?gh_jid=7418982)
   - Company: okta
   - Location: Remote
 
@@ -334,11 +330,15 @@ Total new jobs: 116
   - Company: okta
   - Location: Remote
 
-- [Production Engineer/Site Reliability Engineer (Shift Basis)](https://www.rubrik.com/company/careers/departments/job.7439514?gh_jid=7439514)
-  - Company: rubrik
+- [Sr. ML Platform Engineer, tvScientific](https://www.pinterestcareers.com/jobs/?gh_jid=7642249)
+  - Company: pinterest
   - Location: Remote
 
 - [Production Engineer/Site Reliability Engineer (Shift Basis)](https://www.rubrik.com/company/careers/departments/job.7439521?gh_jid=7439521)
+  - Company: rubrik
+  - Location: Remote
+
+- [Production Engineer/Site Reliability Engineer (Shift Basis)](https://www.rubrik.com/company/careers/departments/job.7439514?gh_jid=7439514)
   - Company: rubrik
   - Location: Remote
 
@@ -395,9 +395,9 @@ Total new jobs: 116
   - Company: 540
   - Location: Worldwide
 
-- [CNAPP Security Engineer Mid Atlantic region](https://remoteOK.com/remote-jobs/remote-cnapp-security-engineer-mid-atlantic-region-guidepoint-security-1131144)
-  - Company: GuidePoint Security
-  - Location: Reston, VA
+- [Senior Cloud Engineer](https://remoteOK.com/remote-jobs/remote-senior-cloud-engineer-dv-trading-1131251)
+  - Company: DV Trading
+  - Location: Remote
 
 - [Frontend Developer Vue.js](https://remoteOK.com/remote-jobs/remote-frontend-developer-vue-js-insider-one-1131167)
   - Company: Insider One
@@ -406,6 +406,10 @@ Total new jobs: 116
 - [Software Engineer Identity & Access](https://remoteOK.com/remote-jobs/remote-software-engineer-identity-access-patreon-1131240)
   - Company: Patreon
   - Location: Worldwide
+
+- [Senior Site Reliability Engineer](https://remoteOK.com/remote-jobs/remote-senior-site-reliability-engineer-pave-bank-1131263)
+  - Company: Pave Bank
+  - Location: Kuala Lumpur
 
 - [Senior Software Engineer Cloud Platform](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-cloud-platform-signifyd-1131169)
   - Company: Signifyd
