@@ -1,7 +1,7 @@
 # Jobs via SerpAPI (Google Search)
 
-Generated: 2026-04-22 12:59 UTC
-Total jobs (24h window): 314
+Generated: 2026-04-23 12:59 UTC
+Total jobs (24h window): 371
 
 ## serp:apply.workable.com
 
@@ -249,6 +249,38 @@ Total jobs (24h window): 314
   - Company: healthcare-management-administrators
   - Service Reliability Engineer II (Claims Operations). RemoteInformation TechnologyFull time. Bellevue, Washington, United...
 
+- [Site Reliability Engineer](https://apply.workable.com/cathexis/j/BE6A4F1B2D/)
+  - Company: cathexis
+  - Site Reliability Engineer - Top Secret (req-236). On-siteInformation TechnologyFull time. Tysons, Virginia, United State...
+
+- [Senior Database Site Reliability Engineer](https://apply.workable.com/therapynotes/j/127FE35A05/)
+  - Company: therapynotes
+  - Senior Database Site Reliability Engineer. RemoteITFull time. United States....
+
+- [Cloud / Platform Engineer (Remote)](https://apply.workable.com/alex-staff-agency-careers/j/78F38ADBEE/)
+  - Company: alex-staff-agency-careers
+  - Cloud / Platform Engineer (Remote) ; Description · Support and develop AWS or GCP infrastructure (multi-region). Operate...
+
+- [Senior Cloud Engineer](https://apply.workable.com/clickbank-19/j/4CEA9E10F5/)
+  - Company: clickbank-19
+  - Senior Cloud Engineer. RemoteIT OperationsFull time. Boise, Idaho, United States. OverviewApplication. Share this job. S...
+
+- [FinOps Cloud Engineer](https://apply.workable.com/systems-engineering-solutions-corporation/j/3391A79D24/)
+  - Company: systems-engineering-solutions-corporation
+  - FinOps Cloud Engineer. HybridFull time. Boston, Massachusetts, United States. Montgomery, Alabama, United States. Overvi...
+
+- [DevOps/Infrastructure Engineer (remote)](https://apply.workable.com/fpmarkets/j/B87BA671B9/)
+  - Company: fpmarkets
+  - We are growing and looking to recruit a Full-time DevOps/Infrastructure Engineer (remote). Responsibilities: Build and m...
+
+- [Network Infrastructure Engineer (DevOps)](https://apply.workable.com/mlabs/j/074C9E61C8/apply/)
+  - Company: mlabs
+  - Network Infrastructure Engineer (DevOps). HybridGRS205401. Ashburn, Virginia, United States ... remote/hybrid/on-site/no...
+
+- [Systems Engineering Solutions Corporation](https://apply.workable.com/systems-engineering-solutions-corporation/j/23524884DB/)
+  - Company: systems-engineering-solutions-corporation
+  - Location: This position will be hybrid remote. Candidates will be required ... Experience in Site Reliability Engineerin...
+
 ## serp:boards.greenhouse.io
 
 - [Job Application for Azure/AI DevOps Engineer III at Veeam Software](https://boards.greenhouse.io/veeamsoftware/jobs/4834475101)
@@ -390,6 +422,42 @@ Total jobs (24h window): 314
 - [Senior Reliability Engineer, Missiles](https://boards.greenhouse.io/andurilindustries/jobs/5022515007?gh_jid=5022515007&gh_src=d29cd2417us)
   - Company: andurilindustries
   - Senior Reliability Engineer, Missiles. Costa Mesa, California, United ... United States military operation for which an ...
+
+- [Remote (Argentina or Mexico)](https://boards.greenhouse.io/opensesame/jobs/7816459?gh_jid=7816459&gh_src=my.greenhouse.search)
+  - Company: opensesame
+  - We are seeking a DevOps Engineer who takes initiative, identifies problems early, and drives end-to-end solutions to joi...
+
+- [Solutions Engineer](https://boards.greenhouse.io/bitwarden/jobs/7651358003)
+  - Company: bitwarden
+  - ... DevOps Engineer, IT Infrastructure Engineer, etc). Equivalent education or ... In the United States, the starting ba...
+
+- [Veracyte - Greenhouse](https://boards.greenhouse.io/veracyte/jobs/5089369007)
+  - Company: veracyte
+  - Software Development Manager. Remote | San Diego, California, United States ... AWS certifications (Solutions Architect,...
+
+- [Job Application for Sr. Consultant](https://boards.greenhouse.io/delphiconsulting/jobs/4792325101)
+  - Company: delphiconsulting
+  - We are seeking a proactive and experienced Senior App Modernization and DevOps Engineer ... We foster a culture of inclu...
+
+- [Job Application for Site Reliability Engineer at NICE](https://boards.greenhouse.io/nice/jobs/4837196101)
+  - Company: nice
+  - The SRE – NOC role sits at the intersection of traditional Network ... Role Type: Individual Contributor. #LI-Remote. Ab...
+
+- [MLOps / AI Platform Engineer Subject Matter Expert](https://boards.greenhouse.io/generalassembly/jobs/7842854)
+  - Company: generalassembly
+  - Unless otherwise noted, remote positions can be performed from the following approved General Assembly operating countri...
+
+- [Senior Cloud Engineer, Multinational Digital Infrastructure](https://boards.greenhouse.io/andurilindustries/jobs/5117576007?gh_jid=5117576007)
+  - Company: andurilindustries
+  - Senior Cloud Engineer, Multinational Digital Infrastructure. Boston ... If you are a United States citizen or national, ...
+
+- [Job Application for IT Support Specialist at CompTech ...](https://boards.greenhouse.io/comptechcomputertechnologies/jobs/5197060008)
+  - Company: comptechcomputertechnologies
+  - Google Associate Cloud Engineer; Google Professional Cloud Architect ... United States military operation for which an A...
+
+- [Technical Field Deployment Engineer, 911 Systems (Remote)](https://boards.greenhouse.io/axon/jobs/7710280003)
+  - Company: axon
+  - Proven knowledge of AWS cloud infrastructure; Proven experience in ... This role is fully remote within the United State...
 
 ## serp:job-boards.greenhouse.io
 
@@ -616,6 +684,50 @@ Total jobs (24h window): 314
 - [Job Application for Senior Site Reliability Engineer at Circle.so](http://job-boards.greenhouse.io/circleso/jobs/5172874008)
   - Company: circleso
   - We're hiring a Senior Site Reliability Engineer to help us scale Circle's platform with confidence. ... Fully remote: wo...
+
+- [Job Application for Senior DevOps Engineer at Patriot Software](http://job-boards.greenhouse.io/55564patriot334567software868575745/jobs/4091852009)
+  - Company: 55564patriot334567software868575745
+  - Full-time, direct-hire, 100% remote role · Open to candidates residing in and legally eligible to work in the United Sta...
+
+- [Job Application for Senior Site Reliability Engineer at RapidSOS](http://job-boards.greenhouse.io/rapidsos/jobs/5115767007)
+  - Company: rapidsos
+  - Senior Site Reliability Engineer. New York (Remote) or Boston (Remote). Apply ... United States military operation for w...
+
+- [Job Application for Site Reliability Engineer at NICE](http://job-boards.greenhouse.io/nice/jobs/4837196101)
+  - Company: nice
+  - The SRE – NOC role sits at the intersection of traditional Network ... Role Type: Individual Contributor. #LI-Remote. Ab...
+
+- [Job Application for Platform Engineer at Defense Unicorns](http://job-boards.greenhouse.io/defenseunicorns/jobs/5107193007)
+  - Company: defenseunicorns
+  - Platform Engineer. Remote, United States. Apply. EMPLOYER IS A CONTRACTOR FOR THE U.S. GOVERNMENT. THIS POSITION REQUIRE...
+
+- [Job Application for Senior Cloud Engineer at LeafLink](http://job-boards.greenhouse.io/leaflink/jobs/8478947002)
+  - Company: leaflink
+  - Senior Cloud Engineer. New York, New York, United States. Apply. About LeafLink ... LeafLink is seeking a Staff Cloud En...
+
+- [Job Application for IT Cloud Engineer at SEI](https://job-boards.greenhouse.io/seisandbox/jobs/4680883005)
+  - Company: seisandbox
+  - IT Cloud Engineer. Cincinnati, Ohio, United States. Apply. WHO WE LOOK FOR. An SEI-er is a master communicator and activ...
+
+- [Job Application for DevSecOps Engineer at Roadie](https://job-boards.greenhouse.io/roadie/jobs/8518953002)
+  - Company: roadie
+  - DevSecOps Engineer. REMOTE. Apply. Roadie, a UPS company, is a leading ... Are you a veteran or active member of the Uni...
+
+- [Cloud Infrastructure Engineer](http://job-boards.greenhouse.io/kallesgroup/jobs/8517277002)
+  - Company: kallesgroup
+  - This role can be remote. Our client is Seattle-based, so work hours must align to Pacific time zone. HOW TO APPLY: Pleas...
+
+- [Senior Cloud Software Engineer, Remote Assist](http://job-boards.greenhouse.io/stackav/jobs/5045844007)
+  - Company: stackav
+  - Own the cloud infrastructure for the Remote Assist system, including the ... United States military operation for which ...
+
+- [Job Application for Site Reliability Engineer at Runpod, Inc.](https://job-boards.greenhouse.io/runpod/jobs/4108951008)
+  - Company: runpod
+  - Site Reliability Engineer. Remote, USA. Apply. Runpod is the foundational platform for developers to build and ......
+
+- [Job Application for Senior Site Reliability Engineer at Calendly](http://job-boards.greenhouse.io/calendly/jobs/8504765002)
+  - Company: calendly
+  - Senior Site Reliability Engineer. Remote - US. Apply. What's in it for you? Ready to ......
 
 ## serp:jobs.ashbyhq.com
 
@@ -871,6 +983,34 @@ Total jobs (24h window): 314
   - Company: vantageanalytics
   - Vantage is searching for it's next Senior Site Reliability Engineer. Take a closer look at the details inside ... With a...
 
+- [U.S. Senior DevOps Engineer @ Jump](https://jobs.ashbyhq.com/jump-app/b53f05ce-9647-4474-b9ae-b3cc3ba6e9b8)
+  - Company: jump-app
+  - U.S. Senior DevOps Engineer. Location. Remote. Employment Type. Full time. Location Type. Remote. Department. Engineerin...
+
+- [Senior DevOps Engineer @ Risk Labs](https://jobs.ashbyhq.com/risklabs/1e85d1db-d48a-4f05-ba5b-32c5eeae12f4)
+  - Company: risklabs
+  - Senior DevOps Engineer. Location. Remote. Employment Type. Full time. Department. Risk Labs....
+
+- [Sr. Devops Engineer AWS @ Megazone Cloud US](https://jobs.ashbyhq.com/megazone/17647053-08cd-4490-a1e1-4fe356bc6660/application?utm_source=bandana)
+  - Company: megazone
+  - Sr. Devops Engineer AWS ; Location. United States- Remote ; Employment Type. Full time ; Location Type. Remote ; Departm...
+
+- [Security Engineer, Cloud Infrastructure @ Mercor](https://jobs.ashbyhq.com/mercor/f6ef82f1-c711-4a19-a9be-6bc04a2b776c)
+  - Company: mercor
+  - ... remote. WHAT YOU'LL BUILD: - Multi-account AWS tenant isolation architecture ... Security Engineer, Cloud Infrastruc...
+
+- [Cloud Infrastructure Engineer, Battle Road @ Onebrief](https://jobs.ashbyhq.com/onebrief/e2584bd8-7d9a-40fc-ba88-048af7c96aa0)
+  - Company: onebrief
+  - Cloud Infrastructure Engineer, Battle Road. Location. United States | Remote. Employment Type. Full time. Location Type....
+
+- [Senior Cloud Infrastructure Engineer @ Hatch](https://jobs.ashbyhq.com/hatch/4c62ae75-eeb3-48c3-96c1-4c30c90b81b0)
+  - Company: hatch
+  - Senior Cloud Infrastructure Engineer. Location. United States. Employment Type. Full time. Location Type. Remote. Depart...
+
+- [Site Reliability Engineer @ EngFlow](https://jobs.ashbyhq.com/engflow/6d2bb158-497c-4c6c-997b-34ded1e62812)
+  - Company: engflow
+  - Site Reliability Engineer ; Location. San Francisco; Austin; New York ; Employment Type. Full time ; Location Type. Remo...
+
 ## serp:jobs.lever.co
 
 - [DevOps Engineer](https://jobs.lever.co/Espresso/928cd4da-e76d-4d6a-ba58-fba57e6ae81a)
@@ -1109,6 +1249,58 @@ Total jobs (24h window): 314
   - Company: palantir
   - Site Reliability Engineer - US Government ... Based on business need, there are a few roles that allow for “Remote” work...
 
+- [Patrick J McGovern Foundation](https://jobs.lever.co/mcgovern/885d7a1a-16f6-4326-9d7c-da7404dfd1f5)
+  - Company: mcgovern
+  - Jr DevOps Engineer. Remote. Strategy and Innovation – Products & Services /. Full-time /. Remote. apply for this job. Ab...
+
+- [Senior DevOps Engineer](https://jobs.lever.co/truv/4049ad13-7b17-4638-bf5d-2c4079474010)
+  - Company: truv
+  - Senior DevOps Engineer. Miami / New York / San Francisco. Engineering /. Remote /. Remote. apply for this job. About Tru...
+
+- [Site Reliability Engineer](https://jobs.lever.co/spotify/ad5ef898-b800-4213-a63e-e39a97df9cfb/apply)
+  - Company: spotify
+  - Site Reliability Engineer - Backstage. New York, NY. Engineering – Platform /. Permanent /. Remote ... SRE- Backstage- T...
+
+- [Sr. Site Reliability Engineer](https://jobs.lever.co/jobgether/52ffd93b-10e9-437c-a009-568b42de1ceb)
+  - Company: jobgether
+  - We are currently looking for a Sr. Site Reliability Engineer in United States. This role sits at the core of building an...
+
+- [Site Reliability Engineer II Remote](https://jobs.lever.co/investorflow/ef78570b-622d-4b13-a3ad-c5c7b3b4c850/apply?lever-origin=applied&lever-source%5B%5D=Jobgether&utm_campaign=search&utm_medium=website)
+  - Company: investorflow
+  - Site Reliability Engineer II Remote. Remote - Santo Domingo. Research & Development /. Full Time /. Remote. Submit your ...
+
+- [WISE INTEGRATION](https://jobs.lever.co/wise-integration/d8655726-1f21-4a0b-a23d-58d1bdc6f3e5)
+  - Company: wise-integration
+  - SRE Engineer. Vilnius/Kaunas. DevOps /. Hybrid /. Hybrid. apply for this job ... Flexible working hours and remote work ...
+
+- [Site Reliability Engineer](https://jobs.lever.co/swissborg/065d42ce-52c5-45a0-ac53-ea4851a2f60b)
+  - Company: swissborg
+  - Remote. apply for this job. At SwissBorg, our mission is to build a spectrum of ... We seek a talented SRE Engineer who ...
+
+- [Senior Cloud Engineer](https://jobs.lever.co/smiledigitalhealth/3aa77182-9caa-4c9c-be1a-cbefa62e9b35)
+  - Company: smiledigitalhealth
+  - Senior Cloud Engineer - Remote US. Remote US. Technology & Delivery Ops – Cloud & Support Services /. Full Time /. Remot...
+
+- [Senior Cloud Engineer](https://jobs.lever.co/smiledigitalhealth/3aa77182-9caa-4c9c-be1a-cbefa62e9b35/apply)
+  - Company: smiledigitalhealth
+  - Senior Cloud Engineer - Remote US. Remote US. Technology & Delivery Ops ... Are you legally authorized to work in the Un...
+
+- [Cloud Engineer](https://jobs.lever.co/thinkahead/9119a9ab-019d-4718-bbe7-638652bad516)
+  - Company: thinkahead
+  - Cloud Engineer - Azure. Gurugram, Haryana. ( Managed Services ) – MS Cloud /. Full Time /. Remote. apply for this job. A...
+
+- [Cloud Engineer](https://jobs.lever.co/coalfire/8e661086-5e14-49f9-81b1-f45c657228e4)
+  - Company: coalfire
+  - Cloud Engineer. United States. Advisory Services – Cloud Services /. Regular Full Time /. Remote. apply for this job. Ab...
+
+- [Senior Infrastructure Engineer](https://jobs.lever.co/sysdig/9c63b209-7dfa-489a-b75b-a033fde72850/apply)
+  - Company: sysdig
+  - Senior Infrastructure Engineer. Flexible - USA. Engineering – INFRASTRUCTURE /. Regular - Full Time /. Remote. Submit yo...
+
+- [Senior Database Reliability Engineer (SQL)](https://jobs.lever.co/pointclickcare/b7571461-c5d3-4752-a4e4-0e7365584704)
+  - Company: pointclickcare
+  - Senior Database Reliability Engineer (SQL). Remote, USA. PointClickCare – SaaS Ops /. Full-Time /. Remote. apply for thi...
+
 ## serp:jobs.smartrecruiters.com
 
 - [Endava DevOps Engineer](https://jobs.smartrecruiters.com/Endava/744000117901952-devops-engineer-)
@@ -1270,3 +1462,39 @@ Total jobs (24h window): 314
 - [Senior Site Reliability Engineer (Remote)](https://jobs.smartrecruiters.com/AbbVie/3743990012089126-senior-site-reliability-engineer-remote-?oga=true)
   - Company: abbvie
   - Senior Site Reliability Engineer (Remote). Mettawa, IL, USA. Senior Site ... United States +1. Uruguay +598. US ......
+
+- [Accolite Inc. DevOps (Remote Position)](https://jobs.smartrecruiters.com/AccoliteInc/743999662588883-devops-remote-position-)
+  - Company: accoliteinc
+  - DevOps (Remote Position). OR-99W, Portland, OR, USA; Contract. Job Description. Job Position ... IT DevOps Engineer (Hyb...
+
+- [Mirantis Senior DevOps Engineer](https://jobs.smartrecruiters.com/Mirantis/744000109785481-senior-devops-engineer)
+  - Company: mirantis
+  - Senior DevOps Engineer. Sofia, Bulgaria Employees can work ... Work in a global, collaborative, remote-first culture tha...
+
+- [Intuit AppOps/DevOps Engineer](https://jobs.smartrecruiters.com/Intuit2/88433493-appops-devops-engineer)
+  - Company: intuit2
+  - Seasonal Tax Support Specialist – Remote. Chicago, IL. Show all jobs. Similar jobs. DevOps Engineer for Payment. Deutsch...
+
+- [NBCUniversal Site Reliability Engineer - Nexthink](https://jobs.smartrecruiters.com/NBCUniversal3/744000122298602-site-reliability-engineer-nexthink)
+  - Company: nbcuniversal3
+  - Site Reliability Engineer - Nexthink ... Develop and implement automation strategies, including Nexthink remote actions ...
+
+- [Harvard University Scientific Platform Engineer](https://jobs.smartrecruiters.com/HarvardUniversity/3743990012305746-scientific-platform-engineer)
+  - Company: harvarduniversity
+  - Scientific Platform Engineer. Boston, Massachusetts, United States Employees can work remotely; Full-time. Work Format: ...
+
+- [DevOps Cloud Engineer](https://jobs.smartrecruiters.com/oneclick-ui/company/ChabezTech/publication/b4ebdf34-e5da-4160-b407-f8a7ef6c32a2?dcr_ci=ChabezTech)
+  - Company: oneclick-ui
+  - DevOps Cloud Engineer - W2 Basis. Harrisburg Rd, Charlotte, NC, USA. DevOps ... United States +1. Uruguay +598. US ......
+
+- [NielsenIQ Senior Engineer](https://jobs.smartrecruiters.com/NielsenIQ/744000118443126-senior-engineer)
+  - Company: nielseniq
+  - 200 West Jackson Blvd., Chicago, Illinois, United States Employees work in a hybrid mode Telecommuting may be permitted....
+
+- [Artech Information System LLC Infrastructure Engineer](https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999659207404-infrastructure-engineer)
+  - Company: artechinformationsystemllc
+  - Infrastructure Engineer. Ashburn, VA; Contract. Company ... • Ability to provide remote leadership and direction within ...
+
+- [Oteemo, Inc Sr. Full Stack Engineer](https://jobs.smartrecruiters.com/OteemoInc/744000114813527-sr-full-stack-engineer-)
+  - Company: oteemoinc
+  - Our work spans Infrastructure, Software Development, DevSecOps, Cybersecurity, Experience and Design, Organizational Cha...
