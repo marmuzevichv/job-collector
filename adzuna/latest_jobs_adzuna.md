@@ -1,7 +1,7 @@
 # Jobs via Adzuna API
 
-Generated: 2026-04-23 13:55 UTC
-Total jobs (24h window): 462
+Generated: 2026-04-24 13:46 UTC
+Total jobs (24h window): 494
 
 - [Senior AWS DevOps Engineer (Remote, Full-Time), PK [AS232]](https://www.adzuna.com/details/5707812584?utm_medium=api&utm_source=632a28fd)
   - Company: Smart Working Solutions | Orange, Orange County
@@ -1850,3 +1850,131 @@ Total jobs (24h window): 462
 - [Kubernetes Platform Engineer (Remote) - 26573](https://www.adzuna.com/details/5576805369?utm_medium=api&utm_source=632a28fd)
   - Company: Huntington Ingalls Industries | Fairfax, Fairfax County
   - Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with ...
+
+- [Senior DevOps Engineer](https://www.adzuna.com/land/ad/5708929067?se=NPv35OM_8RGTn8VwZIa35w&utm_medium=api&utm_source=632a28fd&v=ED77B06DC0248ED05DACD823BBCC736B93B2C60A)
+  - Company: Electronic Consulting Services, Inc  | Burke, Fairfax County
+  - Job Description ECS is seeking a Senior DevOps Engineer to work remotely . ECS is seeking talented professionals to join...
+
+- [Data Transport Infrastructure DevOps Engineer](https://www.adzuna.com/land/ad/5708901188?se=NPv35OM_8RGTn8VwZIa35w&utm_medium=api&utm_source=632a28fd&v=3C2C20CDC7D6BB4E2153F7EB7CD15B997319C5A2)
+  - Company: Leidos | Tewksbury, Middlesex County
+  - Description Are you ready to work for a company that not only supports mission critical projects but also prioritizes in...
+
+- [Data Transport Infrastructure DevOps Engineer](https://www.adzuna.com/land/ad/5708900838?se=NPv35OM_8RGTn8VwZIa35w&utm_medium=api&utm_source=632a28fd&v=04762F69A8D0F1A0088CB30DB442D3B0154AE862)
+  - Company: Leidos | Redstone Arsenal, Madison County
+  - Description Are you ready to work for a company that not only supports mission critical projects but also prioritizes in...
+
+- [DevOps Engineer](https://www.adzuna.com/details/5708798394?utm_medium=api&utm_source=632a28fd)
+  - Company: Talentrupt | US
+  - Title: DevOps Engineer Location: Newark, NJ/Remote Duration: 9 months Contract As a DevOps Consultant , you will be supp...
+
+- [DevOps Engineer - Remote in MX](https://www.adzuna.com/details/5708764127?utm_medium=api&utm_source=632a28fd)
+  - Company: The Dignify Solutions, LLC | US
+  - 4-8 years of experience as a DevOps Engineer Kubernetes / EKS  GitOps (ArgoCD or FluxCD) AWS Cloud Infrastructure (EC2, ...
+
+- [Devops Observability Engineer](https://www.adzuna.com/details/5708484799?utm_medium=api&utm_source=632a28fd)
+  - Company: Virtual Networx | US
+  - Job Role: Devops Observability Engineer Locations: Remote Positon 12 Months Must have skills : DevOps & Observability To...
+
+- [Cloud DevOps Engineer](https://www.adzuna.com/land/ad/5700070181?se=NPv35OM_8RGTn8VwZIa35w&utm_medium=api&utm_source=632a28fd&v=EEE73C2089BCFE81ECD42611F56E7ADC3430487E)
+  - Company: Stefanini Group | Capitol, Richmond
+  - Details: Stefanini Group is hiring! Stefanini is looking for a Cloud DevOps Engineer for Remote. For quick Apply, please...
+
+- [Entry Level Java/DevOps Developer - Remote/Machine learning engineer](https://www.adzuna.com/land/ad/5684033024?se=KEXm5eM_8RG1uuN4FlV84g&utm_medium=api&utm_source=632a28fd&v=535276A273F5F920F48ECE9F4027EB4396CC4371)
+  - Company: Synergistic it | Denver, Colorado
+  - 500 Leetcode Problems! /Lots of Certifications?—Still No Offers? Let's Get You Offers with a Process which actually work...
+
+- [Senior Data Platform Engineer, Remote](https://www.adzuna.com/details/5709358751?utm_medium=api&utm_source=632a28fd)
+  - Company: Experian | US
+  - Job Description Overview We are looking for an accomplished Principal Data Platform Engineer to lead the design, impleme...
+
+- [Kubernetes Platform Engineer](https://www.adzuna.com/details/5709216608?utm_medium=api&utm_source=632a28fd)
+  - Company: Perfect Timing Personnel Services | Berkeley, Alameda County
+  - Temp Kubernetes Platform Engineer | 1- Year Contract | Remote | $100/hour Our client, Lawrence Berkeley National Laborat...
+
+- [Platform Engineer IV(Remote, no third party, only W2)](https://www.adzuna.com/details/5708758951?utm_medium=api&utm_source=632a28fd)
+  - Company: CBTS | US
+  - Job Description: Must Have Angular Java Springboot Linux CI/CD Nice To Have Qualifications: Experience in software/syste...
+
+- [Full-Stack Platform Engineer (Angular  Java) - W2](https://www.adzuna.com/details/5708485344?utm_medium=api&utm_source=632a28fd)
+  - Company: Javen Technologies, Inc | US
+  - Job Title: Full-Stack Platform Engineer (Angular  Java) Location: 100% Remote Duration: 6 Months with potential extensio...
+
+- [Java Backend Developer](https://www.adzuna.com/land/ad/5701349000?se=QGDJ6OM_8RGTn8VwZIa35w&utm_medium=api&utm_source=632a28fd&v=0CFF503F9327C64BD968ECD9D9A2E23C273F727E)
+  - Company: Engage Partners, Inc. | Denver, Colorado
+  - Backend Java Engineer (AI-Driven SaaS Platform) Location: Remote (U.S. only) ??? Preference for Denver, Atlanta, NYC Met...
+
+- [Senior Cloud Engineer - Remote US](https://www.adzuna.com/details/5709184156?utm_medium=api&utm_source=632a28fd)
+  - Company: Smile Digital Health | US
+  - Working for a company like Smile Digital Health means supporting our mandate for BetterGlobalHealth . We strive towards ...
+
+- [Sr TechOps & SRE Lead Engineer (AWS Cloud) - Remote EST](https://www.adzuna.com/details/5709153148?utm_medium=api&utm_source=632a28fd)
+  - Company: Simple Solutions | Villano Beach, St. Johns County
+  - Sr TechOps & SRE Lead Engineer (AWS Cloud) Department: Technology / Engineering Role Overview We are seeking a highly ex...
+
+- [PingOne Cloud Engineer](https://www.adzuna.com/details/5708804698?utm_medium=api&utm_source=632a28fd)
+  - Company: Openkyber | Alaska, US
+  - Cloud Automation Engineer Job Summary: Talent Software Services is in search of a Cloud Automation Engineer for a contra...
+
+- [Cloud Network Implementation Engineer (Master)](https://www.adzuna.com/details/5708803597?utm_medium=api&utm_source=632a28fd)
+  - Company: Match Point Solutions | Maryland Heights, Saint Louis County
+  - MatchPoint Solutions is a fast-growing, young, energetic global IT-Engineering services company with clients across the ...
+
+- [Full-Stack Software Engineer (Cloud-Native Applications) (Remote)](https://www.adzuna.com/details/5708803557?utm_medium=api&utm_source=632a28fd)
+  - Company: Stage 4 Solutions Inc | US
+  - Full-Stack Software Engineer (Cloud-Native Applications) (Remote) We are seeking a Full-Stack Software Engineer (Cloud-N...
+
+- [Cloud Data Engineer - 2nd Shift](https://www.adzuna.com/details/5708797608?utm_medium=api&utm_source=632a28fd)
+  - Company: Odyssey Information Services | US
+  - Cloud Data Engineer (Contract | Remote | 2nd Shift) Seeking a hands-on Cloud Data Engineer to support a fast-paced data ...
+
+- [Data Engineer Cloud Data Integration & Transformation](https://www.adzuna.com/details/5708767157?utm_medium=api&utm_source=632a28fd)
+  - Company: Bahwan CyberTek Inc. | US
+  - Job Title: Data Engineer Cloud Data Integration & Transformation Location: Remote Duration: 6 Months Description: We are...
+
+- [AWS Workspaces Cloud Engineer](https://www.adzuna.com/details/5708485570?utm_medium=api&utm_source=632a28fd)
+  - Company: ACI Group, Inc. | US
+  - AWS Workspaces Cloud Engineer, Remote 4 Month Contract (Potential for longer term) 100% Remote NO THIRD PARTY RECRUITERS...
+
+- [Google Cloud Engineer](https://www.adzuna.com/details/5708446145?utm_medium=api&utm_source=632a28fd)
+  - Company: InfoObjects Inc | US
+  - Google Cloud Engineer Location: 100% Remote Duration: 5 Months Contract (potential to extend) MUST HAVE – 7 years of eng...
+
+- [Cloud Network Security Engineer](https://www.adzuna.com/details/5708445731?utm_medium=api&utm_source=632a28fd)
+  - Company: ITSYNTAX INC | US
+  - Position: Cloud Network & Security Engineer Location: Remote Duration: 12 months Position Summary We are seeking a Cloud...
+
+- [Cyber security engineer with data/cloud protection (DO NOT SHARE DATA ENGINEER PROFILES PLS)](https://www.adzuna.com/details/5707334874?utm_medium=api&utm_source=632a28fd)
+  - Company: Fervorly | US
+  - Role: Senior Cloud/ Cybersecurity engineer Location: remote Role Description Lead the organization’s data protection and...
+
+- [Sr TechOps Lead Engineer (AWS Cloud)- REMOTE](https://www.adzuna.com/details/5704307469?utm_medium=api&utm_source=632a28fd)
+  - Company: Simple Solutions | Villano Beach, St. Johns County
+  - Sr TechOps & SRE Lead Engineer (AWS Cloud) Department: Technology / Engineering Role Overview We are seeking a highly ex...
+
+- [Azure Infrastructure Engineer](https://www.adzuna.com/details/5709175712?utm_medium=api&utm_source=632a28fd)
+  - Company: Ascending | Boston, Suffolk County
+  - Senior Azure Infrastructure Engineer / Systems Engineer Remote (EST Preferred) 6-month contract (potential to extend) Ov...
+
+- [Senior Cloud & Backup Infrastructure Engineer](https://www.adzuna.com/details/5708802975?utm_medium=api&utm_source=632a28fd)
+  - Company: Stellent IT LLC | Elma, Erie County
+  - Senior Cloud & Backup Infrastructure Engineer Elma, New York(100% Remote) Video Interview Long Term Contract JD: The Sen...
+
+- [Infrastructure Engineering - Linguist III- REMOTE](https://www.adzuna.com/details/5708769877?utm_medium=api&utm_source=632a28fd)
+  - Company: American IT Systems | US
+  - Job Title: Infrastructure Engineering - Linguist III Must have a graduate degree in Linguistics Must be native speaker o...
+
+- [IT Engineer](https://www.adzuna.com/details/5708387497?utm_medium=api&utm_source=632a28fd)
+  - Company: TechHuman | US
+  - We are seeking a Remote Infrastructure & Migration Engineer to support site readiness and cloud migration initiatives fo...
+
+- [Senior DevSecOps Test Automation Engineer Public Trust (Remote)](https://www.adzuna.com/details/5709176531?utm_medium=api&utm_source=632a28fd)
+  - Company: ICF | Reston, Fairfax County
+  - We are seeking a Senior Test Engineer to drive quality engineering and test automation strategy for a modern cloud-based...
+
+- [Senior Software Engineer - DevSecOps](https://www.adzuna.com/details/5709167219?utm_medium=api&utm_source=632a28fd)
+  - Company: Recruiting From Scratch | Nob Hill, San Francisco
+  - Who is Recruiting from Scratch: Recruiting from Scratch is a specialized talent firm dedicated to helping companies buil...
+
+- [Senior DevSecOps Test Automation Engineer Public Trust (Remote)](https://www.adzuna.com/details/5705597880?utm_medium=api&utm_source=632a28fd)
+  - Company: ICF | Reston, Fairfax County
+  - Description We are seeking a Senior Test Engineer to drive quality engineering and test automation strategy for a modern...
