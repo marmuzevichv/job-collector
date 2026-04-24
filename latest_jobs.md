@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-04-23 13:27 UTC
+Generated: 2026-04-24 13:21 UTC
 
-Total new jobs: 117
+Total new jobs: 119
 
 ## greenhouse
 
@@ -330,7 +330,15 @@ Total new jobs: 117
   - Company: okta
   - Location: Remote
 
+- [ML Platform Engineer, tvScientific](https://www.pinterestcareers.com/jobs/?gh_jid=7782571)
+  - Company: pinterest
+  - Location: Remote
+
 - [Sr. ML Platform Engineer, tvScientific](https://www.pinterestcareers.com/jobs/?gh_jid=7642249)
+  - Company: pinterest
+  - Location: Remote
+
+- [Sr. Site Reliability Engineer](https://www.pinterestcareers.com/jobs/?gh_jid=7747172)
   - Company: pinterest
   - Location: Remote
 
