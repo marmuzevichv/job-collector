@@ -1,6 +1,6 @@
 # New jobs
 
-Generated: 2026-04-25 13:02 UTC
+Generated: 2026-04-26 13:04 UTC
 
 Total new jobs: 115
 
@@ -402,9 +402,9 @@ Total new jobs: 115
   - Company: Pivotal Health
   - Location: Los Angeles
 
-- [Senior Site Reliability Engineer](https://remoteOK.com/remote-jobs/remote-senior-site-reliability-engineer-ujet-1131206)
-  - Company: UJET
-  - Location: Austin, TX, US
+- [Full Stack Product Engineer](https://remoteOK.com/remote-jobs/remote-full-stack-product-engineer-pivotal-health-1131314)
+  - Company: Pivotal Health
+  - Location: Los Angeles
 
 ## weworkremotely
 
