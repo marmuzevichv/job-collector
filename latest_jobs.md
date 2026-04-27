@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-04-26 13:04 UTC
+Generated: 2026-04-27 13:51 UTC
 
-Total new jobs: 115
+Total new jobs: 117
 
 ## greenhouse
 
@@ -218,11 +218,11 @@ Total new jobs: 115
   - Company: jetbrains
   - Location: Remote
 
-- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=7453323)
+- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=7647255)
   - Company: mongodb
   - Location: Remote
 
-- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=7647255)
+- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=7453323)
   - Company: mongodb
   - Location: Remote
 
@@ -250,11 +250,11 @@ Total new jobs: 115
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7821318)
+- [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7821316)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7821316)
+- [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7821318)
   - Company: mongodb
   - Location: Remote
 
@@ -262,11 +262,11 @@ Total new jobs: 115
   - Company: mongodb
   - Location: Remote
 
-- [Team Lead, Site Reliability Engineering - Storage Layer Service](https://www.mongodb.com/careers/job/?gh_jid=7818635)
+- [Team Lead, Site Reliability Engineering - Storage Layer Service](https://www.mongodb.com/careers/job/?gh_jid=7743304)
   - Company: mongodb
   - Location: Remote
 
-- [Team Lead, Site Reliability Engineering - Storage Layer Service](https://www.mongodb.com/careers/job/?gh_jid=7743304)
+- [Team Lead, Site Reliability Engineering - Storage Layer Service](https://www.mongodb.com/careers/job/?gh_jid=7818635)
   - Company: mongodb
   - Location: Remote
 
@@ -361,6 +361,18 @@ Total new jobs: 115
 - [Anti-Abuse Automation Engineer](https://job-boards.greenhouse.io/vercel/jobs/5843010004)
   - Company: vercel
   - Location: Remote
+
+## jobicy
+
+- [DevOps Engineer](https://jobicy.com/jobs/141321-devops-engineer-2)
+  - Company: Dayforce
+  - Location: USA
+  - Level/Team: DevOps &amp; Infrastructure
+
+- [DevOps Enablement Engineer / SDLC Lead](https://jobicy.com/jobs/142050-devops-enablement-engineer-sdlc-lead)
+  - Company: ECS
+  - Location: USA
+  - Level/Team: DevOps &amp; Infrastructure
 
 ## lever
 
