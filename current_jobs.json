@@ -28,6 +28,19 @@
   {
     "source_type": "greenhouse",
     "company": "airbnb",
+    "title": "Senior Automation Engineer, Quality Platform",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://careers.airbnb.com/positions/7863467?gh_jid=7863467",
+    "external_id": "greenhouse::7863467",
+    "description_snippet": "",
+    "posted_at": "2026-04-29T12:02:30-04:00",
+    "collected_at_utc": "2026-04-30 13:51:46"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "airbnb",
     "title": "Senior iOS Automation Engineer",
     "location": "",
     "team": "",
@@ -63,6 +76,39 @@
     "description_snippet": "Headquarters: Nice, Provence-Alpes-Côte d&#39;Azur, FR Détail du poste Job Title Senior SRE / DEVOPS Business environment API management (AMI) organization fosters the development &amp; operations, promotion and efficient consumption of Amadeus Services exposed to internal and external entities. The",
     "posted_at": "Mon, 06 Apr 2026 18:02:13 +0000",
     "collected_at_utc": "2026-04-29 13:53:42"
+  },
+  {
+    "source_type": "remoteok",
+    "company": "Andromeda Cluster",
+    "title": "Senior Site Reliability Engineer AI Infrastructure",
+    "location": "San Francisco",
+    "team": "",
+    "categories": [
+      "design",
+      "training",
+      "technical",
+      "software",
+      "code",
+      "manager",
+      "financial",
+      "cloud",
+      "management",
+      "lead",
+      "senior",
+      "operations",
+      "reliability",
+      "go",
+      "health",
+      "engineer",
+      "engineering",
+      "linux",
+      "digital nomad"
+    ],
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-site-reliability-engineer-ai-infrastructure-andromeda-cluster-1131375",
+    "external_id": "remoteok::1131375",
+    "description_snippet": "Senior Site Reliability Engineer - AI Infrastructure Location: Global Remote / San Francisco Â· Full-Time About Andromeda Andromeda Cluster was founded by Nat Friedman and Daniel Gross to give early-stage startups access to the kind of scaled AI infrastructure once reserved only for hyperscalers. We",
+    "posted_at": "2026-04-29T00:01:03+00:00",
+    "collected_at_utc": "2026-04-30 13:51:46"
   },
   {
     "source_type": "greenhouse",
@@ -292,6 +338,30 @@
     "description_snippet": "Headquarters: Karachi, Sindh Responsibilities :&nbsp; Develop and maintain cloud-based infrastructure and cloud services using Azure, AWS, or GCP Design, implement, and manage CI/CD pipelines for efficient and automated deployments Automate infrastructure provisioning using Infrastructure as Code (A",
     "posted_at": "Wed, 29 Apr 2026 08:33:22 +0000",
     "collected_at_utc": "2026-04-29 13:53:42"
+  },
+  {
+    "source_type": "remoteok",
+    "company": "Chime Financial, Inc",
+    "title": "Data Governance Engineer",
+    "location": "San Francisco",
+    "team": "",
+    "categories": [
+      "python",
+      "technical",
+      "developer",
+      "code",
+      "leader",
+      "management",
+      "reliability",
+      "engineer",
+      "engineering",
+      "digital nomad"
+    ],
+    "url": "https://remoteOK.com/remote-jobs/remote-data-governance-engineer-chime-financial-inc-1131365",
+    "external_id": "remoteok::1131365",
+    "description_snippet": "About the Role The Data Governance function is pivotal in ensuring the integrity, trustworthiness, and effective management of Chime's data assets. Our mission is to establish and operationalize data governance frameworks that not only meet compliance requirements, but actively enable high-confidenc",
+    "posted_at": "2026-04-28T16:00:06+00:00",
+    "collected_at_utc": "2026-04-30 13:51:46"
   },
   {
     "source_type": "greenhouse",
@@ -965,6 +1035,19 @@
   },
   {
     "source_type": "weworkremotely",
+    "company": "Kasha",
+    "title": "Senior DevOps Engineer",
+    "location": "Remote",
+    "team": "",
+    "categories": [],
+    "url": "https://weworkremotely.com/remote-jobs/kasha-senior-devops-engineer",
+    "external_id": "wwr::https://weworkremotely.com/remote-jobs/kasha-senior-devops-engineer",
+    "description_snippet": "Headquarters: About Kasha Kasha will disrupt the way that people in emerging markets get the health products they need by turning global health supply chains upside down. We are on our way to becoming Africa’s leading platform for last-mile access to health products and services used by enterprises,",
+    "posted_at": "Wed, 29 Apr 2026 20:31:17 +0000",
+    "collected_at_utc": "2026-04-30 13:51:46"
+  },
+  {
+    "source_type": "weworkremotely",
     "company": "Lemon.io",
     "title": "Senior DevOps Engineer",
     "location": "Remote",
@@ -1570,6 +1653,27 @@
     "collected_at_utc": "2026-04-29 13:53:42"
   },
   {
+    "source_type": "remoteok",
+    "company": "Syner-G",
+    "title": "Automation Engineer",
+    "location": "Pittsburgh",
+    "team": "",
+    "categories": [
+      "consulting",
+      "support",
+      "growth",
+      "financial",
+      "video",
+      "management",
+      "engineer"
+    ],
+    "url": "https://remoteOK.com/remote-jobs/remote-automation-engineer-syner-g-1131367",
+    "external_id": "remoteok::1131367",
+    "description_snippet": "COMPANY DESCRIPTION: Â A career here is life-enhancing. At Syner-G, we enable our people to build careers that impact positively on their quality of life. Through our expertise, insight, consulting and management skills, we accelerate breakthrough science and delivery of life-enhancing therapies to ",
+    "posted_at": "2026-04-28T16:00:30+00:00",
+    "collected_at_utc": "2026-04-30 13:51:46"
+  },
+  {
     "source_type": "greenhouse",
     "company": "vercel",
     "title": "Anti-Abuse Automation Engineer",
@@ -1594,6 +1698,19 @@
     "description_snippet": "Headquarters: Remote URL: https://vercel.com Vercel is seeking a DevOps Engineer to help scale our globally distributed edge infrastructure. You'll work on systems that serve millions of deployments per day. 4+ years of DevOps/infrastructure engineering experience Strong knowledge of Kubernetes, Ter",
     "posted_at": "Wed, 22 Apr 2026 02:29:49 +0000",
     "collected_at_utc": "2026-04-29 13:53:42"
+  },
+  {
+    "source_type": "weworkremotely",
+    "company": "Vexxhost",
+    "title": "OpenStack Cloud Engineer (DevOps)",
+    "location": "Remote",
+    "team": "",
+    "categories": [],
+    "url": "https://weworkremotely.com/remote-jobs/vexxhost-openstack-cloud-engineer-devops",
+    "external_id": "wwr::https://weworkremotely.com/remote-jobs/vexxhost-openstack-cloud-engineer-devops",
+    "description_snippet": "Headquarters: English Version We are seeking someone with a strong background in Linux and cloud technologies. In this role, you will not only support our customers using Atmosphere, our open-source cloud product, but also provide critical support to our internal CloudOps team that manages our publi",
+    "posted_at": "Wed, 29 Apr 2026 20:31:11 +0000",
+    "collected_at_utc": "2026-04-30 13:51:46"
   },
   {
     "source_type": "weworkremotely",

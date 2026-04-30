@@ -1,12 +1,16 @@
 # New jobs
 
-Generated: 2026-04-29 13:54 UTC
+Generated: 2026-04-30 13:52 UTC
 
-Total new jobs: 114
+Total new jobs: 120
 
 ## greenhouse
 
 - [Senior Android Automation Engineer](https://careers.airbnb.com/positions/7380262?gh_jid=7380262)
+  - Company: airbnb
+  - Location: Remote
+
+- [Senior Automation Engineer, Quality Platform](https://careers.airbnb.com/positions/7863467?gh_jid=7863467)
   - Company: airbnb
   - Location: Remote
 
@@ -371,9 +375,17 @@ Total new jobs: 114
 
 ## remoteok
 
+- [Senior Site Reliability Engineer AI Infrastructure](https://remoteOK.com/remote-jobs/remote-senior-site-reliability-engineer-ai-infrastructure-andromeda-cluster-1131375)
+  - Company: Andromeda Cluster
+  - Location: San Francisco
+
 - [Engineer Software](https://remoteOK.com/remote-jobs/remote-engineer-software-calabrio-1131345)
   - Company: Calabrio
   - Location: Worldwide
+
+- [Data Governance Engineer](https://remoteOK.com/remote-jobs/remote-data-governance-engineer-chime-financial-inc-1131365)
+  - Company: Chime Financial, Inc
+  - Location: San Francisco
 
 - [Senior Cloud Engineer](https://remoteOK.com/remote-jobs/remote-senior-cloud-engineer-dv-trading-1131251)
   - Company: DV Trading
@@ -394,6 +406,10 @@ Total new jobs: 114
 - [Full Stack Product Engineer](https://remoteOK.com/remote-jobs/remote-full-stack-product-engineer-pivotal-health-1131314)
   - Company: Pivotal Health
   - Location: Los Angeles
+
+- [Automation Engineer](https://remoteOK.com/remote-jobs/remote-automation-engineer-syner-g-1131367)
+  - Company: Syner-G
+  - Location: Pittsburgh
 
 ## weworkremotely
 
@@ -453,6 +469,10 @@ Total new jobs: 114
   - Company: Interop Labs
   - Location: Remote
 
+- [Senior DevOps Engineer](https://weworkremotely.com/remote-jobs/kasha-senior-devops-engineer)
+  - Company: Kasha
+  - Location: Remote
+
 - [Senior DevOps Engineer](https://weworkremotely.com/remote-jobs/lemon-io-senior-devops-engineer-2)
   - Company: Lemon.io
   - Location: Remote
@@ -471,6 +491,10 @@ Total new jobs: 114
 
 - [DevOps Engineer](https://weworkremotely.com/remote-jobs/vercel-devops-engineer)
   - Company: Vercel
+  - Location: Remote
+
+- [OpenStack Cloud Engineer (DevOps)](https://weworkremotely.com/remote-jobs/vexxhost-openstack-cloud-engineer-devops)
+  - Company: Vexxhost
   - Location: Remote
 
 - [DevOps Engineer (gn) / full-remote](https://weworkremotely.com/remote-jobs/workidentity-devops-engineer-gn-full-remote)
