@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-04-30 13:52 UTC
+Generated: 2026-05-01 13:16 UTC
 
-Total new jobs: 120
+Total new jobs: 119
 
 ## greenhouse
 
@@ -70,7 +70,7 @@ Total new jobs: 120
   - Company: clickhouse
   - Location: Remote
 
-- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843425004)
+- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843421004)
   - Company: clickhouse
   - Location: Remote
 
@@ -82,7 +82,7 @@ Total new jobs: 120
   - Company: clickhouse
   - Location: Remote
 
-- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843421004)
+- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843425004)
   - Company: clickhouse
   - Location: Remote
 
@@ -90,11 +90,11 @@ Total new jobs: 120
   - Company: clickhouse
   - Location: Remote
 
-- [Release Engineer - Data Plane](https://job-boards.greenhouse.io/clickhouse/jobs/5813444004)
+- [Release Engineer - Data Plane](https://job-boards.greenhouse.io/clickhouse/jobs/5813433004)
   - Company: clickhouse
   - Location: Remote
 
-- [Release Engineer - Data Plane](https://job-boards.greenhouse.io/clickhouse/jobs/5813433004)
+- [Release Engineer - Data Plane](https://job-boards.greenhouse.io/clickhouse/jobs/5813444004)
   - Company: clickhouse
   - Location: Remote
 
@@ -102,15 +102,11 @@ Total new jobs: 120
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Infrastructure Engineer - Postgres](https://job-boards.greenhouse.io/clickhouse/jobs/5717944004)
-  - Company: clickhouse
-  - Location: Remote
-
 - [Senior Infrastructure Engineer - Postgres](https://job-boards.greenhouse.io/clickhouse/jobs/5706417004)
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5828333004)
+- [Senior Infrastructure Engineer - Postgres](https://job-boards.greenhouse.io/clickhouse/jobs/5717944004)
   - Company: clickhouse
   - Location: Remote
 
@@ -126,7 +122,19 @@ Total new jobs: 120
   - Company: clickhouse
   - Location: Remote
 
+- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5828333004)
+  - Company: clickhouse
+  - Location: Remote
+
+- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819676004)
+  - Company: clickhouse
+  - Location: Remote
+
 - [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819678004)
+  - Company: clickhouse
+  - Location: Remote
+
+- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819677004)
   - Company: clickhouse
   - Location: Remote
 
@@ -135,14 +143,6 @@ Total new jobs: 120
   - Location: Remote
 
 - [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819674004)
-  - Company: clickhouse
-  - Location: Remote
-
-- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819677004)
-  - Company: clickhouse
-  - Location: Remote
-
-- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819676004)
   - Company: clickhouse
   - Location: Remote
 
@@ -158,11 +158,11 @@ Total new jobs: 120
   - Company: dropbox
   - Location: Remote
 
-- [Site Reliability Engineer (Mid / Senior) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=7852721&gh_jid=7852721)
+- [Site Reliability Engineer (Mid / Senior) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=7721766&gh_jid=7721766)
   - Company: elastic
   - Location: Remote
 
-- [Site Reliability Engineer (Mid / Senior) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=7721766&gh_jid=7721766)
+- [Site Reliability Engineer (Mid / Senior) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=7852721&gh_jid=7852721)
   - Company: elastic
   - Location: Remote
 
@@ -286,11 +286,11 @@ Total new jobs: 120
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer (Auth0)](https://www.okta.com/company/careers/opportunity/7418982?gh_jid=7418982)
+- [Senior Site Reliability Engineer (Auth0)](https://www.okta.com/company/careers/opportunity/7791590?gh_jid=7791590)
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer (Auth0)](https://www.okta.com/company/careers/opportunity/7791590?gh_jid=7791590)
+- [Senior Site Reliability Engineer (Auth0)](https://www.okta.com/company/careers/opportunity/7418982?gh_jid=7418982)
   - Company: okta
   - Location: Remote
 
@@ -304,14 +304,6 @@ Total new jobs: 120
 
 - [Site Reliability Engineer (Auth0)](https://www.okta.com/company/careers/opportunity/7325605?gh_jid=7325605)
   - Company: okta
-  - Location: Remote
-
-- [ML Platform Engineer, tvScientific](https://www.pinterestcareers.com/jobs/?gh_jid=7782571)
-  - Company: pinterest
-  - Location: Remote
-
-- [Sr. ML Platform Engineer, tvScientific](https://www.pinterestcareers.com/jobs/?gh_jid=7642249)
-  - Company: pinterest
   - Location: Remote
 
 - [Sr. Site Reliability Engineer](https://www.pinterestcareers.com/jobs/?gh_jid=7747172)
@@ -387,18 +379,6 @@ Total new jobs: 120
   - Company: Chime Financial, Inc
   - Location: San Francisco
 
-- [Senior Cloud Engineer](https://remoteOK.com/remote-jobs/remote-senior-cloud-engineer-dv-trading-1131251)
-  - Company: DV Trading
-  - Location: Remote
-
-- [Software Engineer Identity & Access](https://remoteOK.com/remote-jobs/remote-software-engineer-identity-access-patreon-1131240)
-  - Company: Patreon
-  - Location: Worldwide
-
-- [Senior Site Reliability Engineer](https://remoteOK.com/remote-jobs/remote-senior-site-reliability-engineer-pave-bank-1131263)
-  - Company: Pave Bank
-  - Location: Kuala Lumpur
-
 - [Data Engineer](https://remoteOK.com/remote-jobs/remote-data-engineer-pivotal-health-1131305)
   - Company: Pivotal Health
   - Location: Los Angeles
@@ -469,6 +449,10 @@ Total new jobs: 120
   - Company: Interop Labs
   - Location: Remote
 
+- [DevOps Engineer](https://weworkremotely.com/remote-jobs/jahnel-group-devops-engineer)
+  - Company: Jahnel Group
+  - Location: Remote
+
 - [Senior DevOps Engineer](https://weworkremotely.com/remote-jobs/kasha-senior-devops-engineer)
   - Company: Kasha
   - Location: Remote
@@ -485,6 +469,10 @@ Total new jobs: 120
   - Company: Matera
   - Location: Remote
 
+- [Devops](https://weworkremotely.com/remote-jobs/mutt-data-devops)
+  - Company: Mutt Data
+  - Location: Remote
+
 - [Senior GCP DevOps Engineer](https://weworkremotely.com/remote-jobs/spectrum-it-recruitment-senior-gcp-devops-engineer)
   - Company: Spectrum It Recruitment
   - Location: Remote
@@ -497,6 +485,14 @@ Total new jobs: 120
   - Company: Vexxhost
   - Location: Remote
 
+- [Senior Devops Engineer](https://weworkremotely.com/remote-jobs/woliba-senior-devops-engineer)
+  - Company: Woliba
+  - Location: Remote
+
 - [DevOps Engineer (gn) / full-remote](https://weworkremotely.com/remote-jobs/workidentity-devops-engineer-gn-full-remote)
   - Company: Workidentity
+  - Location: Remote
+
+- [Senior DevOps Engineer](https://weworkremotely.com/remote-jobs/zayzoon-senior-devops-engineer)
+  - Company: Zayzoon
   - Location: Remote
