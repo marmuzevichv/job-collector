@@ -28,19 +28,6 @@
   {
     "source_type": "greenhouse",
     "company": "airbnb",
-    "title": "Senior Automation Engineer, Quality Platform",
-    "location": "",
-    "team": "",
-    "categories": [],
-    "url": "https://careers.airbnb.com/positions/7863467?gh_jid=7863467",
-    "external_id": "greenhouse::7863467",
-    "description_snippet": "",
-    "posted_at": "2026-04-29T12:02:30-04:00",
-    "collected_at_utc": "2026-04-30 13:51:46"
-  },
-  {
-    "source_type": "greenhouse",
-    "company": "airbnb",
     "title": "Senior iOS Automation Engineer",
     "location": "",
     "team": "",
@@ -63,6 +50,19 @@
     "description_snippet": "",
     "posted_at": "2026-02-11T18:05:46-05:00",
     "collected_at_utc": "2026-05-01 13:16:23"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "airbnb",
+    "title": "Senior Web Automation Engineer, Quality Platform",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://careers.airbnb.com/positions/7863467?gh_jid=7863467",
+    "external_id": "greenhouse::7863467",
+    "description_snippet": "",
+    "posted_at": "2026-04-30T12:45:35-04:00",
+    "collected_at_utc": "2026-05-02 13:08:29"
   },
   {
     "source_type": "weworkremotely",
@@ -108,7 +108,7 @@
     "external_id": "remoteok::1131375",
     "description_snippet": "Senior Site Reliability Engineer - AI Infrastructure Location: Global Remote / San Francisco Â· Full-Time About Andromeda Andromeda Cluster was founded by Nat Friedman and Daniel Gross to give early-stage startups access to the kind of scaled AI infrastructure once reserved only for hyperscalers. We",
     "posted_at": "2026-04-29T00:01:03+00:00",
-    "collected_at_utc": "2026-04-30 13:51:46"
+    "collected_at_utc": "2026-05-02 13:08:29"
   },
   {
     "source_type": "greenhouse",
@@ -361,7 +361,7 @@
     "external_id": "remoteok::1131365",
     "description_snippet": "About the Role The Data Governance function is pivotal in ensuring the integrity, trustworthiness, and effective management of Chime's data assets. Our mission is to establish and operationalize data governance frameworks that not only meet compliance requirements, but actively enable high-confidenc",
     "posted_at": "2026-04-28T16:00:06+00:00",
-    "collected_at_utc": "2026-04-30 13:51:46"
+    "collected_at_utc": "2026-05-02 13:08:29"
   },
   {
     "source_type": "greenhouse",
@@ -914,6 +914,31 @@
     "collected_at_utc": "2026-05-01 13:16:23"
   },
   {
+    "source_type": "remoteok",
+    "company": "Haast",
+    "title": "Founding Engineer",
+    "location": "New York",
+    "team": "",
+    "categories": [
+      "frontend",
+      "full-stack",
+      "technical",
+      "code",
+      "voice",
+      "content",
+      "legal",
+      "reliability",
+      "engineer",
+      "engineering",
+      "backend"
+    ],
+    "url": "https://remoteOK.com/remote-jobs/remote-founding-engineer-haast-1131402",
+    "external_id": "remoteok::1131402",
+    "description_snippet": "Founding Engineer (US) Build the AI platform that's rewriting a $50B industry Salary range - $180-220k USD + Equity + Benefits About Haast We're building one of the first agentic systems for enterprise legal and compliance teams that actually automates their manual work. End-to-end. Delivering 80% f",
+    "posted_at": "2026-04-30T16:00:32+00:00",
+    "collected_at_utc": "2026-05-02 13:08:29"
+  },
+  {
     "source_type": "weworkremotely",
     "company": "Hard Rock Digital",
     "title": "Senior Data DevOps Engineer",
@@ -1030,7 +1055,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/kasha-senior-devops-engineer",
     "description_snippet": "Headquarters: About Kasha Kasha will disrupt the way that people in emerging markets get the health products they need by turning global health supply chains upside down. We are on our way to becoming Africa’s leading platform for last-mile access to health products and services used by enterprises,",
     "posted_at": "Wed, 29 Apr 2026 20:31:17 +0000",
-    "collected_at_utc": "2026-04-30 13:51:46"
+    "collected_at_utc": "2026-05-02 13:08:29"
   },
   {
     "source_type": "weworkremotely",
@@ -1557,6 +1582,37 @@
     "collected_at_utc": "2026-05-01 13:16:23"
   },
   {
+    "source_type": "remoteok",
+    "company": "Smart Working Solutions",
+    "title": "Digital Full Stack Engineer HR172",
+    "location": "Worldwide",
+    "team": "",
+    "categories": [
+      "design",
+      "jira",
+      "system",
+      "frontend",
+      "security",
+      "technical",
+      "support",
+      "growth",
+      "devops",
+      "financial",
+      "cloud",
+      "operations",
+      "operational",
+      "engineer",
+      "engineering",
+      "backend",
+      "digital nomad"
+    ],
+    "url": "https://remoteOK.com/remote-jobs/remote-digital-full-stack-engineer-hr172-smart-working-solutions-1131414",
+    "external_id": "remoteok::1131414",
+    "description_snippet": "About Smart Working At Smart Working, we believe your job should not only look right on paper but also feel right every day. This isnât just another remote opportunity - itâs about finding where you truly belong, no matter where you are. From day one, youâre welcomed into a genuine community t",
+    "posted_at": "2026-05-01T08:00:03+00:00",
+    "collected_at_utc": "2026-05-02 13:08:29"
+  },
+  {
     "source_type": "weworkremotely",
     "company": "Spectrum It Recruitment",
     "title": "Senior GCP DevOps Engineer",
@@ -1588,7 +1644,7 @@
     "external_id": "remoteok::1131367",
     "description_snippet": "COMPANY DESCRIPTION: Â A career here is life-enhancing. At Syner-G, we enable our people to build careers that impact positively on their quality of life. Through our expertise, insight, consulting and management skills, we accelerate breakthrough science and delivery of life-enhancing therapies to ",
     "posted_at": "2026-04-28T16:00:30+00:00",
-    "collected_at_utc": "2026-04-30 13:51:46"
+    "collected_at_utc": "2026-05-02 13:08:29"
   },
   {
     "source_type": "greenhouse",
@@ -1627,7 +1683,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/vexxhost-openstack-cloud-engineer-devops",
     "description_snippet": "Headquarters: English Version We are seeking someone with a strong background in Linux and cloud technologies. In this role, you will not only support our customers using Atmosphere, our open-source cloud product, but also provide critical support to our internal CloudOps team that manages our publi",
     "posted_at": "Wed, 29 Apr 2026 20:31:11 +0000",
-    "collected_at_utc": "2026-04-30 13:51:46"
+    "collected_at_utc": "2026-05-02 13:08:29"
   },
   {
     "source_type": "weworkremotely",

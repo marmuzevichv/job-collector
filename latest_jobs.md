@@ -1,16 +1,12 @@
 # New jobs
 
-Generated: 2026-05-01 13:16 UTC
+Generated: 2026-05-02 13:08 UTC
 
-Total new jobs: 119
+Total new jobs: 121
 
 ## greenhouse
 
 - [Senior Android Automation Engineer](https://careers.airbnb.com/positions/7380262?gh_jid=7380262)
-  - Company: airbnb
-  - Location: Remote
-
-- [Senior Automation Engineer, Quality Platform](https://careers.airbnb.com/positions/7863467?gh_jid=7863467)
   - Company: airbnb
   - Location: Remote
 
@@ -19,6 +15,10 @@ Total new jobs: 119
   - Location: Remote
 
 - [Senior Software Engineer, Reliability Engineering](https://careers.airbnb.com/positions/7565550?gh_jid=7565550)
+  - Company: airbnb
+  - Location: Remote
+
+- [Senior Web Automation Engineer, Quality Platform](https://careers.airbnb.com/positions/7863467?gh_jid=7863467)
   - Company: airbnb
   - Location: Remote
 
@@ -379,6 +379,10 @@ Total new jobs: 119
   - Company: Chime Financial, Inc
   - Location: San Francisco
 
+- [Founding Engineer](https://remoteOK.com/remote-jobs/remote-founding-engineer-haast-1131402)
+  - Company: Haast
+  - Location: New York
+
 - [Data Engineer](https://remoteOK.com/remote-jobs/remote-data-engineer-pivotal-health-1131305)
   - Company: Pivotal Health
   - Location: Los Angeles
@@ -386,6 +390,10 @@ Total new jobs: 119
 - [Full Stack Product Engineer](https://remoteOK.com/remote-jobs/remote-full-stack-product-engineer-pivotal-health-1131314)
   - Company: Pivotal Health
   - Location: Los Angeles
+
+- [Digital Full Stack Engineer HR172](https://remoteOK.com/remote-jobs/remote-digital-full-stack-engineer-hr172-smart-working-solutions-1131414)
+  - Company: Smart Working Solutions
+  - Location: Worldwide
 
 - [Automation Engineer](https://remoteOK.com/remote-jobs/remote-automation-engineer-syner-g-1131367)
   - Company: Syner-G

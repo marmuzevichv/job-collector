@@ -1,40 +1,4 @@
 {
-  "remoteok::1131375": {
-    "company": "Andromeda Cluster",
-    "title": "Senior Site Reliability Engineer AI Infrastructure",
-    "url": "https://remoteOK.com/remote-jobs/remote-senior-site-reliability-engineer-ai-infrastructure-andromeda-cluster-1131375",
-    "first_seen_utc": "2026-04-30 13:51:46"
-  },
-  "remoteok::1131367": {
-    "company": "Syner-G",
-    "title": "Automation Engineer",
-    "url": "https://remoteOK.com/remote-jobs/remote-automation-engineer-syner-g-1131367",
-    "first_seen_utc": "2026-04-30 13:51:46"
-  },
-  "remoteok::1131365": {
-    "company": "Chime Financial, Inc",
-    "title": "Data Governance Engineer",
-    "url": "https://remoteOK.com/remote-jobs/remote-data-governance-engineer-chime-financial-inc-1131365",
-    "first_seen_utc": "2026-04-30 13:51:46"
-  },
-  "wwr::https://weworkremotely.com/remote-jobs/kasha-senior-devops-engineer": {
-    "company": "Kasha",
-    "title": "Senior DevOps Engineer",
-    "url": "https://weworkremotely.com/remote-jobs/kasha-senior-devops-engineer",
-    "first_seen_utc": "2026-04-30 13:51:46"
-  },
-  "wwr::https://weworkremotely.com/remote-jobs/vexxhost-openstack-cloud-engineer-devops": {
-    "company": "Vexxhost",
-    "title": "OpenStack Cloud Engineer (DevOps)",
-    "url": "https://weworkremotely.com/remote-jobs/vexxhost-openstack-cloud-engineer-devops",
-    "first_seen_utc": "2026-04-30 13:51:46"
-  },
-  "greenhouse::7863467": {
-    "company": "airbnb",
-    "title": "Senior Automation Engineer, Quality Platform",
-    "url": "https://careers.airbnb.com/positions/7863467?gh_jid=7863467",
-    "first_seen_utc": "2026-04-30 13:51:46"
-  },
   "remoteok::1131345": {
     "company": "Calabrio",
     "title": "Engineer Software",
@@ -712,5 +676,53 @@
     "title": "QA Automation Engineer (IJ Platform / Remote Development)",
     "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4779443101",
     "first_seen_utc": "2026-05-01 13:16:23"
+  },
+  "remoteok::1131414": {
+    "company": "Smart Working Solutions",
+    "title": "Digital Full Stack Engineer HR172",
+    "url": "https://remoteOK.com/remote-jobs/remote-digital-full-stack-engineer-hr172-smart-working-solutions-1131414",
+    "first_seen_utc": "2026-05-02 13:08:29"
+  },
+  "remoteok::1131402": {
+    "company": "Haast",
+    "title": "Founding Engineer",
+    "url": "https://remoteOK.com/remote-jobs/remote-founding-engineer-haast-1131402",
+    "first_seen_utc": "2026-05-02 13:08:29"
+  },
+  "remoteok::1131375": {
+    "company": "Andromeda Cluster",
+    "title": "Senior Site Reliability Engineer AI Infrastructure",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-site-reliability-engineer-ai-infrastructure-andromeda-cluster-1131375",
+    "first_seen_utc": "2026-05-02 13:08:29"
+  },
+  "remoteok::1131367": {
+    "company": "Syner-G",
+    "title": "Automation Engineer",
+    "url": "https://remoteOK.com/remote-jobs/remote-automation-engineer-syner-g-1131367",
+    "first_seen_utc": "2026-05-02 13:08:29"
+  },
+  "remoteok::1131365": {
+    "company": "Chime Financial, Inc",
+    "title": "Data Governance Engineer",
+    "url": "https://remoteOK.com/remote-jobs/remote-data-governance-engineer-chime-financial-inc-1131365",
+    "first_seen_utc": "2026-05-02 13:08:29"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/kasha-senior-devops-engineer": {
+    "company": "Kasha",
+    "title": "Senior DevOps Engineer",
+    "url": "https://weworkremotely.com/remote-jobs/kasha-senior-devops-engineer",
+    "first_seen_utc": "2026-05-02 13:08:29"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/vexxhost-openstack-cloud-engineer-devops": {
+    "company": "Vexxhost",
+    "title": "OpenStack Cloud Engineer (DevOps)",
+    "url": "https://weworkremotely.com/remote-jobs/vexxhost-openstack-cloud-engineer-devops",
+    "first_seen_utc": "2026-05-02 13:08:29"
+  },
+  "greenhouse::7863467": {
+    "company": "airbnb",
+    "title": "Senior Web Automation Engineer, Quality Platform",
+    "url": "https://careers.airbnb.com/positions/7863467?gh_jid=7863467",
+    "first_seen_utc": "2026-05-02 13:08:29"
   }
 }
