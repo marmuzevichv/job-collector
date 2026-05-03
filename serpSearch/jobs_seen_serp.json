@@ -1,526 +1,4 @@
 {
-  "serp::https://jobs.lever.co/mcgovern/885d7a1a-16f6-4326-9d7c-da7404dfd1f5": {
-    "company": "mcgovern",
-    "title": "Patrick J McGovern Foundation",
-    "url": "https://jobs.lever.co/mcgovern/885d7a1a-16f6-4326-9d7c-da7404dfd1f5",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://jobs.lever.co/biointellisense/0bbdecb1-4bb6-40bb-85e1-7683fb698753": {
-    "company": "biointellisense",
-    "title": "DevOps Engineer",
-    "url": "https://jobs.lever.co/biointellisense/0bbdecb1-4bb6-40bb-85e1-7683fb698753",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://jobs.lever.co/voleon/acecdcc4-f076-47d5-9ab9-a58a6e1995cc": {
-    "company": "voleon",
-    "title": "Site Reliability Engineer",
-    "url": "https://jobs.lever.co/voleon/acecdcc4-f076-47d5-9ab9-a58a6e1995cc",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://jobs.lever.co/paralleldomain/9d94e07a-4aae-44dd-856c-930cc6f39246": {
-    "company": "paralleldomain",
-    "title": "Senior Site Reliability Engineer",
-    "url": "https://jobs.lever.co/paralleldomain/9d94e07a-4aae-44dd-856c-930cc6f39246",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://jobs.lever.co/saga-xyz/012a47ad-c15a-47c3-a459-1f14058939dd": {
-    "company": "saga-xyz",
-    "title": "Senior Platform Engineer",
-    "url": "https://jobs.lever.co/saga-xyz/012a47ad-c15a-47c3-a459-1f14058939dd",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://jobs.lever.co/thinkahead/fa447be9-71c1-4979-80c5-04b61f3e5f48": {
-    "company": "thinkahead",
-    "title": "Senior Cloud Engineer",
-    "url": "https://jobs.lever.co/thinkahead/fa447be9-71c1-4979-80c5-04b61f3e5f48",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://jobs.lever.co/zencore/f15d7703-cffa-43a8-94f4-d1fb3f291900": {
-    "company": "zencore",
-    "title": "Senior Cloud Engineer (Short Term Contract)",
-    "url": "https://jobs.lever.co/zencore/f15d7703-cffa-43a8-94f4-d1fb3f291900",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://jobs.lever.co/xsolla/e577f207-fb50-4a49-bde2-2e86b5362a65": {
-    "company": "xsolla",
-    "title": "Senior Network/Infrastructure engineer",
-    "url": "https://jobs.lever.co/xsolla/e577f207-fb50-4a49-bde2-2e86b5362a65",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://jobs.lever.co/serverfarm/20759625-ff1f-4037-9f61-eefeb0415dbd": {
-    "company": "serverfarm",
-    "title": "Senior Critical Infrastructure Engineer",
-    "url": "https://jobs.lever.co/serverfarm/20759625-ff1f-4037-9f61-eefeb0415dbd",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://jobs.lever.co/trility/2b59f8df-2b2a-41e4-b05a-a164305a8403": {
-    "company": "trility",
-    "title": "Mid-Level DevSecOps Consultant",
-    "url": "https://jobs.lever.co/trility/2b59f8df-2b2a-41e4-b05a-a164305a8403",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://jobs.lever.co/standtogether/2f823c57-af9a-4cb4-999b-c8ca1d99befc/apply?lever-origin=applied&lever-source%5B%5D=Jobgether&utm_campaign=search&utm_medium=website": {
-    "company": "standtogether",
-    "title": "Senior DevSecOps Engineer",
-    "url": "https://jobs.lever.co/standtogether/2f823c57-af9a-4cb4-999b-c8ca1d99befc/apply?lever-origin=applied&lever-source%5B%5D=Jobgether&utm_campaign=search&utm_medium=website",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://jobs.lever.co/zencore/2f59f6de-ac72-46aa-81e4-9c4d2fceded9": {
-    "company": "zencore",
-    "title": "Senior Cloud Engineer, Infrastructure",
-    "url": "https://jobs.lever.co/zencore/2f59f6de-ac72-46aa-81e4-9c4d2fceded9",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://jobs.lever.co/weloglobal/e5371726-7b59-448e-8c01-bdcacd1551f9/apply": {
-    "company": "weloglobal",
-    "title": "Cloud Infrastructure Engineer",
-    "url": "https://jobs.lever.co/weloglobal/e5371726-7b59-448e-8c01-bdcacd1551f9/apply",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://jobs.lever.co/revealtech/b2a4cfb1-0470-4cf7-8706-e3a61c60ad36": {
-    "company": "revealtech",
-    "title": "Security Clearance Required",
-    "url": "https://jobs.lever.co/revealtech/b2a4cfb1-0470-4cf7-8706-e3a61c60ad36",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://jobs.lever.co/jobgether/0700ad5f-d27c-4eb4-810a-8a2214f7e22f": {
-    "company": "jobgether",
-    "title": "Senior Site Reliability Engineer",
-    "url": "https://jobs.lever.co/jobgether/0700ad5f-d27c-4eb4-810a-8a2214f7e22f",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://jobs.lever.co/talentwerx.io/c34df12d-8fd2-49bf-a3d4-867df8bfe551": {
-    "company": "talentwerx.io",
-    "title": "E01-L03 Reliability Engineer IV",
-    "url": "https://jobs.lever.co/talentwerx.io/c34df12d-8fd2-49bf-a3d4-867df8bfe551",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://boards.greenhouse.io/pathward/jobs/5980973004": {
-    "company": "pathward",
-    "title": "Job Application for DevOps Engineer II at Pathward, N.A.",
-    "url": "https://boards.greenhouse.io/pathward/jobs/5980973004",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://boards.greenhouse.io/paynearmeinc/jobs/4219271009": {
-    "company": "paynearmeinc",
-    "title": "Job Application for Sr. Site Reliability Engineer at PayNearMe, Inc.",
-    "url": "https://boards.greenhouse.io/paynearmeinc/jobs/4219271009",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://boards.greenhouse.io/andurilindustries/jobs/5055674007?gh_jid=5055674007": {
-    "company": "andurilindustries",
-    "title": "Job Application for Senior Site Reliability Engineer at Anduril ...",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5055674007?gh_jid=5055674007",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://boards.greenhouse.io/oscar/jobs/7847394": {
-    "company": "oscar",
-    "title": "Senior Security Engineer I, GRC",
-    "url": "https://boards.greenhouse.io/oscar/jobs/7847394",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://boards.greenhouse.io/defenseunicorns/jobs/5125786007": {
-    "company": "defenseunicorns",
-    "title": "Job Application for Front End Platform Engineer at Defense Unicorns",
-    "url": "https://boards.greenhouse.io/defenseunicorns/jobs/5125786007",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://boards.greenhouse.io/future/jobs/4685899005": {
-    "company": "future",
-    "title": "Job Application for Infrastructure Engineer at Future",
-    "url": "https://boards.greenhouse.io/future/jobs/4685899005",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://boards.greenhouse.io/dropbox/jobs/7739988": {
-    "company": "dropbox",
-    "title": "Senior Infrastructure Software Engineer, Filesystem",
-    "url": "https://boards.greenhouse.io/dropbox/jobs/7739988",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://boards.greenhouse.io/targetrwe/jobs/5204552008": {
-    "company": "targetrwe",
-    "title": "Job Application for Senior DevSecOps Engineer at Target RWE",
-    "url": "https://boards.greenhouse.io/targetrwe/jobs/5204552008",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://boards.greenhouse.io/bitmex/jobs/8530865002": {
-    "company": "bitmex",
-    "title": "Job Application for Senior Infrastructure Security Engineer at BitMEX",
-    "url": "https://boards.greenhouse.io/bitmex/jobs/8530865002",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://boards.greenhouse.io/andurilindustries/jobs/5117576007?gh_jid=5117576007": {
-    "company": "andurilindustries",
-    "title": "Senior Cloud Engineer, Multinational Digital Infrastructure",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5117576007?gh_jid=5117576007",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://boards.greenhouse.io/andurilindustries/jobs/5040112007?gh_jid=5040112007": {
-    "company": "andurilindustries",
-    "title": "Job Application for Cloud Infrastructure Engineer, Security at Anduril ...",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5040112007?gh_jid=5040112007",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://boards.greenhouse.io/juullabs/jobs/7872262": {
-    "company": "juullabs",
-    "title": "Job Application for Senior Site Reliability Engineer at Juul Labs",
-    "url": "https://boards.greenhouse.io/juullabs/jobs/7872262",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://job-boards.greenhouse.io/pathward/jobs/5980973004": {
-    "company": "pathward",
-    "title": "Job Application for DevOps Engineer II at Pathward, N.A.",
-    "url": "https://job-boards.greenhouse.io/pathward/jobs/5980973004",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::http://job-boards.greenhouse.io/rivaltechnologies/jobs/5132992008": {
-    "company": "rivaltechnologies",
-    "title": "Job Application for Senior DevOps Engineer at Rival Technologies",
-    "url": "http://job-boards.greenhouse.io/rivaltechnologies/jobs/5132992008",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::http://job-boards.greenhouse.io/55564patriot334567software868575745/jobs/4091852009": {
-    "company": "55564patriot334567software868575745",
-    "title": "Job Application for Senior DevOps Engineer at Patriot Software",
-    "url": "http://job-boards.greenhouse.io/55564patriot334567software868575745/jobs/4091852009",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::http://job-boards.greenhouse.io/transcendinc/jobs/4120702009": {
-    "company": "transcendinc",
-    "title": "Job Application for Senior Site Reliability Engineer at Transcend Inc.",
-    "url": "http://job-boards.greenhouse.io/transcendinc/jobs/4120702009",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::http://job-boards.greenhouse.io/rapidsos/jobs/5115767007": {
-    "company": "rapidsos",
-    "title": "Job Application for Senior Site Reliability Engineer at RapidSOS",
-    "url": "http://job-boards.greenhouse.io/rapidsos/jobs/5115767007",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::http://job-boards.greenhouse.io/tactilemedical/jobs/4113322009": {
-    "company": "tactilemedical",
-    "title": "Job Application for Senior Site Reliability Engineer at Tactile Medical",
-    "url": "http://job-boards.greenhouse.io/tactilemedical/jobs/4113322009",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::http://job-boards.greenhouse.io/censys/jobs/8492894002": {
-    "company": "censys",
-    "title": "Job Application for Senior Site Reliability Engineer at Censys",
-    "url": "http://job-boards.greenhouse.io/censys/jobs/8492894002",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::http://job-boards.greenhouse.io/duettoresearch/jobs/7749603": {
-    "company": "duettoresearch",
-    "title": "Job Application for Senior Site Reliability Engineer at Duetto Research",
-    "url": "http://job-boards.greenhouse.io/duettoresearch/jobs/7749603",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://job-boards.greenhouse.io/stubhubinc/jobs/4850341101": {
-    "company": "stubhubinc",
-    "title": "Job Application for Platform Engineer",
-    "url": "https://job-boards.greenhouse.io/stubhubinc/jobs/4850341101",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://job-boards.greenhouse.io/defenseunicorns/jobs/5125716007": {
-    "company": "defenseunicorns",
-    "title": "Job Application for Platform Engineer at Defense Unicorns",
-    "url": "https://job-boards.greenhouse.io/defenseunicorns/jobs/5125716007",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::http://job-boards.greenhouse.io/future/jobs/4685899005": {
-    "company": "future",
-    "title": "Job Application for Infrastructure Engineer at Future",
-    "url": "http://job-boards.greenhouse.io/future/jobs/4685899005",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::http://job-boards.greenhouse.io/rackner/jobs/4340012005": {
-    "company": "rackner",
-    "title": "Job Application for DevSecOps (Kubernetes) SME at Rackner",
-    "url": "http://job-boards.greenhouse.io/rackner/jobs/4340012005",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::http://job-boards.greenhouse.io/defcon/jobs/5049058007": {
-    "company": "defcon",
-    "title": "Senior DevSecOps / Platform Security Engineer (AWS + Kubernetes)",
-    "url": "http://job-boards.greenhouse.io/defcon/jobs/5049058007",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::http://job-boards.greenhouse.io/chaosindustries/jobs/5080618007": {
-    "company": "chaosindustries",
-    "title": "DevSecOps Engineer (Software Engineering Focus)",
-    "url": "http://job-boards.greenhouse.io/chaosindustries/jobs/5080618007",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::http://job-boards.greenhouse.io/stackav/jobs/5045844007": {
-    "company": "stackav",
-    "title": "Senior Cloud Software Engineer, Remote Assist",
-    "url": "http://job-boards.greenhouse.io/stackav/jobs/5045844007",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::http://job-boards.greenhouse.io/appliedintuition/jobs/4045252005": {
-    "company": "appliedintuition",
-    "title": "Cloud Infrastructure",
-    "url": "http://job-boards.greenhouse.io/appliedintuition/jobs/4045252005",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::http://job-boards.greenhouse.io/togetherai/jobs/4749787007": {
-    "company": "togetherai",
-    "title": "Together Cloud Infrastructure",
-    "url": "http://job-boards.greenhouse.io/togetherai/jobs/4749787007",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::http://job-boards.greenhouse.io/elliginthealth/jobs/8297566002": {
-    "company": "elliginthealth",
-    "title": "Job Application for DevOps/Site Reliability Engineer (SRE) at Elligint ...",
-    "url": "http://job-boards.greenhouse.io/elliginthealth/jobs/8297566002",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://jobs.ashbyhq.com/hudu/5f66ec80-c6ac-452d-8d70-6b164880bb23": {
-    "company": "hudu",
-    "title": "DevOps Engineer @ Hudu",
-    "url": "https://jobs.ashbyhq.com/hudu/5f66ec80-c6ac-452d-8d70-6b164880bb23",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://jobs.ashbyhq.com/jump-app/b53f05ce-9647-4474-b9ae-b3cc3ba6e9b8": {
-    "company": "jump-app",
-    "title": "U.S. Senior DevOps Engineer @ Jump",
-    "url": "https://jobs.ashbyhq.com/jump-app/b53f05ce-9647-4474-b9ae-b3cc3ba6e9b8",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://jobs.ashbyhq.com/dualentry/48e74b80-5a0f-42f1-a6c5-c38cab30f526": {
-    "company": "dualentry",
-    "title": "Senior DevOps Engineer @ DualEntry",
-    "url": "https://jobs.ashbyhq.com/dualentry/48e74b80-5a0f-42f1-a6c5-c38cab30f526",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/2cd09131-55dc-461e-8278-1f0b3b46cf33": {
-    "company": "superhuman%20platform%20inc",
-    "title": "Site Reliability Engineer @ Superhuman",
-    "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/2cd09131-55dc-461e-8278-1f0b3b46cf33",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://jobs.ashbyhq.com/comulate/b553bfae-6722-4d3f-8585-372c98708996": {
-    "company": "comulate",
-    "title": "Platform Engineer @ Comulate",
-    "url": "https://jobs.ashbyhq.com/comulate/b553bfae-6722-4d3f-8585-372c98708996",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://jobs.ashbyhq.com/neurons-lab.com/5d68e277-aef9-4fbe-9416-bfbb672c7722": {
-    "company": "neurons-lab.com",
-    "title": "AWS AI Cloud Engineer (part-time) @ Neurons Lab",
-    "url": "https://jobs.ashbyhq.com/neurons-lab.com/5d68e277-aef9-4fbe-9416-bfbb672c7722",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://jobs.ashbyhq.com/mercor/f6ef82f1-c711-4a19-a9be-6bc04a2b776c": {
-    "company": "mercor",
-    "title": "Security Engineer, Cloud Infrastructure @ Mercor",
-    "url": "https://jobs.ashbyhq.com/mercor/f6ef82f1-c711-4a19-a9be-6bc04a2b776c",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://jobs.ashbyhq.com/tessera-labs/3f8e8ada-2727-409a-991d-a31245b314c7": {
-    "company": "tessera-labs",
-    "title": "Cloud Infrastructure/DevOps Engineer @ Tessera Labs",
-    "url": "https://jobs.ashbyhq.com/tessera-labs/3f8e8ada-2727-409a-991d-a31245b314c7",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://apply.workable.com/openfn/j/0E87901117": {
-    "company": "openfn",
-    "title": "Jobs By Workable",
-    "url": "https://apply.workable.com/openfn/j/0E87901117",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://apply.workable.com/manilarecruitment/j/71ABD01BC5/": {
-    "company": "manilarecruitment",
-    "title": "Site Reliability Engineer (Remote)",
-    "url": "https://apply.workable.com/manilarecruitment/j/71ABD01BC5/",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://apply.workable.com/constructor-1/j/AF8722AD81/apply/": {
-    "company": "constructor-1",
-    "title": "Platform Engineer: Platform Infrastructure (Remote)",
-    "url": "https://apply.workable.com/constructor-1/j/AF8722AD81/apply/",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://apply.workable.com/tetrascience/j/444086D7AE/": {
-    "company": "tetrascience",
-    "title": "Senior Software Platform Engineer",
-    "url": "https://apply.workable.com/tetrascience/j/444086D7AE/",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://apply.workable.com/mindex/j/6A6268225F/": {
-    "company": "mindex",
-    "title": "Jobs By Workable",
-    "url": "https://apply.workable.com/mindex/j/6A6268225F/",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://apply.workable.com/mindex/j/6A6268225F/apply/": {
-    "company": "mindex",
-    "title": "Jobs By Workable",
-    "url": "https://apply.workable.com/mindex/j/6A6268225F/apply/",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://apply.workable.com/the-ripple-way/j/43A4EB5641": {
-    "company": "the-ripple-way",
-    "title": "NLM Cloud/System Engineer",
-    "url": "https://apply.workable.com/the-ripple-way/j/43A4EB5641",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://apply.workable.com/terabase-energy/j/5E8EEB1087/": {
-    "company": "terabase-energy",
-    "title": "IT Infrastructure Engineer",
-    "url": "https://apply.workable.com/terabase-energy/j/5E8EEB1087/",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://apply.workable.com/terabase-energy/j/5E8EEB1087?utm_source=Breakthrough+Energy+Ventures+job+board&utm_medium=getro.com&gh_src=Breakthrough+Energy+Ventures+job+board": {
-    "company": "terabase-energy",
-    "title": "IT Infrastructure Engineer",
-    "url": "https://apply.workable.com/terabase-energy/j/5E8EEB1087?utm_source=Breakthrough+Energy+Ventures+job+board&utm_medium=getro.com&gh_src=Breakthrough+Energy+Ventures+job+board",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://apply.workable.com/surglobal/j/E3CBBEABF3": {
-    "company": "surglobal",
-    "title": "Windows Infrastructure Engineer",
-    "url": "https://apply.workable.com/surglobal/j/E3CBBEABF3",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://apply.workable.com/fioneer/j/DC6BCC3CA4/": {
-    "company": "fioneer",
-    "title": "Senior DevSecOps",
-    "url": "https://apply.workable.com/fioneer/j/DC6BCC3CA4/",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://apply.workable.com/goreel/j/36F162395B/": {
-    "company": "goreel",
-    "title": "Senior DevSecOps Engineer",
-    "url": "https://apply.workable.com/goreel/j/36F162395B/",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://apply.workable.com/alex-staff-agency-careers/j/FC9253089D/": {
-    "company": "alex-staff-agency-careers",
-    "title": "Cloud / Platform Engineer (Remote)",
-    "url": "https://apply.workable.com/alex-staff-agency-careers/j/FC9253089D/",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://apply.workable.com/clearlyagile/j/6B01739B1D/": {
-    "company": "clearlyagile",
-    "title": "Technical Product Owner",
-    "url": "https://apply.workable.com/clearlyagile/j/6B01739B1D/",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://apply.workable.com/j/A262A42E8B?utm_source=Jobgether&utm_content=69e905e8c646310ee397a3a2-site-reliability-engineer-remote&utm_campaign=search&utm_medium=website": {
-    "company": "j",
-    "title": "Site Reliability Engineer (Remote)",
-    "url": "https://apply.workable.com/j/A262A42E8B?utm_source=Jobgether&utm_content=69e905e8c646310ee397a3a2-site-reliability-engineer-remote&utm_campaign=search&utm_medium=website",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://jobs.smartrecruiters.com/AccoliteInc/743999662588883-devops-remote-position-": {
-    "company": "accoliteinc",
-    "title": "Accolite Inc. DevOps (Remote Position)",
-    "url": "https://jobs.smartrecruiters.com/AccoliteInc/743999662588883-devops-remote-position-",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://jobs.smartrecruiters.com/SYSTABUILDSoftwareGroup/744000108440655-junior-devops-engineer-m-w-d-": {
-    "company": "systabuildsoftwaregroup",
-    "title": "SYSTABUILD Software Group Junior DevOps Engineer (m/w/d)",
-    "url": "https://jobs.smartrecruiters.com/SYSTABUILDSoftwareGroup/744000108440655-junior-devops-engineer-m-w-d-",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://jobs.smartrecruiters.com/ParlayGames/743999901606706-senior-aws-devops-engineer-web3-igaming-remote": {
-    "company": "parlaygames",
-    "title": "Senior AWS DevOps Engineer (Web3- iGaming)",
-    "url": "https://jobs.smartrecruiters.com/ParlayGames/743999901606706-senior-aws-devops-engineer-web3-igaming-remote",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://jobs.smartrecruiters.com/RenesasElectronics/744000122343590-devops-engineer": {
-    "company": "renesaselectronics",
-    "title": "Renesas Electronics DevOps Engineer",
-    "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000122343590-devops-engineer",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://jobs.smartrecruiters.com/360ITProfessionals1/743999651587409-remote-devops-engineer": {
-    "company": "360itprofessionals1",
-    "title": "360 IT Professionals Remote Devops Engineer",
-    "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/743999651587409-remote-devops-engineer",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://jobs.smartrecruiters.com/AbbVie/3743990012898447-senior-site-reliability-engineer-remote-": {
-    "company": "abbvie",
-    "title": "AbbVie Senior Site Reliability Engineer (Remote)",
-    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990012898447-senior-site-reliability-engineer-remote-",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://jobs.smartrecruiters.com/ComtechLLC2/743999659088844-sr-site-reliability-engineer?oga=true&trid=8dc3fc18-7d27-474f-af15-47b783076ace": {
-    "company": "comtechllc2",
-    "title": "Sr. Site Reliability Engineer",
-    "url": "https://jobs.smartrecruiters.com/ComtechLLC2/743999659088844-sr-site-reliability-engineer?oga=true&trid=8dc3fc18-7d27-474f-af15-47b783076ace",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://jobs.smartrecruiters.com/HelloKindred/3743990011797086-site-reliability-engineer-sre-": {
-    "company": "hellokindred",
-    "title": "HelloKindred Site Reliability Engineer (SRE)",
-    "url": "https://jobs.smartrecruiters.com/HelloKindred/3743990011797086-site-reliability-engineer-sre-",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://jobs.smartrecruiters.com/Bet3651/744000120940847-site-reliability-engineer": {
-    "company": "bet3651",
-    "title": "bet365 Site Reliability Engineer",
-    "url": "https://jobs.smartrecruiters.com/Bet3651/744000120940847-site-reliability-engineer",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://jobs.smartrecruiters.com/IFS1/744000120859977-senior-site-reliability-engineer": {
-    "company": "ifs1",
-    "title": "IFS Senior Site Reliability Engineer",
-    "url": "https://jobs.smartrecruiters.com/IFS1/744000120859977-senior-site-reliability-engineer",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://jobs.smartrecruiters.com/OteemoInc/744000117970363-platform-engineer": {
-    "company": "oteemoinc",
-    "title": "Oteemo, Inc Platform Engineer",
-    "url": "https://jobs.smartrecruiters.com/OteemoInc/744000117970363-platform-engineer",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://jobs.smartrecruiters.com/goldstonepartners/744000121861587-senior-azure-engineer-us-remote": {
-    "company": "goldstonepartners",
-    "title": "Goldstone Partners, Inc. Senior Azure Engineer",
-    "url": "https://jobs.smartrecruiters.com/goldstonepartners/744000121861587-senior-azure-engineer-us-remote",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://jobs.smartrecruiters.com/AbbVie/3743990011939566-cloud-security-engineer-remote-": {
-    "company": "abbvie",
-    "title": "AbbVie Cloud Security Engineer (Remote)",
-    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990011939566-cloud-security-engineer-remote-",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://jobs.smartrecruiters.com/Workila/92102813-infrastructure-engineer": {
-    "company": "workila",
-    "title": "Workila Infrastructure Engineer",
-    "url": "https://jobs.smartrecruiters.com/Workila/92102813-infrastructure-engineer",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://jobs.smartrecruiters.com/abbvie/3743990012925385-senior-devsecops-engineer-platform-and-tooling-remote-": {
-    "company": "abbvie",
-    "title": "AbbVie Senior DevSecOps Engineer",
-    "url": "https://jobs.smartrecruiters.com/abbvie/3743990012925385-senior-devsecops-engineer-platform-and-tooling-remote-",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://jobs.smartrecruiters.com/Experian/744000123502886-dev-sec-ops-engineer-senior": {
-    "company": "experian",
-    "title": "Experian Dev Sec Ops Engineer Senior",
-    "url": "https://jobs.smartrecruiters.com/Experian/744000123502886-dev-sec-ops-engineer-senior",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://jobs.smartrecruiters.com/Dev2/743999785102409-regular-senior-security-engineer-secops": {
-    "company": "dev2",
-    "title": "Dev Regular/Senior Security Engineer, SecOps",
-    "url": "https://jobs.smartrecruiters.com/Dev2/743999785102409-regular-senior-security-engineer-secops",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
-  "serp::https://jobs.smartrecruiters.com/Cyberark1/744000123837209-staff-sdet": {
-    "company": "cyberark1",
-    "title": "Performance & Reliability (Cloud Platform)",
-    "url": "https://jobs.smartrecruiters.com/Cyberark1/744000123837209-staff-sdet",
-    "first_seen_utc": "2026-05-01 12:52:43"
-  },
   "serp::https://jobs.lever.co/pointclickcare/53e0c620-e7e9-4e54-90f5-3ff2bff10a35": {
     "company": "pointclickcare",
     "title": "Senior AI-Enabled DevOps Engineer",
@@ -2074,5 +1552,551 @@
     "title": "Renesas Electronics Senior Reliability Engineer",
     "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000122394610-senior-reliability-engineer",
     "first_seen_utc": "2026-05-02 12:43:06"
+  },
+  "serp::https://jobs.lever.co/mcgovern/885d7a1a-16f6-4326-9d7c-da7404dfd1f5": {
+    "company": "mcgovern",
+    "title": "Patrick J McGovern Foundation",
+    "url": "https://jobs.lever.co/mcgovern/885d7a1a-16f6-4326-9d7c-da7404dfd1f5",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.lever.co/biointellisense/0bbdecb1-4bb6-40bb-85e1-7683fb698753": {
+    "company": "biointellisense",
+    "title": "DevOps Engineer",
+    "url": "https://jobs.lever.co/biointellisense/0bbdecb1-4bb6-40bb-85e1-7683fb698753",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.lever.co/jobgether/0700ad5f-d27c-4eb4-810a-8a2214f7e22f": {
+    "company": "jobgether",
+    "title": "Senior Site Reliability Engineer",
+    "url": "https://jobs.lever.co/jobgether/0700ad5f-d27c-4eb4-810a-8a2214f7e22f",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.lever.co/voleon/acecdcc4-f076-47d5-9ab9-a58a6e1995cc": {
+    "company": "voleon",
+    "title": "Site Reliability Engineer",
+    "url": "https://jobs.lever.co/voleon/acecdcc4-f076-47d5-9ab9-a58a6e1995cc",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.lever.co/hatchit/38f8edb7-45b1-44a0-9e50-b4c65dd9b944": {
+    "company": "hatchit",
+    "title": "Site Reliability Engineer (SRE)",
+    "url": "https://jobs.lever.co/hatchit/38f8edb7-45b1-44a0-9e50-b4c65dd9b944",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.lever.co/jobgether/8e344b9e-0ab0-4997-a7cc-c00f396d5992": {
+    "company": "jobgether",
+    "title": "Platform Engineer",
+    "url": "https://jobs.lever.co/jobgether/8e344b9e-0ab0-4997-a7cc-c00f396d5992",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.lever.co/moonpay/0d93730a-fe32-474b-80eb-c7952486b514/?utm_medium=organic&utm_source=ihiretechnology&utm_campaign=ihire-free&utm_term=&utm_content=job-applies": {
+    "company": "moonpay",
+    "title": "Senior Platform Engineer",
+    "url": "https://jobs.lever.co/moonpay/0d93730a-fe32-474b-80eb-c7952486b514/?utm_medium=organic&utm_source=ihiretechnology&utm_campaign=ihire-free&utm_term=&utm_content=job-applies",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.lever.co/palantir/666d13c7-c6f0-43fb-a0ab-091c338085dc": {
+    "company": "palantir",
+    "title": "Identity and Access Management (IAM)",
+    "url": "https://jobs.lever.co/palantir/666d13c7-c6f0-43fb-a0ab-091c338085dc",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.lever.co/thinkahead/fa447be9-71c1-4979-80c5-04b61f3e5f48": {
+    "company": "thinkahead",
+    "title": "Senior Cloud Engineer",
+    "url": "https://jobs.lever.co/thinkahead/fa447be9-71c1-4979-80c5-04b61f3e5f48",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.lever.co/zencore/f15d7703-cffa-43a8-94f4-d1fb3f291900": {
+    "company": "zencore",
+    "title": "Senior Cloud Engineer (Short Term Contract)",
+    "url": "https://jobs.lever.co/zencore/f15d7703-cffa-43a8-94f4-d1fb3f291900",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.lever.co/xsolla/e577f207-fb50-4a49-bde2-2e86b5362a65": {
+    "company": "xsolla",
+    "title": "Senior Network/Infrastructure engineer",
+    "url": "https://jobs.lever.co/xsolla/e577f207-fb50-4a49-bde2-2e86b5362a65",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.lever.co/trility/2b59f8df-2b2a-41e4-b05a-a164305a8403": {
+    "company": "trility",
+    "title": "Mid-Level DevSecOps Consultant",
+    "url": "https://jobs.lever.co/trility/2b59f8df-2b2a-41e4-b05a-a164305a8403",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.lever.co/3eco/82cc218d-1c23-4f46-b361-3abc4e561294": {
+    "company": "3eco",
+    "title": "DevSecOps Engineering Team Lead",
+    "url": "https://jobs.lever.co/3eco/82cc218d-1c23-4f46-b361-3abc4e561294",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.lever.co/revealtech/b2a4cfb1-0470-4cf7-8706-e3a61c60ad36": {
+    "company": "revealtech",
+    "title": "Security Clearance Required",
+    "url": "https://jobs.lever.co/revealtech/b2a4cfb1-0470-4cf7-8706-e3a61c60ad36",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.lever.co/weloglobal/e5371726-7b59-448e-8c01-bdcacd1551f9/apply": {
+    "company": "weloglobal",
+    "title": "Cloud Infrastructure Engineer",
+    "url": "https://jobs.lever.co/weloglobal/e5371726-7b59-448e-8c01-bdcacd1551f9/apply",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.lever.co/impossiblecloud/4fd0946c-0b2f-4305-bcea-c57019c5cfe0?source=remote.com&utm_source=remote.com&ref=remote.com": {
+    "company": "impossiblecloud",
+    "title": "Platform Engineer (Bare Metal)",
+    "url": "https://jobs.lever.co/impossiblecloud/4fd0946c-0b2f-4305-bcea-c57019c5cfe0?source=remote.com&utm_source=remote.com&ref=remote.com",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.lever.co/filevine/6c5e505e-8190-4813-8bf2-d08db49a4c74": {
+    "company": "filevine",
+    "title": "Senior Database Reliability Engineer",
+    "url": "https://jobs.lever.co/filevine/6c5e505e-8190-4813-8bf2-d08db49a4c74",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.lever.co/talentwerx.io/c34df12d-8fd2-49bf-a3d4-867df8bfe551": {
+    "company": "talentwerx.io",
+    "title": "E01-L03 Reliability Engineer IV",
+    "url": "https://jobs.lever.co/talentwerx.io/c34df12d-8fd2-49bf-a3d4-867df8bfe551",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.lever.co/certifid/ea61bb47-69b8-4777-ab3f-65057fe6c5a6": {
+    "company": "certifid",
+    "title": "Senior Site Reliability Engineer",
+    "url": "https://jobs.lever.co/certifid/ea61bb47-69b8-4777-ab3f-65057fe6c5a6",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://boards.greenhouse.io/pathward/jobs/5980973004": {
+    "company": "pathward",
+    "title": "Job Application for DevOps Engineer II at Pathward, N.A.",
+    "url": "https://boards.greenhouse.io/pathward/jobs/5980973004",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://boards.greenhouse.io/mark43/jobs/6857733": {
+    "company": "mark43",
+    "title": "A public safety tech company made for your mission.",
+    "url": "https://boards.greenhouse.io/mark43/jobs/6857733",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://boards.greenhouse.io/paynearmeinc/jobs/4219271009": {
+    "company": "paynearmeinc",
+    "title": "Job Application for Sr. Site Reliability Engineer at PayNearMe, Inc.",
+    "url": "https://boards.greenhouse.io/paynearmeinc/jobs/4219271009",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://boards.greenhouse.io/juullabs/jobs/7872262": {
+    "company": "juullabs",
+    "title": "Job Application for Senior Site Reliability Engineer at Juul Labs",
+    "url": "https://boards.greenhouse.io/juullabs/jobs/7872262",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://boards.greenhouse.io/defenseunicorns/jobs/5125786007": {
+    "company": "defenseunicorns",
+    "title": "Job Application for Front End Platform Engineer at Defense Unicorns",
+    "url": "https://boards.greenhouse.io/defenseunicorns/jobs/5125786007",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://boards.greenhouse.io/adyen/jobs/7547055": {
+    "company": "adyen",
+    "title": "Job Application for Senior Platform Engineer at Adyen",
+    "url": "https://boards.greenhouse.io/adyen/jobs/7547055",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://boards.greenhouse.io/veeamsoftware/jobs/4775446101": {
+    "company": "veeamsoftware",
+    "title": "Cloud Platform Engineer (Azure/AWS)",
+    "url": "https://boards.greenhouse.io/veeamsoftware/jobs/4775446101",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://boards.greenhouse.io/dropbox/jobs/7739988": {
+    "company": "dropbox",
+    "title": "Senior Infrastructure Software Engineer, Filesystem",
+    "url": "https://boards.greenhouse.io/dropbox/jobs/7739988",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://boards.greenhouse.io/thoughtworks/jobs/7686623": {
+    "company": "thoughtworks",
+    "title": "Thoughtworks",
+    "url": "https://boards.greenhouse.io/thoughtworks/jobs/7686623",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://boards.greenhouse.io/targetrwe/jobs/5204552008": {
+    "company": "targetrwe",
+    "title": "Job Application for Senior DevSecOps Engineer at Target RWE",
+    "url": "https://boards.greenhouse.io/targetrwe/jobs/5204552008",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://boards.greenhouse.io/aerospike/jobs/8515879002": {
+    "company": "aerospike",
+    "title": "Job Application for Support Engineer at Aerospike",
+    "url": "https://boards.greenhouse.io/aerospike/jobs/8515879002",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://boards.greenhouse.io/samsara/jobs/7848363": {
+    "company": "samsara",
+    "title": "Sales Engineer I, SE Desk TOLA",
+    "url": "https://boards.greenhouse.io/samsara/jobs/7848363",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://boards.greenhouse.io/andurilindustries/jobs/5040112007?gh_jid=5040112007": {
+    "company": "andurilindustries",
+    "title": "Job Application for Cloud Infrastructure Engineer, Security at Anduril ...",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5040112007?gh_jid=5040112007",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::http://job-boards.greenhouse.io/55564patriot334567software868575745/jobs/4091852009": {
+    "company": "55564patriot334567software868575745",
+    "title": "Job Application for Senior DevOps Engineer at Patriot Software",
+    "url": "http://job-boards.greenhouse.io/55564patriot334567software868575745/jobs/4091852009",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::http://job-boards.greenhouse.io/rivaltechnologies/jobs/5132992008": {
+    "company": "rivaltechnologies",
+    "title": "Job Application for Senior DevOps Engineer at Rival Technologies",
+    "url": "http://job-boards.greenhouse.io/rivaltechnologies/jobs/5132992008",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::http://job-boards.greenhouse.io/transcendinc/jobs/4120702009": {
+    "company": "transcendinc",
+    "title": "Job Application for Senior Site Reliability Engineer at Transcend Inc.",
+    "url": "http://job-boards.greenhouse.io/transcendinc/jobs/4120702009",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::http://job-boards.greenhouse.io/censys/jobs/8492894002": {
+    "company": "censys",
+    "title": "Job Application for Senior Site Reliability Engineer at Censys",
+    "url": "http://job-boards.greenhouse.io/censys/jobs/8492894002",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::http://job-boards.greenhouse.io/duettoresearch/jobs/7749603": {
+    "company": "duettoresearch",
+    "title": "Job Application for Senior Site Reliability Engineer at Duetto Research",
+    "url": "http://job-boards.greenhouse.io/duettoresearch/jobs/7749603",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::http://job-boards.greenhouse.io/archer56/jobs/7580128003": {
+    "company": "archer56",
+    "title": "Job Application for Senior Site Reliability Engineer (SRE) at Archer",
+    "url": "http://job-boards.greenhouse.io/archer56/jobs/7580128003",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::http://job-boards.greenhouse.io/elliginthealth/jobs/8297566002": {
+    "company": "elliginthealth",
+    "title": "Job Application for DevOps/Site Reliability Engineer (SRE) at Elligint ...",
+    "url": "http://job-boards.greenhouse.io/elliginthealth/jobs/8297566002",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::http://job-boards.greenhouse.io/rapidsos/jobs/5115767007": {
+    "company": "rapidsos",
+    "title": "Job Application for Senior Site Reliability Engineer at RapidSOS",
+    "url": "http://job-boards.greenhouse.io/rapidsos/jobs/5115767007",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://job-boards.greenhouse.io/worldlabs/jobs/4238069009": {
+    "company": "worldlabs",
+    "title": "Research Platform Engineer",
+    "url": "https://job-boards.greenhouse.io/worldlabs/jobs/4238069009",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::http://job-boards.greenhouse.io/defenseunicorns/jobs/5107178007": {
+    "company": "defenseunicorns",
+    "title": "Job Application for Platform Engineer at Defense Unicorns",
+    "url": "http://job-boards.greenhouse.io/defenseunicorns/jobs/5107178007",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::http://job-boards.greenhouse.io/atomicindustriesinc/jobs/4208424009": {
+    "company": "atomicindustriesinc",
+    "title": "Job Application for Infrastructure Engineer at Atomic Industries, Inc.",
+    "url": "http://job-boards.greenhouse.io/atomicindustriesinc/jobs/4208424009",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::http://job-boards.greenhouse.io/future/jobs/4685899005": {
+    "company": "future",
+    "title": "Job Application for Infrastructure Engineer at Future",
+    "url": "http://job-boards.greenhouse.io/future/jobs/4685899005",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::http://job-boards.greenhouse.io/rackner/jobs/4340012005": {
+    "company": "rackner",
+    "title": "Job Application for DevSecOps (Kubernetes) SME at Rackner",
+    "url": "http://job-boards.greenhouse.io/rackner/jobs/4340012005",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::http://job-boards.greenhouse.io/theweathercompany/jobs/5050445007": {
+    "company": "theweathercompany",
+    "title": "Job Application for SkillBridge",
+    "url": "http://job-boards.greenhouse.io/theweathercompany/jobs/5050445007",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://job-boards.greenhouse.io/targetrwe/jobs/5204552008": {
+    "company": "targetrwe",
+    "title": "Job Application for Senior DevSecOps Engineer at Target RWE",
+    "url": "https://job-boards.greenhouse.io/targetrwe/jobs/5204552008",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::http://job-boards.greenhouse.io/tribalscale/jobs/4653626006": {
+    "company": "tribalscale",
+    "title": "Job Application for Oracle Cloud Infrastructure Engineer at TribalScale",
+    "url": "http://job-boards.greenhouse.io/tribalscale/jobs/4653626006",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::http://job-boards.greenhouse.io/stackav/jobs/5045844007": {
+    "company": "stackav",
+    "title": "Senior Cloud Software Engineer, Remote Assist",
+    "url": "http://job-boards.greenhouse.io/stackav/jobs/5045844007",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.ashbyhq.com/hudu/5f66ec80-c6ac-452d-8d70-6b164880bb23": {
+    "company": "hudu",
+    "title": "DevOps Engineer @ Hudu",
+    "url": "https://jobs.ashbyhq.com/hudu/5f66ec80-c6ac-452d-8d70-6b164880bb23",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.ashbyhq.com/jump-app/b53f05ce-9647-4474-b9ae-b3cc3ba6e9b8": {
+    "company": "jump-app",
+    "title": "U.S. Senior DevOps Engineer @ Jump",
+    "url": "https://jobs.ashbyhq.com/jump-app/b53f05ce-9647-4474-b9ae-b3cc3ba6e9b8",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.ashbyhq.com/phonely/ca01bf39-b303-4f3d-a32a-b17fc4df7459": {
+    "company": "phonely",
+    "title": "DevOps Engineer @ Phonely",
+    "url": "https://jobs.ashbyhq.com/phonely/ca01bf39-b303-4f3d-a32a-b17fc4df7459",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.ashbyhq.com/anagram/72bc0471-ab17-4123-81fa-c1ee3921af1f": {
+    "company": "anagram",
+    "title": "Site Reliability Engineer @ Anagram",
+    "url": "https://jobs.ashbyhq.com/anagram/72bc0471-ab17-4123-81fa-c1ee3921af1f",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.ashbyhq.com/homevision/fb31c9cd-89c8-4001-8f51-303e504123e3/application": {
+    "company": "homevision",
+    "title": "Associate Site Reliability Engineer",
+    "url": "https://jobs.ashbyhq.com/homevision/fb31c9cd-89c8-4001-8f51-303e504123e3/application",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.ashbyhq.com/bunch/fbe6dc20-8ab2-443d-aac4-e05f3ba70cb8": {
+    "company": "bunch",
+    "title": "Senior Platform Engineer @ bunch",
+    "url": "https://jobs.ashbyhq.com/bunch/fbe6dc20-8ab2-443d-aac4-e05f3ba70cb8",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.ashbyhq.com/comulate/b553bfae-6722-4d3f-8585-372c98708996": {
+    "company": "comulate",
+    "title": "Platform Engineer @ Comulate",
+    "url": "https://jobs.ashbyhq.com/comulate/b553bfae-6722-4d3f-8585-372c98708996",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.ashbyhq.com/hireveterans/3e63cfc1-d33d-4945-bd9e-b1058e4c8139": {
+    "company": "hireveterans",
+    "title": "Azure Cloud Engineer @ Hire Veterans",
+    "url": "https://jobs.ashbyhq.com/hireveterans/3e63cfc1-d33d-4945-bd9e-b1058e4c8139",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.ashbyhq.com/mercor/f6ef82f1-c711-4a19-a9be-6bc04a2b776c": {
+    "company": "mercor",
+    "title": "Security Engineer, Cloud Infrastructure @ Mercor",
+    "url": "https://jobs.ashbyhq.com/mercor/f6ef82f1-c711-4a19-a9be-6bc04a2b776c",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.ashbyhq.com/opsmill/56f224ff-b952-4519-b871-50cc64cdadd0?embed=js": {
+    "company": "opsmill",
+    "title": "Product Reliability Engineer",
+    "url": "https://jobs.ashbyhq.com/opsmill/56f224ff-b952-4519-b871-50cc64cdadd0?embed=js",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.ashbyhq.com/runlayer/48700d2d-dcbc-4c6d-8fa1-cca50e0fdf5d": {
+    "company": "runlayer",
+    "title": "Site Reliability @ Runlayer",
+    "url": "https://jobs.ashbyhq.com/runlayer/48700d2d-dcbc-4c6d-8fa1-cca50e0fdf5d",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://apply.workable.com/idea-entity/j/5030D3F285/": {
+    "company": "idea-entity",
+    "title": "Azure DevOps Engineer/Network Engineer",
+    "url": "https://apply.workable.com/idea-entity/j/5030D3F285/",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://apply.workable.com/prepass/j/02E976D5B9/": {
+    "company": "prepass",
+    "title": "Jobs By Workable",
+    "url": "https://apply.workable.com/prepass/j/02E976D5B9/",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://apply.workable.com/j/A262A42E8B?utm_source=Jobgether&utm_content=69e905e8c646310ee397a3a2-site-reliability-engineer-remote&utm_campaign=search&utm_medium=website": {
+    "company": "j",
+    "title": "Site Reliability Engineer (Remote)",
+    "url": "https://apply.workable.com/j/A262A42E8B?utm_source=Jobgether&utm_content=69e905e8c646310ee397a3a2-site-reliability-engineer-remote&utm_campaign=search&utm_medium=website",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://apply.workable.com/constructor-1/j/AF8722AD81/apply/": {
+    "company": "constructor-1",
+    "title": "Platform Engineer: Platform Infrastructure (Remote)",
+    "url": "https://apply.workable.com/constructor-1/j/AF8722AD81/apply/",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://apply.workable.com/commercial-lending/j/900864697A/apply/": {
+    "company": "commercial-lending",
+    "title": "World Business Lenders, LLC",
+    "url": "https://apply.workable.com/commercial-lending/j/900864697A/apply/",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://apply.workable.com/mindex/j/6A6268225F/": {
+    "company": "mindex",
+    "title": "Jobs By Workable",
+    "url": "https://apply.workable.com/mindex/j/6A6268225F/",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://apply.workable.com/mindex/j/6A6268225F/apply/": {
+    "company": "mindex",
+    "title": "Cloud Engineer",
+    "url": "https://apply.workable.com/mindex/j/6A6268225F/apply/",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://apply.workable.com/szns/j/3091E289A0/": {
+    "company": "szns",
+    "title": "SZNS Solutions LLC",
+    "url": "https://apply.workable.com/szns/j/3091E289A0/",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://apply.workable.com/the-ripple-way/j/43A4EB5641": {
+    "company": "the-ripple-way",
+    "title": "NLM Cloud/System Engineer",
+    "url": "https://apply.workable.com/the-ripple-way/j/43A4EB5641",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://apply.workable.com/terabase-energy/j/5E8EEB1087/": {
+    "company": "terabase-energy",
+    "title": "IT Infrastructure Engineer",
+    "url": "https://apply.workable.com/terabase-energy/j/5E8EEB1087/",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://apply.workable.com/terabase-energy/j/5E8EEB1087?utm_source=Breakthrough+Energy+Ventures+job+board&utm_medium=getro.com&gh_src=Breakthrough+Energy+Ventures+job+board": {
+    "company": "terabase-energy",
+    "title": "IT Infrastructure Engineer",
+    "url": "https://apply.workable.com/terabase-energy/j/5E8EEB1087?utm_source=Breakthrough+Energy+Ventures+job+board&utm_medium=getro.com&gh_src=Breakthrough+Energy+Ventures+job+board",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://apply.workable.com/mlabs/j/918C17F086/": {
+    "company": "mlabs",
+    "title": "Senior Infrastructure Engineer",
+    "url": "https://apply.workable.com/mlabs/j/918C17F086/",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://apply.workable.com/maxana/j/2CAB987B38/apply/": {
+    "company": "maxana",
+    "title": "Infrastructure Engineer",
+    "url": "https://apply.workable.com/maxana/j/2CAB987B38/apply/",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://apply.workable.com/imetalx/j/620D0C0ED9/": {
+    "company": "imetalx",
+    "title": "CyberSecurity & DevSecOps Engineer",
+    "url": "https://apply.workable.com/imetalx/j/620D0C0ED9/",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://apply.workable.com/sidetrade/j/E69FF63939/": {
+    "company": "sidetrade",
+    "title": "DevSecOps Analyst",
+    "url": "https://apply.workable.com/sidetrade/j/E69FF63939/",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://apply.workable.com/cloudquery/": {
+    "company": "cloudquery",
+    "title": "Current Openings",
+    "url": "https://apply.workable.com/cloudquery/",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://apply.workable.com/healthcare-management-administrators/j/4C5AD572B2/apply/": {
+    "company": "healthcare-management-administrators",
+    "title": "Service Reliability Engineer II (Claims Operations)",
+    "url": "https://apply.workable.com/healthcare-management-administrators/j/4C5AD572B2/apply/",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://apply.workable.com/j/7031C8FA7C": {
+    "company": "j",
+    "title": "Customer Reliability Engineer (Fully Remote)",
+    "url": "https://apply.workable.com/j/7031C8FA7C",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.smartrecruiters.com/360ITProfessionals1/743999651587409-remote-devops-engineer": {
+    "company": "360itprofessionals1",
+    "title": "360 IT Professionals Remote Devops Engineer",
+    "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/743999651587409-remote-devops-engineer",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.smartrecruiters.com/AbbVie/3743990012898447-senior-site-reliability-engineer-remote-": {
+    "company": "abbvie",
+    "title": "AbbVie Senior Site Reliability Engineer (Remote)",
+    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990012898447-senior-site-reliability-engineer-remote-",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.smartrecruiters.com/HelloKindred/3743990011797086-site-reliability-engineer-sre-": {
+    "company": "hellokindred",
+    "title": "HelloKindred Site Reliability Engineer (SRE)",
+    "url": "https://jobs.smartrecruiters.com/HelloKindred/3743990011797086-site-reliability-engineer-sre-",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.smartrecruiters.com/AristaNetworks/744000095464732-fedramp-site-reliability-engineer-fedsre-cloudvision": {
+    "company": "aristanetworks",
+    "title": "FedRAMP Site Reliability Engineer (FedSRE)",
+    "url": "https://jobs.smartrecruiters.com/AristaNetworks/744000095464732-fedramp-site-reliability-engineer-fedsre-cloudvision",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.smartrecruiters.com/OteemoInc/744000117970363-platform-engineer": {
+    "company": "oteemoinc",
+    "title": "Oteemo, Inc Platform Engineer",
+    "url": "https://jobs.smartrecruiters.com/OteemoInc/744000117970363-platform-engineer",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.smartrecruiters.com/goldstonepartners/744000121861587-senior-azure-engineer-us-remote": {
+    "company": "goldstonepartners",
+    "title": "Goldstone Partners, Inc. Senior Azure Engineer",
+    "url": "https://jobs.smartrecruiters.com/goldstonepartners/744000121861587-senior-azure-engineer-us-remote",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.smartrecruiters.com/HarvardUniversity/3743990012305746-scientific-platform-engineer": {
+    "company": "harvarduniversity",
+    "title": "Harvard University Scientific Platform Engineer",
+    "url": "https://jobs.smartrecruiters.com/HarvardUniversity/3743990012305746-scientific-platform-engineer",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.smartrecruiters.com/AbbVie/3743990011939566-cloud-security-engineer-remote-": {
+    "company": "abbvie",
+    "title": "AbbVie Cloud Security Engineer (Remote)",
+    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990011939566-cloud-security-engineer-remote-",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.smartrecruiters.com/SonomaConsultingInc/91816547-remote-contract-opportunity-for-senior-cloud-engineer": {
+    "company": "sonomaconsultinginc",
+    "title": "Remote Contract Opportunity for Senior Cloud Engineer",
+    "url": "https://jobs.smartrecruiters.com/SonomaConsultingInc/91816547-remote-contract-opportunity-for-senior-cloud-engineer",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.smartrecruiters.com/Workila/92102813-infrastructure-engineer": {
+    "company": "workila",
+    "title": "Workila Infrastructure Engineer",
+    "url": "https://jobs.smartrecruiters.com/Workila/92102813-infrastructure-engineer",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.smartrecruiters.com/AbbVie/3743990012925385-senior-devsecops-engineer-platform-and-tooling-remote-": {
+    "company": "abbvie",
+    "title": "AbbVie Senior DevSecOps Engineer",
+    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990012925385-senior-devsecops-engineer-platform-and-tooling-remote-",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.smartrecruiters.com/Experian/744000123502886-dev-sec-ops-engineer-senior": {
+    "company": "experian",
+    "title": "Experian Dev Sec Ops Engineer Senior",
+    "url": "https://jobs.smartrecruiters.com/Experian/744000123502886-dev-sec-ops-engineer-senior",
+    "first_seen_utc": "2026-05-03 12:42:38"
+  },
+  "serp::https://jobs.smartrecruiters.com/IFS1/744000120859977-senior-site-reliability-engineer": {
+    "company": "ifs1",
+    "title": "IFS Senior Site Reliability Engineer",
+    "url": "https://jobs.smartrecruiters.com/IFS1/744000120859977-senior-site-reliability-engineer",
+    "first_seen_utc": "2026-05-03 12:42:38"
   }
 }
