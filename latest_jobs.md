@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-05-02 13:08 UTC
+Generated: 2026-05-03 13:08 UTC
 
-Total new jobs: 121
+Total new jobs: 110
 
 ## greenhouse
 
@@ -182,11 +182,11 @@ Total new jobs: 121
   - Company: gitlab
   - Location: Remote
 
-- [Intermediate Site Reliability Engineer, Environment Automation](https://job-boards.greenhouse.io/gitlab/jobs/8464417002)
+- [Intermediate Site Reliability Engineer, Environment Automation](https://job-boards.greenhouse.io/gitlab/jobs/8504232002)
   - Company: gitlab
   - Location: Remote
 
-- [Intermediate Site Reliability Engineer, Environment Automation](https://job-boards.greenhouse.io/gitlab/jobs/8504232002)
+- [Intermediate Site Reliability Engineer, Environment Automation](https://job-boards.greenhouse.io/gitlab/jobs/8464417002)
   - Company: gitlab
   - Location: Remote
 
@@ -242,11 +242,11 @@ Total new jobs: 121
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7821316)
+- [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7821318)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7821318)
+- [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7821316)
   - Company: mongodb
   - Location: Remote
 
@@ -254,11 +254,11 @@ Total new jobs: 121
   - Company: mongodb
   - Location: Remote
 
-- [Team Lead, Site Reliability Engineering - Storage Layer Service](https://www.mongodb.com/careers/job/?gh_jid=7818635)
+- [Team Lead, Site Reliability Engineering - Storage Layer Service](https://www.mongodb.com/careers/job/?gh_jid=7743304)
   - Company: mongodb
   - Location: Remote
 
-- [Team Lead, Site Reliability Engineering - Storage Layer Service](https://www.mongodb.com/careers/job/?gh_jid=7743304)
+- [Team Lead, Site Reliability Engineering - Storage Layer Service](https://www.mongodb.com/careers/job/?gh_jid=7818635)
   - Company: mongodb
   - Location: Remote
 
@@ -333,11 +333,6 @@ Total new jobs: 121
   - Location: USA
   - Level/Team: DevOps &amp; Infrastructure
 
-- [Senior Backend Engineer – Observability Ingest – Kubernetes Operator/Helm Chart | UK | Remote](https://jobicy.com/jobs/142463-senior-backend-engineer-observability-ingest-kubernetes-operator-helm-chart-uk-remote)
-  - Company: Grafana Labs
-  - Location: UK
-  - Level/Team: Software Engineering
-
 - [Cloud Operations Admin](https://jobicy.com/jobs/142149-cloud-operations-admin)
   - Company: Inspira Financial
   - Location: USA
@@ -348,21 +343,6 @@ Total new jobs: 121
 - [Senior SRE/DevOps Engineer](https://jobs.lever.co/metabase/1b702919-4d0b-4085-baec-8947f9b7e4ee)
   - Company: metabase
   - Location: Global Remote
-  - Level/Team: Engineering
-
-- [Senior Software Engineer - Data Infrastructure](https://jobs.lever.co/plaid/05b0ae3f-ec60-48d6-ae27-1bd89d928c47)
-  - Company: plaid
-  - Location: San Francisco
-  - Level/Team: Engineering
-
-- [Senior Software Engineer - ML Infrastructure](https://jobs.lever.co/plaid/16383203-9942-42be-9698-76207e2a500e)
-  - Company: plaid
-  - Location: San Francisco
-  - Level/Team: Engineering
-
-- [Software Engineer - Platform](https://jobs.lever.co/plaid/2b9a141e-0669-4197-aa52-2b07d9fadc96)
-  - Company: plaid
-  - Location: San Francisco
   - Level/Team: Engineering
 
 ## remoteok
@@ -382,14 +362,6 @@ Total new jobs: 121
 - [Founding Engineer](https://remoteOK.com/remote-jobs/remote-founding-engineer-haast-1131402)
   - Company: Haast
   - Location: New York
-
-- [Data Engineer](https://remoteOK.com/remote-jobs/remote-data-engineer-pivotal-health-1131305)
-  - Company: Pivotal Health
-  - Location: Los Angeles
-
-- [Full Stack Product Engineer](https://remoteOK.com/remote-jobs/remote-full-stack-product-engineer-pivotal-health-1131314)
-  - Company: Pivotal Health
-  - Location: Los Angeles
 
 - [Digital Full Stack Engineer HR172](https://remoteOK.com/remote-jobs/remote-digital-full-stack-engineer-hr172-smart-working-solutions-1131414)
   - Company: Smart Working Solutions
@@ -437,20 +409,8 @@ Total new jobs: 121
   - Company: Evolutioniq
   - Location: Remote
 
-- [ed3b ANALISTA DEVOPS III](https://weworkremotely.com/remote-jobs/extreme-digital-solutions-ed3b-analista-devops-iii)
-  - Company: Extreme Digital Solutions
-  - Location: Remote
-
 - [Senior DevOps Engineer - Delivery & Infrastructure Automation (m/f/d)](https://weworkremotely.com/remote-jobs/greenbone-senior-devops-engineer-delivery-infrastructure-automation-m-f-d)
   - Company: Greenbone
-  - Location: Remote
-
-- [Analista de Sustentação N1 - Dados (Azure & DevOps) - Pleno - 26181](https://weworkremotely.com/remote-jobs/grupo-taking-analista-de-sustentacao-n1-dados-azure-devops-pleno-26181)
-  - Company: Grupo Taking
-  - Location: Remote
-
-- [Senior Data DevOps Engineer](https://weworkremotely.com/remote-jobs/hard-rock-digital-senior-data-devops-engineer)
-  - Company: Hard Rock Digital
   - Location: Remote
 
 - [DevOps Lead](https://weworkremotely.com/remote-jobs/interop-labs-devops-lead)
@@ -467,14 +427,6 @@ Total new jobs: 121
 
 - [Senior DevOps Engineer](https://weworkremotely.com/remote-jobs/lemon-io-senior-devops-engineer-2)
   - Company: Lemon.io
-  - Location: Remote
-
-- [Profissional SRE/DevOps (AWS/Terraform) Sênior - Remoto](https://weworkremotely.com/remote-jobs/luby-profissional-sre-devops-aws-terraform-senior-remoto)
-  - Company: Luby
-  - Location: Remote
-
-- [Devops - Pleno e Sênior (Banco de Talentos)](https://weworkremotely.com/remote-jobs/matera-devops-pleno-e-senior-banco-de-talentos)
-  - Company: Matera
   - Location: Remote
 
 - [Devops](https://weworkremotely.com/remote-jobs/mutt-data-devops)
