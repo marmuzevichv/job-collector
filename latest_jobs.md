@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-05-03 13:08 UTC
+Generated: 2026-05-04 13:57 UTC
 
-Total new jobs: 110
+Total new jobs: 112
 
 ## greenhouse
 
@@ -158,11 +158,11 @@ Total new jobs: 110
   - Company: dropbox
   - Location: Remote
 
-- [Site Reliability Engineer (Mid / Senior) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=7721766&gh_jid=7721766)
+- [Site Reliability Engineer (Mid / Senior) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=7852721&gh_jid=7852721)
   - Company: elastic
   - Location: Remote
 
-- [Site Reliability Engineer (Mid / Senior) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=7852721&gh_jid=7852721)
+- [Site Reliability Engineer (Mid / Senior) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=7721766&gh_jid=7721766)
   - Company: elastic
   - Location: Remote
 
@@ -170,11 +170,11 @@ Total new jobs: 110
   - Company: fastly
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7581688003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7581685003)
   - Company: fivetran
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7581685003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7581688003)
   - Company: fivetran
   - Location: Remote
 
@@ -254,11 +254,11 @@ Total new jobs: 110
   - Company: mongodb
   - Location: Remote
 
-- [Team Lead, Site Reliability Engineering - Storage Layer Service](https://www.mongodb.com/careers/job/?gh_jid=7743304)
+- [Team Lead, Site Reliability Engineering - Storage Layer Service](https://www.mongodb.com/careers/job/?gh_jid=7818635)
   - Company: mongodb
   - Location: Remote
 
-- [Team Lead, Site Reliability Engineering - Storage Layer Service](https://www.mongodb.com/careers/job/?gh_jid=7818635)
+- [Team Lead, Site Reliability Engineering - Storage Layer Service](https://www.mongodb.com/careers/job/?gh_jid=7743304)
   - Company: mongodb
   - Location: Remote
 
@@ -338,6 +338,11 @@ Total new jobs: 110
   - Location: USA
   - Level/Team: DevOps &amp; Infrastructure
 
+- [Sr. Cloud Engineer](https://jobicy.com/jobs/143038-sr-cloud-engineer)
+  - Company: Inspira Financial
+  - Location: USA
+  - Level/Team: DevOps &amp; Infrastructure
+
 ## lever
 
 - [Senior SRE/DevOps Engineer](https://jobs.lever.co/metabase/1b702919-4d0b-4085-baec-8947f9b7e4ee)
@@ -350,6 +355,10 @@ Total new jobs: 110
 - [Senior Site Reliability Engineer AI Infrastructure](https://remoteOK.com/remote-jobs/remote-senior-site-reliability-engineer-ai-infrastructure-andromeda-cluster-1131375)
   - Company: Andromeda Cluster
   - Location: San Francisco
+
+- [Junior Mid Full Stack Software Engineer](https://remoteOK.com/remote-jobs/remote-junior-mid-full-stack-software-engineer-black-canyon-consulting-1131437)
+  - Company: Black Canyon Consulting
+  - Location: Bethesda
 
 - [Engineer Software](https://remoteOK.com/remote-jobs/remote-engineer-software-calabrio-1131345)
   - Company: Calabrio
