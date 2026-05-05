@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-05-04 13:57 UTC
+Generated: 2026-05-05 13:52 UTC
 
-Total new jobs: 112
+Total new jobs: 113
 
 ## greenhouse
 
@@ -215,6 +215,10 @@ Total new jobs: 112
   - Location: Remote
 
 - [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=7453323)
+  - Company: mongodb
+  - Location: Remote
+
+- [DevOps Consultant, Industry Solutions](https://www.mongodb.com/careers/job/?gh_jid=7767185)
   - Company: mongodb
   - Location: Remote
 
