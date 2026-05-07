@@ -65,6 +65,30 @@
     "collected_at_utc": "2026-05-06 14:07:53"
   },
   {
+    "source_type": "remoteok",
+    "company": "Akuity",
+    "title": "Senior Backend Engineer",
+    "location": "Worldwide",
+    "team": "",
+    "categories": [
+      "saas",
+      "developer",
+      "software",
+      "code",
+      "devops",
+      "senior",
+      "engineer",
+      "engineering",
+      "backend",
+      "digital nomad"
+    ],
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-akuity-1131479",
+    "external_id": "remoteok::1131479",
+    "description_snippet": "About Akuity With the move to the cloud, Kubernetes has become widely adopted by DevOps and Platform Engineering teams, but it has also added complexity. While scaling Kubernetes at Intuit, the Akuity founders started building Argo CD in order to streamline the adoption of Kubernetes. Argo CD helps ",
+    "posted_at": "2026-05-06T00:01:19+00:00",
+    "collected_at_utc": "2026-05-07 14:05:11"
+  },
+  {
     "source_type": "weworkremotely",
     "company": "Amadeus",
     "title": "Senior Sre - DevOps H/F",
@@ -654,6 +678,31 @@
     "description_snippet": "",
     "posted_at": "2026-04-21T15:53:17-04:00",
     "collected_at_utc": "2026-05-06 14:07:53"
+  },
+  {
+    "source_type": "remoteok",
+    "company": "Contact Government Services, LLC",
+    "title": "Senior Veritas eDiscovery Platform Engineer",
+    "location": "Worldwide",
+    "team": "",
+    "categories": [
+      "system",
+      "technical",
+      "support",
+      "growth",
+      "manager",
+      "financial",
+      "cloud",
+      "senior",
+      "legal",
+      "engineer",
+      "engineering"
+    ],
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-veritas-ediscovery-platform-engineer-contact-government-services-llc-1131484",
+    "external_id": "remoteok::1131484",
+    "description_snippet": "Senior Veritas eDiscovery Platform (eDP) Engineer Employment Type: Full-Time, Executive-Level Department: Legal &nbsp;&nbsp; &nbsp; CGS is seeking a dedicated Senior Veritas eDiscovery Platform (eDP) Engineer to join a fast-paced and hard-working team to assist with any legal accounts. As a Veritas ",
+    "posted_at": "2026-05-06T08:00:13+00:00",
+    "collected_at_utc": "2026-05-07 14:05:11"
   },
   {
     "source_type": "greenhouse",

@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-05-06 14:08 UTC
+Generated: 2026-05-07 14:05 UTC
 
-Total new jobs: 113
+Total new jobs: 115
 
 ## greenhouse
 
@@ -360,6 +360,10 @@ Total new jobs: 113
 
 ## remoteok
 
+- [Senior Backend Engineer](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-akuity-1131479)
+  - Company: Akuity
+  - Location: Worldwide
+
 - [Senior Site Reliability Engineer AI Infrastructure](https://remoteOK.com/remote-jobs/remote-senior-site-reliability-engineer-ai-infrastructure-andromeda-cluster-1131375)
   - Company: Andromeda Cluster
   - Location: San Francisco
@@ -371,6 +375,10 @@ Total new jobs: 113
 - [Data Governance Engineer](https://remoteOK.com/remote-jobs/remote-data-governance-engineer-chime-financial-inc-1131365)
   - Company: Chime Financial, Inc
   - Location: San Francisco
+
+- [Senior Veritas eDiscovery Platform Engineer](https://remoteOK.com/remote-jobs/remote-senior-veritas-ediscovery-platform-engineer-contact-government-services-llc-1131484)
+  - Company: Contact Government Services, LLC
+  - Location: Worldwide
 
 - [Founding Engineer](https://remoteOK.com/remote-jobs/remote-founding-engineer-haast-1131402)
   - Company: Haast
