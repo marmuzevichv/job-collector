@@ -1,7 +1,7 @@
 # Jobs via Adzuna API
 
-Generated: 2026-05-07 14:25 UTC
-Total jobs (24h window): 409
+Generated: 2026-05-08 14:00 UTC
+Total jobs (24h window): 475
 
 - [Remote job: DevOps Engineer (GCP & Elastic Stack)](https://www.adzuna.com/details/5720988884?utm_medium=api&utm_source=632a28fd)
   - Company: Veridian Tech | US
@@ -1638,3 +1638,267 @@ Total jobs (24h window): 409
 - [Sr. Software Engineer](https://www.adzuna.com/details/5665460172?utm_medium=api&utm_source=632a28fd)
   - Company: Suse Rgs | Reston, Fairfax County
   - Senior Software Engineer (Go & Kubernetes Expertise) Location: Remote COMPANY DESCRIPTION Rancher Government Solutions (...
+
+- [DevOps Testing Engineer](https://www.adzuna.com/details/5722265423?utm_medium=api&utm_source=632a28fd)
+  - Company: VDart Inc | US
+  - Job Title: DevOps Testing Engineer Location: Remote, must work EST business hours Start Date: June 8th, 2026 LOA: 6 mont...
+
+- [Terraform Cloud Engineer/ Terraform DevOps Engineer](https://www.adzuna.com/land/ad/5722185038?se=3L8AK-ZK8RGTeJHXTNwO2w&utm_medium=api&utm_source=632a28fd&v=BF409E80DC82D2C551F742893DCFD5496B45C0AB)
+  - Company: Aptino | US
+  - Job Title: Senior Terraform DevOps Engineer Location : Remote – US Job Summary: We are looking for a highly skilled Seni...
+
+- [AWS DevOps / SRE Engineer](https://www.adzuna.com/land/ad/5721791948?se=3L8AK-ZK8RGTeJHXTNwO2w&utm_medium=api&utm_source=632a28fd&v=1CC9E3D6E518C9A6F30AB413F516C7C16D0A8C5C)
+  - Company: Reliable Software Resources | US
+  - Hi, This open position is for one of our direct client and need someone who can workj on our W2. (Third party profiles a...
+
+- [DevOps/AI Ops Administrator](https://www.adzuna.com/details/5720991685?utm_medium=api&utm_source=632a28fd)
+  - Company: Openkyber | Alaska, US
+  - WE NEED W2 RESUMES ONLY -EAD, CITIZENS Title: Senior DevOps Engineer Location: 100% Remote Job Summary: Senior technical...
+
+- [Java Fullstack Engineer with AI](https://www.adzuna.com/details/5720991665?utm_medium=api&utm_source=632a28fd)
+  - Company: Openkyber | Alaska, US
+  - DevOps Engineer Location: Remote Start: May 2026 Duration: 12 Months (With possible extension) Active TS / SCI Clearance...
+
+- [DevOps Engineer - AEM](https://www.adzuna.com/land/ad/5715186436?se=PsTQK-ZK8RGTeJHXTNwO2w&utm_medium=api&utm_source=632a28fd&v=7BADCDBF2B8AAA3C4FB5E17E7013B4970F3F80F3)
+  - Company: PTR Global | US
+  - Position: Devops Engineer - AEM Location: Remote Duration: Contract Job ID: 176441 Job Overview: As an Engineer 2, you w...
+
+- [DevOps/AI Ops Administrator](https://www.adzuna.com/details/5714947230?utm_medium=api&utm_source=632a28fd)
+  - Company: Openkyber | Alaska, US
+  - Job Title: Senior DevOps Engineer Location: Remote - USA The AES Group is hiring an experienced Senior DevOps Engineer t...
+
+- [Site Reliability Engineer](https://www.adzuna.com/land/ad/5722239586?se=DKGxLOZK8RGTeJHXTNwO2w&utm_medium=api&utm_source=632a28fd&v=78EF5827887FD546C01AE1232251520BFC5716D6)
+  - Company: Vertical Falls LLC | US
+  - Site Reliability Engineer Remote 6 Months We are seeking a Site Reliability Engineer to use software engineering princip...
+
+- [Senior Software Engineer - Site Reliability (Remote)](https://www.adzuna.com/land/ad/5692751778?se=graELeZK8RGUL7H-gjYFTw&utm_medium=api&utm_source=632a28fd&v=6E2B2345CF0F6D3980CD90CC3E89A86A7271D1D9)
+  - Company: Home Depot | US
+  - With a career at The Home Depot, you can be yourself and also be part of something bigger. Position Purpose: The Senior ...
+
+- [Site Reliability Engineer (Remote)](https://www.adzuna.com/details/5689535994?utm_medium=api&utm_source=632a28fd)
+  - Company: Weedmaps | Austin, Travis County
+  - Site Reliability Engineer Overview: As a Site Reliability Engineer at Weedmaps you will work cross-departmentally with y...
+
+- [Site Reliability Engineer (Remote)](https://www.adzuna.com/details/5689518175?utm_medium=api&utm_source=632a28fd)
+  - Company: Weedmaps | New York City, New York
+  - Site Reliability Engineer Overview: As a Site Reliability Engineer at Weedmaps you will work cross-departmentally with y...
+
+- [Site Reliability Engineer / Google Cloud Platform / Remote](https://www.adzuna.com/land/ad/5683637277?se=graELeZK8RGUL7H-gjYFTw&utm_medium=api&utm_source=632a28fd&v=C7D908E3E660161F3F290E98D272B607E7D6A2E5)
+  - Company: Motion Recruitment Partners, LLC | US
+  - This is a Site Reliability Engineer opportunity supporting a high-scale platform in the real-money gaming and lottery sp...
+
+- [Site Reliability Engineer / Remote](https://www.adzuna.com/land/ad/5683626902?se=graELeZK8RGUL7H-gjYFTw&utm_medium=api&utm_source=632a28fd&v=ED7F59AE0759E4A01B5543C8229234B95254335F)
+  - Company: Motion Recruitment Partners, LLC | US
+  - Join a fast-moving gaming technology company as a Site Reliability Engineer, ensuring a real-money gaming platform opera...
+
+- [Sr. Site Reliability Engineer](https://www.adzuna.com/land/ad/5673192435?se=graELeZK8RGUL7H-gjYFTw&utm_medium=api&utm_source=632a28fd&v=F2DC83996281B9BC752AD7793A510267EE0EDD9D)
+  - Company: Intuitive Machines Llc | Kansas, US
+  - Sr. Site Reliability Engineer Remote, US About Intuitive Machines: Intuitive Machines is an innovative and cutting-edge ...
+
+- [Senior Site Reliability Engineer - Observability - Remote](https://www.adzuna.com/land/ad/5671624737?se=graELeZK8RGUL7H-gjYFTw&utm_medium=api&utm_source=632a28fd&v=23FD1D8B762C612C04006BB145E703518F00045D)
+  - Company: UnitedHealth Group | La Crosse, La Crosse County
+  - Requisition number: 2347744 Job category: Technology Opportunities with Logistics Health Incorporated (LHI), part of the...
+
+- [Site Reliability Engineer United States, Remote](https://www.adzuna.com/details/5669203913?utm_medium=api&utm_source=632a28fd)
+  - Company: ESRhealthcare and EXEC STAFF RECRUITERS | US
+  - Site Reliability Engineer United States, Remote Are you driven to be an innovative Site Reliability Engineer, and lookin...
+
+- [Senior Site Reliability Engineer (Remote)](https://www.adzuna.com/details/5664206293?utm_medium=api&utm_source=632a28fd)
+  - Company: AbbVie | Libertyville, Lake County
+  - Company Description About AbbVie AbbVie's mission is to discover and deliver innovative medicines and solutions that sol...
+
+- [Senior Site Reliability Engineer, Platform & Cloud FinOps (100% Remote - USA Central & EST)](https://www.adzuna.com/land/ad/5658045850?se=graELeZK8RGUL7H-gjYFTw&utm_medium=api&utm_source=632a28fd&v=E8C58645ADC047DBBAC73A9F2176B61D2493C0D0)
+  - Company: Hopper | New York City, New York
+  - About the job We are looking for a senior site reliability engineer to join the Cloud FinOps team at Hopper. We manage a...
+
+- [Senior Site Reliability Engineer, Platform & Cloud FinOps (100% Remote - USA Central & EST)](https://www.adzuna.com/land/ad/5657697637?se=graELeZK8RGUL7H-gjYFTw&utm_medium=api&utm_source=632a28fd&v=3E84C6ADB321D7898F04EDB166ED0FAE2855C4DC)
+  - Company: Hopper | Boston, Suffolk County
+  - About the job We are looking for a senior site reliability engineer to join the Cloud FinOps team at Hopper. We manage a...
+
+- [Blockchain Site Reliability Engineer](https://www.adzuna.com/details/5574694957?utm_medium=api&utm_source=632a28fd)
+  - Company: InfStones | Texas, US
+  - Job Position: Blockchain Site Reliability Engineer Location: Dallas, TX, USA (Remote Acceptable) Company: https://infsto...
+
+- [Site Reliability Engineer (USA Only - 100% Remote)](https://www.adzuna.com/details/5445423911?utm_medium=api&utm_source=632a28fd)
+  - Company: Close | US
+  - About Us Close is a bootstrapped, profitable, 100% remote, ~100 person team of thoughtful individuals who prioritize tak...
+
+- [Senior Platform Engineer](https://www.adzuna.com/details/5722362324?utm_medium=api&utm_source=632a28fd)
+  - Company: HackEDU, Inc. dba Security Journey | Apex, Wake County
+  - Senior Platform Engineer (AWS / Kubernetes) Remote (United States) Security Journey is hiring a Senior Platform Engineer...
+
+- [Senior Platform Engineer, ISG ORE](https://www.adzuna.com/land/ad/5722323189?se=yl5_LuZK8RGTeJHXTNwO2w&utm_medium=api&utm_source=632a28fd&v=C76C58CC9A0578D12BEEF82C257C713C6131E9DA)
+  - Company: John Deere | Urbandale, Polk County
+  - There are over 7 billion people on this planet. And by 2050, there will be 2 billion more many moving into urban centers...
+
+- [Disaster Recovery (DR) Infrastructure / Oracle Platform Engineer](https://www.adzuna.com/land/ad/5721841488?se=yl5_LuZK8RGTeJHXTNwO2w&utm_medium=api&utm_source=632a28fd&v=CAC8A8B48965B1A5B4A7F1749E6A6E13C5B8B733)
+  - Company: Black Rock Group | US
+  - Job Title: Disaster Recovery (DR) Infrastructure / Oracle Platform Engineer Location: Remote Job Summary: We are seeking...
+
+- [BigQuery Data Engineer/ Google Cloud Platform](https://www.adzuna.com/land/ad/5721791335?se=yl5_LuZK8RGTeJHXTNwO2w&utm_medium=api&utm_source=632a28fd&v=287967C24FE652739600E3D2CA50038E39C392CC)
+  - Company: Radyant Inc. | US
+  - BigQuery Data Engineer/ Google Cloud Platform Location: Remote Need candidates with active security clearance (Mandatory...
+
+- [US-Based Platform Engineer (Fully Remote)](https://www.adzuna.com/details/5721364210?utm_medium=api&utm_source=632a28fd)
+  - Company: PadSplit | Atlanta, Fulton County
+  - The Role We Need: PadSplit is looking for a senior Platform Engineer to strengthen our backend systems and ensure the st...
+
+- [Senior Platform Engineer - Remote](https://www.adzuna.com/details/5721341160?utm_medium=api&utm_source=632a28fd)
+  - Company: Simple Solutions | Villano Beach, St. Johns County
+  - Senior Platform Engineer - Remote Job Profile Summary The Senior Platform Engineer will play a key role in engineering m...
+
+- [Senior Software Engineer II, Platform UI (Remote USA)](https://www.adzuna.com/details/5721290171?utm_medium=api&utm_source=632a28fd)
+  - Company: Optro | US
+  - Who We Are Having surpassed $300M ARR and continuing to grow, Optro is the leading audit, risk, ESG, and InfoSec platfor...
+
+- [Level 3 (L3) DevOps Engineer (Mid-level)](https://www.adzuna.com/details/5721186907?utm_medium=api&utm_source=632a28fd)
+  - Company: Knox Systems | US
+  - Reports To: Cloud Operations Manager or Platform Engineering Lead Level: Individual Contributor Location: Remote / Hybri...
+
+- [Junior Platform Engineer](https://www.adzuna.com/details/5720989148?utm_medium=api&utm_source=632a28fd)
+  - Company: Akaasa Technologies | US
+  - Role Details: Position: Junior Platform Engineer Client: University of Phoenix Location: Remote Key Requirements: 3 year...
+
+- [Lead Data Engineer, Data Platform - IntelliScript (Remote)](https://www.adzuna.com/details/5720045731?utm_medium=api&utm_source=632a28fd)
+  - Company: Milliman | US
+  - What We Do Milliman IntelliScript is a group of a few hundred experts in fields ranging from actuarial science to inform...
+
+- [Sr. Cloud Platform Engineer - Azure](https://www.adzuna.com/land/ad/5720013806?se=yl5_LuZK8RGTeJHXTNwO2w&utm_medium=api&utm_source=632a28fd&v=2065EE65FE3409D0F24A3C41AC2D84F15F3F7915)
+  - Company: HAYS | Florida
+  - Sr. Cloud Platform Engineer - Azure - Permanent - Remote - $140,000 - $150,000. The final salary or hourly wage, as appl...
+
+- [Senior Cloud Disaster Recovery Engineer](https://www.adzuna.com/details/5719897734?utm_medium=api&utm_source=632a28fd)
+  - Company: Openkyber | Alaska, US
+  - Position: Sr. Microsoft SQL Server DBA / Data Platform Engineer Location: Remote - Temple, TX Support time zone: CST Sta...
+
+- [Business Consultant - AI Platform Engineering](https://www.adzuna.com/details/5719892163?utm_medium=api&utm_source=632a28fd)
+  - Company: VDart Inc | Georgia, US
+  - Title: Business Consultant - AI Platform Engineering Location: Arlington, TX (Remote) Type: Contract Description: The Bu...
+
+- [Neo4J Platform Engineer](https://www.adzuna.com/land/ad/5719886104?se=yl5_LuZK8RGTeJHXTNwO2w&utm_medium=api&utm_source=632a28fd&v=7D11FD64D50970E9364D2F7E087B7384246915D7)
+  - Company: Infojini | US
+  - Job Title: Neo4J Platform Engineer Location: Remote-USA Duration: Full time role (No Contract) Experience: 8 Years Job D...
+
+- [Platform Engineer](https://www.adzuna.com/land/ad/5719545512?se=yl5_LuZK8RGTeJHXTNwO2w&utm_medium=api&utm_source=632a28fd&v=04C67CD12746DB85892B44CDAAE910D342348719)
+  - Company: VDart, Inc. | US
+  - Platform Engineer Remote Contract The Platform LLM Infrastructure Engineer operates at the intersection of capacity plan...
+
+- [GSW - PSA Engineer - SCADA - EMS Platform Services](https://www.adzuna.com/land/ad/5719542049?se=yl5_LuZK8RGTeJHXTNwO2w&utm_medium=api&utm_source=632a28fd&v=0FCC691DB01B5A0B409BBA4C9CC2CBA76E6FC9DA)
+  - Company: Wise Skulls Corp. | US
+  - Title: GSW - PSA Engineer - SCADA - EMS Platform Services Location: Remote Duration: 6 months (with possible extension) ...
+
+- [Apache NiFi Platform Support Engineer](https://www.adzuna.com/land/ad/5719287740?se=yl5_LuZK8RGTeJHXTNwO2w&utm_medium=api&utm_source=632a28fd&v=2D897AE77CEA820359119FC85584A1F16C4E8839)
+  - Company: Apex Systems | Hyde Park, Hamilton County
+  - Job: 3033102 Job Description: Apache NiFi Platform Support Engineer Location: Cincinnati, Ohio (Partial Remote) Employme...
+
+- [Remote](https://www.adzuna.com/details/5718420899?utm_medium=api&utm_source=632a28fd)
+  - Company: 24-MAG | New York City, New York
+  - We are sharing a specialised part-time consulting opportunity for professionals experienced in cloud architecture, platf...
+
+- [Project Management Specialist - T-7 Sustainment](https://www.adzuna.com/land/ad/5718335764?se=yl5_LuZK8RGTeJHXTNwO2w&utm_medium=api&utm_source=632a28fd&v=24311595BDA47472269A26D94730E4EE3A82DC2B)
+  - Company: The Boeing Company | Kinloch, Saint Louis County
+  - Job Description At Boeing, we innovate and collaborate to make the world a better place. We're committed to fostering an...
+
+- [AI Platform Engineer](https://www.adzuna.com/details/5718274434?utm_medium=api&utm_source=632a28fd)
+  - Company: Openkyber | Alaska, US
+  - Full Stack Engineer (AI Platform) Texas (Remote  Occasional Travel) We are hiring a hands-on Full Stack Engineer to buil...
+
+- [Azure AI Platform Engineer - Remote Role](https://www.adzuna.com/land/ad/5716051899?se=IC9TL-ZK8RGlGMzil2cTDQ&utm_medium=api&utm_source=632a28fd&v=1BF5AA652B7A4AC833B68024846B40F45E75386D)
+  - Company: NTT DATA Americas, Inc | US
+  - Company Overview Req ID: 369806 NTT DATA strives to hire exceptional, innovative, and passionate individuals who want to...
+
+- [Microsoft 365 Platform Engineer](https://www.adzuna.com/land/ad/5714913996?se=IC9TL-ZK8RGlGMzil2cTDQ&utm_medium=api&utm_source=632a28fd&v=F583D4BED563A77FE56B3A1FC0D3F9241F791578)
+  - Company: Lumen Solutions Group Inc. | US
+  - Company Description Lumen Solutions Group Inc. is a technology consulting Services company based in Florida. We provide ...
+
+- [Senior Platform Engineer](https://www.adzuna.com/details/5714857462?utm_medium=api&utm_source=632a28fd)
+  - Company: Pondurance | Mc Lean, Fairfax County
+  - Senior Platform Engineer REMOTE About the Role: As a Senior Platform Engineer, you will play a key role in supporting an...
+
+- [Junior Platform Engineer (DevOps)](https://www.adzuna.com/land/ad/5714783594?se=IC9TL-ZK8RGlGMzil2cTDQ&utm_medium=api&utm_source=632a28fd&v=2E5A2DC05D0A191BE44F7230D699E98D1913FB6C)
+  - Company: Kforce Technology Staffing | Phoenix, Maricopa County
+  - RESPONSIBILITIES: Kforce has a client that is seeking a Junior Platform Engineer (DevOps) for a remote role. This is a s...
+
+- [AI/GenAI Engineer (Gen AI, LLMs, Python) :: Remote (Need 10 years exp)](https://www.adzuna.com/land/ad/5714584280?se=IC9TL-ZK8RGlGMzil2cTDQ&utm_medium=api&utm_source=632a28fd&v=02774CD09AF8EB7F197ECCC8D243350ED2D32E63)
+  - Company: Reliable Software Resources | US
+  - Job Title: AI / GenAI Engineer (Google Cloud Platform) Location: Remote with travel Hire Type: Long-term contract Job De...
+
+- [Senior Technical Recruiter](https://www.adzuna.com/details/5722611496?utm_medium=api&utm_source=632a28fd)
+  - Company: Career Mentors, LLC | Plymouth Kingdom, Windsor County
+  - Position: Senior Technical Recruiter (Commission-Only) Company: TopTechTalent.ai Location: Remote | U.S. & Global Startu...
+
+- [Hybrid Cloud Engineer (Remote)](https://www.adzuna.com/land/ad/5722494074?se=mDBCMOZK8RGTeJHXTNwO2w&utm_medium=api&utm_source=632a28fd&v=0C14D1AD481FD43FC260835F60D81D5BA593D11B)
+  - Company: Leidos | US
+  - The Digital Modernization Sector has an exciting career opportunity for a in El Segundo, CA to support the US Space Forc...
+
+- [Cloud Infrastructure & Operations Engineer](https://www.adzuna.com/details/5722300033?utm_medium=api&utm_source=632a28fd)
+  - Company: El Segundo, CA | El Segundo, Los Angeles County
+  - Job Title: Cloud Infrastructure & Operations Engineer Job Location: Fully Remote Job Duration: 12 Months Overview Senior...
+
+- [Cloud Infrastructure & Operations Engineer](https://www.adzuna.com/details/5722287419?utm_medium=api&utm_source=632a28fd)
+  - Company: El Segundo, CA | El Segundo, Los Angeles County
+  - Job Title: Cloud Infrastructure & Operations Engineer Job Location: Fully Remote Job Duration: 12 Months Overview Senior...
+
+- [Junior Cloud Engineer](https://www.adzuna.com/details/5722269251?utm_medium=api&utm_source=632a28fd)
+  - Company: Openkyber | Georgia, US
+  - Cloud Engineer III - Contract - Remote - $70.00 - $80.00/hr. The final salary or hourly wage, as applicable, paid to eac...
+
+- [Junior Cloud Engineer](https://www.adzuna.com/details/5722269220?utm_medium=api&utm_source=632a28fd)
+  - Company: Openkyber | Georgia, US
+  - Title: Network Cloud Engineer AWS China Location: - 100% Remote Hire Type: Contract JOB SUMMARY The Network Automation E...
+
+- [Google Cloud Network Engineer](https://www.adzuna.com/details/5722268940?utm_medium=api&utm_source=632a28fd)
+  - Company: Openkyber | Alaska, US
+  - Job Title: Cloud & Datacenter Engineer Location-Remote Job Summary: The Cloud & Datacenter Engineer is responsible for d...
+
+- [Network Engineer](https://www.adzuna.com/details/5722268561?utm_medium=api&utm_source=632a28fd)
+  - Company: Openkyber | Alaska, US
+  - Role: Cloud Network Engineer Location: Remote Infrastructure & Network Engineering Responsibilities: Design, implement, ...
+
+- [Senior AWS Cloud Engineer (Python & Java Migration)](https://www.adzuna.com/details/5722265639?utm_medium=api&utm_source=632a28fd)
+  - Company: Stellent IT LLC | Cockrell Hill, Dallas
+  - Title: Senior AWS Cloud Engineer (Python & Java Migration) Location: Remote / Dallas, TX Experience Level: Super Senior ...
+
+- [Senior AWS Cloud IAM Engineer](https://www.adzuna.com/land/ad/5721900046?se=mDBCMOZK8RGTeJHXTNwO2w&utm_medium=api&utm_source=632a28fd&v=CE9449873CB0499844BF0063A59436C66BB2FE8E)
+  - Company: Alpha Silicon | US
+  - 100% Remote Please look for the best profiles We have 4 open roles. Please start finding the profiles. JR creation is in...
+
+- [Junior Cloud Engineer](https://www.adzuna.com/details/5716336617?utm_medium=api&utm_source=632a28fd)
+  - Company: Openkyber | Alaska, US
+  - Senior Hybrid AWS Cloud Engineer (IAM, Kubernetes, Automation) Remote Contract to Hire (OpenKyber W2 Contract Coworker) ...
+
+- [Infrastructure Engineer](https://www.adzuna.com/land/ad/5722866458?se=YOcvMuZK8RGTeJHXTNwO2w&utm_medium=api&utm_source=632a28fd&v=287627C57DEF88D0B810D14B41378AE3A9CBE455)
+  - Company: Apex Systems | Roanoke, Roanoke County
+  - Job: 3033280 Job Description: Infrastructure Engineer Location: Roanoke, Virginia (Remote) Employment Type: Contract Rol...
+
+- [Field Claims Investigator](https://www.adzuna.com/land/ad/5722514908?se=YOcvMuZK8RGTeJHXTNwO2w&utm_medium=api&utm_source=632a28fd&v=80EEDB751D9099D6D09C67F98FF206A206A9037C)
+  - Company: Phoenix Loss Control | Yuma, Yuma County
+  - Job Description Job Description Job Type: Contract Workplace Type: Hybrid (50% remote, 50% fieldwork) Compensation: $25/...
+
+- [AI Infrastructure Engineer](https://www.adzuna.com/land/ad/5722350858?se=YOcvMuZK8RGTeJHXTNwO2w&utm_medium=api&utm_source=632a28fd&v=ADC32FBBE34CCD92E282DE57C6335683C298EFC8)
+  - Company: Insight Global | Talcott Village, Hartford County
+  - Job Description A healthcare client is looking for a AI Infrastructure Engineer to sit fully remote. This person is goin...
+
+- [Machine Learning Infrastructure Engineer](https://www.adzuna.com/details/5722312079?utm_medium=api&utm_source=632a28fd)
+  - Company: Logic Software Solutions | US
+  - Job Title: Machine Learning Infrastructure Engineer, GenAI Technology Location: New York - Remote Job Type: Experienced ...
+
+- [Senior Engineer, Core Infrastructure (Remote, US)](https://www.adzuna.com/details/5722311468?utm_medium=api&utm_source=632a28fd)
+  - Company: Renew Home | US
+  - Who We Are Renew Home is on a mission to change how we power the world by making it easier for customers to save energy ...
+
+- [Infrastructure Engineer](https://www.adzuna.com/details/5722269644?utm_medium=api&utm_source=632a28fd)
+  - Company: Dcode Talent LLC | Princeton, Mercer County
+  - Job Summary: Hands-on Hybrid Infrastructure Engineer - On-site, local applicants only; remote not supported. - Hands-on ...
+
+- [Infrastructure Engineer](https://www.adzuna.com/land/ad/5721901512?se=YOcvMuZK8RGTeJHXTNwO2w&utm_medium=api&utm_source=632a28fd&v=2F2F00BBA66ECE6361176EB3FA7C92ED2C6EBB4A)
+  - Company: DCode Talent | Princeton Junction, Mercer County
+  - Job Summary: Hands-on Hybrid Infrastructure Engineer - On-site, local applicants only; remote not supported. - Hands-on ...
+
+- [Senior DevSecOps Engineer (Remote)](https://www.adzuna.com/details/5722808766?utm_medium=api&utm_source=632a28fd)
+  - Company: Integrated Data Services | US
+  - Company Overview: Integrated Data Services (IDS) is a leading provider of custom software products and Government financ...
+
+- [Junior Automation Engineer (Cloud)](https://www.adzuna.com/details/5722269165?utm_medium=api&utm_source=632a28fd)
+  - Company: Openkyber | Georgia, US
+  - Job Title: Senior DevSecOps Systems Administrator Location-Remote Role Overview We are seeking a Senior DevSecOps System...
