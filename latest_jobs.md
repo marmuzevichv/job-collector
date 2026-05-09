@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-05-08 13:45 UTC
+Generated: 2026-05-09 13:15 UTC
 
-Total new jobs: 101
+Total new jobs: 102
 
 ## greenhouse
 
@@ -367,6 +367,10 @@ Total new jobs: 101
 - [Digital Full Stack Engineer HR172](https://remoteOK.com/remote-jobs/remote-digital-full-stack-engineer-hr172-smart-working-solutions-1131414)
   - Company: Smart Working Solutions
   - Location: Worldwide
+
+- [Tech Lead](https://remoteOK.com/remote-jobs/remote-tech-lead-zensurance-1131509)
+  - Company: Zensurance
+  - Location: Toronto, ON
 
 ## weworkremotely
 
