@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-05-09 13:15 UTC
+Generated: 2026-05-10 13:16 UTC
 
-Total new jobs: 102
+Total new jobs: 99
 
 ## greenhouse
 
@@ -66,7 +66,11 @@ Total new jobs: 102
   - Company: clickhouse
   - Location: Remote
 
-- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843424004)
+- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843422004)
+  - Company: clickhouse
+  - Location: Remote
+
+- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843425004)
   - Company: clickhouse
   - Location: Remote
 
@@ -78,11 +82,11 @@ Total new jobs: 102
   - Company: clickhouse
   - Location: Remote
 
-- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843422004)
+- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843424004)
   - Company: clickhouse
   - Location: Remote
 
-- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843425004)
+- [Release Engineer - Data Plane](https://job-boards.greenhouse.io/clickhouse/jobs/5813433004)
   - Company: clickhouse
   - Location: Remote
 
@@ -94,15 +98,7 @@ Total new jobs: 102
   - Company: clickhouse
   - Location: Remote
 
-- [Release Engineer - Data Plane](https://job-boards.greenhouse.io/clickhouse/jobs/5813433004)
-  - Company: clickhouse
-  - Location: Remote
-
 - [Senior Cloud Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/5733571004)
-  - Company: clickhouse
-  - Location: Remote
-
-- [Senior Infrastructure Engineer - Postgres](https://job-boards.greenhouse.io/clickhouse/jobs/5706417004)
   - Company: clickhouse
   - Location: Remote
 
@@ -110,15 +106,11 @@ Total new jobs: 102
   - Company: clickhouse
   - Location: Remote
 
+- [Senior Infrastructure Engineer - Postgres](https://job-boards.greenhouse.io/clickhouse/jobs/5706417004)
+  - Company: clickhouse
+  - Location: Remote
+
 - [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5828333004)
-  - Company: clickhouse
-  - Location: Remote
-
-- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819754004)
-  - Company: clickhouse
-  - Location: Remote
-
-- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819757004)
   - Company: clickhouse
   - Location: Remote
 
@@ -126,11 +118,19 @@ Total new jobs: 102
   - Company: clickhouse
   - Location: Remote
 
+- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819757004)
+  - Company: clickhouse
+  - Location: Remote
+
+- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819754004)
+  - Company: clickhouse
+  - Location: Remote
+
 - [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819676004)
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819678004)
+- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819674004)
   - Company: clickhouse
   - Location: Remote
 
@@ -142,7 +142,7 @@ Total new jobs: 102
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819674004)
+- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819678004)
   - Company: clickhouse
   - Location: Remote
 
@@ -170,11 +170,11 @@ Total new jobs: 102
   - Company: gitlab
   - Location: Remote
 
-- [Intermediate Site Reliability Engineer, Environment Automation](https://job-boards.greenhouse.io/gitlab/jobs/8464417002)
+- [Intermediate Site Reliability Engineer, Environment Automation](https://job-boards.greenhouse.io/gitlab/jobs/8504232002)
   - Company: gitlab
   - Location: Remote
 
-- [Intermediate Site Reliability Engineer, Environment Automation](https://job-boards.greenhouse.io/gitlab/jobs/8504232002)
+- [Intermediate Site Reliability Engineer, Environment Automation](https://job-boards.greenhouse.io/gitlab/jobs/8464417002)
   - Company: gitlab
   - Location: Remote
 
@@ -246,11 +246,11 @@ Total new jobs: 102
   - Company: mongodb
   - Location: Remote
 
-- [Team Lead, Site Reliability Engineering - Storage Layer Service](https://www.mongodb.com/careers/job/?gh_jid=7743304)
+- [Team Lead, Site Reliability Engineering - Storage Layer Service](https://www.mongodb.com/careers/job/?gh_jid=7818635)
   - Company: mongodb
   - Location: Remote
 
-- [Team Lead, Site Reliability Engineering - Storage Layer Service](https://www.mongodb.com/careers/job/?gh_jid=7818635)
+- [Team Lead, Site Reliability Engineering - Storage Layer Service](https://www.mongodb.com/careers/job/?gh_jid=7743304)
   - Company: mongodb
   - Location: Remote
 
@@ -282,11 +282,11 @@ Total new jobs: 102
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer (Auth0)](https://www.okta.com/company/careers/opportunity/7791590?gh_jid=7791590)
+- [Senior Site Reliability Engineer (Auth0)](https://www.okta.com/company/careers/opportunity/7418982?gh_jid=7418982)
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer (Auth0)](https://www.okta.com/company/careers/opportunity/7418982?gh_jid=7418982)
+- [Senior Site Reliability Engineer (Auth0)](https://www.okta.com/company/careers/opportunity/7791590?gh_jid=7791590)
   - Company: okta
   - Location: Remote
 
@@ -302,11 +302,11 @@ Total new jobs: 102
   - Company: pinterest
   - Location: Remote
 
-- [Production Engineer/Site Reliability Engineer (Shift Basis)](https://www.rubrik.com/company/careers/departments/job.7439521?gh_jid=7439521)
+- [Production Engineer/Site Reliability Engineer (Shift Basis)](https://www.rubrik.com/company/careers/departments/job.7439514?gh_jid=7439514)
   - Company: rubrik
   - Location: Remote
 
-- [Production Engineer/Site Reliability Engineer (Shift Basis)](https://www.rubrik.com/company/careers/departments/job.7439514?gh_jid=7439514)
+- [Production Engineer/Site Reliability Engineer (Shift Basis)](https://www.rubrik.com/company/careers/departments/job.7439521?gh_jid=7439521)
   - Company: rubrik
   - Location: Remote
 
@@ -356,27 +356,15 @@ Total new jobs: 102
   - Company: Contact Government Services, LLC
   - Location: Worldwide
 
-- [Founding Engineer](https://remoteOK.com/remote-jobs/remote-founding-engineer-haast-1131402)
-  - Company: Haast
-  - Location: New York
-
 - [Cloud Enablement Engineer US](https://remoteOK.com/remote-jobs/remote-cloud-enablement-engineer-us-quanata-1131488)
   - Company: Quanata
   - Location: Remote-US
-
-- [Digital Full Stack Engineer HR172](https://remoteOK.com/remote-jobs/remote-digital-full-stack-engineer-hr172-smart-working-solutions-1131414)
-  - Company: Smart Working Solutions
-  - Location: Worldwide
 
 - [Tech Lead](https://remoteOK.com/remote-jobs/remote-tech-lead-zensurance-1131509)
   - Company: Zensurance
   - Location: Toronto, ON
 
 ## weworkremotely
-
-- [Senior Technical Lead DevOps - AWS](https://weworkremotely.com/remote-jobs/3pillar-senior-technical-lead-devops-aws)
-  - Company: 3pillar
-  - Location: Remote
 
 - [Senior QA Automation Engineer](https://weworkremotely.com/remote-jobs/bjak-senior-qa-automation-engineer)
   - Company: Bjak
