@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-05-11 14:47 UTC
+Generated: 2026-05-12 14:23 UTC
 
-Total new jobs: 99
+Total new jobs: 101
 
 ## greenhouse
 
@@ -318,6 +318,10 @@ Total new jobs: 99
   - Company: vercel
   - Location: Remote
 
+- [Sr Site Reliability Engineer](https://job-boards.greenhouse.io/yugabyte/jobs/4680610006)
+  - Company: yugabyte
+  - Location: Remote
+
 ## jobicy
 
 - [DevOps Enablement Engineer / SDLC Lead](https://jobicy.com/jobs/142050-devops-enablement-engineer-sdlc-lead)
@@ -359,6 +363,10 @@ Total new jobs: 99
 - [Cloud Enablement Engineer US](https://remoteOK.com/remote-jobs/remote-cloud-enablement-engineer-us-quanata-1131488)
   - Company: Quanata
   - Location: Remote-US
+
+- [Tooling Engineer](https://remoteOK.com/remote-jobs/remote-tooling-engineer-unikraft-1131540)
+  - Company: Unikraft
+  - Location: Worldwide
 
 - [Tech Lead](https://remoteOK.com/remote-jobs/remote-tech-lead-zensurance-1131509)
   - Company: Zensurance
