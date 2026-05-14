@@ -2,6 +2,19 @@
   {
     "source_type": "greenhouse",
     "company": "airbnb",
+    "title": "Audiovisual Infrastructure Engineer",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://careers.airbnb.com/positions/7917632?gh_jid=7917632",
+    "external_id": "greenhouse::7917632",
+    "description_snippet": "",
+    "posted_at": "2026-05-13T13:15:51-04:00",
+    "collected_at_utc": "2026-05-14 14:08:23"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "airbnb",
     "title": "Senior Android Automation Engineer",
     "location": "",
     "team": "",
@@ -217,6 +230,19 @@
     "description_snippet": "Headquarters: URL: https://catamaran-research.ai/ About Us We are building the cloud compute layer for the agent age: think AWS or GCP, but designed around AI agents as first-class cloud users. Existing cloud primitives were designed for humans clicking consoles or writing static IaC, not for autono",
     "posted_at": "Wed, 13 May 2026 13:17:13 +0000",
     "collected_at_utc": "2026-05-13 14:30:44"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "clickhouse",
+    "title": "Cloud Database Infrastructure Engineer",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5778617004",
+    "external_id": "greenhouse::5778617004",
+    "description_snippet": "",
+    "posted_at": "2026-05-14T04:40:50-04:00",
+    "collected_at_utc": "2026-05-14 14:08:23"
   },
   {
     "source_type": "greenhouse",

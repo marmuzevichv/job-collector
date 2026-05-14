@@ -592,5 +592,17 @@
     "title": "QA Automation Engineer (IJ Platform / Remote Development)",
     "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4779443101",
     "first_seen_utc": "2026-05-13 14:30:44"
+  },
+  "greenhouse::7917632": {
+    "company": "airbnb",
+    "title": "Audiovisual Infrastructure Engineer",
+    "url": "https://careers.airbnb.com/positions/7917632?gh_jid=7917632",
+    "first_seen_utc": "2026-05-14 14:08:23"
+  },
+  "greenhouse::5778617004": {
+    "company": "clickhouse",
+    "title": "Cloud Database Infrastructure Engineer",
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5778617004",
+    "first_seen_utc": "2026-05-14 14:08:23"
   }
 }

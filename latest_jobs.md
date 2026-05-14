@@ -1,10 +1,14 @@
 # New jobs
 
-Generated: 2026-05-13 14:31 UTC
+Generated: 2026-05-14 14:08 UTC
 
-Total new jobs: 99
+Total new jobs: 101
 
 ## greenhouse
+
+- [Audiovisual Infrastructure Engineer](https://careers.airbnb.com/positions/7917632?gh_jid=7917632)
+  - Company: airbnb
+  - Location: Remote
 
 - [Senior Android Automation Engineer](https://careers.airbnb.com/positions/7380262?gh_jid=7380262)
   - Company: airbnb
@@ -52,6 +56,10 @@ Total new jobs: 99
 
 - [Site Reliability Engineer](https://job-boards.greenhouse.io/canonical/jobs/4468036)
   - Company: canonical
+  - Location: Remote
+
+- [Cloud Database Infrastructure Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/5778617004)
+  - Company: clickhouse
   - Location: Remote
 
 - [Cloud Engineer - Product Metrics](https://job-boards.greenhouse.io/clickhouse/jobs/5755082004)
