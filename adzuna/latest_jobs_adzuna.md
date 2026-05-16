@@ -1,147 +1,7 @@
 # Jobs via Adzuna API
 
-Generated: 2026-05-15 14:17 UTC
-Total jobs (24h window): 297
-
-- [DevOps Engineer - Remote](https://www.adzuna.com/land/ad/5728888648?se=9LJkmKBP8RG3htPCyJpmPg&utm_medium=api&utm_source=632a28fd&v=2CD565E4E5F90B9DC05A2FD91596A811584848AB)
-  - Company: YO IT CONSULTING | Seattle, King County
-  - Job Description Job Description Job Title: DevOps Engineer Job Type: Contractor Location: Remote Job Summary: Join our c...
-
-- [Sr. DevOps Solutions Engineer](https://www.adzuna.com/details/5710913474?utm_medium=api&utm_source=632a28fd)
-  - Company: Aveshka Inc | Rosslyn, Arlington County
-  - Senior DevOps Solutions Engineer (Onsite Only / No remote / No hybrid) Overview: Softtek Government Solutions is seeking...
-
-- [DevOps Engineer (Mobile First)](https://www.adzuna.com/land/ad/5710757697?se=gHcTmaBP8RG4XMUpMBsWdQ&utm_medium=api&utm_source=632a28fd&v=42C3085D4024853EF46698233D4ABDB8953BE514)
-  - Company: Robert Half | Kansas City, Jackson County
-  - Description Position: DevOps Engineer (Mobile-First) Location: Remote - Full Time | Direct Hire Salary: $120,000-149,000...
-
-- [Senior AWS DevOps Engineer (Remote, Full-Time), PK [AS232]](https://www.adzuna.com/details/5707812584?utm_medium=api&utm_source=632a28fd)
-  - Company: Smart Working Solutions | Orange, Orange County
-  - Senior AWS DevOps Engineer (Remote, Full-Time), PK [AS232] About Smart Working At Smart Working, we believe your job sho...
-
-- [Senior Azure Devops Engineer - Only W2](https://www.adzuna.com/details/5707687397?utm_medium=api&utm_source=632a28fd)
-  - Company: Saransh Inc | Alaska, US
-  - Role: Senior Azure Devops Engineer Location: Remote (US) Job Type: W2 Contract Contract Length: 6 months Visa Independen...
-
-- [Specialist Engineer DevOps / Kafka Administrator](https://www.adzuna.com/details/5706605992?utm_medium=api&utm_source=632a28fd)
-  - Company: Unknown, NC | North Carolina, US
-  - Hope you are doing well Number of Position: 2 Only W2 I, Abhishek would like to share a job opportunity as Specialist En...
-
-- [Senior DevOps Engineer - (US - Remote)](https://www.adzuna.com/details/5704334915?utm_medium=api&utm_source=632a28fd)
-  - Company: ICF | Reston, Fairfax County
-  - Our Engineering and Emerging Technologies (EET) team works side by side with customers to articulate a vision for succes...
-
-- [DevOps Engineer](https://www.adzuna.com/land/ad/5704221080?se=gHcTmaBP8RG4XMUpMBsWdQ&utm_medium=api&utm_source=632a28fd&v=E0D28E476C9FDC4ACC1BC2329647E552FCCC60FA)
-  - Company: Leidos | Bethesda, Montgomery County
-  - Leidos has an exciting opening for you, our next TS/SCI cleared DevOps Software Engineer working with a dynamic team to ...
-
-- [DevOps Engineer](https://www.adzuna.com/land/ad/5704029659?se=gHcTmaBP8RG4XMUpMBsWdQ&utm_medium=api&utm_source=632a28fd&v=393B7B4E9CFA051B5841884D19E7331BBC63DB3C)
-  - Company: Leidos | Bethesda, Montgomery County
-  - Description Leidos has an exciting opening for you, our next TS/SCI cleared DevOps Software Engineer working with a dyna...
-
-- [Senior DevOps Engineer (Remote)](https://www.adzuna.com/details/5703398161?utm_medium=api&utm_source=632a28fd)
-  - Company: Triumph Financial Services | US
-  - Join Triumph! At Triumph, our vision is a world where freight transactions are accurate and seamless on the most modern ...
-
-- [Senior AWS DevOps Engineer (Remote, Full-Time) [AS232]](https://www.adzuna.com/details/5703128932?utm_medium=api&utm_source=632a28fd)
-  - Company: Smart Working Solutions | Redwood Falls, Redwood County
-  - Senior AWS DevOps Engineer (Remote, Full-Time) [AS232] About Smart Working At Smart Working, we believe your job should ...
-
-- [Principle Cloud Engineer, DevOps](https://www.adzuna.com/details/5702189821?utm_medium=api&utm_source=632a28fd)
-  - Company: Abbott | Abbott Park, Lake County
-  - Abbott is a global healthcare leader that helps people live more fully at all stages of life. Our portfolio of life-chan...
-
-- [Principle Cloud Engineer, DevOps](https://www.adzuna.com/details/5701946393?utm_medium=api&utm_source=632a28fd)
-  - Company: Abbott | Downey, Lake County
-  - Abbott is a global healthcare leader that helps people live more fully at all stages of life. Our portfolio of life-chan...
-
-- [DevOps Engineer](https://www.adzuna.com/land/ad/5700884619?se=gHcTmaBP8RG4XMUpMBsWdQ&utm_medium=api&utm_source=632a28fd&v=08919C0BD9E31309196197FB45B60D15446F8981)
-  - Company: Robert Half | Eden Prairie, Hennepin County
-  - Description Position: DevOps Engineer (Mobile-First) Location: Remote - Full Time | Direct Hire Salary: $140,000 - 160,0...
-
-- [Cloud DevOps Engineer](https://www.adzuna.com/land/ad/5699851522?se=gHcTmaBP8RG4XMUpMBsWdQ&utm_medium=api&utm_source=632a28fd&v=B518795A50C4CC55078C2C8D8020B66552C03224)
-  - Company: Stefanini Group | Capitol, Richmond
-  - Details: Stefanini Group is hiring! Stefanini is looking for a Cloud DevOps Engineer for Remote. For quick Apply, please...
-
-- [Cloud DevOps Engineer](https://www.adzuna.com/land/ad/5699843331?se=gHcTmaBP8RG4XMUpMBsWdQ&utm_medium=api&utm_source=632a28fd&v=536955399E53EAB1E9A47F094B35300604BA2C4D)
-  - Company: Stefanini Group | Capitol, Richmond
-  - Job Description Stefanini Group is hiring! Stefanini is looking for a Cloud DevOps Engineer for Remote. For quick Apply,...
-
-- [Senior DevOps Engineer (Cloud & MongoDB & Terraform), PK (Remote, Full-Time) [HR154]](https://www.adzuna.com/details/5697102820?utm_medium=api&utm_source=632a28fd)
-  - Company: Smart Working Solutions | Orange, Orange County
-  - Senior DevOps Engineer (Cloud & MongoDB & Terraform), PK (Remote, Full-Time) [HR154] About Smart Working At Smart Workin...
-
-- [Senior DevOps Engineer (Cloud  MongoDB  Terraform), (Remote, Full-Time) [HR154]](https://www.adzuna.com/details/5697102751?utm_medium=api&utm_source=632a28fd)
-  - Company: Smart Working Solutions | Redwood Falls, Redwood County
-  - Senior DevOps Engineer (Cloud  MongoDB  Terraform), (Remote, Full-Time) [HR154] About Smart Working At Smart Working Sol...
-
-- [DevOps Engineer - Latam](https://www.adzuna.com/details/5696190865?utm_medium=api&utm_source=632a28fd)
-  - Company: IDT | Kewa, Sandoval County
-  - DevOps Engineer - Latam IDT is looking for a DevOps Engineer to join us remotely from Latam. As a Senior DevOps Engineer...
-
-- [DevOps Engineer - Latam](https://www.adzuna.com/details/5695324831?utm_medium=api&utm_source=632a28fd)
-  - Company: IDT | US
-  - IDT is looking for a DevOps Engineer to join us remotely from Latam. As a Senior DevOps Engineer, you will play a crucia...
-
-- [BI Platform Engineer](https://www.adzuna.com/details/5728586348?utm_medium=api&utm_source=632a28fd)
-  - Company: Noblesoft Technologies | Texas, US
-  - Title: Senior BI Platform Engineer Location: Houston, Texas Remote JD: SQL Server Analysis Services (SSAS) SQL Server Re...
-
-- [Azure Data/Data Platform Engineer](https://www.adzuna.com/details/5728585323?utm_medium=api&utm_source=632a28fd)
-  - Company: Stellent IT LLC | US
-  - Position: Azure Data/Data Platform Engineer Location: REMOTE some travel to Washington, D.C. Duration: 12 month contract...
-
-- [Azure AI Platform Engineer - Remote Role](https://www.adzuna.com/details/5717404033?utm_medium=api&utm_source=632a28fd)
-  - Company: NTT Data Americas, Inc. | Plano, Collin County
-  - Title : Azure AI Platform Engineer Location : Remote Role (can be located anywhere in the US) Duration : 8 months W2 onl...
-
-- [Senior Software/Infrastructure/Platform Engineer - Remote (EST/CST)](https://www.adzuna.com/land/ad/5716521587?se=TO7RnKBP8RG4XMUpMBsWdQ&utm_medium=api&utm_source=632a28fd&v=30D3CAA4CB2221E23A04DFA43578802B85900EFA)
-  - Company: UnitedHealth Group | Basking Ridge, Somerset County
-  - Requisition number: 2353098 Job category: Technology Optum is a global organization that delivers care, aided by technol...
-
-- [Microsoft 365 Platform Engineer](https://www.adzuna.com/details/5716350810?utm_medium=api&utm_source=632a28fd)
-  - Company: Philadelphia, PA | Philadelphia, Philadelphia County
-  - Company Description Lumen Solutions Group Inc. is a technology consulting Services company based in Florida. We provide ...
-
-- [Senior Platform Engineer](https://www.adzuna.com/details/5714857462?utm_medium=api&utm_source=632a28fd)
-  - Company: Pondurance | Mc Lean, Fairfax County
-  - Senior Platform Engineer REMOTE About the Role: As a Senior Platform Engineer, you will play a key role in supporting an...
-
-- [Lead Quality Engineer (Remote)](https://www.adzuna.com/details/5714348969?utm_medium=api&utm_source=632a28fd)
-  - Company: Map Ssg | US
-  - Lead Quality Engineer (AI / Voice Platform) Remote (US/Canada) | $160K–$220K  equity Build the future of AI quality We’r...
-
-- [Senior AWS Platform Engineer (Remote)](https://www.adzuna.com/details/5714314013?utm_medium=api&utm_source=632a28fd)
-  - Company: Certipath Inc | US
-  - Want to energize your career? Looking for stability with the freedom to innovate? At CertiPath you can have both while m...
-
-- [INTL-India- Lead Cloud and AI Engineer](https://www.adzuna.com/land/ad/5728704886?se=HOHCnaBP8RGCpqqI2ITs6A&utm_medium=api&utm_source=632a28fd&v=12356189979400DB7570633D9A7583A44A2C5467)
-  - Company: Insight Global | Villa Hills, Kenton County
-  - Job Description A fortune 100 organization is seeking a Lead Cloud and AI Engineer that will start remote but eventually...
-
-- [Big Data Cloud Operations](https://www.adzuna.com/details/5728587737?utm_medium=api&utm_source=632a28fd)
-  - Company: Nexiva Inc | New York City, New York
-  - Hello There, My name is Himanshu , and I serve as the Recruitment Manager at Nexiva INC. I am reaching out to share an e...
-
-- [Senior Cloud Engineer](https://www.adzuna.com/details/5728586162?utm_medium=api&utm_source=632a28fd)
-  - Company: Akaasa Technologies | US
-  - Senior Cloud Engineer Location : Remote Duration : 12 Months Contract Interview : Virtual round Note : Candidates must h...
-
-- [Back-end Developer (Java - Spring-Boot)](https://www.adzuna.com/land/ad/5727389213?se=LjRvoKBP8RGCpqqI2ITs6A&utm_medium=api&utm_source=632a28fd&v=474E5AB5AE9A452F720D834FD4E37C99FA7E0A05)
-  - Company: GovCIO | Annapolis, Anne Arundel County
-  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
-
-- [Senior DevSecOps Engineer (Remote)](https://www.adzuna.com/details/5728879076?utm_medium=api&utm_source=632a28fd)
-  - Company: Integrated Data Services | US
-  - Company Overview: Integrated Data Services (IDS) is a leading provider of custom software products and Government financ...
-
-- [Data Engineer](https://www.adzuna.com/details/5728870218?utm_medium=api&utm_source=632a28fd)
-  - Company: INflow Federal | Arlington, Arlington County
-  - About INflow Federal - founded in 2013, INflow Federal is a mission-driven small business delivering cutting-edge soluti...
-
-- [Data Engineer](https://www.adzuna.com/details/5728662607?utm_medium=api&utm_source=632a28fd)
-  - Company: INflow | State Farm, Arlington County
-  - Data Engineer About INflow Federal - founded in 2013, INflow Federal is a mission-driven small business delivering cutti...
+Generated: 2026-05-16 13:40 UTC
+Total jobs (24h window): 355
 
 - [DevOps Engineer (Remote) (Hiring Immediately)](https://www.adzuna.com/land/ad/5729877875?se=nqamx2hQ8RG9oaOVySc16A&utm_medium=api&utm_source=632a28fd&v=A42EBCEBD350A6832BD7E3FF35D56C052C04EB99)
   - Company: Outlier AI | US
@@ -1190,3 +1050,375 @@ Total jobs (24h window): 297
 - [Sr. Software Engineer](https://www.adzuna.com/details/5665460172?utm_medium=api&utm_source=632a28fd)
   - Company: Suse Rgs | Reston, Fairfax County
   - Senior Software Engineer (Go & Kubernetes Expertise) Location: Remote COMPANY DESCRIPTION Rancher Government Solutions (...
+
+- [Site Reliability Engineer / DevOps Engineer](https://www.adzuna.com/details/5731034976?utm_medium=api&utm_source=632a28fd)
+  - Company: Concentrix | Georgia, US
+  - Job Title: Site Reliability Engineer / DevOps Engineer Job Description We're Concentrix. The intelligent transformation ...
+
+- [DevOps Platform Engineer - US Remote](https://www.adzuna.com/land/ad/5731021440?se=rEF-0ixR8RGH_dNRytL1PQ&utm_medium=api&utm_source=632a28fd&v=B5282D5B1574761226BB5FD8516D6DC63F677F95)
+  - Company: Goldstone Partners, Inc. | Golden, Jefferson County
+  - Job Description Job Description Company Description The Regis Company leverages its learning technology platform to crea...
+
+- [Cloud Support Engineer/Devops AWS Support Engineer](https://www.adzuna.com/details/5730856977?utm_medium=api&utm_source=632a28fd)
+  - Company: American IT Systems | US
+  - Cloud Support Engineer/Devops AWS Support Engineer Remote Must have skills. CI/CD Jenkins Terraform AWS core services Cl...
+
+- [DevOps Developer Tools Engineer - Remote / Telecommute](https://www.adzuna.com/details/5730855877?utm_medium=api&utm_source=632a28fd)
+  - Company: Cynet Systems | Spring, Harris County
+  - Job Overview: Create and disseminate source code and artifact management best practices to the developer community. Cons...
+
+- [Remote Azure DevOps Engineer || quarterly travel to Waltham, MA](https://www.adzuna.com/details/5730855739?utm_medium=api&utm_source=632a28fd)
+  - Company: DMS Vision Inc | Alaska, US
+  - Hi, Hope all is well, Please revert me with an updated resume if you would like to apply for this role, Title : Remote A...
+
+- [DevOps Developer Tools Engineer - Remote / Telecommute](https://www.adzuna.com/land/ad/5730845079?se=rEF-0ixR8RGH_dNRytL1PQ&utm_medium=api&utm_source=632a28fd&v=0D78075640FB1C83A4D722DA836A18814CEABBF2)
+  - Company: Cynet Systems | Kohrville, Harris County
+  - We are looking for a DevOps Developer Tools Engineer - Remote / Telecommute for our client in Spring, TX Job Title: DevO...
+
+- [Sr Devops Engineer](https://www.adzuna.com/land/ad/5730843005?se=rEF-0ixR8RGH_dNRytL1PQ&utm_medium=api&utm_source=632a28fd&v=CEA6E19FB2519AF4CFF52782FD610249B5235635)
+  - Company: Innovative IT Solutions Inc | US
+  - Hi, Hope you are doing well Role: Senior DevOps Engineer Location: 100%Remote Mode: Contract Rate: $50/hr on W2(No C2C) ...
+
+- [Senior JBoss Middleware/DevOps](https://www.adzuna.com/land/ad/5730842386?se=rEF-0ixR8RGH_dNRytL1PQ&utm_medium=api&utm_source=632a28fd&v=0D0799B6E16D1BDFF1EB5FEAAFA73322A6CB0187)
+  - Company: HTD Resources, LLC | US
+  - Role: Middleware System Administrator/DevOps Engineer Mode : Remote Duration : Full Time Visas: // / EAD/ TN Job Descrip...
+
+- [Middleware JBoss System Administrator/DevOps Engineer (W2)](https://www.adzuna.com/land/ad/5730840901?se=rEF-0ixR8RGH_dNRytL1PQ&utm_medium=api&utm_source=632a28fd&v=6DDA53657C0B70C9B66708BC322F4900A798EECD)
+  - Company: Bridge Flair LLC | US
+  - Role Title: Middleware JBoss System Administrator/DevOps Engineer Location: Remote (within the USA) Duration: 6 months R...
+
+- [Senior DevOps Engineer](https://www.adzuna.com/details/5730077443?utm_medium=api&utm_source=632a28fd)
+  - Company: Slingshot Aerospace | Colorado Springs, El Paso County
+  - Meet Slingshot What You’ll Be Launching This is a full-time, hybrid role for a Senior DevOps Engineer based in Colorado ...
+
+- [YugabyteDB Devops/DBA engineer -Remote Work](https://www.adzuna.com/land/ad/5728161809?se=rEF-0ixR8RGH_dNRytL1PQ&utm_medium=api&utm_source=632a28fd&v=F755B6AF21055576E2A32F13DD8882A384CA2C63)
+  - Company: RapidIT, Inc | US
+  - Job Title: YugabyteDB Devops/DBA engineer Location : Remote Work Description; Must have: distributed database experience...
+
+- [Azure DevOps Engineer](https://www.adzuna.com/land/ad/5728130565?se=rEF-0ixR8RGH_dNRytL1PQ&utm_medium=api&utm_source=632a28fd&v=8A1ECA43D0044B01E6A566120CFE31C33E096A53)
+  - Company: Infinite Computer Solutions  | US
+  - Azure DevOps Engineer Remote Role Fulltime - with Infinite Computer Solutions Job Details: Build the cloud backbone behi...
+
+- [Sr Azure DevOps Engineer / JFrog / Remote](https://www.adzuna.com/land/ad/5727494057?se=rEF-0ixR8RGH_dNRytL1PQ&utm_medium=api&utm_source=632a28fd&v=C89152E86431B19F539B2B6383315B672887E933)
+  - Company: Motion Recruitment Partners, LLC | US
+  - We are working with a rapidly growing enterprise technology team seeking a Senior Platform Engineer / DevOps Engineer to...
+
+- [DevOps Engineer - 100% Remote](https://www.adzuna.com/land/ad/5726919673?se=rEF-0ixR8RGH_dNRytL1PQ&utm_medium=api&utm_source=632a28fd&v=2CE569B026DE6DEE8BB02B266F83EFEF57273DD6)
+  - Company: V-Soft Consulting Group, Inc | US
+  - DevOps Engineer - 100% Remote Primary Location: 100% Remote V-Soft Consulting is currently hiring a DevOps Engineer - 10...
+
+- [DevOps Engineer](https://www.adzuna.com/land/ad/5719885667?se=LPJ00yxR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=B3E2DDBB9AD66FB5D4DEBA1D3C90E69CB20B21CE)
+  - Company: SPECTRAFORCE TECHNOLOGIES Inc. | US
+  - Title: DevOps Engineer Location: Remote (EST time zone preferred) Term: Direct hire / FTE Overview Client is the leading...
+
+- [DevOps engineer](https://www.adzuna.com/land/ad/5719661911?se=LPJ00yxR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=D21055173B35643BE02847036DACFC22E5464803)
+  - Company: eTek IT Services, Inc. | US
+  - Role: DevOps Engineer Duration: C2H Location: remote role Strong communication and collaborative skills across managemen...
+
+- [Sr. DevOps Engineer - Azure](https://www.adzuna.com/land/ad/5719037616?se=LPJ00yxR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=38E5D74A3B476FAE2A409343C6C98ACBCA077B57)
+  - Company: HAYS | Florida
+  - Sr. DevOps Engineer - Permanent - Remote - $130,000 - $150,000. The final salary or hourly wage, as applicable, paid to ...
+
+- [SrDevops/KubernetesEngineer](https://www.adzuna.com/land/ad/5718875857?se=LPJ00yxR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=640E4164B65476E4ABBD86281188063F972811E4)
+  - Company: LiveMindz | Texas, US
+  - Sr Devops/Kubernetes Engineer Location: Remote Fulltime Certification: Certified Kubernetes Administrator (CKA) This tea...
+
+- [Lead DevOps & Cloud Engineer](https://www.adzuna.com/land/ad/5718550994?se=LPJ00yxR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=C54C3F093FC81515ACDFDB21CD59067BD0CED28F)
+  - Company: Solugenix Corporation | Glendale, Denver
+  - Lead DevOps & Cloud Engineer Denver, CO (Remote) Full-Time JPC - 20235 Solugenix is assisting a client in their search f...
+
+- [Senior DevOps Systems Engineer with an active TS/SCI with a Full Scope Polygraph Security Clearance Required, Onsite - M](https://www.adzuna.com/land/ad/5713818301?se=LPJ00yxR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=51038356A83C47930003D24541ACD38F98CD738B)
+  - Company: Next Step Systems | Maryland, Anne Arundel County
+  - Senior DevOps Systems Engineer with an active TS/SCI with a Full Scope Polygraph Security Clearance Required, Onsite in ...
+
+- [Senior DevOps Engineer (AI OPS AUTOMATION)](https://www.adzuna.com/land/ad/5712644033?se=LPJ00yxR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=910016C26451FB517A8A135A8AE64431F2D76637)
+  - Company: Openmind Technologies | US
+  - Senior DevOps Platform Engineer Location: 100% Remote- EST Time zone Remote Role EST working hours Terms: Contract to Hi...
+
+- [DevOps Engineer with an active TS/SCI with a Full Scope Polygraph Security Clearance Required, Onsite - G](https://www.adzuna.com/land/ad/5711547020?se=LPJ00yxR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=5BDF9432C5F2A6AEB0FAAEF84B9DCF68C62EABAB)
+  - Company: Next Step Systems | Maryland, Anne Arundel County
+  - DevOps Engineer with an active TS/SCI with a Full Scope Polygraph Security Clearance Required, Onsite in Annapolis Junct...
+
+- [Sr. DevOps Solutions Engineer](https://www.adzuna.com/details/5710913474?utm_medium=api&utm_source=632a28fd)
+  - Company: Aveshka Inc | Rosslyn, Arlington County
+  - Senior DevOps Solutions Engineer (Onsite Only / No remote / No hybrid) Overview: Softtek Government Solutions is seeking...
+
+- [Site Reliability Engineer, CI/CD & Load Testing (US-Remote)](https://www.adzuna.com/land/ad/5730844477?se=fOFX1CxR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=0B757B31FBEDBEE8FC463BC5AF073624DFE5C608)
+  - Company: Braintrust | South Boston, Suffolk County
+  - About Give Lively Give Lively builds better fundraising technology for nonprofits and gives it away for free. Our platfo...
+
+- [Site Reliability Engineer](https://www.adzuna.com/land/ad/5730844208?se=fOFX1CxR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=59F144CFA2E7E775E6196B5AA112977790073359)
+  - Company: TrustMinds, Inc. | US
+  - Site Reliability Engineer Remote: Yes SUMMARY Client is seeking a Site Reliability Engineer (SRE) to strengthen the scal...
+
+- [Site Reliability Engineer, CI/CD & Load Testing (US-Remote)](https://www.adzuna.com/land/ad/5730844173?se=fOFX1CxR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=1BAAA2B500220A399DCF775BFE827139CE3AA4CB)
+  - Company: Braintrust | Times Square, King County
+  - About Give Lively Give Lively builds better fundraising technology for nonprofits and gives it away for free. Our platfo...
+
+- [Site Reliability Engineer, CI/CD & Load Testing (US-Remote)](https://www.adzuna.com/land/ad/5730843182?se=fOFX1CxR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=1F6EC7FD1E04A482C737B6B00A1DC9140CE30F9E)
+  - Company: Braintrust | Grand Central, Manhattan
+  - About Give Lively Give Lively builds better fundraising technology for nonprofits and gives it away for free. Our platfo...
+
+- [Site Reliability Engineer, CI/CD & Load Testing (US-Remote)](https://www.adzuna.com/land/ad/5730842800?se=fOFX1CxR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=01366082E24CEF23DB2FD076C94D2DB00F3DA2A7)
+  - Company: Braintrust | Hayes Valley, San Francisco
+  - About Give Lively Give Lively builds better fundraising technology for nonprofits and gives it away for free. Our platfo...
+
+- [Site Reliability Engineer, CI/CD & Load Testing (US-Remote)](https://www.adzuna.com/land/ad/5730841534?se=fOFX1CxR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=411DE482AD74735221C4E98EA0D58214E30DDBEE)
+  - Company: Braintrust | Bee Cave, Travis County
+  - About Give Lively Give Lively builds better fundraising technology for nonprofits and gives it away for free. Our platfo...
+
+- [Senior Site Reliability Engineer (SRE)](https://www.adzuna.com/land/ad/5730840530?se=fOFX1CxR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=B334C7E1E6C6D66C7B3F11C2F7793B6A968DDF4F)
+  - Company: Innovative IT Solutions Inc | US
+  - Hi, Hope you are doing well Role: Senior Site Reliability Engineer (SRE) Location: Remote Mode: Contract Job Description...
+
+- [Site Reliability Engineer / Google Cloud Platform / Remote](https://www.adzuna.com/land/ad/5683637277?se=QC1R1SxR8RGH_dNRytL1PQ&utm_medium=api&utm_source=632a28fd&v=C7D908E3E660161F3F290E98D272B607E7D6A2E5)
+  - Company: Motion Recruitment Partners, LLC | US
+  - This is a Site Reliability Engineer opportunity supporting a high-scale platform in the real-money gaming and lottery sp...
+
+- [Site Reliability Engineer / Remote](https://www.adzuna.com/land/ad/5683626902?se=QC1R1SxR8RGH_dNRytL1PQ&utm_medium=api&utm_source=632a28fd&v=ED7F59AE0759E4A01B5543C8229234B95254335F)
+  - Company: Motion Recruitment Partners, LLC | US
+  - Join a fast-moving gaming technology company as a Site Reliability Engineer, ensuring a real-money gaming platform opera...
+
+- [100 % Remote - SRE Site Reliability Engineer - Data Visualization - Senior Observability Engineer Telemetry & Tooling](https://www.adzuna.com/land/ad/5683252701?se=QC1R1SxR8RGH_dNRytL1PQ&utm_medium=api&utm_source=632a28fd&v=8F23BCFD5720292355D4D94EFD9B73FA47881543)
+  - Company: GRT Corporation | US
+  - 100 % Remote Work from Home SRE Site Reliability Engineer - Data Visualization - Senior Observability Engineer – Telemet...
+
+- [AI Platform Engineer (Remote) (Hiring Immediately)](https://www.adzuna.com/land/ad/5731350471?se=VltX1ixR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=A2DA77CAF418DA8106B6B57949BA16C832C935E5)
+  - Company: Outlier AI | US
+  - About the Project Outlier helps the world’s most innovative companies improve their AI agents by providing human feedbac...
+
+- [AI Platform Engineer (Remote) (Hiring Immediately)](https://www.adzuna.com/land/ad/5731350450?se=VltX1ixR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=654A150C251E5B58B5E8BC02C6C7825BCAE9E497)
+  - Company: Outlier AI | Dallas, Texas
+  - About the Project Outlier helps the world’s most innovative companies improve their AI agents by providing human feedbac...
+
+- [Software Engineer II](https://www.adzuna.com/land/ad/5731313454?se=VltX1ixR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=AFBF6615E45DEE3088A3E97749AE225CF845C3C4)
+  - Company: The Walt Disney Company | Seattle, King County
+  - Job Posting Title: Software Engineer II Req ID: 10150611 Job Description: Disney Entertainment and ESPN Product & Techno...
+
+- [Senior Platform Engineer](https://www.adzuna.com/details/5731268408?utm_medium=api&utm_source=632a28fd)
+  - Company: Pondurance | Mc Lean, Fairfax County
+  - Senior Platform Engineer REMOTE About the Role: As a Senior Platform Engineer, you will play a key role in supporting an...
+
+- [Data Platform Engineer (Remote)](https://www.adzuna.com/land/ad/5731188332?se=VltX1ixR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=C3C8DF7FE5A10F9DEA4C24445176667E38222998)
+  - Company: Paymentology | US
+  - At Paymentology , we’re redefining what’s possible in the payments space. As the first truly global issuer-processor, we...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/details/5731137166?utm_medium=api&utm_source=632a28fd)
+  - Company: SitusAMC | US
+  - SitusAMC is where the best and most passionate people come to transform our client’s businesses and their own careers. W...
+
+- [Data Platform Engineer (Remote)](https://www.adzuna.com/land/ad/5731122499?se=VltX1ixR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=F008F2CEC82FA5256FDCD9B31ED5BE637C8B1C23)
+  - Company: Paymentology | US
+  - At Paymentology , we’re redefining what’s possible in the payments space. As the first truly global issuer-processor, we...
+
+- [Software Engineer II](https://www.adzuna.com/land/ad/5731035068?se=VltX1ixR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=8C7CD9E9BD6111DA17B21B1A3CF012C1EAAC736D)
+  - Company: The Walt Disney Company | Seattle, King County
+  - Job Posting Title: Software Engineer II Req ID: 10150611 Job Description: Disney Entertainment and ESPN Product & Techno...
+
+- [Azure Platform Engineer with (Azure Networking) || (Remote- Toronto, ON)](https://www.adzuna.com/land/ad/5730844015?se=VltX1ixR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=544EF8795BBFEDB9E48B8E21C4EBEB4E4806596E)
+  - Company: K&K Global Talent Solutions | US
+  - Hi, Hope you are doing well Please find the job description below and let me know your interest. Position: Azure Platfor...
+
+- [Platform Engineer AI & Automation Platform](https://www.adzuna.com/land/ad/5730842809?se=VltX1ixR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=8B3744914F9F28662A2B94E4F951D4E4197D4A02)
+  - Company: Radiant System, Inc | US
+  - Platform Engineer AI & Automation Platform REMOTE 06 Months About the Role We are seeking a highly technical Platform En...
+
+- [100% Remote- Senior Full-Stack Engineer GenAI Platform](https://www.adzuna.com/land/ad/5730842257?se=VltX1ixR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=F2798CF2AB9BD09BEC0C1C01C3A2FA607838E16D)
+  - Company: Kutir Inc | US
+  - Hi, Please check the job description as below and let me know you if you would be interested and available. Please let m...
+
+- [AXP - Adobe](https://www.adzuna.com/land/ad/5730842031?se=VltX1ixR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=D61DF54408E3E542540E3A43C7817B0C67611E70)
+  - Company: Pilvi Systems | US
+  - I have 3 roles , Please check and share me Resume to 1) Adobe Experience Platform (AXP) Engineer 100% Remote Role Skill ...
+
+- [Senior DevSecOps Engineer - Platform and Tooling (Remote)](https://www.adzuna.com/land/ad/5730489157?se=VltX1ixR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=4568A1265D5DCD53F3D6A1893A129E2DA2151551)
+  - Company: AbbVie | Atlanta, Fulton County
+  - Job Description Job Description Company Description AbbVie's mission is to discover and deliver innovative medicines and...
+
+- [Lead Software Engineer, AI Platform (Remote)](https://www.adzuna.com/details/5730136437?utm_medium=api&utm_source=632a28fd)
+  - Company: Lennar | Irving, Dallas
+  - We are Lennar Lennar is one of the nation's leading homebuilders, dedicated to making an impact and creating an extraord...
+
+- [BI Platform Engineer](https://www.adzuna.com/details/5728586348?utm_medium=api&utm_source=632a28fd)
+  - Company: Noblesoft Technologies | Texas, US
+  - Title: Senior BI Platform Engineer Location: Houston, Texas Remote JD: SQL Server Analysis Services (SSAS) SQL Server Re...
+
+- [Azure Data/Data Platform Engineer](https://www.adzuna.com/details/5728585323?utm_medium=api&utm_source=632a28fd)
+  - Company: Stellent IT LLC | US
+  - Position: Azure Data/Data Platform Engineer Location: REMOTE some travel to Washington, D.C. Duration: 12 month contract...
+
+- [Scientific Computing Platform Engineer](https://www.adzuna.com/land/ad/5728207471?se=hAws1yxR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=210481449CC18DC14296817A0E8F526D99BFDEF6)
+  - Company: Infodyne Solutions | Lake Sherwood, Ventura County
+  - Scientific Computing Platform Engineer Location: LA / Remote Primary Skills: Python, AWS S3, Linux, IAM/Okta integration...
+
+- [Platform Engineer](https://www.adzuna.com/land/ad/5728206190?se=hAws1yxR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=AE86F850562AC35B1AD006A2B3E6D7FC623B1D10)
+  - Company: Sriven Systems Inc. | US
+  - Position: Platform Engineer (Backstage) Location: Remote Key Responsibilities: Develop and customize Backstage including...
+
+- [Azure Data/Data Platform Engineer](https://www.adzuna.com/land/ad/5728162484?se=hAws1yxR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=CC3B487C41E2B435C0C05168C1822A85CFD588C2)
+  - Company: Stellent IT LLC | US
+  - Position: Azure Data/Data Platform Engineer Location: REMOTE some travel to Washington, D.C. Duration: 12 month contract...
+
+- [Senior AWS/Azure/Google Cloud Platform Cloud Engineer - Fully REMOTE - Must have State experience of 3-5 years](https://www.adzuna.com/land/ad/5727403413?se=hAws1yxR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=CD64EC1374DE98B8362A90F58C5AF2651DDE0350)
+  - Company: RICEFW Technologies Inc | US
+  - Interviews will be via Teams. Position is 95% offsite, but selected candidate must be available for in-office as needed....
+
+- [Senior Software Engineer, Cloud](https://www.adzuna.com/details/5731295299?utm_medium=api&utm_source=632a28fd)
+  - Company: Abbott | Abbott Park, Lake County
+  - Abbott is a global healthcare leader that helps people live more fully at all stages of life. Our portfolio of life-chan...
+
+- [Senior Software Engineer, Cloud](https://www.adzuna.com/details/5730860851?utm_medium=api&utm_source=632a28fd)
+  - Company: Abbott | Downey, Lake County
+  - Abbott is a global healthcare leader that helps people live more fully at all stages of life. Our portfolio of life-chan...
+
+- [Cloud Support Engineer - Remote / Telecommute](https://www.adzuna.com/details/5730855861?utm_medium=api&utm_source=632a28fd)
+  - Company: Cynet Systems | Alpharetta, Fulton County
+  - Job Overview: Requirement: CI/CD. Jenkins. Terraform. AWS core services. Provide operational and engineering support for...
+
+- [AWS Cloud Engineer](https://www.adzuna.com/details/5730854591?utm_medium=api&utm_source=632a28fd)
+  - Company: Match Point Solutions | Missouri, US
+  - MatchPoint Solutions is a fast-growing, young, energetic global IT-Engineering services company with clients across the ...
+
+- [Cloud Security Engineer](https://www.adzuna.com/details/5730853469?utm_medium=api&utm_source=632a28fd)
+  - Company: VDart Inc | Murphy, Collin County
+  - Cloud Security Engineer Plano, TX (Remote is also fine) Contract Experience: 12 Years Roles & Responsibilities Extensive...
+
+- [AWS Cloud Engineer III](https://www.adzuna.com/land/ad/5730844977?se=2hki2CxR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=A2625AB60BFCC33AFE1F18CA46B9B197CCF7DD68)
+  - Company: Apex Systems | Michigan, US
+  - Job: 3034307 Job Description: Job Title: AWS Cloud Engineer III Location: Remote (EST Hours) Length: 6 months Pay Range:...
+
+- [Lead Azure Data Engineer – Cloud Data Integration & Transformation](https://www.adzuna.com/land/ad/5730844920?se=2hki2CxR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=0CFCCB293173B405FE5BE2F07DC074385A2106A1)
+  - Company: Logicplanet, Inc. | US
+  - Job Title: Lead Azure Data Engineer – Cloud Data Integration & Transformation Location: Remote (CST/EST Hours) Duration:...
+
+- [Cloud Security Engineer](https://www.adzuna.com/land/ad/5730844891?se=2hki2CxR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=B486286D532CB2FE33B2B9D844F7B3999D43F9CB)
+  - Company: Tekfortune Inc. | US
+  - Role Cloud Security Engineer Location Remote Wiz PrismaCloud CSPM CWPP DSPM AISPM ContainerSecurity = Experience: 12 Yea...
+
+- [AWS Cloud Engineer III](https://www.adzuna.com/land/ad/5730844345?se=2hki2CxR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=915B5481A1BA80CEAE9A94B2F9B1923F7F72C3D1)
+  - Company: V-Soft Consulting Group, Inc | Jacks Cabin, Gunnison County
+  - AWS Cloud Engineer III (Remote) Primary Location: Remote V-Soft Consulting is currently hiring for an AWS Cloud Engineer...
+
+- [AWS Cloud Engineer III](https://www.adzuna.com/land/ad/5730842606?se=2hki2CxR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=CFC346BD20C7878F738E6A37E3657165916208B8)
+  - Company: Apex Systems | Michigan, US
+  - Job: 3034306 Job Description: Job Title: AWS Cloud Engineer III Location: Remote (EST Hours) Length: 6 months Pay Range:...
+
+- [AWS Cloud Engineer III](https://www.adzuna.com/land/ad/5730842002?se=2hki2CxR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=5C8B092D4A2CF4A3125606165BF650D77DD41913)
+  - Company: V-Soft Consulting Group, Inc | Jacks Cabin, Gunnison County
+  - AWS Cloud Engineer III (Remote) Primary Location: Remote V-Soft Consulting is currently hiring for an AWS Cloud Engineer...
+
+- [AWS Cloud Engineer](https://www.adzuna.com/land/ad/5730841981?se=2hki2CxR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=CF4F0EBA597C74F19D6B10D98FFA77C395DB08C9)
+  - Company: Javen Technologies, Inc | US
+  - AWS Cloud Engineer Contract 100% Remote Note: More focused on Computes, responsible for compute, how its built, looking ...
+
+- [Azure Cloud Engineer](https://www.adzuna.com/land/ad/5730841622?se=2hki2CxR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=44F8B5F39FF853E6136B0B06E313D4ABAD6627EC)
+  - Company: Rohnium Inc | US
+  - Role: Azure Cloud Engineer Location: Remote USA Type: 12 months contract role Important: Candidates must be authorized t...
+
+- [Sr. Systems Engineer – AWS Cloud Applications / Remote](https://www.adzuna.com/land/ad/5730841363?se=2hki2CxR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=72BCE96620EF29F6E4A1715B5A43A510CBDD4710)
+  - Company: Apetan Consulting | US
+  - Job Title: Sr. Systems Engineer – AWS Cloud Applications / Remote Location : Remote Job Summary: We are looking for a Se...
+
+- [Senior Cloud Security Engineer](https://www.adzuna.com/land/ad/5730840711?se=2hki2CxR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=B2A4AB245ED42841B1B02088CFE8E0B8F402D122)
+  - Company: Lucid Technologies | US
+  - Job Title: Senior Cloud Security Engineer Location: Work will be remote with candidates located in Morrisville, NC; Fall...
+
+- [AWS Cloud Engineer (Remote) (Hiring Immediately)](https://www.adzuna.com/land/ad/5729877894?se=RtLj2CxR8RGNw-9vM3bulQ&utm_medium=api&utm_source=632a28fd&v=D6F30156803A0FCCD70F00666A16BF3CDDB58F55)
+  - Company: Outlier AI | US
+  - Overview Outlier is committed to improving the intelligence & safety of AI models. Owned and operated by Scale AI, we’ve...
+
+- [INTL-India- Lead Cloud and AI Engineer](https://www.adzuna.com/land/ad/5728704886?se=RtLj2CxR8RGNw-9vM3bulQ&utm_medium=api&utm_source=632a28fd&v=12356189979400DB7570633D9A7583A44A2C5467)
+  - Company: Insight Global | Villa Hills, Kenton County
+  - Job Description A fortune 100 organization is seeking a Lead Cloud and AI Engineer that will start remote but eventually...
+
+- [Infrastructure Design Engineer](https://www.adzuna.com/details/5731070038?utm_medium=api&utm_source=632a28fd)
+  - Company: Astreya | US
+  - Job Title: Infrastructure Design Engineer (Remote, Seattle Time Zone) Location: Remote Job Type: Full-time We are lookin...
+
+- [IBM Workload Scheduler Administrator / Infrastructure Engineer](https://www.adzuna.com/details/5730853509?utm_medium=api&utm_source=632a28fd)
+  - Company: ReqRoute,Inc | Bannockburn, Lake County
+  - Job Title: IBM Workload Scheduler Administrator / Infrastructure Engineer Location: Riverwoods, IL (Hybrid, but remote m...
+
+- [Infrastructure Engineer - Confluent Kafka](https://www.adzuna.com/land/ad/5730842438?se=4Fzc2SxR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=DA60DA53A4029E1694E24091DC0A3B88786D7FF7)
+  - Company: Ztek Consulting | US
+  - Job Role: Infrastructure Engineer - Confluent Kafka Location: Remote Job Description: Must Have Technical/Functional Ski...
+
+- [Infrastructure Engineer -Confluent Kafka](https://www.adzuna.com/land/ad/5730841331?se=4Fzc2SxR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=4C9C79D63573B44E559BE1ABFDC698BC62EE35D3)
+  - Company: Stanley David and Associates | US
+  - Role :: Infrastructure Engineer -Confluent Kafka Location :: Remote Type :: Fulltime Job Description Infrastructure Engi...
+
+- [Sr. Infrastructure Engineer - Kubernetes (Remote)](https://www.adzuna.com/details/5730060161?utm_medium=api&utm_source=632a28fd)
+  - Company: CrowdStrike | US
+  - As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organ...
+
+- [DevSecOps Engineer- Infrastructure- LGY](https://www.adzuna.com/land/ad/5728868178?se=4Fzc2SxR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=752BB6EF85363A66432820E3844710B218AC57EA)
+  - Company: HigherEchelon | US
+  - DevSecOps Engineer- Infrastructure Location: Remote Description: Seeking a DevSecOps Engineer- Infrastructure to support...
+
+- [AI Infrastructure Engineer](https://www.adzuna.com/land/ad/5728161347?se=4Fzc2SxR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=374685DDEA4CC231388F9D241BAB04075FFCE354)
+  - Company: International Solutions Group | US
+  - About ISG International Solutions Group (ISG) - An award-winning IT services company. Our company is based in Herndon, V...
+
+- [Senior DevSecOps Engineer (Remote)](https://www.adzuna.com/details/5731142509?utm_medium=api&utm_source=632a28fd)
+  - Company: Integrated Data Services | US
+  - Company Overview: Integrated Data Services (IDS) is a leading provider of custom software products and Government financ...
+
+- [Senior Data Engineer](https://www.adzuna.com/land/ad/5730841554?se=RnyR2yxR8RGH_dNRytL1PQ&utm_medium=api&utm_source=632a28fd&v=FA680AE71C3BF48FC29FB53E1B0B46DC63192272)
+  - Company: Decisionpoint Corporation | US
+  - Overview DecisionPoint seeks a Data Engineer to design, develop, and maintain secure data pipelines, transformations, an...
+
+- [Senior Data Engineer](https://www.adzuna.com/details/5730185128?utm_medium=api&utm_source=632a28fd)
+  - Company: DecisionPoint | US
+  - DecisionPoint seeks a Data Engineer to design, develop, and maintain secure data pipelines, transformations, and analyti...
+
+- [Data Engineer](https://www.adzuna.com/details/5728870218?utm_medium=api&utm_source=632a28fd)
+  - Company: INflow Federal | Arlington, Arlington County
+  - About INflow Federal - founded in 2013, INflow Federal is a mission-driven small business delivering cutting-edge soluti...
+
+- [Data Engineer](https://www.adzuna.com/details/5728662607?utm_medium=api&utm_source=632a28fd)
+  - Company: INflow | State Farm, Arlington County
+  - Data Engineer About INflow Federal - founded in 2013, INflow Federal is a mission-driven small business delivering cutti...
+
+- [DevSecOps Engineer (AWS Cloud)](https://www.adzuna.com/land/ad/5712834390?se=RnyR2yxR8RGH_dNRytL1PQ&utm_medium=api&utm_source=632a28fd&v=4AD5AFA1D69251D38F40199D8BA2BDBD0F6DE6DF)
+  - Company: System One | Montgomery Village, Montgomery County
+  - DevSecOps Engineer (AWS Cloud) Hybrid - Remote Gaithersburg, MD Contract-to-Hire Compensation : $97/hour Security Cleara...
+
+- [Software Engineer / Application Packager](https://www.adzuna.com/land/ad/5709765289?se=RnyR2yxR8RGH_dNRytL1PQ&utm_medium=api&utm_source=632a28fd&v=AB9387D4209ECE82942C360D9886B469EBD9BE61)
+  - Company: Apex Systems | South Norfolk, Chesapeake City
+  - Job: 3030796 Job Description: (100% Remote) - Software / DevSecOps Engineer -  $145,000 - $160,000  Apex Systems has an ...
+
+- [DevSecOps Engineer (Data & Integration)](https://www.adzuna.com/land/ad/5701275093?se=RnyR2yxR8RGH_dNRytL1PQ&utm_medium=api&utm_source=632a28fd&v=1ED79E378403B98311001881C954380FFD5E7C3E)
+  - Company: Decisionpoint Corporation | US
+  - Overview DecisionPoint seeks a DevSecOps Engineer (Data & Integration) to support automation, security, and monitoring o...
+
+- [Data Engineer](https://www.adzuna.com/land/ad/5701275083?se=RnyR2yxR8RGH_dNRytL1PQ&utm_medium=api&utm_source=632a28fd&v=A35DD9D41513AEB1C4F4BA863D886235F38E9428)
+  - Company: Decisionpoint Corporation | US
+  - Overview DecisionPoint seeks a Data Engineer to design, develop, and maintain secure data pipelines, transformations, an...
+
+- [Mid-Level DevSecOps Engineer](https://www.adzuna.com/land/ad/5697269151?se=RnyR2yxR8RGH_dNRytL1PQ&utm_medium=api&utm_source=632a28fd&v=52C8C07AEC7CE1126ECA4B352B3CED499150F871)
+  - Company: Leidos | Huntsville, Madison County
+  - Looking for an opportunity to make an impact? At Leidos, we deliver innovative solutions through the efforts of our dive...
+
+- [Sr. Software Engineer - SRE](https://www.adzuna.com/land/ad/5718551006?se=dquV3CxR8RGH_dNRytL1PQ&utm_medium=api&utm_source=632a28fd&v=3271C8A6E8DD6482AC0CCC5F9B2DBAABD03DC4F1)
+  - Company: Golden Resources. Inc. | Alaska, US
+  - Your Next Career Move Starts Here The Role : Senior Software Engineer - SRE Location: Remote Type: Full time What You ll...
+
+- [DevOps Engineer SRE](https://www.adzuna.com/land/ad/5691608010?se=dquV3CxR8RGH_dNRytL1PQ&utm_medium=api&utm_source=632a28fd&v=4D972BD5D72FF5B436CA64EA39F872A3534DCE9D)
+  - Company: Triune Infomatics Inc | US
+  - Senior DevOps Engineer SRE Location: Remote Duration: 12 months Overview We are seeking a highly skilled Senior DevOps E...
+
+- [Azure Kubernetes (AKS) Engineer](https://www.adzuna.com/land/ad/5728161214?se=vmVv3SxR8RGH_dNRytL1PQ&utm_medium=api&utm_source=632a28fd&v=3EB2661558D4875600D464B3395384242A61D3A3)
+  - Company: Kainos Innovative Solutions Inc | US
+  - Position: Azure Kubernetes (AKS) Engineer Location: Remote Job Summary: We are looking for a skilled Azure Kubernetes (A...
+
+- [Lead Software Engineer (TechOps/Kubernetes)](https://www.adzuna.com/land/ad/5720664105?se=vmVv3SxR8RGH_dNRytL1PQ&utm_medium=api&utm_source=632a28fd&v=731293FEEBC85571BFAE41A50D48C15FC54F7E31)
+  - Company: INSPYR Solutions | US
+  - Lead Software Engineer (TechOps/Kubernetes) - Direct-Hire/FTE - Remote (US) Title: Lead Software Engineer (TechOps/Kuber...
+
+- [Senior AWS Hybrid Cloud Engineer](https://www.adzuna.com/land/ad/5714914813?se=vmVv3SxR8RGH_dNRytL1PQ&utm_medium=api&utm_source=632a28fd&v=AAB73CDD071D47CBE165B7DD9380AFBDFD27C656)
+  - Company: CDW Amplified Services | Wisconsin, US
+  - Senior Hybrid AWS Cloud Engineer (IAM, Kubernetes, Automation) Remote Contract to Hire (CDW W2 Contract Coworker) CDW is...
+
+- [Kubernetes Platform Engineer](https://www.adzuna.com/land/ad/5713818513?se=Ius53ixR8RGiJchPzKRtww&utm_medium=api&utm_source=632a28fd&v=DED92B6CFC3CBBC899E68258E4252FE9FF73EB6C)
+  - Company: ARK Solutions Inc | US
+  - Position: Kubernetes Platform Engineer Location: Bethesda, MD (Remote) Hire Type: Contract Job Description: Kubernetes P...
