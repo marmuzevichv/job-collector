@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-05-15 14:05 UTC
+Generated: 2026-05-16 13:19 UTC
 
-Total new jobs: 96
+Total new jobs: 97
 
 ## greenhouse
 
@@ -353,6 +353,10 @@ Total new jobs: 96
 - [Cloud Enablement Engineer US](https://remoteOK.com/remote-jobs/remote-cloud-enablement-engineer-us-quanata-1131488)
   - Company: Quanata
   - Location: Remote-US
+
+- [DevRel Content Creator](https://remoteOK.com/remote-jobs/remote-devrel-content-creator-superplane-1131594)
+  - Company: SuperPlane
+  - Location: Worldwide
 
 - [Tooling Engineer](https://remoteOK.com/remote-jobs/remote-tooling-engineer-unikraft-1131540)
   - Company: Unikraft

@@ -9,8 +9,8 @@
     "url": "https://careers.airbnb.com/positions/7917632?gh_jid=7917632",
     "external_id": "greenhouse::7917632",
     "description_snippet": "",
-    "posted_at": "2026-05-13T13:15:51-04:00",
-    "collected_at_utc": "2026-05-14 14:08:23"
+    "posted_at": "2026-05-14T13:55:30-04:00",
+    "collected_at_utc": "2026-05-16 13:19:20"
   },
   {
     "source_type": "greenhouse",
@@ -218,7 +218,7 @@
     "external_id": "greenhouse::5778617004",
     "description_snippet": "",
     "posted_at": "2026-05-14T04:40:50-04:00",
-    "collected_at_utc": "2026-05-14 14:08:23"
+    "collected_at_utc": "2026-05-16 13:19:20"
   },
   {
     "source_type": "greenhouse",
@@ -1199,6 +1199,23 @@
     "description_snippet": "",
     "posted_at": "2026-05-07T12:14:47-04:00",
     "collected_at_utc": "2026-05-15 14:04:30"
+  },
+  {
+    "source_type": "remoteok",
+    "company": "SuperPlane",
+    "title": "DevRel Content Creator",
+    "location": "Worldwide",
+    "team": "",
+    "categories": [
+      "marketing",
+      "dev",
+      "devops"
+    ],
+    "url": "https://remoteOK.com/remote-jobs/remote-devrel-content-creator-superplane-1131594",
+    "external_id": "remoteok::1131594",
+    "description_snippet": "About SuperPlane SuperPlane is an open source control plane where AI agents and engineers run operations together. We're a team of 10, founded by the creators of Semaphore CI/CD. Our users are DevOps and platform engineers at mid-size to large engineering orgs. We have a product engineers love, an o",
+    "posted_at": "2026-05-14T15:12:08+00:00",
+    "collected_at_utc": "2026-05-16 13:19:20"
   },
   {
     "source_type": "remoteok",
