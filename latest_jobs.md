@@ -1,6 +1,6 @@
 # New jobs
 
-Generated: 2026-05-17 13:18 UTC
+Generated: 2026-05-18 15:30 UTC
 
 Total new jobs: 94
 
@@ -74,15 +74,15 @@ Total new jobs: 94
   - Company: clickhouse
   - Location: Remote
 
-- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843425004)
-  - Company: clickhouse
-  - Location: Remote
-
 - [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843423004)
   - Company: clickhouse
   - Location: Remote
 
-- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843422004)
+- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843425004)
+  - Company: clickhouse
+  - Location: Remote
+
+- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843424004)
   - Company: clickhouse
   - Location: Remote
 
@@ -90,7 +90,7 @@ Total new jobs: 94
   - Company: clickhouse
   - Location: Remote
 
-- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843424004)
+- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843422004)
   - Company: clickhouse
   - Location: Remote
 
@@ -102,15 +102,11 @@ Total new jobs: 94
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5828333004)
-  - Company: clickhouse
-  - Location: Remote
-
 - [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819757004)
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819754004)
+- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5828333004)
   - Company: clickhouse
   - Location: Remote
 
@@ -118,11 +114,11 @@ Total new jobs: 94
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819678004)
+- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819754004)
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819674004)
+- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819678004)
   - Company: clickhouse
   - Location: Remote
 
@@ -135,6 +131,10 @@ Total new jobs: 94
   - Location: Remote
 
 - [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819677004)
+  - Company: clickhouse
+  - Location: Remote
+
+- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819674004)
   - Company: clickhouse
   - Location: Remote
 
@@ -162,11 +162,11 @@ Total new jobs: 94
   - Company: gitlab
   - Location: Remote
 
-- [Intermediate Site Reliability Engineer, Environment Automation](https://job-boards.greenhouse.io/gitlab/jobs/8464417002)
+- [Intermediate Site Reliability Engineer, Environment Automation](https://job-boards.greenhouse.io/gitlab/jobs/8504232002)
   - Company: gitlab
   - Location: Remote
 
-- [Intermediate Site Reliability Engineer, Environment Automation](https://job-boards.greenhouse.io/gitlab/jobs/8504232002)
+- [Intermediate Site Reliability Engineer, Environment Automation](https://job-boards.greenhouse.io/gitlab/jobs/8464417002)
   - Company: gitlab
   - Location: Remote
 
@@ -226,11 +226,11 @@ Total new jobs: 94
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7821316)
+- [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7821318)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7821318)
+- [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7821316)
   - Company: mongodb
   - Location: Remote
 
@@ -238,19 +238,15 @@ Total new jobs: 94
   - Company: mongodb
   - Location: Remote
 
-- [Team Lead, Site Reliability Engineering - Storage Layer Service](https://www.mongodb.com/careers/job/?gh_jid=7818635)
-  - Company: mongodb
-  - Location: Remote
-
 - [Team Lead, Site Reliability Engineering - Storage Layer Service](https://www.mongodb.com/careers/job/?gh_jid=7743304)
   - Company: mongodb
   - Location: Remote
 
-- [DevOps Data Engineer](https://www.okta.com/company/careers/opportunity/7615384?gh_jid=7615384)
-  - Company: okta
+- [Team Lead, Site Reliability Engineering - Storage Layer Service](https://www.mongodb.com/careers/job/?gh_jid=7818635)
+  - Company: mongodb
   - Location: Remote
 
-- [Senior Adobe Experience Cloud Engineer](https://www.okta.com/company/careers/opportunity/7629690?gh_jid=7629690)
+- [DevOps Data Engineer](https://www.okta.com/company/careers/opportunity/7615384?gh_jid=7615384)
   - Company: okta
   - Location: Remote
 
@@ -286,6 +282,10 @@ Total new jobs: 94
   - Company: okta
   - Location: Remote
 
+- [SRE Operations Engineer](https://www.okta.com/company/careers/opportunity/7464025?gh_jid=7464025)
+  - Company: okta
+  - Location: Remote
+
 - [Sr. Production Engineer](https://www.pinterestcareers.com/jobs/?gh_jid=7747172)
   - Company: pinterest
   - Location: Remote
@@ -311,11 +311,6 @@ Total new jobs: 94
   - Location: Remote
 
 ## jobicy
-
-- [DevOps Enablement Engineer / SDLC Lead](https://jobicy.com/jobs/142050-devops-enablement-engineer-sdlc-lead)
-  - Company: ECS
-  - Location: USA
-  - Level/Team: DevOps &amp; Infrastructure
 
 - [Cloud Operations Admin](https://jobicy.com/jobs/142149-cloud-operations-admin)
   - Company: Inspira Financial
@@ -345,6 +340,10 @@ Total new jobs: 94
   - Level/Team: Engineering
 
 ## remoteok
+
+- [Senior Database Reliability Engineer](https://remoteOK.com/remote-jobs/remote-senior-database-reliability-engineer-cloudlinux-1131613)
+  - Company: Cloudlinux
+  - Location: Worldwide
 
 - [DevRel Content Creator](https://remoteOK.com/remote-jobs/remote-devrel-content-creator-superplane-1131594)
   - Company: SuperPlane
