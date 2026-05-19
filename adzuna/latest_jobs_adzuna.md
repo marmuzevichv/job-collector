@@ -1,7 +1,7 @@
 # Jobs via Adzuna API
 
-Generated: 2026-05-18 15:41 UTC
-Total jobs (24h window): 336
+Generated: 2026-05-19 15:33 UTC
+Total jobs (24h window): 405
 
 - [DevOps Engineer - Infrastructure & Security](https://www.adzuna.com/land/ad/5732165540?se=vE4B_M9S8RG2Tr7n9lAkkw&utm_medium=api&utm_source=632a28fd&v=D4DFB0C7ECEAFDB26C0374DFCCEDDC7689E5F339)
   - Company: Cognizant | Madison, Dane County
@@ -1346,3 +1346,279 @@ Total jobs (24h window): 336
 - [Sr. Software Engineer](https://www.adzuna.com/details/5665460172?utm_medium=api&utm_source=632a28fd)
   - Company: Suse Rgs | Reston, Fairfax County
   - Senior Software Engineer (Go & Kubernetes Expertise) Location: Remote COMPANY DESCRIPTION Rancher Government Solutions (...
+
+- [Site Reliability Engineer (SRE)](https://www.adzuna.com/details/5733910713?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Prosper, Collin County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Site Reliability Engineer (SRE)](https://www.adzuna.com/details/5733835157?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Bellevue, King County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Site Reliability Engineer (SRE)](https://www.adzuna.com/details/5733797848?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Fremont, Alameda County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Site Reliability Engineer (SRE)](https://www.adzuna.com/details/5733706591?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Alpharetta, Fulton County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Senior Site Reliability Engineer (Remote)](https://www.adzuna.com/details/5733677988?utm_medium=api&utm_source=632a28fd)
+  - Company: AbbVie | Mettawa, Lake County
+  - Job Description AbbVie Information Security is looking for a highly motivated, diligent, and skillful Site Reliability E...
+
+- [Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5733618162?se=cBJdGZhT8RGI_uQJR_0NbQ&utm_medium=api&utm_source=632a28fd&v=9F1FD3FF3E699CCED0D21D08CE2DBA3F4BE2D4E7)
+  - Company: UnitedHealth Group | Eden Prairie, Hennepin County
+  - Requisition number: 2358259 Job category: Technology For those who want to invent the future of health care, here's your...
+
+- [Senior Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5733618155?se=cBJdGZhT8RGI_uQJR_0NbQ&utm_medium=api&utm_source=632a28fd&v=3C3758A95A3A3E002750C350310F9E74B44C123C)
+  - Company: UnitedHealth Group | Eden Prairie, Hennepin County
+  - Requisition number: 2358829 Job category: Technology For those who want to invent the future of health care, here's your...
+
+- [Remote role of Site Reliability Engineer Systems Analyst VII (SRE)](https://www.adzuna.com/details/5706616962?utm_medium=api&utm_source=632a28fd)
+  - Company: Buffalo, NY | Buffalo, Erie County
+  - Site Reliability Engineer Systems Analyst VII (SRE) 100% Remote 6-month contract Web Cam Interview $80-$100/Hr on W2 NOT...
+
+- [Senior Backend Engineer (High-Throughput Platforms)](https://www.adzuna.com/details/5733943324?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Alpharetta, Fulton County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Kafka Platform Engineer](https://www.adzuna.com/details/5733921280?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Frisco, Collin County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [PLM Platform Engineer (Windchill / Teamcenter)](https://www.adzuna.com/details/5733905017?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Frisco, Collin County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [VMware Platform Engineer](https://www.adzuna.com/details/5733880690?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Frisco, Collin County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [VMware Platform Engineer](https://www.adzuna.com/details/5733878961?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Fremont, Alameda County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [SAP Basis / SAP Platform Engineer](https://www.adzuna.com/details/5733872032?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Alpharetta, Fulton County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [PLM Platform Engineer (Windchill / Teamcenter)](https://www.adzuna.com/details/5733868423?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Alpharetta, Fulton County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [VMware Platform Engineer](https://www.adzuna.com/details/5733867243?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Alpharetta, Fulton County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [SAP Basis / SAP Platform Engineer](https://www.adzuna.com/details/5733866623?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Bellevue, King County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [VMware Platform Engineer](https://www.adzuna.com/details/5733826883?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Naperville, DuPage County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Senior Backend Engineer (High-Throughput Platforms)](https://www.adzuna.com/details/5733798656?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Frisco, Collin County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Kafka Platform Engineer](https://www.adzuna.com/details/5733798330?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Alpharetta, Fulton County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [SAP Basis / SAP Platform Engineer](https://www.adzuna.com/details/5733795994?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Fremont, Alameda County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Senior Backend Engineer (High-Throughput Platforms)](https://www.adzuna.com/details/5733794810?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Fremont, Alameda County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [SAP Basis / SAP Platform Engineer](https://www.adzuna.com/details/5733794684?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Prosper, Collin County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [LLM Platform Engineer (Windchill / Teamcenter)](https://www.adzuna.com/details/5733717940?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Bellevue, King County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [VMware Platform Engineer](https://www.adzuna.com/details/5733703525?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Bellevue, King County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Kafka Platform Engineer](https://www.adzuna.com/details/5733699410?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Bellevue, King County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [PLM Platform Engineer (Windchill / Teamcenter)](https://www.adzuna.com/details/5733691787?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Fremont, Alameda County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Senior Backend Engineer (High-Throughput Platforms)](https://www.adzuna.com/details/5733688421?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Bellevue, King County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Backstage SME, Senior Engineer – Platform Engineering @ Remote](https://www.adzuna.com/details/5733552207?utm_medium=api&utm_source=632a28fd)
+  - Company: Momento USA | San Ramon, Contra Costa County
+  - Momento USA is a global technology consulting, talent acquisition, and creative development firm that addresses clients'...
+
+- [VMware Platform Engineer](https://www.adzuna.com/details/5733213913?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Gaithersburg, Montgomery County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Senior Backend Engineer (High-Throughput Platforms)](https://www.adzuna.com/details/5733213904?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Gaithersburg, Montgomery County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [PLM Platform Engineer (Windchill / Teamcenter)](https://www.adzuna.com/details/5733213888?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Gaithersburg, Montgomery County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Kafka Platform Engineer](https://www.adzuna.com/details/5733213873?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Gaithersburg, Montgomery County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Azure Cloud Engineer](https://www.adzuna.com/details/5733944220?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Prosper, Collin County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [AWS Cloud Engineer](https://www.adzuna.com/details/5733943021?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Prosper, Collin County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Oracle Cloud Infrastructure (OCI) Engineer](https://www.adzuna.com/details/5733917947?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Fremont, Alameda County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [AWS Cloud Engineer](https://www.adzuna.com/details/5733901902?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Alpharetta, Fulton County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Oracle Cloud Security Engineer](https://www.adzuna.com/details/5733885695?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Frisco, Collin County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Cloud Networking Engineer](https://www.adzuna.com/details/5733874062?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Bellevue, King County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Oracle Cloud Infrastructure (OCI) Engineer](https://www.adzuna.com/details/5733868995?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Prosper, Collin County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Cloud Networking Engineer](https://www.adzuna.com/details/5733844403?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Fremont, Alameda County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [AWS Cloud Engineer](https://www.adzuna.com/details/5733842837?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Bellevue, King County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Cloud Networking Engineer](https://www.adzuna.com/details/5733842154?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Frisco, Collin County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Azure Cloud Engineer](https://www.adzuna.com/details/5733793561?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Bellevue, King County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Cloud Networking Engineer](https://www.adzuna.com/details/5733760291?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Naperville, DuPage County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Oracle Cloud Infrastructure (OCI) Engineer](https://www.adzuna.com/details/5733696795?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Alpharetta, Fulton County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Azure Cloud Engineer](https://www.adzuna.com/details/5733694583?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Alpharetta, Fulton County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Oracle Cloud Infrastructure (OCI) Engineer](https://www.adzuna.com/details/5733687573?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Bellevue, King County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Azure Cloud Engineer](https://www.adzuna.com/details/5733673324?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Fremont, Alameda County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Google Cloud Engineer (Remote)](https://www.adzuna.com/details/5733553685?utm_medium=api&utm_source=632a28fd)
+  - Company: Cleo Consulting | US
+  - Job Title: Google Cloud Engineer Location: REMOTE Duration: 12 Months Description We are seeking a highly skilled and ha...
+
+- [Oracle Cloud Security Engineer](https://www.adzuna.com/details/5733213883?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Gaithersburg, Montgomery County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [AI Data Infrastructure Engineer](https://www.adzuna.com/details/5733921283?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Naperville, DuPage County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [AI Infrastructure Engineer](https://www.adzuna.com/details/5733895472?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Bellevue, King County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [AI Infrastructure Engineer](https://www.adzuna.com/details/5733845174?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Fremont, Alameda County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [AI Infrastructure Engineer](https://www.adzuna.com/details/5733832446?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Alpharetta, Fulton County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [AI Infrastructure Engineer](https://www.adzuna.com/details/5733797066?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Naperville, DuPage County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Infrastructure Automation Engineer (Terraform-heavy)](https://www.adzuna.com/details/5733794778?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Bellevue, King County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [AI Data Infrastructure Engineer](https://www.adzuna.com/details/5733793812?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Alpharetta, Fulton County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [AI Data Infrastructure Engineer](https://www.adzuna.com/details/5733789381?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Bellevue, King County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Infrastructure Automation Engineer (Terraform-heavy)](https://www.adzuna.com/details/5733697368?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Fremont, Alameda County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Infrastructure Automation Engineer (Terraform-heavy)](https://www.adzuna.com/details/5733694561?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Frisco, Collin County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Infrastructure Automation Engineer (Terraform-heavy)](https://www.adzuna.com/details/5733693937?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Alpharetta, Fulton County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Infrastructure Automation Engineer (Terraform-heavy)](https://www.adzuna.com/details/5733683649?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Naperville, DuPage County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [AI Data Infrastructure Engineer](https://www.adzuna.com/details/5733678057?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Frisco, Collin County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Sr. Infrastructure Engineer](https://www.adzuna.com/details/5733553618?utm_medium=api&utm_source=632a28fd)
+  - Company: Akaasa Technologies | US
+  - POSITION Sr. Infrastructure Engineer LOCATION 100% REMOTE- STL, Chicago, or NYC metro area would be ideal DURATION 6 MON...
+
+- [Infrastructure Automation Engineer (Terraform-heavy)](https://www.adzuna.com/details/5733213872?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Gaithersburg, Montgomery County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [AI Infrastructure Engineer](https://www.adzuna.com/details/5733213857?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Gaithersburg, Montgomery County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [AI Data Infrastructure Engineer](https://www.adzuna.com/details/5733213855?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Gaithersburg, Montgomery County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Senior DevSecOps Engineer (Remote)](https://www.adzuna.com/details/5733961295?utm_medium=api&utm_source=632a28fd)
+  - Company: Integrated Data Services | US
+  - Company Overview: Integrated Data Services (IDS) is a leading provider of custom software products and Government financ...
