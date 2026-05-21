@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-05-20 15:18 UTC
+Generated: 2026-05-21 15:22 UTC
 
-Total new jobs: 88
+Total new jobs: 86
 
 ## greenhouse
 
@@ -74,6 +74,14 @@ Total new jobs: 88
   - Company: clickhouse
   - Location: Remote
 
+- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843423004)
+  - Company: clickhouse
+  - Location: Remote
+
+- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843425004)
+  - Company: clickhouse
+  - Location: Remote
+
 - [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843424004)
   - Company: clickhouse
   - Location: Remote
@@ -82,19 +90,7 @@ Total new jobs: 88
   - Company: clickhouse
   - Location: Remote
 
-- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843425004)
-  - Company: clickhouse
-  - Location: Remote
-
 - [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843421004)
-  - Company: clickhouse
-  - Location: Remote
-
-- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843423004)
-  - Company: clickhouse
-  - Location: Remote
-
-- [Senior Infrastructure Engineer - Postgres](https://job-boards.greenhouse.io/clickhouse/jobs/5706417004)
   - Company: clickhouse
   - Location: Remote
 
@@ -102,7 +98,11 @@ Total new jobs: 88
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819757004)
+- [Senior Infrastructure Engineer - Postgres](https://job-boards.greenhouse.io/clickhouse/jobs/5706417004)
+  - Company: clickhouse
+  - Location: Remote
+
+- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819754004)
   - Company: clickhouse
   - Location: Remote
 
@@ -114,7 +114,7 @@ Total new jobs: 88
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819754004)
+- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819757004)
   - Company: clickhouse
   - Location: Remote
 
@@ -126,11 +126,11 @@ Total new jobs: 88
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819674004)
+- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819677004)
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819677004)
+- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819674004)
   - Company: clickhouse
   - Location: Remote
 
@@ -146,15 +146,11 @@ Total new jobs: 88
   - Company: dropbox
   - Location: Remote
 
-- [Cloud Engineer](https://www.fastly.com/about/jobs/apply?gh_jid=7698946)
-  - Company: fastly
-  - Location: Remote
-
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7581685003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7581688003)
   - Company: fivetran
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7581688003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7581685003)
   - Company: fivetran
   - Location: Remote
 
@@ -270,11 +266,11 @@ Total new jobs: 88
   - Company: pinterest
   - Location: Remote
 
-- [Production Engineer/Site Reliability Engineer (Shift Basis)](https://www.rubrik.com/company/careers/departments/job.7439521?gh_jid=7439521)
+- [Production Engineer/Site Reliability Engineer (Shift Basis)](https://www.rubrik.com/company/careers/departments/job.7439514?gh_jid=7439514)
   - Company: rubrik
   - Location: Remote
 
-- [Production Engineer/Site Reliability Engineer (Shift Basis)](https://www.rubrik.com/company/careers/departments/job.7439514?gh_jid=7439514)
+- [Production Engineer/Site Reliability Engineer (Shift Basis)](https://www.rubrik.com/company/careers/departments/job.7439521?gh_jid=7439521)
   - Company: rubrik
   - Location: Remote
 
@@ -291,11 +287,6 @@ Total new jobs: 88
   - Location: Remote
 
 ## jobicy
-
-- [Cloud Operations Admin](https://jobicy.com/jobs/142149-cloud-operations-admin)
-  - Company: Inspira Financial
-  - Location: USA
-  - Level/Team: DevOps &amp; Infrastructure
 
 - [Sr. Cloud Engineer](https://jobicy.com/jobs/143038-sr-cloud-engineer)
   - Company: Inspira Financial
