@@ -65,6 +65,19 @@
     "collected_at_utc": "2026-05-21 15:21:37"
   },
   {
+    "source_type": "weworkremotely",
+    "company": "Alice",
+    "title": "DevOps Engineer",
+    "location": "Remote",
+    "team": "",
+    "categories": [],
+    "url": "https://weworkremotely.com/remote-jobs/alice-devops-engineer",
+    "external_id": "wwr::https://weworkremotely.com/remote-jobs/alice-devops-engineer",
+    "description_snippet": "Headquarters: BR URL: http://alice.com.br Por que isso não é “só mais um trabalho” Na Alice, a gente não oferece um lugar para assistir da arquibancada — você vai entrar na arena de uma das jornadas de crescimento mais ousadas da América Latina em tecnologia e saúde. Como Software Engineer, você vai",
+    "posted_at": "Thu, 21 May 2026 20:02:40 +0000",
+    "collected_at_utc": "2026-05-22 14:36:18"
+  },
+  {
     "source_type": "greenhouse",
     "company": "anthropic",
     "title": "Infrastructure Engineer, Sandboxing",
@@ -510,6 +523,19 @@
     "collected_at_utc": "2026-05-21 15:21:37"
   },
   {
+    "source_type": "weworkremotely",
+    "company": "Cubos Tecnologia",
+    "title": "[Cubos DevOps] Pessoa Engenheira de DevOps Pleno",
+    "location": "Remote",
+    "team": "",
+    "categories": [],
+    "url": "https://weworkremotely.com/remote-jobs/cubos-tecnologia-cubos-devops-pessoa-engenheira-de-devops-pleno",
+    "external_id": "wwr::https://weworkremotely.com/remote-jobs/cubos-tecnologia-cubos-devops-pessoa-engenheira-de-devops-pleno",
+    "description_snippet": "Headquarters: BR URL: http://cubos.io Sobre a Cubos DevOps: Somos especialistas em gestão de infraestrutura e automação de processos de Cloud para atender às necessidades dos nossos clientes para mantê-los competitivos. Nosso foco é fornecer produtos e serviços que impulsionam a transformação digita",
+    "posted_at": "Thu, 21 May 2026 20:02:40 +0000",
+    "collected_at_utc": "2026-05-22 14:36:18"
+  },
+  {
     "source_type": "greenhouse",
     "company": "dropbox",
     "title": "Site Reliability Engineer",
@@ -521,6 +547,36 @@
     "description_snippet": "",
     "posted_at": "2026-05-15T14:01:37-04:00",
     "collected_at_utc": "2026-05-21 15:21:37"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Experian",
+    "title": "BigData DevOps Engineer",
+    "location": "Costa Rica",
+    "team": "DevOps &amp; Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/144462-bigdata-devops-engineer",
+    "external_id": "jobicy::144462",
+    "description_snippet": "Company DescriptionExperian is a global data and technology company, powering opportunities for people and businesses around the world. We operate across a range of markets, from financial services to healthcare,...",
+    "posted_at": "2026-05-22T01:53:02+00:00",
+    "collected_at_utc": "2026-05-22 14:36:18"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Experian",
+    "title": "Senior DevOps Engineer",
+    "location": "Costa Rica",
+    "team": "DevOps &amp; Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/144464-senior-devops-engineer-5",
+    "external_id": "jobicy::144464",
+    "description_snippet": "Company DescriptionExperian is a global data and technology company, powering opportunities for people and businesses around the world. We operate across a range of markets, from financial services to healthcare,...",
+    "posted_at": "2026-05-22T01:53:05+00:00",
+    "collected_at_utc": "2026-05-22 14:36:18"
   },
   {
     "source_type": "greenhouse",
@@ -586,6 +642,19 @@
     "description_snippet": "",
     "posted_at": "2026-04-30T18:34:50-04:00",
     "collected_at_utc": "2026-05-21 15:21:37"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "gitlab",
+    "title": "Senior Platform Engineer(Golang), Software Supply Chain Security: Authentication",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8157520002",
+    "external_id": "greenhouse::8157520002",
+    "description_snippet": "",
+    "posted_at": "2026-05-22T08:52:51-04:00",
+    "collected_at_utc": "2026-05-22 14:36:18"
   },
   {
     "source_type": "greenhouse",
@@ -737,6 +806,21 @@
     "collected_at_utc": "2026-05-21 15:21:37"
   },
   {
+    "source_type": "jobicy",
+    "company": "ManTech",
+    "title": "Windows Cloud Engineer",
+    "location": "USA",
+    "team": "Software Engineering",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/144478-windows-cloud-engineer",
+    "external_id": "jobicy::144478",
+    "description_snippet": "General information Requisition # R67818 Locations USA-Remote Work Posting Date 05/20/2026 Security Clearance Required Secret Remote Type Fully Remote Time Type Full time Description &amp; Requirements Shape the future of...",
+    "posted_at": "2026-05-22T01:53:29+00:00",
+    "collected_at_utc": "2026-05-22 14:36:18"
+  },
+  {
     "source_type": "lever",
     "company": "metabase",
     "title": "Senior SRE/DevOps Engineer",
@@ -776,6 +860,19 @@
     "description_snippet": "",
     "posted_at": "2026-05-20T16:27:23-04:00",
     "collected_at_utc": "2026-05-21 15:21:37"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "mongodb",
+    "title": "Senior Platform Engineer",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7924987",
+    "external_id": "greenhouse::7924987",
+    "description_snippet": "",
+    "posted_at": "2026-05-22T09:42:17-04:00",
+    "collected_at_utc": "2026-05-22 14:36:18"
   },
   {
     "source_type": "greenhouse",
@@ -1010,6 +1107,19 @@
     "description_snippet": "",
     "posted_at": "2026-05-14T12:34:53-04:00",
     "collected_at_utc": "2026-05-21 15:21:37"
+  },
+  {
+    "source_type": "weworkremotely",
+    "company": "Radix",
+    "title": "Profissional IaC| DevOps",
+    "location": "Remote",
+    "team": "",
+    "categories": [],
+    "url": "https://weworkremotely.com/remote-jobs/radix-profissional-iac-devops",
+    "external_id": "wwr::https://weworkremotely.com/remote-jobs/radix-profissional-iac-devops",
+    "description_snippet": "Headquarters: BR URL: http://radixeng.com.br A primeira coisa que você precisa saber é que aqui você não vai cair na rotina. A Radix desenvolve soluções para empresas de diferentes setores e indústrias. Cada projeto tem suas tecnologias, soluções e prazos e você terá oportunidade de atuar e experime",
+    "posted_at": "Thu, 21 May 2026 20:02:40 +0000",
+    "collected_at_utc": "2026-05-22 14:36:18"
   },
   {
     "source_type": "greenhouse",

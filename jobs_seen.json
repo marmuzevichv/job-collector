@@ -514,5 +514,53 @@
     "title": "QA Automation Engineer (IJ Platform / Remote Development)",
     "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4779443101",
     "first_seen_utc": "2026-05-21 15:21:37"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/cubos-tecnologia-cubos-devops-pessoa-engenheira-de-devops-pleno": {
+    "company": "Cubos Tecnologia",
+    "title": "[Cubos DevOps] Pessoa Engenheira de DevOps Pleno",
+    "url": "https://weworkremotely.com/remote-jobs/cubos-tecnologia-cubos-devops-pessoa-engenheira-de-devops-pleno",
+    "first_seen_utc": "2026-05-22 14:36:18"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/radix-profissional-iac-devops": {
+    "company": "Radix",
+    "title": "Profissional IaC| DevOps",
+    "url": "https://weworkremotely.com/remote-jobs/radix-profissional-iac-devops",
+    "first_seen_utc": "2026-05-22 14:36:18"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/alice-devops-engineer": {
+    "company": "Alice",
+    "title": "DevOps Engineer",
+    "url": "https://weworkremotely.com/remote-jobs/alice-devops-engineer",
+    "first_seen_utc": "2026-05-22 14:36:18"
+  },
+  "jobicy::144464": {
+    "company": "Experian",
+    "title": "Senior DevOps Engineer",
+    "url": "https://jobicy.com/jobs/144464-senior-devops-engineer-5",
+    "first_seen_utc": "2026-05-22 14:36:18"
+  },
+  "jobicy::144462": {
+    "company": "Experian",
+    "title": "BigData DevOps Engineer",
+    "url": "https://jobicy.com/jobs/144462-bigdata-devops-engineer",
+    "first_seen_utc": "2026-05-22 14:36:18"
+  },
+  "jobicy::144478": {
+    "company": "ManTech",
+    "title": "Windows Cloud Engineer",
+    "url": "https://jobicy.com/jobs/144478-windows-cloud-engineer",
+    "first_seen_utc": "2026-05-22 14:36:18"
+  },
+  "greenhouse::8157520002": {
+    "company": "gitlab",
+    "title": "Senior Platform Engineer(Golang), Software Supply Chain Security: Authentication",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8157520002",
+    "first_seen_utc": "2026-05-22 14:36:18"
+  },
+  "greenhouse::7924987": {
+    "company": "mongodb",
+    "title": "Senior Platform Engineer",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7924987",
+    "first_seen_utc": "2026-05-22 14:36:18"
   }
 }

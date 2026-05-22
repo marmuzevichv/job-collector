@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-05-21 15:22 UTC
+Generated: 2026-05-22 14:36 UTC
 
-Total new jobs: 86
+Total new jobs: 94
 
 ## greenhouse
 
@@ -166,6 +166,10 @@ Total new jobs: 86
   - Company: gitlab
   - Location: Remote
 
+- [Senior Platform Engineer(Golang), Software Supply Chain Security: Authentication](https://job-boards.greenhouse.io/gitlab/jobs/8157520002)
+  - Company: gitlab
+  - Location: Remote
+
 - [Senior Site Reliability Engineer, Tenant Services: Geo](https://job-boards.greenhouse.io/gitlab/jobs/8490453002)
   - Company: gitlab
   - Location: Remote
@@ -195,6 +199,10 @@ Total new jobs: 86
   - Location: Remote
 
 - [DevOps Consultant, Industry Solutions](https://www.mongodb.com/careers/job/?gh_jid=7767185)
+  - Company: mongodb
+  - Location: Remote
+
+- [Senior Platform Engineer](https://www.mongodb.com/careers/job/?gh_jid=7924987)
   - Company: mongodb
   - Location: Remote
 
@@ -288,6 +296,16 @@ Total new jobs: 86
 
 ## jobicy
 
+- [BigData DevOps Engineer](https://jobicy.com/jobs/144462-bigdata-devops-engineer)
+  - Company: Experian
+  - Location: Costa Rica
+  - Level/Team: DevOps &amp; Infrastructure
+
+- [Senior DevOps Engineer](https://jobicy.com/jobs/144464-senior-devops-engineer-5)
+  - Company: Experian
+  - Location: Costa Rica
+  - Level/Team: DevOps &amp; Infrastructure
+
 - [Sr. Cloud Engineer](https://jobicy.com/jobs/143038-sr-cloud-engineer)
   - Company: Inspira Financial
   - Location: USA
@@ -302,6 +320,11 @@ Total new jobs: 86
   - Company: ManTech
   - Location: USA
   - Level/Team: DevOps &amp; Infrastructure
+
+- [Windows Cloud Engineer](https://jobicy.com/jobs/144478-windows-cloud-engineer)
+  - Company: ManTech
+  - Location: USA
+  - Level/Team: Software Engineering
 
 ## lever
 
@@ -326,6 +349,10 @@ Total new jobs: 86
 
 ## weworkremotely
 
+- [DevOps Engineer](https://weworkremotely.com/remote-jobs/alice-devops-engineer)
+  - Company: Alice
+  - Location: Remote
+
 - [DevOps Team Lead](https://weworkremotely.com/remote-jobs/blink-ops-devops-team-lead)
   - Company: Blink Ops
   - Location: Remote
@@ -338,6 +365,10 @@ Total new jobs: 86
   - Company: Catamaran Research
   - Location: Remote
 
+- [[Cubos DevOps] Pessoa Engenheira de DevOps Pleno](https://weworkremotely.com/remote-jobs/cubos-tecnologia-cubos-devops-pessoa-engenheira-de-devops-pleno)
+  - Company: Cubos Tecnologia
+  - Location: Remote
+
 - [DevOps Lead](https://weworkremotely.com/remote-jobs/interop-labs-devops-lead)
   - Company: Interop Labs
   - Location: Remote
@@ -348,6 +379,10 @@ Total new jobs: 86
 
 - [Devops](https://weworkremotely.com/remote-jobs/mutt-data-devops)
   - Company: Mutt Data
+  - Location: Remote
+
+- [Profissional IaC| DevOps](https://weworkremotely.com/remote-jobs/radix-profissional-iac-devops)
+  - Company: Radix
   - Location: Remote
 
 - [DevOps Engineer](https://weworkremotely.com/remote-jobs/vercel-devops-engineer)
