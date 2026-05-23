@@ -1,167 +1,207 @@
 # Top DevOps Jobs — Ranked by AI
 
-Generated: 2026-05-22 14:47 UTC
-Total jobs analyzed: 140
-Candidates sent to AI: 33
+Generated: 2026-05-23 13:46 UTC
+Total jobs analyzed: 290
+Candidates sent to AI: 88
 
 ---
 
-### [9/10] Site Reliability Engineer (SRE) — Bright Vision Technologies
-- Location: Alpharetta, Fulton County
-- URL: https://www.adzuna.com/details/5737311503?utm_medium=api&utm_source=632a48fd
-- Why: Perfect target SRE role with strong tech stack alignment; Georgia location doesn't match remote-US or Minnesota preference.
+### [9/10] DevOps Engineer — G2i
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5608908286?utm_medium=api&utm_source=632a28fd
+- Why: AWS infrastructure (ECS/Fargate, RDS, S3, IAM) directly matches your core skills and remote US requirement.
 
-### [9/10] Site Reliability Engineer (SRE) — Bright Vision Technologies
-- Location: Frisco, Collin County
-- URL: https://www.adzuna.com/details/5732348901?utm_medium=api&utm_source=632a48fd
-- Why: Ideal SRE role matching candidate's target positions; Texas onsite location conflicts with remote/Minnesota requirement.
+### [9/10] DevOps Engineer - Infrastructure & Security — Cognizant
+- Location: Remote (Anywhere in USA)
+- URL: https://www.adzuna.com/details/5732067136?utm_medium=api&utm_source=632a28fd
+- Why: Infrastructure and security focus with DevOps role perfectly aligns with your DevSecOps skillset and US remote requirement.
+
+### [9/10] Site Reliability Engineer — Atlanta, GA
+- Location: Remote
+- URL: https://www.adzuna.com/details/5721006562?utm_medium=api&utm_source=632a28fd
+- Why: SRE role is directly in your target job list with remote US location and 6+ years experience matches your background.
+
+### [9/10] Site Reliability Engineer Systems Analyst VII (SRE) — Buffalo, NY
+- Location: Remote
+- URL: https://www.adzuna.com/details/5706616962?utm_medium=api&utm_source=632a28fd
+- Why: SRE contract role with cloud migration focus matches your target roles and 6+ years of experience qualifications.
+
+### [9/10] Site reliability Engineer $160/hr Remote / part time — Mercor AI
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5720147333?utm_medium=api&utm_source=632a28fd
+- Why: SRE role at big tech/startup scale matches your 6+ years experience and remote US requirement.
+
+### [9/10] Remote role of OpenShift/Kubernetes Engineer — Buffalo, NY
+- Location: Remote (100%)
+- URL: https://www.adzuna.com/details/5706586201?utm_medium=api&utm_source=632a28fd
+- Why: Excellent fit with explicit remote status, direct Kubernetes/OpenShift expertise match, Linux skills, and 6+ years DevOps experience aligns perfectly with contract role requirements.
+
+### [8/10] Senior DevOps Engineer - Kubernetes Focused — Element 84
+- Location: Alexandria, VA (Hub-Remote: DC or Philly Metro)
+- URL: https://www.adzuna.com/details/5704220658?utm_medium=api&utm_source=632a28fd
+- Why: Strong Kubernetes focus aligns perfectly with your CKA/CKAD certs and container expertise, though DC/Philly location is outside your Minnesota preference.
+
+### [8/10] Senior Platform Engineer — HackEDU, Inc. dba Security Journey
+- Location: Remote (United States)
+- URL: https://www.adzuna.com/details/5722362324?utm_medium=api&utm_source=632a28fd
+- Why: AWS/Kubernetes platform engineering with security focus aligns with your DevSecOps interests and remote US availability.
+
+### [8/10] Senior Platform Engineer - Kubernetes - remote — SitusAMC
+- Location: Penbrook, Dauphin County
+- URL: https://www.adzuna.com/details/5714104600?utm_medium=api&utm_source=632a28fd
+- Why: Kubernetes-focused platform engineering matches your expertise and remote designation, though location metadata is non-US.
+
+### [8/10] Senior Platform Engineer - Kubernetes - remote — SitusAMC
+- Location: Springfield, Sangamon County
+- URL: https://www.adzuna.com/details/5714014522?utm_medium=api&utm_source=632a28fd
+- Why: Kubernetes-focused platform engineering matches your expertise and remote designation, though location metadata is non-US.
+
+### [8/10] Senior Platform Engineer - Kubernetes - remote — SitusAMC
+- Location: Capitol, Richmond
+- URL: https://www.adzuna.com/details/5714015566?utm_medium=api&utm_source=632a28fd
+- Why: Kubernetes-focused platform engineering matches your expertise and remote designation, though location metadata is non-US.
+
+### [8/10] Senior Platform Engineer — Pondurance
+- Location: Remote (McLean, Fairfax County)
+- URL: https://www.adzuna.com/details/5731268408?utm_medium=api&utm_source=632a28fd
+- Why: Senior platform engineer supporting backend systems with remote option matches your infrastructure and DevOps experience.
+
+### [8/10] Senior Platform Engineer - Kubernetes - remote — SitusAMC
+- Location: Tarrytown, Travis County
+- URL: https://www.adzuna.com/details/5714016166?utm_medium=api&utm_source=632a28fd
+- Why: Kubernetes-focused platform engineering matches your expertise and remote designation, though location metadata is non-US.
+
+### [8/10] Platform Engineer — Xlysi
+- Location: Remote (Chicago, Cook County)
+- URL: https://www.adzuna.com/details/5735016024?utm_medium=api&utm_source=632a28fd
+- Why: AWS-based platform engineering with S3 and infrastructure focus aligns with your core skills and remote designation.
 
 ### [8/10] AWS Cloud Engineer — Bright Vision Technologies
-- Location: Alpharetta, Fulton County
-- URL: https://www.adzuna.com/details/5737207402?utm_medium=api&utm_source=632a48fd
-- Why: Strong AWS skill match but location (Georgia) doesn't match candidate's remote-US or Minnesota preference.
+- Location: Remote (Alpharetta, Fulton County)
+- URL: https://www.adzuna.com/details/5738183327?utm_medium=api&utm_source=632a28fd
+- Why: AWS cloud engineering directly matches your AWS expertise and IAM/infrastructure skills with remote availability.
+
+### [8/10] AWS DevSecOps Engineer (Sr) — Cyrten
+- Location: Remote
+- URL: https://www.adzuna.com/details/5330061057?utm_medium=api&utm_source=632a28fd
+- Why: Senior DevSecOps role with 7 years requirement matches your background, though US citizenship requirement may apply.
+
+### [8/10] Site Reliability Engineer (SRE) — Bright Vision Technologies
+- Location: Remote (Alpharetta, Fulton County)
+- URL: https://www.adzuna.com/details/5738337123?utm_medium=api&utm_source=632a28fd
+- Why: SRE role is directly in your target positions and remote designation aligns with your location preference.
+
+### [8/10] Site Reliability Engineer (SRE) — Bright Vision Technologies
+- Location: Remote (Frisco, Collin County)
+- URL: https://www.adzuna.com/details/5738337124?utm_medium=api&utm_source=632a28fd
+- Why: SRE role is directly in your target positions and remote designation aligns with your location preference.
 
 ### [8/10] AWS Cloud Engineer — Bright Vision Technologies
-- Location: Fremont, Alameda County
-- URL: https://www.adzuna.com/details/5737187618?utm_medium=api&utm_source=632a48fd
-- Why: Strong AWS skills match but California onsite location doesn't fit remote-US or Minnesota criteria.
+- Location: Remote (Fremont, Alameda County)
+- URL: https://www.adzuna.com/details/5738457228?utm_medium=api&utm_source=632a28fd
+- Why: AWS cloud engineering directly matches your AWS expertise and infrastructure skills with remote availability.
 
-### [8/10] Cloud Engineer - Remote — Ferguson Enterprises, LLC
-- Location: Newport News, Newport News City
-- URL: https://www.adzuna.com/details/5737046077?utm_medium=api&utm_source=632a48fd
-- Why: Remote cloud engineer role matches location preference and skills well despite Virginia base location.
+### [8/10] AWS Cloud Engineer — Bright Vision Technologies
+- Location: Remote (Frisco, Collin County)
+- URL: https://www.adzuna.com/details/5738337052?utm_medium=api&utm_source=632a28fd
+- Why: AWS cloud engineering directly matches your AWS expertise and infrastructure skills with remote availability.
 
-### [7/10] Azure Cloud Engineer — Bright Vision Technologies
-- Location: Alpharetta, Fulton County
-- URL: https://www.adzuna.com/details/5737202920?utm_medium=api&utm_source=632a48fd
-- Why: Good Azure expertise alignment but onsite Georgia location conflicts with remote-only preference.
+### [8/10] Site Reliability Engineer (SRE) — Bright Vision Technologies
+- Location: Remote (Fremont, Alameda County)
+- URL: https://www.adzuna.com/details/5733797848?utm_medium=api&utm_source=632a28fd
+- Why: SRE role is directly in your target positions and remote designation aligns with your location preference.
 
-### [7/10] Azure Cloud Engineer — Bright Vision Technologies
-- Location: Fremont, Alameda County
-- URL: https://www.adzuna.com/details/5737187614?utm_medium=api&utm_source=632a48fd
-- Why: Azure expertise aligns well but California location not in candidate's geographic preference.
+### [8/10] Site Reliability Engineer (SRE) — Bright Vision Technologies
+- Location: Remote (Edison, Middlesex County)
+- URL: https://www.adzuna.com/details/5732267612?utm_medium=api&utm_source=632a28fd
+- Why: SRE role is directly in your target positions and remote designation aligns with your location preference.
 
-### [7/10] DevOps Engineer — TekWissen LLC
-- Location: Michigan, US
-- URL: https://www.adzuna.com/details/5737042302?utm_medium=api&utm_source=632a48fd
-- Why: Target role match with 6+ years DevOps experience, but Michigan is not remote/Minnesota as preferred.
+### [8/10] Site Reliability Engineer (SRE) — Bright Vision Technologies
+- Location: Remote (Edison, Middlesex County)
+- URL: https://www.adzuna.com/details/5731517294?utm_medium=api&utm_source=632a28fd
+- Why: SRE role is directly in your target positions and remote designation aligns with your location preference.
 
-### [7/10] AI Infrastructure Engineer — Bright Vision Technologies
-- Location: Alpharetta, Fulton County
-- URL: https://www.adzuna.com/details/5737370517?utm_medium=api&utm_source=632a48fd
-- Why: Infrastructure engineering skills transfer but AI specialization is secondary; Georgia location doesn't match preference.
+### [8/10] Senior Platform Engineer - Kubernetes - remote — SitusAMC
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5713996798?utm_medium=api&utm_source=632a28fd
+- Why: Kubernetes-focused platform engineering matches your expertise and explicit remote US designation.
 
-### [7/10] AI Data Infrastructure Engineer — Bright Vision Technologies
-- Location: Alpharetta, Fulton County
-- URL: https://www.adzuna.com/details/5737242736?utm_medium=api&utm_source=632a48fd
-- Why: Infrastructure skills transfer but data/AI specialization secondary to core DevOps; Georgia location not preferred.
+### [8/10] Site Reliability Engineer (SRE) — Bright Vision Technologies
+- Location: Remote (Gaithersburg, Montgomery County)
+- URL: https://www.adzuna.com/details/5738183425?utm_medium=api&utm_source=632a28fd
+- Why: SRE role is directly in your target positions and remote designation aligns with your location preference.
 
-### [7/10] AI Data Infrastructure Engineer — Bright Vision Technologies
-- Location: Johns Creek, Fulton County
-- URL: https://www.adzuna.com/details/5737205478?utm_medium=api&utm_source=632a48fd
-- Why: Infrastructure foundation aligns but AI/data specialization not primary; Georgia location doesn't match preference.
+### [8/10] Site Reliability Engineer (SRE) — Bright Vision Technologies
+- Location: Remote (Bellevue, King County)
+- URL: https://www.adzuna.com/details/5733835157?utm_medium=api&utm_source=632a28fd
+- Why: SRE role is directly in your target positions and remote designation aligns with your location preference.
 
-### [7/10] AI Infrastructure Engineer — Bright Vision Technologies
-- Location: Johns Creek, Fulton County
-- URL: https://www.adzuna.com/details/5737205035?utm_medium=api&utm_source=632a48fd
-- Why: Infrastructure skills relevant but AI focus is secondary; Georgia location outside preferred remote/Minnesota areas.
+### [8/10] System Engineer / Site Reliability Engineer (SRE) — Staffxpert LLC
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5738191810?utm_medium=api&utm_source=632a28fd
+- Why: SRE role matches your target positions with remote US location, though experience requirements appear higher.
 
-### [7/10] AI Data Infrastructure Engineer — Bright Vision Technologies
-- Location: Fremont, Alameda County
-- URL: https://www.adzuna.com/details/5737187606?utm_medium=api&utm_source=632a48fd
-- Why: Infrastructure background applicable but data/AI specialization secondary; California onsite conflicts with preference.
+### [8/10] Information Security Platform Engineer — Conch Technologies Inc
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5738190803?utm_medium=api&utm_source=632a28fd
+- Why: Security-focused platform engineering aligns with your DevSecOps skills (Vault, Trivy, Checkov) and remote US location.
 
-### [7/10] AI Infrastructure Engineer — Bright Vision Technologies
-- Location: Fremont, Alameda County
-- URL: https://www.adzuna.com/details/5737187609?utm_medium=api&utm_source=632a48fd
-- Why: Core infrastructure skills match but AI specialization secondary; California location doesn't fit remote/Minnesota requirement.
+### [8/10] Platform Engineer - Secret/Top Secret — Defense Unicorns
+- Location: US
+- URL: https://www.adzuna.com/details/5735061196?utm_medium=api&utm_source=632a28fd
+- Why: Strong match for Platform Engineer role in target area; requires security clearance which aligns with candidate's FedRAMP/security background, though clearance requirement may present timing challenge.
 
-### [6/10] Kafka Platform Engineer — Bright Vision Technologies
-- Location: Naperville, DuPage County
-- URL: https://www.adzuna.com/details/5732984953?utm_medium=api&utm_source=632a48fd
-- Why: Platform engineering aligns with target roles but Kafka specialization and Illinois onsite location not ideal fits.
+### [8/10] Kubernetes Engineer — Ascension Federal Services
+- Location: Remote (Orlando, FL listed but marked remote)
+- URL: https://www.adzuna.com/details/5727641551?utm_medium=api&utm_source=632a28fd
+- Why: Excellent technical match with Kubernetes as core skill; remote option available; government contractor background aligns with candidate's security clearance skills.
 
-### [6/10] Kafka Platform Engineer — Bright Vision Technologies
-- Location: Frisco, Collin County
-- URL: https://www.adzuna.com/details/5732348882?utm_medium=api&utm_source=632a48fd
-- Why: Platform engineering role aligns with targets but Kafka specialization and Texas onsite location not ideal.
+### [8/10] Senior Cloud Infrastructure Engineer — Dragos
+- Location: US
+- URL: https://www.adzuna.com/details/5738645716?utm_medium=api&utm_source=632a28fd
+- Why: Excellent infrastructure engineering match with cloud focus and US-based remote eligibility; industrial/critical infrastructure domain leverages security expertise naturally.
 
-### [6/10] Kafka Platform Engineer — Bright Vision Technologies
-- Location: Naperville, DuPage County
-- URL: https://www.adzuna.com/details/5732263559?utm_medium=api&utm_source=632a48fd
-- Why: Platform engineering aligns with targets but Kafka specialization and Illinois onsite location are not ideal matches.
+### [7/10] Senior AI Platform Engineer — VeeRteq Solutions Inc.
+- Location: Remote (US/Canada)
+- URL: https://www.adzuna.com/details/5735674143?utm_medium=api&utm_source=632a28fd
+- Why: Platform engineering role matches your skillset, though AI-specific focus is less directly relevant to your core DevOps experience.
 
-### [5/10] Oracle Cloud Infrastructure (OCI) Engineer — Bright Vision Technologies
-- Location: Fremont, Alameda County
-- URL: https://www.adzuna.com/details/5737187657?utm_medium=api&utm_source=632a48fd
-- Why: Cloud infrastructure role aligns but OCI is less common than AWS/Azure in candidate's experience; California onsite location conflicts.
+### [7/10] DevSecOps Engineer (Data & Integration) — DecisionPoint
+- Location: US
+- URL: https://www.adzuna.com/details/5701444636?utm_medium=api&utm_source=632a28fd
+- Why: Strong match for DevSecOps Engineer target role with automation, security, and monitoring focus in cloud environment; data integration specificity is slightly tangential but security expertise is directly relevant.
 
-### [3/10] VMware Platform Engineer — Bright Vision Technologies
-- Location: Alpharetta, Fulton County
-- URL: https://www.adzuna.com/details/5737400028?utm_medium=api&utm_source=632a48fd
-- Why: VMware specialization not in candidate's primary skill set; location conflict.
+### [7/10] Senior Site Reliability Engineer - AI Infrastructure — Andromeda Cluster
+- Location: Global Remote / San Francisco
+- URL: https://www.adzuna.com/details/5721148518?utm_medium=api&utm_source=632a28fd
+- Why: Strong SRE match with remote option and infrastructure focus; "Senior" title is slightly above target level but AI infrastructure experience is valuable modern skillset.
 
-### [3/10] VMware Platform Engineer — Bright Vision Technologies
-- Location: Fremont, Alameda County
-- URL: https://www.adzuna.com/details/5737353114?utm_medium=api&utm_source=632a48fd
-- Why: VMware specialization outside core competencies; California location doesn't match preference.
+### [7/10] Site Reliability Engineer (Remote) — Weedmaps
+- Location: Remote
+- URL: https://www.adzuna.com/details/5689518175?utm_medium=api&utm_source=632a28fd
+- Why: Direct SRE target role with remote status matching preferences; cross-functional infrastructure and quality work aligns with DevOps background.
 
-### [3/10] VMware Platform Engineer — Bright Vision Technologies
-- Location: Frisco, Collin County
-- URL: https://www.adzuna.com/details/5732428994?utm_medium=api&utm_source=632a48fd
-- Why: VMware specialization not in primary skill set; Texas location doesn't match preference.
+### [7/10] Site Reliability Engineer (Remote) — Weedmaps
+- Location: Remote
+- URL: https://www.adzuna.com/details/5689535994?utm_medium=api&utm_source=632a28fd
+- Why: Duplicate SRE role at Weedmaps with remote flexibility; same strong fit as other Weedmaps posting.
 
-### [3/10] VMware Platform Engineer — Bright Vision Technologies
-- Location: Naperville, DuPage County
-- URL: https://www.adzuna.com/details/5732263601?utm_medium=api&utm_source=632a48fd
-- Why: VMware specialization not in primary competencies; Illinois location not preferred.
+### [7/10] Site Reliability Engineer - AI Infrastructure — Andromeda Cluster
+- Location: Global Remote / San Francisco
+- URL: https://www.adzuna.com/details/5721234598?utm_medium=api&utm_source=632a28fd
+- Why: Duplicate SRE posting at Andromeda; same strong technical alignment with remote option.
 
-### [2/10] DevOps Engineer with an active TS/SCI with a Full Scope Polygraph Security Clearance Required — Next Step Systems
-- Location: Annapolis Junction, MD
-- URL: https://www.adzuna.com/details/5736667286?utm_medium=api&utm_source=632a48fd
-- Why: Requires security clearance and onsite presence in Maryland; candidate is remote-only or Minnesota hybrid.
+### [6/10] DevOps Engineer with GCP — Xlysi
+- Location: Chicago, Cook County
+- URL: https://www.adzuna.com/details/5734990361?utm_medium=api&utm_source=632a28fd
+- Why: GCP infrastructure is a weaker area for you (only basic GCP listed), and Chicago location doesn't meet remote-only/Minnesota preference.
 
-### [2/10] PLM Platform Engineer (Windchill / Teamcenter) — Bright Vision Technologies
-- Location: Alpharetta, Fulton County
-- URL: https://www.adzuna.com/details/5737510051?utm_medium=api&utm_source=632a48fd
-- Why: Specialized PLM platform role outside DevOps/SRE/Cloud domain expertise.
+### [6/10] Infrastructure Engineer III — HackerOne
+- Location: Washington, D.C.
+- URL: https://www.adzuna.com/details/5737309415?utm_medium=api&utm_source=632a28fd
+- Why: Infrastructure Engineer title matches target role and security-focused company aligns well; location is D.C. (not remote/Minnesota), which doesn't match preferred work location.
 
-### [2/10] SAP Basis / SAP Platform Engineer — Bright Vision Technologies
-- Location: Alpharetta, Fulton County
-- URL: https://www.adzuna.com/details/5737499944?utm_medium=api&utm_source=632a48fd
-- Why: Specialized SAP platform role outside core DevOps/SRE/Cloud competencies.
-
-### [2/10] SAP Basis / SAP Platform Engineer — Bright Vision Technologies
-- Location: Fremont, Alameda County
-- URL: https://www.adzuna.com/details/5737352958?utm_medium=api&utm_source=632a48fd
-- Why: Specialized SAP platform role outside DevOps/Cloud domain.
-
-### [2/10] PLM Platform Engineer (Windchill / Teamcenter) — Bright Vision Technologies
-- Location: Fremont, Alameda County
-- URL: https://www.adzuna.com/details/5737187658?utm_medium=api&utm_source=632a48fd
-- Why: Specialized PLM platform expertise not aligned with candidate's DevOps/SRE background.
-
-### [2/10] SAP Basis / SAP Platform Engineer — Bright Vision Technologies
-- Location: Naperville, DuPage County
-- URL: https://www.adzuna.com/details/5732843063?utm_medium=api&utm_source=632a48fd
-- Why: SAP specialization outside core DevOps/Cloud competencies.
-
-### [2/10] PLM Platform Engineer (Windchill / Teamcenter) — Bright Vision Technologies
-- Location: Frisco, Collin County
-- URL: https://www.adzuna.com/details/5732348890?utm_medium=api&utm_source=632a48fd
-- Why: Specialized PLM platform role outside DevOps/Cloud domain.
-
-### [2/10] SAP Basis / SAP Platform Engineer — Bright Vision Technologies
-- Location: Frisco, Collin County
-- URL: https://www.adzuna.com/details/5732348894?utm_medium=api&utm_source=632a48fd
-- Why: SAP platform specialization outside core DevOps/Cloud expertise.
-
-### [2/10] PLM Platform Engineer (Windchill / Teamcenter) — Bright Vision Technologies
-- Location: Naperville, DuPage County
-- URL: https://www.adzuna.com/details/5732263570?utm_medium=api&utm_source=632a48fd
-- Why: Specialized PLM platform role outside DevOps/Cloud domain.
-
-### [2/10] SAP Basis / SAP Platform Engineer — Bright Vision Technologies
-- Location: Naperville, DuPage County
-- URL: https://www.adzuna.com/details/5732187871?utm_medium=api&utm_source=632a48fd
-- Why: SAP specialization outside core DevOps/Cloud competencies.
+### [5/10] Cloudera Platform Engineer — MSR Cosmos
+- Location: Remote (Bloomington, IL)
+- URL: https://www.adzuna.com/details/5734569079?utm_medium=api&utm_source=632a28fd
+- Why: Cloudera-specific platform engineering is outside your core DevOps/Kubernetes/cloud skills and niche specialization.
