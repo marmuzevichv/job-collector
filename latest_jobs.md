@@ -1,6 +1,6 @@
 # New jobs
 
-Generated: 2026-05-24 13:23 UTC
+Generated: 2026-05-25 14:51 UTC
 
 Total new jobs: 87
 
@@ -146,11 +146,11 @@ Total new jobs: 87
   - Company: dropbox
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7581685003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7581688003)
   - Company: fivetran
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7581688003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7581685003)
   - Company: fivetran
   - Location: Remote
 
@@ -254,11 +254,11 @@ Total new jobs: 87
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer (Auth0)](https://www.okta.com/company/careers/opportunity/7418982?gh_jid=7418982)
+- [Senior Site Reliability Engineer (Auth0)](https://www.okta.com/company/careers/opportunity/7791590?gh_jid=7791590)
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer (Auth0)](https://www.okta.com/company/careers/opportunity/7791590?gh_jid=7791590)
+- [Senior Site Reliability Engineer (Auth0)](https://www.okta.com/company/careers/opportunity/7418982?gh_jid=7418982)
   - Company: okta
   - Location: Remote
 
@@ -270,11 +270,11 @@ Total new jobs: 87
   - Company: pinterest
   - Location: Remote
 
-- [Production Engineer/Site Reliability Engineer (Shift Basis)](https://www.rubrik.com/company/careers/departments/job.7439521?gh_jid=7439521)
+- [Production Engineer/Site Reliability Engineer (Shift Basis)](https://www.rubrik.com/company/careers/departments/job.7439514?gh_jid=7439514)
   - Company: rubrik
   - Location: Remote
 
-- [Production Engineer/Site Reliability Engineer (Shift Basis)](https://www.rubrik.com/company/careers/departments/job.7439514?gh_jid=7439514)
+- [Production Engineer/Site Reliability Engineer (Shift Basis)](https://www.rubrik.com/company/careers/departments/job.7439521?gh_jid=7439521)
   - Company: rubrik
   - Location: Remote
 
