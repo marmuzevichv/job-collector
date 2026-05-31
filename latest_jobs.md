@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-05-30 13:26 UTC
+Generated: 2026-05-31 13:43 UTC
 
-Total new jobs: 88
+Total new jobs: 83
 
 ## greenhouse
 
@@ -327,10 +327,6 @@ Total new jobs: 88
 
 ## remoteok
 
-- [Junior Product Analyst](https://remoteOK.com/remote-jobs/remote-junior-product-analyst-appletree-medical-group-1132515)
-  - Company: Appletree Medical Group
-  - Location: Toronto, Toronto, Ontario, Canada
-
 - [Lead Generator](https://remoteOK.com/remote-jobs/remote-lead-generator-breevy-1132473)
   - Company: Breevy
   - Location: Surat,
@@ -338,14 +334,6 @@ Total new jobs: 88
 - [Technical support](https://remoteOK.com/remote-jobs/remote-technical-support-litepos-1132475)
   - Company: LitePOS
   - Location: Amet,
-
-- [Scrum Master](https://remoteOK.com/remote-jobs/remote-scrum-master-ringside-talent-1132429)
-  - Company: Ringside Talent
-  - Location: Ohio, Ohio, United States
-
-- [Interested building performance simulation](https://remoteOK.com/remote-jobs/remote-interested-building-performance-simulation-tlk-energy-1132474)
-  - Company: TLK Energy
-  - Location: Ratlam,
 
 ## weworkremotely
 
@@ -361,14 +349,6 @@ Total new jobs: 88
   - Company: Cubos Tecnologia
   - Location: Remote
 
-- [Devops](https://weworkremotely.com/remote-jobs/mutt-data-devops)
-  - Company: Mutt Data
-  - Location: Remote
-
 - [Profissional IaC| DevOps](https://weworkremotely.com/remote-jobs/radix-profissional-iac-devops)
   - Company: Radix
-  - Location: Remote
-
-- [Senior Devops Engineer](https://weworkremotely.com/remote-jobs/woliba-senior-devops-engineer)
-  - Company: Woliba
   - Location: Remote
