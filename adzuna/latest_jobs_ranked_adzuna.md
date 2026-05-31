@@ -1,257 +1,237 @@
 # Top DevOps Jobs — Ranked by AI
 
-Generated: 2026-05-30 13:48 UTC
-Total jobs analyzed: 404
-Candidates sent to AI: 77
+Generated: 2026-05-31 13:54 UTC
+Total jobs analyzed: 468
+Candidates sent to AI: 103
 
 ---
 
-### [9/10] Senior Platform Engineer — HackEDU, Inc. dba Security Journey
+### [9/10] Senior Platform Engineer — Security Journey
 - Location: Remote (United States)
 - URL: https://www.adzuna.com/details/5722362324?utm_medium=api&utm_source=632a28fd
-- Why: Perfect alignment with AWS/Kubernetes expertise, senior-level platform engineering role matching target titles and remote US requirement.
+- Why: Perfect match—AWS, Kubernetes platform engineering aligns exactly with target roles and 6+ years experience.
 
-### [9/10] DevOps Engineer — G2i
-- Location: Remote (US based)
+### [9/10] DevOps / DevSecOps Engineer — G2i
+- Location: Remote (US)
 - URL: https://www.adzuna.com/details/5608908286?utm_medium=api&utm_source=632a28fd
-- Why: Direct DevOps/DevSecOps role with AWS (ECS/Fargate, RDS, S3, IAM) expertise matching core skills; Green Card holder qualifies for US citizen requirement.
+- Why: AWS infrastructure (ECS/Fargate, RDS, S3, IAM) and DevSecOps focus match core skills; remote US-based.
 
-### [9/10] Senior Platform Engineer - Kubernetes - remote — SitusAMC
-- Location: Remote
-- URL: https://www.adzuna.com/details/5714104600?utm_medium=api&utm_source=632a28fd
-- Why: Kubernetes platform engineer role matching target titles and 6+ years experience; fully remote aligns with location requirements.
+### [9/10] Senior DevOps Engineer - Kubernetes Focused — Element 84
+- Location: Remote (DC/Philly Metro hub option)
+- URL: https://www.adzuna.com/details/5704220658?utm_medium=api&utm_source=632a28fd
+- Why: Kubernetes-focused platform engineering with CKA/CKAD certification value; remote option available.
 
-### [9/10] Senior Platform Engineer - Kubernetes - remote — SitusAMC
-- Location: Remote
-- URL: https://www.adzuna.com/details/5714014522?utm_medium=api&utm_source=632a28fd
-- Why: Kubernetes platform engineer role matching target titles and 6+ years experience; fully remote aligns with location requirements.
+### [9/10] DevOps Engineer — Pavago
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5743806859?utm_medium=api&utm_source=632a28fd
+- Why: Full-time remote DevOps role with US business hours; infrastructure and deployment alignment perfect match.
 
-### [9/10] Senior Platform Engineer - Kubernetes - remote — SitusAMC
-- Location: Remote
-- URL: https://www.adzuna.com/details/5714015566?utm_medium=api&utm_source=632a28fd
-- Why: Kubernetes platform engineer role matching target titles and 6+ years experience; fully remote aligns with location requirements.
-
-### [9/10] Senior Platform Engineer - Kubernetes - remote — SitusAMC
-- Location: Remote
-- URL: https://www.adzuna.com/details/5714016166?utm_medium=api&utm_source=632a28fd
-- Why: Kubernetes platform engineer role matching target titles and 6+ years experience; fully remote aligns with location requirements.
-
-### [9/10] Senior Infrastructure Platform Engineer (Remote) — Teaching Strategies
+### [9/10] Senior Infrastructure Platform Engineer — Teaching Strategies
 - Location: Remote
 - URL: https://www.adzuna.com/details/5745183265?utm_medium=api&utm_source=632a28fd
-- Why: Senior infrastructure platform engineer role perfectly matches target titles and remote requirement; edtech company culture fits DevOps-focused engineering.
+- Why: Senior platform engineer role matches target title exactly; remote position emphasizes infrastructure.
 
-### [9/10] Senior AWS Cloud Engineer remote — Stellent IT LLC
-- Location: US (Remote)
-- URL: https://www.adzuna.com/details/5745041278?utm_medium=api&utm_source=632a28fd
-- Why: Perfect match with 6+ years AWS experience, hands-on development focus aligns with DevOps background, remote US role matches location preferences.
+### [9/10] Site Reliability Engineer (SRE) — Bright Vision Technologies
+- Location: Plano, Collin County, Texas
+- URL: https://www.adzuna.com/details/5745358118?utm_medium=api&utm_source=632a28fd
+- Why: SRE role is a target position and candidate has relevant monitoring, containerization, and infrastructure automation skills.
 
-### [9/10] Kubernetes Engineer — Ascension Federal Services
-- Location: Remote (Orlando, FL)
-- URL: https://www.adzuna.com/details/5727641551?utm_medium=api&utm_source=632a28fd
-- Why: Excellent match with CKA/CKAD certifications, Kubernetes expertise is core skill, remote US role, direct infrastructure engineering focus.
+### [9/10] Site Reliability Engineer (SRE) — Bright Vision Technologies
+- Location: Union City, Alameda County, California
+- URL: https://www.adzuna.com/details/5746230426?utm_medium=api&utm_source=632a28fd
+- Why: SRE role matches target position with demonstrated expertise in Kubernetes, monitoring, and automation.
+
+### [9/10] Site Reliability Engineer (SRE) — Bright Vision Technologies
+- Location: Johns Creek, Fulton County, Georgia
+- URL: https://www.adzuna.com/details/5745213944?utm_medium=api&utm_source=632a28fd
+- Why: SRE target role with candidate's proven expertise in reliability, monitoring (Prometheus, Grafana), and infrastructure automation.
+
+### [9/10] Site Reliability Engineer (SRE) — Bright Vision Technologies
+- Location: Fremont, Alameda County, California
+- URL: https://www.adzuna.com/details/5744972437?utm_medium=api&utm_source=632a28fd
+- Why: SRE position aligns with target roles and candidate's strong background in Kubernetes, observability, and systems reliability.
+
+### [9/10] Site Reliability Engineer (SRE) — Bright Vision Technologies
+- Location: Bellevue, King County, Washington
+- URL: https://www.adzuna.com/details/5744730957?utm_medium=api&utm_source=632a28fd
+- Why: SRE target role with candidate's expertise in containerization, monitoring, IaC, and cloud infrastructure management.
+
+### [9/10] Site Reliability Engineer (SRE) — Bright Vision Technologies
+- Location: Iselin, Middlesex County, New Jersey
+- URL: https://www.adzuna.com/details/5744972459?utm_medium=api&utm_source=632a28fd
+- Why: SRE position matching candidate's skills in Kubernetes, monitoring, automation, and infrastructure reliability engineering.
+
+### [9/10] Site Reliability Engineer (SRE) — Bright Vision Technologies
+- Location: Plano, Collin County, Texas
+- URL: https://www.adzuna.com/details/5744608534?utm_medium=api&utm_source=632a28fd
+- Why: SRE role directly matches target position with candidate's deep expertise in Kubernetes, monitoring, and DevOps practices.
+
+### [9/10] Site Reliability Engineer (SRE) — Bright Vision Technologies
+- Location: The Colony, Denton County, Texas
+- URL: https://www.adzuna.com/details/5744223320?utm_medium=api&utm_source=632a28fd
+- Why: SRE target position with candidate's comprehensive skills in containerization, observability, and infrastructure automation.
+
+### [9/10] Site Reliability Engineer (SRE) — Bright Vision Technologies
+- Location: Johns Creek, Fulton County, Georgia
+- URL: https://www.adzuna.com/details/5744029718?utm_medium=api&utm_source=632a28fd
+- Why: SRE role matches target position; candidate has relevant experience in Kubernetes, monitoring, and reliability engineering.
+
+### [9/10] Site Reliability Engineer (SRE) — Bright Vision Technologies
+- Location: Montgomery Village, Montgomery County, Maryland
+- URL: https://www.adzuna.com/details/5739522276?utm_medium=api&utm_source=632a28fd
+- Why: SRE target position with candidate's strong background in Kubernetes, monitoring tools, and infrastructure automation.
+
+### [8/10] Senior DevOps AWS Engineer — Darwin Recruitment
+- Location: Remote (100%)
+- URL: https://www.adzuna.com/details/5740854199?utm_medium=api&utm_source=632a28fd
+- Why: Senior-level AWS DevOps contract role with 100% remote flexibility meets experience level and location preference.
+
+### [8/10] Senior DevOps AWS Engineer — Darwin Recruitment
+- Location: Remote (100%)
+- URL: https://www.adzuna.com/details/5740854198?utm_medium=api&utm_source=632a28fd
+- Why: Senior-level AWS DevOps contract role with 100% remote flexibility meets experience level and location preference.
+
+### [8/10] Senior DevOps AWS Engineer — Darwin Recruitment
+- Location: Remote (100%)
+- URL: https://www.adzuna.com/details/5740854194?utm_medium=api&utm_source=632a28fd
+- Why: Senior-level AWS DevOps contract role with 100% remote flexibility meets experience level and location preference.
+
+### [8/10] Senior DevOps AWS Engineer — Darwin Recruitment
+- Location: Remote (100%)
+- URL: https://www.adzuna.com/details/5740854197?utm_medium=api&utm_source=632a28fd
+- Why: Senior-level AWS DevOps contract role with 100% remote flexibility meets experience level and location preference.
+
+### [8/10] Senior DevOps AWS Engineer — Darwin Recruitment
+- Location: Remote (100%)
+- URL: https://www.adzuna.com/details/5740854196?utm_medium=api&utm_source=632a28fd
+- Why: Senior-level AWS DevOps contract role with 100% remote flexibility meets experience level and location preference.
 
 ### [8/10] AWS Devops Engineer — Stellent IT LLC
 - Location: Remote (US)
 - URL: https://www.adzuna.com/details/5745041276?utm_medium=api&utm_source=632a28fd
-- Why: Fully remote W2 AWS DevOps role explicitly accepts Green Card holders; strong alignment with core AWS and infrastructure skills.
+- Why: Fully remote W2 AWS DevOps role (GC-eligible) matches skills and remote preference in US.
 
-### [8/10] Senior DevOps Engineer - Kubernetes Focused — Element 84
-- Location: Remote (DC or Philly Metro hub option)
-- URL: https://www.adzuna.com/details/5704220658?utm_medium=api&utm_source=632a28fd
-- Why: Kubernetes-focused platform engineering role with geospatial/data processing pipeline expertise; strong technical alignment though hub location not in Minnesota.
+### [8/10] Senior DevOps AWS Engineer — Darwin Recruitment
+- Location: Remote (100%)
+- URL: https://www.adzuna.com/details/5740854195?utm_medium=api&utm_source=632a28fd
+- Why: Senior-level AWS DevOps contract role with 100% remote flexibility meets experience level and location preference.
 
-### [8/10] DevOps Engineer (Red Hat OpenShift) - Remote — EVOTEK, Inc.
+### [8/10] DevOps Engineer/Release Management Engineer — Semper Valens Solutions
+- Location: Remote
+- URL: https://www.adzuna.com/details/5743333091?utm_medium=api&utm_source=632a28fd
+- Why: DevOps engineer role designing/implementing infrastructure matches core expertise; remote available.
+
+### [8/10] DevOps Engineer (Red Hat OpenShift) — EVOTEK, Inc.
 - Location: Remote
 - URL: https://www.adzuna.com/details/5742496835?utm_medium=api&utm_source=632a28fd
-- Why: OpenShift/DevOps role with secure digital business focus aligns with Kubernetes and container expertise; fully remote in US.
-
-### [8/10] Security DevSecOps Specialist (Remote) — DMS Vision Inc
-- Location: Remote
-- URL: https://www.adzuna.com/details/5745042666?utm_medium=api&utm_source=632a28fd
-- Why: DevSecOps specialist role matching target titles with security focus aligns with FedRAMP, IAM, and security scanning skills; 6-month contract fully remote.
+- Why: OpenShift platform engineering directly matches resume skills and target Platform Engineer role.
 
 ### [8/10] Site Reliability Engineer — Atlanta, GA
 - Location: Remote
 - URL: https://www.adzuna.com/details/5721006562?utm_medium=api&utm_source=632a28fd
-- Why: SRE target role with 12-month contract at $60/hr; fully remote aligns with location preferences and career goals.
+- Why: SRE role is explicit target position; 12-month remote contract matches preferences.
 
-### [8/10] Senior Cloud Engineer - Azure — Appex Innovation
-- Location: Remote (USA - CST/EST Timezone)
-- URL: https://www.adzuna.com/details/5742023089?utm_medium=api&utm_source=632a28fd
-- Why: Senior Azure cloud engineer role matches AZ-104 certification and Azure DevOps expertise; remote US position aligns with location and seniority.
-
-### [8/10] AWS DevSecOps Engineer (Sr)- 100% Remote — Cyrten
-- Location: Remote
-- URL: https://www.adzuna.com/details/5330061057?utm_medium=api&utm_source=632a28fd
-- Why: Senior AWS DevSecOps role perfectly matches DevSecOps target with 7+ years experience requirement; federal client work aligns with security expertise though requires US citizenship.
-
-### [8/10] Remote role of Site Reliability Engineer Systems Analyst VII (SRE) — Buffalo, NY
+### [8/10] Site Reliability Engineer Systems Analyst VII — Buffalo, NY
 - Location: Remote
 - URL: https://www.adzuna.com/details/5706616962?utm_medium=api&utm_source=632a28fd
-- Why: SRE target role with cloud migration skills at $80-100/hr; 6-month W2 contract fully remote matches location and career goals.
+- Why: SRE Systems Analyst with cloud migration focus matches target role and 100% remote contract.
+
+### [8/10] AWS DevSecOps Engineer (Sr) — Cyrten
+- Location: Remote
+- URL: https://www.adzuna.com/details/5330061057?utm_medium=api&utm_source=632a28fd
+- Why: Senior DevSecOps engineer with 7+ years AWS experience perfect alignment; 12-36 month remote contract.
 
 ### [8/10] DevOps Engineer — TekWissen LLC
-- Location: Remote (US)
+- Location: US
 - URL: https://www.adzuna.com/details/5742798766?utm_medium=api&utm_source=632a28fd
-- Why: Direct DevOps engineer role with healthcare/wellness client matches core expertise; fully remote US-based aligns with location preference.
-
-### [8/10] DevOps Engineer — TekWissen LLC
-- Location: Remote (Michigan, US)
-- URL: https://www.adzuna.com/details/5737042302?utm_medium=api&utm_source=632a28fd
-- Why: DevOps engineer role aligns with expertise; remote US position with Michigan base fits location flexibility and target role.
+- Why: Direct DevOps role at a workforce management firm; matches target title and US location, though incomplete job details limit confidence.
 
 ### [8/10] Senior DevOps Engineer — Staffxpert LLC
-- Location: Remote (Bethesda, MD)
+- Location: Bethesda, MD (Remote)
 - URL: https://www.adzuna.com/details/5742802096?utm_medium=api&utm_source=632a28fd
-- Why: Senior DevOps engineer 12-month contract role matches target title and experience; remote option from Bethesda aligns with US location.
+- Why: Senior DevOps Engineer contract role with remote eligibility; strong title match and candidate has 6+ years experience to qualify.
 
-### [8/10] Site Reliability Engineer (SRE) — Bright Vision Technologies
+### [8/10] Site reliability Engineer $160/hr Remote/ part time — Mercor Ai
+- Location: Remote, US
+- URL: https://www.adzuna.com/details/5720147333?utm_medium=api&utm_source=632a28fd
+- Why: Excellent fit on SRE experience requirements (6+ years DevOps at Fortune 100 companies exceeds 3-year requirement), remote US location matches preferences, and on-call background aligns with SRE role expectations.
+
+### [7/10] Associate Cloud Security Analyst — Openkyber
+- Location: Remote (Detroit MI client)
+- URL: https://www.adzuna.com/details/5744036117?utm_medium=api&utm_source=632a28fd
+- Why: AWS cloud platform engineering role with security focus aligns with DevSecOps interests; remote with US-based client.
+
+### [7/10] Security DevSecOps Specialist — DMS Vision Inc
 - Location: Remote
-- URL: https://www.adzuna.com/details/5745358118?utm_medium=api&utm_source=632a28fd
-- Why: SRE target role matches career goals perfectly; fully remote position aligns with location preference.
+- URL: https://www.adzuna.com/details/5745042666?utm_medium=api&utm_source=632a28fd
+- Why: DevSecOps specialist role aligns with security-focused skills (Vault, IAM, Trivy, Checkov) in remote format.
 
-### [8/10] Site Reliability Engineer (SRE) — Bright Vision Technologies
-- Location: Remote
-- URL: https://www.adzuna.com/details/5744972437?utm_medium=api&utm_source=632a28fd
-- Why: SRE target role matches career goals perfectly; fully remote position aligns with location preference.
-
-### [8/10] Site Reliability Engineer (SRE) — Bright Vision Technologies
-- Location: Remote
-- URL: https://www.adzuna.com/details/5745213944?utm_medium=api&utm_source=632a28fd
-- Why: SRE target role matches career goals perfectly; fully remote position aligns with location preference.
-
-### [8/10] Site Reliability Engineer (SRE) — Bright Vision Technologies
-- Location: Remote
-- URL: https://www.adzuna.com/details/5744972459?utm_medium=api&utm_source=632a28fd
-- Why: SRE target role matches career goals perfectly; fully remote position aligns with location preference.
-
-### [8/10] Site Reliability Engineer (SRE) — Bright Vision Technologies
-- Location: Remote
-- URL: https://www.adzuna.com/details/5744730957?utm_medium=api&utm_source=632a28fd
-- Why: SRE target role matches career goals perfectly; fully remote position aligns with location preference.
-
-### [8/10] DevOps Engineer - Remote, US — Bowman
-- Location: Remote (US)
-- URL: https://www.adzuna.com/details/5731913731?utm_medium=api&utm_source=632a28fd
-- Why: Direct DevOps engineer role matches target title and expertise; explicitly remote US aligns with location preference.
-
-### [8/10] Site Reliability Engineer (SRE) — Bright Vision Technologies
-- Location: Remote
-- URL: https://www.adzuna.com/details/5739522276?utm_medium=api&utm_source=632a28fd
-- Why: SRE target role matches career goals perfectly; fully remote position aligns with location preference.
-
-### [8/10] Site Reliability Engineer (SRE) — Bright Vision Technologies
-- Location: Remote
-- URL: https://www.adzuna.com/details/5743160114?utm_medium=api&utm_source=632a28fd
-- Why: SRE target role matches career goals perfectly; fully remote position aligns with location preference.
-
-### [8/10] System Engineer / Site Reliability Engineer (SRE) — Staffxpert LLC
-- Location: US (Remote)
-- URL: https://www.adzuna.com/details/5738191810?utm_medium=api&utm_source=632a28fd
-- Why: Direct SRE target role match, remote US-based, aligns with candidate's target positions and 6+ years experience level.
-
-### [8/10] DevSecOps Engineer (Data & Integration) — DecisionPoint
-- Location: US (Remote)
-- URL: https://www.adzuna.com/details/5701444636?utm_medium=api&utm_source=632a28fd
-- Why: Strong alignment with DevSecOps target role, FedRAMP/security expertise matches candidate background, remote US-based with cloud infrastructure focus.
-
-### [7/10] Senior DevOps AWS Engineer — Darwin Recruitment
-- Location: Remote (100%)
-- URL: https://www.adzuna.com/details/5740854199?utm_medium=api&utm_source=632a28fd
-- Why: Senior DevOps AWS role with 12-month contract aligns with expertise, though contract/freelance structure may be less preferred than FTE.
-
-### [7/10] Senior DevOps AWS Engineer — Darwin Recruitment
-- Location: Remote (100%)
-- URL: https://www.adzuna.com/details/5740854198?utm_medium=api&utm_source=632a28fd
-- Why: Senior DevOps AWS role with 12-month contract aligns with expertise, though contract/freelance structure may be less preferred than FTE.
-
-### [7/10] Senior DevOps AWS Engineer — Darwin Recruitment
-- Location: Remote (100%)
-- URL: https://www.adzuna.com/details/5740854196?utm_medium=api&utm_source=632a28fd
-- Why: Senior DevOps AWS role with 12-month contract aligns with expertise, though contract/freelance structure may be less preferred than FTE.
-
-### [7/10] Senior DevOps AWS Engineer — Darwin Recruitment
-- Location: Remote (100%)
-- URL: https://www.adzuna.com/details/5740854194?utm_medium=api&utm_source=632a28fd
-- Why: Senior DevOps AWS role with 12-month contract aligns with expertise, though contract/freelance structure may be less preferred than FTE.
-
-### [7/10] Senior DevOps AWS Engineer — Darwin Recruitment
-- Location: Remote (100%)
-- URL: https://www.adzuna.com/details/5740854197?utm_medium=api&utm_source=632a28fd
-- Why: Senior DevOps AWS role with 12-month contract aligns with expertise, though contract/freelance structure may be less preferred than FTE.
-
-### [7/10] Senior DevOps AWS Engineer — Darwin Recruitment
-- Location: Remote (100%)
-- URL: https://www.adzuna.com/details/5740854195?utm_medium=api&utm_source=632a28fd
-- Why: Senior DevOps AWS role with 12-month contract aligns with expertise, though contract/freelance structure may be less preferred than FTE.
-
-### [7/10] AWS Cloud Engineer — Bright Vision Technologies
-- Location: Remote
-- URL: https://www.adzuna.com/details/5745413822?utm_medium=api&utm_source=632a28fd
-- Why: AWS cloud engineer role aligns with core AWS expertise; remote role matches location preference though generic cloud engineer title is less specialized.
-
-### [7/10] AWS Cloud Engineer — Bright Vision Technologies
-- Location: Remote
-- URL: https://www.adzuna.com/details/5745457577?utm_medium=api&utm_source=632a28fd
-- Why: AWS cloud engineer role aligns with core AWS expertise; remote role matches location preference though generic cloud engineer title is less specialized.
-
-### [7/10] Remote : Senior Linux Platform Engineer (CPaaS Infrastructure) — DMS Vision Inc
+### [7/10] Senior Linux Platform Engineer (CPaaS Infrastructure) — DMS Vision Inc
 - Location: Remote
 - URL: https://www.adzuna.com/details/5745042676?utm_medium=api&utm_source=632a28fd
-- Why: Senior Linux platform engineer with infrastructure focus matches DevOps background; 100% remote contract aligns with location and expertise in Linux/infrastructure.
+- Why: Platform engineering with infrastructure focus aligns with target roles; remote contract format.
 
-### [7/10] Azure Cloud Engineer — Bright Vision Technologies
-- Location: Remote
-- URL: https://www.adzuna.com/details/5745265614?utm_medium=api&utm_source=632a28fd
-- Why: Azure cloud engineer matches secondary cloud expertise (AZ-104 certified); remote role fits location though less specialized than DevOps/SRE titles.
+### [7/10] Senior AWS Cloud Engineer remote — Stellent IT LLC
+- Location: US
+- URL: https://www.adzuna.com/details/5745041278?utm_medium=api&utm_source=632a28fd
+- Why: AWS-focused Cloud Engineer role aligns with candidate's deep AWS expertise (EKS, EC2, RDS, Lambda) and remote eligibility.
 
-### [7/10] AWS Cloud Engineer — Bright Vision Technologies
-- Location: Remote
-- URL: https://www.adzuna.com/details/5744730877?utm_medium=api&utm_source=632a28fd
-- Why: AWS cloud engineer role aligns with core AWS expertise; remote role matches location preference though generic cloud engineer title is less specialized.
-
-### [7/10] Azure Cloud Engineer — Bright Vision Technologies
-- Location: Remote
-- URL: https://www.adzuna.com/details/5744730879?utm_medium=api&utm_source=632a28fd
-- Why: Azure cloud engineer matches secondary cloud expertise (AZ-104 certified); remote role fits location though less specialized than DevOps/SRE titles.
-
-### [7/10] Azure Cloud Engineer — Bright Vision Technologies
-- Location: Remote
-- URL: https://www.adzuna.com/details/5744730880?utm_medium=api&utm_source=632a28fd
-- Why: Azure cloud engineer matches secondary cloud expertise (AZ-104 certified); remote role fits location though less specialized than DevOps/SRE titles.
-
-### [7/10] AWS Cloud Engineer — Bright Vision Technologies
-- Location: Remote
-- URL: https://www.adzuna.com/details/5744730878?utm_medium=api&utm_source=632a28fd
-- Why: AWS cloud engineer role aligns with core AWS expertise; remote role matches location preference though generic cloud engineer title is less specialized.
-
-### [7/10] Azure Cloud Engineer — Bright Vision Technologies
-- Location: Remote
-- URL: https://www.adzuna.com/details/5744439491?utm_medium=api&utm_source=632a28fd
-- Why: Azure cloud engineer matches secondary cloud expertise (AZ-104 certified); remote role fits location though less specialized than DevOps/SRE titles.
-
-### [7/10] Azure Cloud Engineer — Bright Vision Technologies
-- Location: Remote
-- URL: https://www.adzuna.com/details/5738607232?utm_medium=api&utm_source=632a28fd
-- Why: Azure cloud engineer matches secondary cloud expertise (AZ-104 certified); remote role fits location though less specialized than DevOps/SRE titles.
-
-### [7/10] AWS Cloud Engineer — Bright Vision Technologies
-- Location: Remote
-- URL: https://www.adzuna.com/details/5738457228?utm_medium=api&utm_source=632a28fd
-- Why: AWS cloud engineer role aligns with core AWS expertise; remote role matches location preference though generic cloud engineer title is less specialized.
+### [7/10] Kafka Platform Engineer — Bright Vision Technologies
+- Location: Eastgate, King County, Washington
+- URL: https://www.adzuna.com/details/5746327089?utm_medium=api&utm_source=632a28fd
+- Why: Platform Engineer target role; candidate's IaC, containerization, and automation skills transfer well though Kafka expertise unclear.
 
 ### [7/10] Platform Engineer — Vailexa Technology
-- Location: Remote (US)
+- Location: Remote (Idaho, Clay County)
 - URL: https://www.adzuna.com/details/5745042659?utm_medium=api&utm_source=632a28fd
-- Why: CrowdStrike Falcon Platform Engineer role is relevant, remote with GC acceptance, but only 6-month contract and missing detailed tech stack alignment.
+- Why: CrowdStrike Platform Engineer remote role matches target position; candidate has GC eligibility and relevant infrastructure expertise.
 
-### [7/10] Site reliability Engineer $160/hr Remote/ part time — Mercor Ai
-- Location: US (Remote)
-- URL: https://www.adzuna.com/details/5720147333?utm_medium=api&utm_source=632a28fd
-- Why: Direct SRE role match with remote US option, but part-time contract and lower visibility on full tech stack requirements reduce fit.
+### [7/10] Kafka Platform Engineer — Bright Vision Technologies
+- Location: Iselin, Middlesex County, New Jersey
+- URL: https://www.adzuna.com/details/5746224720?utm_medium=api&utm_source=632a28fd
+- Why: Platform Engineer target role; candidate's container orchestration and automation skills apply though Kafka depth not evident.
 
-### [6/10] OCI DevOps Engineer — Leidos
-- Location: Remote
-- URL: https://www.adzuna.com/details/5745047087?utm_medium=api&utm_source=632a28fd
-- Why: DevOps role with remote option aligns with target titles though Oracle Cloud (OCI) is less core expertise compared to AWS/Azure/GCP primary focus.
+### [7/10] Kafka Platform Engineer — Bright Vision Technologies
+- Location: Plano, Collin County, Texas
+- URL: https://www.adzuna.com/details/5745183722?utm_medium=api&utm_source=632a28fd
+- Why: Platform Engineer target position; candidate's Kubernetes, Docker, and infrastructure automation skills transfer to streaming platform work.
+
+### [7/10] Kafka Platform Engineer — Bright Vision Technologies
+- Location: Fremont, Alameda County, California
+- URL: https://www.adzuna.com/details/5744972366?utm_medium=api&utm_source=632a28fd
+- Why: Platform Engineer target role; candidate's containerization and infrastructure skills applicable though Kafka-specific expertise unclear.
+
+### [7/10] Kafka Platform Engineer — Bright Vision Technologies
+- Location: Iselin, Middlesex County, New Jersey
+- URL: https://www.adzuna.com/details/5744730909?utm_medium=api&utm_source=632a28fd
+- Why: Platform Engineer target position with candidate's IaC, container, and DevOps automation skills transferable to Kafka platform work.
+
+### [7/10] Kafka Platform Engineer — Bright Vision Technologies
+- Location: Bellevue, King County, Washington
+- URL: https://www.adzuna.com/details/5744730910?utm_medium=api&utm_source=632a28fd
+- Why: Platform Engineer target role; candidate's Kubernetes, Docker, and infrastructure automation skills applicable to Kafka platform engineering.
+
+### [7/10] Kafka Platform Engineer — Bright Vision Technologies
+- Location: The Colony, Denton County, Texas
+- URL: https://www.adzuna.com/details/5744518512?utm_medium=api&utm_source=632a28fd
+- Why: Platform Engineer target position with candidate's containerization, IaC, and automation expertise applicable to streaming infrastructure.
+
+### [7/10] Kafka Platform Engineer — Bright Vision Technologies
+- Location: Johns Creek, Fulton County, Georgia
+- URL: https://www.adzuna.com/details/5744029599?utm_medium=api&utm_source=632a28fd
+- Why: Platform Engineer target role; candidate's Kubernetes, Docker, and DevOps skills transfer well to Kafka platform engineering.
+
+### [7/10] DevSecOps Engineer (Data & Integration) — DecisionPoint
+- Location: US
+- URL: https://www.adzuna.com/details/5701444636?utm_medium=api&utm_source=632a28fd
+- Why: Strong match on DevSecOps expertise, security certifications (FedRAMP, Vault, Trivy, Checkov), and cloud automation skills; data integration focus is slightly outside core DevOps but automation/monitoring align well.
+
+### [6/10] Sr Remote Cloud Network Engineer — Insight Global
+- Location: Remote (Herndon, VA client)
+- URL: https://www.adzuna.com/details/5744040852?utm_medium=api&utm_source=632a28fd
+- Why: Multi-cloud network engineering leans toward networking; partial overlap with cloud infrastructure skills.
+
+### [6/10] VMware Platform Engineer — Bright Vision Technologies
+- Location: Union City, Alameda County, California
+- URL: https://www.adzuna.com/details/5746358993?utm_medium=api&utm_source=632a28fd
+- Why: Platform Engineer target role but VMware-specific expertise not highlighted in resume; cloud/container skills partially applicable.
