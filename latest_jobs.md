@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-06-01 17:36 UTC
+Generated: 2026-06-02 16:22 UTC
 
-Total new jobs: 80
+Total new jobs: 81
 
 ## greenhouse
 
@@ -283,6 +283,11 @@ Total new jobs: 80
   - Location: Remote
 
 ## jobicy
+
+- [Senior Customer Reliability Engineer – Infrastructure](https://jobicy.com/jobs/145279-senior-customer-reliability-engineer-infrastructure)
+  - Company: Astronomer
+  - Location: Ireland
+  - Level/Team: DevOps &amp; Infrastructure
 
 - [BigData DevOps Engineer](https://jobicy.com/jobs/144462-bigdata-devops-engineer)
   - Company: Experian

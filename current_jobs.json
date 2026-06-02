@@ -104,6 +104,21 @@
     "collected_at_utc": "2026-06-01 17:35:57"
   },
   {
+    "source_type": "jobicy",
+    "company": "Astronomer",
+    "title": "Senior Customer Reliability Engineer – Infrastructure",
+    "location": "Ireland",
+    "team": "DevOps &amp; Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/145279-senior-customer-reliability-engineer-infrastructure",
+    "external_id": "jobicy::145279",
+    "description_snippet": "Astronomer empowers data teams to bring mission-critical software, analytics, and AI to life and is the company behind Astro, the industry-leading unified DataOps platform powered by Apache Airflow®. Astro accelerates...",
+    "posted_at": "2026-06-02T11:03:39+00:00",
+    "collected_at_utc": "2026-06-02 16:22:00"
+  },
+  {
     "source_type": "greenhouse",
     "company": "canonical",
     "title": "Kernel Build Automation Engineer - Ubuntu Linux",
