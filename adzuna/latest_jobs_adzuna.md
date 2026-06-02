@@ -1,7 +1,7 @@
 # Jobs via Adzuna API
 
-Generated: 2026-06-01 17:49 UTC
-Total jobs (24h window): 475
+Generated: 2026-06-02 16:41 UTC
+Total jobs (24h window): 539
 
 - [Senior DevOps Engineer / SRE - Remote - $140K-$160K](https://www.adzuna.com/details/5747133686?utm_medium=api&utm_source=632a28fd)
   - Company: Direct Line Workforce Solutions | Raleigh, Smith County
@@ -1902,3 +1902,259 @@ Total jobs (24h window): 475
 - [Senior DevOps Engineer - Kubernetes Focused (Hub-Remote: DC or Philly Metro)](https://www.adzuna.com/details/5704220658?utm_medium=api&utm_source=632a28fd)
   - Company: Element 84 | Alexandria, Alexandria City
   - About Element 84 Element 84 is a woman-owned small business that works with public, private, and non-profit sector clien...
+
+- [Azure DevOps Engineer](https://www.adzuna.com/land/ad/5749291699?se=Uo3_16Fe8RGO9PaDeq7KTA&utm_medium=api&utm_source=632a28fd&v=951236912FF682080DEF6E6EBCEEB111FD492C31)
+  - Company: Opusing One, LLC | US
+  - Job Title - Azure DevOps Engineer II Job Location - Remote – EST hours Job Duration - 12 Months Contract Job Description...
+
+- [DevOps Engineer - Secret (Remote) with Security Clearance](https://www.adzuna.com/land/ad/5748842705?se=Uo3_16Fe8RGO9PaDeq7KTA&utm_medium=api&utm_source=632a28fd&v=2DA598C2C2632180779BFF68F10CD729F8D24638)
+  - Company: Xcelerate Solutions | Pimmit, Fairfax County
+  - Senior DevOps Engineer - Secret (Remote) Xcelerate Solutions is currently seeking a Senior DevOps Engineer. As a Senior ...
+
+- [DevOps Engineer - REMOTE with Security Clearance](https://www.adzuna.com/land/ad/5748837281?se=Uo3_16Fe8RGO9PaDeq7KTA&utm_medium=api&utm_source=632a28fd&v=15A8CD3118F0E52D101CD96C516676F607B17E0E)
+  - Company: JTEC-Consulting | Fort Sam Houston, Bexar County
+  - DevOps Engineer - REMOTE San Antonio, TX 78201 JTEC Consulting LLC focuses on successfully delivering solutions to meet ...
+
+- [ServiceNow SecOps Tech Lead / Developer](https://www.adzuna.com/details/5748445020?utm_medium=api&utm_source=632a28fd)
+  - Company: Akaasa Technologies | Nashville, Davidson County
+  - Client location: 4101 Charlotte Avenue Nashville, Tennessee Work setup is remote , but candidate must be willing and abl...
+
+- [Senior DevOps Engineer](https://www.adzuna.com/details/5748443605?utm_medium=api&utm_source=632a28fd)
+  - Company: VDart Inc | Cockrell Hill, Dallas
+  - Title: Senior DevOps Engineer Location: Dallas, TX (Remote) Duration: 6 Months Required Skills & Qualifications: 7 years...
+
+- [DevOps Engineer](https://www.adzuna.com/land/ad/5748435062?se=Uo3_16Fe8RGO9PaDeq7KTA&utm_medium=api&utm_source=632a28fd&v=09A403F133F585F95E9B355C577F7A7C17156D87)
+  - Company: Aspire Systems Digital Transformation Inc | US
+  - Job Title: Senior DevOps Engineer - Platform Engineer Location: Remote in the USA Role Overview This role focuses on bui...
+
+- [Senior DevOps Engineer - (US - Remote) with Security Clearance](https://www.adzuna.com/land/ad/5740547102?se=Uo3_16Fe8RGO9PaDeq7KTA&utm_medium=api&utm_source=632a28fd&v=2666329681490584EC5C9074D7A16EFD11E8C7F6)
+  - Company: ICF Consulting Group, Inc. | Reston, Fairfax County
+  - Description Our Engineering and Emerging Technologies (EET) team works side by side with customers to articulate a visio...
+
+- [Salesforce DevOps Engineer (Copado) - Remote with Security Clearance](https://www.adzuna.com/land/ad/5740544925?se=Uo3_16Fe8RGO9PaDeq7KTA&utm_medium=api&utm_source=632a28fd&v=26E4497D99AAB5EAD162491E472BFAA1E252751D)
+  - Company: ICF Consulting Group, Inc. | Reston, Fairfax County
+  - Description This role is contingent upon a contract award. ICF is seeking a Salesforce DevOps Engineer with Copado exper...
+
+- [Senior DevOps Engineer (AI/Cloud Modernization)](https://www.adzuna.com/details/5740107642?utm_medium=api&utm_source=632a28fd)
+  - Company: St. George Tanaq Corporation | Tallahassee, Leon County
+  - Senior DevOps Engineer (AI/Cloud Modernization) Fully Remote Job Type Full-time Description Overview Tanaq Technical Ser...
+
+- [Site Reliability Engineer & Sr. Site Reliability Engineer (Remote)](https://www.adzuna.com/land/ad/5748388008?se=zHT22aFe8RGiFPa4S1tuEA&utm_medium=api&utm_source=632a28fd&v=93D83951B71D29B2646CA720421E167DD030BEBD)
+  - Company: Mile Two, LLC | Dayton, Montgomery County
+  - Job Description Job Description Description: Join Our Innovative Team at Mile 2! Are you into solving tough problems and...
+
+- [Site Reliability Engineer (SRE)](https://www.adzuna.com/details/5748287464?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Suwanee, Gwinnett County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Senior Site Reliability Engineer (SRE) - 100% Remote - Only W2](https://www.adzuna.com/land/ad/5735314729?se=zHT22aFe8RGiFPa4S1tuEA&utm_medium=api&utm_source=632a28fd&v=D56644EDAE3B5B16814622CE34F601DD27557F08)
+  - Company: Innovative IT Solutions Inc | US
+  - Key Responsibilities: Serve as the primary bridge between security initiatives and Product/Development teams Translate e...
+
+- [Sr. Site Reliability Engineer](https://www.adzuna.com/land/ad/5673192435?se=ECDo2qFe8RGFX9W73VPX7g&utm_medium=api&utm_source=632a28fd&v=F2DC83996281B9BC752AD7793A510267EE0EDD9D)
+  - Company: Intuitive Machines Llc | Kansas, US
+  - Sr. Site Reliability Engineer Remote, US About Intuitive Machines: Intuitive Machines is an innovative and cutting-edge ...
+
+- [Senior Site Reliability Engineer - Observability - Remote](https://www.adzuna.com/land/ad/5671624737?se=ECDo2qFe8RGFX9W73VPX7g&utm_medium=api&utm_source=632a28fd&v=23FD1D8B762C612C04006BB145E703518F00045D)
+  - Company: UnitedHealth Group | La Crosse, La Crosse County
+  - Requisition number: 2347744 Job category: Technology Opportunities with Logistics Health Incorporated (LHI), part of the...
+
+- [Senior Site Reliability Engineer (Remote)](https://www.adzuna.com/details/5664206293?utm_medium=api&utm_source=632a28fd)
+  - Company: AbbVie | Libertyville, Lake County
+  - Company Description About AbbVie AbbVie's mission is to discover and deliver innovative medicines and solutions that sol...
+
+- [Google Cloud Platform Data Engineer - Remote / Telecommute](https://www.adzuna.com/land/ad/5749290442?se=-Ixp3KFe8RGxaa_c72U7cQ&utm_medium=api&utm_source=632a28fd&v=E024D92912C063339AF0DF61E3C561C95A3375BC)
+  - Company: Cynet Systems | Campbell, Santa Clara County
+  - We are looking for Google Cloud Platform Data Engineer - Remote / Telecommute for our client in San Jose, CA Job Title: ...
+
+- [Sr. Data Engineer](https://www.adzuna.com/land/ad/5748927577?se=-Ixp3KFe8RGxaa_c72U7cQ&utm_medium=api&utm_source=632a28fd&v=FC0846D7398C936C95A73E00624D74427FCE89E5)
+  - Company: Capstone Logistics LLC | Parkway, Gwinnett County
+  - Sr. Data Engineer Azure Databricks - Platform Engineering $140k annually  bonuses Remote Sponsorship is not provided now...
+
+- [Lead Software Engineer, AI Platform (Remote)](https://www.adzuna.com/land/ad/5748909247?se=-Ixp3KFe8RGxaa_c72U7cQ&utm_medium=api&utm_source=632a28fd&v=DB12F3D736BB7FCE46375B603D9A0BDB5B38F5B9)
+  - Company: Lennar Homes | Coppell, Dallas
+  - We are Lennar Lennar is one of the nation's leading homebuilders, dedicated to making an impact and creating an extraord...
+
+- [Sr. Platform Software Engineer -](https://www.adzuna.com/details/5748837676?utm_medium=api&utm_source=632a28fd)
+  - Company: evrecruit.io | San Francisco, California
+  - Senior Platform Software Engineer Location: Bay Area, remote-flexible Compensation: Competitive balance base/equity As a...
+
+- [AI Team Lead](https://www.adzuna.com/details/5748447299?utm_medium=api&utm_source=632a28fd)
+  - Company: Openkyber | Alaska, US
+  - Hello Position: Platform Lead / Architect AI Platform Engineering Location: 100% Remote Summary: Tulip AI is an enterpri...
+
+- [AI Model Deployment Administrator](https://www.adzuna.com/details/5748447278?utm_medium=api&utm_source=632a28fd)
+  - Company: Openkyber | Alaska, US
+  - Job Title: Microsoft Copilot / Power Platform Engineer Location: Remote (CST or EST Candidates Only) Duration: Long Term...
+
+- [AI Team Lead](https://www.adzuna.com/details/5748447223?utm_medium=api&utm_source=632a28fd)
+  - Company: Openkyber | Alaska, US
+  - No Client Interview - Only one Round interview with our panel Client: OpenKyber Position: AI Platform Lead / Architect A...
+
+- [PLM Platform Engineer (Windchill / Teamcenter)](https://www.adzuna.com/details/5748287396?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Suwanee, Gwinnett County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [VMware Platform Engineer](https://www.adzuna.com/details/5748287425?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Suwanee, Gwinnett County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Senior Backend Engineer (High-Throughput Platforms)](https://www.adzuna.com/details/5748287457?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Suwanee, Gwinnett County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [SAP Basis / SAP Platform Engineer](https://www.adzuna.com/details/5748287389?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Suwanee, Gwinnett County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Kafka Platform Engineer](https://www.adzuna.com/details/5748287329?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Johns Creek, Fulton County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Platform Engineer](https://www.adzuna.com/land/ad/5748073765?se=-Ixp3KFe8RGxaa_c72U7cQ&utm_medium=api&utm_source=632a28fd&v=6BFD37DA6B699B423143E427F9CDEEF66755C7A5)
+  - Company: Merican Inc | Maryland, Anne Arundel County
+  - Job Title: Platform Engineer (AWS, Azure & Kubernetes) Location: Remote Experience: 5 Years Job Overview We are seeking ...
+
+- [Senior ServiceNow Platform Engineer/Developer Secret (Remote) with Security Clearance](https://www.adzuna.com/land/ad/5740526404?se=Dthh3aFe8RGxaa_c72U7cQ&utm_medium=api&utm_source=632a28fd&v=232349C2421425BCD70379332C143467630B5B3A)
+  - Company: ICF Consulting Group, Inc. | Reston, Fairfax County
+  - Description *We are open to 100% remote work anywhere in the Continental US * Prefer candidates in the MD DC VA area so ...
+
+- [Platform Engineering Lead](https://www.adzuna.com/details/5739555853?utm_medium=api&utm_source=632a28fd)
+  - Company: Endless | US
+  - Platform Engineering Lead Location: Remote, East Coast US or similar time zone (flexible hours to collaborate with colle...
+
+- [REMOTE Platform Engineer (GCP / Golang / Kubernetes / Terraform) - Union](https://www.adzuna.com/land/ad/5739225362?se=Dthh3aFe8RGxaa_c72U7cQ&utm_medium=api&utm_source=632a28fd&v=C89C9E7F49763E4A521D947EAD5050A5CEFD628A)
+  - Company: Insight Global | Pico Heights, Los Angeles County
+  - Job Description A media company is seeking a Platform Engineer (Union) to join their team! The platform engineering team...
+
+- [Intermediate Cloud Engineer](https://www.adzuna.com/land/ad/5749085626?se=GOOH3qFe8RGxaa_c72U7cQ&utm_medium=api&utm_source=632a28fd&v=7ED1F25802032DE0467218BB643C9123B2760202)
+  - Company: Apex Systems | Fort Sam Houston, Bexar County
+  - Job: 3036354 Job Description: Cloud Engineer (AWS) - Remote | Contract-to-Hire (6 Months) Location: 100% Remote Engageme...
+
+- [Multi-Cloud Network Engineer (533500)](https://www.adzuna.com/land/ad/5748924362?se=GOOH3qFe8RGxaa_c72U7cQ&utm_medium=api&utm_source=632a28fd&v=C092BCAA856296DFF89753130331A5B94C3E3532)
+  - Company: Vaco LLC | Addison, Dallas
+  - Multi-Cloud Network Engineer DETAILS Location: Remote Position Type: 6M Contract (with likely extensions) Hourly / Salar...
+
+- [Cloud Engineer (Managed Services)](https://www.adzuna.com/land/ad/5748919098?se=GOOH3qFe8RGxaa_c72U7cQ&utm_medium=api&utm_source=632a28fd&v=307A86B4A92203D5D10AB57365966AB283296017)
+  - Company: Vaco LLC | Addison, Dallas
+  - Cloud Engineer (Managed Services) DETAILS Location: Remote Position Type: 6M C2H Hourly / Salary: BOE! JOB SUMMARY Vaco ...
+
+- [Cloud Security Engineer](https://www.adzuna.com/land/ad/5748593843?se=GOOH3qFe8RGxaa_c72U7cQ&utm_medium=api&utm_source=632a28fd&v=17B9AF757BC5E4861B8E280FF4BF5D943DA6643F)
+  - Company: Advantage Technical | Yorba Linda, Orange County
+  - Cloud Security Engineer - Remote (Temp Contract) Location: Yorba Linda, CA (100% Remote) Pay Rate: $70-$90/hour Client o...
+
+- [Senior AI Cloud Engineer](https://www.adzuna.com/details/5748447446?utm_medium=api&utm_source=632a28fd)
+  - Company: Openkyber | Georgia, US
+  - L5 Network Engineer (AWS Cloud) DETAILS Location : 100% Remote Position Type : 3M Contract (w/ possibility of converting...
+
+- [Java Security Testing Engineer](https://www.adzuna.com/details/5748447106?utm_medium=api&utm_source=632a28fd)
+  - Company: Openkyber | Alaska, US
+  - Job Tittle : Cloud Security Engineer Location : Remote Role Summary Responsible for designing and implementing end-to-en...
+
+- [Azure Cloud Engineer](https://www.adzuna.com/details/5748443560?utm_medium=api&utm_source=632a28fd)
+  - Company: VDart Inc | Cockrell Hill, Dallas
+  - Job Title: Azure Cloud Engineer Location: Remote (Dallas, TX OR Atlanta, GA) Job Type: Contract Responsibilities: Design...
+
+- [Cloud Security Engineer](https://www.adzuna.com/details/5748443460?utm_medium=api&utm_source=632a28fd)
+  - Company: Apptad Inc | US
+  - Role Cloud Security Engineer Location Plano, TX (Remote is also fine) Note: The highlighted points are mandatory. Kindly...
+
+- [Oracle Cloud Security Engineer](https://www.adzuna.com/details/5748287393?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Johns Creek, Fulton County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Azure Cloud Engineer](https://www.adzuna.com/details/5748287336?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Johns Creek, Fulton County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [AWS Cloud Engineer](https://www.adzuna.com/details/5748287334?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Johns Creek, Fulton County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Oracle Cloud Infrastructure (OCI) Engineer](https://www.adzuna.com/details/5748287381?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Johns Creek, Fulton County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Cloud Networking Engineer](https://www.adzuna.com/details/5748287346?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Johns Creek, Fulton County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Software Engineer (Golang  Java)](https://www.adzuna.com/details/5748283484?utm_medium=api&utm_source=632a28fd)
+  - Company: ASCENDING | Manhattan, New York City
+  - Senior Software / Cloud Engineer Remote (U.S. Based) Long-Term Contract We are seeking a skilled Senior Software / Cloud...
+
+- [Cloud Security Engineer](https://www.adzuna.com/land/ad/5748091706?se=GOOH3qFe8RGxaa_c72U7cQ&utm_medium=api&utm_source=632a28fd&v=FC4880EC08884BB31A58112AF84409659EAE341F)
+  - Company: Galent | US
+  - Job Title - Cloud Security Engineer Location - Remote Job Description : Wiz PrismaCloud CSPM CWPP DSPM AISPM ContainerSe...
+
+- [Cloud Security Engineer V](https://www.adzuna.com/details/5743308879?utm_medium=api&utm_source=632a28fd)
+  - Company: Hanger, Inc. | US
+  - With a mantra of Empowering Human Potential, Hanger, Inc. is the world's premier provider of orthotic and prosthetic (O&...
+
+- [Senior Cloud Engineer - Remote with Security Clearance](https://www.adzuna.com/land/ad/5740560709?se=ZHNk36Fe8RGCi6QtrG_i3g&utm_medium=api&utm_source=632a28fd&v=939F26D792967DC30466A780B2D56CC4296C9346)
+  - Company: ICF Consulting Group, Inc. | Reston, Fairfax County
+  - Description This role is contingent upon a contract award. ICF is seeking an experienced Cloud Architect to provide seni...
+
+- [Cloud Engineer](https://www.adzuna.com/land/ad/5739225432?se=ZHNk36Fe8RGCi6QtrG_i3g&utm_medium=api&utm_source=632a28fd&v=4BAC3A366389E36F09BE96B2B1153FB9BD3019CF)
+  - Company: Leidos | Bethesda, Montgomery County
+  - Description Leidos has an exciting opening for you, as a Cloud Engineer,to play a critical role with design, engineering...
+
+- [Cloud Networking Engineer](https://www.adzuna.com/details/5738644202?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Fremont, Alameda County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Oracle Cloud Infrastructure (OCI) Engineer](https://www.adzuna.com/details/5738494669?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Fremont, Alameda County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [AI Data Infrastructure Engineer](https://www.adzuna.com/details/5748287323?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Johns Creek, Fulton County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Infrastructure Automation Engineer (Terraform-heavy)](https://www.adzuna.com/details/5748287392?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Johns Creek, Fulton County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [AI Infrastructure Engineer](https://www.adzuna.com/details/5748287326?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Johns Creek, Fulton County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Senior Cloud Infrastructure Engineer](https://www.adzuna.com/details/5738645716?utm_medium=api&utm_source=632a28fd)
+  - Company: Dragos | US
+  - Dragos is on a relentless mission to defend industrial organizations that provide us with the necessities of modern civi...
+
+- [AI Data Infrastructure Engineer](https://www.adzuna.com/details/5738519917?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Fremont, Alameda County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [FinOps Lead - Hybrid Cloud & On-Prem Infrastructure (Remote)](https://www.adzuna.com/land/ad/5738224731?se=doiG4aFe8RGCi6QtrG_i3g&utm_medium=api&utm_source=632a28fd&v=5DF9C86B3A51140850F8504A7F0FBA7D892EFD67)
+  - Company: GovCIO | Wake Island, Honolulu
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Infrastructure Engineer III](https://www.adzuna.com/details/5737309415?utm_medium=api&utm_source=632a28fd)
+  - Company: HackerOne | Washington, Washington, D.C.
+  - HackerOne is a global leader in Continuous Threat Exposure Management (CTEM). The HackerOne Platform unites agentic AI s...
+
+- [FinOps Lead - Hybrid Cloud & On-Prem Infrastructure (Remote)](https://www.adzuna.com/land/ad/5737304964?se=doiG4aFe8RGCi6QtrG_i3g&utm_medium=api&utm_source=632a28fd&v=75002C7B7F60AFC0D87659629B94EDAC9F023DB4)
+  - Company: GovCIO | Madison, Dane County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Infrastructure SME - Infrastructure Optimization and SIAM (Remote)](https://www.adzuna.com/land/ad/5737304965?se=doiG4aFe8RGCi6QtrG_i3g&utm_medium=api&utm_source=632a28fd&v=419D11793AEDF8FB974CEDACE2E0F521CE73B944)
+  - Company: GovCIO | Madison, Dane County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [FinOps Lead - Hybrid Cloud & On-Prem Infrastructure (Remote)](https://www.adzuna.com/land/ad/5737303965?se=doiG4aFe8RGCi6QtrG_i3g&utm_medium=api&utm_source=632a28fd&v=B8E3216DFD7EF700B1030CEE6151F561BCF8B8E3)
+  - Company: GovCIO | Tumwater, Thurston County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Infrastructure SME - Infrastructure Optimization and SIAM (Remote)](https://www.adzuna.com/land/ad/5737303968?se=doiG4aFe8RGCi6QtrG_i3g&utm_medium=api&utm_source=632a28fd&v=409E8FEEC8982082C9EE4C1E1851628E917DAC7F)
+  - Company: GovCIO | Tumwater, Thurston County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Senior DevSecOps Engineer - 100% Remote - Only on W2](https://www.adzuna.com/land/ad/5735319167?se=bg9l46Fe8RGxaa_c72U7cQ&utm_medium=api&utm_source=632a28fd&v=8B99E9921AC7F34DD8BE69F56A1F767831D6B52C)
+  - Company: Innovative IT Solutions Inc | US
+  - Key Responsibilities: Automate secure infrastructure deployments using Terraform and Infrastructure as Code (IaC) best p...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/details/5713996798?utm_medium=api&utm_source=632a28fd)
+  - Company: SitusAMC | US
+  - SitusAMC is where the best and most passionate people come to transform our client’s businesses and their own careers. W...
