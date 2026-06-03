@@ -1,6 +1,6 @@
 # New jobs
 
-Generated: 2026-06-02 16:22 UTC
+Generated: 2026-06-03 16:46 UTC
 
 Total new jobs: 81
 
@@ -31,6 +31,14 @@ Total new jobs: 81
   - Location: Remote
 
 - [ML Infrastructure Engineer, Safeguards](https://job-boards.greenhouse.io/anthropic/jobs/4778843008)
+  - Company: anthropic
+  - Location: Remote
+
+- [Staff+ Infrastructure Engineer, Cluster Infrastructure](https://job-boards.greenhouse.io/anthropic/jobs/5206978008)
+  - Company: anthropic
+  - Location: Remote
+
+- [Staff+ Infrastructure Engineer, Cluster Infrastructure](https://job-boards.greenhouse.io/anthropic/jobs/5211297008)
   - Company: anthropic
   - Location: Remote
 
@@ -70,15 +78,7 @@ Total new jobs: 81
   - Company: clickhouse
   - Location: Remote
 
-- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843424004)
-  - Company: clickhouse
-  - Location: Remote
-
-- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843425004)
-  - Company: clickhouse
-  - Location: Remote
-
-- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843423004)
+- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843421004)
   - Company: clickhouse
   - Location: Remote
 
@@ -86,7 +86,15 @@ Total new jobs: 81
   - Company: clickhouse
   - Location: Remote
 
-- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843421004)
+- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843423004)
+  - Company: clickhouse
+  - Location: Remote
+
+- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843424004)
+  - Company: clickhouse
+  - Location: Remote
+
+- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843425004)
   - Company: clickhouse
   - Location: Remote
 
@@ -98,14 +106,6 @@ Total new jobs: 81
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819757004)
-  - Company: clickhouse
-  - Location: Remote
-
-- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819755004)
-  - Company: clickhouse
-  - Location: Remote
-
 - [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819754004)
   - Company: clickhouse
   - Location: Remote
@@ -114,7 +114,11 @@ Total new jobs: 81
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819677004)
+- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819755004)
+  - Company: clickhouse
+  - Location: Remote
+
+- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819757004)
   - Company: clickhouse
   - Location: Remote
 
@@ -131,6 +135,10 @@ Total new jobs: 81
   - Location: Remote
 
 - [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819679004)
+  - Company: clickhouse
+  - Location: Remote
+
+- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819677004)
   - Company: clickhouse
   - Location: Remote
 
@@ -190,6 +198,10 @@ Total new jobs: 81
   - Company: mongodb
   - Location: Remote
 
+- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=7647255)
+  - Company: mongodb
+  - Location: Remote
+
 - [DevOps Consultant, Industry Solutions](https://www.mongodb.com/careers/job/?gh_jid=7767185)
   - Company: mongodb
   - Location: Remote
@@ -210,15 +222,11 @@ Total new jobs: 81
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
-  - Company: mongodb
-  - Location: Remote
-
 - [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7793634)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=6984814)
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
   - Company: mongodb
   - Location: Remote
 
@@ -226,12 +234,20 @@ Total new jobs: 81
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7821316)
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=6984814)
   - Company: mongodb
   - Location: Remote
 
 - [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7821318)
   - Company: mongodb
+  - Location: Remote
+
+- [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7821316)
+  - Company: mongodb
+  - Location: Remote
+
+- [Senior Client Platform Engineer](https://www.okta.com/company/careers/opportunity/7806763?gh_jid=7806763)
+  - Company: okta
   - Location: Remote
 
 - [Senior Data Platform Engineer (Bengaluru)](https://www.okta.com/company/careers/opportunity/7648977?gh_jid=7648977)
@@ -251,10 +267,6 @@ Total new jobs: 81
   - Location: Remote
 
 - [Senior Site Reliability Engineer (Auth0)](https://www.okta.com/company/careers/opportunity/7418982?gh_jid=7418982)
-  - Company: okta
-  - Location: Remote
-
-- [Senior Site Reliability Engineer - Security and Data Systems (Federal)](https://www.okta.com/company/careers/opportunity/7591606?gh_jid=7591606)
   - Company: okta
   - Location: Remote
 
@@ -299,25 +311,10 @@ Total new jobs: 81
   - Location: Costa Rica
   - Level/Team: DevOps &amp; Infrastructure
 
-- [Sr. Cloud Engineer](https://jobicy.com/jobs/143038-sr-cloud-engineer)
-  - Company: Inspira Financial
-  - Location: USA
-  - Level/Team: DevOps &amp; Infrastructure
-
 - [Cloud Engineer – VMWare](https://jobicy.com/jobs/143887-cloud-engineer-vmware)
   - Company: ManTech
   - Location: USA
   - Level/Team: DevOps &amp; Infrastructure
-
-- [Senior Cloud Engineer – Windows](https://jobicy.com/jobs/143888-senior-cloud-engineer-windows)
-  - Company: ManTech
-  - Location: USA
-  - Level/Team: DevOps &amp; Infrastructure
-
-- [Windows Cloud Engineer](https://jobicy.com/jobs/144478-windows-cloud-engineer)
-  - Company: ManTech
-  - Location: USA
-  - Level/Team: Software Engineering
 
 ## lever
 
