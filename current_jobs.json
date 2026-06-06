@@ -523,6 +523,34 @@
   },
   {
     "source_type": "jobicy",
+    "company": "ECS",
+    "title": "Cloud Systems Engineer",
+    "location": "USA",
+    "team": "DevOps &amp; Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/145638-cloud-systems-engineer",
+    "external_id": "jobicy::145638",
+    "description_snippet": "Everforth ECS is seeking a Cloud Systems Engineer to work remotely.Everforth ECS is seeking a Cloud Systems Engineer to join our team. The candidate will be supporting the software development and...",
+    "posted_at": "2026-06-05T18:19:32+00:00",
+    "collected_at_utc": "2026-06-06 13:39:36"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "elastic",
+    "title": "Site Reliability Engineer (Hosted Infra) - Platform",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=7957649&gh_jid=7957649",
+    "external_id": "greenhouse::7957649",
+    "description_snippet": "",
+    "posted_at": "2026-06-05T14:10:42-04:00",
+    "collected_at_utc": "2026-06-06 13:39:36"
+  },
+  {
+    "source_type": "jobicy",
     "company": "Experian",
     "title": "BigData DevOps Engineer",
     "location": "Costa Rica",
@@ -693,6 +721,22 @@
     "description_snippet": "",
     "posted_at": "2026-04-02T06:50:58-04:00",
     "collected_at_utc": "2026-06-05 14:48:08"
+  },
+  {
+    "source_type": "remoteok",
+    "company": "Lumin Digital",
+    "title": "Security Platform Engineer",
+    "location": "Remote",
+    "team": "",
+    "categories": [
+      "infosec",
+      "engineer"
+    ],
+    "url": "https://remoteOK.com/remote-jobs/remote-security-platform-engineer-lumin-digital-1132826",
+    "external_id": "remoteok::1132826",
+    "description_snippet": "Please mention the word **INDULGENT** and tag RMTM3LjE3NS45NS4yOQ== when applying to show you read the job post completely (#RMTM3LjE3NS45NS4yOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "posted_at": "2026-06-04T16:00:10+00:00",
+    "collected_at_utc": "2026-06-06 13:39:36"
   },
   {
     "source_type": "jobicy",

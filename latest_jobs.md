@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-06-05 14:48 UTC
+Generated: 2026-06-06 13:39 UTC
 
-Total new jobs: 81
+Total new jobs: 84
 
 ## greenhouse
 
@@ -148,6 +148,10 @@ Total new jobs: 81
 
 - [Site Reliability Engineer](https://jobs.dropbox.com/listing/7539817?gh_jid=7539817)
   - Company: dropbox
+  - Location: Remote
+
+- [Site Reliability Engineer (Hosted Infra) - Platform](https://jobs.elastic.co/jobs?gh_jid=7957649&gh_jid=7957649)
+  - Company: elastic
   - Location: Remote
 
 - [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7581688003)
@@ -297,6 +301,11 @@ Total new jobs: 81
   - Location: Ireland
   - Level/Team: DevOps &amp; Infrastructure
 
+- [Cloud Systems Engineer](https://jobicy.com/jobs/145638-cloud-systems-engineer)
+  - Company: ECS
+  - Location: USA
+  - Level/Team: DevOps &amp; Infrastructure
+
 - [BigData DevOps Engineer](https://jobicy.com/jobs/144462-bigdata-devops-engineer)
   - Company: Experian
   - Location: Costa Rica
@@ -318,6 +327,12 @@ Total new jobs: 81
   - Company: metabase
   - Location: Global Remote
   - Level/Team: Engineering
+
+## remoteok
+
+- [Security Platform Engineer](https://remoteOK.com/remote-jobs/remote-security-platform-engineer-lumin-digital-1132826)
+  - Company: Lumin Digital
+  - Location: Remote
 
 ## weworkremotely
 

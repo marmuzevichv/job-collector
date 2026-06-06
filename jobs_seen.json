@@ -484,5 +484,23 @@
     "title": "QA Automation Engineer (IJ Platform / Remote Development)",
     "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4779443101",
     "first_seen_utc": "2026-06-05 14:48:08"
+  },
+  "remoteok::1132826": {
+    "company": "Lumin Digital",
+    "title": "Security Platform Engineer",
+    "url": "https://remoteOK.com/remote-jobs/remote-security-platform-engineer-lumin-digital-1132826",
+    "first_seen_utc": "2026-06-06 13:39:36"
+  },
+  "jobicy::145638": {
+    "company": "ECS",
+    "title": "Cloud Systems Engineer",
+    "url": "https://jobicy.com/jobs/145638-cloud-systems-engineer",
+    "first_seen_utc": "2026-06-06 13:39:36"
+  },
+  "greenhouse::7957649": {
+    "company": "elastic",
+    "title": "Site Reliability Engineer (Hosted Infra) - Platform",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=7957649&gh_jid=7957649",
+    "first_seen_utc": "2026-06-06 13:39:36"
   }
 }
