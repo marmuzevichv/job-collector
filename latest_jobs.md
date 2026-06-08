@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-06-07 13:50 UTC
+Generated: 2026-06-08 15:49 UTC
 
-Total new jobs: 83
+Total new jobs: 82
 
 ## greenhouse
 
@@ -30,11 +30,11 @@ Total new jobs: 83
   - Company: anthropic
   - Location: Remote
 
-- [Staff+ Infrastructure Engineer, Cluster Infrastructure](https://job-boards.greenhouse.io/anthropic/jobs/5211297008)
+- [Staff+ Infrastructure Engineer, Cluster Infrastructure](https://job-boards.greenhouse.io/anthropic/jobs/5206978008)
   - Company: anthropic
   - Location: Remote
 
-- [Staff+ Infrastructure Engineer, Cluster Infrastructure](https://job-boards.greenhouse.io/anthropic/jobs/5206978008)
+- [Staff+ Infrastructure Engineer, Cluster Infrastructure](https://job-boards.greenhouse.io/anthropic/jobs/5211297008)
   - Company: anthropic
   - Location: Remote
 
@@ -150,11 +150,11 @@ Total new jobs: 83
   - Company: elastic
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7581685003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7581688003)
   - Company: fivetran
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7581688003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7581685003)
   - Company: fivetran
   - Location: Remote
 
@@ -187,10 +187,6 @@ Total new jobs: 83
   - Location: Remote
 
 - [QA Automation Engineer (IJ Platform / Remote Development)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4779443101)
-  - Company: jetbrains
-  - Location: Remote
-
-- [QA Automation Engineer (IJ Platform/ Dev Environments)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4777933101)
   - Company: jetbrains
   - Location: Remote
 
@@ -238,11 +234,11 @@ Total new jobs: 83
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7821318)
+- [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7821316)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7821316)
+- [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7821318)
   - Company: mongodb
   - Location: Remote
 
@@ -324,12 +320,6 @@ Total new jobs: 83
   - Location: Global Remote
   - Level/Team: Engineering
 
-## remoteok
-
-- [Security Platform Engineer](https://remoteOK.com/remote-jobs/remote-security-platform-engineer-lumin-digital-1132826)
-  - Company: Lumin Digital
-  - Location: Remote
-
 ## weworkremotely
 
 - [DevOps Engineer](https://weworkremotely.com/remote-jobs/alice-devops-engineer)
@@ -342,6 +332,10 @@ Total new jobs: 83
 
 - [[Cubos DevOps] Pessoa Engenheira de DevOps Pleno](https://weworkremotely.com/remote-jobs/cubos-tecnologia-cubos-devops-pessoa-engenheira-de-devops-pleno)
   - Company: Cubos Tecnologia
+  - Location: Remote
+
+- [Senior Platform/Site Reliability Engineer](https://weworkremotely.com/remote-jobs/lemon-io-senior-platform-site-reliability-engineer)
+  - Company: Lemon.io
   - Location: Remote
 
 - [Engenheiro DevOps (GitHub e CI/CD) | Remoto](https://weworkremotely.com/remote-jobs/premiersoft-engenheiro-devops-github-e-ci-cd-remoto)
