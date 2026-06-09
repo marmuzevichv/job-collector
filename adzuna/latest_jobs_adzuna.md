@@ -1,7 +1,7 @@
 # Jobs via Adzuna API
 
-Generated: 2026-06-08 16:01 UTC
-Total jobs (24h window): 409
+Generated: 2026-06-09 15:13 UTC
+Total jobs (24h window): 578
 
 - [DevOps Engineer with an active TS/SCI with a Full Scope Polygraph Security Clearance Required, Onsite - M](https://www.adzuna.com/land/ad/5756272955?se=6NV5I1Nj8RGTW7GEtrxXDQ&utm_medium=api&utm_source=632a28fd&v=7A15A48E864636871E0A04BD1C052C709D6A3690)
   - Company: Next Step Systems | Maryland, Anne Arundel County
@@ -1638,3 +1638,679 @@ Total jobs (24h window): 409
 - [Support/SRE Engineer](https://www.adzuna.com/land/ad/4811314091?se=zLgbTFNj8RGTW7GEtrxXDQ&utm_medium=api&utm_source=632a28fd&v=1CFAEBB79A71018E5FCF2EFDF380C5036DF18A4D)
   - Company: Redolent | US
   - One of our direct client is urgently looking for a Java Developer TITLE: Support/SRE Engineer LOCATION:Remote - AK Durat...
+
+- [Lead DevOps Engineer – Azure Platforms](https://www.adzuna.com/land/ad/5757381562?se=zDvYrRVk8RGvV9rkZ7vezw&utm_medium=api&utm_source=632a28fd&v=9250F8164AF5AE01F902F675F7C862FF52C41434)
+  - Company: Finoit Inc. | Schiller Park, Cook County
+  - Lead DevOps Engineer – Azure Platforms Location: Remote/Hybrid Experience: 7 Years Job Summary Seeking a Lead DevOps Eng...
+
+- [Senior DevOps Engineer - (US - Remote)](https://www.adzuna.com/details/5757026076?utm_medium=api&utm_source=632a28fd)
+  - Company: ICF | Reston, Fairfax County
+  - Our Engineering and Emerging Technologies (EET) team works side by side with customers to articulate a vision for succes...
+
+- [Senior DevOps Engineer - AWS (Perm, USA, Remote)](https://www.adzuna.com/details/5756985639?utm_medium=api&utm_source=632a28fd)
+  - Company: Nearform | US
+  - Senior DevOps Engineer (Perm, USA, Remote) This is a full-time, permanent opportunity for candidates based in the United...
+
+- [Platform Engineering & DevOps](https://www.adzuna.com/details/5756723309?utm_medium=api&utm_source=632a28fd)
+  - Company: American IT Systems | Windsor Locks, Hartford County
+  - Role Title: Platform Engineering & DevOps Location Connecticut (Hybrid /Remote) Windsor Locks, CT, 06096] 6 Months We ar...
+
+- [DevOps Engineer - Remote / Telecommute](https://www.adzuna.com/details/5756722645?utm_medium=api&utm_source=632a28fd)
+  - Company: Cynet Systems | Cary, Wake County
+  - Job Overview: Requirement/Must Have: 1 years of strong DevOps tools experience. Experience with GitHub Actions and YAML ...
+
+- [Sr Devops Engineer](https://www.adzuna.com/details/5756721019?utm_medium=api&utm_source=632a28fd)
+  - Company: VDart Inc | US
+  - Job Title: Sr DevOps Engineer Location: REMOTE Mode : Contract (6 Months) Position Summary Senior DevOps Engineer role f...
+
+- [URGENT HIRING||DEVOPS SALESFORCE ENGINEER||REMOTE ROLE||](https://www.adzuna.com/land/ad/5756446872?se=zDvYrRVk8RGvV9rkZ7vezw&utm_medium=api&utm_source=632a28fd&v=C25C658FB07EB42266B12A21D7CDA5C14AAA29F3)
+  - Company: Shift Code Analytics | US
+  - Hi, Hope you are doing well I have an urgent opening of Devops Salesforce Engineer at remote role Position Type : Contra...
+
+- [DevOps Engineer - Remote / Telecommute](https://www.adzuna.com/land/ad/5756446859?se=zDvYrRVk8RGvV9rkZ7vezw&utm_medium=api&utm_source=632a28fd&v=B9E33234C40181410B543AC5A0075E464F0E0DAC)
+  - Company: Cynet Systems | Cary, Wake County
+  - We are looking for DevOps Engineer - Remote / Telecommute for our client in Cary, NC . Job Title: DevOps Engineer - Remo...
+
+- [Sr. DevOps Engineer - Remote](https://www.adzuna.com/land/ad/5756396978?se=zDvYrRVk8RGvV9rkZ7vezw&utm_medium=api&utm_source=632a28fd&v=8D264F8BB14D05AB47D8395ACF73D38E8A6F85CD)
+  - Company: The Dignify Solutions, LLC | US
+  - Sr. DevOps Engineer Description: This is a hands-on, deep-specialist role. We are deliberately not hiring a broad DevOps...
+
+- [DevOps Engineer](https://www.adzuna.com/details/5756059935?utm_medium=api&utm_source=632a28fd)
+  - Company: Global Alliant Inc | Rockville, Montgomery County
+  - Currently we are looking to hire "Devops Engineer " in one of our Federal project. I have shared the description below, ...
+
+- [Senior DevOps Engineer (AI/Cloud Modernization)](https://www.adzuna.com/details/5740107642?utm_medium=api&utm_source=632a28fd)
+  - Company: St. George Tanaq Corporation | Tallahassee, Leon County
+  - Senior DevOps Engineer (AI/Cloud Modernization) Fully Remote Job Type Full-time Description Overview Tanaq Technical Ser...
+
+- [Site Reliability Engineer - AWS - Remote](https://www.adzuna.com/details/5756729537?utm_medium=api&utm_source=632a28fd)
+  - Company: SitusAMC | Tallahassee, Leon County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Site Reliability Engineer (Systems Engineering)](https://www.adzuna.com/details/5756723110?utm_medium=api&utm_source=632a28fd)
+  - Company: Staffxpert LLC | US
+  - Senior Site Reliability Engineer (Systems Engineering) Location Remote, United States Employment Type Contract Job Summa...
+
+- [Cloud Site Reliability Engineer](https://www.adzuna.com/land/ad/5755265954?se=0pi-rxVk8RGsNr8E2TYYVQ&utm_medium=api&utm_source=632a28fd&v=136741DDB2B61004F3C6C5B0F560840C15CA8D14)
+  - Company: Stefanini Group | Highland Park, Dallas
+  - Details: Stefanini Group is hiring! Stefanini is looking for Cloud Site Reliability Engineer - Remote For quick apply, p...
+
+- [Senior Software Engineer - Agentic AI Platform - Remote](https://www.adzuna.com/details/5757345527?utm_medium=api&utm_source=632a28fd)
+  - Company: Tenable Network Security | US
+  - Who is Tenable? Tenable® is the Exposure Management company. 44,000 organizations around the globe rely on Tenable to un...
+
+- [Sr. Software Developer - Platform Engineering Hybrid or Remote](https://www.adzuna.com/details/5756939775?utm_medium=api&utm_source=632a28fd)
+  - Company: Rocket Mortgage | Seattle, King County
+  - As a Senior Software Engineer for a team in the Platform Engineering organization, you'll shape how Redfin's frontend en...
+
+- [AI-Driven Threat Intelligence Analyst](https://www.adzuna.com/details/5756722914?utm_medium=api&utm_source=632a28fd)
+  - Company: Openkyber | Alaska, US
+  - Position: - Principal AI Engineer - AI Platform GenAI Solutions Location: - Remote Experience: 12 Years About the Role P...
+
+- [Sr. MS365 Platform Engineer](https://www.adzuna.com/details/5756722269?utm_medium=api&utm_source=632a28fd)
+  - Company: Conch Technologies Inc | Chelsea and Clinton, Manhattan
+  - Job Title: Sr. MS365 Platform Engineer Location: Remote Duration: 6 Months Key Requirements Strong experience with Micro...
+
+- [Lead Salesforce Platform Engineer](https://www.adzuna.com/details/5756722220?utm_medium=api&utm_source=632a28fd)
+  - Company: Conch Technologies Inc | Chelsea and Clinton, Manhattan
+  - Lead Salesforce Platform Engineer Location: Remote (EST preferred) Duration: 6 Months Position Overview We are seeking a...
+
+- [Sr. Integration Platform Engineer, AI & Agentic / Remote](https://www.adzuna.com/land/ad/5756567480?se=ykuysRVk8RGsNr8E2TYYVQ&utm_medium=api&utm_source=632a28fd&v=EA729446A0540C48248D460CCBC4C56060C863AC)
+  - Company: Apetan Consulting | US
+  - Job Title: Sr. Integration Platform Engineer, AI & Agentic / Remote Location : Remote Job Summary: We are looking for a ...
+
+- [Remote: Google Cloud Platform Engineer (Fully Remote)](https://www.adzuna.com/land/ad/5756448686?se=ykuysRVk8RGsNr8E2TYYVQ&utm_medium=api&utm_source=632a28fd&v=3F0C99B685E73CB291BBCB6A9D37A1889318FE1F)
+  - Company: Montek System | US
+  - Google Cloud Platform Engineer (Fully Remote) 12 Months Contract Phone/Skype 100% Remote Role Overview: Google Cloud Pla...
+
+- [Agentic AI Engineer](https://www.adzuna.com/land/ad/5756396560?se=ykuysRVk8RGsNr8E2TYYVQ&utm_medium=api&utm_source=632a28fd&v=0DF901F723AFC6D85B9257A6AD0CBC414EC4B2EC)
+  - Company: Kani Solutions | US
+  - Job Title: Agentic AI Platform Engineer Location: United States (Remote) Hire Type: W2 Contract (6 months) About the rol...
+
+- [Lead Salesforce Platform Engineer](https://www.adzuna.com/land/ad/5756394308?se=ykuysRVk8RGsNr8E2TYYVQ&utm_medium=api&utm_source=632a28fd&v=ED3D331E4659B2C838DC8EA2B0C350332435C22B)
+  - Company: Neodym Technologies | US
+  - Role: Lead Salesforce Platform Engineer Location: Remote (EST Desired) Duration: 6 Months Client: KForce End Client: fin...
+
+- [Power Platform Engineer](https://www.adzuna.com/details/5755827734?utm_medium=api&utm_source=632a28fd)
+  - Company: Openkyber | Alaska, US
+  - Job Title: Microsoft Copilot / Power Platform Engineer Location: Remote (CST or EST Candidates Only) Duration: Long Term...
+
+- [Kafka Platform Engineer](https://www.adzuna.com/details/5755414370?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Rayford, Harris County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [LLM Platform Engineer (Windchill / Teamcenter)](https://www.adzuna.com/details/5755331047?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Rayford, Harris County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [SAP Basis / SAP Platform Engineer](https://www.adzuna.com/details/5755251520?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Panther Creek, Montgomery County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [VMware Platform Engineer](https://www.adzuna.com/details/5755058064?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Panther Creek, Montgomery County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Senior Backend Engineer (High-Throughput Platforms)](https://www.adzuna.com/details/5755054707?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Panther Creek, Montgomery County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Platform Engineer](https://www.adzuna.com/details/5754922705?utm_medium=api&utm_source=632a28fd)
+  - Company: Openkyber | Texas, US
+  - RESPONSIBILITIES: OpenKyber has a client that is seeking a Platform Engineer - AI & Automation Platform for a Remote rol...
+
+- [Platform Engineer](https://www.adzuna.com/details/5754922650?utm_medium=api&utm_source=632a28fd)
+  - Company: Openkyber | Georgia, US
+  - Hello, Please find the below requirement and let me know your thoughts Position: OnBase Platform Engineer/Admin Location...
+
+- [Data Platform Engineer, AI & Personalization (Remote, East Coast)](https://www.adzuna.com/details/5754891815?utm_medium=api&utm_source=632a28fd)
+  - Company: P3Hired | State Farm, Arlington County
+  - Position Overview Eagle Eye is an AI driven retail technology SaaS company powering personalized promotions and loyalty ...
+
+- [Kafka Platform Engineer](https://www.adzuna.com/details/5754320446?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Dublin, Alameda County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [SAP Basis / SAP Platform Engineer](https://www.adzuna.com/details/5754297453?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | North Metro, Gwinnett County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [SAP Basis / SAP Platform Engineer](https://www.adzuna.com/details/5754270276?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Roselle, DuPage County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Senior Backend Engineer (High-Throughput Platforms)](https://www.adzuna.com/details/5754269128?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Roselle, DuPage County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [VMware Platform Engineer](https://www.adzuna.com/details/5754265769?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Plano, Collin County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Senior Backend Engineer (High-Throughput Platforms)](https://www.adzuna.com/details/5754244343?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | North Metro, Gwinnett County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [VMware Platform Engineer](https://www.adzuna.com/details/5754226756?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Pleasanton, Alameda County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [PLM Platform Engineer (Windchill / Teamcenter)](https://www.adzuna.com/details/5754219118?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Dublin, Alameda County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [PLM Platform Engineer (Windchill / Teamcenter)](https://www.adzuna.com/details/5754210072?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | South Plainfield, Middlesex County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Senior Backend Engineer (High-Throughput Platforms)](https://www.adzuna.com/details/5754209148?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | South Plainfield, Middlesex County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [VMware Platform Engineer](https://www.adzuna.com/details/5754189121?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | North Metro, Gwinnett County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [PLM Platform Engineer (Windchill / Teamcenter)](https://www.adzuna.com/details/5754188075?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Schaumburg, Cook County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [VMware Platform Engineer](https://www.adzuna.com/details/5754107851?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | South Plainfield, Middlesex County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [SAP Basis / SAP Platform Engineer](https://www.adzuna.com/details/5754032093?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | South Plainfield, Middlesex County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [SAP Basis / SAP Platform Engineer](https://www.adzuna.com/details/5754015485?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Pleasanton, Alameda County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Kafka Platform Engineer](https://www.adzuna.com/details/5753942311?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Schaumburg, Cook County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Senior Backend Engineer (High-Throughput Platforms)](https://www.adzuna.com/details/5753936870?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Plano, Collin County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Platform Team Engineering Lead](https://www.adzuna.com/details/5753929171?utm_medium=api&utm_source=632a28fd)
+  - Company: Sprezzatura | US
+  - Position Title: Platform Team Engineering Lead Location: Remote (In the U.S) Other Considerations: U.S. Citizen or Perma...
+
+- [Senior Backend Engineer (High-Throughput Platforms)](https://www.adzuna.com/details/5753899817?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Pleasanton, Alameda County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [PLM Platform Engineer (Windchill / Teamcenter)](https://www.adzuna.com/details/5753895066?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | North Metro, Gwinnett County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Python Developer](https://www.adzuna.com/details/5753835342?utm_medium=api&utm_source=632a28fd)
+  - Company: Selby Jennings | Austin, Travis County
+  - Senior Python Engineer - Data Platform (Remote) We're partnering with a highly regarded, technology-driven investment fi...
+
+- [Microsoft Entra ID Engineer](https://www.adzuna.com/details/5753756181?utm_medium=api&utm_source=632a28fd)
+  - Company: Openkyber | Alaska, US
+  - Job Title: Microsoft Copilot / Power Platform Engineer Location: Remote (CST or EST Candidates Only) Duration: Long Term...
+
+- [Lead Salesforce Platform Engineer](https://www.adzuna.com/details/5753753592?utm_medium=api&utm_source=632a28fd)
+  - Company: Akaasa Technologies | US
+  - Job Title Lead Salesforce Platform Engineer Location Remote (EST Desired) Top Requirements (Must haves) In this role, yo...
+
+- [VMware Platform Engineer](https://www.adzuna.com/details/5753693558?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Senior Backend Engineer (High-Throughput Platforms)](https://www.adzuna.com/details/5753693529?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [SAP Basis / SAP Platform Engineer](https://www.adzuna.com/details/5753693488?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [LLM Platform Engineer (Windchill / Teamcenter)](https://www.adzuna.com/details/5753693405?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Kafka Platform Engineer](https://www.adzuna.com/details/5753693399?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [SAP Basis / SAP Platform Engineer](https://www.adzuna.com/details/5753093709?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Plano, Collin County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Senior Backend Engineer (High-Throughput Platforms)](https://www.adzuna.com/details/5752906980?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Schaumburg, Cook County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [SAP Basis / SAP Platform Engineer](https://www.adzuna.com/details/5752906967?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Schaumburg, Cook County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [PLM Platform Engineer (Windchill / Teamcenter)](https://www.adzuna.com/details/5752906957?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Schaumburg, Cook County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Kafka Platform Engineer](https://www.adzuna.com/details/5752906921?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Schaumburg, Cook County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [VMware Platform Engineer](https://www.adzuna.com/details/5752780237?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Johns Creek, Fulton County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Senior Backend Engineer (High-Throughput Platforms)](https://www.adzuna.com/details/5752780225?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Johns Creek, Fulton County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [SAP Basis / SAP Platform Engineer](https://www.adzuna.com/details/5752627600?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Johns Creek, Fulton County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [PLM Platform Engineer (Windchill / Teamcenter)](https://www.adzuna.com/details/5752627564?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Johns Creek, Fulton County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Kafka Platform Engineer](https://www.adzuna.com/details/5752627523?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Suwanee, Gwinnett County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Operational Threat Intelligence Analyst](https://www.adzuna.com/details/5752592484?utm_medium=api&utm_source=632a28fd)
+  - Company: Openkyber | Alaska, US
+  - Hello, Please find the below requirement and let me know your thoughts Position: OnBase Platform Engineer/Admin Location...
+
+- [Platform Engineer (Python)](https://www.adzuna.com/details/5752592080?utm_medium=api&utm_source=632a28fd)
+  - Company: Openkyber | Alaska, US
+  - Job Title: Matillion Platform Engineer - Only W2 Location: Remote W2 Position Job Description: Platform Engineer to mana...
+
+- [Lead Salesforce Platform Engineer](https://www.adzuna.com/details/5752583299?utm_medium=api&utm_source=632a28fd)
+  - Company: Conch Technologies Inc | Minnesota, US
+  - Hi Greetings from Conch Technologies Position: Lead Salesforce Platform Engineer Location: Remote Duration: 6 Months Con...
+
+- [Agentic AI Platform Engineer](https://www.adzuna.com/land/ad/5752571481?se=BguishVk8RGsNr8E2TYYVQ&utm_medium=api&utm_source=632a28fd&v=83E2526BA56E08F1A2A54388989D0416E18A9DCB)
+  - Company: Kani Solutions | US
+  - Job Title: Agentic AI Platform Engineer Location: United States (Remote) Hire Type: Contract (6 months) About the Role: ...
+
+- [Senior Backend Engineer (High-Throughput Platforms)](https://www.adzuna.com/details/5752503788?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | South Plainfield, Middlesex County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [VMware Platform Engineer](https://www.adzuna.com/details/5752503818?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Plano, Collin County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Senior Backend Engineer (High-Throughput Platforms)](https://www.adzuna.com/details/5752503820?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Plano, Collin County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [VMware Platform Engineer](https://www.adzuna.com/details/5752503833?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | South Plainfield, Middlesex County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Senior Backend Engineer (High-Throughput Platforms)](https://www.adzuna.com/details/5752503810?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Pleasanton, Alameda County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [VMware Platform Engineer](https://www.adzuna.com/details/5752503838?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Pleasanton, Alameda County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [SAP Basis / SAP Platform Engineer](https://www.adzuna.com/details/5752503777?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Pleasanton, Alameda County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [PLM Platform Engineer (Windchill / Teamcenter)](https://www.adzuna.com/details/5752503743?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Dublin, Alameda County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [SAP Basis / SAP Platform Engineer](https://www.adzuna.com/details/5752503770?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | South Plainfield, Middlesex County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Kafka Platform Engineer](https://www.adzuna.com/details/5752503739?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Dublin, Alameda County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [PLM Platform Engineer (Windchill / Teamcenter)](https://www.adzuna.com/details/5752503768?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | South Plainfield, Middlesex County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Senior SharePoint Developer / Power Platform Engineer (Federal Agency)](https://www.adzuna.com/details/5752259413?utm_medium=api&utm_source=632a28fd)
+  - Company: Aalis Management Consulting | Washington, D.C., US
+  - Aalis Management Consulting is an 8(a) certified Service-Disabled Veteran-Owned Small Business (SDVOSB) and Economically...
+
+- [SAP Basis / SAP Platform Engineer](https://www.adzuna.com/details/5752230850?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Plano, Collin County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [PLM Platform Engineer (Windchill / Teamcenter)](https://www.adzuna.com/details/5752230840?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Plano, Collin County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Kafka Platform Engineer](https://www.adzuna.com/details/5752230826?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Plano, Collin County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Sr. Platform Engineer](https://www.adzuna.com/land/ad/5751761572?se=BguishVk8RGsNr8E2TYYVQ&utm_medium=api&utm_source=632a28fd&v=3FDAEC9FA1B63C301D1F339F90D149599164FE84)
+  - Company: Summit Federal Services | Fairfax, Fairfax County
+  - Sr. Platform Engineer (remote) - $140k-$155k Immediate need for a Sr. Platform Engineer for a London based company speci...
+
+- [Sr. Software Engineer (AI-Native)](https://www.adzuna.com/details/5751562890?utm_medium=api&utm_source=632a28fd)
+  - Company: Hireology | US
+  - Sr. Software Engineer (AI-Native) Platform & Reliability | Developer Experience (DevX) Remote (Chicago preferred) | Full...
+
+- [AI Engineer (Copilot / Power Platform)](https://www.adzuna.com/details/5751291477?utm_medium=api&utm_source=632a28fd)
+  - Company: Stellent IT LLC | US
+  - AI Engineer (Copilot / Power Platform) Remote (Must be in PST hours) Phone  SKype Job Description: Overview Ross Stores ...
+
+- [OnBase Platform Engineer/Admin  Remote /C2C/](https://www.adzuna.com/land/ad/5750888359?se=BguishVk8RGsNr8E2TYYVQ&utm_medium=api&utm_source=632a28fd&v=170965487C81A62179E73F8615D6F435369E4D54)
+  - Company: Intellisoft Technologies | US
+  - Hi, Position: OnBase Platform Engineer/Admin Location: Austin, TX / Remote Duration: 6 months Need consultants from Texa...
+
+- [Globus / MFT Platform Engineer](https://www.adzuna.com/land/ad/5750881379?se=BguishVk8RGsNr8E2TYYVQ&utm_medium=api&utm_source=632a28fd&v=5EFDA8C1F5E8BBF2044AD335E9027940DD5AB8D3)
+  - Company: Xylo Technologies, Inc. | US
+  - Title: Data Engineer (Globus / MFT Platform Engineer) Duration: 1 Year Remote Scope of Work: The contractor will support...
+
+- [Senior Software Engineer, Mobile Platform - POS (Remote, United States)](https://www.adzuna.com/details/5750095159?utm_medium=api&utm_source=632a28fd)
+  - Company: Owner.com | US
+  - About Owner Owner is the AI-native system local business owners use to succeed, starting with restaurants. We’re buildin...
+
+- [Database Engineer](https://www.adzuna.com/details/5749990649?utm_medium=api&utm_source=632a28fd)
+  - Company: Meduit | US
+  - About Us: Meduit is a national leader in healthcare revenue cycle management, supporting hospitals and physician practic...
+
+- [Kafka Platform Engineer](https://www.adzuna.com/details/5749988796?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Woodbridge, Middlesex County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Senior Cloud Platform Engineer, IT - Remote](https://www.adzuna.com/details/5749955531?utm_medium=api&utm_source=632a28fd)
+  - Company: Heartland Dental | The Gap, Chicago
+  - Senior Cloud Platform Engineer, IT Are you a technology professional seeking a challenging career working for a market l...
+
+- [Platform Engineer (Python)](https://www.adzuna.com/details/5749870822?utm_medium=api&utm_source=632a28fd)
+  - Company: Openkyber | Florida
+  - Role: AI Platform Engineer Location: Remote Duration: 6 Months Client: OpenKyber Description: 7 years of software engine...
+
+- [AI Team Lead](https://www.adzuna.com/details/5749870406?utm_medium=api&utm_source=632a28fd)
+  - Company: Openkyber | Alaska, US
+  - Hi, Greetings from OpenKyber. Position: Platform Lead / Architect AI Platform Engineering Location: 100% Remote Duration...
+
+- [Senior Cloud Data Engineer – IPaaS & Event-Driven Platform Engineering](https://www.adzuna.com/details/5749867120?utm_medium=api&utm_source=632a28fd)
+  - Company: Momento USA | US
+  - Senior Cloud Data Engineer IPaaS & Event-Driven Platform Engineering Remote Prefer USC , GC , H4 EAD Job Description We ...
+
+- [Kafka Platform Engineer](https://www.adzuna.com/details/5749383088?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Woodbridge, Middlesex County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Cloud/DevOps Engineer](https://www.adzuna.com/land/ad/5757102519?se=2uKasxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=0F51F6A18F0B5F4667B2926145ED58B450D5E41D)
+  - Company: Apex Systems | Highland Park, Dallas
+  - Job: 3037513 Job Description: Cloud Engineer/Developer Location: Dallas, Texas (Partial Remote) Role Overview As a Senio...
+
+- [Supervisor Cloud Engineer](https://www.adzuna.com/details/5757001937?utm_medium=api&utm_source=632a28fd)
+  - Company: Westinghouse Electric - USA | Cranberry Township, Butler County
+  - About the role: As theTeam LeadCloud Engineer, you will deliver secure, scalable, and reliable enterprise cloud services...
+
+- [Senior Project Engineer (Remote) | Cloud, Infrastructure & Migrations](https://www.adzuna.com/details/5756955294?utm_medium=api&utm_source=632a28fd)
+  - Company: Intelligent Technical Solutions | Phoenix, Maricopa County
+  - Job Description The Remote Project Engineer is dedicated to completing innovative technology projects, enhancing system ...
+
+- [Sr. AWS Cloud Engineer](https://www.adzuna.com/land/ad/5756894786?se=2uKasxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=73423A71F091EDB6F97F64BF1C306F74A6480757)
+  - Company: Masterapp Labs | US
+  - Job Title: Sr. AWS Cloud Engineer Location: Indianapolis , IN, (Remote)-Candidate must attend onsite meetings twice a mo...
+
+- [Cloud SRE / Senior Cloud Engineer](https://www.adzuna.com/details/5756721703?utm_medium=api&utm_source=632a28fd)
+  - Company: Brilliant Infotech Inc | Franklin D Roosevelt, Manhattan
+  - Role: Cloud SRE / Senior Cloud Engineer Location: Mostly Remote (Must be within 60 minutes from any of these locations -...
+
+- [Senior Cloud Security Engineer / Remote](https://www.adzuna.com/land/ad/5756567418?se=2uKasxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=0841EAD436A3D9FC0C5373942EF9FB121F9C85CA)
+  - Company: Apetan Consulting | US
+  - Job Title: Senior Cloud Security Engineer / Remote Location : Remote Job Summary: We are looking for a Senior Cloud Secu...
+
+- [Lead Cloud Security Engineer – Azure / Remote](https://www.adzuna.com/land/ad/5756542361?se=2uKasxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=E878B6D2F4A81A37BF6E9A247B7266E0E0BE901B)
+  - Company: Apetan Consulting | US
+  - Job Title: Lead Cloud Security Engineer – Azure / Remote Location : Remote Job Summary: We are looking for a Lead Cloud ...
+
+- [Cloud SRE / Senior Cloud Engineer](https://www.adzuna.com/land/ad/5756446894?se=2uKasxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=97F525D5B55E57CB18F3B04EAEE0F89974661741)
+  - Company: Brilliant Infotech Inc. | US
+  - Role: Cloud SRE / Senior Cloud Engineer Location: Mostly Remote (Must be within 60 minutes from any of these locations -...
+
+- [AWS Cloud Infrastructure Engineer - RPA Operations (REMOTE) with Security Clearance](https://www.adzuna.com/land/ad/5751656899?se=Ana7tBVk8RGsNr8E2TYYVQ&utm_medium=api&utm_source=632a28fd&v=0742D03EAA6DA5DE326910AB3C646AEC2780410C)
+  - Company: Koniag Government Services | State Farm, Arlington County
+  - Tuknik Government Services,a Koniag Government Services company, is seeking an AWS Cloud Infrastructure Engineer - RPA O...
+
+- [Oracle Cloud Security Engineer](https://www.adzuna.com/details/5750193387?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Woodbridge, Middlesex County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Apptad - Cloud Security Engineer](https://www.adzuna.com/details/5749866982?utm_medium=api&utm_source=632a28fd)
+  - Company: Apptad Inc | US
+  - Role Cloud Security Engineer Location Plano, TX (Remote is also fine) Wiz PrismaCloud CSPM CWPP DSPM AISPM ContainerSecu...
+
+- [Senior Infrastructure Automation Engineer - Remote / Telecommute](https://www.adzuna.com/details/5756722690?utm_medium=api&utm_source=632a28fd)
+  - Company: Cynet Systems | Dallas, Texas
+  - Job Overview: Requirement/Must Have: 5 years AWS cloud infrastructure experience. Expert-level Terraform skills (modules...
+
+- [Senior Infrastructure Automation Engineer - Remote / Telecommute](https://www.adzuna.com/land/ad/5756720458?se=RkR1thVk8RGsNr8E2TYYVQ&utm_medium=api&utm_source=632a28fd&v=A2F31EFBF7ECA7E9D1621A0CEC03D25A43BC8E97)
+  - Company: Cynet Systems | Highland Park, Dallas
+  - We are looking for Senior Infrastructure Automation Engineer - Remote / Telecommute for our client in Dallas, TX Job Tit...
+
+- [Senior Infrastructure Automation Engineer](https://www.adzuna.com/land/ad/5756657731?se=RkR1thVk8RGsNr8E2TYYVQ&utm_medium=api&utm_source=632a28fd&v=5C0BF11D9514A68E9252ECE41BEE62CDD2EB370F)
+  - Company: Stefanini | Highland Park, Dallas
+  - Stefanini Group is hiring! Stefanini is looking for a Senior Infrastructure Automation Engineer - Remote. For quick Appl...
+
+- [FinOps Lead - Hybrid Cloud & On-Prem Infrastructure (Remote)](https://www.adzuna.com/land/ad/5737172010?se=lPFVtxVk8RGufrs9mrrgHA&utm_medium=api&utm_source=632a28fd&v=10776ECA46C229D245330EC4B3AE2341D079DBBE)
+  - Company: GovCIO | State House, Lancaster County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [DevSecOps Lead (Remote)](https://www.adzuna.com/land/ad/5757318026?se=ep1ouBVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=A7EEBE17AA354E0BA0B9CEABB8A63B98C8F2E23E)
+  - Company: Govcio LLC | US
+  - Overview: GovCIO is currently hiring for a DevSecOps Manager to lead the integration of security throughout the software...
+
+- [Senior Platform Engineer – Kubernetes/OpenShift (Secret)](https://www.adzuna.com/details/5746384675?utm_medium=api&utm_source=632a28fd)
+  - Company: Modern Government Solutions | Chantilly, Fairfax County
+  - TITLE: Senior Platform Engineer - Kubernetes/OpenShift LOCATION: Remote CLEARANCE REQUIRED: Active DoD Secret Clearance ...
+
+- [Kubernetes Engineer](https://www.adzuna.com/details/5727641551?utm_medium=api&utm_source=632a28fd)
+  - Company: Ascension Federal Services | Orlando, Orange County
+  - Kubernetes Engineer (Remote) Location: Orlando, FL, 32801 Job Description: We are seeking a highly skilled Kubernetes En...
+
+- [Senior Platform Engineer](https://www.adzuna.com/details/5722362324?utm_medium=api&utm_source=632a28fd)
+  - Company: HackEDU, Inc. dba Security Journey | Apex, Wake County
+  - Senior Platform Engineer (AWS / Kubernetes) Remote (United States) Security Journey is hiring a Senior Platform Engineer...
+
+- [GKE Kubernetes Engineer](https://www.adzuna.com/land/ad/5721054728?se=Kh6euxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=AE89FA1EE465881B5517AF24C9E42933309504BF)
+  - Company: Insight Global | Talcott Village, Hartford County
+  - Job Description A healthcare client is looking for a GKE Kubernetes Engineer to sit fully remote. This person is going t...
+
+- [SrDevops/KubernetesEngineer](https://www.adzuna.com/land/ad/5718875857?se=Kh6euxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=640E4164B65476E4ABBD86281188063F972811E4)
+  - Company: LiveMindz | Texas, US
+  - Sr Devops/Kubernetes Engineer Location: Remote Fulltime Certification: Certified Kubernetes Administrator (CKA) This tea...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/details/5718278310?utm_medium=api&utm_source=632a28fd)
+  - Company: SitusAMC | Tallahassee, Leon County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior AWS Hybrid Cloud Engineer](https://www.adzuna.com/land/ad/5714914813?se=Kh6euxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=AAB73CDD071D47CBE165B7DD9380AFBDFD27C656)
+  - Company: CDW Amplified Services | Wisconsin, US
+  - Senior Hybrid AWS Cloud Engineer (IAM, Kubernetes, Automation) Remote Contract to Hire (CDW W2 Contract Coworker) CDW is...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/land/ad/5714283598?se=Kh6euxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=1A85CB6B8EBD0638069E44834C2C242A63052DEC)
+  - Company: SitusAMC | Madison, Dane County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/land/ad/5714282731?se=Kh6euxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=636EF645A3D722C7B05EA2430F59F177582130F8)
+  - Company: SitusAMC | Tumwater, Thurston County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/land/ad/5714281028?se=Kh6euxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=D43D241D55CBD44A135C2AB62C2EC44EEFBF8037)
+  - Company: SitusAMC | Bonnie, Utah County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/land/ad/5714210515?se=Kh6euxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=76EE03022FB4C767BEF8E2C64F3C03DB436E03A8)
+  - Company: SitusAMC | Charleston, Kanawha County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/land/ad/5714207429?se=Kh6euxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=F14B92ACEE6A45C80C56F6A3C862B6F32061B5CE)
+  - Company: SitusAMC | Montpelier, Washington County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/land/ad/5714151357?se=Kh6euxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=FA5B6A1D59D4765524A9AE4373B9E8A831EC418F)
+  - Company: SitusAMC | Trenton, Mercer County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/land/ad/5714148006?se=Kh6euxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=CF6D5721DB885B6DA2598F859E562289178CAF26)
+  - Company: SitusAMC | Cedar, Cole County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/land/ad/5714139401?se=Kh6euxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=A4366504DF5B3621FC54201C0EDEEF8D7555E906)
+  - Company: SitusAMC | Frankfort, Franklin County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/land/ad/5714136949?se=Kh6euxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=E952F9E9E56DDC3F48504B01A017F7373A4B5E49)
+  - Company: SitusAMC | Topeka, Shawnee County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/land/ad/5714136455?se=Kh6euxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=D211806EF969AEABBBA4550F69F5A529BDCD7668)
+  - Company: SitusAMC | Concord, Merrimack County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/land/ad/5714136344?se=Kh6euxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=1BBDC6F22F6BA26F88747E21D0B2305E090B1DEE)
+  - Company: SitusAMC | Carson Mall, Carson City
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/land/ad/5714136182?se=Kh6euxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=85EF48F755A4366B1FC8B8D35CD73B5ABA44B2BD)
+  - Company: SitusAMC | State House, Lancaster County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/land/ad/5714135341?se=Kh6euxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=BE3476AD5ADFEB7AEC424E29EBDE8595FF505D32)
+  - Company: SitusAMC | Jackson, Hinds County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/land/ad/5714130158?se=Kh6euxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=5AE3A45205B6C495ACE63FF69B73DED3C382497F)
+  - Company: SitusAMC | Pierre, Hughes County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/land/ad/5714126698?se=Kh6euxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=674E478215FFCEE2909407AC15525D1622F1B0B8)
+  - Company: SitusAMC | Providence, Providence County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/land/ad/5714120853?se=Kh6euxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=038DAEC5446325E7B1AEBB607B8D3A60A8BC95DC)
+  - Company: SitusAMC | Washington, D.C., US
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/land/ad/5714120752?se=Kh6euxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=6FE0BFA5EE22F4AAD3EAC233C99DC64A7A6362DB)
+  - Company: SitusAMC | Bismarck, Burleigh County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/land/ad/5714120458?se=Kh6euxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=8A298CA42CDD78DD2C05D309E7D2C567842D5058)
+  - Company: SitusAMC | Boise, Ada County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/land/ad/5714120277?se=Kh6euxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=DFB1A3551EE2E93210AA085E1C4B03B9C579AA72)
+  - Company: SitusAMC | Wyoming, Kent County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/land/ad/5714111252?se=Kh6euxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=6F5E4E726C72630A7D42B79AD798A4E80C1D8DDB)
+  - Company: SitusAMC | Grandview Heights, Franklin County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/land/ad/5714105841?se=Kh6euxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=5D600B599FC2504D3874733C2277607B111BD0DC)
+  - Company: SitusAMC | Atlanta, Fulton County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/land/ad/5714104964?se=Kh6euxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=A50496B386C60289A5AB414A0A5369B7E54E2B20)
+  - Company: SitusAMC | Five Points, Wake County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/details/5714104600?utm_medium=api&utm_source=632a28fd)
+  - Company: SitusAMC | Penbrook, Dauphin County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/land/ad/5714101367?se=Kh6euxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=AE14C742CE63A6F97BA9DC2D29695D9339AC922C)
+  - Company: SitusAMC | Nashville, Davidson County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/land/ad/5714098933?se=Kh6euxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=534A6BC0BA81638F28BE6967E4D84E8CDDE5B6A9)
+  - Company: SitusAMC | Lansing, Ingham County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/land/ad/5714093096?se=Kh6euxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=0A248CB952653F4FD25CB7BA8A15AB60BF5600EF)
+  - Company: SitusAMC | Phoenix, Maricopa County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/land/ad/5714092205?se=Kh6euxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=B94A1CFD1EEFFD0AC531F37FF815125EDB6AB7EF)
+  - Company: SitusAMC | Saint Paul, Ramsey County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/land/ad/5714090805?se=Kh6euxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=C7C6D05242CBE6339A629E1423730E613FF9DA32)
+  - Company: SitusAMC | Chisolm, Montgomery County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/land/ad/5714083332?se=Kh6euxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=BBD2EC29C6355BBC97D963992C4A5F996EF74071)
+  - Company: SitusAMC | Oklahoma City, Oklahoma County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/land/ad/5714082537?se=Kh6euxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=19D65BCF39EA7AF5E267E227C01DD0E96DF7F47D)
+  - Company: SitusAMC | Uptown, Marion County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/land/ad/5714081065?se=Kh6euxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=29D53E507C5943C231DD5911DDD485E2792FE2F8)
+  - Company: SitusAMC | Ny State Campus, Albany County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/land/ad/5714078002?se=Kh6euxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=C3691B6D4EEFAA79FC83E3F22E3E0755E7C029AD)
+  - Company: SitusAMC | Salem, Marion County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/land/ad/5714076863?se=Kh6euxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=A09C15AD16AE8A8C982EA509EB89A9394A40A4CF)
+  - Company: SitusAMC | Cammack Village, Pulaski County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/land/ad/5714071428?se=Kh6euxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=3FAB9DAA097C114F1CB3A6209FA2A1AF2FF0EB76)
+  - Company: SitusAMC | Edgewood, Richland County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/land/ad/5714056898?se=Kh6euxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=0C183196BE5BAF8FDF5110CC70C84D0D717FEE51)
+  - Company: SitusAMC | Des Moines, Polk County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/land/ad/5714048951?se=Kh6euxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=AD7121038249F785F3BBA8ABD5E994F8453E3E4A)
+  - Company: SitusAMC | Helena, Lewis and Clark County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/land/ad/5714048774?se=Kh6euxVk8RGJPfyrHgA25g&utm_medium=api&utm_source=632a28fd&v=488B3A7B9944008010AEC67DDE7EE482A643FF18)
+  - Company: SitusAMC | Augusta, Kennebec County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/details/5714016166?utm_medium=api&utm_source=632a28fd)
+  - Company: SitusAMC | Tarrytown, Travis County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/details/5714015566?utm_medium=api&utm_source=632a28fd)
+  - Company: SitusAMC | Capitol, Richmond
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/details/5714014522?utm_medium=api&utm_source=632a28fd)
+  - Company: SitusAMC | Springfield, Sangamon County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/details/5713996798?utm_medium=api&utm_source=632a28fd)
+  - Company: SitusAMC | US
+  - SitusAMC is where the best and most passionate people come to transform our client’s businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/land/ad/5713961006?se=TqypvBVk8RGufrs9mrrgHA&utm_medium=api&utm_source=632a28fd&v=893C59E8A7FE3BE2B857665F963E71C7834FE7A7)
+  - Company: SitusAMC | Annapolis, Anne Arundel County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/land/ad/5713958527?se=TqypvBVk8RGufrs9mrrgHA&utm_medium=api&utm_source=632a28fd&v=BDC426045FE28165EB7A62DF3CFC65C189ABB94F)
+  - Company: SitusAMC | La Cienga, Santa Fe County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Sr. Software Engineer](https://www.adzuna.com/details/5665460172?utm_medium=api&utm_source=632a28fd)
+  - Company: Suse Rgs | Reston, Fairfax County
+  - Senior Software Engineer (Go & Kubernetes Expertise) Location: Remote COMPANY DESCRIPTION Rancher Government Solutions (...
