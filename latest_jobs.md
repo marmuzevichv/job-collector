@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-06-08 15:49 UTC
+Generated: 2026-06-09 14:48 UTC
 
-Total new jobs: 82
+Total new jobs: 84
 
 ## greenhouse
 
@@ -330,12 +330,20 @@ Total new jobs: 82
   - Company: Catamaran Research
   - Location: Remote
 
+- [DevOps Engineer (contract)](https://weworkremotely.com/remote-jobs/covent-it-devops-engineer-contract)
+  - Company: Covent IT
+  - Location: Remote
+
 - [[Cubos DevOps] Pessoa Engenheira de DevOps Pleno](https://weworkremotely.com/remote-jobs/cubos-tecnologia-cubos-devops-pessoa-engenheira-de-devops-pleno)
   - Company: Cubos Tecnologia
   - Location: Remote
 
 - [Senior Platform/Site Reliability Engineer](https://weworkremotely.com/remote-jobs/lemon-io-senior-platform-site-reliability-engineer)
   - Company: Lemon.io
+  - Location: Remote
+
+- [DevOps e Platform Sênior| Remoto](https://weworkremotely.com/remote-jobs/premiersoft-devops-e-platform-senior-remoto)
+  - Company: Premiersoft
   - Location: Remote
 
 - [Engenheiro DevOps (GitHub e CI/CD) | Remoto](https://weworkremotely.com/remote-jobs/premiersoft-engenheiro-devops-github-e-ci-cd-remoto)
