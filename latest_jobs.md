@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-06-13 13:57 UTC
+Generated: 2026-06-14 14:00 UTC
 
-Total new jobs: 88
+Total new jobs: 87
 
 ## greenhouse
 
@@ -283,11 +283,6 @@ Total new jobs: 88
   - Location: Remote
 
 ## jobicy
-
-- [Senior Customer Reliability Engineer – Infrastructure](https://jobicy.com/jobs/145279-senior-customer-reliability-engineer-infrastructure)
-  - Company: Astronomer
-  - Location: Ireland
-  - Level/Team: DevOps &amp; Infrastructure
 
 - [Software Developer Sr. – AI-Native .NET/ Azure (Cloud Platform)](https://jobicy.com/jobs/146260-software-developer-sr-ai-native-net-azure-cloud-platform)
   - Company: Dayforce

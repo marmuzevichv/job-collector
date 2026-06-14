@@ -10,7 +10,7 @@
     "external_id": "greenhouse::7917632",
     "description_snippet": "",
     "posted_at": "2026-05-14T13:55:30-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -23,7 +23,7 @@
     "external_id": "greenhouse::7380262",
     "description_snippet": "",
     "posted_at": "2026-06-09T20:41:20-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -36,7 +36,7 @@
     "external_id": "greenhouse::7453190",
     "description_snippet": "",
     "posted_at": "2026-03-12T14:33:40-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -49,7 +49,7 @@
     "external_id": "greenhouse::7863467",
     "description_snippet": "",
     "posted_at": "2026-04-30T12:45:35-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "weworkremotely",
@@ -62,7 +62,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/alice-devops-engineer",
     "description_snippet": "Headquarters: BR URL: http://alice.com.br Por que isso não é “só mais um trabalho” Na Alice, a gente não oferece um lugar para assistir da arquibancada — você vai entrar na arena de uma das jornadas de crescimento mais ousadas da América Latina em tecnologia e saúde. Como Software Engineer, você vai",
     "posted_at": "Thu, 21 May 2026 20:02:40 +0000",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -75,7 +75,7 @@
     "external_id": "greenhouse::5030680008",
     "description_snippet": "",
     "posted_at": "2026-04-01T10:49:08-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -88,7 +88,7 @@
     "external_id": "greenhouse::5255853008",
     "description_snippet": "",
     "posted_at": "2026-06-12T16:01:23-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -101,7 +101,7 @@
     "external_id": "greenhouse::4778843008",
     "description_snippet": "",
     "posted_at": "2026-04-03T12:07:43-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -114,7 +114,7 @@
     "external_id": "greenhouse::5211297008",
     "description_snippet": "",
     "posted_at": "2026-06-08T13:39:33-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -127,22 +127,7 @@
     "external_id": "greenhouse::5206978008",
     "description_snippet": "",
     "posted_at": "2026-06-02T20:00:02-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
-  },
-  {
-    "source_type": "jobicy",
-    "company": "Astronomer",
-    "title": "Senior Customer Reliability Engineer – Infrastructure",
-    "location": "Ireland",
-    "team": "DevOps &amp; Infrastructure",
-    "categories": [
-      "['Full-Time']"
-    ],
-    "url": "https://jobicy.com/jobs/145279-senior-customer-reliability-engineer-infrastructure",
-    "external_id": "jobicy::145279",
-    "description_snippet": "Astronomer empowers data teams to bring mission-critical software, analytics, and AI to life and is the company behind Astro, the industry-leading unified DataOps platform powered by Apache Airflow®. Astro accelerates...",
-    "posted_at": "2026-06-02T11:03:39+00:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -155,7 +140,7 @@
     "external_id": "greenhouse::7334725",
     "description_snippet": "",
     "posted_at": "2026-03-31T13:09:33-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -168,7 +153,7 @@
     "external_id": "greenhouse::6177790",
     "description_snippet": "",
     "posted_at": "2026-03-31T11:48:04-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -181,7 +166,7 @@
     "external_id": "greenhouse::5517891",
     "description_snippet": "",
     "posted_at": "2026-04-01T08:47:23-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -194,7 +179,7 @@
     "external_id": "greenhouse::3029798",
     "description_snippet": "",
     "posted_at": "2026-04-01T07:13:58-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -207,7 +192,7 @@
     "external_id": "greenhouse::1747487",
     "description_snippet": "",
     "posted_at": "2026-04-01T08:47:23-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -220,7 +205,7 @@
     "external_id": "greenhouse::4468036",
     "description_snippet": "",
     "posted_at": "2026-04-01T07:14:36-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -233,7 +218,7 @@
     "external_id": "greenhouse::5778617004",
     "description_snippet": "",
     "posted_at": "2026-05-19T09:23:38-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -246,7 +231,7 @@
     "external_id": "greenhouse::5802319004",
     "description_snippet": "",
     "posted_at": "2026-03-27T09:46:40-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -259,7 +244,7 @@
     "external_id": "greenhouse::5802320004",
     "description_snippet": "",
     "posted_at": "2026-03-27T09:46:40-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -272,7 +257,7 @@
     "external_id": "greenhouse::5843422004",
     "description_snippet": "",
     "posted_at": "2026-04-01T20:22:44-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -285,7 +270,7 @@
     "external_id": "greenhouse::5843424004",
     "description_snippet": "",
     "posted_at": "2026-04-01T20:22:47-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -298,7 +283,7 @@
     "external_id": "greenhouse::5843425004",
     "description_snippet": "",
     "posted_at": "2026-04-01T20:22:48-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -311,7 +296,7 @@
     "external_id": "greenhouse::5843421004",
     "description_snippet": "",
     "posted_at": "2026-04-01T20:22:42-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -324,7 +309,7 @@
     "external_id": "greenhouse::5843423004",
     "description_snippet": "",
     "posted_at": "2026-04-01T20:22:45-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -337,7 +322,7 @@
     "external_id": "greenhouse::5994726004",
     "description_snippet": "",
     "posted_at": "2026-06-04T14:44:10-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -350,7 +335,7 @@
     "external_id": "greenhouse::5706417004",
     "description_snippet": "",
     "posted_at": "2026-03-27T09:46:40-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -363,7 +348,7 @@
     "external_id": "greenhouse::5717944004",
     "description_snippet": "",
     "posted_at": "2026-03-27T09:46:40-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -376,7 +361,7 @@
     "external_id": "greenhouse::5819755004",
     "description_snippet": "",
     "posted_at": "2026-03-27T09:46:40-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -389,7 +374,7 @@
     "external_id": "greenhouse::5819754004",
     "description_snippet": "",
     "posted_at": "2026-03-27T09:46:40-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -402,7 +387,7 @@
     "external_id": "greenhouse::5819757004",
     "description_snippet": "",
     "posted_at": "2026-03-27T09:46:40-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -415,7 +400,7 @@
     "external_id": "greenhouse::5828333004",
     "description_snippet": "",
     "posted_at": "2026-03-27T09:46:40-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -428,7 +413,7 @@
     "external_id": "greenhouse::5819676004",
     "description_snippet": "",
     "posted_at": "2026-03-27T09:46:40-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -441,7 +426,7 @@
     "external_id": "greenhouse::5819678004",
     "description_snippet": "",
     "posted_at": "2026-03-27T09:46:40-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -454,7 +439,7 @@
     "external_id": "greenhouse::5819677004",
     "description_snippet": "",
     "posted_at": "2026-03-27T09:46:40-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -467,7 +452,7 @@
     "external_id": "greenhouse::5819674004",
     "description_snippet": "",
     "posted_at": "2026-03-27T09:46:40-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -480,7 +465,7 @@
     "external_id": "greenhouse::5819679004",
     "description_snippet": "",
     "posted_at": "2026-03-27T09:46:40-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -493,7 +478,7 @@
     "external_id": "greenhouse::7649981",
     "description_snippet": "",
     "posted_at": "2026-06-09T11:08:21-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "weworkremotely",
@@ -506,7 +491,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/covent-it-devops-engineer-contract",
     "description_snippet": "Headquarters: Remote work URL: http://coventit.com Hey there! We're looking for an experienced&nbsp; &nbsp;DevOps Engineer to join our growing outsourcing team. If you have a knack for automation and are ready to help our clients build robust and scalable infrastructure, then this opportunity is for",
     "posted_at": "Mon, 08 Jun 2026 16:47:25 +0000",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "weworkremotely",
@@ -519,7 +504,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/cubos-tecnologia-cubos-devops-pessoa-engenheira-de-devops-pleno",
     "description_snippet": "Headquarters: BR URL: http://cubos.io Sobre a Cubos DevOps: Somos especialistas em gestão de infraestrutura e automação de processos de Cloud para atender às necessidades dos nossos clientes para mantê-los competitivos. Nosso foco é fornecer produtos e serviços que impulsionam a transformação digita",
     "posted_at": "Thu, 21 May 2026 20:02:40 +0000",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "jobicy",
@@ -534,7 +519,7 @@
     "external_id": "jobicy::146260",
     "description_snippet": "Dayforce is a global human capital management (HCM) company headquartered in Toronto, Ontario, and Minneapolis, Minnesota, with operations across North America, Europe, Middle East, Africa (EMEA), and the Asia Pacific...",
     "posted_at": "2026-06-12T16:23:55+00:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -547,7 +532,7 @@
     "external_id": "greenhouse::7539817",
     "description_snippet": "",
     "posted_at": "2026-06-12T10:56:26-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "jobicy",
@@ -562,7 +547,7 @@
     "external_id": "jobicy::145638",
     "description_snippet": "Everforth ECS is seeking a Cloud Systems Engineer to work remotely.Everforth ECS is seeking a Cloud Systems Engineer to join our team. The candidate will be supporting the software development and...",
     "posted_at": "2026-06-05T18:19:32+00:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "jobicy",
@@ -577,7 +562,7 @@
     "external_id": "jobicy::146112",
     "description_snippet": "ECS is seeking an experienced Sr. Infrastructure / DevSecOps Systems Engineer to work remotely providing scientific computing support for the work performed under this contract for NIH NIAID Enabling and Advancing Technologies (NEAT)....",
     "posted_at": "2026-06-10T18:20:29+00:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "jobicy",
@@ -592,7 +577,7 @@
     "external_id": "jobicy::146110",
     "description_snippet": "ECS is seeking an experienced Cyber Infrastructure System Administrator to work remotely providing infrastructure support for the work performed under this contract for NIH NIAID Enabling and Advancing Technologies (NEAT). All other tasks...",
     "posted_at": "2026-06-10T18:20:25+00:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "jobicy",
@@ -607,7 +592,7 @@
     "external_id": "jobicy::146109",
     "description_snippet": "ECS is seeking an experienced Systems Engineer (Intermediate, Cyber Infrastructure) to work remotely providing infrastructure support for the work performed under this contract for NIH NIAID Enabling and Advancing Technologies (NEAT). All other...",
     "posted_at": "2026-06-10T18:20:24+00:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -620,7 +605,7 @@
     "external_id": "greenhouse::7976572",
     "description_snippet": "",
     "posted_at": "2026-06-11T11:28:47-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -633,7 +618,7 @@
     "external_id": "greenhouse::7957649",
     "description_snippet": "",
     "posted_at": "2026-06-11T11:28:47-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "jobicy",
@@ -648,7 +633,7 @@
     "external_id": "jobicy::144462",
     "description_snippet": "Company DescriptionExperian is a global data and technology company, powering opportunities for people and businesses around the world. We operate across a range of markets, from financial services to healthcare,...",
     "posted_at": "2026-05-22T01:53:02+00:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "jobicy",
@@ -663,7 +648,7 @@
     "external_id": "jobicy::144464",
     "description_snippet": "Company DescriptionExperian is a global data and technology company, powering opportunities for people and businesses around the world. We operate across a range of markets, from financial services to healthcare,...",
     "posted_at": "2026-05-22T01:53:05+00:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -676,7 +661,7 @@
     "external_id": "greenhouse::7581688003",
     "description_snippet": "",
     "posted_at": "2026-05-20T07:27:18-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -689,7 +674,7 @@
     "external_id": "greenhouse::7581685003",
     "description_snippet": "",
     "posted_at": "2026-05-20T07:27:18-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -702,7 +687,7 @@
     "external_id": "greenhouse::8324132002",
     "description_snippet": "",
     "posted_at": "2026-06-11T05:23:52-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -715,7 +700,7 @@
     "external_id": "greenhouse::8490453002",
     "description_snippet": "",
     "posted_at": "2026-06-05T16:18:10-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -728,7 +713,7 @@
     "external_id": "greenhouse::8515080002",
     "description_snippet": "",
     "posted_at": "2026-06-05T16:18:10-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -741,7 +726,7 @@
     "external_id": "greenhouse::8504232002",
     "description_snippet": "",
     "posted_at": "2026-06-05T16:18:10-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "weworkremotely",
@@ -754,7 +739,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/hyundai-motors-devops-virtual-development-engineer",
     "description_snippet": "Headquarters: URL: http://hyundai.com DevOps Virtual Development Engineer Hyundai America Technical Center, Inc. (HATCI) is looking for an engineer to join the Production Application Team of the Infotainment Software Department, which undertakes various innovation projects related to infotainment an",
     "posted_at": "Wed, 10 Jun 2026 22:30:21 +0000",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "weworkremotely",
@@ -767,7 +752,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/intelmatix-mid-senior-devops-engineer-egypt",
     "description_snippet": "Headquarters: URL: http://intelmatix.ai Mid/Senior DevOps Cloud Engineer Position Type: Remote (Egypt)&nbsp; About Intelmatix Intelmatix is a pioneering deep-tech AI company founded by MIT technologists, with a global presence in Riyadh, London, and Boston. We are on a mission to transform businesse",
     "posted_at": "Wed, 10 Jun 2026 22:30:21 +0000",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -780,7 +765,7 @@
     "external_id": "greenhouse::4777558101",
     "description_snippet": "",
     "posted_at": "2026-04-07T05:06:32-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -793,7 +778,7 @@
     "external_id": "greenhouse::4822652101",
     "description_snippet": "",
     "posted_at": "2026-04-08T09:24:09-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "weworkremotely",
@@ -806,7 +791,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/lemon-io-senior-platform-site-reliability-engineer",
     "description_snippet": "Headquarters: New York, NY URL: https://lemon.io Are you a talented Platform/ Site Reliability&nbsp; Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and",
     "posted_at": "Mon, 08 Jun 2026 14:25:30 +0000",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "jobicy",
@@ -821,7 +806,7 @@
     "external_id": "jobicy::143887",
     "description_snippet": "General information Requisition # R67728 Locations USA-Remote Work Posting Date 05/13/2026 Security Clearance Required Secret Remote Type Fully Remote Time Type Full time Description &amp; Requirements Shape the future of...",
     "posted_at": "2026-05-14T16:38:37+00:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "lever",
@@ -836,7 +821,7 @@
     "external_id": "lever::1b702919-4d0b-4085-baec-8947f9b7e4ee",
     "description_snippet": "Metabase is the easiest way for people to get insights from their data, from tiny startups who get up and running quickly to major corporations with tens of thousands of users. That's why people love us. We bring data tools with the elegance and simplicity of consumer products to the crufty world of",
     "posted_at": "1589224005614",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -849,7 +834,7 @@
     "external_id": "greenhouse::7453323",
     "description_snippet": "",
     "posted_at": "2026-06-10T16:29:17-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -862,7 +847,7 @@
     "external_id": "greenhouse::7647255",
     "description_snippet": "",
     "posted_at": "2026-06-11T10:09:24-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -875,7 +860,7 @@
     "external_id": "greenhouse::7924987",
     "description_snippet": "",
     "posted_at": "2026-06-10T16:29:17-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -888,7 +873,7 @@
     "external_id": "greenhouse::7727873",
     "description_snippet": "",
     "posted_at": "2026-06-11T13:56:17-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -901,7 +886,7 @@
     "external_id": "greenhouse::7727964",
     "description_snippet": "",
     "posted_at": "2026-06-11T14:06:51-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -914,7 +899,7 @@
     "external_id": "greenhouse::7758610",
     "description_snippet": "",
     "posted_at": "2026-06-11T14:01:33-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -927,7 +912,7 @@
     "external_id": "greenhouse::7793634",
     "description_snippet": "",
     "posted_at": "2026-06-10T16:29:17-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -940,7 +925,7 @@
     "external_id": "greenhouse::7743366",
     "description_snippet": "",
     "posted_at": "2026-06-10T16:29:17-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -953,7 +938,7 @@
     "external_id": "greenhouse::6984814",
     "description_snippet": "",
     "posted_at": "2026-06-11T05:18:35-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -966,7 +951,7 @@
     "external_id": "greenhouse::7821318",
     "description_snippet": "",
     "posted_at": "2026-06-11T13:10:47-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -979,7 +964,7 @@
     "external_id": "greenhouse::7821316",
     "description_snippet": "",
     "posted_at": "2026-06-11T13:10:03-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -992,7 +977,7 @@
     "external_id": "greenhouse::7648977",
     "description_snippet": "",
     "posted_at": "2026-06-11T20:54:08-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -1005,7 +990,7 @@
     "external_id": "greenhouse::7617976",
     "description_snippet": "",
     "posted_at": "2026-06-11T20:54:08-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -1018,7 +1003,7 @@
     "external_id": "greenhouse::7595065",
     "description_snippet": "",
     "posted_at": "2026-06-11T20:54:07-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -1031,7 +1016,7 @@
     "external_id": "greenhouse::7418982",
     "description_snippet": "",
     "posted_at": "2026-06-11T20:54:06-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -1044,7 +1029,7 @@
     "external_id": "greenhouse::7791590",
     "description_snippet": "",
     "posted_at": "2026-06-11T20:54:10-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -1057,7 +1042,7 @@
     "external_id": "greenhouse::7747172",
     "description_snippet": "",
     "posted_at": "2026-06-04T15:57:20-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -1070,7 +1055,7 @@
     "external_id": "greenhouse::7772875",
     "description_snippet": "",
     "posted_at": "2026-06-12T13:14:45-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "weworkremotely",
@@ -1083,7 +1068,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/premiersoft-devops-e-platform-senior-remoto",
     "description_snippet": "Headquarters: BR URL: http://premiersoft.net Na Premiersoft, transformamos desafios em soluções reais! Com mais de uma década de atuação em desenvolvimento, somos movidos por um propósito claro: criar experiências tecnológicas que impulsionam negócios e aceleram a transformação dos nossos clientes. ",
     "posted_at": "Mon, 08 Jun 2026 16:47:25 +0000",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "weworkremotely",
@@ -1096,7 +1081,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/premiersoft-engenheiro-devops-github-e-ci-cd-remoto",
     "description_snippet": "Headquarters: BR URL: http://premiersoft.net Na Premiersoft, transformamos desafios em soluções reais! Com mais de uma década de atuação em desenvolvimento, somos movidos por um propósito claro: criar experiências tecnológicas que impulsionam negócios e aceleram a transformação dos nossos clientes. ",
     "posted_at": "Thu, 04 Jun 2026 16:08:56 +0000",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "weworkremotely",
@@ -1109,7 +1094,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/radix-profissional-iac-devops",
     "description_snippet": "Headquarters: BR URL: http://radixeng.com.br A primeira coisa que você precisa saber é que aqui você não vai cair na rotina. A Radix desenvolve soluções para empresas de diferentes setores e indústrias. Cada projeto tem suas tecnologias, soluções e prazos e você terá oportunidade de atuar e experime",
     "posted_at": "Thu, 21 May 2026 20:02:40 +0000",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -1122,7 +1107,7 @@
     "external_id": "greenhouse::7439521",
     "description_snippet": "",
     "posted_at": "2026-06-11T01:08:18-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -1135,7 +1120,7 @@
     "external_id": "greenhouse::7274046",
     "description_snippet": "",
     "posted_at": "2026-06-11T01:08:01-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -1148,7 +1133,7 @@
     "external_id": "greenhouse::7570678",
     "description_snippet": "",
     "posted_at": "2026-06-11T01:08:27-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   },
   {
     "source_type": "greenhouse",
@@ -1161,6 +1146,6 @@
     "external_id": "greenhouse::4688005006",
     "description_snippet": "",
     "posted_at": "2026-06-10T13:42:57-04:00",
-    "collected_at_utc": "2026-06-13 13:57:07"
+    "collected_at_utc": "2026-06-14 13:59:56"
   }
 ]
