@@ -1,6 +1,6 @@
 # New jobs
 
-Generated: 2026-06-14 14:00 UTC
+Generated: 2026-06-15 17:13 UTC
 
 Total new jobs: 87
 
@@ -82,6 +82,14 @@ Total new jobs: 87
   - Company: clickhouse
   - Location: Remote
 
+- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843423004)
+  - Company: clickhouse
+  - Location: Remote
+
+- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843421004)
+  - Company: clickhouse
+  - Location: Remote
+
 - [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843424004)
   - Company: clickhouse
   - Location: Remote
@@ -90,19 +98,7 @@ Total new jobs: 87
   - Company: clickhouse
   - Location: Remote
 
-- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843421004)
-  - Company: clickhouse
-  - Location: Remote
-
-- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843423004)
-  - Company: clickhouse
-  - Location: Remote
-
 - [Senior Cloud Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/5994726004)
-  - Company: clickhouse
-  - Location: Remote
-
-- [Senior Infrastructure Engineer - Postgres](https://job-boards.greenhouse.io/clickhouse/jobs/5706417004)
   - Company: clickhouse
   - Location: Remote
 
@@ -110,15 +106,11 @@ Total new jobs: 87
   - Company: clickhouse
   - Location: Remote
 
+- [Senior Infrastructure Engineer - Postgres](https://job-boards.greenhouse.io/clickhouse/jobs/5706417004)
+  - Company: clickhouse
+  - Location: Remote
+
 - [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819755004)
-  - Company: clickhouse
-  - Location: Remote
-
-- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819754004)
-  - Company: clickhouse
-  - Location: Remote
-
-- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819757004)
   - Company: clickhouse
   - Location: Remote
 
@@ -126,7 +118,15 @@ Total new jobs: 87
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819676004)
+- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819757004)
+  - Company: clickhouse
+  - Location: Remote
+
+- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819754004)
+  - Company: clickhouse
+  - Location: Remote
+
+- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819679004)
   - Company: clickhouse
   - Location: Remote
 
@@ -134,7 +134,7 @@ Total new jobs: 87
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819677004)
+- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819676004)
   - Company: clickhouse
   - Location: Remote
 
@@ -142,7 +142,7 @@ Total new jobs: 87
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819679004)
+- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819677004)
   - Company: clickhouse
   - Location: Remote
 
@@ -162,11 +162,11 @@ Total new jobs: 87
   - Company: elastic
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7581688003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7581685003)
   - Company: fivetran
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7581685003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7581688003)
   - Company: fivetran
   - Location: Remote
 
@@ -230,11 +230,11 @@ Total new jobs: 87
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7821318)
+- [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7821316)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7821316)
+- [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7821318)
   - Company: mongodb
   - Location: Remote
 
@@ -250,11 +250,11 @@ Total new jobs: 87
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer (Auth0)](https://www.okta.com/company/careers/opportunity/7418982?gh_jid=7418982)
+- [Senior Site Reliability Engineer (Auth0)](https://www.okta.com/company/careers/opportunity/7791590?gh_jid=7791590)
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer (Auth0)](https://www.okta.com/company/careers/opportunity/7791590?gh_jid=7791590)
+- [Senior Site Reliability Engineer (Auth0)](https://www.okta.com/company/careers/opportunity/7418982?gh_jid=7418982)
   - Company: okta
   - Location: Remote
 
@@ -319,11 +319,6 @@ Total new jobs: 87
   - Location: Costa Rica
   - Level/Team: DevOps &amp; Infrastructure
 
-- [Cloud Engineer – VMWare](https://jobicy.com/jobs/143887-cloud-engineer-vmware)
-  - Company: ManTech
-  - Location: USA
-  - Level/Team: DevOps &amp; Infrastructure
-
 ## lever
 
 - [Senior SRE/DevOps Engineer](https://jobs.lever.co/metabase/1b702919-4d0b-4085-baec-8947f9b7e4ee)
@@ -343,6 +338,10 @@ Total new jobs: 87
 
 - [[Cubos DevOps] Pessoa Engenheira de DevOps Pleno](https://weworkremotely.com/remote-jobs/cubos-tecnologia-cubos-devops-pessoa-engenheira-de-devops-pleno)
   - Company: Cubos Tecnologia
+  - Location: Remote
+
+- [IT - Infrastructure Systems - DevOps Engineer II (Remote in CA only)](https://weworkremotely.com/remote-jobs/golden-1-credit-union-it-infrastructure-systems-devops-engineer-ii-remote-in-ca)
+  - Company: Golden 1 Credit Union
   - Location: Remote
 
 - [DevOps Virtual Development Engineer](https://weworkremotely.com/remote-jobs/hyundai-motors-devops-virtual-development-engineer)
