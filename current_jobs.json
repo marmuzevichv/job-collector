@@ -1031,6 +1031,19 @@
   },
   {
     "source_type": "greenhouse",
+    "company": "okta",
+    "title": "Senior Site Reliability Engineer, Kubernetes w/ active TS/SCI",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://www.okta.com/company/careers/opportunity/7575679?gh_jid=7575679",
+    "external_id": "greenhouse::7575679",
+    "description_snippet": "",
+    "posted_at": "2026-06-16T12:15:49-04:00",
+    "collected_at_utc": "2026-06-16 16:49:44"
+  },
+  {
+    "source_type": "greenhouse",
     "company": "pinterest",
     "title": "Sr. Production Engineer",
     "location": "",

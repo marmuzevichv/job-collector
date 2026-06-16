@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-06-15 17:13 UTC
+Generated: 2026-06-16 16:50 UTC
 
-Total new jobs: 87
+Total new jobs: 88
 
 ## greenhouse
 
@@ -255,6 +255,10 @@ Total new jobs: 87
   - Location: Remote
 
 - [Senior Site Reliability Engineer (Auth0)](https://www.okta.com/company/careers/opportunity/7418982?gh_jid=7418982)
+  - Company: okta
+  - Location: Remote
+
+- [Senior Site Reliability Engineer, Kubernetes w/ active TS/SCI](https://www.okta.com/company/careers/opportunity/7575679?gh_jid=7575679)
   - Company: okta
   - Location: Remote
 
