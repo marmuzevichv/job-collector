@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-06-17 15:25 UTC
+Generated: 2026-06-18 15:20 UTC
 
-Total new jobs: 90
+Total new jobs: 95
 
 ## greenhouse
 
@@ -158,6 +158,10 @@ Total new jobs: 90
   - Company: elastic
   - Location: Remote
 
+- [Senior SRE  - Platform (Managed Kubernetes Infrastructure)](https://jobs.elastic.co/jobs?gh_jid=8015611&gh_jid=8015611)
+  - Company: elastic
+  - Location: Remote
+
 - [Site Reliability Engineer (Hosted Infra) - Platform](https://jobs.elastic.co/jobs?gh_jid=7957649&gh_jid=7957649)
   - Company: elastic
   - Location: Remote
@@ -207,6 +211,14 @@ Total new jobs: 90
   - Location: Remote
 
 - [Senior Site Reliability Engineer,  Fleet Management](https://www.mongodb.com/careers/job/?gh_jid=7727873)
+  - Company: mongodb
+  - Location: Remote
+
+- [Site Reliability Engineer (Senior or Staff)](https://www.mongodb.com/careers/job/?gh_jid=7727913)
+  - Company: mongodb
+  - Location: Remote
+
+- [Site Reliability Engineer (Senior or Staff)](https://www.mongodb.com/careers/job/?gh_jid=7727910)
   - Company: mongodb
   - Location: Remote
 
@@ -325,6 +337,16 @@ Total new jobs: 90
 - [Senior DevOps Engineer](https://jobicy.com/jobs/144464-senior-devops-engineer-5)
   - Company: Experian
   - Location: Costa Rica
+  - Level/Team: DevOps &amp; Infrastructure
+
+- [Cloud Engineer – VMWare](https://jobicy.com/jobs/143887-cloud-engineer-vmware)
+  - Company: ManTech
+  - Location: USA
+  - Level/Team: DevOps &amp; Infrastructure
+
+- [Project Coordinator, IT Infrastructure](https://jobicy.com/jobs/147042-project-coordinator-it-infrastructure)
+  - Company: World Wide Technology
+  - Location: USA
   - Level/Team: DevOps &amp; Infrastructure
 
 ## lever
