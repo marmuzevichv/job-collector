@@ -1,40 +1,4 @@
 {
-  "jobicy::147042": {
-    "company": "World Wide Technology",
-    "title": "Project Coordinator, IT Infrastructure",
-    "url": "https://jobicy.com/jobs/147042-project-coordinator-it-infrastructure",
-    "first_seen_utc": "2026-06-18 15:20:06"
-  },
-  "jobicy::143887": {
-    "company": "ManTech",
-    "title": "Cloud Engineer – VMWare",
-    "url": "https://jobicy.com/jobs/143887-cloud-engineer-vmware",
-    "first_seen_utc": "2026-06-18 15:20:06"
-  },
-  "greenhouse::8015611": {
-    "company": "elastic",
-    "title": "Senior SRE  - Platform (Managed Kubernetes Infrastructure)",
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8015611&gh_jid=8015611",
-    "first_seen_utc": "2026-06-18 15:20:06"
-  },
-  "greenhouse::7575679": {
-    "company": "okta",
-    "title": "Senior Site Reliability Engineer, Kubernetes w/ active TS/SCI",
-    "url": "https://www.okta.com/company/careers/opportunity/7575679?gh_jid=7575679",
-    "first_seen_utc": "2026-06-18 15:20:06"
-  },
-  "greenhouse::7727913": {
-    "company": "mongodb",
-    "title": "Site Reliability Engineer (Senior or Staff)",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=7727913",
-    "first_seen_utc": "2026-06-18 15:20:06"
-  },
-  "greenhouse::7727910": {
-    "company": "mongodb",
-    "title": "Site Reliability Engineer (Senior or Staff)",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=7727910",
-    "first_seen_utc": "2026-06-18 15:20:06"
-  },
   "wwr::https://weworkremotely.com/remote-jobs/golden-1-credit-union-it-infrastructure-systems-devops-engineer-ii-remote-in-ca": {
     "company": "Golden 1 Credit Union",
     "title": "IT - Infrastructure Systems - DevOps Engineer II (Remote in CA only)",
@@ -580,5 +544,41 @@
     "title": "Developer Experience Lead (JetBrains Cloud Platform)",
     "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4822652101",
     "first_seen_utc": "2026-06-19 15:12:23"
+  },
+  "jobicy::147042": {
+    "company": "World Wide Technology",
+    "title": "Project Coordinator, IT Infrastructure",
+    "url": "https://jobicy.com/jobs/147042-project-coordinator-it-infrastructure",
+    "first_seen_utc": "2026-06-20 13:59:42"
+  },
+  "jobicy::143887": {
+    "company": "ManTech",
+    "title": "Cloud Engineer – VMWare",
+    "url": "https://jobicy.com/jobs/143887-cloud-engineer-vmware",
+    "first_seen_utc": "2026-06-20 13:59:42"
+  },
+  "greenhouse::8015611": {
+    "company": "elastic",
+    "title": "Senior SRE  - Platform (Managed Kubernetes Infrastructure)",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8015611&gh_jid=8015611",
+    "first_seen_utc": "2026-06-20 13:59:42"
+  },
+  "greenhouse::7575679": {
+    "company": "okta",
+    "title": "Senior Site Reliability Engineer, Kubernetes w/ active TS/SCI",
+    "url": "https://www.okta.com/company/careers/opportunity/7575679?gh_jid=7575679",
+    "first_seen_utc": "2026-06-20 13:59:42"
+  },
+  "greenhouse::7727910": {
+    "company": "mongodb",
+    "title": "Site Reliability Engineer (Senior or Staff)",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7727910",
+    "first_seen_utc": "2026-06-20 13:59:42"
+  },
+  "greenhouse::7727913": {
+    "company": "mongodb",
+    "title": "Site Reliability Engineer (Senior or Staff)",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7727913",
+    "first_seen_utc": "2026-06-20 13:59:42"
   }
 }

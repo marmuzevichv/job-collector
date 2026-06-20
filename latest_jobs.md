@@ -1,6 +1,6 @@
 # New jobs
 
-Generated: 2026-06-19 15:12 UTC
+Generated: 2026-06-20 14:00 UTC
 
 Total new jobs: 97
 
@@ -218,11 +218,11 @@ Total new jobs: 97
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff)](https://www.mongodb.com/careers/job/?gh_jid=7727913)
+- [Site Reliability Engineer (Senior or Staff)](https://www.mongodb.com/careers/job/?gh_jid=7727910)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff)](https://www.mongodb.com/careers/job/?gh_jid=7727910)
+- [Site Reliability Engineer (Senior or Staff)](https://www.mongodb.com/careers/job/?gh_jid=7727913)
   - Company: mongodb
   - Location: Remote
 
