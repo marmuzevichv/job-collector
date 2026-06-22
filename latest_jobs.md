@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-06-21 14:08 UTC
+Generated: 2026-06-22 16:53 UTC
 
-Total new jobs: 99
+Total new jobs: 97
 
 ## greenhouse
 
@@ -66,15 +66,19 @@ Total new jobs: 99
   - Company: clickhouse
   - Location: Remote
 
-- [Cloud Platform Engineer - Control Plane](https://job-boards.greenhouse.io/clickhouse/jobs/5802319004)
-  - Company: clickhouse
-  - Location: Remote
-
 - [Cloud Platform Engineer - Control Plane](https://job-boards.greenhouse.io/clickhouse/jobs/5802320004)
   - Company: clickhouse
   - Location: Remote
 
-- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843423004)
+- [Cloud Platform Engineer - Control Plane](https://job-boards.greenhouse.io/clickhouse/jobs/5802319004)
+  - Company: clickhouse
+  - Location: Remote
+
+- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843422004)
+  - Company: clickhouse
+  - Location: Remote
+
+- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843421004)
   - Company: clickhouse
   - Location: Remote
 
@@ -86,11 +90,7 @@ Total new jobs: 99
   - Company: clickhouse
   - Location: Remote
 
-- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843421004)
-  - Company: clickhouse
-  - Location: Remote
-
-- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843422004)
+- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843423004)
   - Company: clickhouse
   - Location: Remote
 
@@ -98,15 +98,11 @@ Total new jobs: 99
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Infrastructure Engineer - Postgres](https://job-boards.greenhouse.io/clickhouse/jobs/5717944004)
-  - Company: clickhouse
-  - Location: Remote
-
 - [Senior Infrastructure Engineer - Postgres](https://job-boards.greenhouse.io/clickhouse/jobs/5706417004)
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819755004)
+- [Senior Infrastructure Engineer - Postgres](https://job-boards.greenhouse.io/clickhouse/jobs/5717944004)
   - Company: clickhouse
   - Location: Remote
 
@@ -122,11 +118,7 @@ Total new jobs: 99
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819674004)
-  - Company: clickhouse
-  - Location: Remote
-
-- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819676004)
+- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819755004)
   - Company: clickhouse
   - Location: Remote
 
@@ -134,11 +126,19 @@ Total new jobs: 99
   - Company: clickhouse
   - Location: Remote
 
+- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819678004)
+  - Company: clickhouse
+  - Location: Remote
+
 - [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819677004)
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819678004)
+- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819676004)
+  - Company: clickhouse
+  - Location: Remote
+
+- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819674004)
   - Company: clickhouse
   - Location: Remote
 
@@ -146,11 +146,11 @@ Total new jobs: 99
   - Company: cloudflare
   - Location: Remote
 
-- [Site Reliability Engineer](https://jobs.dropbox.com/listing/7539817?gh_jid=7539817)
+- [Site Reliability Engineer](https://jobs.dropbox.com/listing/7539814?gh_jid=7539814)
   - Company: dropbox
   - Location: Remote
 
-- [Site Reliability Engineer](https://jobs.dropbox.com/listing/7539814?gh_jid=7539814)
+- [Site Reliability Engineer](https://jobs.dropbox.com/listing/7539817?gh_jid=7539817)
   - Company: dropbox
   - Location: Remote
 
@@ -166,15 +166,15 @@ Total new jobs: 99
   - Company: fastly
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7581685003)
-  - Company: fivetran
-  - Location: Remote
-
 - [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7581688003)
   - Company: fivetran
   - Location: Remote
 
 - [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7688580003)
+  - Company: fivetran
+  - Location: Remote
+
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7581685003)
   - Company: fivetran
   - Location: Remote
 
@@ -218,11 +218,11 @@ Total new jobs: 99
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff)](https://www.mongodb.com/careers/job/?gh_jid=7727910)
+- [Site Reliability Engineer (Senior or Staff)](https://www.mongodb.com/careers/job/?gh_jid=7727913)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff)](https://www.mongodb.com/careers/job/?gh_jid=7727913)
+- [Site Reliability Engineer (Senior or Staff)](https://www.mongodb.com/careers/job/?gh_jid=7727910)
   - Company: mongodb
   - Location: Remote
 
@@ -375,17 +375,9 @@ Total new jobs: 99
 
 ## remoteok
 
-- [Projeteur VRD F H](https://remoteOK.com/remote-jobs/remote-projeteur-vrd-f-h-b-hive-engineering-1133787)
-  - Company: B-Hive Engineering
-  - Location: Cayenne,
-
 - [Manufacturing Operator I](https://remoteOK.com/remote-jobs/remote-manufacturing-operator-i-eaton-1133763)
   - Company: Eaton
   - Location: CanÃ³vanas,
-
-- [Maintenance &amp; Repair Technician Senior](https://remoteOK.com/remote-jobs/remote-maintenance-amp-repair-technician-senior-hewlett-packard-enterprise-1133798)
-  - Company: Hewlett Packard Enterprise
-  - Location: Aguadilla,
 
 - [CRM Sr Analyst](https://remoteOK.com/remote-jobs/remote-crm-sr-analyst-pedidosya-1133781)
   - Company: PedidosYa
