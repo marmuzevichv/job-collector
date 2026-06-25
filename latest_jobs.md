@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-06-24 14:27 UTC
+Generated: 2026-06-25 14:30 UTC
 
-Total new jobs: 99
+Total new jobs: 103
 
 ## greenhouse
 
@@ -74,14 +74,6 @@ Total new jobs: 99
   - Company: clickhouse
   - Location: Remote
 
-- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843425004)
-  - Company: clickhouse
-  - Location: Remote
-
-- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843421004)
-  - Company: clickhouse
-  - Location: Remote
-
 - [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843422004)
   - Company: clickhouse
   - Location: Remote
@@ -90,7 +82,15 @@ Total new jobs: 99
   - Company: clickhouse
   - Location: Remote
 
+- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843425004)
+  - Company: clickhouse
+  - Location: Remote
+
 - [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843424004)
+  - Company: clickhouse
+  - Location: Remote
+
+- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843421004)
   - Company: clickhouse
   - Location: Remote
 
@@ -98,23 +98,11 @@ Total new jobs: 99
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Infrastructure Engineer - Postgres](https://job-boards.greenhouse.io/clickhouse/jobs/5706417004)
-  - Company: clickhouse
-  - Location: Remote
-
 - [Senior Infrastructure Engineer - Postgres](https://job-boards.greenhouse.io/clickhouse/jobs/5717944004)
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819754004)
-  - Company: clickhouse
-  - Location: Remote
-
-- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5828333004)
-  - Company: clickhouse
-  - Location: Remote
-
-- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819757004)
+- [Senior Infrastructure Engineer - Postgres](https://job-boards.greenhouse.io/clickhouse/jobs/5706417004)
   - Company: clickhouse
   - Location: Remote
 
@@ -122,7 +110,15 @@ Total new jobs: 99
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819674004)
+- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5828333004)
+  - Company: clickhouse
+  - Location: Remote
+
+- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819754004)
+  - Company: clickhouse
+  - Location: Remote
+
+- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819757004)
   - Company: clickhouse
   - Location: Remote
 
@@ -130,15 +126,19 @@ Total new jobs: 99
   - Company: clickhouse
   - Location: Remote
 
+- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819674004)
+  - Company: clickhouse
+  - Location: Remote
+
 - [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819676004)
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819678004)
+- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819677004)
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819677004)
+- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819678004)
   - Company: clickhouse
   - Location: Remote
 
@@ -174,15 +174,15 @@ Total new jobs: 99
   - Company: fastly
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7581685003)
-  - Company: fivetran
-  - Location: Remote
-
 - [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7688580003)
   - Company: fivetran
   - Location: Remote
 
 - [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7581688003)
+  - Company: fivetran
+  - Location: Remote
+
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7581685003)
   - Company: fivetran
   - Location: Remote
 
@@ -214,6 +214,14 @@ Total new jobs: 99
   - Company: mongodb
   - Location: Remote
 
+- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=8025827)
+  - Company: mongodb
+  - Location: Remote
+
+- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=8025824)
+  - Company: mongodb
+  - Location: Remote
+
 - [Cloud Operations Engineer (3rd Shift, Weekend)](https://www.mongodb.com/careers/job/?gh_jid=7647255)
   - Company: mongodb
   - Location: Remote
@@ -242,11 +250,11 @@ Total new jobs: 99
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7793634)
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7793634)
   - Company: mongodb
   - Location: Remote
 
@@ -254,11 +262,11 @@ Total new jobs: 99
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7821316)
+- [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7821318)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7821318)
+- [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7821316)
   - Company: mongodb
   - Location: Remote
 
@@ -354,11 +362,6 @@ Total new jobs: 99
   - Location: USA
   - Level/Team: DevOps &amp; Infrastructure
 
-- [BigData DevOps Engineer](https://jobicy.com/jobs/144462-bigdata-devops-engineer)
-  - Company: Experian
-  - Location: Costa Rica
-  - Level/Team: DevOps &amp; Infrastructure
-
 - [Senior DevOps Engineer](https://jobicy.com/jobs/144464-senior-devops-engineer-5)
   - Company: Experian
   - Location: Costa Rica
@@ -366,6 +369,11 @@ Total new jobs: 99
 
 - [Cloud Engineer – VMWare](https://jobicy.com/jobs/143887-cloud-engineer-vmware)
   - Company: ManTech
+  - Location: USA
+  - Level/Team: DevOps &amp; Infrastructure
+
+- [Sr. Video Streaming DevOps Engineer](https://jobicy.com/jobs/147693-sr-video-streaming-devops-engineer)
+  - Company: NBCUniversal
   - Location: USA
   - Level/Team: DevOps &amp; Infrastructure
 
@@ -388,11 +396,15 @@ Total new jobs: 99
 
 ## remoteok
 
-- [Manufacturing Operator I](https://remoteOK.com/remote-jobs/remote-manufacturing-operator-i-eaton-1133763)
-  - Company: Eaton
-  - Location: CanÃ³vanas,
+- [Senior DevOps Engineer](https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1134015)
+  - Company: Lemon.io
+  - Location: Worldwide
 
 ## weworkremotely
+
+- [Site Reliability Engineer (SRE)](https://weworkremotely.com/remote-jobs/bright-vision-technologies-site-reliability-engineer-sre)
+  - Company: Bright Vision Technologies
+  - Location: Remote
 
 - [DevOps Engineer (contract)](https://weworkremotely.com/remote-jobs/covent-it-devops-engineer-contract)
   - Company: Covent IT
@@ -420,4 +432,8 @@ Total new jobs: 99
 
 - [Engenheiro DevOps (GitHub e CI/CD) | Remoto](https://weworkremotely.com/remote-jobs/premiersoft-engenheiro-devops-github-e-ci-cd-remoto)
   - Company: Premiersoft
+  - Location: Remote
+
+- [DevOps SRE - Senior or Lead  (Remote Eligible)](https://weworkremotely.com/remote-jobs/southwest-power-pool-devops-sre-senior-or-lead-remote-eligible)
+  - Company: Southwest Power Pool
   - Location: Remote
