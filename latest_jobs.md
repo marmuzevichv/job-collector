@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-06-25 14:30 UTC
+Generated: 2026-06-26 14:22 UTC
 
-Total new jobs: 103
+Total new jobs: 108
 
 ## greenhouse
 
@@ -19,6 +19,10 @@ Total new jobs: 103
   - Location: Remote
 
 - [Senior Software Engineer, Reliability Engineering](https://careers.airbnb.com/positions/7565550?gh_jid=7565550)
+  - Company: airbnb
+  - Location: Remote
+
+- [Senior Software Engineer, Reliability Engineering Team](https://careers.airbnb.com/positions/8026696?gh_jid=8026696)
   - Company: airbnb
   - Location: Remote
 
@@ -332,6 +336,11 @@ Total new jobs: 103
 
 ## jobicy
 
+- [Customer Reliability Engineer – Infrastructure](https://jobicy.com/jobs/147812-customer-reliability-engineer-infrastructure)
+  - Company: Astronomer
+  - Location: USA
+  - Level/Team: Technical Support
+
 - [Senior Customer Reliability Engineer – Infrastructure](https://jobicy.com/jobs/145279-senior-customer-reliability-engineer-infrastructure)
   - Company: Astronomer
   - Location: Ireland
@@ -396,9 +405,21 @@ Total new jobs: 103
 
 ## remoteok
 
+- [Conserje LeÃ³n](https://remoteOK.com/remote-jobs/remote-conserje-leon-cargill-1134103)
+  - Company: Cargill
+  - Location: LeÃ³n,
+
+- [System Software Engineer](https://remoteOK.com/remote-jobs/remote-system-software-engineer-hewlett-packard-enterprise-1134102)
+  - Company: Hewlett Packard Enterprise
+  - Location: Aguadilla,
+
 - [Senior DevOps Engineer](https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1134015)
   - Company: Lemon.io
   - Location: Worldwide
+
+- [Aplicador de Productos QuÃ­micos B](https://remoteOK.com/remote-jobs/remote-aplicador-de-productos-quimicos-b-twin-dolphin-los-cabos-1134107)
+  - Company: Twin Dolphin Los Cabos
+  - Location: Cabo San Lucas,
 
 ## weworkremotely
 
