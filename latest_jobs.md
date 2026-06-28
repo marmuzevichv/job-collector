@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-06-27 13:39 UTC
+Generated: 2026-06-28 13:43 UTC
 
-Total new jobs: 106
+Total new jobs: 105
 
 ## greenhouse
 
@@ -290,11 +290,11 @@ Total new jobs: 106
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer (Auth0)](https://www.okta.com/company/careers/opportunity/7791590?gh_jid=7791590)
+- [Senior Site Reliability Engineer (Auth0)](https://www.okta.com/company/careers/opportunity/7418982?gh_jid=7418982)
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer (Auth0)](https://www.okta.com/company/careers/opportunity/7418982?gh_jid=7418982)
+- [Senior Site Reliability Engineer (Auth0)](https://www.okta.com/company/careers/opportunity/7791590?gh_jid=7791590)
   - Company: okta
   - Location: Remote
 
@@ -328,7 +328,7 @@ Total new jobs: 106
 
 ## jobicy
 
-- [Customer Reliability Engineer – Infrastructure](https://jobicy.com/jobs/147812-customer-reliability-engineer-infrastructure)
+- [Customer Reliability Engineer - Infrastructure](https://jobicy.com/jobs/147812-customer-reliability-engineer-infrastructure)
   - Company: Astronomer
   - Location: USA
   - Level/Team: Technical Support
@@ -397,21 +397,17 @@ Total new jobs: 106
 
 ## remoteok
 
-- [Conserje LeÃ³n](https://remoteOK.com/remote-jobs/remote-conserje-leon-cargill-1134103)
-  - Company: Cargill
-  - Location: LeÃ³n,
-
 - [System Software Engineer](https://remoteOK.com/remote-jobs/remote-system-software-engineer-hewlett-packard-enterprise-1134102)
   - Company: Hewlett Packard Enterprise
   - Location: Aguadilla,
 
-- [Senior DevOps Engineer](https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1134015)
-  - Company: Lemon.io
-  - Location: Worldwide
+- [IoT Specialist](https://remoteOK.com/remote-jobs/remote-iot-specialist-jasper-solutions-inc-1134196)
+  - Company: Jasper Solutions Inc.
+  - Location: Mangaluru,
 
-- [Aplicador de Productos QuÃ­micos B](https://remoteOK.com/remote-jobs/remote-aplicador-de-productos-quimicos-b-twin-dolphin-los-cabos-1134107)
-  - Company: Twin Dolphin Los Cabos
-  - Location: Cabo San Lucas,
+- [Stok](https://remoteOK.com/remote-jobs/remote-stok-office-of-energy-amp-sustainability-1134197)
+  - Company: Office of Energy &amp; Sustainability
+  - Location: Leh,
 
 ## weworkremotely
 
