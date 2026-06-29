@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-06-28 13:43 UTC
+Generated: 2026-06-29 15:43 UTC
 
-Total new jobs: 105
+Total new jobs: 103
 
 ## greenhouse
 
@@ -86,6 +86,10 @@ Total new jobs: 105
   - Company: clickhouse
   - Location: Remote
 
+- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843421004)
+  - Company: clickhouse
+  - Location: Remote
+
 - [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843423004)
   - Company: clickhouse
   - Location: Remote
@@ -95,10 +99,6 @@ Total new jobs: 105
   - Location: Remote
 
 - [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843425004)
-  - Company: clickhouse
-  - Location: Remote
-
-- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843421004)
   - Company: clickhouse
   - Location: Remote
 
@@ -114,7 +114,7 @@ Total new jobs: 105
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5828333004)
+- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819755004)
   - Company: clickhouse
   - Location: Remote
 
@@ -126,11 +126,15 @@ Total new jobs: 105
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819755004)
+- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5828333004)
   - Company: clickhouse
   - Location: Remote
 
 - [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819679004)
+  - Company: clickhouse
+  - Location: Remote
+
+- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819674004)
   - Company: clickhouse
   - Location: Remote
 
@@ -143,10 +147,6 @@ Total new jobs: 105
   - Location: Remote
 
 - [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819678004)
-  - Company: clickhouse
-  - Location: Remote
-
-- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819674004)
   - Company: clickhouse
   - Location: Remote
 
@@ -170,15 +170,11 @@ Total new jobs: 105
   - Company: elastic
   - Location: Remote
 
-- [Salesforce QA Automation Engineer](https://www.fastly.com/about/jobs/apply?gh_jid=8018214)
-  - Company: fastly
-  - Location: Remote
-
 - [Senior Infrastructure Engineer — Certification Authority](https://www.fastly.com/about/jobs/apply?gh_jid=8011032)
   - Company: fastly
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7688580003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7581685003)
   - Company: fivetran
   - Location: Remote
 
@@ -186,12 +182,8 @@ Total new jobs: 105
   - Company: fivetran
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7581685003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7688580003)
   - Company: fivetran
-  - Location: Remote
-
-- [Senior Backend Engineer, Gitlab Delivery: Runway (Platform Engineering)](https://job-boards.greenhouse.io/gitlab/jobs/8324132002)
-  - Company: gitlab
   - Location: Remote
 
 - [Senior Site Reliability Engineer, Tenant Services: Geo](https://job-boards.greenhouse.io/gitlab/jobs/8490453002)
@@ -214,15 +206,15 @@ Total new jobs: 105
   - Company: jetbrains
   - Location: Remote
 
-- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=8025824)
-  - Company: mongodb
-  - Location: Remote
-
 - [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=8025827)
   - Company: mongodb
   - Location: Remote
 
 - [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=7453323)
+  - Company: mongodb
+  - Location: Remote
+
+- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=8025824)
   - Company: mongodb
   - Location: Remote
 
@@ -238,11 +230,11 @@ Total new jobs: 105
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff)](https://www.mongodb.com/careers/job/?gh_jid=7727910)
+- [Site Reliability Engineer (Senior or Staff)](https://www.mongodb.com/careers/job/?gh_jid=7727913)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff)](https://www.mongodb.com/careers/job/?gh_jid=7727913)
+- [Site Reliability Engineer (Senior or Staff)](https://www.mongodb.com/careers/job/?gh_jid=7727910)
   - Company: mongodb
   - Location: Remote
 
@@ -254,11 +246,11 @@ Total new jobs: 105
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7793634)
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7793634)
   - Company: mongodb
   - Location: Remote
 
@@ -286,15 +278,15 @@ Total new jobs: 105
   - Company: okta
   - Location: Remote
 
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8034975?gh_jid=8034975)
+  - Company: okta
+  - Location: Remote
+
 - [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/7963271?gh_jid=7963271)
   - Company: okta
   - Location: Remote
 
 - [Senior Site Reliability Engineer (Auth0)](https://www.okta.com/company/careers/opportunity/7418982?gh_jid=7418982)
-  - Company: okta
-  - Location: Remote
-
-- [Senior Site Reliability Engineer (Auth0)](https://www.okta.com/company/careers/opportunity/7791590?gh_jid=7791590)
   - Company: okta
   - Location: Remote
 
