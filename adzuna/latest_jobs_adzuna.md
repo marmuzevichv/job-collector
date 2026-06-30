@@ -1,7 +1,7 @@
 # Jobs via Adzuna API
 
-Generated: 2026-06-29 15:53 UTC
-Total jobs (24h window): 518
+Generated: 2026-06-30 14:26 UTC
+Total jobs (24h window): 612
 
 - [DevOps Engineer](https://www.adzuna.com/land/ad/5781214017?se=0r9UqNJz8RG5B_ZD6wKS8Q&utm_medium=api&utm_source=632a28fd&v=0B5DED1D22A799A44672997F62F5060B29C72C3F)
   - Company: AIT Global, Inc. | US
@@ -2074,3 +2074,379 @@ Total jobs (24h window): 518
 - [Sr. Software Engineer](https://www.adzuna.com/details/5665460172?utm_medium=api&utm_source=632a28fd)
   - Company: Suse Rgs | Reston, Fairfax County
   - Senior Software Engineer (Go & Kubernetes Expertise) Location: Remote COMPANY DESCRIPTION Rancher Government Solutions (...
+
+- [DEVOPS PLATFORM ENGINEER | REMOTE (ONLY W2)](https://www.adzuna.com/land/ad/5781283496?se=bCM1so908RGNecbrflQaYg&utm_medium=api&utm_source=632a28fd&v=9798B51E67FD9D4DDB2DFEC47120D8F2F105D04D)
+  - Company: Columbus Technology Solutions | Minerva Park, Franklin County
+  - JOB TITLE: DEVOPS PLATFORM ENGINEER JOB DURATION: LONG-TERM CONTRACT JOB LOCATION: REMOTE EXPERIENCE: 10 YEARS VISA: UCS...
+
+- [DevOps Engineer](https://www.adzuna.com/land/ad/5751226331?se=bCM1so908RGNecbrflQaYg&utm_medium=api&utm_source=632a28fd&v=6BFEA6B1F9858722111AA7B03C44B2B87C30645E)
+  - Company: Leidos | Takoma Park, Montgomery County
+  - Job Description Description Leidos has an exciting opening for you, our next TS/SCI cleared DevOps Software Engineer wor...
+
+- [DevOps Engineer](https://www.adzuna.com/land/ad/5751119984?se=bCM1so908RGNecbrflQaYg&utm_medium=api&utm_source=632a28fd&v=45CDD324C8E9807D5880D37FD97131580FD7B68D)
+  - Company: Leidos | Hyattsville, Prince George's County
+  - Job Description Description Leidos has an exciting opening for you, our next TS/SCI cleared DevOps Software Engineer wor...
+
+- [DevOps Engineer/Release Management Engineer- JCC2-JCO](https://www.adzuna.com/details/5743333091?utm_medium=api&utm_source=632a28fd)
+  - Company: Semper Valens Solutions | Security Services, Bexar County
+  - DevOps Engineer/Release Management Engineer Full Time Remote Top Secret/SCI Clearance This position is contingent upon c...
+
+- [Sr. Devops Engineer - GitLab -Remote](https://www.adzuna.com/details/5508332647?utm_medium=api&utm_source=632a28fd)
+  - Company: Insight Global | Athol, Worcester County
+  - Job Description Insight Global is hiring a Senior DevOps Engineer with deep, hands-on expertise in GitLab and GitLab-bas...
+
+- [Big Data Systems Engineer - Cloud (DevOps)](https://www.adzuna.com/details/5330717253?utm_medium=api&utm_source=632a28fd)
+  - Company: Hired Recruiters | San Francisco, California
+  - JOB DESCRIPTION We’re looking for a Big Data Systems Engineer - Cloud (DevOps). We offer: remote work with a globally di...
+
+- [Remote DevOps Engineer (Kafka/Kong)](https://www.adzuna.com/details/5330694915?utm_medium=api&utm_source=632a28fd)
+  - Company: Pennant Solutions Group | Richmond, Richmond County
+  - Senior Kafka Administrator/Kong Administrator with DevOps Experience Remote-Contract to Hire Our client is seeking a ski...
+
+- [DevOps Engineer](https://www.adzuna.com/details/5271387452?utm_medium=api&utm_source=632a28fd)
+  - Company: SCOUT Solutions | US
+  - DevOps Engineer Location : Remote, US US Citizen or Permanent Resident Responsibilities Develop, implement, and manage C...
+
+- [Site Reliability Engineer (SRE)](https://www.adzuna.com/details/5781573790?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Cumming, Forsyth County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Site Reliability Engineer (SRE)](https://www.adzuna.com/details/5781239725?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Little Elm, Denton County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Senior Engineer - Backend & Platform](https://www.adzuna.com/details/5781855299?utm_medium=api&utm_source=632a28fd)
+  - Company: Recruiting From Scratch | Nob Hill, San Francisco
+  - Who is Recruiting from Scratch : Recruiting from Scratch is a premier talent firm that focuses on placing the best produ...
+
+- [100% Remote Contract  Platform Engineer](https://www.adzuna.com/details/5781534432?utm_medium=api&utm_source=632a28fd)
+  - Company: Stellent IT LLC | Gedney, Westchester County
+  - Dear Candidate, My name is Manisha Singh and I am a recruiter at Stellent IT LLC. I am reaching out to you on an excitin...
+
+- [OpenShift Platform Engineer](https://www.adzuna.com/details/5781497527?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Norcross, Gwinnett County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [OpenShift Platform Engineer](https://www.adzuna.com/details/5781497525?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Chandler, Maricopa County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [OpenShift Platform Engineer](https://www.adzuna.com/details/5781497529?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Streamwood, Cook County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [OpenShift Platform Engineer](https://www.adzuna.com/details/5781497526?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | San Jose, Santa Clara County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [ML Platform Engineer](https://www.adzuna.com/details/5781497509?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Chandler, Maricopa County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [ML Platform Engineer](https://www.adzuna.com/details/5781497508?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Norcross, Gwinnett County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Senior Software Engineer – Identity Platform/Remote](https://www.adzuna.com/land/ad/5781495439?se=ONEqto908RG7qsG4PpJjZQ&utm_medium=api&utm_source=632a28fd&v=67888BD2E07686A05B2CE6D1139ACB1C360FAE55)
+  - Company: Apetan Consulting | US
+  - Job Description- Senior Software Engineer – Identity Platform Location-Remote Job Summary: The Senior Software Engineer ...
+
+- [Data Platform Engineer (Java, Scala)](https://www.adzuna.com/land/ad/5781495251?se=ONEqto908RG7qsG4PpJjZQ&utm_medium=api&utm_source=632a28fd&v=745EA1109CCB1D59FE08C0C2949BA1E6B4824272)
+  - Company: Procal Technologies | US
+  - Senior Software Engineer (Java, Scala) – Data & Platform Engineering Location: Remote / Hybrid About the Role We are loo...
+
+- [Cloud Platform Engineer](https://www.adzuna.com/land/ad/5781344967?se=ONEqto908RG7qsG4PpJjZQ&utm_medium=api&utm_source=632a28fd&v=5871C3A24301A4AEC547F82BFA687A6882432E5D)
+  - Company: Maximus | Providence, Providence County
+  - Description & Requirements Maximus is currently seeking a Cloud Platform Engineer. This is a remote position. Maximus is...
+
+- [Cloud Platform Engineer](https://www.adzuna.com/land/ad/5781344956?se=ONEqto908RG7qsG4PpJjZQ&utm_medium=api&utm_source=632a28fd&v=E507C40067533424EF107D93AAB9C0D6309259D1)
+  - Company: Maximus | Bismarck, Burleigh County
+  - Description & Requirements Maximus is currently seeking a Cloud Platform Engineer. This is a remote position. Maximus is...
+
+- [Cloud Platform Engineer](https://www.adzuna.com/land/ad/5781344970?se=ONEqto908RG7qsG4PpJjZQ&utm_medium=api&utm_source=632a28fd&v=05E8BDCB26838FBE8DE56F482628982147ECE262)
+  - Company: Maximus | Louisville, Jefferson County
+  - Description & Requirements Maximus is currently seeking a Cloud Platform Engineer. This is a remote position. Maximus is...
+
+- [Cloud Platform Engineer](https://www.adzuna.com/land/ad/5781344953?se=ONEqto908RG7qsG4PpJjZQ&utm_medium=api&utm_source=632a28fd&v=55A2E0DF04B7892957CB1C578511922361C64832)
+  - Company: Maximus | Newark, New Castle County
+  - Description & Requirements Maximus is currently seeking a Cloud Platform Engineer. This is a remote position. Maximus is...
+
+- [SAP Basis Administrator](https://www.adzuna.com/details/5781338409?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Chandler, Maricopa County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [100% Remote Contract  Platform Engineer](https://www.adzuna.com/land/ad/5781283395?se=ONEqto908RG7qsG4PpJjZQ&utm_medium=api&utm_source=632a28fd&v=BE8F19CFBC6ABE472F8C384A1459FC0BB1413E37)
+  - Company: Stellent IT LLC | White Plains, Westchester County
+  - Dear Candidate, My name is Manisha Singh and I am a recruiter at Stellent IT LLC. I am reaching out to you on an excitin...
+
+- [Platform Engineer (DevOps / CI/CD / Automation / Observability) (SS27)](https://www.adzuna.com/land/ad/5781283206?se=ONEqto908RG7qsG4PpJjZQ&utm_medium=api&utm_source=632a28fd&v=29C4C52EBEDFD45EE62AF3E18291718D1146D33C)
+  - Company: Vaco by Highspring | US
+  - Platform Engineer (DevOps / CI/CD / Automation / Observability) DETAILS Location : Remote Position Type : 16M Contract H...
+
+- [Contract role: Sr. Google Cloud Platform Platform Engineer at Hanover, VA (Remote)](https://www.adzuna.com/land/ad/5781243584?se=ONEqto908RG7qsG4PpJjZQ&utm_medium=api&utm_source=632a28fd&v=623ACCCCB60C57EF8CDDCC2DD08FF641A46C4C6D)
+  - Company: Yochana IT Solutions | Virginia, US
+  - Sr. Google Cloud Platform Platform Engineer Hanover, VA (Remote) 6 months Required More on Composer/Airflow Support & Ma...
+
+- [ML Platform Engineer](https://www.adzuna.com/details/5781239596?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [OpenShift Platform Engineer](https://www.adzuna.com/details/5781239614?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Cloud Engineer](https://www.adzuna.com/land/ad/5781744605?se=QH9PuI908RG7qsG4PpJjZQ&utm_medium=api&utm_source=632a28fd&v=2EEEDE392D4807EC8F7500F917C37B47C8185680)
+  - Company: Mastech Digital | Pittsburgh, Allegheny County
+  - Job Description Job Title: Cloud Operations Engineer Location: Remote Duration: 12 Months GCP & AWS | Multi-Cloud Operat...
+
+- [Oracle Cloud Security Engineer](https://www.adzuna.com/details/5781497530?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | San Jose, Santa Clara County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Oracle Cloud Security Engineer](https://www.adzuna.com/details/5781497532?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Norcross, Gwinnett County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Oracle Cloud Security Engineer](https://www.adzuna.com/details/5781497531?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Streamwood, Cook County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Oracle Cloud Security Engineer](https://www.adzuna.com/details/5781497528?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Chandler, Maricopa County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [OCI Cloud Engineer](https://www.adzuna.com/details/5781497523?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Norcross, Gwinnett County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [OCI Cloud Engineer](https://www.adzuna.com/details/5781497521?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | San Jose, Santa Clara County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [OCI Cloud Engineer](https://www.adzuna.com/details/5781497524?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Streamwood, Cook County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Cloud Network Engineer](https://www.adzuna.com/details/5781497457?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | San Jose, Santa Clara County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Cloud Networking Engineer](https://www.adzuna.com/details/5781497453?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Norcross, Gwinnett County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Cloud Network Engineer](https://www.adzuna.com/details/5781497452?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Streamwood, Cook County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Azure Cloud Engineer](https://www.adzuna.com/details/5781497443?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Streamwood, Cook County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Azure Cloud Engineer](https://www.adzuna.com/details/5781497444?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Norcross, Gwinnett County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Cloud Security Engineer – Risk Reduction](https://www.adzuna.com/land/ad/5781495492?se=QH9PuI908RG7qsG4PpJjZQ&utm_medium=api&utm_source=632a28fd&v=3FB2C9B19AA926F87C856875AFD74E56E0523EA0)
+  - Company: Dahl Consulting | US
+  - Title : Cloud Security Engineer – Risk Reduction Location : Remote Job Type : Contract (12 Months) Compensation : $67.67...
+
+- [AWS Cloud Engineer || Remote || W2](https://www.adzuna.com/land/ad/5781432254?se=QH9PuI908RG7qsG4PpJjZQ&utm_medium=api&utm_source=632a28fd&v=0D0D6A486C9A8FFCB1AA145B9A3007021C15E4BE)
+  - Company: Apetan Consulting | Frazer, Chester County
+  - AWS Cloud Engineer Responsibilities We are seeking a cloud engineer with 5 years of experience designing and implementin...
+
+- [Cloud Engineer](https://www.adzuna.com/land/ad/5781423413?se=QH9PuI908RG7qsG4PpJjZQ&utm_medium=api&utm_source=632a28fd&v=A2F7001C45FACBC11CE48FC59DF3DD572D85A1FC)
+  - Company: System One | US
+  - Cloud Engineer 100% remote ship is required per government contract $50/hr W2 The Cloud Engineer is responsible for desi...
+
+- [Cloud Infrastructure Engineer](https://www.adzuna.com/land/ad/5781423151?se=QH9PuI908RG7qsG4PpJjZQ&utm_medium=api&utm_source=632a28fd&v=5135600C8D5C91D8976A93A5A53F7ECF8410BE16)
+  - Company: FourthSquare | US
+  - Cloud Infrastructure Engineer Remote Role Purpose Engineer and operate cloud infrastructure primarily in Microsoft Azure...
+
+- [Sr Cloud Engineer (AWS/Azure/Google Cloud Platform) _ Remote](https://www.adzuna.com/land/ad/5781422592?se=QH9PuI908RG7qsG4PpJjZQ&utm_medium=api&utm_source=632a28fd&v=128217BC6330E44D630C5E45460A786082F27B86)
+  - Company: SUNRAY INFORMATICS | US
+  - Title: Sr Cloud Engineer (AWS/Azure/Google Cloud Platform) Location: Remote Exp: 10 Years 10 years experience in cloud s...
+
+- [Azure Cloud Operations Engineer (Remote)](https://www.adzuna.com/details/5781340136?utm_medium=api&utm_source=632a28fd)
+  - Company: LaunchTech | US
+  - Location: Remote US Citizenship Required LaunchTech is a veteran-owned company that prides itself on delivering service ...
+
+- [Oracle Cloud Security Engineer](https://www.adzuna.com/details/5781239616?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [OIC Cloud Engineer](https://www.adzuna.com/details/5781239609?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [OCI Cloud Engineer](https://www.adzuna.com/details/5781239611?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Cloud Network Engineer](https://www.adzuna.com/details/5781239555?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Cloud Networking Engineer](https://www.adzuna.com/details/5781239549?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Azure Cloud Engineer](https://www.adzuna.com/details/5781239546?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [AWS Cloud Engineer](https://www.adzuna.com/details/5781239542?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Senior Cloud Engineer (Remote US)](https://www.adzuna.com/details/5771363656?utm_medium=api&utm_source=632a28fd)
+  - Company: Smile Digital Health | US
+  - Working for a company like Smile Digital Health means supporting our mandate for BetterGlobalHealth . We strive towards ...
+
+- [Cloud Systems Engineer](https://www.adzuna.com/details/5771362832?utm_medium=api&utm_source=632a28fd)
+  - Company: Explore AI2IO | US
+  - Position Title Cloud Systems Engineer Position Location Remote – work virtually from anywhere in the United States Salar...
+
+- [Zerto Windows Infrastructure & Migration Engineer- Remote EST hours](https://www.adzuna.com/land/ad/5781834837?se=Lr56uo908RG7qsG4PpJjZQ&utm_medium=api&utm_source=632a28fd&v=AF6D5C9C7BC5C3633B12EEFBF9AB7301649C0C66)
+  - Company: Calance | Bakersfield, Kern County
+  - Job Description Job Title: Zerto - Windows Infrastructure & Migration Engineer- Remote EST hours Duration: 6 months with...
+
+- [Zerto Windows Infrastructure & Migration Engineer- Remote EST hours](https://www.adzuna.com/land/ad/5781744617?se=Lr56uo908RG7qsG4PpJjZQ&utm_medium=api&utm_source=632a28fd&v=F35ED2E85D890BC084F2874BDD7554CCE316A456)
+  - Company: Calance | Stockton, San Joaquin County
+  - Job Description Job Title: Zerto - Windows Infrastructure & Migration Engineer- Remote EST hours Duration: 6 months with...
+
+- [Zerto Windows Infrastructure & Migration Engineer- Remote EST hours](https://www.adzuna.com/land/ad/5781743701?se=Lr56uo908RG7qsG4PpJjZQ&utm_medium=api&utm_source=632a28fd&v=BC93B626026FDC4877E483EA967CA8C87DE2256C)
+  - Company: Calance | Fremont, Alameda County
+  - Job Description Job Title: Zerto - Windows Infrastructure & Migration Engineer- Remote EST hours Duration: 6 months with...
+
+- [Zerto Windows Infrastructure & Migration Engineer- Remote EST hours](https://www.adzuna.com/land/ad/5781743381?se=Lr56uo908RG7qsG4PpJjZQ&utm_medium=api&utm_source=632a28fd&v=F985A162823A9875025C2E21EDF7D5FC8C43F5B2)
+  - Company: Calance | Anaheim, Orange County
+  - Job Description Job Title: Zerto - Windows Infrastructure & Migration Engineer- Remote EST hours Duration: 6 months with...
+
+- [Zerto Windows Infrastructure & Migration Engineer- Remote EST hours](https://www.adzuna.com/land/ad/5781742021?se=Lr56uo908RG7qsG4PpJjZQ&utm_medium=api&utm_source=632a28fd&v=287B49DD5F5B91D61FEACABD11A652F0DE739145)
+  - Company: Calance | Los Angeles, Los Angeles County
+  - Job Description Job Title: Zerto - Windows Infrastructure & Migration Engineer- Remote EST hours Duration: 6 months with...
+
+- [VMware Infrastructure Engineer - SQL Server Migration](https://www.adzuna.com/land/ad/5781741884?se=Lr56uo908RG7qsG4PpJjZQ&utm_medium=api&utm_source=632a28fd&v=6661B9CB43096B8DCBA7DF902410E5A5BA86411C)
+  - Company: Tekgence Inc | Houston, Houston County
+  - Job Description Job Title : VMware Infrastructure Engineer – SQL Server Migration Location : Remote (Houston, TX preferr...
+
+- [Zerto Windows Infrastructure & Migration Engineer- Remote EST hours](https://www.adzuna.com/land/ad/5781741574?se=Lr56uo908RG7qsG4PpJjZQ&utm_medium=api&utm_source=632a28fd&v=36D329504EF0598D70E70FA9F050121E2BF8BA9F)
+  - Company: Calance | Fontana, San Bernardino County
+  - Job Description Job Title: Zerto - Windows Infrastructure & Migration Engineer- Remote EST hours Duration: 6 months with...
+
+- [Zerto Windows Infrastructure & Migration Engineer- Remote EST hours](https://www.adzuna.com/land/ad/5781741334?se=Lr56uo908RG7qsG4PpJjZQ&utm_medium=api&utm_source=632a28fd&v=8D0507D83AB4B4344130CF0D42757D8ABCFE5779)
+  - Company: Calance | Long Beach, Los Angeles County
+  - Job Description Job Title: Zerto - Windows Infrastructure & Migration Engineer- Remote EST hours Duration: 6 months with...
+
+- [Zerto Windows Infrastructure & Migration Engineer- Remote EST hours](https://www.adzuna.com/land/ad/5781741223?se=Lr56uo908RG7qsG4PpJjZQ&utm_medium=api&utm_source=632a28fd&v=FCBB1CA2E5EF32BEF83DD5F9540DC09A420716BD)
+  - Company: Calance | San Diego, San Diego County
+  - Job Description Job Title: Zerto - Windows Infrastructure & Migration Engineer- Remote EST hours Duration: 6 months with...
+
+- [Zerto Windows Infrastructure & Migration Engineer- Remote EST hours](https://www.adzuna.com/land/ad/5781740115?se=Lr56uo908RG7qsG4PpJjZQ&utm_medium=api&utm_source=632a28fd&v=778BA4E47244A9DDE5DCBD4FAF475C57F82D7A49)
+  - Company: Calance | San Jose, San Miguel County
+  - Job Description Job Title: Zerto - Windows Infrastructure & Migration Engineer- Remote EST hours Duration: 6 months with...
+
+- [Zerto Windows Infrastructure & Migration Engineer- Remote EST hours](https://www.adzuna.com/land/ad/5781739887?se=Lr56uo908RG7qsG4PpJjZQ&utm_medium=api&utm_source=632a28fd&v=EBBD50E6B5CF08788FF3298E88D4D22B95C3BE40)
+  - Company: Calance | Moreno Valley, Riverside County
+  - Job Description Job Title: Zerto - Windows Infrastructure & Migration Engineer- Remote EST hours Duration: 6 months with...
+
+- [Zerto Windows Infrastructure & Migration Engineer- Remote EST hours](https://www.adzuna.com/land/ad/5781739020?se=Lr56uo908RG7qsG4PpJjZQ&utm_medium=api&utm_source=632a28fd&v=1D3A5002C62A8FD9D41453F5D940D3DB251BD6F3)
+  - Company: Calance | San Bernardino, San Bernardino County
+  - Job Description Job Title: Zerto - Windows Infrastructure & Migration Engineer- Remote EST hours Duration: 6 months with...
+
+- [Zerto Windows Infrastructure & Migration Engineer- Remote EST hours](https://www.adzuna.com/land/ad/5781739007?se=Lr56uo908RG7qsG4PpJjZQ&utm_medium=api&utm_source=632a28fd&v=E9C5B452B1A9C3CFA29930739F67E3483E36FDA0)
+  - Company: Calance | Chula Vista, San Diego County
+  - Job Description Job Title: Zerto - Windows Infrastructure & Migration Engineer- Remote EST hours Duration: 6 months with...
+
+- [Zerto Windows Infrastructure & Migration Engineer- Remote EST hours](https://www.adzuna.com/land/ad/5781738717?se=Lr56uo908RG7qsG4PpJjZQ&utm_medium=api&utm_source=632a28fd&v=70A29EB373AE127068886D5F97739720E5366A51)
+  - Company: Calance | San Francisco, California
+  - Job Description Job Title: Zerto - Windows Infrastructure & Migration Engineer- Remote EST hours Duration: 6 months with...
+
+- [Zerto Windows Infrastructure & Migration Engineer- Remote EST hours](https://www.adzuna.com/land/ad/5781736762?se=Lr56uo908RG7qsG4PpJjZQ&utm_medium=api&utm_source=632a28fd&v=13F233F2165A1B21E3A044BD61124721F899D091)
+  - Company: Calance | Fresno, Fresno County
+  - Job Description Job Title: Zerto - Windows Infrastructure & Migration Engineer- Remote EST hours Duration: 6 months with...
+
+- [Zerto Windows Infrastructure & Migration Engineer- Remote EST hours](https://www.adzuna.com/land/ad/5781723571?se=Lr56uo908RG7qsG4PpJjZQ&utm_medium=api&utm_source=632a28fd&v=EC9C44174DE6A41E1C7A9CB599BA074FBB301EA4)
+  - Company: Calance | Santa Ana, Orange County
+  - Job Description Job Title: Zerto - Windows Infrastructure & Migration Engineer- Remote EST hours Duration: 6 months with...
+
+- [Zerto Windows Infrastructure & Migration Engineer- Remote EST hours](https://www.adzuna.com/land/ad/5781715996?se=Lr56uo908RG7qsG4PpJjZQ&utm_medium=api&utm_source=632a28fd&v=CCE310AF3F8BC026AEC89CCC0E6724B83FF5BF49)
+  - Company: Calance | Oxnard, Ventura County
+  - Job Description Job Title: Zerto - Windows Infrastructure & Migration Engineer- Remote EST hours Duration: 6 months with...
+
+- [Zerto Windows Infrastructure & Migration Engineer- Remote EST hours](https://www.adzuna.com/land/ad/5781715529?se=Lr56uo908RG7qsG4PpJjZQ&utm_medium=api&utm_source=632a28fd&v=38F349C57E668C65273B29DFC6449E27C1662C93)
+  - Company: Calance | Modesto, Stanislaus County
+  - Job Description Job Title: Zerto - Windows Infrastructure & Migration Engineer- Remote EST hours Duration: 6 months with...
+
+- [Zerto Windows Infrastructure & Migration Engineer- Remote EST hours](https://www.adzuna.com/land/ad/5781715487?se=Lr56uo908RG7qsG4PpJjZQ&utm_medium=api&utm_source=632a28fd&v=DE0D54100CAF385DE8366A150A1623A247785EA9)
+  - Company: Calance | Riverside, Riverside County
+  - Job Description Job Title: Zerto - Windows Infrastructure & Migration Engineer- Remote EST hours Duration: 6 months with...
+
+- [Zerto Windows Infrastructure & Migration Engineer- Remote EST hours](https://www.adzuna.com/land/ad/5781715300?se=Lr56uo908RG7qsG4PpJjZQ&utm_medium=api&utm_source=632a28fd&v=6459DFCA950F1814A829D1A9B2ACEEB24E18EC2B)
+  - Company: Calance | Irvine, Orange County
+  - Job Description Job Title: Zerto - Windows Infrastructure & Migration Engineer- Remote EST hours Duration: 6 months with...
+
+- [Zerto Windows Infrastructure & Migration Engineer- Remote EST hours](https://www.adzuna.com/land/ad/5781715304?se=Lr56uo908RG7qsG4PpJjZQ&utm_medium=api&utm_source=632a28fd&v=899C5F7875EC0788DCDFD4C9D4BE6E04FCC7A71E)
+  - Company: Calance | Santa Clarita, Los Angeles County
+  - Job Description Job Title: Zerto - Windows Infrastructure & Migration Engineer- Remote EST hours Duration: 6 months with...
+
+- [Intune Engineer](https://www.adzuna.com/details/5781537645?utm_medium=api&utm_source=632a28fd)
+  - Company: Openkyber | Georgia, US
+  - Job Title: Senior Endpoint Infrastructure Engineer (Microsoft) Location: Remote (within driving distance to Chicago, IL ...
+
+- [Infrastructure Automation Engineer](https://www.adzuna.com/details/5781497492?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Streamwood, Cook County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Infrastructure Automation Engineer](https://www.adzuna.com/details/5781497491?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Chandler, Maricopa County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Infrastructure Automation Engineer](https://www.adzuna.com/details/5781497490?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | San Jose, Santa Clara County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Infrastructure Automation Engineer](https://www.adzuna.com/details/5781497493?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Norcross, Gwinnett County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [AI Infrastructure Engineer](https://www.adzuna.com/details/5781497421?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Norcross, Gwinnett County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [AI Infrastructure Engineer](https://www.adzuna.com/details/5781497423?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | San Jose, Santa Clara County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [AI Infrastructure Engineer](https://www.adzuna.com/details/5781497422?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Chandler, Maricopa County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Windows Infrastructure Engineer](https://www.adzuna.com/land/ad/5781433802?se=Lr56uo908RG7qsG4PpJjZQ&utm_medium=api&utm_source=632a28fd&v=C41CEAB0414C4A2E98EC9020093F05866CE8F12E)
+  - Company: FourthSquare | US
+  - Windows Infrastructure Engineer Remote Long Term Role Purpose Own the operation and improvement of Windows Server and Wi...
+
+- [Linux Infrastructure Engineer](https://www.adzuna.com/land/ad/5781432145?se=Lr56uo908RG7qsG4PpJjZQ&utm_medium=api&utm_source=632a28fd&v=85DF48554A0F56848DF5208551DFC5DEE1807BF9)
+  - Company: FourthSquare | US
+  - Linux Infrastructure Engineer Remote Role Purpose Own the day-to-day engineering and operational support of enterprise L...
+
+- [Infrastructure Automation Engineer](https://www.adzuna.com/details/5781239583?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [AI Infrastructure Engineer](https://www.adzuna.com/details/5781239528?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Field Claims Investigator](https://www.adzuna.com/land/ad/5781083142?se=Lr56uo908RG7qsG4PpJjZQ&utm_medium=api&utm_source=632a28fd&v=E356A0491E0429A0CD870F8C7D220A69BDDC7399)
+  - Company: Phoenix Loss Control Inc | College Heights Durango, La Plata County
+  - Job Type: Contract Workplace Type: Hybrid (50% remote, 50% fieldwork) Compensation: $24/hr plus $.50/mi COMPANY OVERVIEW...
+
+- [DevSecOps Engineer](https://www.adzuna.com/land/ad/5781495445?se=pN9evI908RG7qsG4PpJjZQ&utm_medium=api&utm_source=632a28fd&v=43AF8014CC04BC35596EA49865A87FC2F8803D1D)
+  - Company: Serigor | Mount Rainier, Prince George's County
+  - Job Title: Mid-Level DevSecOps Engineer Location: Washington, DC (Hybrid – Remote with occasional onsite support as need...
+
+- [DevSecOps Engineer (Health Care Domain)](https://www.adzuna.com/land/ad/5781243894?se=pN9evI908RG7qsG4PpJjZQ&utm_medium=api&utm_source=632a28fd&v=5E95BB0C8A69088D4D6C7DC2E6332A32FBFFE5C2)
+  - Company: Canvendor Inc | US
+  - Role: DevSecOps Engineer Location: Remote in US JD: Role summary Embed security into the engineering lifecycle — securin...
