@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-07-01 14:32 UTC
+Generated: 2026-07-02 13:56 UTC
 
-Total new jobs: 102
+Total new jobs: 105
 
 ## greenhouse
 
@@ -102,6 +102,10 @@ Total new jobs: 102
   - Company: clickhouse
   - Location: Remote
 
+- [Senior Cloud Engineer - Product Metrics](https://job-boards.greenhouse.io/clickhouse/jobs/6107163004)
+  - Company: clickhouse
+  - Location: Remote
+
 - [Senior Infrastructure Engineer - Postgres](https://job-boards.greenhouse.io/clickhouse/jobs/5717944004)
   - Company: clickhouse
   - Location: Remote
@@ -152,6 +156,14 @@ Total new jobs: 102
 
 - [Senior Customer Reliability Engineer](https://boards.greenhouse.io/cloudflare/jobs/8018536?gh_jid=8018536)
   - Company: cloudflare
+  - Location: Remote
+
+- [Senior Client Platform Engineer, Windows](https://jobs.dropbox.com/listing/8017513?gh_jid=8017513)
+  - Company: dropbox
+  - Location: Remote
+
+- [Senior Client Platform Engineer, Windows](https://jobs.dropbox.com/listing/8017512?gh_jid=8017512)
+  - Company: dropbox
   - Location: Remote
 
 - [Site Reliability Engineer](https://jobs.dropbox.com/listing/7539814?gh_jid=7539814)

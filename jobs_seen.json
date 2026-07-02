@@ -610,5 +610,23 @@
     "title": "Developer Experience Lead (JetBrains Cloud Platform)",
     "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4822652101",
     "first_seen_utc": "2026-07-01 14:31:43"
+  },
+  "greenhouse::8017513": {
+    "company": "dropbox",
+    "title": "Senior Client Platform Engineer, Windows",
+    "url": "https://jobs.dropbox.com/listing/8017513?gh_jid=8017513",
+    "first_seen_utc": "2026-07-02 13:56:26"
+  },
+  "greenhouse::8017512": {
+    "company": "dropbox",
+    "title": "Senior Client Platform Engineer, Windows",
+    "url": "https://jobs.dropbox.com/listing/8017512?gh_jid=8017512",
+    "first_seen_utc": "2026-07-02 13:56:26"
+  },
+  "greenhouse::6107163004": {
+    "company": "clickhouse",
+    "title": "Senior Cloud Engineer - Product Metrics",
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6107163004",
+    "first_seen_utc": "2026-07-02 13:56:26"
   }
 }

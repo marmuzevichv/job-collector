@@ -357,6 +357,19 @@
   {
     "source_type": "greenhouse",
     "company": "clickhouse",
+    "title": "Senior Cloud Engineer - Product Metrics",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6107163004",
+    "external_id": "greenhouse::6107163004",
+    "description_snippet": "",
+    "posted_at": "2026-07-01T16:38:42-04:00",
+    "collected_at_utc": "2026-07-02 13:56:26"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "clickhouse",
     "title": "Senior Infrastructure Engineer - Postgres",
     "location": "",
     "team": "",
@@ -550,6 +563,32 @@
     "description_snippet": "Dayforce is a global human capital management (HCM) company headquartered in Toronto, Ontario, and Minneapolis, Minnesota, with operations across North America, Europe, Middle East, Africa (EMEA), and the Asia Pacific Japan (APJ) region.Our award-winning Cloud HCM platform offers a unified solution ",
     "posted_at": "2026-06-12T16:23:55+00:00",
     "collected_at_utc": "2026-07-01 14:31:43"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "dropbox",
+    "title": "Senior Client Platform Engineer, Windows",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://jobs.dropbox.com/listing/8017513?gh_jid=8017513",
+    "external_id": "greenhouse::8017513",
+    "description_snippet": "",
+    "posted_at": "2026-07-01T16:59:24-04:00",
+    "collected_at_utc": "2026-07-02 13:56:26"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "dropbox",
+    "title": "Senior Client Platform Engineer, Windows",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://jobs.dropbox.com/listing/8017512?gh_jid=8017512",
+    "external_id": "greenhouse::8017512",
+    "description_snippet": "",
+    "posted_at": "2026-07-01T16:59:26-04:00",
+    "collected_at_utc": "2026-07-02 13:56:26"
   },
   {
     "source_type": "greenhouse",
