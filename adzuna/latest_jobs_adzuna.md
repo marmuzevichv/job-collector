@@ -1,7 +1,7 @@
 # Jobs via Adzuna API
 
-Generated: 2026-07-01 14:44 UTC
-Total jobs (24h window): 542
+Generated: 2026-07-02 14:10 UTC
+Total jobs (24h window): 639
 
 - [DevOps Engineer](https://www.adzuna.com/land/ad/5783719686?se=AuqpX1t18RGYRPMhMJcu4w&utm_medium=api&utm_source=632a28fd&v=CA0270A50117B148492B8A80B6E26CA3E9816A7B)
   - Company: Apex Systems | Creve Coeur, Saint Louis County
@@ -2170,3 +2170,391 @@ Total jobs (24h window): 542
 - [Sr. Software Engineer](https://www.adzuna.com/details/5665460172?utm_medium=api&utm_source=632a28fd)
   - Company: Suse Rgs | Reston, Fairfax County
   - Senior Software Engineer (Go & Kubernetes Expertise) Location: Remote COMPANY DESCRIPTION Rancher Government Solutions (...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5785413815?se=kpobwB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=680557D6F6BCC0BDE531A2EE617F210AA12E5091)
+  - Company: Govcio LLC | US
+  - Overview: GovCIO is seeking an experienced Azure DevOps Engineer to support the Department of Veterans Affairs (VA) Data...
+
+- [Senior Devops Google Cloud Platform Engineer](https://www.adzuna.com/land/ad/5784586011?se=kpobwB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=8C42663267B2562ACCADA2F7EA5EA35BA482BB58)
+  - Company: InOptra Digital Innovations Inc. | US
+  - Senior DevOps Engineer (Google Cloud Platform) Location Remote (U.S.) About the Role We''''re looking for a Senior DevOp...
+
+- [DevOps Engineer](https://www.adzuna.com/land/ad/5783949630?se=kpobwB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=4C86B44526E7D8B16B65E6AC5A06B21A66919795)
+  - Company: AIT Global, Inc. | US
+  - Job Title: DevOps Engineer Location: Remote - USA Primary Responsibilities: Configure and fine-tune AWS WAF rules to pro...
+
+- [DevOps Engineer/Release Management Engineer](https://www.adzuna.com/details/5621637116?utm_medium=api&utm_source=632a28fd)
+  - Company: Semper Valens Solutions | Security Services, Bexar County
+  - DevOps Engineer/Release Management Engineer Full Time Remote Top Secret/SCI Clearance This position is contingent upon c...
+
+- [Infrastructure DevOps Engineer (42639)](https://www.adzuna.com/details/5618111851?utm_medium=api&utm_source=632a28fd)
+  - Company: Talent Management Plus | Raleigh, Wake County
+  - Position: Infrastructure DevOps Engineer (42639) Location: Remote Description: Infrastructure/DevOps engineer to work la...
+
+- [Azure DevOps Engineer (Remote)](https://www.adzuna.com/details/5589891332?utm_medium=api&utm_source=632a28fd)
+  - Company: Insight Global | Tysons Corner, Fairfax County
+  - Job Description Insight Global is looking for an Azure Engineer to support a Big Four client sitting remote. This person...
+
+- [MD-DevOps Engineer - TS/SCI w/ Polygraph](https://www.adzuna.com/details/5577854609?utm_medium=api&utm_source=632a28fd)
+  - Company: Sunayu | Maryland, US
+  - Location: Annapolis Junction, Maryland Category: DevOps Engineer Travel Required: No Remote Type: No Clearance: TS/SCI w...
+
+- [Sr. Devops Engineer - GitLab -Remote](https://www.adzuna.com/land/ad/5508332647?se=7JX8wB928RGCDqbqaU-sVA&utm_medium=api&utm_source=632a28fd&v=35A2E84BD11FADB1868AA3A5F03F9EB6FCD1840A)
+  - Company: Insight Global | Athol, Worcester County
+  - Job Description Insight Global is hiring a Senior DevOps Engineer with deep, hands-on expertise in GitLab and GitLab-bas...
+
+- [Big Data Systems Engineer - Cloud (DevOps)](https://www.adzuna.com/details/5330717253?utm_medium=api&utm_source=632a28fd)
+  - Company: Hired Recruiters | San Francisco, California
+  - JOB DESCRIPTION We’re looking for a Big Data Systems Engineer - Cloud (DevOps). We offer: remote work with a globally di...
+
+- [Remote DevOps Engineer (Kafka/Kong)](https://www.adzuna.com/details/5330694915?utm_medium=api&utm_source=632a28fd)
+  - Company: Pennant Solutions Group | Richmond, Richmond County
+  - Senior Kafka Administrator/Kong Administrator with DevOps Experience Remote-Contract to Hire Our client is seeking a ski...
+
+- [DevOps Engineer](https://www.adzuna.com/details/5271387452?utm_medium=api&utm_source=632a28fd)
+  - Company: SCOUT Solutions | US
+  - DevOps Engineer Location : Remote, US US Citizen or Permanent Resident Responsibilities Develop, implement, and manage C...
+
+- [Senior DevOps Engineer (Fully Remote)](https://www.adzuna.com/details/4811179531?utm_medium=api&utm_source=632a28fd)
+  - Company: Roberts Recruiting | Cambridge, Middlesex County
+  - We are a social media platform dedicated to empowering and advocating for the world’s workers. We develop technology to ...
+
+- [Lead DevOps Engineer (Remote)](https://www.adzuna.com/details/4805404553?utm_medium=api&utm_source=632a28fd)
+  - Company: Prominent Edge | US
+  - Job Description We are looking for a Lead DevOps engineer to join our team at Prominent Edge. We are a small, stable, gr...
+
+- [Remote Job-Site Reliability Engineer](https://www.adzuna.com/land/ad/5784586427?se=JEImwh928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=7DAA4F82B40BC77C01D1EDAAC21FD8BE690B2657)
+  - Company: Pyramid Technology Solutions, Inc. | US
+  - Position: Sr SRE Engineer with Azure Locations: Remote Duration: 6Months with possible extensions Rate: $60/hr on W2 all...
+
+- [Machine Learning Engineer With Site Reliability Engineer -Focus) - Remote project](https://www.adzuna.com/land/ad/5784382555?se=JEImwh928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=4ACBB2335A72EABEBBC7F6DA2FC90C061C4E98B1)
+  - Company: ConnectedX, Inc. | US
+  - Need only Permanent Residence with 13 years of experience. Job Title: Machine Learning Engineer with Site Reliability En...
+
+- [Site Reliability Engineer (SRE)](https://www.adzuna.com/details/5783223965?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | New Jersey, US
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Senior Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5742773263?se=Xlwcwx928RG5MKg01Hm3gQ&utm_medium=api&utm_source=632a28fd&v=F8D1988020404CD7452FB33E9414FE786107F551)
+  - Company: Kforce Technology Staffing | Highland Beach, Palm Beach County
+  - RESPONSIBILITIES: Kforce has a client seeking a remote Senior Site Reliability Engineer to be a l be a leading member of...
+
+- [Gen AI Engineer](https://www.adzuna.com/land/ad/5784711373?se=iO0ZxB928RGEMPKeAFniUg&utm_medium=api&utm_source=632a28fd&v=F3CEB88D1EB0E9A337498F45816B753C7E115FE6)
+  - Company: Rivago infotech inc | US
+  - Role : Google Cloud Platform Agentic AI Engineer Location : Remote Job Summary: Strong Python development (Hands-On) Han...
+
+- [AI Platform Engineer - Remote / Telecommute](https://www.adzuna.com/details/5784657605?utm_medium=api&utm_source=632a28fd)
+  - Company: CYNET SYSTEMS | Dallas, Texas
+  - Job Overview: Requirement/Must Have: Bachelor's degree in Computer Science, Engineering, or related field; equivalent ex...
+
+- [Lead Data Engineer (Kafka Streaming Platform)](https://www.adzuna.com/details/5784651448?utm_medium=api&utm_source=632a28fd)
+  - Company: First Soft Solutions | Monmouth Junction, Middlesex County
+  - Job Title: Lead Data Engineer (Kafka Streaming Platform) Location: Remote (Onshore USA) Employment Type: Contract Experi...
+
+- [AI Platform Engineer | 100% Remote](https://www.adzuna.com/details/5784650062?utm_medium=api&utm_source=632a28fd)
+  - Company: Stellent IT LLC | US
+  - Hi, Position: AI Platform Engineer Location: 100% Remote Duration: 12  Months Interview Mode: Video Must Have : * Curren...
+
+- [Product, Platform & Enterprise Full Stack Software Engineer II (Remote - US)](https://www.adzuna.com/details/5784639942?utm_medium=api&utm_source=632a28fd)
+  - Company: BNSF | US
+  - be part of a team that values safety, inclusion, and excellence we are one of the largest U.S. railroads transporting th...
+
+- [Google Cloud Platform Senior Infra Engineer](https://www.adzuna.com/land/ad/5784585203?se=iO0ZxB928RGEMPKeAFniUg&utm_medium=api&utm_source=632a28fd&v=EBF1BB4DC686F9ADFEED8E29C4C7EB98004F6AC2)
+  - Company: APLOMB Technologies | US
+  - Title: Google Cloud Platform Senior Infra Engineers Location: Remote Skills Needed for Mandatory: • Strong hands-on expe...
+
+- [Platform Cloud Engineer - REMOTE](https://www.adzuna.com/land/ad/5784106779?se=iO0ZxB928RGEMPKeAFniUg&utm_medium=api&utm_source=632a28fd&v=272F4C8CD5586F450F66259E2FB53F464DCC3213)
+  - Company: Contract Staffing Recruiters | US
+  - Platform Cloud Engineer This role is a senior technical leadership position responsible for integrating and delivering p...
+
+- [AI Platform Engineer | 100% Remote](https://www.adzuna.com/land/ad/5784105074?se=iO0ZxB928RGEMPKeAFniUg&utm_medium=api&utm_source=632a28fd&v=C1586D22C51AA673D71A1155A6872EA3DE30CA64)
+  - Company: Stellent IT LLC | US
+  - Hi, Position: AI Platform Engineer Location: 100% Remote Duration: 12  Months Interview Mode: Video Must Have : * Curren...
+
+- [AI Platform Engineer - Remote / Telecommute](https://www.adzuna.com/land/ad/5783950681?se=iO0ZxB928RGEMPKeAFniUg&utm_medium=api&utm_source=632a28fd&v=490CB1438B07CA73A2968668499E5261EB58EAD4)
+  - Company: Cynet Systems | Highland Park, Dallas
+  - We are looking for AI Platform Engineer - Remote / Telecommute for our client in Dallas, TX Job Title: AI Platform Engin...
+
+- [Hiring: Mid/Senior/Lead AI Platform Engineer | OpenShift | Kubernetes | OpenStack || Fully Remote](https://www.adzuna.com/land/ad/5783949840?se=iO0ZxB928RGEMPKeAFniUg&utm_medium=api&utm_source=632a28fd&v=7BF0F4102CEBF58346E36FED00C06BF70C2B5169)
+  - Company: Gtech LLC | US
+  - We are looking for an experienced AI Platform Engineer to deploy, optimize, and manage enterprise AI workloads on modern...
+
+- [OpenShift Platform Engineer](https://www.adzuna.com/details/5783002172?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Chandler, Maricopa County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Sr. AI Platform Engineer- Contract & Remote in Reston, VA (Locals Only)](https://www.adzuna.com/land/ad/5782535948?se=iO0ZxB928RGEMPKeAFniUg&utm_medium=api&utm_source=632a28fd&v=D2B2158C9E639D5B874C608707909EAA049FFEDA)
+  - Company: Elite Technical | US
+  - Sr. AI Platform Engineer View/ Apply at The AI Platform Engineer translates AI reference architectures into secure, scal...
+
+- [Cloud Engineer](https://www.adzuna.com/details/5784956013?utm_medium=api&utm_source=632a28fd)
+  - Company: System One | Reston, Fairfax County
+  - Cloud Engineer 100% remote US Citizenship is required per government contract $50/hr W2 The Cloud Engineer is responsibl...
+
+- [AWS Cloud Engineer- Infrastructure](https://www.adzuna.com/land/ad/5784711300?se=ihxzxh928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=BE462BB3F4E92799F463107DC0165C1BDDD0AA23)
+  - Company: VKore Solutions LLC | US
+  - Job Description: Title AWS Cloud Engineer- Infrastructure location Remote Type Contract Interview Mode: Virtual. The top...
+
+- [Remote Position: Need Google Cloud Platform Cloud Systems Engineer](https://www.adzuna.com/land/ad/5784708395?se=ihxzxh928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=510B3EB61AF3BBA6C82620EDBDEB67320EE83A04)
+  - Company: Svam International, Inc. | US
+  - Google Cloud Platform Cloud Systems Engineer Long term Contract 100% Remote Position Job Summary We are seeking a senior...
+
+- [AWS Cloud Engineer- Infrastructure](https://www.adzuna.com/details/5784657119?utm_medium=api&utm_source=632a28fd)
+  - Company: Vkore Solutions | US
+  - Job Description: Title AWS Cloud Engineer- Infrastructure location Remote Type Contract Interview Mode: Virtual. Visa- O...
+
+- [Oracle Cloud Infrastructure (OCI) Network Engineer](https://www.adzuna.com/land/ad/5784585086?se=ihxzxh928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=04C5614D1C5BCBE057C47C88BC25FEE76DED9489)
+  - Company: NavaTech LLC | Maryland, Anne Arundel County
+  - Job Title: Oracle Cloud Infrastructure (OCI) Network Engineer Location: Remote Job Type: Contract Duration : 6 Months  E...
+
+- [AWS Cloud Engineer- Infrastructure fedramp- C2H role - Remote](https://www.adzuna.com/details/5784088906?utm_medium=api&utm_source=632a28fd)
+  - Company: Cystems Logic Inc | Irvine, Orange County
+  - Job Description Hi, AN active AWS pro level certification in addition to our typical Cloud Infrastructure profile. Job T...
+
+- [AWS Cloud Engineer](https://www.adzuna.com/details/5783566548?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | New Jersey, US
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Oracle Cloud Security Engineer](https://www.adzuna.com/details/5783531404?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | New Jersey, US
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Software Engineer, Cloud](https://www.adzuna.com/details/5782871500?utm_medium=api&utm_source=632a28fd)
+  - Company: Abbott | US
+  - Abbott is a global healthcare leader that helps people live more fully at all stages of life. Our portfolio of life-chan...
+
+- [AWS Cloud Engineer III](https://www.adzuna.com/details/5781051594?utm_medium=api&utm_source=632a28fd)
+  - Company: BC Forward | Cincinnati, Hamilton County
+  - Job Title: AWS Cloud Engineer III Location: Metro Detroit, MI (Remote-first preference) Duration: Contract - 6 months Pa...
+
+- [Data Enginner With Google Cloud Platform](https://www.adzuna.com/land/ad/5778384517?se=dppixx928RGEMPKeAFniUg&utm_medium=api&utm_source=632a28fd&v=38D2B90BE50F0B6B47D6B59BCE60D1B3907DBCF3)
+  - Company: Smartwork IT Services | US
+  - Hi Sir, Greetings from SWITS Digitals. We are hiring for the below role, Role: Data Engineer - Google Cloud Platform Loc...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5784931474?se=Yh11yB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=9B7D9F077D0BFD1A3FF365ACC370869297284AC2)
+  - Company: GovCIO | Charleston, Kanawha County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5784856769?se=Yh11yB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=C853C9516C9C8D58AFC7BA5A924B69F68BC8D68B)
+  - Company: GovCIO | Cedar, Cole County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5784856271?se=Yh11yB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=27F9BB64B1FB070DF856A892A36063001D0EC10C)
+  - Company: GovCIO | Trenton, Mercer County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5784855698?se=Yh11yB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=1FA5D1607F182524E18DA726DB881E815BC866B2)
+  - Company: GovCIO | Frankfort, Franklin County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5784853850?se=Yh11yB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=7E9B0B69978E53C080406FC8740E2434B189CB0A)
+  - Company: GovCIO | Topeka, Shawnee County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5784853063?se=Yh11yB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=E4FDF03569C30C933CFCB2AFD2489F197FB88067)
+  - Company: GovCIO | Carson Mall, Carson City
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5784851701?se=Yh11yB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=B793D8FFD836514C85D4548DD0BFA6A1ABBBF777)
+  - Company: GovCIO | Jackson, Hinds County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5784849848?se=Yh11yB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=F8F0961D2AEB930A321859B68238D974275257FF)
+  - Company: GovCIO | State House, Lancaster County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5784849545?se=Yh11yB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=4559F63C5DDADC1CE8A8903EB69884C354BC87A9)
+  - Company: GovCIO | Pierre, Hughes County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5784849068?se=Yh11yB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=948DB42F1460C5E9D226AAFD8175B4BA6C1197C2)
+  - Company: GovCIO | Ny State Campus, Albany County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5784848690?se=Yh11yB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=B3DA38E92C297272B677406E98C2F95D6DA01EB0)
+  - Company: GovCIO | Concord, Merrimack County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5784848096?se=Yh11yB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=87A144EAB1513B842E04DD4701F6AC1D94345947)
+  - Company: GovCIO | Providence, Providence County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5784836822?se=Yh11yB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=EE8CD98B3C8DC0107CBE6B29482224C9BAA105B9)
+  - Company: GovCIO | Bismarck, Burleigh County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5784836760?se=Yh11yB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=C7F02C725F52C6A81A5E39D509394F61C1558F40)
+  - Company: GovCIO | Washington, D.C., US
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5784836486?se=Yh11yB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=676F853B97D80C1E891E47B7DFCA2D22B6E40F52)
+  - Company: GovCIO | Wyoming, Kent County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5784836442?se=Yh11yB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=D19F12C1C4FDBAEB7A7CAACE4110682F3955090B)
+  - Company: GovCIO | Boise, Ada County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/details/5784834956?utm_medium=api&utm_source=632a28fd)
+  - Company: GovCIO | Douglas, Juneau
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5784830167?se=Yh11yB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=9A6868A7D4D7AC97CA2DBFD2DFDCDB1071C77DE4)
+  - Company: GovCIO | Grandview Heights, Franklin County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5784826028?se=Yh11yB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=A5CD1B98C36675831398C910B6A8BDB825CCFAA9)
+  - Company: GovCIO | Archer, Laramie County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5784822221?se=Yh11yB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=B259DFB6729E7B3D803F20B07B436011BF50FB56)
+  - Company: GovCIO | Atlanta, Fulton County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5784821559?se=Yh11yB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=61403EB4A7618B39C53E059B426D11B586276887)
+  - Company: GovCIO | Five Points, Wake County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5784820803?se=Yh11yB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=810A9242059ED1E6C1E3482EF8AC993F6F07BE67)
+  - Company: GovCIO | Nashville, Davidson County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5784813569?se=Yh11yB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=E2644F7372B29727FE873EADF02DC3AE77B1039A)
+  - Company: GovCIO | Lansing, Ingham County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5784809236?se=Yh11yB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=FD10E8C99E7074E363CB722AC73C64E3B0451FF1)
+  - Company: GovCIO | Boston, Suffolk County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5784807257?se=Yh11yB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=C6123BF58D0BF38D4E41DC1E1EB453E395CAB11B)
+  - Company: GovCIO | Phoenix, Maricopa County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5784806830?se=Yh11yB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=09574FB03D4CD752CD4F18DDCD05D6147F37B8EB)
+  - Company: GovCIO | Oklahoma City, Oklahoma County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5784806727?se=Yh11yB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=C5F448A13BD5C104D60AD3B1A1BCE56113B03ADF)
+  - Company: GovCIO | Chisolm, Montgomery County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5784805116?se=Yh11yB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=7C689733058C59C9992B79CAC51B62623E86BBE1)
+  - Company: GovCIO | Glendale, Denver
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5784803950?se=Yh11yB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=00D96816ECB221817BC42EFBE3B987A9B56A5AC4)
+  - Company: GovCIO | Saint Paul, Ramsey County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5784797176?se=Yh11yB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=3AF334E213F998E7AEF4FF7AEDE0548AC70AF7B1)
+  - Company: GovCIO | Cammack Village, Pulaski County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5784797089?se=Yh11yB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=6BB87088DF5DDC07749E0D5166DF1C1BB6E5F6F4)
+  - Company: GovCIO | Salem, Marion County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5784792198?se=Yh11yB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=6410F002F03ECCC9B6C8E86F5D358AB636FD4169)
+  - Company: GovCIO | Talcott Village, Hartford County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5784750698?se=Yh11yB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=12031F7284213EC11A4BE05D35F057EBF0722DE9)
+  - Company: GovCIO | Uptown, Marion County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5784721233?se=Yh11yB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=483FAE3D785938AAAAC8628118F769AD4F4EB25F)
+  - Company: GovCIO | Edgewood, Richland County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5784720315?se=Yh11yB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=6A68B2A16FAA087D80E2EB68AC3C690F6FC76455)
+  - Company: GovCIO | Des Moines, Polk County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5784719267?se=Yh11yB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=49139BF8ADEFD78328630A97F59AC7A734B2A2C1)
+  - Company: GovCIO | Helena, Lewis and Clark County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5784718950?se=Yh11yB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=AEAA0AD04E1FD92ED1694B4503B53DB44AD4C050)
+  - Company: GovCIO | Augusta, Kennebec County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5784718915?se=Yh11yB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=85B77B95FDB4B30102C0ED3B978B9EA0947E4C4F)
+  - Company: GovCIO | Wake Island, Honolulu
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/details/5784697112?utm_medium=api&utm_source=632a28fd)
+  - Company: GovCIO | Penbrook, Dauphin County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/details/5784678562?utm_medium=api&utm_source=632a28fd)
+  - Company: GovCIO | Tallahassee, Leon County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/details/5784669473?utm_medium=api&utm_source=632a28fd)
+  - Company: GovCIO | Capitol, Richmond
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/details/5784669293?utm_medium=api&utm_source=632a28fd)
+  - Company: GovCIO | Springfield, Sangamon County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/details/5784668957?utm_medium=api&utm_source=632a28fd)
+  - Company: GovCIO | Tarrytown, Travis County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5784552071?se=Yh11yB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=3ED6058CF3CCD96828AC5CADAA01E30317485AFF)
+  - Company: GovCIO | Annapolis, Anne Arundel County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5784547257?se=Yh11yB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=1AE44BBB0490343FB032854BF0279EAAD7FFB200)
+  - Company: GovCIO | La Cienga, Santa Fe County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Full-Stack Software Engineer (Remote)](https://www.adzuna.com/land/ad/5784538424?se=Yh11yB928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=E691DDD56BFFA4E59137F90464ECAF35E2559773)
+  - Company: GovCIO | Sacramento, Sacramento County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Infrastructure Automation Engineer](https://www.adzuna.com/details/5783232006?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Chandler, Maricopa County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Infrastructure Automation Engineer](https://www.adzuna.com/details/5782999620?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | San Jose, Santa Clara County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Infrastructure Automation Engineer](https://www.adzuna.com/details/5782956442?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Lilburn, Gwinnett County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [DevSecOps Engineer (1467)](https://www.adzuna.com/details/5785018582?utm_medium=api&utm_source=632a28fd)
+  - Company: Zapata Technology | Augusta, Richmond County
+  - This role is contingent with a projected start date of 1 OCT 2026. Remote Position Summary: The DevSecOps Engineer is pa...
+
+- [Custom Software Engineer (Angular & DevSecOps)](https://www.adzuna.com/details/5784654080?utm_medium=api&utm_source=632a28fd)
+  - Company: Akaasa Technologies | US
+  - Custom Software Engineer (Angular & DevSecOps) Fully remote Candidate must have at least 5 years of experience in DevSec...
+
+- [Senior Full Stack Engineer (Angular, Go & DevSecOps) :: Remote](https://www.adzuna.com/details/5784650059?utm_medium=api&utm_source=632a28fd)
+  - Company: Stellent IT LLC | US
+  - Title: Senior Full Stack Engineer (Angular, Go & DevSecOps) Location: Remote Duration: 6 Months Contract (Possible Exten...
+
+- [DevSecOps Engineer](https://www.adzuna.com/details/5784153305?utm_medium=api&utm_source=632a28fd)
+  - Company: GeoDelphi | US
+  - Position: DevSecOps Engineer Location: Remote / Alexandria, VA Clearance: Preferred US Gov Secret or above clearance (no...
+
+- [DevSecOps Engineer](https://www.adzuna.com/details/5784153287?utm_medium=api&utm_source=632a28fd)
+  - Company: GeoDelphi | Alexandria, Alexandria City
+  - Position: DevSecOps Engineer Location: Remote / Alexandria, VA Clearance: Preferred US Gov Secret or above clearance (no...
+
+- [Machine Learning Engineer (SRE Focus)](https://www.adzuna.com/land/ad/5784711301?se=3rR7zB928RGCDqbqaU-sVA&utm_medium=api&utm_source=632a28fd&v=E69069BDAEC6CB1F083DF944D6A51A548ACCB023)
+  - Company: ConnectedX, Inc. | US
+  - Machine Learning Engineer (SRE Focus) Job Title: Machine Learning Engineer (SRE Focus) Location: Remote Job Summary: We ...
+
+- [W2 - 10 Senior SRE Engineer with Azure - REMOTE](https://www.adzuna.com/land/ad/5784110354?se=3rR7zB928RGCDqbqaU-sVA&utm_medium=api&utm_source=632a28fd&v=5D7C1572208420987EF2A4CDB4D86C465D974998)
+  - Company: Prohires | US
+  - Need urgently Senior SRE Engineer with Azure for contract. Remote in US Till December 31 st 2026 with possible extension...
+
+- [Infrastructure Engineer](https://www.adzuna.com/land/ad/5783886232?se=zpiczR928RGjJMNMEJ2K-w&utm_medium=api&utm_source=632a28fd&v=1CBFE4C58D61A5C5613EB8B377A976F6B478BB2B)
+  - Company: Georgia IT | US
+  - Position: Kubernetes Engineer Location: Boston MA-Remote Strong hands-on experience with managing Kubernetes clusters (E...
