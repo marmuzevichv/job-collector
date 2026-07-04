@@ -1,7 +1,7 @@
 # Jobs via Adzuna API
 
-Generated: 2026-07-03 14:16 UTC
-Total jobs (24h window): 532
+Generated: 2026-07-04 13:41 UTC
+Total jobs (24h window): 680
 
 - [DevOps Engineer with Security Clearance](https://www.adzuna.com/land/ad/5786338036?se=-p70tOl28RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=893056CF641DE5DA80078E8D476DAB71218EAFF1)
   - Company: Leidos | Bethesda, Montgomery County
@@ -2130,3 +2130,595 @@ Total jobs (24h window): 532
 - [Sr. Software Engineer](https://www.adzuna.com/details/5665460172?utm_medium=api&utm_source=632a28fd)
   - Company: Suse Rgs | Reston, Fairfax County
   - Senior Software Engineer (Go & Kubernetes Expertise) Location: Remote COMPANY DESCRIPTION Rancher Government Solutions (...
+
+- [DevOps Engineer](https://www.adzuna.com/details/5788020475?utm_medium=api&utm_source=632a28fd)
+  - Company: Sentara Hospitals | Virginia Beach, Virginia Beach City
+  - City/State Virginia Beach, VA Work Shift First (Days) Overview: Sentara is hiring a DevOps Engineer! This position is fu...
+
+- [Senior Devops Engineer](https://www.adzuna.com/details/5787957431?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Celina, Collin County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787626744?se=rHIlDK538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=91574F5C7EB268E46F5E78EA4A198D15D6E12D9C)
+  - Company: GovCIO | Madison, Dane County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787625583?se=rHIlDK538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=3BC641B2AE02860A0E6782C1B04226E0CC522955)
+  - Company: GovCIO | Bonnie, Utah County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787590737?se=rHIlDK538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=39A53EB9662558E7007A9888A1190BDF6666C333)
+  - Company: GovCIO | Charleston, Kanawha County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787589840?se=rHIlDK538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=E97309DA10E476E42C3ED1102FDAF590613987FC)
+  - Company: GovCIO | Montpelier, Washington County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787547281?se=rHIlDK538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=3D1F0827FB58C5C07117DA9A93A560680671A285)
+  - Company: GovCIO | Ny State Campus, Albany County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787542674?se=rHIlDK538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=A2AF3DEF062DD1F1E0BA80F7E274CCBC927A5C82)
+  - Company: GovCIO | Cedar, Cole County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787539282?se=rHIlDK538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=68C2359F227DA473E3F19518459A25E1CC550356)
+  - Company: GovCIO | Trenton, Mercer County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787535595?se=rHIlDK538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=B8FEFEDB34248031C6AA8E3FBF9C3D49D6E6A7B7)
+  - Company: GovCIO | Frankfort, Franklin County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787532517?se=rHIlDK538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=1F602C7BE229CCC61C70ED7C28C351530540182B)
+  - Company: GovCIO | Jackson, Hinds County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787531987?se=rHIlDK538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=2896A92C30388FDA150B9ABE5790EE6C9E1FD96B)
+  - Company: GovCIO | Topeka, Shawnee County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787529680?se=rHIlDK538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=6CC9D86796A4A543EDAD9A2D957E9F4893D9E84B)
+  - Company: GovCIO | Pierre, Hughes County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787529584?se=rHIlDK538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=4D82B7B717948670EBCBAE4249EC3232D56CFEA5)
+  - Company: GovCIO | Carson Mall, Carson City
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787529341?se=rHIlDK538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=E44E0B64298D65F59E13E9C7B33D6AAF3FDF2C61)
+  - Company: GovCIO | State House, Lancaster County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787528420?se=rHIlDK538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=30B978E494771644F8DB12FC32FD5324BF42841D)
+  - Company: GovCIO | Concord, Merrimack County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787527914?se=rHIlDK538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=30DC156B377E2F857D63A6DB102BC7ED04BBF003)
+  - Company: GovCIO | Providence, Providence County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787526542?se=rHIlDK538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=622A26FD22FC6DD7AC98AAE99394D2C0FC084D94)
+  - Company: GovCIO | Grandview Heights, Franklin County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787521496?se=rHIlDK538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=0DC51ED2A35D0A7F6DFDB9F81EF066BB274EBE3B)
+  - Company: GovCIO | Five Points, Wake County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787519153?se=rHIlDK538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=BD53582022CDED54F89D89B3ECE228F121BF3693)
+  - Company: GovCIO | Atlanta, Fulton County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787518631?se=rHIlDK538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=F949AEBF14082D9E8E3242EFC81ABBB46F1AAB61)
+  - Company: GovCIO | Boise, Ada County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787518395?se=rHIlDK538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=989C0BC9044A16F66F8C3DFB008C13A736F6CC2F)
+  - Company: GovCIO | Wyoming, Kent County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787518360?se=rHIlDK538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=834AE41358E801B6167AEBA61D134A1079EAFBC9)
+  - Company: GovCIO | Washington, D.C., US
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787518258?se=rHIlDK538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=8F944EA0194AFF87B84CCCA627D6D873C7F0F707)
+  - Company: GovCIO | Bismarck, Burleigh County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/details/5787517503?utm_medium=api&utm_source=632a28fd)
+  - Company: GovCIO | Douglas, Juneau
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787515897?se=rHIlDK538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=625199A3F602320A91E59578E775CED4850ED0BA)
+  - Company: GovCIO | Archer, Laramie County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787513083?se=rHIlDK538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=FF0739E97642F12BB0F87B0CF013B7D76386FC86)
+  - Company: GovCIO | Nashville, Davidson County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787505081?se=rHIlDK538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=37ACF46037A27F253E23B08BA79FA2D925898741)
+  - Company: GovCIO | Lansing, Ingham County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787497409?se=rHIlDK538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=88EDF9D2A259E75291915A2248D0E55B9586FF64)
+  - Company: GovCIO | Oklahoma City, Oklahoma County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787497221?se=rHIlDK538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=612BC6CD2136166E584B51D4EC2D4C7240EF05D8)
+  - Company: GovCIO | Glendale, Denver
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787497060?se=rHIlDK538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=3545B8A41F987FC3DDF7EB39C66217D0BED80753)
+  - Company: GovCIO | Boston, Suffolk County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787496152?se=rHIlDK538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=5141F51FEC7899C8FF161E94D7FD4BCF7F38AF94)
+  - Company: GovCIO | Chisolm, Montgomery County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787495737?se=rHIlDK538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=5E47376EBA037D511E73C3CF6BB254E9FB6FA313)
+  - Company: GovCIO | Phoenix, Maricopa County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787495459?se=rHIlDK538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=8A7CFA961E114D65D9C4104C854435D37E86BA21)
+  - Company: GovCIO | Saint Paul, Ramsey County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787494798?se=rHIlDK538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=F879CE78D4380ABA853C3F205A6C2681AE97637E)
+  - Company: GovCIO | Cammack Village, Pulaski County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787494550?se=rHIlDK538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=08191C0A789BB86EE23E27173EA4108970E7A7B0)
+  - Company: GovCIO | Salem, Marion County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787494250?se=rHIlDK538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=0A3C6A49B75716E79612C182A53EE85C87BA40DE)
+  - Company: GovCIO | Talcott Village, Hartford County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787468616?se=rHIlDK538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=723FAB141D6F3A0AB22053BC391A33DF468224AB)
+  - Company: GovCIO | Uptown, Marion County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787449474?se=rHIlDK538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=388368DE16A0717CFE6AC86D45032A6F0A7CA529)
+  - Company: GovCIO | Edgewood, Richland County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787448462?se=rHIlDK538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=45D32715554E9644B47D07E30AF99866608B017E)
+  - Company: GovCIO | Des Moines, Polk County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787448147?se=rHIlDK538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=A9FA65DBB256D3846AF6B5666140255C2E1EC344)
+  - Company: GovCIO | Helena, Lewis and Clark County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787447963?se=rHIlDK538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=2AFB95B612E924092C4B5B4B6E8B6DCD35F045BB)
+  - Company: GovCIO | Augusta, Kennebec County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787447776?se=rHIlDK538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=E18F1CEF4050E50D5B23726697A94A038EC276DB)
+  - Company: GovCIO | Wake Island, Honolulu
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Devops Engineer](https://www.adzuna.com/land/ad/5787445564?se=rHIlDK538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=671E228552DB4A3A60B14087727C94B411FC305B)
+  - Company: R Systems, Inc. | US
+  - Role: Devops Engineer Location Sacramento, CA - Remote We are seeking an experienced Senior Lead Software Developer / De...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/details/5787432855?utm_medium=api&utm_source=632a28fd)
+  - Company: GovCIO | Penbrook, Dauphin County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Senior AWS DevOps Engineer](https://www.adzuna.com/details/5787420151?utm_medium=api&utm_source=632a28fd)
+  - Company: System One | Tysons Corner, Fairfax County
+  - Senior AWS DevOps Engineer 100% Remote U.S. citizenship or Green Card holder status and the ability to obtain a Public T...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/details/5787416911?utm_medium=api&utm_source=632a28fd)
+  - Company: GovCIO | Tallahassee, Leon County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/details/5787411209?utm_medium=api&utm_source=632a28fd)
+  - Company: GovCIO | Capitol, Richmond
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/details/5787410622?utm_medium=api&utm_source=632a28fd)
+  - Company: GovCIO | Springfield, Sangamon County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/details/5787408348?utm_medium=api&utm_source=632a28fd)
+  - Company: GovCIO | Tarrytown, Travis County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787313359?se=lv3cDK538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=2FEE8DEBC50064009448CB377A06E26C92770DD8)
+  - Company: GovCIO | Annapolis, Anne Arundel County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787311198?se=lv3cDK538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=010BBFBC4CF3CF6EF794F83225419346E390B28B)
+  - Company: GovCIO | La Cienga, Santa Fe County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5787306427?se=lv3cDK538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=4C83F8581B1AE1722C6D1A8C7FE311CA9D53D82A)
+  - Company: CVS Health | US
+  - We're building a world of health around every individual - shaping a more connected, convenient and compassionate health...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5787306238?se=lv3cDK538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=8EAE87B6585395346F80C81055FEBF8C72CE0285)
+  - Company: GovCIO | Sacramento, Sacramento County
+  - United States Suitability/Public Trust Fully remote Information Technology Overview GovCIO is seeking an experienced Azu...
+
+- [DevOps Engineer](https://www.adzuna.com/land/ad/5773780631?se=lv3cDK538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=B9B8BD357126A34E7E866C5A20B49A594ED2F2D0)
+  - Company: Leidos | Gaithersburg, Montgomery County
+  - Job Description Description Leidos has an exciting opening for you, our next TS/SCI cleared DevOps Software Engineer wor...
+
+- [DevOps Engineer](https://www.adzuna.com/land/ad/5773763551?se=lv3cDK538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=D069196938E34267689FEE72EDAFBF30B427909A)
+  - Company: Leidos | Southeast, Genesee County
+  - Job Description Description Leidos has an exciting opening for you, our next TS/SCI cleared DevOps Software Engineer wor...
+
+- [DevOps Engineer](https://www.adzuna.com/land/ad/5773757558?se=lv3cDK538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=780A5CA5036B64D79C8DFB20E8DC38B13506A5A9)
+  - Company: Leidos | Chevy Chase, Washington, D.C.
+  - Job Description Description Leidos has an exciting opening for you, our next TS/SCI cleared DevOps Software Engineer wor...
+
+- [Site Reliability Engineer (SRE)](https://www.adzuna.com/details/5787678253?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Lilburn, Gwinnett County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Site Reliability Engineer (SRE)](https://www.adzuna.com/details/5787420131?utm_medium=api&utm_source=632a28fd)
+  - Company: System One | Tysons Corner, Fairfax County
+  - Site Reliability Engineer (SRE) Remote No sponsorship available. Must be able to obtain a Public Trust clearance. What Y...
+
+- [Site Reliability Engineer (Remote)](https://www.adzuna.com/details/5787197882?utm_medium=api&utm_source=632a28fd)
+  - Company: Oxley Enterprises®, Inc. | Stafford, Stafford County
+  - The following states/districts are excluded from this job ad: AK, CA, CO, CT, DC, HI, LA, MA, MN, MO, NE, NV, NH, NJ, NM...
+
+- [OpenShift Platform Engineer](https://www.adzuna.com/details/5787849297?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Holy, Santa Clara County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Container Platform Engineer](https://www.adzuna.com/details/5787631437?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Sun Lakes, Maricopa County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [OpenShift Platform Engineer](https://www.adzuna.com/details/5787581345?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Bolingbrook, Will County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Platform Reliability Engineer](https://www.adzuna.com/details/5787577837?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Sun Lakes, Maricopa County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [ML Platform Engineer](https://www.adzuna.com/details/5787576912?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Cumming, Forsyth County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Platform Automation Engineer](https://www.adzuna.com/details/5787561616?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Sun Lakes, Maricopa County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [AWS Cloud Platform Engineer](https://www.adzuna.com/details/5787420136?utm_medium=api&utm_source=632a28fd)
+  - Company: System One | Tysons Corner, Fairfax County
+  - AWS Cloud Platform Engineer 100% remote Security Clearance: U.S. citizenship or Green Card status is required, along wit...
+
+- [Platform Engineer](https://www.adzuna.com/details/5787407955?utm_medium=api&utm_source=632a28fd)
+  - Company: Openkyber | Alaska, US
+  - Associate Cloud Platform Engineer Remote Contract to hire Compensation: $30 -$35 ABOUT THE ROLE OpenKyber is seeking a m...
+
+- [Platform Engineer](https://www.adzuna.com/details/5787407837?utm_medium=api&utm_source=632a28fd)
+  - Company: Openkyber | Alaska, US
+  - Senior Software Engineer (Java, Scala) Data & Platform Engineering Location: Remote / Hybrid About the Role We are looki...
+
+- [Platform Engineer](https://www.adzuna.com/details/5787407844?utm_medium=api&utm_source=632a28fd)
+  - Company: Openkyber | Alaska, US
+  - Platform Engineer (DevOps / CI/CD / Automation / Observability) DETAILS Location : Remote Position Type : 16M Contract H...
+
+- [Cloud Network Engineer](https://www.adzuna.com/details/5787949391?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Holy, Santa Clara County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [OCI Cloud Engineer](https://www.adzuna.com/details/5787946675?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Bolingbrook, Will County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Azure Cloud Engineer](https://www.adzuna.com/details/5787922404?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Cumming, Forsyth County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [OCI Cloud Engineer](https://www.adzuna.com/details/5787847776?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Holy, Santa Clara County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Oracle Cloud Security Engineer](https://www.adzuna.com/details/5787823346?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Holy, Santa Clara County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Oracle Cloud Security Engineer](https://www.adzuna.com/details/5787795500?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Cumming, Forsyth County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [OCI Cloud Engineer](https://www.adzuna.com/details/5787786779?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Cumming, Forsyth County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Cloud Network Engineer](https://www.adzuna.com/details/5787670688?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Sun Lakes, Maricopa County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Azure Cloud Engineer](https://www.adzuna.com/details/5787636372?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Bolingbrook, Will County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Cloud Networking Engineer](https://www.adzuna.com/details/5787630371?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Celina, Collin County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Cloud Networking Engineer](https://www.adzuna.com/details/5787580539?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Cumming, Forsyth County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Oracle Cloud Security Engineer](https://www.adzuna.com/details/5787578879?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Bolingbrook, Will County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Oracle Cloud Integration Engineer](https://www.adzuna.com/details/5787558991?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Sun Lakes, Maricopa County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [AWS Cloud Security Engineer](https://www.adzuna.com/details/5787420144?utm_medium=api&utm_source=632a28fd)
+  - Company: System One | Tysons Corner, Fairfax County
+  - AWS Cloud Security Engineer Remote What You Will Do We are seeking an AWS Cloud Security Engineer to support a large-sca...
+
+- [Cloud Monitoring Engineer (Remote)](https://www.adzuna.com/details/5787197877?utm_medium=api&utm_source=632a28fd)
+  - Company: Oxley Enterprises®, Inc. | Stafford, Stafford County
+  - The following states/districts are excluded from this job ad: AK, CA, CO, CT, DC, HI, LA, MA, MN, MO, NE, NV, NH, NJ, NM...
+
+- [AWS Cloud Engineer III](https://www.adzuna.com/details/5781051594?utm_medium=api&utm_source=632a28fd)
+  - Company: BC Forward | Cincinnati, Hamilton County
+  - Job Title: AWS Cloud Engineer III Location: Metro Detroit, MI (Remote-first preference) Duration: Contract - 6 months Pa...
+
+- [Infrastructure Automation Engineer](https://www.adzuna.com/details/5787995849?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Sun Lakes, Maricopa County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [AI Infrastructure Engineer](https://www.adzuna.com/details/5787954255?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Holy, Santa Clara County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Infrastructure Storage Engineer](https://www.adzuna.com/details/5787851243?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Chandler, Maricopa County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [VMware Infrastructure Engineer](https://www.adzuna.com/details/5787850351?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Chandler, Maricopa County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [AI Infrastructure Engineer](https://www.adzuna.com/details/5787629633?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Cumming, Forsyth County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787627408?se=mpEWE6538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=C104AF43A24D7D9E8B08778987BB252A7EFDC9B8)
+  - Company: GovCIO | Tumwater, Thurston County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787626767?se=mpEWE6538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=0C19624ED67FE44324B2D9957665BE02C46B1B3A)
+  - Company: GovCIO | Madison, Dane County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787625578?se=mpEWE6538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=5E62146F91B61BC82A9E80AC9799A4CA91AE1138)
+  - Company: GovCIO | Bonnie, Utah County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Infrastructure Automation Engineer](https://www.adzuna.com/details/5787624175?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Holy, Santa Clara County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787590741?se=mpEWE6538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=2CFA4E3237143D1321815F99520C0EB5475C52D4)
+  - Company: GovCIO | Charleston, Kanawha County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787589842?se=mpEWE6538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=8DD391B29FAF49DAB3C9629183A20D833E19A8AE)
+  - Company: GovCIO | Montpelier, Washington County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [ML Infrastructure Engineer](https://www.adzuna.com/details/5787581154?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Chandler, Maricopa County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Infrastructure Automation Engineer](https://www.adzuna.com/details/5787576541?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Cumming, Forsyth County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Infrastructure Automation Engineer](https://www.adzuna.com/details/5787551648?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Celina, Collin County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787547301?se=mpEWE6538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=226DD437E09299909BF4DD1019FBA36C85072662)
+  - Company: GovCIO | Ny State Campus, Albany County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787542667?se=mpEWE6538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=78F649EF1DC74A994DC766BDE9BAF24F12C183E4)
+  - Company: GovCIO | Cedar, Cole County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787539212?se=mpEWE6538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=788F291CD1F1863C3F70A52372CA87DC6F4BC89F)
+  - Company: GovCIO | Trenton, Mercer County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787535572?se=mpEWE6538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=51B6CD0F48CE76B62F3A0C4ADEB243139483E04A)
+  - Company: GovCIO | Frankfort, Franklin County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787532524?se=mpEWE6538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=C367D1F927429CAFE5F65D00E3F9FEFC797F8DBD)
+  - Company: GovCIO | Jackson, Hinds County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787532002?se=mpEWE6538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=8700B1CC875F9F283CE9D276D5470A6D6D84A8B2)
+  - Company: GovCIO | Topeka, Shawnee County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787529685?se=mpEWE6538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=463B94760BD181E6363DF459575293CCF06AD7F2)
+  - Company: GovCIO | Pierre, Hughes County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787529562?se=mpEWE6538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=5618959ED1D0E02D1C14C6F41918C0110EF50D53)
+  - Company: GovCIO | Carson Mall, Carson City
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787529353?se=mpEWE6538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=71E8CB76B8A18D382195872476B703A66A0A494E)
+  - Company: GovCIO | State House, Lancaster County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787528439?se=mpEWE6538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=B35865BC58B9D6769A615410DABBD5F40EA5D613)
+  - Company: GovCIO | Concord, Merrimack County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787527909?se=mpEWE6538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=9060884A7D28DA5267216D92AA0D4B91AD2EC42A)
+  - Company: GovCIO | Providence, Providence County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787526552?se=mpEWE6538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=70697D9546A6D6A0EBC6583DE3F7E3086B79D8CF)
+  - Company: GovCIO | Grandview Heights, Franklin County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787521480?se=mpEWE6538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=449940F251E34374B727EE214D7B613DBEA39BE0)
+  - Company: GovCIO | Five Points, Wake County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787519125?se=mpEWE6538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=691FEB9AF729D5D531A945A3AB3D85B3A7CC2AAE)
+  - Company: GovCIO | Atlanta, Fulton County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787518608?se=mpEWE6538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=1E7F48DEF26BC7D30C2DD969552BC8C1BB84049E)
+  - Company: GovCIO | Boise, Ada County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787518421?se=mpEWE6538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=61D4C2FDA3FAE2638A78D1BD1747385363808997)
+  - Company: GovCIO | Wyoming, Kent County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787518350?se=mpEWE6538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=DD69CA03E326D10F7D3DC7547F881559B3527BC4)
+  - Company: GovCIO | Washington, D.C., US
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787518280?se=mpEWE6538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=67CBC5FE24E3DA3C2E98A147EEBBCBDD7B15547C)
+  - Company: GovCIO | Bismarck, Burleigh County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/details/5787517518?utm_medium=api&utm_source=632a28fd)
+  - Company: GovCIO | Douglas, Juneau
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787515836?se=mpEWE6538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=108231005B65BD7D4BD8C32743C334118D6E9650)
+  - Company: GovCIO | Archer, Laramie County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787512989?se=mpEWE6538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=C9E5FC32C0CA9F4A2D98A8DDE4D7CB3B24A8FD56)
+  - Company: GovCIO | Nashville, Davidson County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787505076?se=mpEWE6538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=A84AAD14B660A874AADD896D5F4494E2F01B4AED)
+  - Company: GovCIO | Lansing, Ingham County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787497410?se=mpEWE6538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=13FD2BB10752EA6470D8C5FA8221F99F59B949D7)
+  - Company: GovCIO | Oklahoma City, Oklahoma County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787497224?se=mpEWE6538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=D8269E3650DC3A0E9939AF4F91D3B677985F4FF7)
+  - Company: GovCIO | Glendale, Denver
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787497061?se=mpEWE6538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=AE5D4471D765DA91C8B065742C60E9F3A35AFCAB)
+  - Company: GovCIO | Boston, Suffolk County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787496160?se=mpEWE6538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=A89332886A3B1A191520C5B41EC4B6A45F0EB3E7)
+  - Company: GovCIO | Chisolm, Montgomery County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787495730?se=mpEWE6538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=3EF68692F338B176E376D19862825A2CCF534FF6)
+  - Company: GovCIO | Phoenix, Maricopa County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787495471?se=mpEWE6538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=903CDEA8F7BB81FC89AC7FA4EC0CF0DD6A71EC60)
+  - Company: GovCIO | Saint Paul, Ramsey County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787494808?se=mpEWE6538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=7CB792FD665F04324221773FEA021D0C0FD6A26C)
+  - Company: GovCIO | Cammack Village, Pulaski County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787494543?se=mpEWE6538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=9B7B357E5A4F30B614EC7B781273E1ABE85CD617)
+  - Company: GovCIO | Salem, Marion County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787494257?se=mpEWE6538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=7BB947D8CAC4F98FCFDD3682E0DC96251E05B4D6)
+  - Company: GovCIO | Talcott Village, Hartford County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787468599?se=mpEWE6538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=0D4B4DE0FDB89260F0DAA9AD5E5B456F836D05CB)
+  - Company: GovCIO | Uptown, Marion County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787449468?se=mpEWE6538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=A59AD8E84220D7374AB57F9FBDA031043DB5D54C)
+  - Company: GovCIO | Edgewood, Richland County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787448466?se=mpEWE6538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=06CF74ECB6541CFC21E135980392283F511214CB)
+  - Company: GovCIO | Des Moines, Polk County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787448144?se=mpEWE6538RG-cvvra3L-5Q&utm_medium=api&utm_source=632a28fd&v=2377A1B53B56EC8C9DBB8AF7BFF1758540C7C68A)
+  - Company: GovCIO | Helena, Lewis and Clark County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787447967?se=LqTJE6538RGw99DSBwaIyw&utm_medium=api&utm_source=632a28fd&v=C060B931CB56DE8825331F0CF6B1443B05086AFB)
+  - Company: GovCIO | Augusta, Kennebec County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787447777?se=LqTJE6538RGw99DSBwaIyw&utm_medium=api&utm_source=632a28fd&v=2F3FE9A7F47C02EAD679DD13F9186FFD8AB4E92E)
+  - Company: GovCIO | Wake Island, Honolulu
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/details/5787432870?utm_medium=api&utm_source=632a28fd)
+  - Company: GovCIO | Penbrook, Dauphin County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/details/5787416904?utm_medium=api&utm_source=632a28fd)
+  - Company: GovCIO | Tallahassee, Leon County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/details/5787411202?utm_medium=api&utm_source=632a28fd)
+  - Company: GovCIO | Capitol, Richmond
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/details/5787410611?utm_medium=api&utm_source=632a28fd)
+  - Company: GovCIO | Springfield, Sangamon County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/details/5787408347?utm_medium=api&utm_source=632a28fd)
+  - Company: GovCIO | Tarrytown, Travis County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787313368?se=LqTJE6538RGw99DSBwaIyw&utm_medium=api&utm_source=632a28fd&v=E89F550E4260798F14283391161C28516F464076)
+  - Company: GovCIO | Annapolis, Anne Arundel County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787311209?se=LqTJE6538RGw99DSBwaIyw&utm_medium=api&utm_source=632a28fd&v=A8E44A4AB6B7CEF7432CBE077E5D4E7F796E4AC7)
+  - Company: GovCIO | La Cienga, Santa Fe County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Identity and Access Management (IAM) Specialist (Remote)](https://www.adzuna.com/land/ad/5787306223?se=LqTJE6538RGw99DSBwaIyw&utm_medium=api&utm_source=632a28fd&v=7E2AFEB86D5FDBEA667F2195486457E020F27290)
+  - Company: GovCIO | Sacramento, Sacramento County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Chief Technology Officer (CTO), Work From Home - M](https://www.adzuna.com/land/ad/5787058764?se=LqTJE6538RGw99DSBwaIyw&utm_medium=api&utm_source=632a28fd&v=B729E71DCC238F76469AEC7B1A3451611302F675)
+  - Company: Next Step Systems | US
+  - Chief Technology Officer (CTO), Work From Home We are looking for a Chief Technology Officer (CTO) who can think clearly...
+
+- [DevSecOps Engineer (Remote)](https://www.adzuna.com/details/5787197883?utm_medium=api&utm_source=632a28fd)
+  - Company: Oxley Enterprises®, Inc. | Stafford, Stafford County
+  - The following states/districts are excluded from this job ad: AK, CA, CO, CT, DC, HI, LA, MA, MN, MO, NE, NV, NH, NJ, NM...
+
+- [DevOps Engineer III](https://www.adzuna.com/land/ad/5787720519?se=BF3jFa538RG-2tHAxNAnZQ&utm_medium=api&utm_source=632a28fd&v=624F69E3F477767683860D9F9FE461A94CA65DE4)
+  - Company: Pinnacle Technical Resources | Queen Anne, King County
+  - Job Title: Devops/ SRE Engineer (AI/ML) Location: Seattle, WA (Remote) Duration: 12 months Job Id: 171076 Job Descriptio...
