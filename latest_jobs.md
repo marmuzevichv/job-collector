@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-07-03 14:00 UTC
+Generated: 2026-07-04 13:21 UTC
 
-Total new jobs: 103
+Total new jobs: 112
 
 ## greenhouse
 
@@ -336,15 +336,40 @@ Total new jobs: 103
 
 ## jobicy
 
+- [Senior Data Platform Engineer](https://jobicy.com/jobs/144689-senior-data-platform-engineer)
+  - Company: 1Password
+  - Location: Canada,  USA
+  - Level/Team: Software Engineering
+
+- [Senior Platform Engineer (Network and Edge Services)](https://jobicy.com/jobs/146088-senior-platform-engineer-network-and-edge-services)
+  - Company: 1Password
+  - Location: Canada,  USA
+  - Level/Team: DevOps &amp; Infrastructure
+
 - [Customer Reliability Engineer - Infrastructure](https://jobicy.com/jobs/147812-customer-reliability-engineer-infrastructure)
   - Company: Astronomer
   - Location: USA
   - Level/Team: Technical Support
 
+- [Customer Reliability Engineer, Airflow](https://jobicy.com/jobs/147810-customer-reliability-engineer-airflow)
+  - Company: Astronomer
+  - Location: USA
+  - Level/Team: Technical Support
+
+- [MTS Site Reliability Engineer](https://jobicy.com/jobs/141982-mts-site-reliability-engineer)
+  - Company: Aviatrix
+  - Location: USA
+  - Level/Team: DevOps &amp; Infrastructure
+
 - [Software Developer Sr. - AI-Native .NET/ Azure (Cloud Platform)](https://jobicy.com/jobs/146260-software-developer-sr-ai-native-net-azure-cloud-platform)
   - Company: Dayforce
   - Location: USA
   - Level/Team: Software Engineering
+
+- [Platform Engineer](https://jobicy.com/jobs/143041-platform-engineer)
+  - Company: Defense Unicorns
+  - Location: USA
+  - Level/Team: DevOps &amp; Infrastructure
 
 - [Cloud Systems Engineer](https://jobicy.com/jobs/145638-cloud-systems-engineer)
   - Company: ECS
@@ -376,9 +401,29 @@ Total new jobs: 103
   - Location: Costa Rica
   - Level/Team: DevOps &amp; Infrastructure
 
+- [System Engineer (Linux- RedHat)](https://jobicy.com/jobs/147116-system-engineer-linux-redhat)
+  - Company: Intelerad
+  - Location: USA
+  - Level/Team: DevOps &amp; Infrastructure
+
 - [Cloud Engineer - VMWare](https://jobicy.com/jobs/143887-cloud-engineer-vmware)
   - Company: ManTech
   - Location: USA
+  - Level/Team: DevOps &amp; Infrastructure
+
+- [Site Reliability Engineer](https://jobicy.com/jobs/143894-site-reliability-engineer-2)
+  - Company: ManTech
+  - Location: USA
+  - Level/Team: DevOps &amp; Infrastructure
+
+- [Senior Site Reliability Engineer](https://jobicy.com/jobs/148108-senior-site-reliability-engineer)
+  - Company: Remote
+  - Location: EMEA
+  - Level/Team: DevOps &amp; Infrastructure
+
+- [Senior Site Reliability Engineer (Remote Build)](https://jobicy.com/jobs/146979-senior-site-reliability-engineer-remote-build)
+  - Company: Remote
+  - Location: EMEA
   - Level/Team: DevOps &amp; Infrastructure
 
 - [Infrastructure Engineer](https://jobicy.com/jobs/147331-infrastructure-engineer)

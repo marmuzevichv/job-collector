@@ -1,5 +1,35 @@
 [
   {
+    "source_type": "jobicy",
+    "company": "1Password",
+    "title": "Senior Data Platform Engineer",
+    "location": "Canada,  USA",
+    "team": "Software Engineering",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/144689-senior-data-platform-engineer",
+    "external_id": "jobicy::144689",
+    "description_snippet": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing.About 1PasswordAt 1Password, we’re building the foundation for a safe, productive digi",
+    "posted_at": "2026-06-25T04:46:44+00:00",
+    "collected_at_utc": "2026-07-04 13:21:38"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "1Password",
+    "title": "Senior Platform Engineer (Network and Edge Services)",
+    "location": "Canada,  USA",
+    "team": "DevOps &amp; Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/146088-senior-platform-engineer-network-and-edge-services",
+    "external_id": "jobicy::146088",
+    "description_snippet": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing.About 1PasswordAt 1Password, we’re building the foundation for a safe, productive digi",
+    "posted_at": "2026-06-10T18:06:48+00:00",
+    "collected_at_utc": "2026-07-04 13:21:38"
+  },
+  {
     "source_type": "greenhouse",
     "company": "airbnb",
     "title": "Audiovisual Infrastructure Engineer",
@@ -130,6 +160,36 @@
     "description_snippet": "Astronomer empowers data teams to bring mission-critical software, analytics, and AI to life and is the company behind Astro, the industry-leading unified DataOps platform powered by Apache Airflow®. Astro accelerates building reliable data products that unlock insights, unleash AI value, and powers",
     "posted_at": "2026-06-25T17:36:11+00:00",
     "collected_at_utc": "2026-07-03 14:00:04"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Astronomer",
+    "title": "Customer Reliability Engineer, Airflow",
+    "location": "USA",
+    "team": "Technical Support",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/147810-customer-reliability-engineer-airflow",
+    "external_id": "jobicy::147810",
+    "description_snippet": "Astronomer empowers data teams to bring mission-critical software, analytics, and AI to life and is the company behind Astro, the industry-leading unified DataOps platform powered by Apache Airflow®. Astro accelerates building reliable data products that unlock insights, unleash AI value, and powers",
+    "posted_at": "2026-06-25T17:36:07+00:00",
+    "collected_at_utc": "2026-07-04 13:21:38"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Aviatrix",
+    "title": "MTS Site Reliability Engineer",
+    "location": "USA",
+    "team": "DevOps &amp; Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/141982-mts-site-reliability-engineer",
+    "external_id": "jobicy::141982",
+    "description_snippet": "WHO WE ARE: For enterprises struggling to secure cloud workloads, Aviatrix® offers a single solution for pervasive cloud security. Where current cybersecurity approaches focus on securing entry points to a trusted space, Aviatrix Cloud Native Security Fabric (CNSF) delivers runtime security and enfo",
+    "posted_at": "2026-06-27T20:01:41+00:00",
+    "collected_at_utc": "2026-07-04 13:21:38"
   },
   {
     "source_type": "weworkremotely",
@@ -576,6 +636,21 @@
     "collected_at_utc": "2026-07-03 14:00:04"
   },
   {
+    "source_type": "jobicy",
+    "company": "Defense Unicorns",
+    "title": "Platform Engineer",
+    "location": "USA",
+    "team": "DevOps &amp; Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/143041-platform-engineer",
+    "external_id": "jobicy::143041",
+    "description_snippet": "EMPLOYER IS A CONTRACTOR FOR THE U.S. GOVERNMENT. THIS POSITION WILL REQUIRE AN ACTIVE SECRET CLEARANCE TO APPLY. Role DescriptionWe are seeking a talented and experienced Platform Engineer to join our team. Possessing strong proficiency with Kubernetes, the ideal candidate will play a crucial role ",
+    "posted_at": "2026-06-25T11:01:42+00:00",
+    "collected_at_utc": "2026-07-04 13:21:38"
+  },
+  {
     "source_type": "greenhouse",
     "company": "dropbox",
     "title": "Senior Client Platform Engineer, Windows",
@@ -835,6 +910,21 @@
     "collected_at_utc": "2026-07-03 14:00:04"
   },
   {
+    "source_type": "jobicy",
+    "company": "Intelerad",
+    "title": "System Engineer (Linux- RedHat)",
+    "location": "USA",
+    "team": "DevOps &amp; Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/147116-system-engineer-linux-redhat",
+    "external_id": "jobicy::147116",
+    "description_snippet": "Company DescriptionAt Intelerad, we believe the path to answers in healthcare should be clear-whether you are waiting for a diagnosis or trying to expedite one. Our medical imaging solutions streamline the flow of information, simplifying complex processes, maximizing efficiencies, and shining a lig",
+    "posted_at": "2026-06-18T04:00:55+00:00",
+    "collected_at_utc": "2026-07-04 13:21:38"
+  },
+  {
     "source_type": "weworkremotely",
     "company": "Intelmatix",
     "title": "Mid/Senior DevOps Engineer (Egypt)",
@@ -913,6 +1003,21 @@
     "description_snippet": "General information Requisition # R67728 Locations USA-Remote Work Posting Date 05/13/2026 Security Clearance Required Secret Remote Type Fully Remote Time Type Full time Description &amp; Requirements Shape the future of defense with MANTECH! Join a team dedicated to safeguarding our nation through",
     "posted_at": "2026-06-18T07:36:42+00:00",
     "collected_at_utc": "2026-07-03 14:00:04"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "ManTech",
+    "title": "Site Reliability Engineer",
+    "location": "USA",
+    "team": "DevOps &amp; Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/143894-site-reliability-engineer-2",
+    "external_id": "jobicy::143894",
+    "description_snippet": "General information Requisition # R67618 Locations USA-Remote Work Posting Date 05/14/2026 Security Clearance Required Secret Remote Type Fully Remote Time Type Full time Description &amp; Requirements Shape the future of defense with MANTECH! Join a team dedicated to safeguarding our nation through",
+    "posted_at": "2026-06-25T07:01:44+00:00",
+    "collected_at_utc": "2026-07-04 13:21:38"
   },
   {
     "source_type": "lever",
@@ -1292,6 +1397,36 @@
     "description_snippet": "Headquarters: BR URL: http://premiersoft.net Na Premiersoft, transformamos desafios em soluções reais! Com mais de uma década de atuação em desenvolvimento, somos movidos por um propósito claro: criar experiências tecnológicas que impulsionam negócios e aceleram a transformação dos nossos clientes. ",
     "posted_at": "Thu, 04 Jun 2026 16:08:56 +0000",
     "collected_at_utc": "2026-07-03 14:00:04"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Remote",
+    "title": "Senior Site Reliability Engineer",
+    "location": "EMEA",
+    "team": "DevOps &amp; Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/148108-senior-site-reliability-engineer",
+    "external_id": "jobicy::148108",
+    "description_snippet": "About Remote Remote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focused work culture, our team works ",
+    "posted_at": "2026-06-30T02:33:41+00:00",
+    "collected_at_utc": "2026-07-04 13:21:38"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Remote",
+    "title": "Senior Site Reliability Engineer (Remote Build)",
+    "location": "EMEA",
+    "team": "DevOps &amp; Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/146979-senior-site-reliability-engineer-remote-build",
+    "external_id": "jobicy::146979",
+    "description_snippet": "About Remote Remote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focused work culture, our team works ",
+    "posted_at": "2026-06-17T05:09:23+00:00",
+    "collected_at_utc": "2026-07-04 13:21:38"
   },
   {
     "source_type": "jobicy",
