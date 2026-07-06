@@ -1,217 +1,192 @@
 # Top DevOps Jobs — Ranked by AI
 
-Generated: 2026-07-05 14:04 UTC
+Generated: 2026-07-06 15:30 UTC
 Total jobs analyzed: 112
-Candidates sent to AI: 79
+Candidates sent to AI: 80
 
 ---
 
 ### [9/10] Senior SRE/DevOps Engineer — Metabase
 - Location: Global Remote
 - URL: https://jobs.lever.co/metabase/1b702919-4d0b-4085-baec-8947f9b7e4ee
-- Why: Perfect alignment with SRE/DevOps target role, global remote (US-accessible), and likely requires Kubernetes, cloud infrastructure, and monitoring expertise that matches your 6+ years experience.
+- Why: Perfect alignment with SRE/DevOps target role, remote globally (US eligible), and aligns with all core skills in cloud infrastructure, containers, and monitoring.
 
-### [9/10] Senior SRE - Networks — Fastly
-- Location: Remote
-- URL: https://www.fastly.com/about/jobs/apply?gh_jid=8045052
-- Why: Senior SRE at major infrastructure company, remote US-eligible, and edge/network infrastructure aligns with advanced Kubernetes and cloud expertise.
+### [9/10] Sr. Infrastructure / DevSecOps Systems Engineer — ECS
+- Location: USA
+- URL: https://jobicy.com/jobs/146112-sr-infrastructure-devsecops-systems-engineer
+- Why: Excellent match combining DevSecOps focus, infrastructure engineering, and US remote work with strong alignment to security certifications (FedRAMP, Vault, IAM).
 
-### [9/10] Senior Platform Engineer — MongoDB
-- Location: Remote
-- URL: https://www.mongodb.com/careers/job/?gh_jid=7924987
-- Why: Platform Engineer role at Fortune 500 database company, remote, matches target role and requires cloud/container orchestration and infrastructure as code skills.
+### [9/10] Senior Platform Engineer (Network and Edge Services) — 1Password
+- Location: Canada, USA
+- URL: https://jobicy.com/jobs/146088-senior-platform-engineer-network-and-edge-services
+- Why: Excellent platform engineer match at high-growth security company with US remote option and strong alignment to infrastructure/cloud architecture.
 
-### [9/10] Sr. DevOps Engineer — YugaByte
+### [9/10] Site Reliability / Gitops Engineer — Canonical
 - Location: Remote
-- URL: https://job-boards.greenhouse.io/yugabyte/jobs/4688005006
-- Why: Senior DevOps at database infrastructure company, remote US-eligible, requires Kubernetes expertise and cloud infrastructure skills central to your background.
-
-### [9/10] Senior Cloud Engineer - Product Metrics — ClickHouse
-- Location: Remote
-- URL: https://job-boards.greenhouse.io/clickhouse/jobs/6101325004
-- Why: Cloud infrastructure engineering at ClickHouse, remote US-eligible, likely requires Kubernetes, monitoring (Prometheus/Grafana), and cloud infrastructure skills.
-
-### [9/10] Senior Site Reliability Engineer- Remote — clickhouse
-- Location: Remote
-- URL: https://job-boards.greenhouse.io/clickhouse/jobs/5828333004
-- Why: Perfect alignment with SRE target role, remote US-eligible, ClickHouse expertise builds on strong Kubernetes/observability background.
-
-### [9/10] Senior Site Reliability Engineer- Remote — clickhouse
-- Location: Remote
-- URL: https://job-boards.greenhouse.io/clickhouse/jobs/5819755004
-- Why: Matches SRE target role exactly, remote, ClickHouse infrastructure work aligns with 6+ years of cloud/container experience.
+- URL: https://job-boards.greenhouse.io/canonical/jobs/1747487
+- Why: Excellent match combining SRE, GitOps, and infrastructure roles at Canonical with remote work and direct alignment to Argo CD/Flux expertise.
 
 ### [9/10] Senior Site Reliability Engineer- Remote — clickhouse
 - Location: Remote
 - URL: https://job-boards.greenhouse.io/clickhouse/jobs/5819757004
-- Why: SRE role at reputable database company, remote eligible, leverages extensive Kubernetes and monitoring expertise.
+- Why: Perfect alignment with SRE target role, remote US position, requires Kubernetes, monitoring, and incident response expertise that matches your 6+ years of DevOps experience.
 
 ### [9/10] Senior Site Reliability Engineer- Remote — clickhouse
 - Location: Remote
 - URL: https://job-boards.greenhouse.io/clickhouse/jobs/5819754004
-- Why: Ideal SRE match in target role, remote, builds on strong infrastructure automation and observability skills.
+- Why: Strong match for SRE target role with remote US flexibility and likely requires infrastructure automation, observability, and cloud platform skills you excel in.
 
-### [9/10] Site Reliability Engineer 3 — mongodb
+### [9/10] Senior Site Reliability Engineer- Remote — clickhouse
 - Location: Remote
-- URL: https://www.mongodb.com/careers/job/?gh_jid=7821318
-- Why: Excellent SRE match at database-focused Fortune 500, remote, requires deep infrastructure/container/observability skills candidate has.
-
-### [9/10] Senior Site Reliability Engineer, Fleet Management — mongodb
-- Location: Remote
-- URL: https://www.mongodb.com/careers/job/?gh_jid=7727873
-- Why: Strong SRE fit at MongoDB, remote, directly leverages Kubernetes, observability, and infrastructure management background.
-
-### [9/10] Site Reliability Engineer 3 — mongodb
-- Location: Remote
-- URL: https://www.mongodb.com/careers/job/?gh_jid=7821316
-- Why: Senior SRE opportunity at top-tier company, remote, perfect match for AWS/Kubernetes/monitoring and incident response skills.
-
-### [9/10] Senior Database Reliability Engineer (DBRE) — okta
-- Location: Remote
-- URL: https://www.okta.com/company/careers/opportunity/7617976?gh_jid=7617976
-- Why: Excellent specialist fit with database reliability focus, remote, leverages RDS/infrastructure expertise and observability depth.
-
-### [9/10] Senior Site Reliability Engineer — okta
-- Location: Remote
-- URL: https://www.okta.com/company/careers/opportunity/8034975?gh_jid=8034975
-- Why: Perfect SRE match at enterprise security leader, remote, directly aligns with 6+ years cloud infrastructure and DevOps background.
-
-### [9/10] Senior Site Reliability Engineer — okta
-- Location: Remote
-- URL: https://www.okta.com/company/careers/opportunity/7963271?gh_jid=7963271
-- Why: Strong SRE role at Okta, remote, matches target career path with infrastructure automation and observability expertise.
+- URL: https://job-boards.greenhouse.io/clickhouse/jobs/5828333004
+- Why: Excellent fit as Senior SRE at growing data company, remote US, requires Kubernetes, CI/CD, and infrastructure expertise central to your background.
 
 ### [9/10] Senior Site Reliability Engineer- Observability — okta
 - Location: Remote
 - URL: https://www.okta.com/company/careers/opportunity/7653045?gh_jid=7653045
-- Why: Perfect fit combining SRE role with observability specialization, remote, leverages extensive Prometheus/Grafana/Datadog background.
+- Why: Perfect fit combining SRE with observability focus, remote US, directly leverages your Prometheus, Grafana, Datadog, and monitoring expertise.
 
-### [8/10] DevOps Engineer (contract) — Covent IT
+### [8/10] Sr. DevOps Engineer — YugabyteDB
 - Location: Remote
-- URL: https://weworkremotely.com/remote-jobs/covent-it-devops-engineer-contract
-- Why: Direct DevOps Engineer role, remote flexibility, and outsourcing work aligns with automation and infrastructure skills; contract nature is acceptable.
-
-### [8/10] Platform Engineer — Defense Unicorns
-- Location: USA
-- URL: https://jobicy.com/jobs/143041-platform-engineer
-- Why: Platform Engineer in USA, likely government contractor work involving Kubernetes and infrastructure; requires active TS/SCI clearance which you may qualify for.
-
-### [8/10] Senior Cloud Engineer — ClickHouse
-- Location: Remote
-- URL: https://job-boards.greenhouse.io/clickhouse/jobs/5994726004
-- Why: Cloud infrastructure engineering at analytics database company, remote-eligible, likely requires Kubernetes, Terraform, and cloud operations expertise.
+- URL: https://job-boards.greenhouse.io/yugabyte/jobs/4688005006
+- Why: Excellent match for senior DevOps role at reputable database infrastructure company with remote USA eligibility and infrastructure-heavy focus.
 
 ### [8/10] Cloud Database Infrastructure Engineer — ClickHouse
 - Location: Remote
 - URL: https://job-boards.greenhouse.io/clickhouse/jobs/5778617004
-- Why: Infrastructure engineering role at ClickHouse, remote, involves Kubernetes and cloud infrastructure management aligned with your DevOps/Platform skills.
+- Why: Strong infrastructure and cloud engineering alignment with Kubernetes/container expertise applicable to database infrastructure operations.
+
+### [8/10] Cloud Infrastructure Engineer (Kineto) — JetBrains
+- Location: Remote
+- URL: https://job-boards.eu.greenhouse.io/jetbrains/jobs/4777558101
+- Why: Cloud infrastructure focus with remote work matches DevOps/infrastructure engineer target and leverages AWS/Kubernetes/IaC expertise.
+
+### [8/10] MTS Site Reliability Engineer — Aviatrix
+- Location: USA
+- URL: https://jobicy.com/jobs/141982-mts-site-reliability-engineer
+- Why: SRE role at cloud security company with US remote eligibility aligns perfectly with target role and cloud/security expertise.
+
+### [8/10] Senior Cloud Engineer — ClickHouse
+- Location: Remote
+- URL: https://job-boards.greenhouse.io/clickhouse/jobs/5994726004
+- Why: Cloud engineer role with infrastructure focus and remote eligibility directly matches skill set in AWS/Azure/containers/IaC.
+
+### [8/10] Cloud Engineer - VMWare — ManTech
+- Location: USA
+- URL: https://jobicy.com/jobs/143887-cloud-engineer-vmware
+- Why: Cloud engineering role with US remote eligibility, though VMWare specialization is outside primary cloud platform expertise (AWS/Azure/GCP focus).
+
+### [8/10] Senior Infrastructure Engineer — Fastly
+- Location: Remote
+- URL: https://www.fastly.com/about/jobs/apply?gh_jid=8011032
+- Why: Infrastructure engineering at reputable company with remote flexibility matches platform/infrastructure engineer target and security focus.
 
 ### [8/10] Senior Infrastructure Engineer - Postgres — ClickHouse
 - Location: Remote
 - URL: https://job-boards.greenhouse.io/clickhouse/jobs/5706417004
-- Why: Infrastructure engineering role involving database systems, remote US-eligible, requires cloud infrastructure, IaC, and reliability engineering expertise.
-
-### [8/10] Sr. Infrastructure / DevSecOps Systems Engineer — ECS
-- Location: USA
-- URL: https://jobicy.com/jobs/146112-sr-infrastructure-devsecops-systems-engineer
-- Why: DevSecOps/Infrastructure role in USA, remote eligible, matches your security expertise (FedRAMP, Vault, IAM) and target DevSecOps career path.
+- Why: Infrastructure engineering with database specialization and remote work aligns with infrastructure engineer target and IaC/Kubernetes expertise.
 
 ### [8/10] Site Reliability Engineer, Cloud Cost Utilization — GitLab
 - Location: Remote
 - URL: https://job-boards.greenhouse.io/gitlab/jobs/8515080002
-- Why: SRE at DevOps-native company, remote US-eligible, requires cloud infrastructure expertise, monitoring, and cost optimization aligned with your AWS/Azure skills.
+- Why: SRE role at GitLab with remote eligibility matches target, leveraging monitoring and cloud infrastructure optimization skills.
 
-### [8/10] Senior Site Reliability / Gitops Engineer — Canonical
+### [8/10] Senior Platform Engineer, Runtime (Auth0) — Okta
 - Location: Remote
-- URL: https://job-boards.greenhouse.io/canonical/jobs/5517891
-- Why: Senior SRE with GitOps focus at Canonical, remote position, aligns with your Argo CD, Flux, and Kubernetes expertise for infrastructure as code.
+- URL: https://www.okta.com/company/careers/opportunity/7595065?gh_jid=7595065
+- Why: Platform engineer role at Okta with remote flexibility directly matches target role and infrastructure/authentication platform expertise.
 
-### [8/10] Site Reliability / Gitops Engineer — Canonical
+### [8/10] Database Reliability Engineer - Core Team — ClickHouse
 - Location: Remote
-- URL: https://job-boards.greenhouse.io/canonical/jobs/1747487
-- Why: SRE with GitOps specialization at Canonical, remote, directly matches your Argo CD and infrastructure-as-code expertise.
+- URL: https://job-boards.greenhouse.io/clickhouse/jobs/5843424004
+- Why: DRE role combining reliability engineering with infrastructure focus and remote eligibility aligns with SRE and infrastructure expertise.
 
 ### [8/10] Senior Site Reliability Engineer — Canonical
 - Location: Remote
 - URL: https://job-boards.greenhouse.io/canonical/jobs/3029798
-- Why: Senior SRE at Linux/infrastructure company, remote position, requires Kubernetes, monitoring, and cloud infrastructure management aligned with your skills.
-
-### [8/10] Database Reliability Engineer - Core Team — ClickHouse
-- Location: Remote
-- URL: https://job-boards.greenhouse.io/clickhouse/jobs/5843422004
-- Why: Infrastructure/reliability engineering at ClickHouse, remote US-eligible, requires cloud infrastructure, monitoring, and Kubernetes expertise.
-
-### [8/10] Senior Site Reliability Engineer — fivetran
-- Location: Remote
-- URL: https://www.fivetran.com/careers/job?gh_jid=7688580003
-- Why: Strong SRE fit at data infrastructure company, remote, directly matches target role and cloud/container expertise.
-
-### [8/10] Site Reliability Engineer, Environment Automation — gitlab
-- Location: Remote
-- URL: https://job-boards.greenhouse.io/gitlab/jobs/8504232002
-- Why: Excellent match for Platform Engineer/SRE roles, remote, automation focus aligns perfectly with Terraform/GitOps/CI-CD background.
-
-### [8/10] Senior Site Reliability Engineer, Tenant Services: Geo — gitlab
-- Location: Remote
-- URL: https://job-boards.greenhouse.io/gitlab/jobs/8490453002
-- Why: Strong SRE alignment at enterprise company, remote, requires infrastructure automation and Kubernetes expertise candidate possesses.
+- Why: SRE role at infrastructure software company with remote flexibility and strong alignment to container, Kubernetes, and infrastructure operations.
 
 ### [8/10] Infrastructure Engineer — Roboflow
 - Location: USA
 - URL: https://jobicy.com/jobs/147331-infrastructure-engineer
-- Why: Matches Infrastructure Engineer target role, US-based, aligns with cloud infrastructure and DevOps automation background.
+- Why: Infrastructure engineering role with US remote eligibility matches target and leverages cloud infrastructure, containers, and IaC expertise.
 
-### [8/10] Site Reliability Engineer — dropbox
+### [8/10] Senior Site Reliability Engineer- Remote — ClickHouse
 - Location: Remote
-- URL: https://jobs.dropbox.com/listing/7539814?gh_jid=7539814
-- Why: Perfect SRE target role at Fortune 100 equivalent, remote, directly matches 6+ years infrastructure and monitoring expertise.
+- URL: https://job-boards.greenhouse.io/clickhouse/jobs/5819755004
+- Why: Senior SRE at ClickHouse with remote work perfect match for target role with infrastructure/monitoring/Kubernetes operational focus.
 
-### [8/10] Site Reliability Engineer — dropbox
+### [8/10] Site Reliability Engineer, Environment Automation — gitlab
 - Location: Remote
-- URL: https://jobs.dropbox.com/listing/7539817?gh_jid=7539817
-- Why: SRE role at tier-1 tech company, remote, aligns with Kubernetes/AWS/observability core competencies.
+- URL: https://job-boards.greenhouse.io/gitlab/jobs/8504232002
+- Why: Excellent match for SRE/DevOps role at GitLab, remote US, directly aligns with your Terraform, Ansible, CI/CD pipeline, and environment automation expertise.
 
-### [8/10] Senior Platform/Site Reliability Engineer — Lemon.io
+### [8/10] Senior Site Reliability Engineer, Tenant Services: Geo — gitlab
 - Location: Remote
-- URL: https://weworkremotely.com/remote-jobs/lemon-io-senior-platform-site-reliability-engineer
-- Why: Matches both Platform Engineer and SRE target roles, remote, aligns with infrastructure automation and cloud expertise.
+- URL: https://job-boards.greenhouse.io/gitlab/jobs/8490453002
+- Why: Strong senior-level SRE opportunity at GitLab, remote US, requires infrastructure scaling and multi-region management skills matching your AWS/Kubernetes expertise.
+
+### [8/10] Site Reliability Engineer 3 — mongodb
+- Location: Remote
+- URL: https://www.mongodb.com/careers/job/?gh_jid=7821318
+- Why: Senior SRE role at top database company, remote US, requires Kubernetes, cloud infrastructure, and observability skills you have demonstrated.
+
+### [8/10] Senior Site Reliability Engineer, Fleet Management — mongodb
+- Location: Remote
+- URL: https://www.mongodb.com/careers/job/?gh_jid=7727873
+- Why: Perfect SRE match at MongoDB, remote US, requires infrastructure automation, Kubernetes, and systems management aligned with your platform engineering background.
+
+### [8/10] Site Reliability Engineer 3 — mongodb
+- Location: Remote
+- URL: https://www.mongodb.com/careers/job/?gh_jid=7821316
+- Why: Senior infrastructure role at MongoDB, remote US, requires cloud platform expertise, incident response, and automation skills central to your experience.
+
+### [8/10] Senior Site Reliability Engineer — okta
+- Location: Remote
+- URL: https://www.okta.com/company/careers/opportunity/8034975?gh_jid=8034975
+- Why: Excellent senior SRE opportunity at security-focused company, remote US, requires cloud infrastructure, Kubernetes, and security practices you've applied at Fortune 100s.
+
+### [8/10] Senior Site Reliability Engineer — okta
+- Location: Remote
+- URL: https://www.okta.com/company/careers/opportunity/7963271?gh_jid=7963271
+- Why: Strong senior SRE role at Okta, remote US, requires infrastructure reliability and automation expertise matching your background.
 
 ### [8/10] Site Reliability Engineer (Hosted Infra) - Platform — elastic
 - Location: Remote
 - URL: https://jobs.elastic.co/jobs?gh_jid=7957649&gh_jid=7957649
-- Why: Excellent Platform/SRE fit at observability leader, remote, leverages extensive Prometheus/Grafana/ELK expertise.
+- Why: Excellent platform/infrastructure SRE role at Elastic, remote US, requires Kubernetes, cloud platforms, and observability tooling you master.
 
-### [8/10] Site Reliability Engineer II, tvScientific — pinterest
+### [7/10] DevOps Engineer (contract) — Covent IT
 - Location: Remote
-- URL: https://www.pinterestcareers.com/jobs/?gh_jid=7782538
-- Why: Strong SRE match at FAANG-tier company, remote, aligns with monitoring, incident response, and infrastructure automation skills.
-
-### [7/10] Site Reliability Engineer (SRE) — Bright Vision Technologies
-- Location: Remote
-- URL: https://weworkremotely.com/remote-jobs/bright-vision-technologies-site-reliability-engineer-sre
-- Why: SRE role at a software development company likely involving infrastructure automation and reliability; remote-first and matches target SRE career path.
+- URL: https://weworkremotely.com/remote-jobs/covent-it-devops-engineer-contract
+- Why: Direct DevOps match with automation focus and remote work, though contract role and limited job details reduce fit slightly.
 
 ### [7/10] SRE Operations Engineer — Okta
 - Location: Remote
 - URL: https://www.okta.com/company/careers/opportunity/8003315?gh_jid=8003315
-- Why: SRE Operations at identity/security company, remote US position, requires monitoring, incident response, and cloud infrastructure expertise.
-
-### [7/10] MTS Site Reliability Engineer — Aviatrix
-- Location: USA
-- URL: https://jobicy.com/jobs/141982-mts-site-reliability-engineer
-- Why: SRE at cloud security company, USA remote position, likely involves Kubernetes and cloud infrastructure management relevant to your background.
-
-### [7/10] Customer Reliability Engineer - Infrastructure — Astronomer
-- Location: USA
-- URL: https://jobicy.com/jobs/147812-customer-reliability-engineer-infrastructure
-- Why: Infrastructure/reliability engineering in USA for Apache Airflow platform company, involves Kubernetes and cloud infrastructure customer-facing support.
+- Why: SRE role at major security company with remote eligibility matches target role, though ops-focused nature may be less platform-engineering-heavy.
 
 ### [7/10] Site Reliability Engineer — Canonical
 - Location: Remote
 - URL: https://job-boards.greenhouse.io/canonical/jobs/4468036
-- Why: SRE at Canonical, remote position, involves infrastructure reliability and likely Kubernetes/container orchestration matching your background.
+- Why: SRE role with remote eligibility at infrastructure software leader, though Ubuntu/Linux specialization may be narrower than full DevOps scope.
 
-### [7/10] DevOps Virtual Development Engineer — HYUNDAI MOTORS
+### [7/10] Senior Site Reliability Engineer — fivetran
 - Location: Remote
-- URL: https://weworkremotely.com/remote-jobs/hyundai-motors-devops-virtual-development-engineer
-- Why: DevOps role match, remote eligible, but limited detail available; aligns with target role and containerization/CI-CD skills.
+- URL: https://www.fivetran.com/careers/job?gh_jid=7688580003
+- Why: Strong SRE target role at respected data platform company, remote US, though data pipeline focus may be slightly different from core infrastructure experience.
+
+### [7/10] Senior Database Reliability Engineer (DBRE) — okta
+- Location: Remote
+- URL: https://www.okta.com/company/careers/opportunity/7617976?gh_jid=7617976
+- Why: DBRE role at Okta, remote US, aligns with infrastructure reliability focus though database specialization is narrower than your full-stack DevOps expertise.
+
+### [7/10] Site Reliability Engineer — ManTech
+- Location: USA
+- URL: https://jobicy.com/jobs/143894-site-reliability-engineer-2
+- Why: US-based remote SRE role with security clearance requirements; matches your SRE target but clearance prerequisites and contractor environment differ from Fortune 100 background.
+
+### [6/10] Senior SRE - Networks — Fastly
+- Location: Remote
+- URL: https://www.fastly.com/about/jobs/apply?gh_jid=8045052
+- Why: Strong SRE alignment with remote flexibility, but network-specialized focus may be outside core DevOps/platform engineering strengths.
