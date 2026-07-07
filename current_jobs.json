@@ -454,6 +454,19 @@
   {
     "source_type": "greenhouse",
     "company": "clickhouse",
+    "title": "Senior Security Automation Engineer",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6105352004",
+    "external_id": "greenhouse::6105352004",
+    "description_snippet": "",
+    "posted_at": "2026-07-06T15:43:49-04:00",
+    "collected_at_utc": "2026-07-07 14:29:52"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "clickhouse",
     "title": "Senior Site Reliability Engineer- Remote",
     "location": "",
     "team": "",
@@ -567,6 +580,19 @@
     "description_snippet": "",
     "posted_at": "2026-03-27T09:46:40-04:00",
     "collected_at_utc": "2026-07-06 15:28:47"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "cloudflare",
+    "title": "Customer Reliability Engineer",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8029976?gh_jid=8029976",
+    "external_id": "greenhouse::8029976",
+    "description_snippet": "",
+    "posted_at": "2026-07-07T06:54:02-04:00",
+    "collected_at_utc": "2026-07-07 14:29:52"
   },
   {
     "source_type": "greenhouse",
@@ -1470,6 +1496,19 @@
     "description_snippet": "We are seeking an experienced Senior Salesforce Administrator to support and enhance Salesforce environment. This role involves managing system configuration, ensuring smooth platform operations, and collaborating with stakeholders to deliver effective, scalable solutions. Requirements 5+ years of e",
     "posted_at": "2026-07-05T03:36:12+00:00",
     "collected_at_utc": "2026-07-06 15:28:47"
+  },
+  {
+    "source_type": "weworkremotely",
+    "company": "Vidalytics",
+    "title": "AI Automation Engineer, In-House MarTech Video SaaS",
+    "location": "Remote",
+    "team": "",
+    "categories": [],
+    "url": "https://weworkremotely.com/remote-jobs/vidalytics-ai-automation-engineer-in-house-martech-video-saas",
+    "external_id": "wwr::https://weworkremotely.com/remote-jobs/vidalytics-ai-automation-engineer-in-house-martech-video-saas",
+    "description_snippet": "Headquarters: Austin, TX URL: https://vidalytics.com If you love building AI agents, wiring systems together, and watching whole teams stop doing by hand what a machine can do better, faster, and cheaper, and you want to make a whole company AI native rather than ship a slick demo, keep reading. You",
+    "posted_at": "Tue, 07 Jul 2026 12:49:42 +0000",
+    "collected_at_utc": "2026-07-07 14:29:52"
   },
   {
     "source_type": "jobicy",

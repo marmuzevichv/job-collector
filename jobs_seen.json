@@ -670,5 +670,23 @@
     "title": "QA Automation Engineer (IntelliJ IDEA Java Build Tools)",
     "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4777935101",
     "first_seen_utc": "2026-07-06 15:28:47"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/vidalytics-ai-automation-engineer-in-house-martech-video-saas": {
+    "company": "Vidalytics",
+    "title": "AI Automation Engineer, In-House MarTech Video SaaS",
+    "url": "https://weworkremotely.com/remote-jobs/vidalytics-ai-automation-engineer-in-house-martech-video-saas",
+    "first_seen_utc": "2026-07-07 14:29:52"
+  },
+  "greenhouse::8029976": {
+    "company": "cloudflare",
+    "title": "Customer Reliability Engineer",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8029976?gh_jid=8029976",
+    "first_seen_utc": "2026-07-07 14:29:52"
+  },
+  "greenhouse::6105352004": {
+    "company": "clickhouse",
+    "title": "Senior Security Automation Engineer",
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6105352004",
+    "first_seen_utc": "2026-07-07 14:29:52"
   }
 }

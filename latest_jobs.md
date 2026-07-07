@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-07-06 15:29 UTC
+Generated: 2026-07-07 14:30 UTC
 
-Total new jobs: 112
+Total new jobs: 115
 
 ## greenhouse
 
@@ -118,6 +118,10 @@ Total new jobs: 112
   - Company: clickhouse
   - Location: Remote
 
+- [Senior Security Automation Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/6105352004)
+  - Company: clickhouse
+  - Location: Remote
+
 - [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819755004)
   - Company: clickhouse
   - Location: Remote
@@ -152,6 +156,10 @@ Total new jobs: 112
 
 - [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819674004)
   - Company: clickhouse
+  - Location: Remote
+
+- [Customer Reliability Engineer](https://boards.greenhouse.io/cloudflare/jobs/8029976?gh_jid=8029976)
+  - Company: cloudflare
   - Location: Remote
 
 - [Network Reliability Engineer](https://boards.greenhouse.io/cloudflare/jobs/7649981?gh_jid=7649981)
@@ -480,4 +488,8 @@ Total new jobs: 112
 
 - [DevOps SRE - Senior or Lead  (Remote Eligible)](https://weworkremotely.com/remote-jobs/southwest-power-pool-devops-sre-senior-or-lead-remote-eligible)
   - Company: Southwest Power Pool
+  - Location: Remote
+
+- [AI Automation Engineer, In-House MarTech Video SaaS](https://weworkremotely.com/remote-jobs/vidalytics-ai-automation-engineer-in-house-martech-video-saas)
+  - Company: Vidalytics
   - Location: Remote
