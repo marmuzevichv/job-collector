@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-07-08 14:02 UTC
+Generated: 2026-07-09 14:55 UTC
 
-Total new jobs: 110
+Total new jobs: 108
 
 ## greenhouse
 
@@ -74,7 +74,7 @@ Total new jobs: 110
   - Company: clickhouse
   - Location: Remote
 
-- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843424004)
+- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843421004)
   - Company: clickhouse
   - Location: Remote
 
@@ -82,11 +82,11 @@ Total new jobs: 110
   - Company: clickhouse
   - Location: Remote
 
-- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843423004)
+- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843424004)
   - Company: clickhouse
   - Location: Remote
 
-- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843421004)
+- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843423004)
   - Company: clickhouse
   - Location: Remote
 
@@ -98,11 +98,11 @@ Total new jobs: 110
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Cloud Engineer - Product Metrics](https://job-boards.greenhouse.io/clickhouse/jobs/6101325004)
+- [Senior Cloud Engineer - Product Metrics](https://job-boards.greenhouse.io/clickhouse/jobs/6107163004)
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Cloud Engineer - Product Metrics](https://job-boards.greenhouse.io/clickhouse/jobs/6107163004)
+- [Senior Cloud Engineer - Product Metrics](https://job-boards.greenhouse.io/clickhouse/jobs/6101325004)
   - Company: clickhouse
   - Location: Remote
 
@@ -114,11 +114,11 @@ Total new jobs: 110
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Security Automation Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/6105352004)
+- [Senior Security Automation Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/6105350004)
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Security Automation Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/6105350004)
+- [Senior Security Automation Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/6105352004)
   - Company: clickhouse
   - Location: Remote
 
@@ -126,7 +126,7 @@ Total new jobs: 110
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5828333004)
+- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819754004)
   - Company: clickhouse
   - Location: Remote
 
@@ -134,11 +134,7 @@ Total new jobs: 110
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819754004)
-  - Company: clickhouse
-  - Location: Remote
-
-- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819678004)
+- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5828333004)
   - Company: clickhouse
   - Location: Remote
 
@@ -146,11 +142,15 @@ Total new jobs: 110
   - Company: clickhouse
   - Location: Remote
 
+- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819676004)
+  - Company: clickhouse
+  - Location: Remote
+
 - [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819674004)
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819676004)
+- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819678004)
   - Company: clickhouse
   - Location: Remote
 
@@ -166,11 +166,11 @@ Total new jobs: 110
   - Company: cloudflare
   - Location: Remote
 
-- [Senior Customer Reliability Engineer](https://boards.greenhouse.io/cloudflare/jobs/8018536?gh_jid=8018536)
+- [Senior Customer Reliability Engineer](https://boards.greenhouse.io/cloudflare/jobs/8037611?gh_jid=8037611)
   - Company: cloudflare
   - Location: Remote
 
-- [Senior Customer Reliability Engineer](https://boards.greenhouse.io/cloudflare/jobs/8037611?gh_jid=8037611)
+- [Senior Customer Reliability Engineer](https://boards.greenhouse.io/cloudflare/jobs/8018536?gh_jid=8018536)
   - Company: cloudflare
   - Location: Remote
 
@@ -180,6 +180,10 @@ Total new jobs: 110
 
 - [Senior Client Platform Engineer, Windows](https://jobs.dropbox.com/listing/8017512?gh_jid=8017512)
   - Company: dropbox
+  - Location: Remote
+
+- [Platform Engineer - Kubernetes](https://jobs.elastic.co/jobs?gh_jid=8047349&gh_jid=8047349)
+  - Company: elastic
   - Location: Remote
 
 - [Site Reliability Engineer (Hosted Infra) - Platform](https://jobs.elastic.co/jobs?gh_jid=7957649&gh_jid=7957649)
@@ -202,11 +206,11 @@ Total new jobs: 110
   - Company: gitlab
   - Location: Remote
 
-- [Cloud Infrastructure Engineer (Kineto)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4777558101)
+- [Build Infrastructure Engineer (JetBrains IDEs)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4696977101)
   - Company: jetbrains
   - Location: Remote
 
-- [Developer Experience Lead (JetBrains Cloud Platform)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4822652101)
+- [Cloud Infrastructure Engineer (Kineto)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4777558101)
   - Company: jetbrains
   - Location: Remote
 
@@ -214,15 +218,15 @@ Total new jobs: 110
   - Company: jetbrains
   - Location: Remote
 
+- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=8025824)
+  - Company: mongodb
+  - Location: Remote
+
 - [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=7453323)
   - Company: mongodb
   - Location: Remote
 
 - [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=8025827)
-  - Company: mongodb
-  - Location: Remote
-
-- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=8025824)
   - Company: mongodb
   - Location: Remote
 
@@ -250,11 +254,11 @@ Total new jobs: 110
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7793634)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7793634)
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
   - Company: mongodb
   - Location: Remote
 
@@ -262,11 +266,11 @@ Total new jobs: 110
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7821318)
+- [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7821316)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7821316)
+- [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7821318)
   - Company: mongodb
   - Location: Remote
 
@@ -282,11 +286,11 @@ Total new jobs: 110
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/7963271?gh_jid=7963271)
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8034975?gh_jid=8034975)
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8034975?gh_jid=8034975)
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/7963271?gh_jid=7963271)
   - Company: okta
   - Location: Remote
 
@@ -398,11 +402,6 @@ Total new jobs: 110
   - Location: USA
   - Level/Team: DevOps &amp; Infrastructure
 
-- [Site Reliability Engineer](https://jobicy.com/jobs/143894-site-reliability-engineer-2)
-  - Company: ManTech
-  - Location: USA
-  - Level/Team: DevOps &amp; Infrastructure
-
 - [Senior Site Reliability Engineer](https://jobicy.com/jobs/148108-senior-site-reliability-engineer)
   - Company: Remote
   - Location: EMEA
@@ -435,14 +434,15 @@ Total new jobs: 110
   - Location: Global Remote
   - Level/Team: Engineering
 
+- [Azure DevOps Engineer](https://jobs.lever.co/sonatype/85cfea61-4f64-4b41-baf7-726b42f043a5)
+  - Company: sonatype
+  - Location: US - Remote
+  - Level/Team: Engineering - Application Platform
+
 ## weworkremotely
 
 - [Site Reliability Engineer (SRE)](https://weworkremotely.com/remote-jobs/bright-vision-technologies-site-reliability-engineer-sre)
   - Company: Bright Vision Technologies
-  - Location: Remote
-
-- [DevOps Engineer (contract)](https://weworkremotely.com/remote-jobs/covent-it-devops-engineer-contract)
-  - Company: Covent IT
   - Location: Remote
 
 - [IT - Infrastructure Systems - DevOps Engineer II (Remote in CA only)](https://weworkremotely.com/remote-jobs/golden-1-credit-union-it-infrastructure-systems-devops-engineer-ii-remote-in-ca)
@@ -455,14 +455,6 @@ Total new jobs: 110
 
 - [Mid/Senior DevOps Engineer (Egypt)](https://weworkremotely.com/remote-jobs/intelmatix-mid-senior-devops-engineer-egypt)
   - Company: Intelmatix
-  - Location: Remote
-
-- [Senior Platform/Site Reliability Engineer](https://weworkremotely.com/remote-jobs/lemon-io-senior-platform-site-reliability-engineer)
-  - Company: Lemon.io
-  - Location: Remote
-
-- [DevOps e Platform Sênior| Remoto](https://weworkremotely.com/remote-jobs/premiersoft-devops-e-platform-senior-remoto)
-  - Company: Premiersoft
   - Location: Remote
 
 - [DevOps SRE - Senior or Lead  (Remote Eligible)](https://weworkremotely.com/remote-jobs/southwest-power-pool-devops-sre-senior-or-lead-remote-eligible)
