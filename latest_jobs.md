@@ -1,6 +1,6 @@
 # New jobs
 
-Generated: 2026-07-11 13:15 UTC
+Generated: 2026-07-12 13:16 UTC
 
 Total new jobs: 101
 
@@ -222,11 +222,11 @@ Total new jobs: 101
   - Company: mongodb
   - Location: Remote
 
-- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=8025824)
+- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=7453323)
   - Company: mongodb
   - Location: Remote
 
-- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=7453323)
+- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=8025824)
   - Company: mongodb
   - Location: Remote
 
@@ -238,11 +238,11 @@ Total new jobs: 101
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff)](https://www.mongodb.com/careers/job/?gh_jid=7727910)
+- [Site Reliability Engineer (Senior or Staff)](https://www.mongodb.com/careers/job/?gh_jid=7727913)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff)](https://www.mongodb.com/careers/job/?gh_jid=7727913)
+- [Site Reliability Engineer (Senior or Staff)](https://www.mongodb.com/careers/job/?gh_jid=7727910)
   - Company: mongodb
   - Location: Remote
 
