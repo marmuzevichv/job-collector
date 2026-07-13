@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-07-12 13:16 UTC
+Generated: 2026-07-13 14:30 UTC
 
-Total new jobs: 101
+Total new jobs: 102
 
 ## greenhouse
 
@@ -106,11 +106,11 @@ Total new jobs: 101
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Infrastructure Engineer - Postgres](https://job-boards.greenhouse.io/clickhouse/jobs/5706417004)
+- [Senior Infrastructure Engineer - Postgres](https://job-boards.greenhouse.io/clickhouse/jobs/5717944004)
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Infrastructure Engineer - Postgres](https://job-boards.greenhouse.io/clickhouse/jobs/5717944004)
+- [Senior Infrastructure Engineer - Postgres](https://job-boards.greenhouse.io/clickhouse/jobs/5706417004)
   - Company: clickhouse
   - Location: Remote
 
@@ -126,10 +126,6 @@ Total new jobs: 101
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819757004)
-  - Company: clickhouse
-  - Location: Remote
-
 - [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5828333004)
   - Company: clickhouse
   - Location: Remote
@@ -138,11 +134,7 @@ Total new jobs: 101
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819678004)
-  - Company: clickhouse
-  - Location: Remote
-
-- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819674004)
+- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819757004)
   - Company: clickhouse
   - Location: Remote
 
@@ -150,11 +142,19 @@ Total new jobs: 101
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819679004)
+- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819678004)
   - Company: clickhouse
   - Location: Remote
 
 - [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819677004)
+  - Company: clickhouse
+  - Location: Remote
+
+- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819679004)
+  - Company: clickhouse
+  - Location: Remote
+
+- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819674004)
   - Company: clickhouse
   - Location: Remote
 
@@ -166,11 +166,11 @@ Total new jobs: 101
   - Company: cloudflare
   - Location: Remote
 
-- [Senior Customer Reliability Engineer](https://boards.greenhouse.io/cloudflare/jobs/8037611?gh_jid=8037611)
+- [Senior Customer Reliability Engineer](https://boards.greenhouse.io/cloudflare/jobs/8018536?gh_jid=8018536)
   - Company: cloudflare
   - Location: Remote
 
-- [Senior Customer Reliability Engineer](https://boards.greenhouse.io/cloudflare/jobs/8018536?gh_jid=8018536)
+- [Senior Customer Reliability Engineer](https://boards.greenhouse.io/cloudflare/jobs/8037611?gh_jid=8037611)
   - Company: cloudflare
   - Location: Remote
 
@@ -266,12 +266,16 @@ Total new jobs: 101
   - Company: mongodb
   - Location: Remote
 
+- [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7821316)
+  - Company: mongodb
+  - Location: Remote
+
 - [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7821318)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7821316)
-  - Company: mongodb
+- [DevOps Engineer - 2](https://job-boards.greenhouse.io/newrelic/jobs/5123824008)
+  - Company: newrelic
   - Location: Remote
 
 - [Senior Data Platform Engineer (Bengaluru)](https://www.okta.com/company/careers/opportunity/7648977?gh_jid=7648977)
@@ -337,6 +341,11 @@ Total new jobs: 101
   - Location: Canada,  USA
   - Level/Team: Software Engineering
 
+- [Senior Platform Engineer (Network and Edge Services)](https://jobicy.com/jobs/146088-senior-platform-engineer-network-and-edge-services)
+  - Company: 1Password
+  - Location: Canada,  USA
+  - Level/Team: DevOps &amp; Infrastructure
+
 - [Customer Reliability Engineer - Infrastructure](https://jobicy.com/jobs/147812-customer-reliability-engineer-infrastructure)
   - Company: Astronomer
   - Location: USA
@@ -351,11 +360,6 @@ Total new jobs: 101
   - Company: Aviatrix
   - Location: USA
   - Level/Team: DevOps &amp; Infrastructure
-
-- [Software Developer Sr. - AI-Native .NET/ Azure (Cloud Platform)](https://jobicy.com/jobs/146260-software-developer-sr-ai-native-net-azure-cloud-platform)
-  - Company: Dayforce
-  - Location: USA
-  - Level/Team: Software Engineering
 
 - [Platform Engineer](https://jobicy.com/jobs/143041-platform-engineer)
   - Company: Defense Unicorns
