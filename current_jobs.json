@@ -519,6 +519,32 @@
   {
     "source_type": "greenhouse",
     "company": "clickhouse",
+    "title": "Senior Site Reliability Engineer- Remote",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5819756004",
+    "external_id": "greenhouse::5819756004",
+    "description_snippet": "",
+    "posted_at": "2026-07-13T12:30:34-04:00",
+    "collected_at_utc": "2026-07-14 13:39:20"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "clickhouse",
+    "title": "Senior Site Reliability Engineer- Remote",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6114708004",
+    "external_id": "greenhouse::6114708004",
+    "description_snippet": "",
+    "posted_at": "2026-07-13T12:32:28-04:00",
+    "collected_at_utc": "2026-07-14 13:39:20"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "clickhouse",
     "title": "Senior Software Engineer - Cloud Infrastructure",
     "location": "",
     "team": "",
@@ -848,6 +874,19 @@
     "description_snippet": "",
     "posted_at": "2026-07-06T10:29:17-04:00",
     "collected_at_utc": "2026-07-13 14:30:06"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "lyft",
+    "title": "Senior Platform Engineer, Workday Extend & Integrations",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8621017002?gh_jid=8621017002",
+    "external_id": "greenhouse::8621017002",
+    "description_snippet": "",
+    "posted_at": "2026-07-13T20:50:22-04:00",
+    "collected_at_utc": "2026-07-14 13:39:20"
   },
   {
     "source_type": "jobicy",
@@ -1315,6 +1354,36 @@
     "description_snippet": "We are seeking an experienced Senior Salesforce Administrator to support and enhance Salesforce environment. This role involves managing system configuration, ensuring smooth platform operations, and collaborating with stakeholders to deliver effective, scalable solutions. Requirements 5+ years of e",
     "posted_at": "2026-07-05T03:36:12+00:00",
     "collected_at_utc": "2026-07-13 14:30:06"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "University of Colorado",
+    "title": "Lead Cloud Platform & Dev Ops Engineer",
+    "location": "USA",
+    "team": "DevOps &amp; Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/149238-lead-cloud-platform-dev-ops-engineer",
+    "external_id": "jobicy::149238",
+    "description_snippet": "Lead Cloud Platform &amp; Dev Ops Engineer - 40286 University Staff Description Join Our Team and Make a Difference in Higher Education! At the System Administration office at the University of Colorado, we are dedicated to building a workplace where everyone feels valued, supported, and empowered t",
+    "posted_at": "2026-07-13T14:25:56+00:00",
+    "collected_at_utc": "2026-07-14 13:39:20"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "University of Colorado Anschutz Medical Campus",
+    "title": "Lead Cloud Platform & Dev Ops Engineer",
+    "location": "USA",
+    "team": "DevOps &amp; Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/149240-lead-cloud-platform-dev-ops-engineer-2",
+    "external_id": "jobicy::149240",
+    "description_snippet": "Lead Cloud Platform &amp; Dev Ops Engineer(Job Number: 40286)Description Join Our Team and Make a Difference in Higher Education! At the System Administration office at the University of Colorado, we are dedicated to building a workplace where everyone feels valued, supported, and empowered to thriv",
+    "posted_at": "2026-07-13T14:25:59+00:00",
+    "collected_at_utc": "2026-07-14 13:39:20"
   },
   {
     "source_type": "weworkremotely",

@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-07-13 14:30 UTC
+Generated: 2026-07-14 13:39 UTC
 
-Total new jobs: 102
+Total new jobs: 107
 
 ## greenhouse
 
@@ -138,6 +138,14 @@ Total new jobs: 102
   - Company: clickhouse
   - Location: Remote
 
+- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819756004)
+  - Company: clickhouse
+  - Location: Remote
+
+- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/6114708004)
+  - Company: clickhouse
+  - Location: Remote
+
 - [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819676004)
   - Company: clickhouse
   - Location: Remote
@@ -216,6 +224,10 @@ Total new jobs: 102
 
 - [QA Automation Engineer (IntelliJ IDEA Java Build Tools)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4777935101)
   - Company: jetbrains
+  - Location: Remote
+
+- [Senior Platform Engineer, Workday Extend & Integrations](https://app.careerpuck.com/job-board/lyft/job/8621017002?gh_jid=8621017002)
+  - Company: lyft
   - Location: Remote
 
 - [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=8025827)
@@ -404,6 +416,16 @@ Total new jobs: 102
 - [Senior Salesforce Administrator](https://jobicy.com/jobs/148732-senior-salesforce-administrator)
   - Company: Trinetix
   - Location: Argentina
+  - Level/Team: DevOps &amp; Infrastructure
+
+- [Lead Cloud Platform & Dev Ops Engineer](https://jobicy.com/jobs/149238-lead-cloud-platform-dev-ops-engineer)
+  - Company: University of Colorado
+  - Location: USA
+  - Level/Team: DevOps &amp; Infrastructure
+
+- [Lead Cloud Platform & Dev Ops Engineer](https://jobicy.com/jobs/149240-lead-cloud-platform-dev-ops-engineer-2)
+  - Company: University of Colorado Anschutz Medical Campus
+  - Location: USA
   - Level/Team: DevOps &amp; Infrastructure
 
 - [Project Coordinator, IT Infrastructure](https://jobicy.com/jobs/147042-project-coordinator-it-infrastructure)
