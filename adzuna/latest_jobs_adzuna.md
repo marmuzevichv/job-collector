@@ -1,7 +1,7 @@
 # Jobs via Adzuna API
 
-Generated: 2026-07-13 14:43 UTC
-Total jobs (24h window): 566
+Generated: 2026-07-14 13:52 UTC
+Total jobs (24h window): 607
 
 - [Senior Devops Engineer](https://www.adzuna.com/details/5798671342?utm_medium=api&utm_source=632a28fd)
   - Company: Bright Vision Technologies | Richardson, Dallas
@@ -2266,3 +2266,167 @@ Total jobs (24h window): 566
 - [Sr. Software Engineer](https://www.adzuna.com/details/5665460172?utm_medium=api&utm_source=632a28fd)
   - Company: Suse Rgs | Reston, Fairfax County
   - Senior Software Engineer (Go & Kubernetes Expertise) Location: Remote COMPANY DESCRIPTION Rancher Government Solutions (...
+
+- [OCI DevOps Engineer with Security Clearance](https://www.adzuna.com/land/ad/5799446887?se=oNGTR4t_8RGVr5lViAw0kA&utm_medium=api&utm_source=632a28fd&v=E0A9B7C8610E8E2C3618C4F1CBA21E9B92285413)
+  - Company: Leidos | Herndon, Fairfax County
+  - R-00187233 Description The Leidos Partnership for Defense Health is seeking an OCI DevOps Engineer to work remotely in s...
+
+- [Senior DevOps Engineer - Remote USA with Security Clearance](https://www.adzuna.com/land/ad/5799446375?se=oNGTR4t_8RGVr5lViAw0kA&utm_medium=api&utm_source=632a28fd&v=A076881CE541C60685B2CCE9AEED88DF66257186)
+  - Company: ICF Consulting Group, Inc. | Reston, Fairfax County
+  - Description The Company ICF is a mission-driven company filled with people who care deeply about improving the lives of ...
+
+- [Senior AWS DevOps Engineer](https://www.adzuna.com/details/5799336464?utm_medium=api&utm_source=632a28fd)
+  - Company: System One | Tysons Corner, Fairfax County
+  - Senior AWS DevOps Engineer 100% Remote U.S. citizenship or Green Card holder status and the ability to obtain a Public T...
+
+- [DevOps/Automation Engineer](https://www.adzuna.com/land/ad/5799241215?se=oNGTR4t_8RGVr5lViAw0kA&utm_medium=api&utm_source=632a28fd&v=4DF4241609126796F00B77F668736F30ACD16873)
+  - Company: AVA Consulting | US
+  - AVA Consulting is seeking a DevOps/Automation Engineer Location: Remote - US U.S. Citizens and those authorized to work ...
+
+- [Senior Cloud/DevOps Engineer / Remote](https://www.adzuna.com/land/ad/5799130102?se=oNGTR4t_8RGVr5lViAw0kA&utm_medium=api&utm_source=632a28fd&v=8BE06BFD75D09804AAA31E50FC09F4112A835463)
+  - Company: Apetan Consulting | Five Corners, Hudson County
+  - Job Title: Senior Cloud/DevOps Engineer / Remote Job Summary: We are seeking a Senior Cloud/DevOps Engineer to design, i...
+
+- [DevOps Engineer with an active TS/SCI with a Full Scope Polygraph Security Clearance Required, Onsite in Annapolis Junction, MD - R](https://www.adzuna.com/land/ad/5799032119?se=oNGTR4t_8RGVr5lViAw0kA&utm_medium=api&utm_source=632a28fd&v=7B1BB0F151450024A9CCC8469054B2FCDEA2D162)
+  - Company: Next Step Systems | Maryland, Anne Arundel County
+  - DevOps Engineer with an active TS/SCI with a Full Scope Polygraph Security Clearance Required, Onsite in Annapolis Junct...
+
+- [DevOps Engineer with Security Clearance](https://www.adzuna.com/land/ad/5786338036?se=ds0vSIt_8RGkYaPgtI4p1Q&utm_medium=api&utm_source=632a28fd&v=893056CF641DE5DA80078E8D476DAB71218EAFF1)
+  - Company: Leidos | Bethesda, Montgomery County
+  - R-00186666 Description Leidos has an exciting opening for you, our next TS/SCI cleared DevOps Software Engineer working ...
+
+- [DevOps Engineer with Security Clearance](https://www.adzuna.com/land/ad/5786336903?se=ds0vSIt_8RGkYaPgtI4p1Q&utm_medium=api&utm_source=632a28fd&v=17C7FC7F4A56FF71C342FF34A57A1892522A632D)
+  - Company: Leidos | Bethesda, Montgomery County
+  - R-00186614 Description Leidos has an exciting opening for you, our next TS/SCI cleared DevOps Software Engineer working ...
+
+- [Azure DevOps Engineer / Terraform (Remote)](https://www.adzuna.com/land/ad/5785019833?se=ds0vSIt_8RGkYaPgtI4p1Q&utm_medium=api&utm_source=632a28fd&v=0B8FB4532490473B18AF53CCD00BB1261548503A)
+  - Company: Govcio LLC | US
+  - Overview: GovCIO is seeking an experienced Azure DevOps Engineer to support the Department of Veterans Affairs (VA) Data...
+
+- [Site Reliability Engineer (SRE)](https://www.adzuna.com/details/5799387433?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [AI/ML Engineer With Site Reliability Engineer -Focus) - Remote project](https://www.adzuna.com/land/ad/5784382555?se=cISCSYt_8RGtWJIaWYUNjQ&utm_medium=api&utm_source=632a28fd&v=4ACBB2335A72EABEBBC7F6DA2FC90C061C4E98B1)
+  - Company: ConnectedX, Inc. | US
+  - Need only Permanent Residence with 13 years of experience. Job Title: AI/ML Engineer with Site Reliability Engineering e...
+
+- [100 % Remote - SRE Site Reliability Engineer - Data Visualization - Senior Observability Engineer Telemetry & Tooling](https://www.adzuna.com/land/ad/5683252701?se=TgNXSot_8RGkYaPgtI4p1Q&utm_medium=api&utm_source=632a28fd&v=8F23BCFD5720292355D4D94EFD9B73FA47881543)
+  - Company: GRT Corporation | US
+  - 100 % Remote Work from Home SRE Site Reliability Engineer - Data Visualization - Senior Observability Engineer – Telemet...
+
+- [OpenShift Platform Engineer](https://www.adzuna.com/details/5799531518?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [AWS Cloud Platform Engineer](https://www.adzuna.com/details/5799336555?utm_medium=api&utm_source=632a28fd)
+  - Company: System One | Tysons Corner, Fairfax County
+  - AWS Cloud Platform Engineer 100% remote Security Clearance: U.S. citizenship or Green Card status is required, along wit...
+
+- [100% Remote Contract role of SAP Business Technology Platform (BTP) Quality Engineer](https://www.adzuna.com/land/ad/5799156254?se=Lk1US4t_8RGtWJIaWYUNjQ&utm_medium=api&utm_source=632a28fd&v=FAF051B9E068F9856F03C1D61015658CB028B12E)
+  - Company: Intone Networks Inc. | Five Corners, Hudson County
+  - Position: SAP Business Technology Platform (BTP) Quality Engineer Location: 100% Remote Duration: 12Months Contract Job ...
+
+- [Azure Data Engineer AI & Data Platform](https://www.adzuna.com/land/ad/5799153316?se=Lk1US4t_8RGtWJIaWYUNjQ&utm_medium=api&utm_source=632a28fd&v=B1AE0E321AD823C8A3F4938B771FD46602CC191A)
+  - Company: UniqueHire Consulting LLC | US
+  - Role: Azure Data Engineer AI & Data Platform Location: USA (Remote EST OR CST) Role Summary We are seeking an experience...
+
+- [Container Platform Engineer](https://www.adzuna.com/details/5799069474?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Gilbert, Maricopa County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Google Cloud Platform Cloud Engineer||Remote CO Local Only|| Must have Linkedin and 11 years of exp.||](https://www.adzuna.com/land/ad/5798988185?se=Lk1US4t_8RGtWJIaWYUNjQ&utm_medium=api&utm_source=632a28fd&v=F6A5DD40FDF2650E7CD6678AFD7BF920CA193EBD)
+  - Company: Nestortechnologies Inc | US
+  - Google Cloud Platform Cloud Engineer Remote CO Local Only Must have Linkedin and 11 years of exp. Position Overview The ...
+
+- [Platform Delivery & Reliability Engineer (Remote) - 29337 with Security Clearance](https://www.adzuna.com/land/ad/5798988088?se=Lk1US4t_8RGtWJIaWYUNjQ&utm_medium=api&utm_source=632a28fd&v=20F4F8ED108B939159678E562F5225359071DD9A)
+  - Company: Enlighten, an HII - Mission Technologies Company | Stratmoor Hills, El Paso County
+  - Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with ...
+
+- [Google Cloud Platform Cloud Engineer :: Denver, CO (Local - Remote)](https://www.adzuna.com/land/ad/5798986774?se=Lk1US4t_8RGtWJIaWYUNjQ&utm_medium=api&utm_source=632a28fd&v=818659EBFCC3CCFDDB6577333A0E1E827677DF01)
+  - Company: Apidel Technologies | US
+  - Position: Google Cloud Platform Cloud Engineer Location: Denver, CO (Local - Remote) Duration: 6 months of contract Empl...
+
+- [Cloud Engineer (Google Cloud Platform)](https://www.adzuna.com/land/ad/5798898893?se=Lk1US4t_8RGtWJIaWYUNjQ&utm_medium=api&utm_source=632a28fd&v=A93C85085DF9E40E358E4BA2593529C291EF064D)
+  - Company: AIT Global, Inc. | US
+  - Job Title: Cloud Engineer (Google Cloud Platform) Location: Remote Principal Engineer (Cloud DevOps): Configure and depl...
+
+- [Google Cloud Platform Cloud Engineer - Colorado - Remote - Locals only](https://www.adzuna.com/land/ad/5798895481?se=Lk1US4t_8RGtWJIaWYUNjQ&utm_medium=api&utm_source=632a28fd&v=0F78380B2F3398FBBB40A7F1AC6EB4DDB301462F)
+  - Company: SriLakshmiTech | US
+  - Role: Google Cloud Platform Cloud Engineer Location: Denver, Colorado - Remote - Locals only Position Overview The Googl...
+
+- [L3 Cloudera Public Cloud Platform Engineer](https://www.adzuna.com/land/ad/5798894962?se=Lk1US4t_8RGtWJIaWYUNjQ&utm_medium=api&utm_source=632a28fd&v=0B99D82FB1E56BCBD7E2EEFED96BDBDC87E8110E)
+  - Company: Technogen, Inc. | Plano, Collin County
+  - TECHNOGEN, Inc. is a Proven Leader in providing full IT Services, Software Development and Solutions for 15 years. TECHN...
+
+- [Cloud Engineer (Google Cloud Platform)](https://www.adzuna.com/land/ad/5796386598?se=Lk1US4t_8RGtWJIaWYUNjQ&utm_medium=api&utm_source=632a28fd&v=7192D87BD0CB04D9A7EAEA2243545A8EEFE07B9D)
+  - Company: Judge Group, Inc. | Glendale, Denver
+  - Location: Denver, CO Salary: $50.00 USD Hourly - $55.00 USD Hourly Description: ONLY W2 Job Title: Google Cloud Platform...
+
+- [Azure Cloud Engineer](https://www.adzuna.com/details/5799387316?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [AWS Cloud Security Engineer](https://www.adzuna.com/details/5799336490?utm_medium=api&utm_source=632a28fd)
+  - Company: System One | Tysons Corner, Fairfax County
+  - AWS Cloud Security Engineer Remote What You Will Do We are seeking an AWS Cloud Security Engineer to support a large-sca...
+
+- [GCP Cloud Engineer](https://www.adzuna.com/details/5799329898?utm_medium=api&utm_source=632a28fd)
+  - Company: TekCommands Inc | Denver, Colorado
+  - GCP Cloud Engineer Denver, CO (Locals only - Remote) 06 Months Contract GCP Cloud Engineer accelerates project delivery ...
+
+- [GCP Cloud Engineer](https://www.adzuna.com/details/5799329662?utm_medium=api&utm_source=632a28fd)
+  - Company: Talent Portus | Colorado, US
+  - Job Title: GCP Cloud Engineer Location: Denver, CO - Remote Local only Visa : CITIZEN,GREEN CARD,GC EAD,H4 EAD Duration:...
+
+- [GCP Cloud Engineer](https://www.adzuna.com/details/5799327415?utm_medium=api&utm_source=632a28fd)
+  - Company: VGroup Inc | Glendale, Denver
+  - For more details, please connect with Rishabh Pandey at rishabhp@vgroupinc.com or call at 609-205-4070. Direct End Clien...
+
+- [Cloud Engineer](https://www.adzuna.com/land/ad/5799245731?se=wjMUTYt_8RGVr5lViAw0kA&utm_medium=api&utm_source=632a28fd&v=76EC3633FA564F7BFAF8945F1FE02DD6A45572E1)
+  - Company: Apex Systems | Glendale, Denver
+  - Job: 3042064 Job Description: Title: Cloud Engineer Location: Remote (Candidates must be located in Colorado) Descriptio...
+
+- [Oracle Cloud Integration Engineer](https://www.adzuna.com/details/5799069503?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Gilbert, Maricopa County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [AWS Cloud Engineer](https://www.adzuna.com/details/5798795137?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Jersey City, Hudson County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Azure Cloud Engineer](https://www.adzuna.com/details/5798795138?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Jersey City, Hudson County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [AI Infrastructure Engineer](https://www.adzuna.com/details/5799387308?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [VMware Infrastructure Engineer](https://www.adzuna.com/details/5799237271?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Gilbert, Maricopa County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Senior MECM Windows Infrastructure Engineer (17595)](https://www.adzuna.com/land/ad/5799156309?se=mpC1Tot_8RGVr5lViAw0kA&utm_medium=api&utm_source=632a28fd&v=C19433354EA5C7FD17D2EFB1C3352E249F7C7E81)
+  - Company: Baer | US
+  - Baer is looking for Senior MECM Windows Infrastructure Engineer for a 4 month remote project. Title: Senior MECM Windows...
+
+- [Infrastructure ​​​​​​​Storage Engineer](https://www.adzuna.com/details/5799069483?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Gilbert, Maricopa County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [ML Infrastructure Engineer](https://www.adzuna.com/details/5799069504?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Gilbert, Maricopa County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Cyber Virtualization Engineer with Security Clearance](https://www.adzuna.com/land/ad/5744274966?se=xAhoT4t_8RGkYaPgtI4p1Q&utm_medium=api&utm_source=632a28fd&v=88B483789E2749DA188A62E1B06C233E0398BA30)
+  - Company: IDS International | Crystal, Arlington County
+  - « Back to Jobs IDS International Virtual Infrastructure Engineer – Advanced Cyber Training Environments 525 - Remote - C...
+
+- [Role: Azure | On Premises Infrastructure | DevSecOps | Portfolio/Project Management](https://www.adzuna.com/details/5799329229?utm_medium=api&utm_source=632a28fd)
+  - Company: Tror AI for everyone | US
+  - Job Role: Technical Project & Portfolio Manager (Azure Infrastructure/DevSecOps) Job Location: Remote Job Type: Contract...
+
+- [12 Yrs Remote - Kubernetes Engineer - Google Cloud](https://www.adzuna.com/land/ad/5798987374?se=qFBIUot_8RGyL6cIuP5hKg&utm_medium=api&utm_source=632a28fd&v=DCC4B291E5D32601A4AD3EB3019CEAABE569AC50)
+  - Company: GRT Corporation | US
+  - Kubernetes Engineer Position Summary The Kubernetes Engineer is a specialist responsible for the design, deployment, and...
