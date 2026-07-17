@@ -1,7 +1,7 @@
 # Jobs via Adzuna API
 
-Generated: 2026-07-16 14:02 UTC
-Total jobs (24h window): 583
+Generated: 2026-07-17 13:46 UTC
+Total jobs (24h window): 645
 
 - [Senior DevOps Engineer (US REMOTE)](https://www.adzuna.com/details/5802809760?utm_medium=api&utm_source=632a28fd)
   - Company: Motorola Solutions | Waltham, Middlesex County
@@ -2334,3 +2334,251 @@ Total jobs (24h window): 583
 - [Sr. Software Engineer](https://www.adzuna.com/details/5665460172?utm_medium=api&utm_source=632a28fd)
   - Company: Suse Rgs | Reston, Fairfax County
   - Senior Software Engineer (Go & Kubernetes Expertise) Location: Remote COMPANY DESCRIPTION Rancher Government Solutions (...
+
+- [DevOps Engineer/Release Management Engineer- JCC2-JCO](https://www.adzuna.com/details/5804845071?utm_medium=api&utm_source=632a28fd)
+  - Company: Semper Valens Solutions | Security Services, Bexar County
+  - DevOps Engineer/Release Management Engineer Full Time Remote Top Secret/SCI Clearance This position is contingent upon c...
+
+- [Senior Devops Engineer](https://www.adzuna.com/details/5804648517?utm_medium=api&utm_source=632a28fd)
+  - Company: ARK Solutions, Inc. | Reston, Fairfax County
+  - Job Description Job Title: Senior DevOps Engineer \n Location: Remote \n \n Experience: 7–10 Years \n Job Summary \n We ...
+
+- [DevOps Engineer/Release Management Engineer with Security Clearance](https://www.adzuna.com/land/ad/5804464027?se=QB0u2OWB8RGz5LVwW_NkZg&utm_medium=api&utm_source=632a28fd&v=6470E4B1D7A00825BA6CA9AA2AD5FA309FA66043)
+  - Company: Semper Valens Solutions, Inc. | Security Services, Bexar County
+  - DevOps Engineer/Release Management Engineer Full Time Remote Top Secret/SCI Clearance This position is contingent upon c...
+
+- [DevOps & SRE Engineer](https://www.adzuna.com/details/5804279163?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Morrisville, Wake County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [OCI DevOps Engineer](https://www.adzuna.com/details/5804069933?utm_medium=api&utm_source=632a28fd)
+  - Company: Leidos | Reston, Fairfax County
+  - Description The Leidos Partnership for Defense Health is seeking an OCI DevOps Engineer to work remotely in support of i...
+
+- [DevOps Engineer](https://www.adzuna.com/details/5804048431?utm_medium=api&utm_source=632a28fd)
+  - Company: Staffxpert LLC | US
+  - a { text-decoration: none; color: 464feb; } tr th, tr td { border: 1px solid e6e6e6; } tr th { background-color: f5f5f5;...
+
+- [Senior Devops Engineer](https://www.adzuna.com/details/5803616831?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Richardson, Dallas
+  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
+
+- [Site Reliability Engineer](https://www.adzuna.com/land/ad/5803999235?se=cPAo2uWB8RGLCoQScBqyXA&utm_medium=api&utm_source=632a28fd&v=4B5C0A5B0E1B75486F9A2FE6655213E5E4EB1262)
+  - Company: Amtex System Inc. | US
+  - Amtex Systems Inc is an information technology and talent solutions company offering talent and BI consulting to the com...
+
+- [Lead Site Reliability Engineer Observability](https://www.adzuna.com/land/ad/5803567407?se=cPAo2uWB8RGLCoQScBqyXA&utm_medium=api&utm_source=632a28fd&v=F24F38322D00F971285AB7BC60A29C0B7B9C755D)
+  - Company: Info Way Solutions | US
+  - Lead Site Reliability Engineer Observability (US Remote) Location Remote United States About the Role Join our Observabi...
+
+- [Site Reliability Engineer (SRE)](https://www.adzuna.com/details/5800158954?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Jersey City, Hudson County
+  - Site Reliability Engineer (SRE) - Remote Bright Vision Technologies is a technology consulting and software development ...
+
+- [AI Platform Engineer](https://www.adzuna.com/details/5804844721?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Sandy Plains, Fulton County
+  - AI Platform Engineer - Remote Bright Vision Technologies is a technology consulting and software development company del...
+
+- [Data Platform Engineer](https://www.adzuna.com/details/5804820168?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Gramercy Park and Murray Hill, Manhattan
+  - Data Platform Engineer – Remote Bright Vision Technologies is a technology consulting and software development company d...
+
+- [Kafka Platform Engineer](https://www.adzuna.com/details/5804477853?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Sandy Plains, Fulton County
+  - Kafka Platform Engineer – Remote Bright Vision Technologies is a technology consulting and software development company ...
+
+- [SAP HANA Platform Engineer](https://www.adzuna.com/details/5804472244?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Morrisville, Wake County
+  - SAP HANA Platform Engineer – Remote Bright Vision Technologies is a technology consulting and software development compa...
+
+- [Senior Software Engineer II - Confluent Cloud Platform (Remote)](https://www.adzuna.com/land/ad/5804458044?se=plti3OWB8RGGGcECsGruSQ&utm_medium=api&utm_source=632a28fd&v=33454D90B0C495ED7C788BB2735D55787E4BCC54)
+  - Company: IBM | Bellevue, King County
+  - Introduction At IBM Software, we transform client challenges into solutions. Building the world's leading AI-powered, cl...
+
+- [Data Platform Engineer, AI & Personalization (Remote, East Coast)](https://www.adzuna.com/land/ad/5804347748?se=plti3OWB8RGGGcECsGruSQ&utm_medium=api&utm_source=632a28fd&v=0FED5A5F4E4AB3AAE9B10F6A37968FD9AD07DBE8)
+  - Company: P3Hired | Arlington, Arlington County
+  - Job Description Job Description Position Overview Eagle Eye is an AI driven retail technology SaaS company powering pers...
+
+- [AI Platform Engineer](https://www.adzuna.com/details/5804301483?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Sandy Plains, Fulton County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Data Platform Engineer](https://www.adzuna.com/details/5804273857?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Sandy Plains, Fulton County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Senior Software Engineer II - Confluent Cloud Platform (Remote)](https://www.adzuna.com/land/ad/5804237520?se=plti3OWB8RGGGcECsGruSQ&utm_medium=api&utm_source=632a28fd&v=4A2290A1E04242B3A6A5F96C191D6C13BB2E126D)
+  - Company: IBM | Poughkeepsie, Dutchess County
+  - Introduction At IBM Software, we transform client challenges into solutions. Building the world's leading AI-powered, cl...
+
+- [Senior Software Engineer II - Confluent Cloud Platform (Remote)](https://www.adzuna.com/land/ad/5804237517?se=plti3OWB8RGGGcECsGruSQ&utm_medium=api&utm_source=632a28fd&v=4E13250DBC29F09743EBABDA2E00A1470C1A5FA7)
+  - Company: IBM | Armonk, Westchester County
+  - Introduction At IBM Software, we transform client challenges into solutions. Building the world's leading AI-powered, cl...
+
+- [Senior Software Engineer II - Confluent Cloud Platform (Remote)](https://www.adzuna.com/land/ad/5804227560?se=plti3OWB8RGGGcECsGruSQ&utm_medium=api&utm_source=632a28fd&v=E3754EF8826370B3FC818431E85EA0CD2B2CD940)
+  - Company: IBM | Atlanta, Fulton County
+  - Introduction At IBM Software, we transform client challenges into solutions. Building the world's leading AI-powered, cl...
+
+- [Senior Software Engineer II - Confluent Cloud Platform (Remote)](https://www.adzuna.com/land/ad/5804225455?se=plti3OWB8RGGGcECsGruSQ&utm_medium=api&utm_source=632a28fd&v=56A0B948A99F219759B5BC3C974F18368B7798E9)
+  - Company: IBM | Durham, Durham County
+  - Introduction At IBM Software, we transform client challenges into solutions. Building the world's leading AI-powered, cl...
+
+- [Senior Software Engineer II - Confluent Cloud Platform (Remote)](https://www.adzuna.com/land/ad/5804217194?se=plti3OWB8RGGGcECsGruSQ&utm_medium=api&utm_source=632a28fd&v=48D8179FF2EBC107D3A3ACA8ED65FDC5EFC39E2A)
+  - Company: IBM | Lowell, Middlesex County
+  - Introduction At IBM Software, we transform client challenges into solutions. Building the world's leading AI-powered, cl...
+
+- [Senior Software Engineer II - Confluent Cloud Platform (Remote)](https://www.adzuna.com/land/ad/5804217192?se=plti3OWB8RGGGcECsGruSQ&utm_medium=api&utm_source=632a28fd&v=B2A5FC6C5393D71FE93E7EEB6EA0F9D41335E83E)
+  - Company: IBM | Boston, Suffolk County
+  - Introduction At IBM Software, we transform client challenges into solutions. Building the world's leading AI-powered, cl...
+
+- [Senior Software Engineer II - Confluent Cloud Platform (Remote)](https://www.adzuna.com/land/ad/5804212820?se=plti3OWB8RGGGcECsGruSQ&utm_medium=api&utm_source=632a28fd&v=6C381B9D1E5FF4E1FA851A2592E60631CBAC070B)
+  - Company: IBM | Tucson, Pima County
+  - Introduction At IBM Software, we transform client challenges into solutions. Building the world's leading AI-powered, cl...
+
+- [Senior Software Engineer II - Confluent Cloud Platform (Remote)](https://www.adzuna.com/land/ad/5804212668?se=plti3OWB8RGGGcECsGruSQ&utm_medium=api&utm_source=632a28fd&v=D48C8646FC289D2C4D2480AF3AB3ED8225A6D291)
+  - Company: IBM | Rochester, Olmsted County
+  - Introduction At IBM Software, we transform client challenges into solutions. Building the world's leading AI-powered, cl...
+
+- [Senior Software Engineer II - Confluent Cloud Platform (Remote)](https://www.adzuna.com/details/5804066050?utm_medium=api&utm_source=632a28fd)
+  - Company: IBM | Tarrytown, Travis County
+  - Introduction At IBM Software, we transform client challenges into solutions. Building the world's leading AI-powered, cl...
+
+- [Senior Software Engineer II - Confluent Cloud Platform (Remote)](https://www.adzuna.com/details/5804066040?utm_medium=api&utm_source=632a28fd)
+  - Company: IBM | Highland Park, Dallas
+  - Introduction At IBM Software, we transform client challenges into solutions. Building the world's leading AI-powered, cl...
+
+- [Full-Stack Software Engineer, Cloud Licensing Platform](https://www.adzuna.com/details/5804051336?utm_medium=api&utm_source=632a28fd)
+  - Company: TekCommands Inc | Michigan, US
+  - Full-Stack Software Engineer, Cloud Licensing Platform REMOTE What You Will Do Design, build, test, and operate full-sta...
+
+- [Archer Engineer](https://www.adzuna.com/details/5804047084?utm_medium=api&utm_source=632a28fd)
+  - Company: Openkyber | Alaska, US
+  - Hi, Position: AI Platform Engineer Location: 100% Remote Duration: 12  Months Interview Mode: Video Must Have : Current ...
+
+- [Senior Software Engineer II - Confluent Cloud Platform (Remote)](https://www.adzuna.com/land/ad/5803983601?se=plti3OWB8RGGGcECsGruSQ&utm_medium=api&utm_source=632a28fd&v=172983131C18C091B82C0B55EAA6C3400D8BC01C)
+  - Company: IBM | Campbell, Santa Clara County
+  - Introduction At IBM Software, we transform client challenges into solutions. Building the world's leading AI-powered, cl...
+
+- [Senior Software Engineer II - Confluent Cloud Platform (Remote)](https://www.adzuna.com/land/ad/5803983602?se=plti3OWB8RGGGcECsGruSQ&utm_medium=api&utm_source=632a28fd&v=017A0BBA211DD619D2F0E65FCD4D47CE30B32A07)
+  - Company: IBM | SoMa, San Francisco
+  - Introduction At IBM Software, we transform client challenges into solutions. Building the world's leading AI-powered, cl...
+
+- [OIC Platform Engineer](https://www.adzuna.com/details/5803616467?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
+
+- [IoT Platform Engineer](https://www.adzuna.com/details/5803616310?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
+
+- [Virtual Platform Engineer](https://www.adzuna.com/details/5803517844?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Richardson, Dallas
+  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
+
+- [ML Platform Engineer](https://www.adzuna.com/details/5803517793?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - ML Platform Engineer - Remote Bright Vision Technologies is a technology consulting and software development company del...
+
+- [Azure Platform Engineer](https://www.adzuna.com/details/5803517763?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
+
+- [Google Cloud Platform Cloud Engineer](https://www.adzuna.com/land/ad/5803377200?se=plti3OWB8RGGGcECsGruSQ&utm_medium=api&utm_source=632a28fd&v=7927F1BF2D8F4E430395F7CF3EC3EA6282A4B5DE)
+  - Company: Stellar Professionals LLC | Colorado, US
+  - We Are Hiring: Google Cloud Platform Cloud Engineer (Remote / Colorado Local) We are seeking a senior Google Cloud Platf...
+
+- [[REMOTE] Senior Platform Software Engineer- Oracle Clinical Digital Assistant](https://www.adzuna.com/land/ad/5802340867?se=plti3OWB8RGGGcECsGruSQ&utm_medium=api&utm_source=632a28fd&v=FA18572CBA34EFEA8EB6CAD285A61FD7BF714527)
+  - Company: Oracle | Tumwater, Thurston County
+  - Job Description As a Senior Platform Developer, you will be a key contributor to the development and success of our next...
+
+- [[REMOTE] Senior Platform Software Engineer- Oracle Clinical Digital Assistant](https://www.adzuna.com/land/ad/5802335369?se=plti3OWB8RGGGcECsGruSQ&utm_medium=api&utm_source=632a28fd&v=10A6F3EDCF2BE849481349878F17D922FB2C6AB0)
+  - Company: Oracle | Bonnie, Utah County
+  - Job Description As a Senior Platform Developer, you will be a key contributor to the development and success of our next...
+
+- [[REMOTE] Senior Platform Software Engineer- Oracle Clinical Digital Assistant](https://www.adzuna.com/land/ad/5802287257?se=plti3OWB8RGGGcECsGruSQ&utm_medium=api&utm_source=632a28fd&v=7D890C7A02C9F8EBC1D7C6CFB64747B6840622A3)
+  - Company: Oracle | Charleston, Kanawha County
+  - Job Description As a Senior Platform Developer, you will be a key contributor to the development and success of our next...
+
+- [Cloud Connectivity Engineer](https://www.adzuna.com/details/5804737509?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Sandy Plains, Fulton County
+  - Cloud Connectivity Engineer – Remote Bright Vision Technologies is a technology consulting and software development comp...
+
+- [Cloud Infrastructure Engineer – AWS](https://www.adzuna.com/details/5804661946?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Sandy Plains, Fulton County
+  - Cloud Infrastructure Engineer – AWS – Remote Bright Vision Technologies is a technology consulting and software developm...
+
+- [Cloud Security Engineer – Oracle](https://www.adzuna.com/details/5804595893?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Sandy Plains, Fulton County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Senior Cloud Data Engineer - Remote](https://www.adzuna.com/land/ad/5804260468?se=Ejli3uWB8RGhF9E-mrgjBw&utm_medium=api&utm_source=632a28fd&v=66D804E3EADE540B287A89792810E052B4FD8E87)
+  - Company: UnitedHealth Group | Paradise, Clark County
+  - Requisition number: 2361737 Job category: Technology Optum is a global organization that delivers care, aided by technol...
+
+- [W2- Senior Cloud Infrastructure Engineer ()](https://www.adzuna.com/land/ad/5803994669?se=Ejli3uWB8RGhF9E-mrgjBw&utm_medium=api&utm_source=632a28fd&v=DA01A4A7A3EB4C1E8A0BCADA7BAE9C07C2FF3CB0)
+  - Company: Prohires | US
+  - Senior Cloud Infrastructure Engineer Remote Top Skills Required : 1. VMware 2. Kubernetes 3. AWS/Google Cloud Platform c...
+
+- [Senior Consultant VMware Cloud Foundation Automation Engineer - Full Time - W2](https://www.adzuna.com/land/ad/5803792901?se=Ejli3uWB8RGhF9E-mrgjBw&utm_medium=api&utm_source=632a28fd&v=6070067686A8EA04660B6856F090A2BFB03C4A62)
+  - Company: Pellera | US
+  - Position Title: Senior Consultant_VMware Cloud Foundation Automation Engineer Position Location: Remote in the Contiguou...
+
+- [Cloud Security Engineer with AWS](https://www.adzuna.com/land/ad/5803520026?se=Ejli3uWB8RGhF9E-mrgjBw&utm_medium=api&utm_source=632a28fd&v=018BF83F5167FC1A6A4D7A1865E2659B5F6BE0CC)
+  - Company: UniqueHire Consulting LLC | US
+  - Role : Cloud Security Engineer Location : Remote ( USA) Experience level – 8 Years Note : We need Strong experience with...
+
+- [Azure Cloud Engineer](https://www.adzuna.com/details/5803517762?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - Azure Cloud Engineer – Remote Bright Vision Technologies is a technology consulting and software development company del...
+
+- [Cloud Network Engineer](https://www.adzuna.com/details/5803517767?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - Cloud Network Engineer – Remote Bright Vision Technologies is a technology consulting and software development company d...
+
+- [AWS Cloud Engineer](https://www.adzuna.com/details/5803517760?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - AWS Cloud Engineer – Remote Bright Vision Technologies is a technology consulting and software development company deliv...
+
+- [GCP Cloud Engineer](https://www.adzuna.com/details/5796338621?utm_medium=api&utm_source=632a28fd)
+  - Company: Stellar Professionals | Glendale, Denver
+  - We Are Hiring: GCP Cloud Engineer (Remote / Colorado Local) We are seeking a senior GCP Cloud Engineer to act as the pri...
+
+- [Infrastructure Engineer – Automation](https://www.adzuna.com/details/5804820569?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Sandy Plains, Fulton County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Intelligent Infrastructure Engineer](https://www.adzuna.com/details/5804669856?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Gramercy Park and Murray Hill, Manhattan
+  - Intelligent Infrastructure Engineer – Remote Bright Vision Technologies is a technology consulting and software developm...
+
+- [AI Infrastructure Engineer](https://www.adzuna.com/details/5804285674?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Gramercy Park and Murray Hill, Manhattan
+  - AI Infrastructure Engineer- Remote Bright Vision Technologies is a technology consulting and software development compan...
+
+- [Infrastructure Automation Engineer](https://www.adzuna.com/details/5803517788?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - Infrastructure Automation Engineer - Remote Bright Vision Technologies is a technology consulting and software developme...
+
+- [AI Infrastructure Engineer](https://www.adzuna.com/details/5803517753?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - AI Infrastructure Engineer – Remote Bright Vision Technologies is a technology consulting and software development compa...
+
+- [Infrastructure SME - Infrastructure Optimization and SIAM (Remote)](https://www.adzuna.com/land/ad/5738129079?se=QvdX4eWB8RGUR_VFBhx14A&utm_medium=api&utm_source=632a28fd&v=62F3EA8B01ED5A77CB7A8E71CF003DB0DDC02B78)
+  - Company: GovCIO | Sacramento, Sacramento County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [Infrastructure SME - Infrastructure Optimization and SIAM (Remote)](https://www.adzuna.com/land/ad/5737304965?se=QvdX4eWB8RGUR_VFBhx14A&utm_medium=api&utm_source=632a28fd&v=419D11793AEDF8FB974CEDACE2E0F521CE73B944)
+  - Company: GovCIO | Madison, Dane County
+  - United States Suitability/Public Trust Fully remote IT Infrastructure & Network Engineering & Operations Overview GovCIO...
+
+- [App Developer with Security Clearance](https://www.adzuna.com/land/ad/5804466863?se=SGg_4uWB8RGUR_VFBhx14A&utm_medium=api&utm_source=632a28fd&v=B7D77DA8E257B8F2A79919689715B2033FA24842)
+  - Company: Zachary Piper Solutions, LLC | Herndon, Fairfax County
+  - Zachary Piper Solutions is seeking an App Developer to support an intelligence program. This position is fully on site i...
+
+- [Kubernetes Service Engineer](https://www.adzuna.com/details/5804647241?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Morrisville, Wake County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Kubernetes & OpenShift Engineer](https://www.adzuna.com/details/5803517801?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
