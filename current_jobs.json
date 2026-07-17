@@ -151,6 +151,19 @@
     "collected_at_utc": "2026-07-16 13:46:20"
   },
   {
+    "source_type": "weworkremotely",
+    "company": "Avalon Administrative Services",
+    "title": "DevOps Engineer III",
+    "location": "Remote",
+    "team": "",
+    "categories": [],
+    "url": "https://weworkremotely.com/remote-jobs/avalon-administrative-services-devops-engineer-iii",
+    "external_id": "wwr::https://weworkremotely.com/remote-jobs/avalon-administrative-services-devops-engineer-iii",
+    "description_snippet": "Headquarters: Remote Employee, US URL: http://avalonhcs.com About Avalon Healthcare Solutions: Avalon Healthcare Solutions is the nation’s leader in diagnostic intelligence, uniquely focused on transforming the role of diagnostic testing across the healthcare ecosystem. Our proprietary Diagnostic In",
+    "posted_at": "Thu, 16 Jul 2026 14:57:15 +0000",
+    "collected_at_utc": "2026-07-17 13:23:55"
+  },
+  {
     "source_type": "jobicy",
     "company": "Aviatrix",
     "title": "MTS Site Reliability Engineer",
@@ -281,6 +294,19 @@
     "description_snippet": "",
     "posted_at": "2026-07-15T04:14:41-04:00",
     "collected_at_utc": "2026-07-16 13:46:20"
+  },
+  {
+    "source_type": "weworkremotely",
+    "company": "Carnival Corporation",
+    "title": "Engineer Sr, DevOps",
+    "location": "Remote",
+    "team": "",
+    "categories": [],
+    "url": "https://weworkremotely.com/remote-jobs/carnival-corporation-engineer-sr-devops",
+    "external_id": "wwr::https://weworkremotely.com/remote-jobs/carnival-corporation-engineer-sr-devops",
+    "description_snippet": "Headquarters: Miami, FL, United States URL: http://carnivalcorp.com Description The Senior Engineer, DevOps is responsible for designing, implementing, automating, and supporting the organization's cloud and on-premises infrastructure, CI/CD pipelines, deployment frameworks, and operational tooling.",
+    "posted_at": "Thu, 16 Jul 2026 14:57:15 +0000",
+    "collected_at_utc": "2026-07-17 13:23:55"
   },
   {
     "source_type": "greenhouse",
@@ -837,6 +863,19 @@
     "collected_at_utc": "2026-07-16 13:46:20"
   },
   {
+    "source_type": "weworkremotely",
+    "company": "ICF",
+    "title": "Senior DevOps Engineer",
+    "location": "Remote",
+    "team": "",
+    "categories": [],
+    "url": "https://weworkremotely.com/remote-jobs/icf-senior-devops-engineer",
+    "external_id": "wwr::https://weworkremotely.com/remote-jobs/icf-senior-devops-engineer",
+    "description_snippet": "Headquarters: Nationwide Remote Office (US99) URL: http://icf.com The Company ICF is a mission-driven company filled with people who care deeply about improving the lives of others and making the world a better place. Our core values include Embracing Difference; we seek candidates who are passionat",
+    "posted_at": "Thu, 16 Jul 2026 14:57:15 +0000",
+    "collected_at_utc": "2026-07-17 13:23:55"
+  },
+  {
     "source_type": "greenhouse",
     "company": "jetbrains",
     "title": "Build Infrastructure Engineer (JetBrains IDEs)",
@@ -861,6 +900,19 @@
     "description_snippet": "",
     "posted_at": "2026-07-06T10:29:17-04:00",
     "collected_at_utc": "2026-07-16 13:46:20"
+  },
+  {
+    "source_type": "weworkremotely",
+    "company": "Launch Legends",
+    "title": "Senior DevOps Engineer (Web3)",
+    "location": "Remote",
+    "team": "",
+    "categories": [],
+    "url": "https://weworkremotely.com/remote-jobs/launch-legends-senior-devops-engineer-web3",
+    "external_id": "wwr::https://weworkremotely.com/remote-jobs/launch-legends-senior-devops-engineer-web3",
+    "description_snippet": "Headquarters: [REMOTE] URL: http://launchlegends.io Shape the Future of Blockchain—Bringing Business On-Chain We’re offering a unique opportunity to join Launch Legends (and Autheo) as a part-time Equity Cofounder . Founded nearly four years ago, Launch Legends is at the forefront of bridging Web3 b",
+    "posted_at": "Thu, 16 Jul 2026 14:57:15 +0000",
+    "collected_at_utc": "2026-07-17 13:23:55"
   },
   {
     "source_type": "greenhouse",
@@ -1127,6 +1179,44 @@
     "collected_at_utc": "2026-07-16 13:46:20"
   },
   {
+    "source_type": "remoteok",
+    "company": "NewsletterJobs.io",
+    "title": "Create Your Own Role",
+    "location": "Pittsburgh,",
+    "team": "",
+    "categories": [
+      "crypto",
+      "dev",
+      "cloud",
+      "engineer",
+      "digital nomad"
+    ],
+    "url": "https://remoteOK.com/remote-jobs/remote-create-your-own-role-newsletterjobs-io-1134897",
+    "external_id": "remoteok::1134897",
+    "description_snippet": "Who We Are ðProduct: TLDR is the largest network of tech newsletters in the world, with over 7M subscribers covering everything from startups and software engineering to AI, cybersecurity, product, and more. Every issue is written by builders in tech. Both TLDR Crypto writers both work at Coinbas",
+    "posted_at": "2026-07-16T03:01:10+00:00",
+    "collected_at_utc": "2026-07-17 13:23:55"
+  },
+  {
+    "source_type": "remoteok",
+    "company": "NewsletterJobs.io",
+    "title": "Publisher",
+    "location": "Morristown,",
+    "team": "",
+    "categories": [
+      "crypto",
+      "dev",
+      "cloud",
+      "engineer",
+      "digital nomad"
+    ],
+    "url": "https://remoteOK.com/remote-jobs/remote-publisher-newsletterjobs-io-1134898",
+    "external_id": "remoteok::1134898",
+    "description_snippet": "Company Description Best Version Media provides small businesses with a multi-platform, micro-targeted approach to reaching a valuable audience through print and digital. We are hiring publishers across the US and Canada. I am focusing my efforts on Hunterdon, Morris, Sussex, Essex and Union countie",
+    "posted_at": "2026-07-16T03:00:05+00:00",
+    "collected_at_utc": "2026-07-17 13:23:55"
+  },
+  {
     "source_type": "greenhouse",
     "company": "okta",
     "title": "Senior Data Platform Engineer (Bengaluru)",
@@ -1386,6 +1476,19 @@
     "description_snippet": "Headquarters: Austin, TX URL: https://vidalytics.com If you love building AI agents, wiring systems together, and watching whole teams stop doing by hand what a machine can do better, faster, and cheaper, and you want to make a whole company AI native rather than ship a slick demo, keep reading. You",
     "posted_at": "Tue, 07 Jul 2026 12:49:42 +0000",
     "collected_at_utc": "2026-07-16 13:46:20"
+  },
+  {
+    "source_type": "weworkremotely",
+    "company": "WME",
+    "title": "Senior DevOps Engineer, Applications",
+    "location": "Remote",
+    "team": "",
+    "categories": [],
+    "url": "https://weworkremotely.com/remote-jobs/wme-senior-devops-engineer-applications",
+    "external_id": "wwr::https://weworkremotely.com/remote-jobs/wme-senior-devops-engineer-applications",
+    "description_snippet": "Headquarters: Remote-CA URL: http://wmeagency.com WME is building the next generation of internal platforms that power one of the world's leading entertainment companies. We're looking for a Senior Dev Ops Engineer who is equally comfortable designing cloud infrastructure and improving system reliab",
+    "posted_at": "Thu, 16 Jul 2026 14:57:15 +0000",
+    "collected_at_utc": "2026-07-17 13:23:55"
   },
   {
     "source_type": "jobicy",

@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-07-16 13:46 UTC
+Generated: 2026-07-17 13:24 UTC
 
-Total new jobs: 106
+Total new jobs: 113
 
 ## greenhouse
 
@@ -421,7 +421,21 @@ Total new jobs: 106
   - Location: Global Remote
   - Level/Team: Engineering
 
+## remoteok
+
+- [Create Your Own Role](https://remoteOK.com/remote-jobs/remote-create-your-own-role-newsletterjobs-io-1134897)
+  - Company: NewsletterJobs.io
+  - Location: Pittsburgh,
+
+- [Publisher](https://remoteOK.com/remote-jobs/remote-publisher-newsletterjobs-io-1134898)
+  - Company: NewsletterJobs.io
+  - Location: Morristown,
+
 ## weworkremotely
+
+- [DevOps Engineer III](https://weworkremotely.com/remote-jobs/avalon-administrative-services-devops-engineer-iii)
+  - Company: Avalon Administrative Services
+  - Location: Remote
 
 - [Sr. DevOps Engineer](https://weworkremotely.com/remote-jobs/borrowell-sr-devops-engineer)
   - Company: Borrowell
@@ -435,12 +449,24 @@ Total new jobs: 106
   - Company: Bright Vision Technologies
   - Location: Remote
 
+- [Engineer Sr, DevOps](https://weworkremotely.com/remote-jobs/carnival-corporation-engineer-sr-devops)
+  - Company: Carnival Corporation
+  - Location: Remote
+
 - [DevOps Engineer](https://weworkremotely.com/remote-jobs/common-securitization-solutions-devops-engineer)
   - Company: Common Securitization Solutions
   - Location: Remote
 
 - [Senior DevOps Engineer](https://weworkremotely.com/remote-jobs/five9-senior-devops-engineer)
   - Company: Five9
+  - Location: Remote
+
+- [Senior DevOps Engineer](https://weworkremotely.com/remote-jobs/icf-senior-devops-engineer)
+  - Company: ICF
+  - Location: Remote
+
+- [Senior DevOps Engineer (Web3)](https://weworkremotely.com/remote-jobs/launch-legends-senior-devops-engineer-web3)
+  - Company: Launch Legends
   - Location: Remote
 
 - [Spécialiste DevOps](https://weworkremotely.com/remote-jobs/medfar-specialiste-devops)
@@ -453,4 +479,8 @@ Total new jobs: 106
 
 - [AI Automation Engineer, In-House MarTech Video SaaS](https://weworkremotely.com/remote-jobs/vidalytics-ai-automation-engineer-in-house-martech-video-saas)
   - Company: Vidalytics
+  - Location: Remote
+
+- [Senior DevOps Engineer, Applications](https://weworkremotely.com/remote-jobs/wme-senior-devops-engineer-applications)
+  - Company: WME
   - Location: Remote
