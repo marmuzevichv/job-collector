@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-07-18 13:11 UTC
+Generated: 2026-07-19 13:14 UTC
 
-Total new jobs: 106
+Total new jobs: 104
 
 ## greenhouse
 
@@ -342,16 +342,6 @@ Total new jobs: 106
 - [Senior DevOps Engineer](https://jobicy.com/jobs/144464-senior-devops-engineer-5)
   - Company: Experian
   - Location: Costa Rica
-  - Level/Team: DevOps &amp; Infrastructure
-
-- [Senior Cloud Engineer (AWS)](https://jobicy.com/jobs/144808-senior-cloud-engineer-aws)
-  - Company: Leidos
-  - Location: USA
-  - Level/Team: DevOps &amp; Infrastructure
-
-- [Cloud Engineer - VMWare](https://jobicy.com/jobs/143887-cloud-engineer-vmware)
-  - Company: ManTech
-  - Location: USA
   - Level/Team: DevOps &amp; Infrastructure
 
 - [Senior Site Reliability Engineer](https://jobicy.com/jobs/148108-senior-site-reliability-engineer)
