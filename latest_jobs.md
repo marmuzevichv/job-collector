@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-07-19 13:14 UTC
+Generated: 2026-07-20 14:03 UTC
 
-Total new jobs: 104
+Total new jobs: 103
 
 ## greenhouse
 
@@ -194,15 +194,15 @@ Total new jobs: 104
   - Company: lyft
   - Location: Remote
 
-- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=7453323)
-  - Company: mongodb
-  - Location: Remote
-
 - [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=8025827)
   - Company: mongodb
   - Location: Remote
 
 - [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=8025824)
+  - Company: mongodb
+  - Location: Remote
+
+- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=7453323)
   - Company: mongodb
   - Location: Remote
 
@@ -226,11 +226,11 @@ Total new jobs: 104
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727910)
+- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727913)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727913)
+- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727910)
   - Company: mongodb
   - Location: Remote
 
@@ -344,6 +344,11 @@ Total new jobs: 104
   - Location: Costa Rica
   - Level/Team: DevOps &amp; Infrastructure
 
+- [Cloud Engineer - VMWare](https://jobicy.com/jobs/143887-cloud-engineer-vmware)
+  - Company: ManTech
+  - Location: USA
+  - Level/Team: DevOps &amp; Infrastructure
+
 - [Senior Site Reliability Engineer](https://jobicy.com/jobs/148108-senior-site-reliability-engineer)
   - Company: Remote
   - Location: EMEA
@@ -380,16 +385,6 @@ Total new jobs: 104
   - Company: metabase
   - Location: Global Remote
   - Level/Team: Engineering
-
-## remoteok
-
-- [Create Your Own Role](https://remoteOK.com/remote-jobs/remote-create-your-own-role-newsletterjobs-io-1134897)
-  - Company: NewsletterJobs.io
-  - Location: Pittsburgh,
-
-- [Publisher](https://remoteOK.com/remote-jobs/remote-publisher-newsletterjobs-io-1134898)
-  - Company: NewsletterJobs.io
-  - Location: Morristown,
 
 ## weworkremotely
 
