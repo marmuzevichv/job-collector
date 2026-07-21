@@ -1,7 +1,7 @@
 # Jobs via Adzuna API
 
-Generated: 2026-07-20 14:14 UTC
-Total jobs (24h window): 592
+Generated: 2026-07-21 14:02 UTC
+Total jobs (24h window): 748
 
 - [DevOps Engineer](https://www.adzuna.com/details/5807132480?utm_medium=api&utm_source=632a28fd)
   - Company: SCOUT Solutions | US
@@ -2369,4 +2369,628 @@ Total jobs (24h window): 592
 
 - [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/land/ad/5714071428?se=6sFgSkWE8RGcM-ppp_7oUQ&utm_medium=api&utm_source=632a28fd&v=3FAB9DAA097C114F1CB3A6209FA2A1AF2FF0EB76)
   - Company: SitusAMC | Edgewood, Richland County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Lead Site Reliability Engineer Observability](https://www.adzuna.com/land/ad/5808702994?se=TtNpmgyF8RGVtK1qzgKbKA&utm_medium=api&utm_source=632a28fd&v=E86A0F3A4BD0BDD9573F98D460BD4A6ED6B07EA8)
+  - Company: Spiceorb | US
+  - Lead Site Reliability Engineer – Observability Location: Remote, prefer PST hours W2 Role About the Role Join our Observ...
+
+- [Workday Platform Engineer](https://www.adzuna.com/details/5809269876?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Herndon, Fairfax County
+  - Workday Platform Engineer – Remote Bright Vision Technologies is a technology consulting and software development compan...
+
+- [Software Engineer](https://www.adzuna.com/details/5809203710?utm_medium=api&utm_source=632a28fd)
+  - Company: qureos | Louisville, Jefferson County
+  - Position Overview A Remote Software Engineer designs, builds, tests, and maintains software systems while collaborating ...
+
+- [Platform Infrastructure Engineer](https://www.adzuna.com/details/5809179146?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Oak Hill, Fairfax County
+  - Platform Infrastructure Engineer – Remote Bright Vision Technologies is a technology consulting and software development...
+
+- [Data Platform Engineer](https://www.adzuna.com/details/5808830657?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Oak Hill, Fairfax County
+  - Data Platform Engineer – Remote Bright Vision Technologies is a technology consulting and software development company d...
+
+- [Platform Engineer x 2](https://www.adzuna.com/land/ad/5808801208?se=XNOMoAyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=C90616C1C6F9BE24EA3FE5CD69AC2E066CD09A02)
+  - Company: HAYS | Virginia, US
+  - Platform Engineer x 2 - Contract - Remote - $65.00 - $69.21/hr. The final salary or hourly wage, as applicable, paid to ...
+
+- [ML Platform Engineer](https://www.adzuna.com/details/5808766044?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Hoboken, Hudson County
+  - ML Platform Engineer - Remote Bright Vision Technologies is a technology consulting and software development company del...
+
+- [L2 – Cloudera Public Cloud Platform Engineer](https://www.adzuna.com/details/5808677681?utm_medium=api&utm_source=632a28fd)
+  - Company: VDart Inc | US
+  - Role: L2 Cloudera Public Cloud Platform Engineer location: Remote Type: Contract 4 6 years of experience in Big Data Pla...
+
+- [Platform Networking Engineer](https://www.adzuna.com/details/5808581817?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Richardson, Dallas
+  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
+
+- [Kafka Platform Engineer](https://www.adzuna.com/details/5808581797?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Cary, Wake County
+  - Kafka Platform Engineer – Remote Bright Vision Technologies is a technology consulting and software development company ...
+
+- [Data Platform Engineer](https://www.adzuna.com/details/5808581790?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Cary, Wake County
+  - Data Platform Engineer – Remote Bright Vision Technologies is a technology consulting and software development company d...
+
+- [OpenShift Platform Engineer](https://www.adzuna.com/details/5808581806?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Cary, Wake County
+  - OpenShift Platform Engineer – Remote Bright Vision Technologies is a technology consulting and software development comp...
+
+- [AI Platform Engineer](https://www.adzuna.com/details/5808581756?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Cary, Wake County
+  - AI Platform Engineer - Remote Bright Vision Technologies is a technology consulting and software development company del...
+
+- [Mainframe Platform Engineer](https://www.adzuna.com/land/ad/5808580574?se=XNOMoAyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=86B5261CEC71385B968CD10AFD3563301A489286)
+  - Company: Technology Ventures | US
+  - Job title: Mainframe Platform Engineer Location: Remote Job description: The Mainframe engineer s (SysProg) responsibili...
+
+- [Google Cloud Platform Cloud Engineer](https://www.adzuna.com/land/ad/5808575831?se=XNOMoAyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=29E27990B354B901AF58FB998DD81C977680CD05)
+  - Company: Kainos Innovative Solutions Inc | US
+  - Position: Cloud Engineer (Google Cloud Platform) Location: Remote Job Summary: We are seeking an experienced Cloud Engin...
+
+- [Platform Engineer](https://www.adzuna.com/land/ad/5808573773?se=XNOMoAyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=22A51E702EAB543C483D21D7318DD3DE8ED147C1)
+  - Company: Apex Systems | Fairfax, Fairfax County
+  - Job: 3042125 Job Description: Platform Engineer Location: Merrifield, Virginia (Remote) Role Overview We are looking for...
+
+- [Platform Security Engineer](https://www.adzuna.com/land/ad/5808573748?se=XNOMoAyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=A22F4DE19CD8622BF239CACAF6001224EC5BE1F5)
+  - Company: Apex Systems | Hyde Park, Hamilton County
+  - Job: 3032171 Job Description: Platform Security Engineer Location: Remote - EST Operating Hours Role Overview This posit...
+
+- [Google Cloud Platform cloud infrastructure analyst/Platform Engineer](https://www.adzuna.com/land/ad/5808524088?se=XNOMoAyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=A52C508BE3A200C6F48FFE47553B138E08A60329)
+  - Company: Next Gen IT Inc | US
+  - Google Cloud Platform cloud infrastructure analyst/Platform Engineer REMOTE Min. - 12 IT Exp NON-VISA Candidates Require...
+
+- [OpenShift Platform Engineer](https://www.adzuna.com/details/5808394380?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Skokie, Cook County
+  - OpenShift Platform Engineer – Remote Bright Vision Technologies is a technology consulting and software development comp...
+
+- [OpenShift Platform Engineer](https://www.adzuna.com/details/5808394357?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Tempe, Maricopa County
+  - Container Platform Engineer - Remote Bright Vision Technologies is a technology consulting and software development comp...
+
+- [Platform Automation Engineer](https://www.adzuna.com/details/5808394389?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Tempe, Maricopa County
+  - Platform Automation Engineer- Remote Bright Vision Technologies is a technology consulting and software development comp...
+
+- [OIC Platform Engineer](https://www.adzuna.com/details/5808394356?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Richardson, Dallas
+  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
+
+- [IoT Platform Engineer](https://www.adzuna.com/details/5808394317?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Richardson, Dallas
+  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
+
+- [Container Platform Engineer](https://www.adzuna.com/details/5808394247?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Tempe, Maricopa County
+  - Container Platform Engineer- Remote Bright Vision Technologies is a technology consulting and software development compa...
+
+- [Azure Platform Engineer](https://www.adzuna.com/details/5808394264?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Richardson, Dallas
+  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
+
+- [Senior Software Engineer (Backend / Platform) - REMOTE](https://www.adzuna.com/details/5808341269?utm_medium=api&utm_source=632a28fd)
+  - Company: Cybercoders | US
+  - Senior Software Engineer (Backend / Platform) - REMOTE Senior Software Engineer (Backend / Platform) Remote| $150K-$225K...
+
+- [Senior Platform Engineer](https://www.adzuna.com/land/ad/5808331338?se=XNOMoAyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=35678E9057360AA6B0AE4273BA92A86DEC85E1BA)
+  - Company: Catapult Solutions Group | Creve Coeur, Saint Louis County
+  - Senior Platform Engineer Location: Remote (U.S.) Role Type: Contract (6 Months) About Our Client Our client is a global ...
+
+- [ITSM Platform Engineer (Team Dynamix)](https://www.adzuna.com/land/ad/5808328202?se=XNOMoAyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=2B635BE0E97483E12AF70CE482596A11458B01EF)
+  - Company: VKore Solutions LLC | US
+  - ITSM Platform Engineer || Location – Remote || Employment type - contract Job Description: The ITSM Platform Engineer is...
+
+- [Workday Platform Engineer](https://www.adzuna.com/details/5808319988?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Herndon, Fairfax County
+  - Workday Platform Engineer – Remote Bright Vision Technologies is a technology consulting and software development compan...
+
+- [Platform Infrastructure Engineer](https://www.adzuna.com/details/5808319937?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Herndon, Fairfax County
+  - Platform Infrastructure Engineer – Remote Bright Vision Technologies is a technology consulting and software development...
+
+- [Data Platform Engineer](https://www.adzuna.com/details/5808319923?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Herndon, Fairfax County
+  - Data Platform Engineer – Remote Bright Vision Technologies is a technology consulting and software development company d...
+
+- [Cloud Network Engineer](https://www.adzuna.com/details/5808766034?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Hoboken, Hudson County
+  - Cloud Network Engineer – Remote Bright Vision Technologies is a technology consulting and software development company d...
+
+- [Senior Messaging & Cloud Integration Engineer](https://www.adzuna.com/land/ad/5808708095?se=yvL8pwyF8RGqboI3q3bdpA&utm_medium=api&utm_source=632a28fd&v=61EBACD2AF749E34D8ADD397CB47AF7786774872)
+  - Company: TalentFish LLC | US
+  - Job Title: Senior Messaging & Cloud Integration Engineer Location: Remote, Chicago IL area preferred Position: Contract,...
+
+- [Cloud IAM Engineer (AWS, Azure, GCP)](https://www.adzuna.com/details/5808687587?utm_medium=api&utm_source=632a28fd)
+  - Company: Openkyber | Alaska, US
+  - Senior Cloud Infrastructure Engineer Remote Top Skills Required : VMware Kubernetes AWS/Google Cloud Platform cloud Job ...
+
+- [Cloud Security Engineer](https://www.adzuna.com/details/5808682276?utm_medium=api&utm_source=632a28fd)
+  - Company: Akaasa Technologies | US
+  - Position: Cloud Security Engineer Location: Remote EST/CST Job Description: Lead the design and implementation of enterp...
+
+- [Cloud Security Engineer || Remote EST/CST || 6months || Video](https://www.adzuna.com/details/5808678089?utm_medium=api&utm_source=632a28fd)
+  - Company: Stellent IT LLC | US
+  - Notes: Linkedin must match Resume, or resume will not be reviewed. No altered resumes or profiles! USC, GC, GC-EAD Posit...
+
+- [Cloud Security Engineer – Oracle](https://www.adzuna.com/details/5808581776?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Cary, Wake County
+  - Cloud Security Engineer - Oracle– Remote Bright Vision Technologies is a technology consulting and software development ...
+
+- [Oracle Cloud Security Engineer](https://www.adzuna.com/details/5808581812?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Skokie, Cook County
+  - Oracle Cloud Security Engineer – Remote Bright Vision Technologies is a technology consulting and software development c...
+
+- [Oracle Cloud Engineer](https://www.adzuna.com/details/5808581802?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Cary, Wake County
+  - Oracle Cloud Engineer – Remote Bright Vision Technologies is a technology consulting and software development company de...
+
+- [Cloud Infrastructure Engineer – AWS](https://www.adzuna.com/details/5808581789?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Cary, Wake County
+  - Cloud Infrastructure Engineer – AWS – Remote Bright Vision Technologies is a technology consulting and software developm...
+
+- [Azure Cloud Engineer](https://www.adzuna.com/details/5808581780?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Hoboken, Hudson County
+  - Azure Cloud Engineer – Remote Bright Vision Technologies is a technology consulting and software development company del...
+
+- [Cloud Connectivity Engineer](https://www.adzuna.com/details/5808581765?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Cary, Wake County
+  - Cloud Connectivity Engineer – Remote Bright Vision Technologies is a technology consulting and software development comp...
+
+- [Azure Cloud Engineer](https://www.adzuna.com/details/5808581770?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Cary, Wake County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [AWS Cloud Engineer](https://www.adzuna.com/details/5808581755?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Hoboken, Hudson County
+  - AWS Cloud Engineer – Remote Bright Vision Technologies is a technology consulting and software development company deliv...
+
+- [Oracle Cloud Infrastructure Engineer](https://www.adzuna.com/details/5808394365?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Tempe, Maricopa County
+  - Oracle Cloud Infrastructure Engineer - Remote Bright Vision Technologies is a technology consulting and software develop...
+
+- [Oracle Cloud Integration Engineer](https://www.adzuna.com/details/5808394359?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Tempe, Maricopa County
+  - Oracle Cloud Integration Engineer - Remote Bright Vision Technologies is a technology consulting and software developmen...
+
+- [OCI Cloud Engineer](https://www.adzuna.com/details/5808394346?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Skokie, Cook County
+  - OCI Cloud Engineer– Remote Bright Vision Technologies is a technology consulting and software development company delive...
+
+- [Cloud Network Engineer](https://www.adzuna.com/details/5808394242?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Skokie, Cook County
+  - Cloud Network Engineer – Remote Bright Vision Technologies is a technology consulting and software development company d...
+
+- [Cloud Solutions Engineer – Azure](https://www.adzuna.com/details/5808394276?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Tempe, Maricopa County
+  - Cloud Solutions Engineer – Azure - Remote Bright Vision Technologies is a technology consulting and software development...
+
+- [Azure Cloud Engineer](https://www.adzuna.com/details/5808394279?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Skokie, Cook County
+  - Azure Cloud Engineer – Remote Bright Vision Technologies is a technology consulting and software development company del...
+
+- [Cloud Security Engineer || Remote EST/CST || 6months || Video](https://www.adzuna.com/land/ad/5808328354?se=yvL8pwyF8RGqboI3q3bdpA&utm_medium=api&utm_source=632a28fd&v=5FD9959116B8E240094BF34B7EE6EB5BAB0F4687)
+  - Company: Stellent IT LLC | US
+  - Notes: Linkedin must match Resume, or resume will not be reviewed. No altered resumes or profiles! GC-EAD Position: Clou...
+
+- [Principle Cloud Network Engineer](https://www.adzuna.com/land/ad/5808281267?se=yvL8pwyF8RGqboI3q3bdpA&utm_medium=api&utm_source=632a28fd&v=C9E3A5E58605941894C6166B105B47EA86D6540F)
+  - Company: Tekfortune Inc. | US
+  - Principle Cloud Network Engineer Direct Hire 100% Remote Cloud network engineering team started about 2 years ago Previo...
+
+- [Cloud Security Engineer | GCP | Risk Reduction](https://www.adzuna.com/land/ad/5805093550?se=yvL8pwyF8RGqboI3q3bdpA&utm_medium=api&utm_source=632a28fd&v=E08584E6B73E51C913267BEBE1859D8EDDC45ACA)
+  - Company: Dahl Consulting | US
+  - Title : Cloud Security Engineer – Risk Reduction Location : Remote Job Type : Contract (12 Months) Compensation : $67.67...
+
+- [Infrastructure Engineer - Remote](https://www.adzuna.com/details/5809269765?utm_medium=api&utm_source=632a28fd)
+  - Company: US Anesthesia Partners | Buckingham, Dallas
+  - The Infrastructure Engineer takes charge of designing, deploying, and maintaining the IT infrastructure critical to our ...
+
+- [Service Infrastructure Engineer](https://www.adzuna.com/details/5809167237?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Herndon, Fairfax County
+  - Service Infrastructure Engineer – Remote Bright Vision Technologies is a technology consulting and software development ...
+
+- [Intelligent Infrastructure Engineer](https://www.adzuna.com/details/5808995815?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Oak Hill, Fairfax County
+  - Intelligent Infrastructure Engineer – Remote Bright Vision Technologies is a technology consulting and software developm...
+
+- [Infrastructure Automation Engineer (41589)](https://www.adzuna.com/details/5808920695?utm_medium=api&utm_source=632a28fd)
+  - Company: Talent Management Plus | Chicago, Cook County
+  - Position: Infrastructure Automation Engineer (41589) Location: REMOTE Description: You will be an integral part of the J...
+
+- [AI Infrastructure Engineer](https://www.adzuna.com/details/5808913043?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Oak Hill, Fairfax County
+  - AI Infrastructure Engineer- Remote Bright Vision Technologies is a technology consulting and software development compan...
+
+- [Infrastructure DevOps Engineer (42639)](https://www.adzuna.com/details/5808830650?utm_medium=api&utm_source=632a28fd)
+  - Company: Talent Management Plus | Raleigh, Wake County
+  - Position: Infrastructure DevOps Engineer (42639) Location: Remote Description: Infrastructure/DevOps engineer to work la...
+
+- [Infrastructure Automation Engineer](https://www.adzuna.com/details/5808766043?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Hoboken, Hudson County
+  - Infrastructure Automation Engineer - Remote Bright Vision Technologies is a technology consulting and software developme...
+
+- [AI Infrastructure Engineer](https://www.adzuna.com/details/5808766031?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Hoboken, Hudson County
+  - AI Infrastructure Engineer – Remote Bright Vision Technologies is a technology consulting and software development compa...
+
+- [Infrastructure Automation Engineer](https://www.adzuna.com/details/5808581786?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Skokie, Cook County
+  - Infrastructure Automation Engineer – Remote Bright Vision Technologies is a technology consulting and software developme...
+
+- [Infrastructure Engineer – Automation](https://www.adzuna.com/details/5808581793?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Cary, Wake County
+  - Infrastructure Engineer – Automation – Remote Bright Vision Technologies is a technology consulting and software develop...
+
+- [ML Infrastructure Engineer](https://www.adzuna.com/details/5808394336?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Tempe, Maricopa County
+  - ML Infrastructure Engineer - Remote Bright Vision Technologies is a technology consulting and software development compa...
+
+- [Service Infrastructure Engineer](https://www.adzuna.com/details/5808319975?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Herndon, Fairfax County
+  - Service Infrastructure Engineer – Remote Bright Vision Technologies is a technology consulting and software development ...
+
+- [Intelligent Infrastructure Engineer](https://www.adzuna.com/details/5808319927?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Herndon, Fairfax County
+  - Intelligent Infrastructure Engineer – Remote Bright Vision Technologies is a technology consulting and software developm...
+
+- [AI Infrastructure Engineer](https://www.adzuna.com/details/5808319913?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Herndon, Fairfax County
+  - AI Infrastructure Engineer- Remote Bright Vision Technologies is a technology consulting and software development compan...
+
+- [Field Claims Investigator](https://www.adzuna.com/land/ad/5808265312?se=wt9lrwyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=F75124620FD1496A9A40427D942885E00E44B5B8)
+  - Company: Phoenix Loss Control | East Saint Louis, Saint Clair County
+  - Job Description Job Description Job Type: Contract Workplace Type: Hybrid (50% remote, 50% fieldwork) Compensation: $22/...
+
+- [DevSecOps Engineer (Remote)](https://www.adzuna.com/details/5809276417?utm_medium=api&utm_source=632a28fd)
+  - Company: A.C. Coy | Falls Church City, Virginia
+  - Tier One Technologies is seeking a DevSecOps Engineer to strengthen software development lifecycle by embedding security...
+
+- [DevSecOps Engineer](https://www.adzuna.com/land/ad/5808319399?se=CIlztwyF8RGVtK1qzgKbKA&utm_medium=api&utm_source=632a28fd&v=26A41D826408E4B00B8D029DDC99EC487F21FE74)
+  - Company: Lucid Technologies | US
+  - Job Title: DevSecOps Engineer Location: REMOTE Description: Client is seeking a DevSecOps Engineer to strengthen our sof...
+
+- [Data Engineer](https://www.adzuna.com/details/5796602638?utm_medium=api&utm_source=632a28fd)
+  - Company: INflow Federal | Arlington, Arlington County
+  - About INflow Federal - founded in 2013, INflow Federal is a mission-driven small business delivering cutting-edge soluti...
+
+- [Mid-Level DevSecOps Engineer](https://www.adzuna.com/land/ad/5796452191?se=CIlztwyF8RGVtK1qzgKbKA&utm_medium=api&utm_source=632a28fd&v=F06866486914171E9057D65F933B36B9D716FDFE)
+  - Company: Leidos | Redstone Arsenal, Madison County
+  - Description Looking for an opportunity to make an impact? At Leidos, we deliver innovative solutions through the efforts...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5795215561?utm_medium=api&utm_source=632a28fd)
+  - Company: Capstone I T | US
+  - Job Description Senior DevSecOps Engineer Location: Remote; United States Terms: 6-month W-2 contract to hire; Not open ...
+
+- [Mid-Level DevSecOps Engineer](https://www.adzuna.com/land/ad/5795031585?se=CIlztwyF8RGVtK1qzgKbKA&utm_medium=api&utm_source=632a28fd&v=84769A3DFA16F1823E4B4E15A7B14A57E08CE642)
+  - Company: Leidos | Huntsville, Madison County
+  - Looking for an opportunity to make an impact? At Leidos, we deliver innovative solutions through the efforts of our dive...
+
+- [DevSecOps Engineer](https://www.adzuna.com/details/5795025227?utm_medium=api&utm_source=632a28fd)
+  - Company: M9 Solutions | San Diego, San Diego County
+  - M9 Solutions is dedicated to providing IT services and solutions to the Federal Government by mobilizing the right peopl...
+
+- [DevSecOps Engineer](https://www.adzuna.com/land/ad/5793823176?se=CIlztwyF8RGVtK1qzgKbKA&utm_medium=api&utm_source=632a28fd&v=C844C328663BD953312AD13457C69E91B312936E)
+  - Company: M9 Solutions | San Diego, San Diego County
+  - M9 Solutions is dedicated to providing IT services and solutions to the Federal Government by mobilizing the right peopl...
+
+- [DevSecOps Engineer](https://www.adzuna.com/details/5793110536?utm_medium=api&utm_source=632a28fd)
+  - Company: Louisiana Technology Group Inc | US
+  - LATG- DEVSECOPS ENGINEER (REMOTE) Task Description: Architect, design, and implement web-based applications that require...
+
+- [Mid-Level DevSecOps Engineer with Security Clearance](https://www.adzuna.com/land/ad/5791215047?se=CIlztwyF8RGVtK1qzgKbKA&utm_medium=api&utm_source=632a28fd&v=8B30C61AE9DE13A79A21A93C45B749109569F2CE)
+  - Company: Leidos | Madison, Madison County
+  - R-00186659 Description Looking for an opportunity to make an impact? At Leidos, we deliver innovative solutions through ...
+
+- [DevSecOps Engineer (Remote)](https://www.adzuna.com/details/5787197883?utm_medium=api&utm_source=632a28fd)
+  - Company: Oxley Enterprises®, Inc. | Stafford, Stafford County
+  - The following states/districts are excluded from this job ad: AK, CA, CO, CT, DC, HI, LA, MA, MN, MO, NE, NV, NH, NJ, NM...
+
+- [DevSecOps Engineer (1467)](https://www.adzuna.com/details/5785018582?utm_medium=api&utm_source=632a28fd)
+  - Company: Zapata Technology | Augusta, Richmond County
+  - This role is contingent with a projected start date of 1 OCT 2026. Remote Position Summary: The DevSecOps Engineer is pa...
+
+- [DevSecOps Engineer](https://www.adzuna.com/details/5784153287?utm_medium=api&utm_source=632a28fd)
+  - Company: Whitespace | Alexandria, Alexandria City
+  - Position: DevSecOps Engineer Location: Remote / Alexandria, VA Clearance: Preferred US Gov Secret or above clearance (no...
+
+- [DevSecOps Engineer](https://www.adzuna.com/details/5784153305?utm_medium=api&utm_source=632a28fd)
+  - Company: Whitespace | US
+  - Position: DevSecOps Engineer Location: Remote / Alexandria, VA Clearance: Preferred US Gov Secret or above clearance (no...
+
+- [DevSecOps Specialist - Fully Remote](https://www.adzuna.com/details/5783001273?utm_medium=api&utm_source=632a28fd)
+  - Company: Mercor | New York City, New York
+  - About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Fr...
+
+- [Sr. DevSecOps Engineer (Hybrid Remote/On-site) with Security Clearance](https://www.adzuna.com/land/ad/5776452554?se=CIlztwyF8RGVtK1qzgKbKA&utm_medium=api&utm_source=632a28fd&v=AA4B9C6BF42DB998F2B85B37BABAE094C90241C9)
+  - Company: TEKsystems c/o Allegis Group | Raleigh, Wake County
+  - *x3 Days on-site each week in Raleigh, NC* Top Skills' Details Kubernetes & containers — with hands-on Helm 3 years Non-...
+
+- [DevSecOps Engineer](https://www.adzuna.com/details/5775698007?utm_medium=api&utm_source=632a28fd)
+  - Company: West 4th Strategy | Washington, D.C., US
+  - DevSecOps Engineer(REMOTE) ROLE We need an experienced DevSecOps Engineer at the U.S. Securities and Exchange Commission...
+
+- [DevSecOps Engineer](https://www.adzuna.com/details/5774194131?utm_medium=api&utm_source=632a28fd)
+  - Company: West 4th Strategy | Washington, Washington, D.C.
+  - DevSecOps Engineer(REMOTE) ROLE We need an experienced DevSecOps Engineer at the U.S. Securities and Exchange Commission...
+
+- [Senior DevSecOps / AWS Cloud Engineer](https://www.adzuna.com/details/5772906768?utm_medium=api&utm_source=632a28fd)
+  - Company: GAMA-1 Technologies | Greenbelt, Prince George's County
+  - Role summary We are seeking a remote Senior DevSecOps Engineer to own and evolve the platform — Terraform, EKS, GitLab C...
+
+- [DevSecOps Engineer](https://www.adzuna.com/details/5765798529?utm_medium=api&utm_source=632a28fd)
+  - Company: Northstrat | Sterling, Loudoun County
+  - GRVTY (Northstrat) is seeking a Senior DevSecOps Engineer IV to support and upgrade the RMT global architecture and supp...
+
+- [DevSecOps Engineer](https://www.adzuna.com/details/5762432725?utm_medium=api&utm_source=632a28fd)
+  - Company: CommIT Enterprises, Inc. | Pinehaven, Charleston County
+  - CommIT Enterprises, Inc. is seeking a DevSecOps Engineer to join the team in Charleston, SCcan also be remote! The DevSe...
+
+- [DevSecOps Engineer](https://www.adzuna.com/details/5762432724?utm_medium=api&utm_source=632a28fd)
+  - Company: CommIT Enterprises, Inc. | Pinehaven, Charleston County
+  - CommIT Enterprises, Inc. is seeking a DevSecOps Engineer to join the team in Charleston, SCcan also be remote! The DevSe...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5762156956?se=CIlztwyF8RGVtK1qzgKbKA&utm_medium=api&utm_source=632a28fd&v=1BADE81571B74BF93D45D9A4EF5C8DA361558899)
+  - Company: Maximus | Tumwater, Thurston County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5762154058?se=CIlztwyF8RGVtK1qzgKbKA&utm_medium=api&utm_source=632a28fd&v=11667176BCCC9A4A9928676E9100D2F6BC7C470E)
+  - Company: Maximus | Madison, Dane County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5762140231?se=CIlztwyF8RGVtK1qzgKbKA&utm_medium=api&utm_source=632a28fd&v=14BF6FAF43DE245A603F3302D8E74FF09A68B3CC)
+  - Company: Maximus | Bonnie, Utah County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5762067227?se=CIlztwyF8RGVtK1qzgKbKA&utm_medium=api&utm_source=632a28fd&v=FD96A7632CDD763FAF4682952B17756BC3995F59)
+  - Company: Maximus | Charleston, Kanawha County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5762060531?se=CIlztwyF8RGVtK1qzgKbKA&utm_medium=api&utm_source=632a28fd&v=1E1898C10E3F78C2017AEBDF834523E2E897717D)
+  - Company: Maximus | Montpelier, Washington County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5762058529?se=CIlztwyF8RGVtK1qzgKbKA&utm_medium=api&utm_source=632a28fd&v=259ED69AF82218CF8B62FC7B68FC8C9C5581F527)
+  - Company: Maximus | Trenton, Mercer County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5762018962?se=CIlztwyF8RGVtK1qzgKbKA&utm_medium=api&utm_source=632a28fd&v=E4DA0C3211A04CCC18088BD14DAE7CCF91F829F3)
+  - Company: Maximus | Concord, Merrimack County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5762018662?se=CIlztwyF8RGVtK1qzgKbKA&utm_medium=api&utm_source=632a28fd&v=86184AF5DBDB9A29DAE0B7DB4BD7CA9EE39FB43A)
+  - Company: Maximus | Carson Mall, Carson City
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5762018440?se=CIlztwyF8RGVtK1qzgKbKA&utm_medium=api&utm_source=632a28fd&v=DD1D6281420E378A47C09180141592A6B51640D1)
+  - Company: Maximus | State House, Lancaster County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5762016722?se=CIlztwyF8RGVtK1qzgKbKA&utm_medium=api&utm_source=632a28fd&v=E55D2522AF6D472FF3A3D8C204473CD685866691)
+  - Company: Maximus | Cedar, Cole County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5762015728?se=CIlztwyF8RGVtK1qzgKbKA&utm_medium=api&utm_source=632a28fd&v=63628CC536ACE587FF966FEE49B9C0AA67233D88)
+  - Company: Maximus | Frankfort, Franklin County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5762015497?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=0BBFE4F760A5FE9AA8C37F9FEE0C7D72F441967F)
+  - Company: Maximus | Topeka, Shawnee County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5762015215?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=7E8F8AAC49A28E62B29B68A8E1E81AAF5E4125E8)
+  - Company: Maximus | Jackson, Hinds County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5762013765?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=1D09BC1746CB0C7C4BDCCB8BEE21BBFA192F572F)
+  - Company: Maximus | Pierre, Hughes County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5762013776?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=2B7C18AB770EBF8120BB6D41B92066DBDFB97BEB)
+  - Company: Maximus | Providence, Providence County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5762005564?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=19D43E92B4EF09D9CEE2E14BB9BB846D8689E99E)
+  - Company: Maximus | Ny State Campus, Albany County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5762000638?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=D9925F5561AC3CE8485E791B539CD73DD1B222E1)
+  - Company: Maximus | Boise, Ada County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5761998688?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=FB731CAECEB4538420C57D05E0B9F1CF32993756)
+  - Company: Maximus | Washington, D.C., US
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5761998293?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=B74E3B8B588B42A365E9D1E2C06C748E336A9122)
+  - Company: Maximus | Wyoming, Kent County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5761998329?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=5BC6F51AE731C976B3658918FD77EC76B56A10FB)
+  - Company: Maximus | Bismarck, Burleigh County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/details/5761997031?utm_medium=api&utm_source=632a28fd)
+  - Company: Maximus | Douglas, Juneau
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5761996609?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=3E591849912181E254BA766373326739E92C34ED)
+  - Company: Maximus | Urbanización El Vedado, San Juan
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5761995276?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=D1CED4B1F3BCD25AB4286868775E25118A538B69)
+  - Company: Maximus | Mongmong, Mongmong-Toto-Maite
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5761994179?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=199A05EB3C068EC3AA64664D456A26F97AC04221)
+  - Company: Maximus | Archer, Laramie County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5761992296?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=DB10117CDE73FE9256194EA91B0AACAFE1999D73)
+  - Company: Maximus | Grandview Heights, Franklin County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5761989393?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=51D7EE2C21BEC8DF863A2AF0FCC5AF16D81C3A70)
+  - Company: Maximus | Atlanta, Fulton County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5761988928?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=26492541E2695EEF82C7D03A6C9492C1A723DF96)
+  - Company: Maximus | Five Points, Wake County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5761987019?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=7C679EF3674FF7ED2BA9964BC8CE9AEE65CB796D)
+  - Company: Maximus | Nashville, Davidson County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5761985594?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=DAB937D72F139DE2B012408C4CC59A70827F05B0)
+  - Company: Maximus | Lansing, Ingham County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5761985073?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=03FDDB81C7E2500D8D3EE9C4A1B556D7C26F6233)
+  - Company: Maximus | Boston, Suffolk County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5761984487?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=E7A35E0CD9FF48863E621C656A03EAA8E00B1097)
+  - Company: Maximus | Phoenix, Maricopa County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5761984388?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=BB226EC6D132F905F7B4CD8E867B98156F012B53)
+  - Company: Maximus | Glendale, Denver
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5761983399?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=097C66F128422D7495AA340CC8F6906EF10FE038)
+  - Company: Maximus | Chisolm, Montgomery County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5761982764?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=64E855635A31E92CD25833ABB9E8DD556B6D2C4F)
+  - Company: Maximus | Saint Paul, Ramsey County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5761981279?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=419D4501977EEF2F3C5CCC772DEF1E924B3BE286)
+  - Company: Maximus | Salem, Marion County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5761980739?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=E878C03EFCF4644FFA53F4A345E74CC5659AC7F5)
+  - Company: Maximus | Oklahoma City, Oklahoma County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5761980410?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=C5B2FD59C539E6EB4C1EABB2D60CA272C7634B09)
+  - Company: Maximus | Cammack Village, Pulaski County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5761980295?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=7B6BB18A3BD512CD41E81FE0C3F49F90B89C629F)
+  - Company: Maximus | Talcott Village, Hartford County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5761960478?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=079AD5893977C368E39978EDCDFD29677DC8DD41)
+  - Company: Maximus | Uptown, Marion County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5761944061?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=26B7514A29F2AE299FA7AD5597E69018A71021CC)
+  - Company: Maximus | Edgewood, Richland County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5761943590?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=87F99C3AC5EC26F1BDB1FF63D1E5379A38F29B0C)
+  - Company: Maximus | Des Moines, Polk County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5761942675?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=1DDFACEEA06DBD169923E1A019B65210A0A19291)
+  - Company: Maximus | Wake Island, Honolulu
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5761942458?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=82AC622AC4A7F7D72842D55A666E5DF89B7DE499)
+  - Company: Maximus | Augusta, Kennebec County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5761942178?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=1F50969D8E37324F6E7469DC2E0E245745F32B4D)
+  - Company: Maximus | Helena, Lewis and Clark County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/details/5761932942?utm_medium=api&utm_source=632a28fd)
+  - Company: Maximus | Penbrook, Dauphin County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/details/5761920540?utm_medium=api&utm_source=632a28fd)
+  - Company: Maximus | Tallahassee, Leon County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/details/5761918532?utm_medium=api&utm_source=632a28fd)
+  - Company: Maximus | Capitol, Richmond
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/details/5761915642?utm_medium=api&utm_source=632a28fd)
+  - Company: Maximus | Springfield, Sangamon County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/details/5761914408?utm_medium=api&utm_source=632a28fd)
+  - Company: Maximus | Tarrytown, Travis County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [DevSecOps Engineer - REMOTE](https://www.adzuna.com/land/ad/5761855643?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=27AB887A53A70615F02C48F1CF65038F6E711121)
+  - Company: NTT America, Inc. | Bethesda, Montgomery County
+  - Req ID: 376276 NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If ...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5761855466?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=D08A58BF6BB3D08C74D6839EEA0417BC632E623A)
+  - Company: Maximus | Sacramento, Sacramento County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5761855266?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=40D6AFED345CCA0CF2C24DEEF5FD541EBCE5D368)
+  - Company: Maximus | Annapolis, Anne Arundel County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5761853067?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=4F78DA85FADCF83F186973639C571D85418E7573)
+  - Company: Maximus | La Cienga, Santa Fe County
+  - Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Developer provides subject matter p...
+
+- [DevSecOps Engineer with Security Clearance](https://www.adzuna.com/land/ad/5761542904?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=EC56353F86EA775E3CF89F580797C4A2B600905A)
+  - Company: CommIT Enterprises, Inc. | Pinehaven, Charleston County
+  - Overview CommIT Enterprises, Inc. is seeking a DevSecOps Engineer to join the team in Charleston, SCcan also be remote! ...
+
+- [DevSecOps Engineer with Security Clearance](https://www.adzuna.com/land/ad/5761542912?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=D5FF94E3B39CB294B02D713778F305B6ED8579EB)
+  - Company: CommIT Enterprises, Inc. | Pinehaven, Charleston County
+  - Overview CommIT Enterprises, Inc. is seeking a DevSecOps Engineer to join the team in Charleston, SCcan also be remote! ...
+
+- [IT Prncpl - Software Eng](https://www.adzuna.com/land/ad/5760864911?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=DC13720673B02865C24BA4A9134227711508399B)
+  - Company: Maximus, Inc. | US
+  - Description & Requirements Maximus is seeking a Senior Back-End Developer to join our team! The Senior Back-End Develope...
+
+- [Sr. Infrastructure / DevSecOps Systems Engineer with Security Clearance](https://www.adzuna.com/land/ad/5758691865?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=51B8E8AB6ED0D0842985BCC92766AF7EBC506478)
+  - Company: ECS | Hampton Roads, Hampton City
+  - Job Description ECS is seeking an experienced Sr. Infrastructure / DevSecOps Systems Engineer to work remotely providing...
+
+- [Data Engineer](https://www.adzuna.com/details/5750297556?utm_medium=api&utm_source=632a28fd)
+  - Company: Nova Dine | Washington, Washington, D.C.
+  - NOVA is seeking a Data Engineer to d esign, maintain, and optimize enterprise data pipelines, ETL workflows, APIs, and A...
+
+- [Platform Engineer](https://www.adzuna.com/details/5750088706?utm_medium=api&utm_source=632a28fd)
+  - Company: EMPLOYER | US
+  - EMPLOYER IS A CONTRACTOR FOR THE U.S. GOVERNMENT. Role Description We are seeking a talented and experienced Platform En...
+
+- [AI Engineer](https://www.adzuna.com/details/5727724422?utm_medium=api&utm_source=632a28fd)
+  - Company: AvantStay | US
+  - Who we are At AvantStay we run the technology platform behind 2,700 vacation rentals across 60 destinations. We've raise...
+
+- [Azure DevOps Lead](https://www.adzuna.com/details/5808687283?utm_medium=api&utm_source=632a28fd)
+  - Company: Openkyber | Alaska, US
+  - Company Description Lumen SolutionsGroupInc. is a technology consulting Services Company based inFlorida. Weprovidea wid...
+
+- [DevOps & SRE Engineer](https://www.adzuna.com/details/5808581782?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Cary, Wake County
+  - AI Applications Engineer – Remote Bright Vision Technologies is a technology consulting and software development company...
+
+- [Kubernetes Service Engineer](https://www.adzuna.com/details/5808581796?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Cary, Wake County
+  - Kubernetes Service Engineer – Remote Bright Vision Technologies is a technology consulting and software development comp...
+
+- [Kubernetes & OpenShift Engineer](https://www.adzuna.com/details/5808394307?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Richardson, Dallas
+  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
+
+- [Sr Kubernetes Engineer](https://www.adzuna.com/land/ad/5761507587?se=rsRwxAyF8RGVtK1qzgKbKA&utm_medium=api&utm_source=632a28fd&v=E3D5A17789AC393F28BC228FAB98100E6DB6282A)
+  - Company: HAYS | Orlando, Orange County
+  - Sr. Kubernetes Engineer - Contract - Remote - $65.00 - $78.00/hr. The final salary or hourly wage, as applicable, paid t...
+
+- [Senior Platform Engineer - Kubernetes - remote](https://www.adzuna.com/details/5718278310?utm_medium=api&utm_source=632a28fd)
+  - Company: SitusAMC | Tallahassee, Leon County
   - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...

@@ -3550,5 +3550,941 @@
     "title": "Senior Platform Engineer - Kubernetes - remote",
     "url": "https://www.adzuna.com/land/ad/5714071428?se=6sFgSkWE8RGcM-ppp_7oUQ&utm_medium=api&utm_source=632a28fd&v=3FAB9DAA097C114F1CB3A6209FA2A1AF2FF0EB76",
     "first_seen_utc": "2026-07-20 14:13:54"
+  },
+  "adzuna::5808702994": {
+    "company": "Spiceorb",
+    "title": "Lead Site Reliability Engineer Observability",
+    "url": "https://www.adzuna.com/land/ad/5808702994?se=TtNpmgyF8RGVtK1qzgKbKA&utm_medium=api&utm_source=632a28fd&v=E86A0F3A4BD0BDD9573F98D460BD4A6ED6B07EA8",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5809269876": {
+    "company": "Bright Vision Technologies",
+    "title": "Workday Platform Engineer",
+    "url": "https://www.adzuna.com/details/5809269876?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5809203710": {
+    "company": "qureos",
+    "title": "Software Engineer",
+    "url": "https://www.adzuna.com/details/5809203710?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5809179146": {
+    "company": "Bright Vision Technologies",
+    "title": "Platform Infrastructure Engineer",
+    "url": "https://www.adzuna.com/details/5809179146?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808830657": {
+    "company": "Bright Vision Technologies",
+    "title": "Data Platform Engineer",
+    "url": "https://www.adzuna.com/details/5808830657?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808801208": {
+    "company": "HAYS",
+    "title": "Platform Engineer x 2",
+    "url": "https://www.adzuna.com/land/ad/5808801208?se=XNOMoAyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=C90616C1C6F9BE24EA3FE5CD69AC2E066CD09A02",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808766044": {
+    "company": "Bright Vision Technologies",
+    "title": "ML Platform Engineer",
+    "url": "https://www.adzuna.com/details/5808766044?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808677681": {
+    "company": "VDart Inc",
+    "title": "L2 – Cloudera Public Cloud Platform Engineer",
+    "url": "https://www.adzuna.com/details/5808677681?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808581817": {
+    "company": "Bright Vision Technologies",
+    "title": "Platform Networking Engineer",
+    "url": "https://www.adzuna.com/details/5808581817?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808581797": {
+    "company": "Bright Vision Technologies",
+    "title": "Kafka Platform Engineer",
+    "url": "https://www.adzuna.com/details/5808581797?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808581790": {
+    "company": "Bright Vision Technologies",
+    "title": "Data Platform Engineer",
+    "url": "https://www.adzuna.com/details/5808581790?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808581806": {
+    "company": "Bright Vision Technologies",
+    "title": "OpenShift Platform Engineer",
+    "url": "https://www.adzuna.com/details/5808581806?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808581756": {
+    "company": "Bright Vision Technologies",
+    "title": "AI Platform Engineer",
+    "url": "https://www.adzuna.com/details/5808581756?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808580574": {
+    "company": "Technology Ventures",
+    "title": "Mainframe Platform Engineer",
+    "url": "https://www.adzuna.com/land/ad/5808580574?se=XNOMoAyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=86B5261CEC71385B968CD10AFD3563301A489286",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808575831": {
+    "company": "Kainos Innovative Solutions Inc",
+    "title": "Google Cloud Platform Cloud Engineer",
+    "url": "https://www.adzuna.com/land/ad/5808575831?se=XNOMoAyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=29E27990B354B901AF58FB998DD81C977680CD05",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808573773": {
+    "company": "Apex Systems",
+    "title": "Platform Engineer",
+    "url": "https://www.adzuna.com/land/ad/5808573773?se=XNOMoAyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=22A51E702EAB543C483D21D7318DD3DE8ED147C1",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808573748": {
+    "company": "Apex Systems",
+    "title": "Platform Security Engineer",
+    "url": "https://www.adzuna.com/land/ad/5808573748?se=XNOMoAyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=A22F4DE19CD8622BF239CACAF6001224EC5BE1F5",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808524088": {
+    "company": "Next Gen IT Inc",
+    "title": "Google Cloud Platform cloud infrastructure analyst/Platform Engineer",
+    "url": "https://www.adzuna.com/land/ad/5808524088?se=XNOMoAyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=A52C508BE3A200C6F48FFE47553B138E08A60329",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808394380": {
+    "company": "Bright Vision Technologies",
+    "title": "OpenShift Platform Engineer",
+    "url": "https://www.adzuna.com/details/5808394380?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808394357": {
+    "company": "Bright Vision Technologies",
+    "title": "OpenShift Platform Engineer",
+    "url": "https://www.adzuna.com/details/5808394357?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808394389": {
+    "company": "Bright Vision Technologies",
+    "title": "Platform Automation Engineer",
+    "url": "https://www.adzuna.com/details/5808394389?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808394356": {
+    "company": "Bright Vision Technologies",
+    "title": "OIC Platform Engineer",
+    "url": "https://www.adzuna.com/details/5808394356?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808394317": {
+    "company": "Bright Vision Technologies",
+    "title": "IoT Platform Engineer",
+    "url": "https://www.adzuna.com/details/5808394317?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808394247": {
+    "company": "Bright Vision Technologies",
+    "title": "Container Platform Engineer",
+    "url": "https://www.adzuna.com/details/5808394247?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808394264": {
+    "company": "Bright Vision Technologies",
+    "title": "Azure Platform Engineer",
+    "url": "https://www.adzuna.com/details/5808394264?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808341269": {
+    "company": "Cybercoders",
+    "title": "Senior Software Engineer (Backend / Platform) - REMOTE",
+    "url": "https://www.adzuna.com/details/5808341269?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808331338": {
+    "company": "Catapult Solutions Group",
+    "title": "Senior Platform Engineer",
+    "url": "https://www.adzuna.com/land/ad/5808331338?se=XNOMoAyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=35678E9057360AA6B0AE4273BA92A86DEC85E1BA",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808328202": {
+    "company": "VKore Solutions LLC",
+    "title": "ITSM Platform Engineer (Team Dynamix)",
+    "url": "https://www.adzuna.com/land/ad/5808328202?se=XNOMoAyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=2B635BE0E97483E12AF70CE482596A11458B01EF",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808319988": {
+    "company": "Bright Vision Technologies",
+    "title": "Workday Platform Engineer",
+    "url": "https://www.adzuna.com/details/5808319988?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808319937": {
+    "company": "Bright Vision Technologies",
+    "title": "Platform Infrastructure Engineer",
+    "url": "https://www.adzuna.com/details/5808319937?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808319923": {
+    "company": "Bright Vision Technologies",
+    "title": "Data Platform Engineer",
+    "url": "https://www.adzuna.com/details/5808319923?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808766034": {
+    "company": "Bright Vision Technologies",
+    "title": "Cloud Network Engineer",
+    "url": "https://www.adzuna.com/details/5808766034?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808708095": {
+    "company": "TalentFish LLC",
+    "title": "Senior Messaging & Cloud Integration Engineer",
+    "url": "https://www.adzuna.com/land/ad/5808708095?se=yvL8pwyF8RGqboI3q3bdpA&utm_medium=api&utm_source=632a28fd&v=61EBACD2AF749E34D8ADD397CB47AF7786774872",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808687587": {
+    "company": "Openkyber",
+    "title": "Cloud IAM Engineer (AWS, Azure, GCP)",
+    "url": "https://www.adzuna.com/details/5808687587?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808682276": {
+    "company": "Akaasa Technologies",
+    "title": "Cloud Security Engineer",
+    "url": "https://www.adzuna.com/details/5808682276?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808678089": {
+    "company": "Stellent IT LLC",
+    "title": "Cloud Security Engineer || Remote EST/CST || 6months || Video",
+    "url": "https://www.adzuna.com/details/5808678089?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808581776": {
+    "company": "Bright Vision Technologies",
+    "title": "Cloud Security Engineer – Oracle",
+    "url": "https://www.adzuna.com/details/5808581776?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808581812": {
+    "company": "Bright Vision Technologies",
+    "title": "Oracle Cloud Security Engineer",
+    "url": "https://www.adzuna.com/details/5808581812?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808581802": {
+    "company": "Bright Vision Technologies",
+    "title": "Oracle Cloud Engineer",
+    "url": "https://www.adzuna.com/details/5808581802?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808581789": {
+    "company": "Bright Vision Technologies",
+    "title": "Cloud Infrastructure Engineer – AWS",
+    "url": "https://www.adzuna.com/details/5808581789?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808581780": {
+    "company": "Bright Vision Technologies",
+    "title": "Azure Cloud Engineer",
+    "url": "https://www.adzuna.com/details/5808581780?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808581765": {
+    "company": "Bright Vision Technologies",
+    "title": "Cloud Connectivity Engineer",
+    "url": "https://www.adzuna.com/details/5808581765?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808581770": {
+    "company": "Bright Vision Technologies",
+    "title": "Azure Cloud Engineer",
+    "url": "https://www.adzuna.com/details/5808581770?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808581755": {
+    "company": "Bright Vision Technologies",
+    "title": "AWS Cloud Engineer",
+    "url": "https://www.adzuna.com/details/5808581755?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808394365": {
+    "company": "Bright Vision Technologies",
+    "title": "Oracle Cloud Infrastructure Engineer",
+    "url": "https://www.adzuna.com/details/5808394365?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808394359": {
+    "company": "Bright Vision Technologies",
+    "title": "Oracle Cloud Integration Engineer",
+    "url": "https://www.adzuna.com/details/5808394359?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808394346": {
+    "company": "Bright Vision Technologies",
+    "title": "OCI Cloud Engineer",
+    "url": "https://www.adzuna.com/details/5808394346?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808394242": {
+    "company": "Bright Vision Technologies",
+    "title": "Cloud Network Engineer",
+    "url": "https://www.adzuna.com/details/5808394242?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808394276": {
+    "company": "Bright Vision Technologies",
+    "title": "Cloud Solutions Engineer – Azure",
+    "url": "https://www.adzuna.com/details/5808394276?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808394279": {
+    "company": "Bright Vision Technologies",
+    "title": "Azure Cloud Engineer",
+    "url": "https://www.adzuna.com/details/5808394279?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808328354": {
+    "company": "Stellent IT LLC",
+    "title": "Cloud Security Engineer || Remote EST/CST || 6months || Video",
+    "url": "https://www.adzuna.com/land/ad/5808328354?se=yvL8pwyF8RGqboI3q3bdpA&utm_medium=api&utm_source=632a28fd&v=5FD9959116B8E240094BF34B7EE6EB5BAB0F4687",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808281267": {
+    "company": "Tekfortune Inc.",
+    "title": "Principle Cloud Network Engineer",
+    "url": "https://www.adzuna.com/land/ad/5808281267?se=yvL8pwyF8RGqboI3q3bdpA&utm_medium=api&utm_source=632a28fd&v=C9E3A5E58605941894C6166B105B47EA86D6540F",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5805093550": {
+    "company": "Dahl Consulting",
+    "title": "Cloud Security Engineer | GCP | Risk Reduction",
+    "url": "https://www.adzuna.com/land/ad/5805093550?se=yvL8pwyF8RGqboI3q3bdpA&utm_medium=api&utm_source=632a28fd&v=E08584E6B73E51C913267BEBE1859D8EDDC45ACA",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5809269765": {
+    "company": "US Anesthesia Partners",
+    "title": "Infrastructure Engineer - Remote",
+    "url": "https://www.adzuna.com/details/5809269765?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5809167237": {
+    "company": "Bright Vision Technologies",
+    "title": "Service Infrastructure Engineer",
+    "url": "https://www.adzuna.com/details/5809167237?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808995815": {
+    "company": "Bright Vision Technologies",
+    "title": "Intelligent Infrastructure Engineer",
+    "url": "https://www.adzuna.com/details/5808995815?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808920695": {
+    "company": "Talent Management Plus",
+    "title": "Infrastructure Automation Engineer (41589)",
+    "url": "https://www.adzuna.com/details/5808920695?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808913043": {
+    "company": "Bright Vision Technologies",
+    "title": "AI Infrastructure Engineer",
+    "url": "https://www.adzuna.com/details/5808913043?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808830650": {
+    "company": "Talent Management Plus",
+    "title": "Infrastructure DevOps Engineer (42639)",
+    "url": "https://www.adzuna.com/details/5808830650?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808766043": {
+    "company": "Bright Vision Technologies",
+    "title": "Infrastructure Automation Engineer",
+    "url": "https://www.adzuna.com/details/5808766043?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808766031": {
+    "company": "Bright Vision Technologies",
+    "title": "AI Infrastructure Engineer",
+    "url": "https://www.adzuna.com/details/5808766031?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808581786": {
+    "company": "Bright Vision Technologies",
+    "title": "Infrastructure Automation Engineer",
+    "url": "https://www.adzuna.com/details/5808581786?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808581793": {
+    "company": "Bright Vision Technologies",
+    "title": "Infrastructure Engineer – Automation",
+    "url": "https://www.adzuna.com/details/5808581793?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808394336": {
+    "company": "Bright Vision Technologies",
+    "title": "ML Infrastructure Engineer",
+    "url": "https://www.adzuna.com/details/5808394336?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808319975": {
+    "company": "Bright Vision Technologies",
+    "title": "Service Infrastructure Engineer",
+    "url": "https://www.adzuna.com/details/5808319975?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808319927": {
+    "company": "Bright Vision Technologies",
+    "title": "Intelligent Infrastructure Engineer",
+    "url": "https://www.adzuna.com/details/5808319927?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808319913": {
+    "company": "Bright Vision Technologies",
+    "title": "AI Infrastructure Engineer",
+    "url": "https://www.adzuna.com/details/5808319913?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808265312": {
+    "company": "Phoenix Loss Control",
+    "title": "Field Claims Investigator",
+    "url": "https://www.adzuna.com/land/ad/5808265312?se=wt9lrwyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=F75124620FD1496A9A40427D942885E00E44B5B8",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5809276417": {
+    "company": "A.C. Coy",
+    "title": "DevSecOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/details/5809276417?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808319399": {
+    "company": "Lucid Technologies",
+    "title": "DevSecOps Engineer",
+    "url": "https://www.adzuna.com/land/ad/5808319399?se=CIlztwyF8RGVtK1qzgKbKA&utm_medium=api&utm_source=632a28fd&v=26A41D826408E4B00B8D029DDC99EC487F21FE74",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5796602638": {
+    "company": "INflow Federal",
+    "title": "Data Engineer",
+    "url": "https://www.adzuna.com/details/5796602638?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5796452191": {
+    "company": "Leidos",
+    "title": "Mid-Level DevSecOps Engineer",
+    "url": "https://www.adzuna.com/land/ad/5796452191?se=CIlztwyF8RGVtK1qzgKbKA&utm_medium=api&utm_source=632a28fd&v=F06866486914171E9057D65F933B36B9D716FDFE",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5795215561": {
+    "company": "Capstone I T",
+    "title": "Senior DevSecOps Engineer",
+    "url": "https://www.adzuna.com/details/5795215561?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5795031585": {
+    "company": "Leidos",
+    "title": "Mid-Level DevSecOps Engineer",
+    "url": "https://www.adzuna.com/land/ad/5795031585?se=CIlztwyF8RGVtK1qzgKbKA&utm_medium=api&utm_source=632a28fd&v=84769A3DFA16F1823E4B4E15A7B14A57E08CE642",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5795025227": {
+    "company": "M9 Solutions",
+    "title": "DevSecOps Engineer",
+    "url": "https://www.adzuna.com/details/5795025227?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5793823176": {
+    "company": "M9 Solutions",
+    "title": "DevSecOps Engineer",
+    "url": "https://www.adzuna.com/land/ad/5793823176?se=CIlztwyF8RGVtK1qzgKbKA&utm_medium=api&utm_source=632a28fd&v=C844C328663BD953312AD13457C69E91B312936E",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5793110536": {
+    "company": "Louisiana Technology Group Inc",
+    "title": "DevSecOps Engineer",
+    "url": "https://www.adzuna.com/details/5793110536?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5791215047": {
+    "company": "Leidos",
+    "title": "Mid-Level DevSecOps Engineer with Security Clearance",
+    "url": "https://www.adzuna.com/land/ad/5791215047?se=CIlztwyF8RGVtK1qzgKbKA&utm_medium=api&utm_source=632a28fd&v=8B30C61AE9DE13A79A21A93C45B749109569F2CE",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5787197883": {
+    "company": "Oxley Enterprises®, Inc.",
+    "title": "DevSecOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/details/5787197883?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5785018582": {
+    "company": "Zapata Technology",
+    "title": "DevSecOps Engineer (1467)",
+    "url": "https://www.adzuna.com/details/5785018582?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5784153287": {
+    "company": "Whitespace",
+    "title": "DevSecOps Engineer",
+    "url": "https://www.adzuna.com/details/5784153287?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5784153305": {
+    "company": "Whitespace",
+    "title": "DevSecOps Engineer",
+    "url": "https://www.adzuna.com/details/5784153305?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5783001273": {
+    "company": "Mercor",
+    "title": "DevSecOps Specialist - Fully Remote",
+    "url": "https://www.adzuna.com/details/5783001273?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5776452554": {
+    "company": "TEKsystems c/o Allegis Group",
+    "title": "Sr. DevSecOps Engineer (Hybrid Remote/On-site) with Security Clearance",
+    "url": "https://www.adzuna.com/land/ad/5776452554?se=CIlztwyF8RGVtK1qzgKbKA&utm_medium=api&utm_source=632a28fd&v=AA4B9C6BF42DB998F2B85B37BABAE094C90241C9",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5775698007": {
+    "company": "West 4th Strategy",
+    "title": "DevSecOps Engineer",
+    "url": "https://www.adzuna.com/details/5775698007?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5774194131": {
+    "company": "West 4th Strategy",
+    "title": "DevSecOps Engineer",
+    "url": "https://www.adzuna.com/details/5774194131?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5772906768": {
+    "company": "GAMA-1 Technologies",
+    "title": "Senior DevSecOps / AWS Cloud Engineer",
+    "url": "https://www.adzuna.com/details/5772906768?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5765798529": {
+    "company": "Northstrat",
+    "title": "DevSecOps Engineer",
+    "url": "https://www.adzuna.com/details/5765798529?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5762432725": {
+    "company": "CommIT Enterprises, Inc.",
+    "title": "DevSecOps Engineer",
+    "url": "https://www.adzuna.com/details/5762432725?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5762432724": {
+    "company": "CommIT Enterprises, Inc.",
+    "title": "DevSecOps Engineer",
+    "url": "https://www.adzuna.com/details/5762432724?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5762156956": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5762156956?se=CIlztwyF8RGVtK1qzgKbKA&utm_medium=api&utm_source=632a28fd&v=1BADE81571B74BF93D45D9A4EF5C8DA361558899",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5762154058": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5762154058?se=CIlztwyF8RGVtK1qzgKbKA&utm_medium=api&utm_source=632a28fd&v=11667176BCCC9A4A9928676E9100D2F6BC7C470E",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5762140231": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5762140231?se=CIlztwyF8RGVtK1qzgKbKA&utm_medium=api&utm_source=632a28fd&v=14BF6FAF43DE245A603F3302D8E74FF09A68B3CC",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5762067227": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5762067227?se=CIlztwyF8RGVtK1qzgKbKA&utm_medium=api&utm_source=632a28fd&v=FD96A7632CDD763FAF4682952B17756BC3995F59",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5762060531": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5762060531?se=CIlztwyF8RGVtK1qzgKbKA&utm_medium=api&utm_source=632a28fd&v=1E1898C10E3F78C2017AEBDF834523E2E897717D",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5762058529": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5762058529?se=CIlztwyF8RGVtK1qzgKbKA&utm_medium=api&utm_source=632a28fd&v=259ED69AF82218CF8B62FC7B68FC8C9C5581F527",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5762018962": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5762018962?se=CIlztwyF8RGVtK1qzgKbKA&utm_medium=api&utm_source=632a28fd&v=E4DA0C3211A04CCC18088BD14DAE7CCF91F829F3",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5762018662": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5762018662?se=CIlztwyF8RGVtK1qzgKbKA&utm_medium=api&utm_source=632a28fd&v=86184AF5DBDB9A29DAE0B7DB4BD7CA9EE39FB43A",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5762018440": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5762018440?se=CIlztwyF8RGVtK1qzgKbKA&utm_medium=api&utm_source=632a28fd&v=DD1D6281420E378A47C09180141592A6B51640D1",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5762016722": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5762016722?se=CIlztwyF8RGVtK1qzgKbKA&utm_medium=api&utm_source=632a28fd&v=E55D2522AF6D472FF3A3D8C204473CD685866691",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5762015728": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5762015728?se=CIlztwyF8RGVtK1qzgKbKA&utm_medium=api&utm_source=632a28fd&v=63628CC536ACE587FF966FEE49B9C0AA67233D88",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5762015497": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5762015497?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=0BBFE4F760A5FE9AA8C37F9FEE0C7D72F441967F",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5762015215": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5762015215?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=7E8F8AAC49A28E62B29B68A8E1E81AAF5E4125E8",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5762013765": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5762013765?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=1D09BC1746CB0C7C4BDCCB8BEE21BBFA192F572F",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5762013776": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5762013776?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=2B7C18AB770EBF8120BB6D41B92066DBDFB97BEB",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5762005564": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5762005564?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=19D43E92B4EF09D9CEE2E14BB9BB846D8689E99E",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5762000638": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5762000638?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=D9925F5561AC3CE8485E791B539CD73DD1B222E1",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5761998688": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5761998688?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=FB731CAECEB4538420C57D05E0B9F1CF32993756",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5761998293": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5761998293?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=B74E3B8B588B42A365E9D1E2C06C748E336A9122",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5761998329": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5761998329?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=5BC6F51AE731C976B3658918FD77EC76B56A10FB",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5761997031": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/details/5761997031?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5761996609": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5761996609?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=3E591849912181E254BA766373326739E92C34ED",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5761995276": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5761995276?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=D1CED4B1F3BCD25AB4286868775E25118A538B69",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5761994179": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5761994179?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=199A05EB3C068EC3AA64664D456A26F97AC04221",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5761992296": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5761992296?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=DB10117CDE73FE9256194EA91B0AACAFE1999D73",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5761989393": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5761989393?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=51D7EE2C21BEC8DF863A2AF0FCC5AF16D81C3A70",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5761988928": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5761988928?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=26492541E2695EEF82C7D03A6C9492C1A723DF96",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5761987019": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5761987019?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=7C679EF3674FF7ED2BA9964BC8CE9AEE65CB796D",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5761985594": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5761985594?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=DAB937D72F139DE2B012408C4CC59A70827F05B0",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5761985073": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5761985073?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=03FDDB81C7E2500D8D3EE9C4A1B556D7C26F6233",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5761984487": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5761984487?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=E7A35E0CD9FF48863E621C656A03EAA8E00B1097",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5761984388": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5761984388?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=BB226EC6D132F905F7B4CD8E867B98156F012B53",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5761983399": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5761983399?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=097C66F128422D7495AA340CC8F6906EF10FE038",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5761982764": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5761982764?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=64E855635A31E92CD25833ABB9E8DD556B6D2C4F",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5761981279": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5761981279?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=419D4501977EEF2F3C5CCC772DEF1E924B3BE286",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5761980739": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5761980739?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=E878C03EFCF4644FFA53F4A345E74CC5659AC7F5",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5761980410": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5761980410?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=C5B2FD59C539E6EB4C1EABB2D60CA272C7634B09",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5761980295": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5761980295?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=7B6BB18A3BD512CD41E81FE0C3F49F90B89C629F",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5761960478": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5761960478?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=079AD5893977C368E39978EDCDFD29677DC8DD41",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5761944061": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5761944061?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=26B7514A29F2AE299FA7AD5597E69018A71021CC",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5761943590": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5761943590?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=87F99C3AC5EC26F1BDB1FF63D1E5379A38F29B0C",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5761942675": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5761942675?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=1DDFACEEA06DBD169923E1A019B65210A0A19291",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5761942458": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5761942458?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=82AC622AC4A7F7D72842D55A666E5DF89B7DE499",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5761942178": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5761942178?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=1F50969D8E37324F6E7469DC2E0E245745F32B4D",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5761932942": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/details/5761932942?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5761920540": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/details/5761920540?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5761918532": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/details/5761918532?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5761915642": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/details/5761915642?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5761914408": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/details/5761914408?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5761855643": {
+    "company": "NTT America, Inc.",
+    "title": "DevSecOps Engineer - REMOTE",
+    "url": "https://www.adzuna.com/land/ad/5761855643?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=27AB887A53A70615F02C48F1CF65038F6E711121",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5761855466": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5761855466?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=D08A58BF6BB3D08C74D6839EEA0417BC632E623A",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5761855266": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5761855266?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=40D6AFED345CCA0CF2C24DEEF5FD541EBCE5D368",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5761853067": {
+    "company": "Maximus",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5761853067?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=4F78DA85FADCF83F186973639C571D85418E7573",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5761542904": {
+    "company": "CommIT Enterprises, Inc.",
+    "title": "DevSecOps Engineer with Security Clearance",
+    "url": "https://www.adzuna.com/land/ad/5761542904?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=EC56353F86EA775E3CF89F580797C4A2B600905A",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5761542912": {
+    "company": "CommIT Enterprises, Inc.",
+    "title": "DevSecOps Engineer with Security Clearance",
+    "url": "https://www.adzuna.com/land/ad/5761542912?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=D5FF94E3B39CB294B02D713778F305B6ED8579EB",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5760864911": {
+    "company": "Maximus, Inc.",
+    "title": "IT Prncpl - Software Eng",
+    "url": "https://www.adzuna.com/land/ad/5760864911?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=DC13720673B02865C24BA4A9134227711508399B",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5758691865": {
+    "company": "ECS",
+    "title": "Sr. Infrastructure / DevSecOps Systems Engineer with Security Clearance",
+    "url": "https://www.adzuna.com/land/ad/5758691865?se=vg68ugyF8RGvIK9cfh853Q&utm_medium=api&utm_source=632a28fd&v=51B8E8AB6ED0D0842985BCC92766AF7EBC506478",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5750297556": {
+    "company": "Nova Dine",
+    "title": "Data Engineer",
+    "url": "https://www.adzuna.com/details/5750297556?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5750088706": {
+    "company": "EMPLOYER",
+    "title": "Platform Engineer",
+    "url": "https://www.adzuna.com/details/5750088706?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5727724422": {
+    "company": "AvantStay",
+    "title": "AI Engineer",
+    "url": "https://www.adzuna.com/details/5727724422?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808687283": {
+    "company": "Openkyber",
+    "title": "Azure DevOps Lead",
+    "url": "https://www.adzuna.com/details/5808687283?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808581782": {
+    "company": "Bright Vision Technologies",
+    "title": "DevOps & SRE Engineer",
+    "url": "https://www.adzuna.com/details/5808581782?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808581796": {
+    "company": "Bright Vision Technologies",
+    "title": "Kubernetes Service Engineer",
+    "url": "https://www.adzuna.com/details/5808581796?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5808394307": {
+    "company": "Bright Vision Technologies",
+    "title": "Kubernetes & OpenShift Engineer",
+    "url": "https://www.adzuna.com/details/5808394307?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5761507587": {
+    "company": "HAYS",
+    "title": "Sr Kubernetes Engineer",
+    "url": "https://www.adzuna.com/land/ad/5761507587?se=rsRwxAyF8RGVtK1qzgKbKA&utm_medium=api&utm_source=632a28fd&v=E3D5A17789AC393F28BC228FAB98100E6DB6282A",
+    "first_seen_utc": "2026-07-21 14:00:51"
+  },
+  "adzuna::5718278310": {
+    "company": "SitusAMC",
+    "title": "Senior Platform Engineer - Kubernetes - remote",
+    "url": "https://www.adzuna.com/details/5718278310?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-07-21 14:00:51"
   }
 }
