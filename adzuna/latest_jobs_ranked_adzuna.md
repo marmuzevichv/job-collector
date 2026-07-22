@@ -1,202 +1,197 @@
 # Top DevOps Jobs — Ranked by AI
 
-Generated: 2026-07-21 14:02 UTC
-Total jobs analyzed: 156
-Candidates sent to AI: 58
+Generated: 2026-07-22 14:04 UTC
+Total jobs analyzed: 604
+Candidates sent to AI: 67
 
 ---
 
-### [9/10] Infrastructure DevOps Engineer (42639) — Talent Management Plus
-- Location: Remote
-- URL: https://www.adzuna.com/details/5808830650?utm_medium=api&utm_source=632a28fd
-- Why: Direct DevOps role at enterprise scale matching core expertise in cloud infrastructure, monitoring, and systems management.
+### [9/10] Azure DevOps Engineer / Terraform (Remote) — GovCIO
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5787517503?utm_medium=api&utm_source=632a28fd
+- Why: Perfect match with Azure, Terraform, and DevOps expertise; fully remote VA government work aligns with security clearance background.
 
-### [9/10] Senior DevSecOps / AWS Cloud Engineer — GAMA-1 Technologies
-- Location: Remote
-- URL: https://www.adzuna.com/details/5772906768?utm_medium=api&utm_source=632a28fd
-- Why: Perfect alignment with Terraform, EKS, GitLab CI/CD, GitOps, and security focus; FISMA/compliance experience leverages existing security certifications.
+### [9/10] Senior Cloud Operations & Service Excellence Engineer (AWS | Kubernetes | DevOps | Healthcare) — E-Solutions INC
+- Location: Remote (EST/CST, US)
+- URL: https://www.adzuna.com/details/5805518895?utm_medium=api&utm_source=632a28fd
+- Why: Excellent match with AWS, Kubernetes, DevOps core skills; remote full-time role with healthcare domain and no manager responsibility.
+
+### [9/10] Platform Engineer — EMPLOYER
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5750088706?utm_medium=api&utm_source=632a28fd
+- Why: Strong Kubernetes proficiency requirement directly matches CKA/CKAD certifications and 6+ years platform engineering experience.
+
+### [9/10] Senior Azure Kubernetes Engineer - QNXT — Cognizant
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5805675766?utm_medium=api&utm_source=632a28fd
+- Why: Perfect alignment with Azure, Kubernetes (CKAD certified), and senior-level infrastructure engineering; full-time remote position.
+
+### [9/10] Senior Azure Kubernetes Engineer - QNXT — Cognizant
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5805526602?utm_medium=api&utm_source=632a28fd
+- Why: Duplicate posting with excellent match on Azure, Kubernetes, and senior infrastructure role requirements.
+
+### [9/10] Senior Azure Kubernetes Engineer — Cognizant
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5805524358?utm_medium=api&utm_source=632a28fd
+- Why: Strong fit for Azure and Kubernetes expertise; senior-level remote role matches target DevOps/SRE trajectory.
+
+### [9/10] Senior Azure Kubernetes Engineer — Cognizant
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5805540249?utm_medium=api&utm_source=632a28fd
+- Why: Azure and Kubernetes focus with senior designation; remote position aligns with location and role preferences.
+
+### [9/10] Senior Azure Kubernetes Engineer — Cognizant
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5805523719?utm_medium=api&utm_source=632a28fd
+- Why: Repeated posting with strong Azure/Kubernetes match for senior infrastructure role.
+
+### [9/10] DevOps Engineer — SCOUT Solutions
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5807132480?utm_medium=api&utm_source=632a28fd
+- Why: CI/CD pipelines, automation scripts, and IaC (Terraform/Ansible) directly match resume skills; US citizen/PR requirement met.
+
+### [9/10] Senior Devops Engineer — Bright Vision Technologies
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5810450565?utm_medium=api&utm_source=632a28fd
+- Why: Senior DevOps role with remote work fits target title and 6+ years experience; avoids management responsibilities.
+
+### [9/10] Senior Devops Engineer — Bright Vision Technologies
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5806124415?utm_medium=api&utm_source=632a28fd
+- Why: Senior DevOps engineer role with remote work; avoids management track while utilizing 6+ years experience.
+
+### [9/10] OpenShift Platform Engineer — Bright Vision Technologies
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5810415337?utm_medium=api&utm_source=632a28fd
+- Why: Platform Engineer title with OpenShift expertise (resume includes OpenShift); remote position fits all target criteria.
+
+### [9/10] OpenShift Platform Engineer — Bright Vision Technologies
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5810442066?utm_medium=api&utm_source=632a28fd
+- Why: OpenShift platform engineering directly matches container orchestration background; remote role meets location preference.
+
+### [9/10] DevOps Engineer, Cloud Infrastructure & Scientific Computing — Cartography Biosciences
+- Location: US Remote
+- URL: https://www.adzuna.com/details/5794112261?utm_medium=api&utm_source=632a28fd
+- Why: Perfect alignment with core DevOps skills (cloud infrastructure, CI/CD, IaC) and matches target role; remote US position.
+
+### [8/10] DevOps Engineer — VDart Inc
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5799325800?utm_medium=api&utm_source=632a28fd
+- Why: 100% remote with AWS Lambda, RDS expertise matching resume; serverless depth is a strong fit for production event-driven environments.
+
+### [8/10] Senior Platform Engineer - Kubernetes - remote — SitusAMC
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5714104600?utm_medium=api&utm_source=632a28fd
+- Why: Platform Engineer role with Kubernetes focus matches career targets; remote position fits location preference.
+
+### [8/10] Infrastructure DevOps Engineer (42639) — Talent Management Plus
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5808830650?utm_medium=api&utm_source=632a28fd
+- Why: Large enterprise cloud infrastructure and DevOps projects align with Fortune 100 background and target DevOps role.
+
+### [8/10] DevOps Engineer (W2 Contract to hire) — Tandym
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5794939566?utm_medium=api&utm_source=632a28fd
+- Why: Cloud infrastructure, deployment automation, and operational reliability focus matches core DevOps experience.
 
 ### [8/10] Cloud Infrastructure Engineer – AWS — Bright Vision Technologies
-- Location: Remote
+- Location: Remote (US)
 - URL: https://www.adzuna.com/details/5808581789?utm_medium=api&utm_source=632a28fd
-- Why: Strong AWS expertise match (EKS, EC2, RDS, Lambda) with infrastructure engineering focus aligned to candidate's core skills.
+- Why: AWS infrastructure engineering role with remote US position; matches cloud engineering career targets.
 
-### [8/10] Platform Engineer — US Government Contractor
-- Location: US
-- URL: https://www.adzuna.com/details/5750088706?utm_medium=api&utm_source=632a28fd
-- Why: Kubernetes-heavy platform engineering role with government compliance backdrop matches CKA certification and Kubernetes expertise.
+### [8/10] Cloud Engineer - Remote / Telecommute — CYNET SYSTEMS
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5810170906?utm_medium=api&utm_source=632a28fd
+- Why: 4+ years cloud engineering requirement met; remote position fits location preference though degree requirement may vary.
+
+### [8/10] Cloud Infrastructure Engineer – AWS — Bright Vision Technologies
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5804661946?utm_medium=api&utm_source=632a28fd
+- Why: AWS infrastructure focus with remote position; aligns with cloud engineer career targets.
+
+### [8/10] Cloud Infrastructure Engineer – AWS — Bright Vision Technologies
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5810598663?utm_medium=api&utm_source=632a28fd
+- Why: AWS cloud infrastructure role with remote availability matches engineering skill set.
+
+### [8/10] Azure Infrastructure Engineer — Bright Vision Technologies
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5810282965?utm_medium=api&utm_source=632a28fd
+- Why: Azure infrastructure expertise with AZ-104 certification match; remote position fits location needs.
+
+### [8/10] Azure Infrastructure Engineer — Bright Vision Technologies
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5807154557?utm_medium=api&utm_source=632a28fd
+- Why: Azure infrastructure engineering with remote position; matches AZ-104 certification and infrastructure focus.
+
+### [8/10] Senior Cloud Infrastructure Engineer — Staffxpert LLC
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5802005605?utm_medium=api&utm_source=632a28fd
+- Why: SRE/private cloud infrastructure role matches target titles; long-term contract with 6-month current duration and extension potential.
+
+### [8/10] DevOps Engineer — Staffxpert LLC
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5804048431?utm_medium=api&utm_source=632a28fd
+- Why: DevOps role with CI/CD pipelines, automation, and IaC focus; remote position matches location requirement.
+
+### [8/10] Cloud DevOps Engineer (REMOTE) — Koniag Government Services
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5797465745?utm_medium=api&utm_source=632a28fd
+- Why: Cloud DevOps engineering with government sector experience; remote ICAM role aligns with security/infrastructure background.
+
+### [8/10] DevOps / Platform Engineer (Level II) — Lyntris
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5794105609?utm_medium=api&utm_source=632a28fd
+- Why: DevOps/Platform Engineer level II position with remote/hybrid option matches target roles and career level.
+
+### [8/10] Site Reliability Engineer (SRE) — Bright Vision Technologies
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5810283469?utm_medium=api&utm_source=632a28fd
+- Why: SRE role is a direct target title; remote position with reliability engineering focus aligns perfectly.
 
 ### [8/10] OpenShift Platform Engineer — Bright Vision Technologies
-- Location: Remote
-- URL: https://www.adzuna.com/details/5808581806?utm_medium=api&utm_source=632a28fd
-- Why: Direct OpenShift expertise match with platform engineering focus and container orchestration at enterprise scale.
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5810671025?utm_medium=api&utm_source=632a28fd
+- Why: OpenShift platform engineering with resume experience; remote position matches platform engineer target role.
 
-### [8/10] Kubernetes Service Engineer — Bright Vision Technologies
-- Location: Remote
-- URL: https://www.adzuna.com/details/5808581796?utm_medium=api&utm_source=632a28fd
-- Why: Kubernetes specialization with CKA/CKAD certifications directly applicable to service engineering role.
+### [7/10] Cloud Engineer — Sumeru Solutions
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5810166844?utm_medium=api&utm_source=632a28fd
+- Why: 4+ years cloud/DevOps requirement met; AWS and infrastructure management align, though role description is brief.
 
-### [8/10] Kubernetes & OpenShift Engineer — Bright Vision Technologies
-- Location: Remote
-- URL: https://www.adzuna.com/details/5808394307?utm_medium=api&utm_source=632a28fd
-- Why: Dual container platform expertise (Kubernetes + OpenShift) with 6+ years experience matches both technologies.
+### [7/10] Network DevOps Engineer — Bright Vision Technologies
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5810283179?utm_medium=api&utm_source=632a28fd
+- Why: Network-focused DevOps role with remote position; secondary skill match though primary expertise is broader cloud/container.
 
-### [8/10] Container Platform Engineer — Bright Vision Technologies
-- Location: Remote
+### [7/10] Network DevOps Engineer — Bright Vision Technologies
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5807029615?utm_medium=api&utm_source=632a28fd
+- Why: Network DevOps specialization with remote availability; tangential fit to core DevOps expertise.
+
+### [7/10] Container Platform Engineer — Bright Vision Technologies
+- Location: Tempe, Maricopa County (Remote)
 - URL: https://www.adzuna.com/details/5808394247?utm_medium=api&utm_source=632a28fd
-- Why: Container platform engineering with Kubernetes, Docker, Helm, and Argo CD directly aligns with proven expertise.
-
-### [8/10] Infrastructure Engineer - Remote — US Anesthesia Partners
-- Location: Remote
-- URL: https://www.adzuna.com/details/5809269765?utm_medium=api&utm_source=632a28fd
-- Why: Infrastructure design and deployment role matches core DevOps skill set in enterprise IT operations.
-
-### [8/10] DevSecOps Engineer — M9 Solutions
-- Location: Remote
-- URL: https://www.adzuna.com/details/5795025227?utm_medium=api&utm_source=632a28fd
-- Why: Federal IT services DevSecOps role aligns with security expertise (FedRAMP, Vault, Trivy, Checkov) and target role type.
-
-### [8/10] Senior DevSecOps Engineer — Capstone IT
-- Location: Remote
-- URL: https://www.adzuna.com/details/5795215561?utm_medium=api&utm_source=632a28fd
-- Why: DevSecOps focus with infrastructure automation matches security certifications and 6+ years experience level.
-
-### [8/10] DevSecOps Engineer — Northstrat
-- Location: Remote
-- URL: https://www.adzuna.com/details/5765798529?utm_medium=api&utm_source=632a28fd
-- Why: Mission-critical cloud-native infrastructure role with security emphasis matches DevSecOps target and enterprise background.
-
-### [8/10] DevSecOps Engineer — Louisiana Technology Group Inc
-- Location: Remote
-- URL: https://www.adsuna.com/details/5793110536?utm_medium=api&utm_source=632a28fd
-- Why: Application infrastructure architecture and transformation with security requirements align with DevSecOps expertise.
-
-### [8/10] DevSecOps Engineer — Whitespace
-- Location: Remote / Alexandria, VA
-- URL: https://www.adzuna.com/details/5784153287?utm_medium=api&utm_source=632a28fd
-- Why: Perfect role match with DevSecOps focus, remote-capable, US-based, and security expertise aligns perfectly with candidate's FedRAMP, Vault, and IAM background.
-
-### [8/10] DevSecOps Engineer — Whitespace
-- Location: Remote / US
-- URL: https://www.adzuna.com/details/5784153305?utm_medium=api&utm_source=632a28fd
-- Why: Identical to posting #1 with explicit US remote availability; strong match for DevSecOps role with security clearance preference aligning with candidate's government/enterprise experience.
-
-### [8/10] DevSecOps Engineer (Remote) — A.C. Coy
-- Location: Remote / Falls Church City, Virginia
-- URL: https://www.adzuna.com/details/5809276417?utm_medium=api&utm_source=632a28fd
-- Why: Remote DevSecOps role for US Government client with emphasis on embedding security into SDLC; candidate's security certifications and CI/CD expertise are directly applicable.
-
-### [7/10] Azure Platform Engineer — Bright Vision Technologies
-- Location: Remote
-- URL: https://www.adzuna.com/details/5808394264?utm_medium=api&utm_source=632a28fd
-- Why: Azure platform engineering with AKS and DevOps tools matches secondary cloud expertise and AZ-104 certification.
-
-### [7/10] Cloud IAM Engineer (AWS, Azure, GCP) — Openkyber
-- Location: Remote
-- URL: https://www.adzuna.com/details/5808687587?utm_medium=api&utm_source=632a28fd
-- Why: Multi-cloud IAM and SRE infrastructure work with Kubernetes matches security and cloud expertise across all major platforms.
-
-### [7/10] Senior Platform Engineer - Kubernetes - remote — SitusAMC
-- Location: Remote
-- URL: https://www.adzuna.com/details/5718278310?utm_medium=api&utm_source=632a28fd
-- Why: Kubernetes-focused platform engineering at senior level matches CKA certification and container orchestration expertise.
-
-### [7/10] Azure Cloud Engineer — Bright Vision Technologies
-- Location: Remote
-- URL: https://www.adzuna.com/details/5808581770?utm_medium=api&utm_source=632a28fd
-- Why: Azure infrastructure engineering with IAM and DevOps tools leverages AZ-104 and secondary cloud platform skills.
-
-### [7/10] Azure Cloud Engineer — Bright Vision Technologies
-- Location: Remote
-- URL: https://www.adzuna.com/details/5808581780?utm_medium=api&utm_source=632a28fd
-- Why: Azure cloud engineering with DevOps practices matches Azure expertise and infrastructure automation background.
-
-### [7/10] Azure Cloud Engineer — Bright Vision Technologies
-- Location: Remote
-- URL: https://www.adzuna.com/details/5808394279?utm_medium=api&usr_source=632a28fd
-- Why: Azure platform skills with cloud engineering focus aligns with AZ-104 and Azure DevOps pipeline experience.
-
-### [7/10] AWS Cloud Engineer — Bright Vision Technologies
-- Location: Remote
-- URL: https://www.adzuna.com/details/5808581755?utm_medium=api&utm_source=632a28fd
-- Why: AWS-focused cloud engineering with infrastructure automation matches AWS SAA and core platform expertise.
-
-### [7/10] Platform Infrastructure Engineer — Bright Vision Technologies
-- Location: Remote
-- URL: https://www.adzuna.com/details/5809179146?utm_medium=api&utm_source=632a28fd
-- Why: Platform infrastructure with automation and cloud tools aligns with DevOps and infrastructure engineer target roles.
-
-### [7/10] Service Infrastructure Engineer — Bright Vision Technologies
-- Location: Remote
-- URL: https://www.adzuna.com/details/5809167237?utm_medium=api&utm_source=632a28fd
-- Why: Infrastructure engineering for service platforms matches core DevOps expertise and automation skills.
-
-### [7/10] Infrastructure Engineer – Automation — Bright Vision Technologies
-- Location: Remote
-- URL: https://www.adzuna.com/details/5808581793?utm_medium=api&utm_source=632a28fd
-- Why: Infrastructure automation focus with Terraform, Ansible, and cloud tools directly matches core IaC expertise.
-
-### [7/10] Platform Infrastructure Engineer — Bright Vision Technologies
-- Location: Remote
-- URL: https://www.adzuna.com/details/5808319937?utm_medium=api&utm_source=632a28fd
-- Why: Platform infrastructure engineering with automation and cloud services aligns with DevOps skill set.
-
-### [7/10] Service Infrastructure Engineer — Bright Vision Technologies
-- Location: Remote
-- URL: https://www.adzuna.com/details/5808319975?utm_medium=api&utm_source=632a28fd
-- Why: Infrastructure service engineering with cloud and automation focus matches core technical background.
-
-### [7/10] DevSecOps Engineer — CommIT Enterprises, Inc.
-- Location: Remote / Charleston, SC
-- URL: https://www.adzuna.com/details/5762432725?utm_medium=api&utm_source=632a28fd
-- Why: Remote-capable DevSecOps position focused on deployment and operations collaboration; good fit for candidate's container and security skill set despite non-Minnesota location.
-
-### [7/10] DevSecOps Engineer — West 4th Strategy
-- Location: Remote / Washington, D.C.
-- URL: https://www.adzuna.com/details/5775698007?utm_medium=api&utm_source=632a28fd
-- Why: Remote federal government role at SEC with DevSecOps focus; candidate's enterprise and security background suits government compliance requirements.
-
-### [7/10] DevSecOps Engineer — West 4th Strategy
-- Location: Remote / Washington, D.C.
-- URL: https://www.adzuna.com/details/5774194131?utm_medium=api&utm_source=632a28fd
-- Why: Duplicate SEC position (remote); same strong fit as posting #6 for government-sector DevSecOps work.
-
-### [7/10] DevSecOps Engineer — CommIT Enterprises, Inc.
-- Location: Remote / Charleston, SC
-- URL: https://www.adzuna.com/details/5762432724?utm_medium=api&utm_source=632a28fd
-- Why: Duplicate CommIT posting; remote-capable DevSecOps role matching candidate's containerization and security automation expertise.
+- Why: Good alignment with container expertise (Docker, Kubernetes) and Platform Engineer role; remote US position.
 
 ### [6/10] OpenShift Platform Engineer — Bright Vision Technologies
-- Location: Remote
-- URL: https://www.adzuna.com/details/5808394357?utm_medium=api&utm_source=632a28fd
-- Why: Container platform engineering with OpenShift matches container expertise though broader scope reduces specificity.
+- Location: Hoboken, Hudson County (Remote)
+- URL: https://www.adzuna.com/details/5810283200?utm_medium=api&utm_source=632a28fd
+- Why: Strong match on OpenShift/container expertise and Platform Engineer title, but limited detail on responsibilities; remote US.
 
 ### [6/10] OpenShift Platform Engineer — Bright Vision Technologies
-- Location: Remote
+- Location: Cary, Wake County (Remote)
+- URL: https://www.adzuna.com/details/5808581806?utm_medium=api&utm_source=632a28fd
+- Why: Strong match on OpenShift/container expertise and Platform Engineer title, but limited detail on responsibilities; remote US.
+
+### [6/10] OpenShift Platform Engineer — Bright Vision Technologies
+- Location: Skokie, Cook County (Remote)
 - URL: https://www.adzuna.com/details/5808394380?utm_medium=api&utm_source=632a28fd
-- Why: OpenShift and container platform work matches Kubernetes and container orchestration experience.
+- Why: Strong match on OpenShift/container expertise and Platform Engineer title, but limited detail on responsibilities; remote US.
 
-### [6/10] Cloud Solutions Engineer – Azure — Bright Vision Technologies
-- Location: Remote
-- URL: https://www.adzuna.com/details/5808394276?utm_medium=api&utm_source=632a28fd
-- Why: Azure cloud solutions role with engineering focus leverages secondary cloud platform expertise.
-
-### [6/10] Oracle Cloud Infrastructure Engineer — Bright Vision Technologies
-- Location: Remote
-- URL: https://www.adzuna.com/details/5808394365?utm_medium=api&utm_source=632a28fd
-- Why: Cloud infrastructure engineering on Oracle platform applies core infrastructure skills to less-familiar cloud provider.
-
-### [6/10] Oracle Cloud Engineer — Bright Vision Technologies
-- Location: Remote
-- URL: https://www.adzuna.com/details/5808581802?utm_medium=api&utm_source=632a28fd
-- Why: Oracle cloud engineering transfers IaC and infrastructure automation expertise to alternative cloud platform.
-
-### [6/10] OCI Cloud Engineer — Bright Vision Technologies
-- Location: Remote
-- URL: https://www.adzuna.com/details/5808394346?utm_medium=api&utm_source=632a28fd
-- Why: OCI infrastructure work leverages cloud engineering background though less aligned with primary AWS/Azure focus.
-
-### [5/10] DevSecOps Engineer (1467) — Zapata Technology
-- Location: Remote
-- URL: https://www.adzuna.com/details/5785018582?utm_medium=api&utm_source=632a28fd
-- Why: DevSecOps role matches target position type but contingent October 2026 start date and unclear project scope reduce fit.
+### [6/10] OpenShift Platform Engineer — Bright Vision Technologies
+- Location: Tempe, Maricopa County (Remote)
+- URL: https://www.adzuna.com/details/5808394357?utm_medium=api&utm_source=632a28fd
+- Why: Strong match on OpenShift/container expertise and Platform Engineer title, but limited detail on responsibilities; remote US.
