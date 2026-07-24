@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-07-23 13:54 UTC
+Generated: 2026-07-24 13:42 UTC
 
-Total new jobs: 113
+Total new jobs: 118
 
 ## greenhouse
 
@@ -87,6 +87,10 @@ Total new jobs: 113
   - Location: Remote
 
 - [Senior Cloud Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/5994726004)
+  - Company: clickhouse
+  - Location: Remote
+
+- [Senior Cloud Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/5994727004)
   - Company: clickhouse
   - Location: Remote
 
@@ -227,6 +231,10 @@ Total new jobs: 113
   - Location: Remote
 
 - [Senior Platform Engineer](https://www.mongodb.com/careers/job/?gh_jid=7924987)
+  - Company: mongodb
+  - Location: Remote
+
+- [Senior Platform Engineer](https://www.mongodb.com/careers/job/?gh_jid=8053599)
   - Company: mongodb
   - Location: Remote
 
@@ -406,12 +414,27 @@ Total new jobs: 113
   - Location: USA
   - Level/Team: DevOps &amp; Infrastructure
 
+- [Sr. IT Systems Engineer](https://jobicy.com/jobs/147417-sr-it-systems-engineer)
+  - Company: Zapier
+  - Location: EMEA
+  - Level/Team: DevOps &amp; Infrastructure
+
 ## lever
 
 - [Senior SRE/DevOps Engineer](https://jobs.lever.co/metabase/1b702919-4d0b-4085-baec-8947f9b7e4ee)
   - Company: metabase
   - Location: Global Remote
   - Level/Team: Engineering
+
+- [Azure DevOps Engineer](https://jobs.lever.co/sonatype/85cfea61-4f64-4b41-baf7-726b42f043a5)
+  - Company: sonatype
+  - Location: US - Remote
+  - Level/Team: Engineering - Application Platform
+
+- [Senior Solutions Delivery Engineer- DevOps](https://jobs.lever.co/sonatype/83cc47d4-e93e-4ce3-b440-185839cddaa1)
+  - Company: sonatype
+  - Location: US - Remote
+  - Level/Team: Customer Success - Direct - Solutions Delivery
 
 ## weworkremotely
 
