@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-07-25 13:22 UTC
+Generated: 2026-07-26 13:17 UTC
 
-Total new jobs: 117
+Total new jobs: 118
 
 ## greenhouse
 
@@ -86,11 +86,11 @@ Total new jobs: 117
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Cloud Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/5994727004)
+- [Senior Cloud Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/5994726004)
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Cloud Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/5994726004)
+- [Senior Cloud Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/5994727004)
   - Company: clickhouse
   - Location: Remote
 
@@ -230,11 +230,11 @@ Total new jobs: 117
   - Company: mongodb
   - Location: Remote
 
-- [Senior Platform Engineer](https://www.mongodb.com/careers/job/?gh_jid=8053599)
+- [Senior Platform Engineer](https://www.mongodb.com/careers/job/?gh_jid=7924987)
   - Company: mongodb
   - Location: Remote
 
-- [Senior Platform Engineer](https://www.mongodb.com/careers/job/?gh_jid=7924987)
+- [Senior Platform Engineer](https://www.mongodb.com/careers/job/?gh_jid=8053599)
   - Company: mongodb
   - Location: Remote
 
@@ -339,6 +339,11 @@ Total new jobs: 117
   - Level/Team: DevOps &amp; Infrastructure
 
 - [Customer Reliability Engineer - Infrastructure](https://jobicy.com/jobs/147812-customer-reliability-engineer-infrastructure)
+  - Company: Astronomer
+  - Location: USA
+  - Level/Team: Technical Support
+
+- [Customer Reliability Engineer, Airflow](https://jobicy.com/jobs/147810-customer-reliability-engineer-airflow)
   - Company: Astronomer
   - Location: USA
   - Level/Team: Technical Support

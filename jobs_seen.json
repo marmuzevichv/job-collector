@@ -1,34 +1,4 @@
 {
-  "jobicy::147417": {
-    "company": "Zapier",
-    "title": "Sr. IT Systems Engineer",
-    "url": "https://jobicy.com/jobs/147417-sr-it-systems-engineer",
-    "first_seen_utc": "2026-07-24 13:41:09"
-  },
-  "lever::85cfea61-4f64-4b41-baf7-726b42f043a5": {
-    "company": "sonatype",
-    "title": "Azure DevOps Engineer",
-    "url": "https://jobs.lever.co/sonatype/85cfea61-4f64-4b41-baf7-726b42f043a5",
-    "first_seen_utc": "2026-07-24 13:41:09"
-  },
-  "lever::83cc47d4-e93e-4ce3-b440-185839cddaa1": {
-    "company": "sonatype",
-    "title": "Senior Solutions Delivery Engineer- DevOps",
-    "url": "https://jobs.lever.co/sonatype/83cc47d4-e93e-4ce3-b440-185839cddaa1",
-    "first_seen_utc": "2026-07-24 13:41:09"
-  },
-  "greenhouse::8053599": {
-    "company": "mongodb",
-    "title": "Senior Platform Engineer",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=8053599",
-    "first_seen_utc": "2026-07-24 13:41:09"
-  },
-  "greenhouse::5994727004": {
-    "company": "clickhouse",
-    "title": "Senior Cloud Engineer",
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5994727004",
-    "first_seen_utc": "2026-07-24 13:41:09"
-  },
   "remoteok::1135334": {
     "company": "Melhor Envio",
     "title": "Analista de Infraestrutura Pleno DevOps",
@@ -700,5 +670,41 @@
     "title": "QA Automation Engineer (IntelliJ IDEA Java Build Tools)",
     "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4777935101",
     "first_seen_utc": "2026-07-25 13:21:41"
+  },
+  "jobicy::147810": {
+    "company": "Astronomer",
+    "title": "Customer Reliability Engineer, Airflow",
+    "url": "https://jobicy.com/jobs/147810-customer-reliability-engineer-airflow",
+    "first_seen_utc": "2026-07-26 13:17:24"
+  },
+  "jobicy::147417": {
+    "company": "Zapier",
+    "title": "Sr. IT Systems Engineer",
+    "url": "https://jobicy.com/jobs/147417-sr-it-systems-engineer",
+    "first_seen_utc": "2026-07-26 13:17:24"
+  },
+  "lever::85cfea61-4f64-4b41-baf7-726b42f043a5": {
+    "company": "sonatype",
+    "title": "Azure DevOps Engineer",
+    "url": "https://jobs.lever.co/sonatype/85cfea61-4f64-4b41-baf7-726b42f043a5",
+    "first_seen_utc": "2026-07-26 13:17:24"
+  },
+  "lever::83cc47d4-e93e-4ce3-b440-185839cddaa1": {
+    "company": "sonatype",
+    "title": "Senior Solutions Delivery Engineer- DevOps",
+    "url": "https://jobs.lever.co/sonatype/83cc47d4-e93e-4ce3-b440-185839cddaa1",
+    "first_seen_utc": "2026-07-26 13:17:24"
+  },
+  "greenhouse::8053599": {
+    "company": "mongodb",
+    "title": "Senior Platform Engineer",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=8053599",
+    "first_seen_utc": "2026-07-26 13:17:24"
+  },
+  "greenhouse::5994727004": {
+    "company": "clickhouse",
+    "title": "Senior Cloud Engineer",
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5994727004",
+    "first_seen_utc": "2026-07-26 13:17:24"
   }
 }
