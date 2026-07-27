@@ -1,6 +1,6 @@
 # New jobs
 
-Generated: 2026-07-26 13:17 UTC
+Generated: 2026-07-27 14:30 UTC
 
 Total new jobs: 118
 
@@ -86,11 +86,11 @@ Total new jobs: 118
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Cloud Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/5994726004)
+- [Senior Cloud Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/5994727004)
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Cloud Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/5994727004)
+- [Senior Cloud Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/5994726004)
   - Company: clickhouse
   - Location: Remote
 
@@ -178,6 +178,10 @@ Total new jobs: 118
   - Company: elastic
   - Location: Remote
 
+- [Senior Cloud Engineer](https://www.fastly.com/about/jobs/apply?gh_jid=8082266)
+  - Company: fastly
+  - Location: Remote
+
 - [Senior Infrastructure Engineer — Certification Authority](https://www.fastly.com/about/jobs/apply?gh_jid=8011032)
   - Company: fastly
   - Location: Remote
@@ -230,11 +234,11 @@ Total new jobs: 118
   - Company: mongodb
   - Location: Remote
 
-- [Senior Platform Engineer](https://www.mongodb.com/careers/job/?gh_jid=7924987)
+- [Senior Platform Engineer](https://www.mongodb.com/careers/job/?gh_jid=8053599)
   - Company: mongodb
   - Location: Remote
 
-- [Senior Platform Engineer](https://www.mongodb.com/careers/job/?gh_jid=8053599)
+- [Senior Platform Engineer](https://www.mongodb.com/careers/job/?gh_jid=7924987)
   - Company: mongodb
   - Location: Remote
 
@@ -250,11 +254,11 @@ Total new jobs: 118
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727913)
+- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727910)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727910)
+- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727913)
   - Company: mongodb
   - Location: Remote
 
@@ -262,11 +266,11 @@ Total new jobs: 118
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7793634)
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7793634)
   - Company: mongodb
   - Location: Remote
 
@@ -274,19 +278,19 @@ Total new jobs: 118
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7821316)
-  - Company: mongodb
-  - Location: Remote
-
 - [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7821318)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineering, Fabric (Mid, Senior, or Staff)](https://www.mongodb.com/careers/job/?gh_jid=7727923)
+- [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7821316)
   - Company: mongodb
   - Location: Remote
 
 - [Site Reliability Engineering, Fabric (Mid, Senior, or Staff)](https://www.mongodb.com/careers/job/?gh_jid=7727920)
+  - Company: mongodb
+  - Location: Remote
+
+- [Site Reliability Engineering, Fabric (Mid, Senior, or Staff)](https://www.mongodb.com/careers/job/?gh_jid=7727923)
   - Company: mongodb
   - Location: Remote
 
@@ -421,11 +425,6 @@ Total new jobs: 118
 - [Lead Cloud Platform & Dev Ops Engineer](https://jobicy.com/jobs/149240-lead-cloud-platform-dev-ops-engineer-2)
   - Company: University of Colorado Anschutz Medical Campus
   - Location: USA
-  - Level/Team: DevOps &amp; Infrastructure
-
-- [Sr. IT Systems Engineer](https://jobicy.com/jobs/147417-sr-it-systems-engineer)
-  - Company: Zapier
-  - Location: EMEA
   - Level/Team: DevOps &amp; Infrastructure
 
 ## lever
