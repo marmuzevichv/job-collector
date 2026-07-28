@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-07-27 14:30 UTC
+Generated: 2026-07-28 14:03 UTC
 
-Total new jobs: 118
+Total new jobs: 119
 
 ## greenhouse
 
@@ -191,6 +191,10 @@ Total new jobs: 118
   - Location: Remote
 
 - [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7688580003)
+  - Company: fivetran
+  - Location: Remote
+
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7814036003)
   - Company: fivetran
   - Location: Remote
 

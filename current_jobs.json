@@ -911,6 +911,19 @@
   },
   {
     "source_type": "greenhouse",
+    "company": "fivetran",
+    "title": "Senior Site Reliability Engineer",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7814036003",
+    "external_id": "greenhouse::7814036003",
+    "description_snippet": "",
+    "posted_at": "2026-07-28T08:29:24-04:00",
+    "collected_at_utc": "2026-07-28 14:02:30"
+  },
+  {
+    "source_type": "greenhouse",
     "company": "gitlab",
     "title": "Site Reliability Engineer - Dedicated Hosted Runners",
     "location": "",
