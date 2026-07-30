@@ -997,6 +997,32 @@
     "collected_at_utc": "2026-07-29 14:06:07"
   },
   {
+    "source_type": "remoteok",
+    "company": "Lemon.io",
+    "title": "Senior DevOps Engineer",
+    "location": "Worldwide",
+    "team": "",
+    "categories": [
+      "dev",
+      "engineer",
+      "senior",
+      "full time",
+      "devops",
+      "python",
+      "golang",
+      "aws",
+      "gcp",
+      "kubernetes",
+      "ansible",
+      "sql"
+    ],
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1135562",
+    "external_id": "remoteok::1135562",
+    "description_snippet": "Are you a talented Senior DevOps looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io â the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills an",
+    "posted_at": "2026-07-28T15:05:32+00:00",
+    "collected_at_utc": "2026-07-30 13:55:24"
+  },
+  {
     "source_type": "greenhouse",
     "company": "lyft",
     "title": "Senior Platform Engineer, Workday Extend & Integrations",
@@ -1525,6 +1551,37 @@
     "description_snippet": "Sonatype is the software supply chain security company. We provide the world’s best end-to-end software supply chain security solution, combining the only proactive protection against malicious open source, the only enterprise grade SBOM management and the leading open source dependency management p",
     "posted_at": "1784663482841",
     "collected_at_utc": "2026-07-29 14:06:07"
+  },
+  {
+    "source_type": "remoteok",
+    "company": "The Buckle, Inc.",
+    "title": "Not Finding Your Fit Apply Here",
+    "location": "Kearney,",
+    "team": "",
+    "categories": [
+      "design",
+      "dev",
+      "copywriting",
+      "testing",
+      "analyst",
+      "accounting",
+      "payroll",
+      "virtual assistant",
+      "devops",
+      "finance",
+      "exec",
+      "marketing",
+      "legal",
+      "sales",
+      "recruiter",
+      "engineer",
+      "digital nomad"
+    ],
+    "url": "https://remoteOK.com/remote-jobs/remote-not-finding-your-fit-apply-here-the-buckle-inc-1135588",
+    "external_id": "remoteok::1135588",
+    "description_snippet": "Summary Interested in Buckle but not seeing a current opening thatâs the right fit? We are always looking for talented people to join our team. If you're positive, passionate, and looking to join a winning team, send us your resume! Buckle recognizes that timing can be a challenge when considering",
+    "posted_at": "2026-07-28T17:02:49+00:00",
+    "collected_at_utc": "2026-07-30 13:55:24"
   },
   {
     "source_type": "jobicy",

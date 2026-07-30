@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-07-29 14:07 UTC
+Generated: 2026-07-30 13:56 UTC
 
-Total new jobs: 118
+Total new jobs: 120
 
 ## greenhouse
 
@@ -444,9 +444,17 @@ Total new jobs: 118
 
 ## remoteok
 
+- [Senior DevOps Engineer](https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1135562)
+  - Company: Lemon.io
+  - Location: Worldwide
+
 - [Maintenance](https://remoteOK.com/remote-jobs/remote-maintenance-road-ranger-1135589)
   - Company: Road Ranger
   - Location: Vidor,
+
+- [Not Finding Your Fit Apply Here](https://remoteOK.com/remote-jobs/remote-not-finding-your-fit-apply-here-the-buckle-inc-1135588)
+  - Company: The Buckle, Inc.
+  - Location: Kearney,
 
 ## weworkremotely
 
