@@ -545,6 +545,21 @@
     "collected_at_utc": "2026-07-31 14:01:20"
   },
   {
+    "source_type": "jobicy",
+    "company": "Clickhouse",
+    "title": "Senior Site Reliability Engineer- EMEA",
+    "location": "EMEA",
+    "team": "DevOps &amp; Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/149958-senior-site-reliability-engineer-emea",
+    "external_id": "jobicy::149958",
+    "description_snippet": "About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousin",
+    "posted_at": "2026-08-01T03:03:30+00:00",
+    "collected_at_utc": "2026-08-01 13:16:01"
+  },
+  {
     "source_type": "greenhouse",
     "company": "clickhouse",
     "title": "Senior Site Reliability Engineer- EMEA(Remote)",
@@ -1400,6 +1415,36 @@
     "description_snippet": "",
     "posted_at": "2026-07-30T13:06:27-04:00",
     "collected_at_utc": "2026-07-31 14:01:20"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Remote",
+    "title": "Senior IT Operations Engineer",
+    "location": "EMEA",
+    "team": "DevOps &amp; Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/149960-senior-it-operations-engineer",
+    "external_id": "jobicy::149960",
+    "description_snippet": "About Remote Remote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focused work culture, our team works ",
+    "posted_at": "2026-08-01T03:03:33+00:00",
+    "collected_at_utc": "2026-08-01 13:16:01"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Remote",
+    "title": "Senior Site Reliability Engineer",
+    "location": "EMEA",
+    "team": "DevOps &amp; Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/148108-senior-site-reliability-engineer",
+    "external_id": "jobicy::148108",
+    "description_snippet": "About Remote Remote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focused work culture, our team works ",
+    "posted_at": "2026-08-01T04:55:03+00:00",
+    "collected_at_utc": "2026-08-01 13:16:01"
   },
   {
     "source_type": "jobicy",

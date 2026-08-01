@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-07-31 14:02 UTC
+Generated: 2026-08-01 13:16 UTC
 
-Total new jobs: 116
+Total new jobs: 119
 
 ## greenhouse
 
@@ -366,6 +366,11 @@ Total new jobs: 116
   - Location: Anywhere
   - Level/Team: DevOps &amp; Infrastructure
 
+- [Senior Site Reliability Engineer- EMEA](https://jobicy.com/jobs/149958-senior-site-reliability-engineer-emea)
+  - Company: Clickhouse
+  - Location: EMEA
+  - Level/Team: DevOps &amp; Infrastructure
+
 - [Software Developer Sr. - AI-Native .NET/ Azure (Cloud Platform)](https://jobicy.com/jobs/146260-software-developer-sr-ai-native-net-azure-cloud-platform)
   - Company: Dayforce
   - Location: USA
@@ -389,6 +394,16 @@ Total new jobs: 116
 - [Cloud Engineer - VMWare](https://jobicy.com/jobs/143887-cloud-engineer-vmware)
   - Company: ManTech
   - Location: USA
+  - Level/Team: DevOps &amp; Infrastructure
+
+- [Senior IT Operations Engineer](https://jobicy.com/jobs/149960-senior-it-operations-engineer)
+  - Company: Remote
+  - Location: EMEA
+  - Level/Team: DevOps &amp; Infrastructure
+
+- [Senior Site Reliability Engineer](https://jobicy.com/jobs/148108-senior-site-reliability-engineer)
+  - Company: Remote
+  - Location: EMEA
   - Level/Team: DevOps &amp; Infrastructure
 
 - [Senior Site Reliability Engineer (Remote Build)](https://jobicy.com/jobs/146979-senior-site-reliability-engineer-remote-build)
