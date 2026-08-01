@@ -1,7 +1,7 @@
 # Jobs via Adzuna API
 
-Generated: 2026-07-31 14:17 UTC
-Total jobs (24h window): 603
+Generated: 2026-08-01 13:35 UTC
+Total jobs (24h window): 742
 
 - [Senior DevOps Engineer](https://www.adzuna.com/details/5822196523?utm_medium=api&utm_source=632a28fd)
   - Company: Ad Hoc | Mc Lean, Fairfax County
@@ -2414,3 +2414,559 @@ Total jobs (24h window): 603
 - [Sr. Software Engineer](https://www.adzuna.com/details/5665460172?utm_medium=api&utm_source=632a28fd)
   - Company: SUSE RGS | Reston, Fairfax County
   - Senior Software Engineer (Go & Kubernetes Expertise) Location: Remote COMPANY DESCRIPTION Rancher Government Solutions (...
+
+- [DevOps Engineer](https://www.adzuna.com/details/5823493600?utm_medium=api&utm_source=632a28fd)
+  - Company: Sentara Hospitals | Virginia Beach, Virginia Beach City
+  - City/State Virginia Beach, VA Work Shift First (Days) Overview: Sentara is hiring a DevOps Engineer! This position is fu...
+
+- [AWS DevOps Engineer with Security Clearance](https://www.adzuna.com/land/ad/5823376806?se=KIzZz62N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=BFD7BB9B1CE6F4D441AA8B727CF21D78F90FC747)
+  - Company: Millennium Corporation | Adams Run, Charleston County
+  - Overview Millennium is proud to be part of the Markon enterprise, a network of specialized organizations united in suppo...
+
+- [Data & AI Platform DevOps Engineer — Remote-Ready (Los Angeles)](https://www.adzuna.com/land/ad/5823276222?se=KIzZz62N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=009B2BD27A4D94DEB81764DAC4BF4D06FA600A46)
+  - Company: SimplePractice | Textile Finance, Los Angeles County
+  - SimplePractice is hiring a DevOps Engineer to support and scale our Data and AI platform in production. This role focuse...
+
+- [Urgent Opening For Middleware Sys Admin/DevOps Engineer](https://www.adzuna.com/land/ad/5822941128?se=KIzZz62N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=74ABEFC807B89B3B8DB2B8AE6856D16483A74F46)
+  - Company: Apetan Consulting | US
+  - R ole: Middleware Sys Admin/DevOps Engineer Location: 100% remote Interview: Virtual Interview Try to send candidates fr...
+
+- [DevOps Engineer - Remote](https://www.adzuna.com/land/ad/5822629361?se=KIzZz62N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=42DDCE44CEBED2CAF6825C9504C26B679680EA38)
+  - Company: Sentara Health | New Hampshire, US
+  - City/State Virginia Beach, VA Work Shift First (Days) Overview: Sentara is hiring a DevOps Engineer! This position is fu...
+
+- [DevOps Engineer - Remote](https://www.adzuna.com/land/ad/5822626801?se=KIzZz62N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=5CB96049814DF527E65D18BAD03650CA579CB0F0)
+  - Company: Sentara Health | Texas, US
+  - City/State Virginia Beach, VA Work Shift First (Days) Overview: Sentara is hiring a DevOps Engineer! This position is fu...
+
+- [DevOps Engineer AWS](https://www.adzuna.com/land/ad/5822623420?se=KIzZz62N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=28B725155F8CB0CC436E7AE467F731A38CBE3EB4)
+  - Company: Cognitive Minds LLC | California, US
+  - Job Title: DevOps Engineer AWS Location: Remote Employment Type: Contract W2 Job Summary We are seeking an experienced D...
+
+- [DevOps Engineer - Remote](https://www.adzuna.com/land/ad/5822605003?se=KIzZz62N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=32EB6242C5006578E385B53225D47E2BB527D54A)
+  - Company: Sentara Health | Georgia, US
+  - City/State Virginia Beach, VA Work Shift First (Days) Overview: Sentara is hiring a DevOps Engineer! This position is fu...
+
+- [Senior DevOps Engineer](https://www.adzuna.com/land/ad/5822586182?se=KIzZz62N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=2A99EB44A5D5A1FD9AB831BC5F1A6534B627F081)
+  - Company: ClifyX | US
+  - Job Title: Senior DevOps Engineer Work Location: : Remote Contract duration: Long term Contract Visa: Job Description: 1...
+
+- [AWS DevOps Engineer](https://www.adzuna.com/details/5822401003?utm_medium=api&utm_source=632a28fd)
+  - Company: Millennium Corporation | US
+  - Millennium is proud to be part of the Markon enterprise, a network of specialized organizations united in support of cri...
+
+- [Remote Senior AWS DevOps Engineer - Platform Ownership (, CT, United States)](https://www.adzuna.com/land/ad/5814065712?se=eB160K2N8RGNzO_fQd9OLg&utm_medium=api&utm_source=632a28fd&v=4A13A849C7E27604D8DB35D439D7CBF4071EA9C1)
+  - Company: Smith Arnold Partners | Connecticut, US
+  - Smith Arnold Partners is seeking a senior DevOps engineer to lead critical platform functions in a successful technology...
+
+- [Remote Senior DevOps Engineer - Kubernetes & RPA (Minneapolis)](https://www.adzuna.com/land/ad/5814014683?se=eB160K2N8RGNzO_fQd9OLg&utm_medium=api&utm_source=632a28fd&v=01AD2BA3A1A01EE23B0BA82806AAE804DF56920E)
+  - Company: Coherent Solutions | Minneapolis, Hennepin County
+  - A leading digital product engineering company in Mexico, Estado de México is seeking a skilled DevOps Engineer to design...
+
+- [DevOps/Traefik Migration Lead](https://www.adzuna.com/land/ad/5812965297?se=eB160K2N8RGNzO_fQd9OLg&utm_medium=api&utm_source=632a28fd&v=3B8974258BF34FDC0CAFDA6D648B1FA4BB21937E)
+  - Company: Apex Systems | Schiller Park, Cook County
+  - Job: 3043250 Job Description: Senior DevOps & Cloud Operations Engineer Location: Fully Remote-Must Work EST Hours Emplo...
+
+- [Lead DevOps Engineer - Texas Remote with Security Clearance](https://www.adzuna.com/land/ad/5810822048?se=eB160K2N8RGNzO_fQd9OLg&utm_medium=api&utm_source=632a28fd&v=05AB93CAF8AF76A44B64F97C1BE3022856FA1CD5)
+  - Company: Serco Inc. | Sprinkle, Travis County
+  - Position Description & Qualifications Serco is excited to support the Air Force Modeling and Simulation Support Services...
+
+- [DevOps Engineer/Release Management Engineer with Security Clearance](https://www.adzuna.com/land/ad/5804464027?se=eB160K2N8RGNzO_fQd9OLg&utm_medium=api&utm_source=632a28fd&v=6470E4B1D7A00825BA6CA9AA2AD5FA309FA66043)
+  - Company: Semper Valens Solutions | Security Services, Bexar County
+  - DevOps Engineer/Release Management Engineer Full Time Remote Top Secret/SCI Clearance This position is contingent upon c...
+
+- [Senior DevOps Engineer - Remote USA with Security Clearance](https://www.adzuna.com/land/ad/5799446375?se=eB160K2N8RGNzO_fQd9OLg&utm_medium=api&utm_source=632a28fd&v=A076881CE541C60685B2CCE9AEED88DF66257186)
+  - Company: ICF Consulting Group, Inc. | Reston, Fairfax County
+  - Description The Company ICF is a mission-driven company filled with people who care deeply about improving the lives of ...
+
+- [Site Reliability Engineer](https://www.adzuna.com/details/5823578075?utm_medium=api&utm_source=632a28fd)
+  - Company: Experis | Sixth Street, San Francisco
+  - Our client, a leading organization in cloud infrastructure and platform services, is seeking a Site Reliability Engineer...
+
+- [Lead Site Reliability Engineer](https://www.adzuna.com/land/ad/5823138481?se=8Dc30a2N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=4A49AC9B6C6A7717D0B733E729FFD98715F47B62)
+  - Company: Goldenpick Technologies LLC | US
+  - Role - Lead Site Reliability Engineer Location - Remote Skills Must have Strong experience in observability and monitori...
+
+- [AWS Site Reliability Engineer (SRE) - Remote - W2 Contract](https://www.adzuna.com/land/ad/5823136358?se=8Dc30a2N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=FC2E9AC30C5A494754A70340F0EBE546B3F4ABBA)
+  - Company: Arrowminds inc | US
+  - Position: AWS Site Reliability Engineer (SRE) Location: Remote Duration: 6 Months Contract-to-Hire W2 Contract Required ...
+
+- [Lead Site Reliability Engineer](https://www.adzuna.com/details/5823110661?utm_medium=api&utm_source=632a28fd)
+  - Company: Goldenpick Technologies | Atlanta, Fulton County
+  - Role - Lead Site Reliability Engineer Location - Remote Skills Must have Strong experience in observability and monitori...
+
+- [Lead Site Reliability Engineer](https://www.adzuna.com/land/ad/5822929306?se=8Dc30a2N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=60A8663D6B8E994E07D89088A7A1F0999A66B8C5)
+  - Company: Digitech Services | US
+  - Title: Lead Site Reliability Engineer Location: Remote - 2 first weeks will be on site in Wilmington, Delaware, or Buffa...
+
+- [Site Reliability Engineer](https://www.adzuna.com/land/ad/5822710233?se=8Dc30a2N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=979789C2B991AC2B345678EAE615621ED099652C)
+  - Company: Avacend, Inc. | US
+  - Notes: Candidate Must be eligible to work on FedRAMP projects. Role: Site Reliability Engineer Location: Remote Duration...
+
+- [Senior Site Reliability Engineer Remote (Argentina) (New York)](https://www.adzuna.com/land/ad/5814110365?se=8Dc30a2N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=D9F2CAE0148603F138230F99037B39D12F02B66A)
+  - Company: SecurityScorecard | Grand Central, Manhattan
+  - SecurityScorecard is the global leader in cybersecurity ratings, with over 12 million companies continuously rated, oper...
+
+- [Senior Site Reliability Engineer (Washington)](https://www.adzuna.com/land/ad/5814052171?se=8Dc30a2N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=924121681A4673938F7A6D501F44FDEC143CE061)
+  - Company: Signature IT World Inc | Rosslyn, Arlington County
+  - Direct message the job poster from Signature IT World Inc Production support expertise with SRE Observability experience...
+
+- [DevOps Engineer – AWS/Kubernetes/Rancher (San Francisco)](https://www.adzuna.com/land/ad/5814011380?se=8Dc30a2N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=9B9B80B5DA69FF03CFFA4AB8AA7B9A02AF86D927)
+  - Company: Experis | Mission District, San Francisco
+  - Direct message the job poster from Experis US IT Technical Recruiter @ Experis IT Manpower | Full-life Cycle Recruiting ...
+
+- [Site Reliability Engineer - AWS - Remote](https://www.adzuna.com/land/ad/5753864919?se=jHXk0a2N8RGF0ZX5EeJHlw&utm_medium=api&utm_source=632a28fd&v=E3704A5D8738E9F5CF637D8D9A62268565E44EC1)
+  - Company: SitusAMC | Salem, Marion County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Site Reliability Engineer - AWS - Remote](https://www.adzuna.com/land/ad/5753853694?se=jHXk0a2N8RGF0ZX5EeJHlw&utm_medium=api&utm_source=632a28fd&v=0B7CB6E313B70B91F8075CE35DEFAB7EBEE62468)
+  - Company: SitusAMC | Ny State Campus, Albany County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Site Reliability Engineer - AWS - Remote](https://www.adzuna.com/land/ad/5753851111?se=jHXk0a2N8RGF0ZX5EeJHlw&utm_medium=api&utm_source=632a28fd&v=AF502588922D16E62CA577BC7C1DF4E48E69512B)
+  - Company: SitusAMC | Cammack Village, Pulaski County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Site Reliability Engineer - AWS - Remote](https://www.adzuna.com/land/ad/5753809812?se=jHXk0a2N8RGF0ZX5EeJHlw&utm_medium=api&utm_source=632a28fd&v=04C2EF222AAEB690316752A0F300C096EC40336A)
+  - Company: SitusAMC | Edgewood, Richland County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Site Reliability Engineer - AWS - Remote](https://www.adzuna.com/land/ad/5753807689?se=jHXk0a2N8RGF0ZX5EeJHlw&utm_medium=api&utm_source=632a28fd&v=3FCD41598958D529CB8D7982C2A0CFC151F42E99)
+  - Company: SitusAMC | Des Moines, Polk County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Site Reliability Engineer - AWS - Remote](https://www.adzuna.com/land/ad/5753799019?se=jHXk0a2N8RGF0ZX5EeJHlw&utm_medium=api&utm_source=632a28fd&v=6079609BE796A8E2B0C7720643F9F8105C51E25F)
+  - Company: SitusAMC | Augusta, Kennebec County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Site Reliability Engineer - AWS - Remote](https://www.adzuna.com/land/ad/5753797170?se=jHXk0a2N8RGF0ZX5EeJHlw&utm_medium=api&utm_source=632a28fd&v=EC51705C88349753869E3569EC78129E1C053BD3)
+  - Company: SitusAMC | Helena, Lewis and Clark County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Site Reliability Engineer - AWS - Remote](https://www.adzuna.com/details/5753776124?utm_medium=api&utm_source=632a28fd)
+  - Company: SitusAMC | Penbrook, Dauphin County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Site Reliability Engineer - AWS - Remote](https://www.adzuna.com/details/5753762093?utm_medium=api&utm_source=632a28fd)
+  - Company: SitusAMC | Tarrytown, Travis County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Site Reliability Engineer - AWS - Remote](https://www.adzuna.com/details/5753761429?utm_medium=api&utm_source=632a28fd)
+  - Company: SitusAMC | Capitol, Richmond
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Site Reliability Engineer - AWS - Remote](https://www.adzuna.com/details/5753758914?utm_medium=api&utm_source=632a28fd)
+  - Company: SitusAMC | Springfield, Sangamon County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Site Reliability Engineer - AWS - Remote](https://www.adzuna.com/details/5753742772?utm_medium=api&utm_source=632a28fd)
+  - Company: SitusAMC | US
+  - SitusAMC is where the best and most passionate people come to transform our client’s businesses and their own careers. W...
+
+- [Site Reliability Engineer - AWS - Remote](https://www.adzuna.com/land/ad/5753705040?se=jHXk0a2N8RGF0ZX5EeJHlw&utm_medium=api&utm_source=632a28fd&v=534CC1072699E7699E1B54F2EF584585ACDE9255)
+  - Company: SitusAMC | Annapolis, Anne Arundel County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Site Reliability Engineer - AWS - Remote](https://www.adzuna.com/land/ad/5753700847?se=jHXk0a2N8RGF0ZX5EeJHlw&utm_medium=api&utm_source=632a28fd&v=7DD6F4C5D602D8B1BBCC4A2B535160E6145A29FF)
+  - Company: SitusAMC | La Cienga, Santa Fe County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Senior Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5742773263?se=jHXk0a2N8RGF0ZX5EeJHlw&utm_medium=api&utm_source=632a28fd&v=F8D1988020404CD7452FB33E9414FE786107F551)
+  - Company: Kforce Technology Staffing | Highland Beach, Palm Beach County
+  - RESPONSIBILITIES: Kforce has a client seeking a remote Senior Site Reliability Engineer to be a l be a leading member of...
+
+- [Senior Site Reliability Engineer](https://www.adzuna.com/details/5721148518?utm_medium=api&utm_source=632a28fd)
+  - Company: Andromeda Cluster | San Francisco, California
+  - Senior Site Reliability Engineer Location: Global Remote / San Francisco · Full-Time About Andromeda Andromeda Cluster w...
+
+- [Site Reliability Engineer (USA Only - 100% Remote)](https://www.adzuna.com/details/5445423911?utm_medium=api&utm_source=632a28fd)
+  - Company: Close | US
+  - About Us Since 2013, we’ve been building a CRM that gets out of your way and helps your team sell more, faster. Now we’r...
+
+- [Sr. Software Engineer - AI Platform Experience (Remote)](https://www.adzuna.com/land/ad/5823893986?se=miCy0q2N8RGGgO_n0rmdiQ&utm_medium=api&utm_source=632a28fd&v=431CEADC284B77D6C900EF1357610507038AC7A8)
+  - Company: Rula | Los Angeles, Los Angeles County
+  - We believe that mental health is just as important as physical health. We recognize that mental health issues can be com...
+
+- [Financial Analyst (FP&A)](https://www.adzuna.com/details/5823439135?utm_medium=api&utm_source=632a28fd)
+  - Company: Coder | US
+  - Coder is looking for a Financial Analyst to join our Financial Planning & Strategy team. In this role, you’ll own key pl...
+
+- [SRE](https://www.adzuna.com/details/5823113148?utm_medium=api&utm_source=632a28fd)
+  - Company: Openkyber | Alaska, US
+  - Title: Senior SRE - Platform - Kubernetes Engineer Location: Houston, TX/Remote Duration: Full Time Client: OpenKyber Sa...
+
+- [Embedded Software Engineer](https://www.adzuna.com/details/5823109571?utm_medium=api&utm_source=632a28fd)
+  - Company: Tech3pillars Technologies | Alaska, US
+  - Job Description Lead Embedded Software MediaTek C-X1 Platform Engineer Location: Palo Alto/CA (Remote) Job Summary We ar...
+
+- [AI & Platform Software Engineer - Remote -Contract](https://www.adzuna.com/land/ad/5822936819?se=miCy0q2N8RGGgO_n0rmdiQ&utm_medium=api&utm_source=632a28fd&v=908DB5A1CF50E70611222408847D8018B81D8C13)
+  - Company: Lorven Technologies, Inc. | US
+  - Title : AI & Platform Software Engineer Remote Type: Contract Job Description : Responsibilities Design, build, test, an...
+
+- [Sr Platform Engineer (SRE)](https://www.adzuna.com/land/ad/5822623442?se=miCy0q2N8RGGgO_n0rmdiQ&utm_medium=api&utm_source=632a28fd&v=B57A8037DE03439158DC79795D8DCD0E3C8B87C4)
+  - Company: ScrumLink, Inc. | US
+  - Job Title : Sr Platform Engineer (SRE) Location : Remote Duration : Full-Time Salary $130K Position Overview Senior Staf...
+
+- [Senior Data Engineer – Encounter Processing & Data Platform - Remote](https://www.adzuna.com/details/5822290914?utm_medium=api&utm_source=632a28fd)
+  - Company: Novalink Solutions LLC | Lincoln, Lancaster County
+  - Senior Data Engineer – Encounter Processing & Data Platform Job Summary The Senior Data Engineer will serve as the prima...
+
+- [Power Platform & AI Engineer](https://www.adzuna.com/land/ad/5820537003?se=miCy0q2N8RGGgO_n0rmdiQ&utm_medium=api&utm_source=632a28fd&v=1F3614BF3988F9ED112A676DB0BC0D871E4EC28C)
+  - Company: ClearBridge Technology Group | Hayes Valley, San Francisco
+  - Our client, a technology solutions provider company located in San Francisco, needs a Power Platform & AI Engineer for a...
+
+- [Machine Learning Engineer- Cloud Deployment (Remote)](https://www.adzuna.com/land/ad/5823058781?se=pCk51K2N8RGOONzcv03M1g&utm_medium=api&utm_source=632a28fd&v=DAC6C66971B50948CD675CB5CF546DE2010170E0)
+  - Company: Roku | Alviso, San Jose
+  - ROKU IS CHANGING HOW THE WORLD WATCHES TV Roku is the 1 TV streaming platform in the U.set our sights on powering every ...
+
+- [Remote Senior Cloud Infrastructure Engineer](https://www.adzuna.com/land/ad/5823049621?se=pCk51K2N8RGOONzcv03M1g&utm_medium=api&utm_source=632a28fd&v=2857AD267710681A0BFBDCD3A1DFE687825C4423)
+  - Company: Anduril Industries | Washington, Washington, D.C.
+  - Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities wit...
+
+- [Cloud Security Engineer – Risk Reduction (Remote)](https://www.adzuna.com/land/ad/5822942577?se=pCk51K2N8RGOONzcv03M1g&utm_medium=api&utm_source=632a28fd&v=84C7F362B37FD9E7D01C31ECA01DF800318B0F7E)
+  - Company: Dahl Consulting | US
+  - Title : Cloud Security Engineer – Risk Reduction Location : Remote Job Type : Contract (12 Months) Compensation : $90.23...
+
+- [AWS Cloud Security Engineer](https://www.adzuna.com/land/ad/5822586032?se=pCk51K2N8RGOONzcv03M1g&utm_medium=api&utm_source=632a28fd&v=D9C21C474FEAC780E0008E91146605AF114EAF64)
+  - Company: Resource 1 | US
+  - Resource 1 is seeking an experienced AWS Cloud Security Engineer for a remote contract engagement with our client based ...
+
+- [Senior Infrastructure Engineer/Finance/NYC Local Remote](https://www.adzuna.com/land/ad/5823954468?se=5J3n1a2N8RGv1eY0AXRckA&utm_medium=api&utm_source=632a28fd&v=DA393417B7265E45E962F843A3A2815627AF91D4)
+  - Company: Motion Recruitment | Weehawken, Hudson County
+  - Job Description Our client is a pioneering data company specializing in low latency APIs that deliver high speed options...
+
+- [X86 Compute Infrastructure Engineer](https://www.adzuna.com/land/ad/5822619794?se=5J3n1a2N8RGv1eY0AXRckA&utm_medium=api&utm_source=632a28fd&v=7E940B290E53C564BBD2BA3E90D975B245392335)
+  - Company: Sunrise Systems, Inc. | US
+  - Job Title: X86 Compute Infrastructure Engineer Location: Remote Duration: 12 months of contract Job Description: An x86 ...
+
+- [Senior Site Reliability Engineer (Washington)](https://www.adzuna.com/land/ad/5814032564?se=8k6g1q2N8RG8JMyxbRrc7Q&utm_medium=api&utm_source=632a28fd&v=EE63670BA4519EA9549CFE8E73D9546106B25578)
+  - Company: The Recruiting Guy | Rosslyn, Arlington County
+  - Senior Cloud Infrastructure Engineer Location: San Francisco, CA. Remote unavailable. Modality: On‑Site only. Must live ...
+
+- [Infrastructure Engineer — Distributed Systems (Remote/LA) Equity (San Francisco)](https://www.adzuna.com/land/ad/5814015895?se=8k6g1q2N8RG8JMyxbRrc7Q&utm_medium=api&utm_source=632a28fd&v=333AC65C627F47B7EB5AC5B6D590D00EFE041719)
+  - Company: Sift | Mission District, San Francisco
+  - A technology company is seeking early engineers to design and maintain scalable infrastructure solutions. You will work ...
+
+- [Senior Site Reliability Engineer (San Francisco)](https://www.adzuna.com/land/ad/5814015327?se=8k6g1q2N8RG8JMyxbRrc7Q&utm_medium=api&utm_source=632a28fd&v=F7703D99255F9C2B8CB7AEDC85D447EE0D72F3A8)
+  - Company: The Recruiting Guy | Mission District, San Francisco
+  - 1 day ago Be among the first 25 applicants This range is provided by The Recruiting Guy. Your actual pay will be based o...
+
+- [Foundational Infrastructure Engineer — Remote‑First, High Impact (San Francisco)](https://www.adzuna.com/land/ad/5814014591?se=8k6g1q2N8RG8JMyxbRrc7Q&utm_medium=api&utm_source=632a28fd&v=905FCA1AFC382FE1BB178880025190BF6759109A)
+  - Company: Numeral | Mission District, San Francisco
+  - A leading tech startup is seeking a foundational Software Engineer (Infrastructure) in San Francisco to design and build...
+
+- [IT Infrastructure Engineer](https://www.adzuna.com/details/5805526668?utm_medium=api&utm_source=632a28fd)
+  - Company: Levi, Ray & Shoup, Inc. | Springfield, Sangamon County
+  - Primary Navigation  Who We Are  History (https://www.lrs.com/who-we-are/history/)  Company Overview  Leadership (https:/...
+
+- [AI Infrastructure & Platform Operations Engineer (remote in the US)](https://www.adzuna.com/details/5805501518?utm_medium=api&utm_source=632a28fd)
+  - Company: Mirantis | US
+  - Job Description Our organization is establishing an Americas-based AI Infrastructure & Platform Operations unit dedicate...
+
+- [Infrastructure Automation Engineer](https://www.adzuna.com/details/5802787016?utm_medium=api&utm_source=632a28fd)
+  - Company: EXL | US
+  - Description Position: Infrastructure Automation Engineer Location: Remote, preferably in Pittsburgh or New Jersey Salary...
+
+- [Data Infrastructure Engineer- onsite in Memphis no remote](https://www.adzuna.com/land/ad/5801952596?se=8k6g1q2N8RG8JMyxbRrc7Q&utm_medium=api&utm_source=632a28fd&v=331B06A73031B1B30481A4CD808969D8DE1E158D)
+  - Company: Vaco by Highspring | Cloverdale, Shelby County
+  -  s and those authorized to work in the US are encouraged to apply.   We are unable to sponsor candidates at this time.  ...
+
+- [Senior Mainframe Storage Engineer](https://www.adzuna.com/details/5800157543?utm_medium=api&utm_source=632a28fd)
+  - Company: PGTEK | US
+  - Senior Mainframe Storage Administrator / Mainframe Infrastructure Engineer Location: Remote (U.S.) Employment Type: Full...
+
+- [Sr. AI Infrastructure Engineer, LLM/AI Platforms (Remote)](https://www.adzuna.com/details/5797893496?utm_medium=api&utm_source=632a28fd)
+  - Company: CrowdStrike | US
+  - As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organ...
+
+- [Senior Infrastructure Engineer – Bazel Remote Execution](https://www.adzuna.com/details/5796583862?utm_medium=api&utm_source=632a28fd)
+  - Company: NVIDIA | California, US
+  - NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It’s a uniq...
+
+- [HIL Infrastructure Engineer/ Robotics/ Remote](https://www.adzuna.com/details/5794917160?utm_medium=api&utm_source=632a28fd)
+  - Company: Kelly Services | William Penn Annex East, Philadelphia County
+  - $160000 - $180000 This opportunity is with a rapidly growing technology company focuses on robotics and autonomous syste...
+
+- [HIL Infrastructure Engineer/ Robotics/ Remote](https://www.adzuna.com/land/ad/5793616978?se=8k6g1q2N8RG8JMyxbRrc7Q&utm_medium=api&utm_source=632a28fd&v=32441260F4CA95B58AB2451D0EEAB9EDA6E82311)
+  - Company: Motion Recruitment Partners, LLC | US
+  - This opportunity is with a rapidly growing technology company focuses on robotics and autonomous systems. This is a full...
+
+- [Systems Engineer II - Automation & Infrastructure Engineering](https://www.adzuna.com/land/ad/5790231157?se=8k6g1q2N8RG8JMyxbRrc7Q&utm_medium=api&utm_source=632a28fd&v=BB4CAC47011E27D2CD034732504C13D1686FBE5C)
+  - Company: Noblesoft Technologies Inc. | US
+  - Job Title: Systems Engineer II – Automation & Infrastructure Engineering Location: Remote in US Role: Contract/Fulltime ...
+
+- [Senior Infrastructure Engineer/Finance/NYC Local Remote](https://www.adzuna.com/land/ad/5786325316?se=8k6g1q2N8RG8JMyxbRrc7Q&utm_medium=api&utm_source=632a28fd&v=C67445B06342001CB4414329F34238FC6D370266)
+  - Company: Kelly Services | Summit Avenue, Hudson County
+  - $175000 - $200000 Our client is a pioneering data company specializing in low latency APIs that deliver high speed optio...
+
+- [Tools Engineer (Infrastructure Automation & Cloud Platforms) - US REMOTE](https://www.adzuna.com/details/5786177192?utm_medium=api&utm_source=632a28fd)
+  - Company: NTT America, Inc. | Plano, Collin County
+  - Req ID: 372477 NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If ...
+
+- [AWS Cloud Engineer- Infrastructure](https://www.adzuna.com/land/ad/5784711300?se=8k6g1q2N8RG8JMyxbRrc7Q&utm_medium=api&utm_source=632a28fd&v=BE462BB3F4E92799F463107DC0165C1BDDD0AA23)
+  - Company: VKore Solutions LLC | US
+  - Job Description: Title AWS Cloud Engineer- Infrastructure location Remote Type Contract Interview Mode: Virtual. The top...
+
+- [Senior Infrastructure Engineer/Finance/NYC Local Remote](https://www.adzuna.com/land/ad/5782801537?se=8k6g1q2N8RG8JMyxbRrc7Q&utm_medium=api&utm_source=632a28fd&v=03E5503B732D3960F2D06D63DBE3C2C2834ADF93)
+  - Company: Motion Recruitment Partners, LLC | US
+  - Our client is a pioneering data company specializing in low latency APIs that deliver high speed options and stocks data...
+
+- [Senior Infrastructure Security Software Engineer (Remote)](https://www.adzuna.com/details/5778825359?utm_medium=api&utm_source=632a28fd)
+  - Company: Quora | US
+  - [ Quora is a privately held, "remote-first" company . This position can be performed remotely from anywhere in Canada or...
+
+- [Cloud Platform Engineer](https://www.adzuna.com/details/5777253433?utm_medium=api&utm_source=632a28fd)
+  - Company: Grand Circle | South Boston, Suffolk County
+  - Position Title: Cloud Platform Engineer Department: Technology / Infrastructure Location: Remote or Boston, MA (Hybrid –...
+
+- [Support Engineer](https://www.adzuna.com/details/5775963028?utm_medium=api&utm_source=632a28fd)
+  - Company: G2i | US
+  - Client Support Engineer (Payments & Financial Infrastructure) Remote (U.S.) | Full-Time Our client is building next-gene...
+
+- [IT Infrastructure/Security Engineer](https://www.adzuna.com/details/5766303485?utm_medium=api&utm_source=632a28fd)
+  - Company: Dover Federal Credit Union | Wyoming, Kent County
+  - Full-time Description The IT Infrastructure/Security Engineer is responsible for hands-on administration, maintenance, a...
+
+- [Senior SysOps Engineer](https://www.adzuna.com/details/5763493364?utm_medium=api&utm_source=632a28fd)
+  - Company: OneStream | US
+  - Senior SysOps Engineer - Infrastructure Focus Location : Remote, USA Employment Type : Full-Time Benefits Offered : Visi...
+
+- [Embedded SIL Test Infrastructure Engineer](https://www.adzuna.com/land/ad/5763117280?se=8k6g1q2N8RG8JMyxbRrc7Q&utm_medium=api&utm_source=632a28fd&v=84AA951EC9F4A18B1CF49329223CCFADE267E3D9)
+  - Company: John Deere | East Dubuque, Jo Daviess County
+  - There are over 7 billion people on this planet. And by 2050, there will be 2 billion more many moving into urban centers...
+
+- [Systems Engineer (Advanced, Cyber Infrastructure) with Security Clearance](https://www.adzuna.com/land/ad/5760151461?se=8k6g1q2N8RG8JMyxbRrc7Q&utm_medium=api&utm_source=632a28fd&v=13543A7EA9D456177B520CE2D18FC18824657810)
+  - Company: ECS | Hampton Roads, Hampton City
+  - Job Description ECS is seeking an experienced Systems Engineer (Advanced, Cyber Infrastructure) to work remotely providi...
+
+- [Sr. Infrastructure / DevSecOps Systems Engineer with Security Clearance](https://www.adzuna.com/land/ad/5758691865?se=8k6g1q2N8RG8JMyxbRrc7Q&utm_medium=api&utm_source=632a28fd&v=51B8E8AB6ED0D0842985BCC92766AF7EBC506478)
+  - Company: ECS | Hampton Roads, Hampton City
+  - Job Description ECS is seeking an experienced Sr. Infrastructure / DevSecOps Systems Engineer to work remotely providing...
+
+- [Systems Engineer (Intermediate, Cyber Infrastructure) with Security Clearance](https://www.adzuna.com/land/ad/5758055335?se=8k6g1q2N8RG8JMyxbRrc7Q&utm_medium=api&utm_source=632a28fd&v=ED1C1C49F82BB5B14AC50903DAB09B02BC21FCAA)
+  - Company: ECS | Hampton Roads, Hampton City
+  - Job Description ECS is seeking an experienced Systems Engineer (Intermediate, Cyber Infrastructure) to work remotely pro...
+
+- [IT - Infrastructure Systems - DevOps Engineer II (Remote in CA only)](https://www.adzuna.com/details/5758018476?utm_medium=api&utm_source=632a28fd)
+  - Company: Golden 1 Credit Union | Sacramento, Sacramento County
+  - TITLE: DevOps Engineer IISTATUS: ExemptREPORTS TO: Mgr - DevOps - SREDEPARTMENT: IT - Infrastructure Systems JOB CODE: 1...
+
+- [Job Requirements](https://www.adzuna.com/details/5755050207?utm_medium=api&utm_source=632a28fd)
+  - Company: KORE1 Technologies | Houston, Harris County
+  - KORE1, a nationwide provider of staffing and recruiting solutions, has an immediate opening for a Machine Learning & AI ...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5823377602?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=CCE3CAECD685ECEB0E14EC9747A273579D454638)
+  - Company: Cognizant | Tumwater, Thurston County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5823376066?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=4A9C4324661A59B96E76241CE3764F176C41363E)
+  - Company: Cognizant | Madison, Dane County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5823375886?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=88E319D16E088D94541730A195DBAD217A8A8330)
+  - Company: Cognizant | Bonnie, Utah County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5823315983?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=7689E8AE87A6007B857F898129A4CB7D26348BA2)
+  - Company: Cognizant | Charleston, Kanawha County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5823314244?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=6903652C45CBD9DC71773662A82DC0049D7D3883)
+  - Company: Cognizant | Montpelier, Washington County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [Senior Front End Developer](https://www.adzuna.com/land/ad/5823249555?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=57AA47F9E63DB4EDDBB0BA51957439320655A4CA)
+  - Company: Maximus | Trenton, Mercer County
+  - Maximus is seeking an experienced Senior Front End Developer to join our team! The Senior Front End Developer provides s...
+
+- [Senior Front End Developer](https://www.adzuna.com/land/ad/5823245953?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=8EA7A746933E4872E28993A6BAF33CCE59D1D9D3)
+  - Company: Maximus | State House, Lancaster County
+  - Maximus is seeking an experienced Senior Front End Developer to join our team! The Senior Front End Developer provides s...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5823245617?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=2E864DBCB56980E4AFC468E339E0A99C356F50CD)
+  - Company: Cognizant | Trenton, Mercer County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5823245540?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=A668D14486C4397F7FF095ADF00367D70A7A289E)
+  - Company: Cognizant | Cedar, Cole County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5823244575?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=986E6895EF0AD756E1FB4CF78F29900A035BBFD8)
+  - Company: Cognizant | Frankfort, Franklin County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5823244428?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=37EDB87E562280EEC75AEBDD8C549BFB3F4BF837)
+  - Company: Cognizant | Topeka, Shawnee County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5823244074?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=008DA99A84AAB9947F3378BA34CCB5D9293CB0AA)
+  - Company: Cognizant | State House, Lancaster County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5823243900?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=D37799AD813F75FB8EB302C3842335B17AD2B576)
+  - Company: Cognizant | Pierre, Hughes County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5823243718?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=D2E360A730BB723C2ECA37998ECF7EA8C050E678)
+  - Company: Cognizant | Carson Mall, Carson City
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5823243405?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=5A38EB6368F132F6E41EC127DF2466A8D50E163C)
+  - Company: Cognizant | Jackson, Hinds County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5823243284?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=9CA5F199BD8DDED9D5A682E9F3E5591E765F182B)
+  - Company: Cognizant | Concord, Merrimack County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5823243084?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=5DFFEC962688D90C0242A3E4C943A91C317C395F)
+  - Company: Cognizant | Providence, Providence County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5823238779?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=4432799410D7AA6D5B3D2E845D50BD3BABCCFAF6)
+  - Company: Cognizant | Bismarck, Burleigh County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5823238684?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=05F91470E37D159CE6EFB6D35E7F69669440B37F)
+  - Company: Cognizant | Boise, Ada County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5823238697?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=624EBD41D9B894880729B56B4973377A6741F1C4)
+  - Company: Cognizant | Wyoming, Kent County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5823238630?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=C3924A5C4AD049F7B9BEB343885300424558F768)
+  - Company: Cognizant | Washington, D.C., US
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/details/5823238281?utm_medium=api&utm_source=632a28fd)
+  - Company: Cognizant | Douglas, Juneau
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5823236984?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=57B648484A079DF7398E086EFB046FB790C84102)
+  - Company: Cognizant | Archer, Laramie County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5823228418?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=881EA0840FCAB2237426CBBF0B018E280DCC9CE0)
+  - Company: Cognizant | Ny State Campus, Albany County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [Senior Front End Developer](https://www.adzuna.com/land/ad/5823218392?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=27528763A5ECD5335777313DE65383E4550E7883)
+  - Company: Maximus | Phoenix, Maricopa County
+  - Maximus is seeking an experienced Senior Front End Developer to join our team! The Senior Front End Developer provides s...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5823218104?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=57AA0DA231E1F42D8B8C2ECA6B34DA633BB039DD)
+  - Company: Cognizant | Grandview Heights, Franklin County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5823216003?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=3214D574FDB9917B3D2DF3A9024556D2145563DF)
+  - Company: Cognizant | Five Points, Wake County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5823215045?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=58AC5755CEAAD317129773879F6BB1C2B3A593A6)
+  - Company: Cognizant | Nashville, Davidson County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5823214803?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=8A06E6A605FB5CC9E4599565CE214366684AB50D)
+  - Company: Cognizant | Atlanta, Fulton County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5823214681?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=5E5325B6704800CD6AD88FA0DB4B671F116B59C6)
+  - Company: Cognizant | Boston, Suffolk County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5823214397?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=3AABB29D802FCCCF72417D77C0F2621DE99BA9B0)
+  - Company: Cognizant | Saint Paul, Ramsey County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5823214377?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=676EECE637C027AE3269A94A53ABF25B8D4E337C)
+  - Company: Cognizant | Phoenix, Maricopa County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5823214167?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=468F24C5C68EDE8C39700D9B0A07A8CE2DBCE59B)
+  - Company: Cognizant | Lansing, Ingham County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5823213926?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=068C6758B58CB16BAA4D4435CB6340354BF0E13E)
+  - Company: Cognizant | Glendale, Denver
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5823213542?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=2BF75E5EAD682065FA7455C39C202BA03ED92358)
+  - Company: Cognizant | Salem, Marion County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5823213134?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=9A95B4960B39584A34E910EC408AA8F14063A33D)
+  - Company: Cognizant | Talcott Village, Hartford County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5823212966?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=BDB2721A700882E0A984432A1BFC9FAF04027A94)
+  - Company: Cognizant | Oklahoma City, Oklahoma County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5823212558?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=9B7CE3961889508C28173DCB6C574233BBCEE2DF)
+  - Company: Cognizant | Chisolm, Montgomery County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5823212247?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=A44735C69CDAC96F730F01AED5BB1797F8FF676D)
+  - Company: Cognizant | Cammack Village, Pulaski County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5823174469?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=A19F4592522139DF7ECCFF19D1D4DFEEAD341EF9)
+  - Company: Cognizant | Uptown, Marion County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5823142429?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=A679B064AEC7F760423C7F2A1A6B63A6FFBA88A3)
+  - Company: Cognizant | Edgewood, Richland County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5823142205?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=2ABAED375705F54671FD88E8FF680F240E823392)
+  - Company: Cognizant | Des Moines, Polk County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5823142007?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=B40612D0A7E47D60983D2B872502DE875D284243)
+  - Company: Cognizant | Helena, Lewis and Clark County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5823141928?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=8247C097903C5097ECB3C7F6675CD5324223B92E)
+  - Company: Cognizant | Augusta, Kennebec County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5823141829?se=lG0v162N8RGi0K8q6sKo3Q&utm_medium=api&utm_source=632a28fd&v=03416A2D677C3927B07B5801E686FBA803035FE0)
+  - Company: Cognizant | Wake Island, Honolulu
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/details/5823134979?utm_medium=api&utm_source=632a28fd)
+  - Company: Cognizant | Penbrook, Dauphin County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/details/5823117272?utm_medium=api&utm_source=632a28fd)
+  - Company: Cognizant | Tallahassee, Leon County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/details/5823115060?utm_medium=api&utm_source=632a28fd)
+  - Company: Cognizant | Capitol, Richmond
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/details/5823114099?utm_medium=api&utm_source=632a28fd)
+  - Company: Cognizant | Springfield, Sangamon County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5822928481?se=tljM162N8RGv1eY0AXRckA&utm_medium=api&utm_source=632a28fd&v=E136CEB614595D3A1EA1D6C992A2A7843719468E)
+  - Company: Cognizant | Annapolis, Anne Arundel County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [AWS DevSecOps Cloud Lead](https://www.adzuna.com/land/ad/5822927704?se=tljM162N8RGv1eY0AXRckA&utm_medium=api&utm_source=632a28fd&v=6F747A8988F922201075EE005E87F963B74C79F1)
+  - Company: Cognizant | La Cienga, Santa Fe County
+  - Job Title: Cloud Lead- AWS DevSecOps Job Location: Remote- USA  Please note, this role is not able to offer visa transfe...
+
+- [Senior Front End Developer](https://www.adzuna.com/land/ad/5822015565?se=tljM162N8RGv1eY0AXRckA&utm_medium=api&utm_source=632a28fd&v=7337EBEAD12919F2517BE965C604F7545070FBAB)
+  - Company: Maximus | Montpelier, Washington County
+  - Maximus is seeking an experienced Senior Front End Developer to join our team! The Senior Front End Developer provides s...
+
+- [Kubernetes Engineer](https://www.adzuna.com/land/ad/5822586089?se=iDNL2a2N8RGv1eY0AXRckA&utm_medium=api&utm_source=632a28fd&v=5997A42C1EBC87A010AF80DF73C045F8E4FCF672)
+  - Company: ALIS Software | US
+  - Hi, Good day! If you are intrested with the below job role then please reply back with updated resume and contact detail...
+
+- [Platform Infra Engineer - Cloud, Kubernetes, CI/CD (Remote) (Boston)](https://www.adzuna.com/land/ad/5814049673?se=iDNL2a2N8RGv1eY0AXRckA&utm_medium=api&utm_source=632a28fd&v=5F6AFE997D254AF10A6C98E8ECC68C531050124C)
+  - Company: AcuityMD | Boston, Suffolk County
+  - A medical technology company is seeking a Software Engineer for their Infrastructure team. This role focuses on implemen...
