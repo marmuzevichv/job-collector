@@ -1,14 +1,10 @@
 # New jobs
 
-Generated: 2026-08-01 13:16 UTC
+Generated: 2026-08-02 13:17 UTC
 
-Total new jobs: 119
+Total new jobs: 118
 
 ## greenhouse
-
-- [Senior Audiovisual Infrastructure Engineer](https://careers.airbnb.com/positions/7917632?gh_jid=7917632)
-  - Company: airbnb
-  - Location: Remote
 
 - [Senior iOS Automation Engineer](https://careers.airbnb.com/positions/7453190?gh_jid=7453190)
   - Company: airbnb
@@ -62,15 +58,11 @@ Total new jobs: 119
   - Company: clickhouse
   - Location: Remote
 
-- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843422004)
-  - Company: clickhouse
-  - Location: Remote
-
 - [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843421004)
   - Company: clickhouse
   - Location: Remote
 
-- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843423004)
+- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843425004)
   - Company: clickhouse
   - Location: Remote
 
@@ -78,7 +70,11 @@ Total new jobs: 119
   - Company: clickhouse
   - Location: Remote
 
-- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843425004)
+- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843422004)
+  - Company: clickhouse
+  - Location: Remote
+
+- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843423004)
   - Company: clickhouse
   - Location: Remote
 
@@ -98,15 +94,15 @@ Total new jobs: 119
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Cloud Engineer - Product Metrics](https://job-boards.greenhouse.io/clickhouse/jobs/6101325004)
-  - Company: clickhouse
-  - Location: Remote
-
 - [Senior Cloud Engineer - Product Metrics](https://job-boards.greenhouse.io/clickhouse/jobs/6101326004)
   - Company: clickhouse
   - Location: Remote
 
 - [Senior Cloud Engineer - Product Metrics](https://job-boards.greenhouse.io/clickhouse/jobs/6107163004)
+  - Company: clickhouse
+  - Location: Remote
+
+- [Senior Cloud Engineer - Product Metrics](https://job-boards.greenhouse.io/clickhouse/jobs/6101325004)
   - Company: clickhouse
   - Location: Remote
 
@@ -130,10 +126,6 @@ Total new jobs: 119
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5828333004)
-  - Company: clickhouse
-  - Location: Remote
-
 - [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819757004)
   - Company: clickhouse
   - Location: Remote
@@ -150,11 +142,11 @@ Total new jobs: 119
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819679004)
+- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5828333004)
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819678004)
+- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819676004)
   - Company: clickhouse
   - Location: Remote
 
@@ -166,7 +158,11 @@ Total new jobs: 119
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819676004)
+- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819678004)
+  - Company: clickhouse
+  - Location: Remote
+
+- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819679004)
   - Company: clickhouse
   - Location: Remote
 
@@ -290,11 +286,11 @@ Total new jobs: 119
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineering, Fabric (Mid, Senior, or Staff)](https://www.mongodb.com/careers/job/?gh_jid=7727920)
+- [Site Reliability Engineering, Fabric (Mid, Senior, or Staff)](https://www.mongodb.com/careers/job/?gh_jid=7727923)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineering, Fabric (Mid, Senior, or Staff)](https://www.mongodb.com/careers/job/?gh_jid=7727923)
+- [Site Reliability Engineering, Fabric (Mid, Senior, or Staff)](https://www.mongodb.com/careers/job/?gh_jid=7727920)
   - Company: mongodb
   - Location: Remote
 
@@ -381,11 +377,6 @@ Total new jobs: 119
   - Location: USA
   - Level/Team: DevOps &amp; Infrastructure
 
-- [DevOps Senior Engineer](https://jobicy.com/jobs/148202-devops-senior-engineer)
-  - Company: Experian
-  - Location: Costa Rica
-  - Level/Team: DevOps &amp; Infrastructure
-
 - [Senior DevOps Engineer](https://jobicy.com/jobs/144464-senior-devops-engineer-5)
   - Company: Experian
   - Location: Costa Rica
@@ -445,13 +436,17 @@ Total new jobs: 119
 
 ## remoteok
 
-- [Senior DevOps Engineer](https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1135562)
-  - Company: Lemon.io
-  - Location: Worldwide
+- [Accounts Assistant](https://remoteOK.com/remote-jobs/remote-accounts-assistant-cube-construction-group-ltd-1135829)
+  - Company: CUBE Construction Group Ltd.
+  - Location: Bridgetown,
 
-- [Not Finding Your Fit Apply Here](https://remoteOK.com/remote-jobs/remote-not-finding-your-fit-apply-here-the-buckle-inc-1135588)
-  - Company: The Buckle, Inc.
-  - Location: Kearney,
+- [lead Generator](https://remoteOK.com/remote-jobs/remote-lead-generator-representaciones-del-caribe-1135815)
+  - Company: Representaciones del caribe
+  - Location: Punta Cana,
+
+- [Pedreiro Cristalina Cristalina Novas Vagas Hoje](https://remoteOK.com/remote-jobs/remote-pedreiro-cristalina-cristalina-novas-vagas-hoje-up-consultorias-1135807)
+  - Company: UP Consultorias
+  - Location: Cristalina,
 
 ## weworkremotely
 
