@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-08-03 14:34 UTC
+Generated: 2026-08-04 14:07 UTC
 
-Total new jobs: 117
+Total new jobs: 119
 
 ## greenhouse
 
@@ -11,6 +11,10 @@ Total new jobs: 117
   - Location: Remote
 
 - [Senior Software Engineer, Reliability Engineering Team](https://careers.airbnb.com/positions/8026696?gh_jid=8026696)
+  - Company: airbnb
+  - Location: Remote
+
+- [Senior Web Automation Engineer, Quality Platform](https://careers.airbnb.com/positions/7863467?gh_jid=7863467)
   - Company: airbnb
   - Location: Remote
 
@@ -303,6 +307,10 @@ Total new jobs: 117
   - Location: Remote
 
 - [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/7963271?gh_jid=7963271)
+  - Company: okta
+  - Location: Remote
+
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8100444?gh_jid=8100444)
   - Company: okta
   - Location: Remote
 

@@ -42,6 +42,19 @@
   },
   {
     "source_type": "greenhouse",
+    "company": "airbnb",
+    "title": "Senior Web Automation Engineer, Quality Platform",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://careers.airbnb.com/positions/7863467?gh_jid=7863467",
+    "external_id": "greenhouse::7863467",
+    "description_snippet": "",
+    "posted_at": "2026-08-03T18:41:37-04:00",
+    "collected_at_utc": "2026-08-04 14:06:10"
+  },
+  {
+    "source_type": "greenhouse",
     "company": "anthropic",
     "title": "IT Systems Engineer, Client Platform Engineer",
     "location": "",
@@ -1368,6 +1381,19 @@
     "description_snippet": "",
     "posted_at": "2026-07-31T11:23:35-04:00",
     "collected_at_utc": "2026-08-03 14:34:16"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "okta",
+    "title": "Senior Site Reliability Engineer",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://www.okta.com/company/careers/opportunity/8100444?gh_jid=8100444",
+    "external_id": "greenhouse::8100444",
+    "description_snippet": "",
+    "posted_at": "2026-08-03T13:40:56-04:00",
+    "collected_at_utc": "2026-08-04 14:06:10"
   },
   {
     "source_type": "greenhouse",
