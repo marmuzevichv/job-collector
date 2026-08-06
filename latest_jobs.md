@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-08-05 14:05 UTC
+Generated: 2026-08-06 14:04 UTC
 
-Total new jobs: 116
+Total new jobs: 124
 
 ## greenhouse
 
@@ -306,11 +306,11 @@ Total new jobs: 116
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8100444?gh_jid=8100444)
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/7963271?gh_jid=7963271)
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/7963271?gh_jid=7963271)
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8100444?gh_jid=8100444)
   - Company: okta
   - Location: Remote
 
@@ -436,6 +436,40 @@ Total new jobs: 116
   - Company: sonatype
   - Location: US - Remote
   - Level/Team: Customer Success - Direct - Solutions Delivery
+
+## remoteok
+
+- [Small batches better results](https://remoteOK.com/remote-jobs/remote-small-batches-better-results-coldoutreach-blog-1136172)
+  - Company: COLDOUTREACH.BLOG
+  - Location: Laredo,
+
+- [ScrapeWire](https://remoteOK.com/remote-jobs/remote-scrapewire-hdgforge-1136120)
+  - Company: HDGForge
+  - Location: Bristol,
+
+- [The AI Optimization Playbook](https://remoteOK.com/remote-jobs/remote-the-ai-optimization-playbook-inbrief-ai-1136119)
+  - Company: InBrief.ai
+  - Location: Guide Post,
+
+- [Information](https://remoteOK.com/remote-jobs/remote-information-ldt-latham-direct-timber-1136116)
+  - Company: LDT (Latham Direct Timber)
+  - Location: Gateshead,
+
+- [Iâm a Mac](https://remoteOK.com/remote-jobs/remote-im-a-mac-macsweeney-llc-1136115)
+  - Company: MacSweeney LLC
+  - Location: Nendaz,
+
+- [Send us your CV](https://remoteOK.com/remote-jobs/remote-send-us-your-cv-nibrasec-1136114)
+  - Company: NibraSec
+  - Location: Atherstone On Stour,
+
+- [Business &amp; Management](https://remoteOK.com/remote-jobs/remote-business-amp-management-quizzly-ai-1136118)
+  - Company: Quizzly.ai
+  - Location: Bideford,
+
+- [Shutlify](https://remoteOK.com/remote-jobs/remote-shutlify-twitan-com-1136117)
+  - Company: Twitan.com
+  - Location: Little Badminton,
 
 ## weworkremotely
 

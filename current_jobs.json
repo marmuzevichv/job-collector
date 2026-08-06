@@ -51,7 +51,7 @@
     "external_id": "greenhouse::7863467",
     "description_snippet": "",
     "posted_at": "2026-08-03T18:41:37-04:00",
-    "collected_at_utc": "2026-08-04 14:06:10"
+    "collected_at_utc": "2026-08-06 14:03:41"
   },
   {
     "source_type": "greenhouse",
@@ -742,6 +742,49 @@
     "collected_at_utc": "2026-08-05 14:04:35"
   },
   {
+    "source_type": "remoteok",
+    "company": "COLDOUTREACH.BLOG",
+    "title": "Small batches better results",
+    "location": "Laredo,",
+    "team": "",
+    "categories": [
+      "recruiter",
+      "dev",
+      "non tech",
+      "digital nomad",
+      "customer support",
+      "design",
+      "sys admin",
+      "music",
+      "vfx",
+      "education",
+      "consulting",
+      "web dev",
+      "accounting",
+      "virtual assistant",
+      "devops",
+      "video",
+      "finance",
+      "cloud",
+      "mobile",
+      "exec",
+      "content writing",
+      "ops",
+      "marketing",
+      "legal",
+      "sales",
+      "medical",
+      "engineer",
+      "ecommerce",
+      "internship"
+    ],
+    "url": "https://remoteOK.com/remote-jobs/remote-small-batches-better-results-coldoutreach-blog-1136172",
+    "external_id": "remoteok::1136172",
+    "description_snippet": "If your message promises one thing and your profile implies another, youâve added friction before the conversation starts. Please mention the word **PROTECTIVE** and tag RMjAuMTYxLjQ0LjE4NA== when applying to show you read the job post completely (#RMjAuMTYxLjQ0LjE4NA==). This is a beta feature to",
+    "posted_at": "2026-08-05T10:10:34+00:00",
+    "collected_at_utc": "2026-08-06 14:03:41"
+  },
+  {
     "source_type": "weworkremotely",
     "company": "Common Securitization Solutions",
     "title": "DevOps Engineer",
@@ -932,6 +975,27 @@
     "collected_at_utc": "2026-08-05 14:04:35"
   },
   {
+    "source_type": "remoteok",
+    "company": "HDGForge",
+    "title": "ScrapeWire",
+    "location": "Bristol,",
+    "team": "",
+    "categories": [
+      "cloud",
+      "engineer",
+      "admin",
+      "ops",
+      "finance",
+      "exec",
+      "sys admin"
+    ],
+    "url": "https://remoteOK.com/remote-jobs/remote-scrapewire-hdgforge-1136120",
+    "external_id": "remoteok::1136120",
+    "description_snippet": "ReliAgent intercepts and validates AI agent tool-call responses, running nine independent detectors against each call: sycophantic gap-filling, hallucination, context degradation, repetition loops, confidence collapse, parameter drift, timeout, schema violation, and response-contract integrity. When",
+    "posted_at": "2026-08-05T01:17:33+00:00",
+    "collected_at_utc": "2026-08-06 14:03:41"
+  },
+  {
     "source_type": "weworkremotely",
     "company": "ICF",
     "title": "Senior DevOps Engineer",
@@ -943,6 +1007,26 @@
     "description_snippet": "Headquarters: Nationwide Remote Office (US99) URL: http://icf.com The Company ICF is a mission-driven company filled with people who care deeply about improving the lives of others and making the world a better place. Our core values include Embracing Difference; we seek candidates who are passionat",
     "posted_at": "Thu, 16 Jul 2026 14:57:15 +0000",
     "collected_at_utc": "2026-08-05 14:04:35"
+  },
+  {
+    "source_type": "remoteok",
+    "company": "InBrief.ai",
+    "title": "The AI Optimization Playbook",
+    "location": "Guide Post,",
+    "team": "",
+    "categories": [
+      "cloud",
+      "engineer",
+      "admin",
+      "ops",
+      "finance",
+      "exec"
+    ],
+    "url": "https://remoteOK.com/remote-jobs/remote-the-ai-optimization-playbook-inbrief-ai-1136119",
+    "external_id": "remoteok::1136119",
+    "description_snippet": "Three layers that turn random prompts into systematic workflows, why most people waste the time they think they're saving, and how gains compound. Please mention the word **PEPS** and tag RMjAuMTYxLjQ0LjE4NA== when applying to show you read the job post completely (#RMjAuMTYxLjQ0LjE4NA==). This is a",
+    "posted_at": "2026-08-05T00:02:14+00:00",
+    "collected_at_utc": "2026-08-06 14:03:41"
   },
   {
     "source_type": "greenhouse",
@@ -984,6 +1068,22 @@
     "collected_at_utc": "2026-08-05 14:04:35"
   },
   {
+    "source_type": "remoteok",
+    "company": "LDT (Latham Direct Timber)",
+    "title": "Information",
+    "location": "Gateshead,",
+    "team": "",
+    "categories": [
+      "cloud",
+      "engineer"
+    ],
+    "url": "https://remoteOK.com/remote-jobs/remote-information-ldt-latham-direct-timber-1136116",
+    "external_id": "remoteok::1136116",
+    "description_snippet": "Job Ref: GH1637255GatSEI Location: Gateshead Postcode: NE100LU Type of contract: Permanent Salary: Posted Date: Tuesday, July 28, 2026 Closing Date: Tuesday, September 1, 2026 Documents: Share: Send email Apply Please mention the word **SUPURBLY** and tag RMjAuMTYxLjQ0LjE4NA== when applying to show ",
+    "posted_at": "2026-08-04T23:32:37+00:00",
+    "collected_at_utc": "2026-08-06 14:03:41"
+  },
+  {
     "source_type": "weworkremotely",
     "company": "Leidos",
     "title": "OCI DevOps Engineer",
@@ -1008,6 +1108,22 @@
     "description_snippet": "",
     "posted_at": "2026-07-24T12:10:49-04:00",
     "collected_at_utc": "2026-08-05 14:04:35"
+  },
+  {
+    "source_type": "remoteok",
+    "company": "MacSweeney LLC",
+    "title": "Iâm a Mac",
+    "location": "Nendaz,",
+    "team": "",
+    "categories": [
+      "cloud",
+      "engineer"
+    ],
+    "url": "https://remoteOK.com/remote-jobs/remote-im-a-mac-macsweeney-llc-1136115",
+    "external_id": "remoteok::1136115",
+    "description_snippet": "1985: the Amiga 1000 ships and Steve Jobs leaves Apple to found NeXT â two paths that meet a decade later as OS X. My first computer was an Amiga; I went deep on it doing Army reconnaissance in Europe, where it was a phenomenon. The Amiga multitasked before the Mac and out-rendered every PC. It st",
+    "posted_at": "2026-08-04T21:46:21+00:00",
+    "collected_at_utc": "2026-08-06 14:03:41"
   },
   {
     "source_type": "jobicy",
@@ -1300,6 +1416,22 @@
     "collected_at_utc": "2026-08-05 14:04:35"
   },
   {
+    "source_type": "remoteok",
+    "company": "NibraSec",
+    "title": "Send us your CV",
+    "location": "Atherstone On Stour,",
+    "team": "",
+    "categories": [
+      "cloud",
+      "engineer"
+    ],
+    "url": "https://remoteOK.com/remote-jobs/remote-send-us-your-cv-nibrasec-1136114",
+    "external_id": "remoteok::1136114",
+    "description_snippet": "01 Equity that actually compounds First hires get founding-engineer-sized grants. We'd rather give up percentage points than dilute on talent later. 02 Ownership, not OKR theatre You own a surface end to end. No layers of product managers between you and the work, and no week-long debates about how ",
+    "posted_at": "2026-08-04T23:51:09+00:00",
+    "collected_at_utc": "2026-08-06 14:03:41"
+  },
+  {
     "source_type": "greenhouse",
     "company": "okta",
     "title": "Senior Data Platform Engineer (Bengaluru)",
@@ -1332,11 +1464,11 @@
     "location": "",
     "team": "",
     "categories": [],
-    "url": "https://www.okta.com/company/careers/opportunity/8100444?gh_jid=8100444",
-    "external_id": "greenhouse::8100444",
+    "url": "https://www.okta.com/company/careers/opportunity/7963271?gh_jid=7963271",
+    "external_id": "greenhouse::7963271",
     "description_snippet": "",
-    "posted_at": "2026-08-03T13:40:56-04:00",
-    "collected_at_utc": "2026-08-04 14:06:10"
+    "posted_at": "2026-07-31T11:23:35-04:00",
+    "collected_at_utc": "2026-08-05 14:04:35"
   },
   {
     "source_type": "greenhouse",
@@ -1345,11 +1477,11 @@
     "location": "",
     "team": "",
     "categories": [],
-    "url": "https://www.okta.com/company/careers/opportunity/7963271?gh_jid=7963271",
-    "external_id": "greenhouse::7963271",
+    "url": "https://www.okta.com/company/careers/opportunity/8100444?gh_jid=8100444",
+    "external_id": "greenhouse::8100444",
     "description_snippet": "",
-    "posted_at": "2026-07-31T11:23:35-04:00",
-    "collected_at_utc": "2026-08-05 14:04:35"
+    "posted_at": "2026-08-03T13:40:56-04:00",
+    "collected_at_utc": "2026-08-06 14:03:41"
   },
   {
     "source_type": "greenhouse",
@@ -1402,6 +1534,26 @@
     "description_snippet": "",
     "posted_at": "2026-08-03T17:27:05-04:00",
     "collected_at_utc": "2026-08-05 14:04:35"
+  },
+  {
+    "source_type": "remoteok",
+    "company": "Quizzly.ai",
+    "title": "Business &amp; Management",
+    "location": "Bideford,",
+    "team": "",
+    "categories": [
+      "cloud",
+      "engineer",
+      "admin",
+      "ops",
+      "finance",
+      "exec"
+    ],
+    "url": "https://remoteOK.com/remote-jobs/remote-business-amp-management-quizzly-ai-1136118",
+    "external_id": "remoteok::1136118",
+    "description_snippet": "Needs vs Wants in Personal Finance, Income, Expenses, and Budgeting Basics, What Is Money and Currency? Please mention the word **VIRTUOUSLY** and tag RMjAuMTYxLjQ0LjE4NA== when applying to show you read the job post completely (#RMjAuMTYxLjQ0LjE4NA==). This is a beta feature to avoid spam applicant",
+    "posted_at": "2026-08-04T22:08:42+00:00",
+    "collected_at_utc": "2026-08-06 14:03:41"
   },
   {
     "source_type": "jobicy",
@@ -1475,6 +1627,24 @@
     "description_snippet": "Sonatype is the software supply chain security company. We provide the world’s best end-to-end software supply chain security solution, combining the only proactive protection against malicious open source, the only enterprise grade SBOM management and the leading open source dependency management p",
     "posted_at": "1784663482841",
     "collected_at_utc": "2026-08-05 14:04:35"
+  },
+  {
+    "source_type": "remoteok",
+    "company": "Twitan.com",
+    "title": "Shutlify",
+    "location": "Little Badminton,",
+    "team": "",
+    "categories": [
+      "cloud",
+      "engineer",
+      "admin",
+      "ops"
+    ],
+    "url": "https://remoteOK.com/remote-jobs/remote-shutlify-twitan-com-1136117",
+    "external_id": "remoteok::1136117",
+    "description_snippet": "Live now Shutlify Tournament operations for organisers, academies, clubs, and everyday badminton workflows. Shutlify is the most mature Twitan product today. It already covers tournament setup, scoring, brackets, academy operations, live workflows, and the practical admin tasks that event teams need",
+    "posted_at": "2026-08-04T23:09:41+00:00",
+    "collected_at_utc": "2026-08-06 14:03:41"
   },
   {
     "source_type": "jobicy",
