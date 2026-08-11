@@ -106,6 +106,19 @@
     "collected_at_utc": "2026-08-10 13:02:47"
   },
   {
+    "source_type": "greenhouse",
+    "company": "anthropic",
+    "title": "Staff+ Site Reliability Engineer, Safeguards ML Infra",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5230394008",
+    "external_id": "greenhouse::5230394008",
+    "description_snippet": "",
+    "posted_at": "2026-08-10T20:29:36-04:00",
+    "collected_at_utc": "2026-08-11 12:59:19"
+  },
+  {
     "source_type": "jobicy",
     "company": "Astronomer",
     "title": "Customer Reliability Engineer - Infrastructure",
@@ -943,6 +956,19 @@
     "description_snippet": "",
     "posted_at": "2026-08-06T05:36:38-04:00",
     "collected_at_utc": "2026-08-10 13:02:47"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "jetbrains",
+    "title": "QA Automation Engineer (IDEA Ultimate QA)",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4947673101",
+    "external_id": "greenhouse::4947673101",
+    "description_snippet": "",
+    "posted_at": "2026-08-11T07:12:35-04:00",
+    "collected_at_utc": "2026-08-11 12:59:19"
   },
   {
     "source_type": "greenhouse",

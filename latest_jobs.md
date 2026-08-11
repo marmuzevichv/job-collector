@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-08-10 13:03 UTC
+Generated: 2026-08-11 13:00 UTC
 
-Total new jobs: 114
+Total new jobs: 116
 
 ## greenhouse
 
@@ -31,6 +31,10 @@ Total new jobs: 114
   - Location: Remote
 
 - [Staff+ Infrastructure Engineer, Cluster Infrastructure](https://job-boards.greenhouse.io/anthropic/jobs/5211297008)
+  - Company: anthropic
+  - Location: Remote
+
+- [Staff+ Site Reliability Engineer, Safeguards ML Infra](https://job-boards.greenhouse.io/anthropic/jobs/5230394008)
   - Company: anthropic
   - Location: Remote
 
@@ -207,6 +211,10 @@ Total new jobs: 114
   - Location: Remote
 
 - [Build Infrastructure Engineer (JetBrains IDEs)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4696977101)
+  - Company: jetbrains
+  - Location: Remote
+
+- [QA Automation Engineer (IDEA Ultimate QA)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4947673101)
   - Company: jetbrains
   - Location: Remote
 
