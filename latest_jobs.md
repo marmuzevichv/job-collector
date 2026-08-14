@@ -1,6 +1,6 @@
 # New jobs
 
-Generated: 2026-08-13 13:05 UTC
+Generated: 2026-08-14 13:02 UTC
 
 Total new jobs: 113
 
