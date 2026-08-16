@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-08-15 12:33 UTC
+Generated: 2026-08-16 12:35 UTC
 
-Total new jobs: 103
+Total new jobs: 100
 
 ## greenhouse
 
@@ -364,6 +364,11 @@ Total new jobs: 103
   - Location: Costa Rica
   - Level/Team: DevOps &amp; Infrastructure
 
+- [IT Administrator](https://jobicy.com/jobs/150748-it-administrator)
+  - Company: Kalshi
+  - Location: USA
+  - Level/Team: DevOps &amp; Infrastructure
+
 - [Cloud Engineer - VMWare](https://jobicy.com/jobs/143887-cloud-engineer-vmware)
   - Company: ManTech
   - Location: USA
@@ -377,6 +382,11 @@ Total new jobs: 103
 - [Senior Site Reliability Engineer (Remote Build)](https://jobicy.com/jobs/146979-senior-site-reliability-engineer-remote-build)
   - Company: Remote
   - Location: EMEA
+  - Level/Team: DevOps &amp; Infrastructure
+
+- [Atlassian Administrator 1726](https://jobicy.com/jobs/146254-atlassian-administrator-1726)
+  - Company: Softgic
+  - Location: Anywhere
   - Level/Team: DevOps &amp; Infrastructure
 
 - [Lead Cloud Platform & Dev Ops Engineer](https://jobicy.com/jobs/149238-lead-cloud-platform-dev-ops-engineer)
@@ -408,34 +418,14 @@ Total new jobs: 103
 
 ## weworkremotely
 
-- [DevOps Engineer III](https://weworkremotely.com/remote-jobs/avalon-administrative-services-devops-engineer-iii)
-  - Company: Avalon Administrative Services
-  - Location: Remote
-
 - [Full Stack Developer - DevOps & Cloud Systems](https://weworkremotely.com/remote-jobs/brightorder-full-stack-developer-devops-cloud-systems)
   - Company: BrightOrder
-  - Location: Remote
-
-- [Engineer Sr, DevOps](https://weworkremotely.com/remote-jobs/carnival-corporation-engineer-sr-devops)
-  - Company: Carnival Corporation
   - Location: Remote
 
 - [Devops eng_roji](https://weworkremotely.com/remote-jobs/coders-brain-technology-devops-eng_roji)
   - Company: Coders Brain Technology
   - Location: Remote
 
-- [Senior DevOps Engineer](https://weworkremotely.com/remote-jobs/icf-senior-devops-engineer)
-  - Company: ICF
-  - Location: Remote
-
-- [Senior DevOps Engineer (Web3)](https://weworkremotely.com/remote-jobs/launch-legends-senior-devops-engineer-web3)
-  - Company: Launch Legends
-  - Location: Remote
-
 - [OCI DevOps Engineer](https://weworkremotely.com/remote-jobs/leidos-oci-devops-engineer)
   - Company: Leidos
-  - Location: Remote
-
-- [Senior DevOps Engineer, Applications](https://weworkremotely.com/remote-jobs/wme-senior-devops-engineer-applications)
-  - Company: WME
   - Location: Remote
