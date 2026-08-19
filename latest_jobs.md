@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-08-18 12:41 UTC
+Generated: 2026-08-19 12:41 UTC
 
-Total new jobs: 95
+Total new jobs: 93
 
 ## greenhouse
 
@@ -178,19 +178,15 @@ Total new jobs: 95
   - Company: fastly
   - Location: Remote
 
-- [Senior Infrastructure Engineer — Certification Authority](https://www.fastly.com/about/jobs/apply?gh_jid=8011032)
-  - Company: fastly
-  - Location: Remote
-
 - [Senior SRE - Networks](https://www.fastly.com/about/jobs/apply?gh_jid=8045052)
   - Company: fastly
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7688580003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7814036003)
   - Company: fivetran
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7814036003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7688580003)
   - Company: fivetran
   - Location: Remote
 
@@ -206,11 +202,11 @@ Total new jobs: 95
   - Company: lyft
   - Location: Remote
 
-- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=8025824)
+- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=7453323)
   - Company: mongodb
   - Location: Remote
 
-- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=7453323)
+- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=8025824)
   - Company: mongodb
   - Location: Remote
 
@@ -246,11 +242,11 @@ Total new jobs: 95
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727910)
+- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727913)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727913)
+- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727910)
   - Company: mongodb
   - Location: Remote
 
@@ -286,11 +282,11 @@ Total new jobs: 95
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/7963271?gh_jid=7963271)
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8100444?gh_jid=8100444)
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8100444?gh_jid=8100444)
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/7963271?gh_jid=7963271)
   - Company: okta
   - Location: Remote
 
@@ -381,11 +377,6 @@ Total new jobs: 95
   - Company: metabase
   - Location: Global Remote
   - Level/Team: Engineering
-
-- [Azure DevOps Engineer](https://jobs.lever.co/sonatype/85cfea61-4f64-4b41-baf7-726b42f043a5)
-  - Company: sonatype
-  - Location: US - Remote
-  - Level/Team: Engineering - Application Platform
 
 - [Senior Solutions Delivery Engineer- DevOps](https://jobs.lever.co/sonatype/83cc47d4-e93e-4ce3-b440-185839cddaa1)
   - Company: sonatype
