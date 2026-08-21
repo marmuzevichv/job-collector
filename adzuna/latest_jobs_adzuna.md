@@ -1,7 +1,7 @@
 # Jobs via Adzuna API
 
-Generated: 2026-08-20 12:55 UTC
-Total jobs (24h window): 496
+Generated: 2026-08-21 12:54 UTC
+Total jobs (24h window): 638
 
 - [Devops Engineer](https://www.adzuna.com/land/ad/5849186337?se=pFR2YJac8RGgd9X26G9YQA&utm_medium=api&utm_source=632a28fd&v=AF651AEFB9BA01B74C4002D6B6536FFCA78E2C4D)
   - Company: Actalent | Minneapolis, Hennepin County
@@ -1986,3 +1986,571 @@ Total jobs (24h window): 496
 - [GKE Kubernetes Engineer](https://www.adzuna.com/land/ad/5721054728?se=CLEfb5ac8RGhArhxtbtVlg&utm_medium=api&utm_source=632a28fd&v=AE89FA1EE465881B5517AF24C9E42933309504BF)
   - Company: Insight Global | Talcott Village, Hartford County
   - Job Description A healthcare client is looking for a GKE Kubernetes Engineer to sit fully remote. This person is going t...
+
+- [PostgreSQL Database DevOps Engineer](https://www.adzuna.com/details/5851008027?utm_medium=api&utm_source=632a28fd)
+  - Company: Pennant Solutions Group | Richmond, Richmond County
+  - PostgreSQL Database DevOps Engineer Location: Remote (Must be able to work EST) Duration: DIRECT HIRE (must be authorize...
+
+- [DevOps Engineer](https://www.adzuna.com/details/5850661102?utm_medium=api&utm_source=632a28fd)
+  - Company: HDI Global Insurance Company | Chicago, Cook County
+  - DevOps Engineer Location: Chicago, IL / Remote Who We Are HDI Global Insurance Company is a commercial property and casu...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850633931?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=561CF8C6A808DF841B60429057DFAC9E98D5B5E9)
+  - Company: Cognizant | Tumwater, Thurston County
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203922 About the role As...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850628496?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=ED74E609CC06A58C828FE03D3326999CACE27E6C)
+  - Company: Cognizant | Madison, Dane County
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203922 About the role As...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850571496?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=6459F665FAA74C35FF8FF8D45A2EFF7CE45D1CB8)
+  - Company: Cognizant | Charleston, Kanawha County
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203922 About the role As...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850554109?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=9B6674A91212B46F5E14A4D3AFF201C618EF5C2D)
+  - Company: Cognizant | Montpelier, Washington County
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203921 About the role As...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850463215?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=8A1A7708970D5F40F3D6E5F0666A8460DE6E66DC)
+  - Company: Cognizant | Trenton, Mercer County
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203922 About the role As...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850462865?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=94A5F05FC6F0485831CC0AA2ABED9DAF1EC39C0B)
+  - Company: Cognizant | Cedar, Cole County
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203922 About the role As...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850462023?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=A9E6C6C5FC85579C7587317435A6576449CB374D)
+  - Company: Cognizant | Frankfort, Franklin County
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203921 About the role As...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850461968?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=6FC2F05A8C46DD65AF07DF2DD22F013201BE0852)
+  - Company: Cognizant | Topeka, Shawnee County
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203922 About the role As...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850461825?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=12B73D6286182BA81D9659473B47310E5582611C)
+  - Company: Cognizant | Pierre, Hughes County
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203921 About the role As...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850461667?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=4C201F9F06A60937D385B91D4FA6D50D126886D8)
+  - Company: Cognizant | Carson Mall, Carson City
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203922 About the role As...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850461642?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=F49671BBB666A116A278BE5E39023D19176AC8B0)
+  - Company: Cognizant | State House, Lancaster County
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203921 About the role As...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850461523?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=C934A6480CEC6D9B7BA7159DB02DB28D694399BD)
+  - Company: Cognizant | Providence, Providence County
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203922 About the role As...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850461351?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=625277567F11C4109E26F24149835DB8E2F9A9AF)
+  - Company: Cognizant | Concord, Merrimack County
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203922 About the role As...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850461253?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=93B2E5DFE10CF7AE236F256444A0E39C8A3430F2)
+  - Company: Cognizant | Jackson, Hinds County
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203921 About the role As...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850458327?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=963FAA1521D9915C7A5301F66F8A425FC34DD0C3)
+  - Company: Cognizant | Bismarck, Burleigh County
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203922 About the role As...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850458197?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=B924FCCA016CBE16D2B6791F92A3CE2A44D183CD)
+  - Company: Cognizant | Boise, Ada County
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203921 About the role As...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850458102?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=55DD8969814B317D51F5B6BED7BE7E3F5566BD81)
+  - Company: Cognizant | Wyoming, Kent County
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203921 About the role As...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850458068?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=4D89726747E0CAEF1484ACF98AB5D0DF610CB63F)
+  - Company: Cognizant | Washington, D.C., US
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203921 About the role As...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/details/5850457959?utm_medium=api&utm_source=632a28fd)
+  - Company: Cognizant | Douglas, Juneau
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203921 About the role As...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850457123?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=4C973EDD08BC95C0A4D537F5967BC7C27EE41F4B)
+  - Company: Cognizant | Archer, Laramie County
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203922 About the role As...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850445351?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=C9432CE952EC57C45A542069FC494F034B118588)
+  - Company: Cognizant | Ny State Campus, Albany County
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203922 About the role As...
+
+- [Remote Azure DevOps Engineer](https://www.adzuna.com/land/ad/5850433497?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=CD97A1EAC12719EE225C799B86AAC9FFE3F2975D)
+  - Company: Kelly Services | US
+  - $120000 - $140000 A boutique software consulting firm is seeking a fully remote Azure DevOps Engineer to join a growing ...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850433440?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=498897C86C4CC3995A2E84CEAE45B2FAD9D4B7FA)
+  - Company: Cognizant | Grandview Heights, Franklin County
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203921 About the role As...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850430405?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=10A92F5A74B538A7C189350B32CC96D0A540FEA5)
+  - Company: Cognizant | Five Points, Wake County
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203921 About the role As...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850430255?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=B7A4E43E18CE6025C02AE643B634277E844E6D29)
+  - Company: Cognizant | Atlanta, Fulton County
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203921 About the role As...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850430109?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=355CFE8D87E61AAA3C1F96B60F6082DD262E044F)
+  - Company: Cognizant | Boston, Suffolk County
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203921 About the role As...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850429355?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=E60F61BDED9075C732A38B5FF5D6C000FD136D88)
+  - Company: Cognizant | Nashville, Davidson County
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203922 About the role As...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850427779?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=10F7D07FB5E38A1696DF2FE70160C1BF67CA34CB)
+  - Company: Cognizant | Glendale, Denver
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203922 About the role As...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850427442?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=A934C236FA222F76030DB7745276465A12991022)
+  - Company: Cognizant | Phoenix, Maricopa County
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203922 About the role As...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850427353?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=55CE2B9F2DD7B58ABF5284AE806A172A607790F6)
+  - Company: Cognizant | Saint Paul, Ramsey County
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203922 About the role As...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850427193?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=03FA932B65194721030F378E075984B65C84B0CA)
+  - Company: Cognizant | Lansing, Ingham County
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203922 About the role As...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850426448?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=39CB2DD805D01E2997D8D21F6446FCB21AD48E9B)
+  - Company: Cognizant | Salem, Marion County
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203921 About the role As...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850426375?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=4456644853E82658199B089050190B410468B30B)
+  - Company: Cognizant | Talcott Village, Hartford County
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203921 About the role As...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850426152?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=1416B521BB3891DDC7C268434466FC94EA484CDB)
+  - Company: Cognizant | Chisolm, Montgomery County
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203921 About the role As...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850425860?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=7122D3CB37A5C6B2B46A029D29522F02E7834906)
+  - Company: Cognizant | Oklahoma City, Oklahoma County
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203921 About the role As...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850425545?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=8E8B4ACAF0B87EEB9F77B37F95B8BAAED3C83BA1)
+  - Company: Cognizant | Cammack Village, Pulaski County
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203922 About the role As...
+
+- [Devops Engineer](https://www.adzuna.com/land/ad/5850424773?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=D76E08651AE3394576B17BD35EE2B8746D7C922A)
+  - Company: Actalent | Minneapolis, Hennepin County
+  - Job Title: DevOps Engineer 100% Remote Role Job Description The DevOps Engineer designs, builds, and manages secure, sca...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850391403?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=4984E6B7F63A3998BF62974E92D06BFA7A94525F)
+  - Company: Cognizant | Uptown, Marion County
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203922 About the role As...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850363932?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=A2E8FAA8BB895C3B2A34FF77CD85A958EA6BEAB6)
+  - Company: Cognizant | Des Moines, Polk County
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203922 About the role As...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850363752?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=07DBC5A09E3C06CBFD7CF79FCE174B0428DF9513)
+  - Company: Cognizant | Edgewood, Richland County
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203922 About the role As...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850363473?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=996781CD869C6CEED145D825350F9F1D27118B54)
+  - Company: Cognizant | Augusta, Kennebec County
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203922 About the role As...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850363375?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=533E4C26B139F9EE7811982662599A21744A8811)
+  - Company: Cognizant | Wake Island, Honolulu
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203921 About the role As...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850363125?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=7578614B3C564C87B9076F7759EC7269712D4EFB)
+  - Company: Cognizant | Helena, Lewis and Clark County
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203921 About the role As...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/details/5850353310?utm_medium=api&utm_source=632a28fd)
+  - Company: Cognizant | Penbrook, Dauphin County
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203922 About the role As...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/details/5850345638?utm_medium=api&utm_source=632a28fd)
+  - Company: Cognizant | Capitol, Richmond
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203921 About the role As...
+
+- [DevOps & SRE Engineer](https://www.adzuna.com/land/ad/5850343270?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=68ECC7B3AA0DB44D38B396CF9452827FAE652202)
+  - Company: Bright Vision Technologies | North Carolina, US
+  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/details/5850316526?utm_medium=api&utm_source=632a28fd)
+  - Company: Cognizant | Springfield, Sangamon County
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203921 About the role As...
+
+- [AWS Cloud DevOps Engineer](https://www.adzuna.com/details/5850316041?utm_medium=api&utm_source=632a28fd)
+  - Company: Staffxpert LLC | US
+  - AWS Cloud DevOps Engineer Location: Remote Job Type: Contract Job Summary STAFFXPERT LLC is seeking an AWS Cloud DevOps ...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/details/5850311821?utm_medium=api&utm_source=632a28fd)
+  - Company: Cognizant | Tallahassee, Leon County
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203922 About the role As...
+
+- [Sr. Sys Admin/ DevOps Engineer - Remote](https://www.adzuna.com/details/5850302661?utm_medium=api&utm_source=632a28fd)
+  - Company: Nava Software Solutions LLC | Willowood, Houston
+  - NAVA Software solutions is looking for a Sr. Sys Admin/ DevOps Engineer Details: Sr. Sys Admin/ DevOps Engineer Location...
+
+- [DevOps Cloud Security Engineer](https://www.adzuna.com/details/5850302380?utm_medium=api&utm_source=632a28fd)
+  - Company: Siri InfoSolutions Inc | US
+  - Hi, DevOps Cloud Security Engineer Remote- USA Full Time Job Summary We are seeking an experienced DevOps Cloud Security...
+
+- [AWS DevOps Engineer](https://www.adzuna.com/details/5850301717?utm_medium=api&utm_source=632a28fd)
+  - Company: VDart Inc | US
+  - Job Title: AWS DevOps Engineer Location: Remote Job Type: Contract Responsibilities: Experienced in building data platfo...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850173046?se=1NUrbF-d8RGNJa66oEuPAw&utm_medium=api&utm_source=632a28fd&v=C048C8F1CE3AFAF11E2EE94CA6B36C77BD69FA63)
+  - Company: Cognizant | Annapolis, Anne Arundel County
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203921 About the role As...
+
+- [Entry Level DevOps Engineer (Remote)](https://www.adzuna.com/land/ad/5850172005?se=1NUrbF-d8RGNJa66oEuPAw&utm_medium=api&utm_source=632a28fd&v=11079A67FDA5447E35C66048BD51EB9586FD0567)
+  - Company: Cognizant | La Cienga, Santa Fe County
+  - DevOps Engineer (Entry Level) - Remote Location: Remote Employment Type: Full-Time Job ID: 00070203921 About the role As...
+
+- [Devops Engineer or Software Engineer _ Remote _ Healthcare Domain Exp](https://www.adzuna.com/land/ad/5849927851?se=1NUrbF-d8RGNJa66oEuPAw&utm_medium=api&utm_source=632a28fd&v=F3C23C21444B543BF0B5856AEE7896F9AB3167E7)
+  - Company: SUNRAY INFORMATICS | US
+  - ROLE: SENIOR SOFTWARE ENGINEER OR DEVOPS ENGINEER OVERALL EXPERIENCE 9YRS They're looking for a Senior Software Engineer...
+
+- [DevOps Engineer](https://www.adzuna.com/land/ad/5849887204?se=1NUrbF-d8RGNJa66oEuPAw&utm_medium=api&utm_source=632a28fd&v=01FBF7F91D1F974C3CCDF23758EE2BBA40519490)
+  - Company: Edify Technologies, Inc. | US
+  - Job Title : DevOps Engineer Job Location: Remote Job Type : Contract to Hire Payrange : $40 - $45/hr Benefits for Eligib...
+
+- [Sr. Sys Admin/ DevOps Engineer - Remote](https://www.adzuna.com/land/ad/5849886864?se=1NUrbF-d8RGNJa66oEuPAw&utm_medium=api&utm_source=632a28fd&v=E204FB85DCDCF12B752D204541B8972C5D631B9D)
+  - Company: Nava Software Solutions | Trammells, Harris County
+  - NAVA Software solutions is looking for a Sr. Sys Admin/ DevOps Engineer Details: Sr. Sys Admin/ DevOps Engineer Location...
+
+- [Remote Azure DevOps Engineer](https://www.adzuna.com/land/ad/5849136192?se=1NUrbF-d8RGNJa66oEuPAw&utm_medium=api&utm_source=632a28fd&v=F0F3CA5129703EACE32BEE19761AF0D14B14BE94)
+  - Company: Motion Recruitment Partners, LLC | US
+  - A boutique software consulting firm is seeking a fully remote Azure DevOps Engineer to join a growing team focused on de...
+
+- [Junior DevOps Engineer](https://www.adzuna.com/land/ad/5848979254?se=1NUrbF-d8RGNJa66oEuPAw&utm_medium=api&utm_source=632a28fd&v=8584B4194AC9384E08E5DB56EFCEB55C075642DB)
+  - Company: Apex Systems | Schiller Park, Cook County
+  - Job: 3045194 Job Description: Junior DevOps Engineer Location: Fully Remote-Must Work EST Hours Employment Type: Contrac...
+
+- [Senior DevOps Engineer  W2 ONLY](https://www.adzuna.com/land/ad/5848645205?se=1NUrbF-d8RGNJa66oEuPAw&utm_medium=api&utm_source=632a28fd&v=7EE58F4E13710E32C6E2271AFD7B746BF0C46BAC)
+  - Company: nTech Solutions | US
+  - BEFORE APPLYING FOR THE JOB. KINDLY READ THE COMPLETE JOB DESCRIPTION PROPERLY(EVEN THE TERMS OF EMPLOYMENT ALSO), NO 10...
+
+- [DevOps Engineer](https://www.adzuna.com/land/ad/5847669668?se=1NUrbF-d8RGNJa66oEuPAw&utm_medium=api&utm_source=632a28fd&v=1D28C90357B845D5184F081FE22C3E7CF79CCDD0)
+  - Company: Spadtek Solutions LLC | US
+  - Job Title: DevOps Engineer Location: Remote Job Summary We are seeking an experienced DevOps Engineer to build and maint...
+
+- [DevOps Engineer](https://www.adzuna.com/land/ad/5836181635?se=1NUrbF-d8RGNJa66oEuPAw&utm_medium=api&utm_source=632a28fd&v=27EAB4A03ED328FFA6DB076F7C82F88EAC081786)
+  - Company: Apex Systems | Roanoke, Roanoke County
+  - Job: 3044326 Job Description: DevOps Engineer Location: Remote (EST Hours) Contract-to-hire Pay Rate: $60-75/hour on w2 ...
+
+- [Cloud Site Reliability Engineer](https://www.adzuna.com/land/ad/5850791844?se=0J05bV-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=EAF67C7A051C5A5EA611C9D0C1CCBCC6A5DAC534)
+  - Company: Stefanini Group | Highland Park, Dallas
+  - Details: Stefanini Group is hiring! Stefanini is looking for Cloud Site Reliability Engineer - Remote For quick apply, p...
+
+- [Cloud Site Reliability Engineer](https://www.adzuna.com/land/ad/5850661503?se=0J05bV-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=5A27E4775B6ED0E7BB2E1D528F6254BB18C08338)
+  - Company: Stefanini Group | Highland Park, Dallas
+  - Job Description Stefanini Group is hiring! Stefanini is looking for Cloud Site Reliability Engineer - Remote For quick a...
+
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5850562124?se=0J05bV-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=DDDD1318A4ACB0CD4F98C5B419F6B12F0DEFDAFD)
+  - Company: SitusAMC | Montpelier, Washington County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/details/5850315219?utm_medium=api&utm_source=632a28fd)
+  - Company: SitusAMC | Tarrytown, Travis County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5850176709?se=0J05bV-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=1CA65BA76493196B75DA7142D369E2C98970F972)
+  - Company: SitusAMC | Annapolis, Anne Arundel County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5850174670?se=0J05bV-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=B33DD72983AF8B92042DFE5EF8339120DFD6D385)
+  - Company: SitusAMC | La Cienga, Santa Fe County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849332349?se=0J05bV-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=C06F2BC45224E03027A9C48625104A4EC5644059)
+  - Company: SitusAMC | Madison, Dane County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849329505?se=0J05bV-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=4DD65DBB4BA807D566D239168F7970131934BBFB)
+  - Company: SitusAMC | Bonnie, Utah County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849309975?se=0J05bV-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=01E59756F42FA1D545D409E8CC45AECDE5DFB40D)
+  - Company: SitusAMC | Charleston, Kanawha County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/details/5849085042?utm_medium=api&utm_source=632a28fd)
+  - Company: SitusAMC | US
+  - SitusAMC is where the best and most passionate people come to transform our client’s businesses and their own careers. W...
+
+- [Site Reliability Engineer](https://www.adzuna.com/land/ad/5846920915?se=0J05bV-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=2218F9F37AD4FC4D2678142F7982EE1B8A972E5B)
+  - Company: Indotronix International Corp | US
+  - Role: Site Reliability Engineer Location: Remote. Candidates can live anywhere in the US but must be able to work 8am – ...
+
+- [Site Reliability Engineer](https://www.adzuna.com/land/ad/5839111852?se=JOoVbl-d8RGgy9wiR-dC4g&utm_medium=api&utm_source=632a28fd&v=0C510AA4077A193595CB25767E49F874AA54AF93)
+  - Company: Kforce Technology Staffing | Northlake, DeKalb County
+  - RESPONSIBILITIES: Kforce has a client that is seeking a remote Site Reliability Engineer to join their team. Summary: Th...
+
+- [Site Reliability Engineer OpenSearch](https://www.adzuna.com/land/ad/5832022178?se=JOoVbl-d8RGgy9wiR-dC4g&utm_medium=api&utm_source=632a28fd&v=F3B85F76654257D32720CAECDB3E890947557528)
+  - Company: Johnson Technology Systems Inc  | US
+  - We are hiring for Site Reliability Engineer OpenSearch to support our client Company Name: - JTSi (Johnson Technology Sy...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5824506289?se=JOoVbl-d8RGgy9wiR-dC4g&utm_medium=api&utm_source=632a28fd&v=6F7A08C79B247B94E47597BB37926E25D86A2FB9)
+  - Company: Lorven Technologies, Inc. | US
+  - Job Title: Lead Site Reliability Engineer Location: Remote Project description Responsible at the expert level for ensur...
+
+- [OCI Platform Engineer](https://www.adzuna.com/details/5851007796?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Euless, Tarrant County
+  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
+
+- [Kafka Platform Engineer](https://www.adzuna.com/details/5851004549?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Durham, Durham County
+  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
+
+- [OpenShift Platform Engineer](https://www.adzuna.com/details/5850975881?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Shrewsbury, Worcester County
+  - OpenShift Platform Engineer - Remote Bright Vision Technologies is a technology consulting and software development comp...
+
+- [Platform Networking Engineer](https://www.adzuna.com/details/5850957616?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Euless, Tarrant County
+  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
+
+- [AI Platform Engineer](https://www.adzuna.com/details/5850950309?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Durham, Durham County
+  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
+
+- [Software Engineer III - AI/ML Platform Operations](https://www.adzuna.com/details/5850923648?utm_medium=api&utm_source=632a28fd)
+  - Company: CSAA Insurance Group | US
+  - External candidates: In order for your application to be correctly processed please sign-in before you apply Internal ca...
+
+- [Virtual Platform Engineer](https://www.adzuna.com/details/5850645292?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Euless, Tarrant County
+  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
+
+- [Senior Platform Engineer – Infrastructure](https://www.adzuna.com/details/5850505565?utm_medium=api&utm_source=632a28fd)
+  - Company: Recruiting From Scratch | Gramercy Park and Murray Hill, Manhattan
+  - Who is Recruiting from Scratch: Recruiting from Scratch is a specialized talent firm dedicated to helping companies buil...
+
+- [Dir-Data Platform Engineering (Full-time Remote, North Carolina Based)](https://www.adzuna.com/details/5850487341?utm_medium=api&utm_source=632a28fd)
+  - Company: Alliance | Morrisville, Wake County
+  - The Director-Data Platform Engineering is responsible for the strategic leadership, governance, and delivery of Alliance...
+
+- [Data Platform Engineer - Remote / Telecommute](https://www.adzuna.com/details/5850315610?utm_medium=api&utm_source=632a28fd)
+  - Company: CYNET SYSTEMS | Providence, Providence County
+  - Job Overview: Pay Range: $43.00hr - $48.00hr Requirement/Must Have: 8 years of experience in data platform engineering. ...
+
+- [Platform Support Engineer AWS](https://www.adzuna.com/details/5850315456?utm_medium=api&utm_source=632a28fd)
+  - Company: Staffingine LLC | Alaska, US
+  - Job Title: Platform Support Engineer AWS Job Location: Remote Job Type: Full-Time Job Description: AWS Infrastructure Ad...
+
+- [Enterprise AI & Power Platform Engineer](https://www.adzuna.com/details/5850315420?utm_medium=api&utm_source=632a28fd)
+  - Company: Noblesoft Technologies | Pennsylvania, US
+  - Title :Enterprise AI & Power Platform Engineer Location : Bethlehem, Pennsylvania (Remote) Enterprise AI Administration ...
+
+- [Power BI Platform Support Engineer](https://www.adzuna.com/details/5850303220?utm_medium=api&utm_source=632a28fd)
+  - Company: TalentOla | US
+  - Job Description: Role: Lead Microsoft Data & Analytics Platform Support Engineer Location: Remote Role Experience: 10 Ye...
+
+- [Enterprise AI & Power Platform Engineer](https://www.adzuna.com/details/5850301768?utm_medium=api&utm_source=632a28fd)
+  - Company: VDart Inc | US
+  - Role: Enterprise AI & Power Platform Engineer Remote 100% Contract JD: We are seeking an experienced Enterprise AI & Pow...
+
+- [Platform Reliability Engineer](https://www.adzuna.com/details/5850154854?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Redmond, King County
+  - Platform Reliability Engineer – Remote Bright Vision Technologies is a technology consulting and software development co...
+
+- [Data Platform Engineer](https://www.adzuna.com/details/5850154836?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
+
+- [ML Platform Engineer](https://www.adzuna.com/details/5849907295?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Shrewsbury, Worcester County
+  - ML Platform Engineer - Remote Bright Vision Technologies is a technology consulting and software development company del...
+
+- [AI Data Platform Engineer](https://www.adzuna.com/details/5849907263?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Flower Mound, Denton County
+  - AI Data Platform Engineer – Remote Bright Vision Technologies is a technology consulting and software development compan...
+
+- [Senior Platform Engineer](https://www.adzuna.com/details/5849905330?utm_medium=api&utm_source=632a28fd)
+  - Company: HackEDU, Inc. dba Security Journey | Apex, Wake County
+  - Senior Platform Engineer (AWS / Kubernetes) Remote (United States) Security Journey is hiring a Senior Platform Engineer...
+
+- [Google Cloud Platform Data Engineer](https://www.adzuna.com/land/ad/5849886891?se=_FRZb1-d8RGNJa66oEuPAw&utm_medium=api&utm_source=632a28fd&v=7B54DF396249C79CF422C4DFAF46790C43CB415C)
+  - Company: Interon IT Solutions LLC | Chantilly, Fairfax County
+  - W2 role Role: Senior Google Cloud Platform Data Engineer Location:Remote Experience: 8 years Job Description Our client ...
+
+- [Collaboration Platform Engineer](https://www.adzuna.com/land/ad/5848981660?se=_FRZb1-d8RGNJa66oEuPAw&utm_medium=api&utm_source=632a28fd&v=C9FF8CF68BDD91F37CA82900FB678D3905DE31D0)
+  - Company: C.H. Reynolds Electric, Inc | US
+  - Role/ Title: Slack Engineer/ Collaboration Platform Engineer Location: Remote (USA) Duration: Long Term Contract Work Mo...
+
+- [Cloud Platform Engineer - Data Platforms (Remote  USA)](https://www.adzuna.com/land/ad/5848205013?se=_FRZb1-d8RGNJa66oEuPAw&utm_medium=api&utm_source=632a28fd&v=5BE24A363EA5561285673FB562E65E6449E0173E)
+  - Company: MHP - A Porsche Company | Northlake, DeKalb County
+  - Tasks Tasks Tasks The Role This remote Cloud Platform engineering role enables AWS Data Lake initiatives by designing, a...
+
+- [Remote W2 Role - Azure Cloud Engineer with Azure Databricks, ADLS Gen2, Azure Data Factoryand Azure Machine Learning exp](https://www.adzuna.com/land/ad/5845658836?se=NLdPcF-d8RGRe8MKeLiBPg&utm_medium=api&utm_source=632a28fd&v=66988CC83B25C79EFF64B8DA1AB0B184DDFB03C9)
+  - Company: Infinity Tech Group Inc | US
+  - W2 Role: Azure Cloud Engineer, Databricks Platform exp (Remote) (Direct Client) Location: Warren, NJ Duration: 6 Months ...
+
+- [AI/ML Platform Engineer - Brazil (Remote)](https://www.adzuna.com/land/ad/5842112756?se=NLdPcF-d8RGRe8MKeLiBPg&utm_medium=api&utm_source=632a28fd&v=15E78E0346BE032F223B924B36C49DC7234DB271)
+  - Company: Georgia IT | US
+  - AI/ML Platform Engineer Location: Brazil Employment Type: Contract Work Model: Remote Role Overview We are seeking an ex...
+
+- [Platform Engineer](https://www.adzuna.com/land/ad/5840911483?se=NLdPcF-d8RGRe8MKeLiBPg&utm_medium=api&utm_source=632a28fd&v=A004D88A9763D629B579EB89BE1189677F23EBD7)
+  - Company: Pellera | US
+  - Position Title: Platform Engineer / Nutanix - Managed Services Position Location: Remote or Onsite (as per business need...
+
+- [Senior Akamai Platform Engineer](https://www.adzuna.com/land/ad/5838670756?se=NLdPcF-d8RGRe8MKeLiBPg&utm_medium=api&utm_source=632a28fd&v=6121B3559DE520B84BCD9BC48975345522E450E3)
+  - Company: INSPYR Solutions | US
+  - Title: Senior Akamai Platform Engineer Location: Remote LATAM Duration: 12 month contract Compensation : $25.00 - $28.00...
+
+- [Google Cloud Platform Data Engineer with AI position remote](https://www.adzuna.com/land/ad/5838607661?se=NLdPcF-d8RGRe8MKeLiBPg&utm_medium=api&utm_source=632a28fd&v=BFA9ED67AA40B1D47EDE738FFC3A1F5C74E6253D)
+  - Company: Pristine Resource | US
+  - Dear Team, Our client is looking for strong Google Cloud Platform Data engineer with AI expereince , need good communati...
+
+- [Systems Integration Contractor: 10 years (Expert)](https://www.adzuna.com/land/ad/5835790792?se=NLdPcF-d8RGRe8MKeLiBPg&utm_medium=api&utm_source=632a28fd&v=4DBC1D960DF0882039748938869D5F0CF393FAE0)
+  - Company: Kaygen Inc | Grand Central, Manhattan
+  - Title : API/platform development engineer Location : Remote Pay range : $70 to $80 As a Systems Integration Contractor, ...
+
+- [Cloud Infrastructure Engineer – AWS](https://www.adzuna.com/details/5850990575?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Durham, Durham County
+  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
+
+- [Cloud Network Engineer](https://www.adzuna.com/details/5850976703?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Shrewsbury, Worcester County
+  - Cloud Network Engineer – Remote Bright Vision Technologies is a technology consulting and software development company d...
+
+- [AWS Cloud Engineer](https://www.adzuna.com/details/5850858724?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Mountain View, Santa Clara County
+  - AWS Cloud Engineer – Remote Bright Vision Technologies is a technology consulting and software development company deliv...
+
+- [Oracle Cloud Security Engineer](https://www.adzuna.com/details/5850707408?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Shrewsbury, Worcester County
+  - Oracle Cloud Security Engineer - Remote Bright Vision Technologies is a technology consulting and software development c...
+
+- [OCI Cloud Engineer](https://www.adzuna.com/details/5850673897?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Shrewsbury, Worcester County
+  - OCI Cloud Engineer - Remote Bright Vision Technologies is a technology consulting and software development company deliv...
+
+- [Cloud Solutions Engineer – Azure](https://www.adzuna.com/details/5850492985?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Eastgate, King County
+  - Cloud Solutions Engineer – Azure - Remote Bright Vision Technologies is a technology consulting and software development...
+
+- [Oracle Cloud Integration Engineer](https://www.adzuna.com/details/5850476357?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Eastgate, King County
+  - Oracle Cloud Integration Engineer - Remote Bright Vision Technologies is a technology consulting and software developmen...
+
+- [Cloud infra engineer](https://www.adzuna.com/land/ad/5850359289?se=3DlMcV-d8RGLv4j7pdq8Kg&utm_medium=api&utm_source=632a28fd&v=0EB5D3BACA5B9689B34256725C9825FF9711EAD6)
+  - Company: P2PSoftTek Inc | US
+  - Role : Cloud infra engineer Remote Role Description Design, deploy, and maintain scalable cloud infrastructure environme...
+
+- [Storage & Cloud Migration Engineer](https://www.adzuna.com/details/5850303412?utm_medium=api&utm_source=632a28fd)
+  - Company: Match Point Solutions | Keizer, Marion County
+  - MatchPoint Solutions is a fast-growing, young, energetic global IT-Engineering services company with clients across the ...
+
+- [AWS Cloud Engineer](https://www.adzuna.com/details/5849907270?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Shrewsbury, Worcester County
+  - AWS Cloud Engineer – Remote Bright Vision Technologies is a technology consulting and software development company deliv...
+
+- [Cloud DevSecOps Engineer - Remote || W2 only](https://www.adzuna.com/land/ad/5849147033?se=3DlMcV-d8RGLv4j7pdq8Kg&utm_medium=api&utm_source=632a28fd&v=0B8171443CA59A771EB56AC691741789DF05238C)
+  - Company: Cerebra Consulting Inc | Triana, Madison County
+  - Cerebra Consulting Inc is a System Integrator and IT Services Solution provider with a focus on Big Data, Business Analy...
+
+- [Seasonal Associate, Cloud Engineer (Remote)](https://www.adzuna.com/land/ad/5848216474?se=3DlMcV-d8RGLv4j7pdq8Kg&utm_medium=api&utm_source=632a28fd&v=21F8270D13CC927A1ECD0200E642221C56DB180C)
+  - Company: ICF International, Inc. | Reston, Fairfax County
+  - We are seeking a motivated and curious Seasonal Associate, Cloud Engineer (AWS / Azure) to join our team and support the...
+
+- [Cloud DevSecOps Engineer III](https://www.adzuna.com/land/ad/5847669807?se=3DlMcV-d8RGLv4j7pdq8Kg&utm_medium=api&utm_source=632a28fd&v=9559E6F0461985C0D768D1C5C4B59D422CEE20CA)
+  - Company: Techgene Solutions LLC | US
+  - Cloud DevSecOps Engineer III Remote 6-month contract Our client needs a Cloud DevOps Engineer who will support the Front...
+
+- [Cloud Systems Engineer | Remote](https://www.adzuna.com/land/ad/5847159019?se=3DlMcV-d8RGLv4j7pdq8Kg&utm_medium=api&utm_source=632a28fd&v=8394E42F7AE749ECDAEA08934C5272CAB95B7A2E)
+  - Company: Apetan Consulting | Five Corners, Hudson County
+  - Role : Cloud Systems Engineer We’re hiring an AWS Cloud Engineer to support a secure enterprise data platform hosted on ...
+
+- [Cloud Firewall Engineer](https://www.adzuna.com/land/ad/5846089718?se=IoAUcl-d8RGgy9wiR-dC4g&utm_medium=api&utm_source=632a28fd&v=87BB9E4FEC590BE91F6A095ED770D266709DC026)
+  - Company: INSPYR Solutions | US
+  - Title: Cloud Firewall Engineer Location: Vienna, VA (REMOTE) Duration: Initial 6-month contract with possible extensions...
+
+- [Cloud DevSecOps Engineer](https://www.adzuna.com/land/ad/5845656507?se=IoAUcl-d8RGgy9wiR-dC4g&utm_medium=api&utm_source=632a28fd&v=C42B7714501A3FE2316F66AD29C37BC878BE7FFC)
+  - Company: Apex Systems | Hoover, Jefferson County
+  - Job: 3046604 Job Description: Cloud DevSecOps Engineer Location: Hoover, Alabama (Remote) Role Overview The Cloud DevSec...
+
+- [Lead Cloud Engineer - AI Ops - Remote](https://www.adzuna.com/land/ad/5842641426?se=IoAUcl-d8RGgy9wiR-dC4g&utm_medium=api&utm_source=632a28fd&v=9995499832625B745BCD3BB05946F25B922920BD)
+  - Company: UnitedHealth Group | Minnetonka Mills, Hennepin County
+  - Requisition number: 2376169 Job category: Technology Optum Tech is a global leader in health care innovation. Our teams ...
+
+- [Public Cloud Engineer](https://www.adzuna.com/land/ad/5842512154?se=IoAUcl-d8RGgy9wiR-dC4g&utm_medium=api&utm_source=632a28fd&v=072AFE4F6A338DB82288F57F263BA23E7009DEC9)
+  - Company: TekLeaders, Inc | New York City, New York
+  - Public Cloud Engineer remote only for NY, NJ local people Position Summary: seeking senior Public Cloud Engineers to des...
+
+- [AWS Cloud Engineer](https://www.adzuna.com/land/ad/5841070242?se=IoAUcl-d8RGgy9wiR-dC4g&utm_medium=api&utm_source=632a28fd&v=4F57A842D664751579C56AA01951ABC25952A893)
+  - Company: Apex Systems | Vigus, Saint Louis County
+  - Job: 3046073 Job Description: Cloud Engineer Location: Earth City, Missouri (Remote) Role Overview This position support...
+
+- [Infrastructure Automation Engineer](https://www.adzuna.com/details/5851000072?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Northville, Wayne County
+  - Infrastructure Automation Engineer – Remote Bright Vision Technologies is a technology consulting and software developme...
+
+- [Infrastructure Automation Engineer](https://www.adzuna.com/details/5850987692?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | North Andover, Essex County
+  - Infrastructure Automation Engineer - Remote Bright Vision Technologies is a technology consulting and software developme...
+
+- [Sales Engineer](https://www.adzuna.com/details/5850936268?utm_medium=api&utm_source=632a28fd)
+  - Company: Enginuity Advantage | US
+  - Sales Engineer – Data Center & AI Infrastructure Remote, U.S. | $140K–$180K Base | $187K–$240K OTE | 30–40% Travel If yo...
+
+- [AI Infrastructure Engineer](https://www.adzuna.com/details/5850781939?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | North Andover, Essex County
+  - AI Infrastructure Engineer – Remote Bright Vision Technologies is a technology consulting and software development compa...
+
+- [Machine Learning Infrastructure Engineer](https://www.adzuna.com/details/5850592646?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Mountain View, Santa Clara County
+  - Machine Learning Infrastructure Engineer – Remote Bright Vision Technologies is a technology consulting and software dev...
+
+- [Azure Infrastructure & Security Engineers](https://www.adzuna.com/land/ad/5850169963?se=4jcjc1-d8RGgy9wiR-dC4g&utm_medium=api&utm_source=632a28fd&v=6A3211F4CA205D21208F709A2E46E92EB46D3969)
+  - Company: Reliable Software Resources | US
+  - Azure Infrastructure & Security Engineers Location: Remote  50% Travel to client locations Work Arrangement: Remote with...
+
+- [Infrastructure Reliability Engineer](https://www.adzuna.com/details/5849907285?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - Infrastructure Reliability Engineer – Remote Bright Vision Technologies is a technology consulting and software developm...
+
+- [VMware Admin - Smarthands](https://www.adzuna.com/land/ad/5847461659?se=4jcjc1-d8RGgy9wiR-dC4g&utm_medium=api&utm_source=632a28fd&v=B8292955B7255773761E930C8FF4F34F57A5B430)
+  - Company: Apex Systems | Fort Worth, Tarrant County
+  - Job: 3046778 Job Description: VMware Admin - Smarthands Location: Fort Worth, Texas Role Overview We are seeking a hands...
+
+- [Desktop Support Technician](https://www.adzuna.com/land/ad/5842810856?se=ruIZdF-d8RGRe8MKeLiBPg&utm_medium=api&utm_source=632a28fd&v=D34619634C513B86506E61B19578BC4DE0E023CA)
+  - Company: Motion Recruitment Partners, LLC | Lakeport, Belknap County
+  - Our client is looking for a Desktop Support Technician for a 3-month contract in Laconia, NH 03246. Applicants must be c...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/land/ad/5849827846?se=SqAFdV-d8RGgy9wiR-dC4g&utm_medium=api&utm_source=632a28fd&v=0039F6B8FBF5F54D4C5882B0898B8784D57E8128)
+  - Company: Hyperproof | Atlanta, Fulton County
+  - Job Description Job Description Senior DevSecOps Engineer (Remote-based role that requires US-citizenship) About us Hype...
+
+- [DevSecOps Engineer (Remote)](https://www.adzuna.com/land/ad/5848917793?se=SqAFdV-d8RGgy9wiR-dC4g&utm_medium=api&utm_source=632a28fd&v=7D9EBAF839AFD333DED1A6CD6F1CA706EF812177)
+  - Company: Kforce Technology Staffing | Birmingham, Jefferson County
+  - RESPONSIBILITIES: Kforce's client is seeking a DevSecOps Engineer to support CI/CD, application deployments, and moderni...
+
+- [DevSecOps Engineer (Mid level - Top Secret - Remote US)](https://www.adzuna.com/land/ad/5848216543?se=SqAFdV-d8RGgy9wiR-dC4g&utm_medium=api&utm_source=632a28fd&v=1D70AF8A576A7BB61E6623C4F7DA81B09E82FDF4)
+  - Company: ICF International, Inc. | Reston, Fairfax County
+  - We are seeking an DevSecOps Engineer to support a federal client by helping integrate security practices into modern clo...
+
+- [DevSecOps Engineer](https://www.adzuna.com/land/ad/5828318590?se=OhPUdV-d8RGzn5vA8fZm8g&utm_medium=api&utm_source=632a28fd&v=B99469371BDC7A9AA5F14863EEEA827B35B36C88)
+  - Company: Dexian DISYS | US
+  - DevSecOps Engineer 100% Remote 6  Months Role: Secure 350 AWS EKS container images & CI/CD for a FedRAMP audit. Tech: AW...
+
+- [DevSecOps Engineer with Security Clearance](https://www.adzuna.com/land/ad/5828115249?se=OhPUdV-d8RGzn5vA8fZm8g&utm_medium=api&utm_source=632a28fd&v=9829222FC707351634A8C393F52691A3DA83A7AD)
+  - Company: Auria | Stratmoor Hills, El Paso County
+  - Position: DevSecOps Engineer Location: Colorado Springs, CO Remote Status: Hybrid Job Id: 13712-MSFITS-Chase  of Opening...
+
+- [Monitoring/SRE Engineer (REMOTE)](https://www.adzuna.com/details/5850754494?utm_medium=api&utm_source=632a28fd)
+  - Company: Koniag Government Services | Washington, Washington, D.C.
+  - Koniag IT Systems, LLC, a Koniag Government Services company, is seeking a Monitoring / SRE Engineer to support KITS and...
+
+- [Kubernetes & OpenShift Engineer](https://www.adzuna.com/details/5850966400?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Double Oak, Denton County
+  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
+
+- [Kubernetes Service Engineer](https://www.adzuna.com/details/5850154846?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...

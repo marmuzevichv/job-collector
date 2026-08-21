@@ -2974,5 +2974,857 @@
     "title": "GKE Kubernetes Engineer",
     "url": "https://www.adzuna.com/land/ad/5721054728?se=CLEfb5ac8RGhArhxtbtVlg&utm_medium=api&utm_source=632a28fd&v=AE89FA1EE465881B5517AF24C9E42933309504BF",
     "first_seen_utc": "2026-08-20 12:55:09"
+  },
+  "adzuna::5851008027": {
+    "company": "Pennant Solutions Group",
+    "title": "PostgreSQL Database DevOps Engineer",
+    "url": "https://www.adzuna.com/details/5851008027?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850661102": {
+    "company": "HDI Global Insurance Company",
+    "title": "DevOps Engineer",
+    "url": "https://www.adzuna.com/details/5850661102?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850633931": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850633931?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=561CF8C6A808DF841B60429057DFAC9E98D5B5E9",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850628496": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850628496?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=ED74E609CC06A58C828FE03D3326999CACE27E6C",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850571496": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850571496?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=6459F665FAA74C35FF8FF8D45A2EFF7CE45D1CB8",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850554109": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850554109?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=9B6674A91212B46F5E14A4D3AFF201C618EF5C2D",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850463215": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850463215?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=8A1A7708970D5F40F3D6E5F0666A8460DE6E66DC",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850462865": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850462865?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=94A5F05FC6F0485831CC0AA2ABED9DAF1EC39C0B",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850462023": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850462023?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=A9E6C6C5FC85579C7587317435A6576449CB374D",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850461968": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850461968?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=6FC2F05A8C46DD65AF07DF2DD22F013201BE0852",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850461825": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850461825?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=12B73D6286182BA81D9659473B47310E5582611C",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850461667": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850461667?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=4C201F9F06A60937D385B91D4FA6D50D126886D8",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850461642": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850461642?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=F49671BBB666A116A278BE5E39023D19176AC8B0",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850461523": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850461523?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=C934A6480CEC6D9B7BA7159DB02DB28D694399BD",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850461351": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850461351?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=625277567F11C4109E26F24149835DB8E2F9A9AF",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850461253": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850461253?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=93B2E5DFE10CF7AE236F256444A0E39C8A3430F2",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850458327": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850458327?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=963FAA1521D9915C7A5301F66F8A425FC34DD0C3",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850458197": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850458197?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=B924FCCA016CBE16D2B6791F92A3CE2A44D183CD",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850458102": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850458102?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=55DD8969814B317D51F5B6BED7BE7E3F5566BD81",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850458068": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850458068?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=4D89726747E0CAEF1484ACF98AB5D0DF610CB63F",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850457959": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/details/5850457959?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850457123": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850457123?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=4C973EDD08BC95C0A4D537F5967BC7C27EE41F4B",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850445351": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850445351?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=C9432CE952EC57C45A542069FC494F034B118588",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850433497": {
+    "company": "Kelly Services",
+    "title": "Remote Azure DevOps Engineer",
+    "url": "https://www.adzuna.com/land/ad/5850433497?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=CD97A1EAC12719EE225C799B86AAC9FFE3F2975D",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850433440": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850433440?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=498897C86C4CC3995A2E84CEAE45B2FAD9D4B7FA",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850430405": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850430405?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=10A92F5A74B538A7C189350B32CC96D0A540FEA5",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850430255": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850430255?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=B7A4E43E18CE6025C02AE643B634277E844E6D29",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850430109": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850430109?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=355CFE8D87E61AAA3C1F96B60F6082DD262E044F",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850429355": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850429355?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=E60F61BDED9075C732A38B5FF5D6C000FD136D88",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850427779": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850427779?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=10F7D07FB5E38A1696DF2FE70160C1BF67CA34CB",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850427442": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850427442?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=A934C236FA222F76030DB7745276465A12991022",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850427353": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850427353?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=55CE2B9F2DD7B58ABF5284AE806A172A607790F6",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850427193": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850427193?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=03FA932B65194721030F378E075984B65C84B0CA",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850426448": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850426448?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=39CB2DD805D01E2997D8D21F6446FCB21AD48E9B",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850426375": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850426375?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=4456644853E82658199B089050190B410468B30B",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850426152": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850426152?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=1416B521BB3891DDC7C268434466FC94EA484CDB",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850425860": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850425860?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=7122D3CB37A5C6B2B46A029D29522F02E7834906",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850425545": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850425545?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=8E8B4ACAF0B87EEB9F77B37F95B8BAAED3C83BA1",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850424773": {
+    "company": "Actalent",
+    "title": "Devops Engineer",
+    "url": "https://www.adzuna.com/land/ad/5850424773?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=D76E08651AE3394576B17BD35EE2B8746D7C922A",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850391403": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850391403?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=4984E6B7F63A3998BF62974E92D06BFA7A94525F",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850363932": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850363932?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=A2E8FAA8BB895C3B2A34FF77CD85A958EA6BEAB6",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850363752": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850363752?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=07DBC5A09E3C06CBFD7CF79FCE174B0428DF9513",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850363473": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850363473?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=996781CD869C6CEED145D825350F9F1D27118B54",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850363375": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850363375?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=533E4C26B139F9EE7811982662599A21744A8811",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850363125": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850363125?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=7578614B3C564C87B9076F7759EC7269712D4EFB",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850353310": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/details/5850353310?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850345638": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/details/5850345638?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850343270": {
+    "company": "Bright Vision Technologies",
+    "title": "DevOps & SRE Engineer",
+    "url": "https://www.adzuna.com/land/ad/5850343270?se=QGVZa1-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=68ECC7B3AA0DB44D38B396CF9452827FAE652202",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850316526": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/details/5850316526?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850316041": {
+    "company": "Staffxpert LLC",
+    "title": "AWS Cloud DevOps Engineer",
+    "url": "https://www.adzuna.com/details/5850316041?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850311821": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/details/5850311821?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850302661": {
+    "company": "Nava Software Solutions LLC",
+    "title": "Sr. Sys Admin/ DevOps Engineer - Remote",
+    "url": "https://www.adzuna.com/details/5850302661?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850302380": {
+    "company": "Siri InfoSolutions Inc",
+    "title": "DevOps Cloud Security Engineer",
+    "url": "https://www.adzuna.com/details/5850302380?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850301717": {
+    "company": "VDart Inc",
+    "title": "AWS DevOps Engineer",
+    "url": "https://www.adzuna.com/details/5850301717?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850173046": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850173046?se=1NUrbF-d8RGNJa66oEuPAw&utm_medium=api&utm_source=632a28fd&v=C048C8F1CE3AFAF11E2EE94CA6B36C77BD69FA63",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850172005": {
+    "company": "Cognizant",
+    "title": "Entry Level DevOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5850172005?se=1NUrbF-d8RGNJa66oEuPAw&utm_medium=api&utm_source=632a28fd&v=11079A67FDA5447E35C66048BD51EB9586FD0567",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5849927851": {
+    "company": "SUNRAY INFORMATICS",
+    "title": "Devops Engineer or Software Engineer _ Remote _ Healthcare Domain Exp",
+    "url": "https://www.adzuna.com/land/ad/5849927851?se=1NUrbF-d8RGNJa66oEuPAw&utm_medium=api&utm_source=632a28fd&v=F3C23C21444B543BF0B5856AEE7896F9AB3167E7",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5849887204": {
+    "company": "Edify Technologies, Inc.",
+    "title": "DevOps Engineer",
+    "url": "https://www.adzuna.com/land/ad/5849887204?se=1NUrbF-d8RGNJa66oEuPAw&utm_medium=api&utm_source=632a28fd&v=01FBF7F91D1F974C3CCDF23758EE2BBA40519490",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5849886864": {
+    "company": "Nava Software Solutions",
+    "title": "Sr. Sys Admin/ DevOps Engineer - Remote",
+    "url": "https://www.adzuna.com/land/ad/5849886864?se=1NUrbF-d8RGNJa66oEuPAw&utm_medium=api&utm_source=632a28fd&v=E204FB85DCDCF12B752D204541B8972C5D631B9D",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5849136192": {
+    "company": "Motion Recruitment Partners, LLC",
+    "title": "Remote Azure DevOps Engineer",
+    "url": "https://www.adzuna.com/land/ad/5849136192?se=1NUrbF-d8RGNJa66oEuPAw&utm_medium=api&utm_source=632a28fd&v=F0F3CA5129703EACE32BEE19761AF0D14B14BE94",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5848979254": {
+    "company": "Apex Systems",
+    "title": "Junior DevOps Engineer",
+    "url": "https://www.adzuna.com/land/ad/5848979254?se=1NUrbF-d8RGNJa66oEuPAw&utm_medium=api&utm_source=632a28fd&v=8584B4194AC9384E08E5DB56EFCEB55C075642DB",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5848645205": {
+    "company": "nTech Solutions",
+    "title": "Senior DevOps Engineer  W2 ONLY",
+    "url": "https://www.adzuna.com/land/ad/5848645205?se=1NUrbF-d8RGNJa66oEuPAw&utm_medium=api&utm_source=632a28fd&v=7EE58F4E13710E32C6E2271AFD7B746BF0C46BAC",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5847669668": {
+    "company": "Spadtek Solutions LLC",
+    "title": "DevOps Engineer",
+    "url": "https://www.adzuna.com/land/ad/5847669668?se=1NUrbF-d8RGNJa66oEuPAw&utm_medium=api&utm_source=632a28fd&v=1D28C90357B845D5184F081FE22C3E7CF79CCDD0",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5836181635": {
+    "company": "Apex Systems",
+    "title": "DevOps Engineer",
+    "url": "https://www.adzuna.com/land/ad/5836181635?se=1NUrbF-d8RGNJa66oEuPAw&utm_medium=api&utm_source=632a28fd&v=27EAB4A03ED328FFA6DB076F7C82F88EAC081786",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850791844": {
+    "company": "Stefanini Group",
+    "title": "Cloud Site Reliability Engineer",
+    "url": "https://www.adzuna.com/land/ad/5850791844?se=0J05bV-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=EAF67C7A051C5A5EA611C9D0C1CCBCC6A5DAC534",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850661503": {
+    "company": "Stefanini Group",
+    "title": "Cloud Site Reliability Engineer",
+    "url": "https://www.adzuna.com/land/ad/5850661503?se=0J05bV-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=5A27E4775B6ED0E7BB2E1D528F6254BB18C08338",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850562124": {
+    "company": "SitusAMC",
+    "title": "Sr Site Reliability Engineer -Remote US",
+    "url": "https://www.adzuna.com/land/ad/5850562124?se=0J05bV-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=DDDD1318A4ACB0CD4F98C5B419F6B12F0DEFDAFD",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850315219": {
+    "company": "SitusAMC",
+    "title": "Sr Site Reliability Engineer -Remote US",
+    "url": "https://www.adzuna.com/details/5850315219?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850176709": {
+    "company": "SitusAMC",
+    "title": "Sr Site Reliability Engineer -Remote US",
+    "url": "https://www.adzuna.com/land/ad/5850176709?se=0J05bV-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=1CA65BA76493196B75DA7142D369E2C98970F972",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850174670": {
+    "company": "SitusAMC",
+    "title": "Sr Site Reliability Engineer -Remote US",
+    "url": "https://www.adzuna.com/land/ad/5850174670?se=0J05bV-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=B33DD72983AF8B92042DFE5EF8339120DFD6D385",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5849332349": {
+    "company": "SitusAMC",
+    "title": "Sr Site Reliability Engineer -Remote US",
+    "url": "https://www.adzuna.com/land/ad/5849332349?se=0J05bV-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=C06F2BC45224E03027A9C48625104A4EC5644059",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5849329505": {
+    "company": "SitusAMC",
+    "title": "Sr Site Reliability Engineer -Remote US",
+    "url": "https://www.adzuna.com/land/ad/5849329505?se=0J05bV-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=4DD65DBB4BA807D566D239168F7970131934BBFB",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5849309975": {
+    "company": "SitusAMC",
+    "title": "Sr Site Reliability Engineer -Remote US",
+    "url": "https://www.adzuna.com/land/ad/5849309975?se=0J05bV-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=01E59756F42FA1D545D409E8CC45AECDE5DFB40D",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5849085042": {
+    "company": "SitusAMC",
+    "title": "Sr Site Reliability Engineer -Remote US",
+    "url": "https://www.adzuna.com/details/5849085042?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5846920915": {
+    "company": "Indotronix International Corp",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.adzuna.com/land/ad/5846920915?se=0J05bV-d8RGBPduReAo1dw&utm_medium=api&utm_source=632a28fd&v=2218F9F37AD4FC4D2678142F7982EE1B8A972E5B",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5839111852": {
+    "company": "Kforce Technology Staffing",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.adzuna.com/land/ad/5839111852?se=JOoVbl-d8RGgy9wiR-dC4g&utm_medium=api&utm_source=632a28fd&v=0C510AA4077A193595CB25767E49F874AA54AF93",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5832022178": {
+    "company": "Johnson Technology Systems Inc ",
+    "title": "Site Reliability Engineer OpenSearch",
+    "url": "https://www.adzuna.com/land/ad/5832022178?se=JOoVbl-d8RGgy9wiR-dC4g&utm_medium=api&utm_source=632a28fd&v=F3B85F76654257D32720CAECDB3E890947557528",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5824506289": {
+    "company": "Lorven Technologies, Inc.",
+    "title": "Lead Site Reliability Engineer - Remote",
+    "url": "https://www.adzuna.com/land/ad/5824506289?se=JOoVbl-d8RGgy9wiR-dC4g&utm_medium=api&utm_source=632a28fd&v=6F7A08C79B247B94E47597BB37926E25D86A2FB9",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5851007796": {
+    "company": "Bright Vision Technologies",
+    "title": "OCI Platform Engineer",
+    "url": "https://www.adzuna.com/details/5851007796?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5851004549": {
+    "company": "Bright Vision Technologies",
+    "title": "Kafka Platform Engineer",
+    "url": "https://www.adzuna.com/details/5851004549?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850975881": {
+    "company": "Bright Vision Technologies",
+    "title": "OpenShift Platform Engineer",
+    "url": "https://www.adzuna.com/details/5850975881?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850957616": {
+    "company": "Bright Vision Technologies",
+    "title": "Platform Networking Engineer",
+    "url": "https://www.adzuna.com/details/5850957616?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850950309": {
+    "company": "Bright Vision Technologies",
+    "title": "AI Platform Engineer",
+    "url": "https://www.adzuna.com/details/5850950309?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850923648": {
+    "company": "CSAA Insurance Group",
+    "title": "Software Engineer III - AI/ML Platform Operations",
+    "url": "https://www.adzuna.com/details/5850923648?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850645292": {
+    "company": "Bright Vision Technologies",
+    "title": "Virtual Platform Engineer",
+    "url": "https://www.adzuna.com/details/5850645292?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850505565": {
+    "company": "Recruiting From Scratch",
+    "title": "Senior Platform Engineer – Infrastructure",
+    "url": "https://www.adzuna.com/details/5850505565?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850487341": {
+    "company": "Alliance",
+    "title": "Dir-Data Platform Engineering (Full-time Remote, North Carolina Based)",
+    "url": "https://www.adzuna.com/details/5850487341?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850315610": {
+    "company": "CYNET SYSTEMS",
+    "title": "Data Platform Engineer - Remote / Telecommute",
+    "url": "https://www.adzuna.com/details/5850315610?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850315456": {
+    "company": "Staffingine LLC",
+    "title": "Platform Support Engineer AWS",
+    "url": "https://www.adzuna.com/details/5850315456?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850315420": {
+    "company": "Noblesoft Technologies",
+    "title": "Enterprise AI & Power Platform Engineer",
+    "url": "https://www.adzuna.com/details/5850315420?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850303220": {
+    "company": "TalentOla",
+    "title": "Power BI Platform Support Engineer",
+    "url": "https://www.adzuna.com/details/5850303220?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850301768": {
+    "company": "VDart Inc",
+    "title": "Enterprise AI & Power Platform Engineer",
+    "url": "https://www.adzuna.com/details/5850301768?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850154854": {
+    "company": "Bright Vision Technologies",
+    "title": "Platform Reliability Engineer",
+    "url": "https://www.adzuna.com/details/5850154854?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850154836": {
+    "company": "Bright Vision Technologies",
+    "title": "Data Platform Engineer",
+    "url": "https://www.adzuna.com/details/5850154836?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5849907295": {
+    "company": "Bright Vision Technologies",
+    "title": "ML Platform Engineer",
+    "url": "https://www.adzuna.com/details/5849907295?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5849907263": {
+    "company": "Bright Vision Technologies",
+    "title": "AI Data Platform Engineer",
+    "url": "https://www.adzuna.com/details/5849907263?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5849905330": {
+    "company": "HackEDU, Inc. dba Security Journey",
+    "title": "Senior Platform Engineer",
+    "url": "https://www.adzuna.com/details/5849905330?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5849886891": {
+    "company": "Interon IT Solutions LLC",
+    "title": "Google Cloud Platform Data Engineer",
+    "url": "https://www.adzuna.com/land/ad/5849886891?se=_FRZb1-d8RGNJa66oEuPAw&utm_medium=api&utm_source=632a28fd&v=7B54DF396249C79CF422C4DFAF46790C43CB415C",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5848981660": {
+    "company": "C.H. Reynolds Electric, Inc",
+    "title": "Collaboration Platform Engineer",
+    "url": "https://www.adzuna.com/land/ad/5848981660?se=_FRZb1-d8RGNJa66oEuPAw&utm_medium=api&utm_source=632a28fd&v=C9FF8CF68BDD91F37CA82900FB678D3905DE31D0",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5848205013": {
+    "company": "MHP - A Porsche Company",
+    "title": "Cloud Platform Engineer - Data Platforms (Remote  USA)",
+    "url": "https://www.adzuna.com/land/ad/5848205013?se=_FRZb1-d8RGNJa66oEuPAw&utm_medium=api&utm_source=632a28fd&v=5BE24A363EA5561285673FB562E65E6449E0173E",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5845658836": {
+    "company": "Infinity Tech Group Inc",
+    "title": "Remote W2 Role - Azure Cloud Engineer with Azure Databricks, ADLS Gen2, Azure Data Factoryand Azure Machine Learning exp",
+    "url": "https://www.adzuna.com/land/ad/5845658836?se=NLdPcF-d8RGRe8MKeLiBPg&utm_medium=api&utm_source=632a28fd&v=66988CC83B25C79EFF64B8DA1AB0B184DDFB03C9",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5842112756": {
+    "company": "Georgia IT",
+    "title": "AI/ML Platform Engineer - Brazil (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5842112756?se=NLdPcF-d8RGRe8MKeLiBPg&utm_medium=api&utm_source=632a28fd&v=15E78E0346BE032F223B924B36C49DC7234DB271",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5840911483": {
+    "company": "Pellera",
+    "title": "Platform Engineer",
+    "url": "https://www.adzuna.com/land/ad/5840911483?se=NLdPcF-d8RGRe8MKeLiBPg&utm_medium=api&utm_source=632a28fd&v=A004D88A9763D629B579EB89BE1189677F23EBD7",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5838670756": {
+    "company": "INSPYR Solutions",
+    "title": "Senior Akamai Platform Engineer",
+    "url": "https://www.adzuna.com/land/ad/5838670756?se=NLdPcF-d8RGRe8MKeLiBPg&utm_medium=api&utm_source=632a28fd&v=6121B3559DE520B84BCD9BC48975345522E450E3",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5838607661": {
+    "company": "Pristine Resource",
+    "title": "Google Cloud Platform Data Engineer with AI position remote",
+    "url": "https://www.adzuna.com/land/ad/5838607661?se=NLdPcF-d8RGRe8MKeLiBPg&utm_medium=api&utm_source=632a28fd&v=BFA9ED67AA40B1D47EDE738FFC3A1F5C74E6253D",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5835790792": {
+    "company": "Kaygen Inc",
+    "title": "Systems Integration Contractor: 10 years (Expert)",
+    "url": "https://www.adzuna.com/land/ad/5835790792?se=NLdPcF-d8RGRe8MKeLiBPg&utm_medium=api&utm_source=632a28fd&v=4DBC1D960DF0882039748938869D5F0CF393FAE0",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850990575": {
+    "company": "Bright Vision Technologies",
+    "title": "Cloud Infrastructure Engineer – AWS",
+    "url": "https://www.adzuna.com/details/5850990575?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850976703": {
+    "company": "Bright Vision Technologies",
+    "title": "Cloud Network Engineer",
+    "url": "https://www.adzuna.com/details/5850976703?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850858724": {
+    "company": "Bright Vision Technologies",
+    "title": "AWS Cloud Engineer",
+    "url": "https://www.adzuna.com/details/5850858724?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850707408": {
+    "company": "Bright Vision Technologies",
+    "title": "Oracle Cloud Security Engineer",
+    "url": "https://www.adzuna.com/details/5850707408?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850673897": {
+    "company": "Bright Vision Technologies",
+    "title": "OCI Cloud Engineer",
+    "url": "https://www.adzuna.com/details/5850673897?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850492985": {
+    "company": "Bright Vision Technologies",
+    "title": "Cloud Solutions Engineer – Azure",
+    "url": "https://www.adzuna.com/details/5850492985?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850476357": {
+    "company": "Bright Vision Technologies",
+    "title": "Oracle Cloud Integration Engineer",
+    "url": "https://www.adzuna.com/details/5850476357?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850359289": {
+    "company": "P2PSoftTek Inc",
+    "title": "Cloud infra engineer",
+    "url": "https://www.adzuna.com/land/ad/5850359289?se=3DlMcV-d8RGLv4j7pdq8Kg&utm_medium=api&utm_source=632a28fd&v=0EB5D3BACA5B9689B34256725C9825FF9711EAD6",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850303412": {
+    "company": "Match Point Solutions",
+    "title": "Storage & Cloud Migration Engineer",
+    "url": "https://www.adzuna.com/details/5850303412?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5849907270": {
+    "company": "Bright Vision Technologies",
+    "title": "AWS Cloud Engineer",
+    "url": "https://www.adzuna.com/details/5849907270?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5849147033": {
+    "company": "Cerebra Consulting Inc",
+    "title": "Cloud DevSecOps Engineer - Remote || W2 only",
+    "url": "https://www.adzuna.com/land/ad/5849147033?se=3DlMcV-d8RGLv4j7pdq8Kg&utm_medium=api&utm_source=632a28fd&v=0B8171443CA59A771EB56AC691741789DF05238C",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5848216474": {
+    "company": "ICF International, Inc.",
+    "title": "Seasonal Associate, Cloud Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5848216474?se=3DlMcV-d8RGLv4j7pdq8Kg&utm_medium=api&utm_source=632a28fd&v=21F8270D13CC927A1ECD0200E642221C56DB180C",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5847669807": {
+    "company": "Techgene Solutions LLC",
+    "title": "Cloud DevSecOps Engineer III",
+    "url": "https://www.adzuna.com/land/ad/5847669807?se=3DlMcV-d8RGLv4j7pdq8Kg&utm_medium=api&utm_source=632a28fd&v=9559E6F0461985C0D768D1C5C4B59D422CEE20CA",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5847159019": {
+    "company": "Apetan Consulting",
+    "title": "Cloud Systems Engineer | Remote",
+    "url": "https://www.adzuna.com/land/ad/5847159019?se=3DlMcV-d8RGLv4j7pdq8Kg&utm_medium=api&utm_source=632a28fd&v=8394E42F7AE749ECDAEA08934C5272CAB95B7A2E",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5846089718": {
+    "company": "INSPYR Solutions",
+    "title": "Cloud Firewall Engineer",
+    "url": "https://www.adzuna.com/land/ad/5846089718?se=IoAUcl-d8RGgy9wiR-dC4g&utm_medium=api&utm_source=632a28fd&v=87BB9E4FEC590BE91F6A095ED770D266709DC026",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5845656507": {
+    "company": "Apex Systems",
+    "title": "Cloud DevSecOps Engineer",
+    "url": "https://www.adzuna.com/land/ad/5845656507?se=IoAUcl-d8RGgy9wiR-dC4g&utm_medium=api&utm_source=632a28fd&v=C42B7714501A3FE2316F66AD29C37BC878BE7FFC",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5842641426": {
+    "company": "UnitedHealth Group",
+    "title": "Lead Cloud Engineer - AI Ops - Remote",
+    "url": "https://www.adzuna.com/land/ad/5842641426?se=IoAUcl-d8RGgy9wiR-dC4g&utm_medium=api&utm_source=632a28fd&v=9995499832625B745BCD3BB05946F25B922920BD",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5842512154": {
+    "company": "TekLeaders, Inc",
+    "title": "Public Cloud Engineer",
+    "url": "https://www.adzuna.com/land/ad/5842512154?se=IoAUcl-d8RGgy9wiR-dC4g&utm_medium=api&utm_source=632a28fd&v=072AFE4F6A338DB82288F57F263BA23E7009DEC9",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5841070242": {
+    "company": "Apex Systems",
+    "title": "AWS Cloud Engineer",
+    "url": "https://www.adzuna.com/land/ad/5841070242?se=IoAUcl-d8RGgy9wiR-dC4g&utm_medium=api&utm_source=632a28fd&v=4F57A842D664751579C56AA01951ABC25952A893",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5851000072": {
+    "company": "Bright Vision Technologies",
+    "title": "Infrastructure Automation Engineer",
+    "url": "https://www.adzuna.com/details/5851000072?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850987692": {
+    "company": "Bright Vision Technologies",
+    "title": "Infrastructure Automation Engineer",
+    "url": "https://www.adzuna.com/details/5850987692?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850936268": {
+    "company": "Enginuity Advantage",
+    "title": "Sales Engineer",
+    "url": "https://www.adzuna.com/details/5850936268?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850781939": {
+    "company": "Bright Vision Technologies",
+    "title": "AI Infrastructure Engineer",
+    "url": "https://www.adzuna.com/details/5850781939?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850592646": {
+    "company": "Bright Vision Technologies",
+    "title": "Machine Learning Infrastructure Engineer",
+    "url": "https://www.adzuna.com/details/5850592646?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850169963": {
+    "company": "Reliable Software Resources",
+    "title": "Azure Infrastructure & Security Engineers",
+    "url": "https://www.adzuna.com/land/ad/5850169963?se=4jcjc1-d8RGgy9wiR-dC4g&utm_medium=api&utm_source=632a28fd&v=6A3211F4CA205D21208F709A2E46E92EB46D3969",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5849907285": {
+    "company": "Bright Vision Technologies",
+    "title": "Infrastructure Reliability Engineer",
+    "url": "https://www.adzuna.com/details/5849907285?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5847461659": {
+    "company": "Apex Systems",
+    "title": "VMware Admin - Smarthands",
+    "url": "https://www.adzuna.com/land/ad/5847461659?se=4jcjc1-d8RGgy9wiR-dC4g&utm_medium=api&utm_source=632a28fd&v=B8292955B7255773761E930C8FF4F34F57A5B430",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5842810856": {
+    "company": "Motion Recruitment Partners, LLC",
+    "title": "Desktop Support Technician",
+    "url": "https://www.adzuna.com/land/ad/5842810856?se=ruIZdF-d8RGRe8MKeLiBPg&utm_medium=api&utm_source=632a28fd&v=D34619634C513B86506E61B19578BC4DE0E023CA",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5849827846": {
+    "company": "Hyperproof",
+    "title": "Senior DevSecOps Engineer",
+    "url": "https://www.adzuna.com/land/ad/5849827846?se=SqAFdV-d8RGgy9wiR-dC4g&utm_medium=api&utm_source=632a28fd&v=0039F6B8FBF5F54D4C5882B0898B8784D57E8128",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5848917793": {
+    "company": "Kforce Technology Staffing",
+    "title": "DevSecOps Engineer (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5848917793?se=SqAFdV-d8RGgy9wiR-dC4g&utm_medium=api&utm_source=632a28fd&v=7D9EBAF839AFD333DED1A6CD6F1CA706EF812177",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5848216543": {
+    "company": "ICF International, Inc.",
+    "title": "DevSecOps Engineer (Mid level - Top Secret - Remote US)",
+    "url": "https://www.adzuna.com/land/ad/5848216543?se=SqAFdV-d8RGgy9wiR-dC4g&utm_medium=api&utm_source=632a28fd&v=1D70AF8A576A7BB61E6623C4F7DA81B09E82FDF4",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5828318590": {
+    "company": "Dexian DISYS",
+    "title": "DevSecOps Engineer",
+    "url": "https://www.adzuna.com/land/ad/5828318590?se=OhPUdV-d8RGzn5vA8fZm8g&utm_medium=api&utm_source=632a28fd&v=B99469371BDC7A9AA5F14863EEEA827B35B36C88",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5828115249": {
+    "company": "Auria",
+    "title": "DevSecOps Engineer with Security Clearance",
+    "url": "https://www.adzuna.com/land/ad/5828115249?se=OhPUdV-d8RGzn5vA8fZm8g&utm_medium=api&utm_source=632a28fd&v=9829222FC707351634A8C393F52691A3DA83A7AD",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850754494": {
+    "company": "Koniag Government Services",
+    "title": "Monitoring/SRE Engineer (REMOTE)",
+    "url": "https://www.adzuna.com/details/5850754494?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850966400": {
+    "company": "Bright Vision Technologies",
+    "title": "Kubernetes & OpenShift Engineer",
+    "url": "https://www.adzuna.com/details/5850966400?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
+  },
+  "adzuna::5850154846": {
+    "company": "Bright Vision Technologies",
+    "title": "Kubernetes Service Engineer",
+    "url": "https://www.adzuna.com/details/5850154846?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-08-21 12:54:16"
   }
 }
