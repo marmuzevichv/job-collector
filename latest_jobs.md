@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-08-22 12:34 UTC
+Generated: 2026-08-23 12:35 UTC
 
-Total new jobs: 89
+Total new jobs: 94
 
 ## greenhouse
 
@@ -325,6 +325,26 @@ Total new jobs: 89
   - Location: USA
   - Level/Team: Technical Support
 
+- [Senior Site Reliability / Gitops Engineer](https://jobicy.com/jobs/149544-senior-site-reliability-gitops-engineer)
+  - Company: Canonical Ltd.
+  - Location: Anywhere
+  - Level/Team: DevOps &amp; Infrastructure
+
+- [Senior Site Reliability Engineer](https://jobicy.com/jobs/149557-senior-site-reliability-engineer-5)
+  - Company: Canonical Ltd.
+  - Location: Anywhere
+  - Level/Team: DevOps &amp; Infrastructure
+
+- [Site Reliability / Gitops Engineer](https://jobicy.com/jobs/149553-site-reliability-gitops-engineer)
+  - Company: Canonical Ltd.
+  - Location: Anywhere
+  - Level/Team: DevOps &amp; Infrastructure
+
+- [Site Reliability Engineer](https://jobicy.com/jobs/149547-site-reliability-engineer)
+  - Company: Canonical Ltd.
+  - Location: Anywhere
+  - Level/Team: DevOps &amp; Infrastructure
+
 - [Senior Site Reliability Engineer- EMEA](https://jobicy.com/jobs/149958-senior-site-reliability-engineer-emea)
   - Company: Clickhouse
   - Location: EMEA
@@ -376,3 +396,9 @@ Total new jobs: 89
   - Company: sonatype
   - Location: US - Remote
   - Level/Team: Customer Success - Direct - Solutions Delivery
+
+## remoteok
+
+- [DESARROLLADOR FULL STACK](https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062)
+  - Company: Kruger NearShore LLC - Rekluti
+  - Location: Worldwide
