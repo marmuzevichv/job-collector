@@ -1,10 +1,14 @@
 # New jobs
 
-Generated: 2026-08-24 12:45 UTC
+Generated: 2026-08-25 12:43 UTC
 
-Total new jobs: 96
+Total new jobs: 106
 
 ## greenhouse
+
+- [Automation Engineer, Quality Engineering](https://careers.airbnb.com/positions/8154749?gh_jid=8154749)
+  - Company: airbnb
+  - Location: Remote
 
 - [Senior iOS Automation Engineer](https://careers.airbnb.com/positions/7453190?gh_jid=7453190)
   - Company: airbnb
@@ -19,6 +23,10 @@ Total new jobs: 96
   - Location: Remote
 
 - [DevOps / AgentOps Engineer, GTM Systems](https://job-boards.greenhouse.io/anthropic/jobs/5392856008)
+  - Company: anthropic
+  - Location: Remote
+
+- [IT Systems Engineer, Mobile Client Platform Engineer](https://job-boards.greenhouse.io/anthropic/jobs/5396384008)
   - Company: anthropic
   - Location: Remote
 
@@ -178,6 +186,22 @@ Total new jobs: 96
   - Company: elastic
   - Location: Remote
 
+- [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8155557&gh_jid=8155557)
+  - Company: elastic
+  - Location: Remote
+
+- [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8155558&gh_jid=8155558)
+  - Company: elastic
+  - Location: Remote
+
+- [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8155560&gh_jid=8155560)
+  - Company: elastic
+  - Location: Remote
+
+- [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8070615&gh_jid=8070615)
+  - Company: elastic
+  - Location: Remote
+
 - [Senior Cloud Engineer](https://www.fastly.com/about/jobs/apply?gh_jid=8082266)
   - Company: fastly
   - Location: Remote
@@ -282,6 +306,10 @@ Total new jobs: 96
   - Company: mongodb
   - Location: Remote
 
+- [DevOps Engineer, Professional Services R&D](https://www.okta.com/company/careers/opportunity/8056209?gh_jid=8056209)
+  - Company: okta
+  - Location: Remote
+
 - [QA Automation Engineer, Professional Services R&D](https://www.okta.com/company/careers/opportunity/8056207?gh_jid=8056207)
   - Company: okta
   - Location: Remote
@@ -299,6 +327,14 @@ Total new jobs: 96
   - Location: Remote
 
 - [Senior Site Reliability Engineer (Auth0)](https://www.okta.com/company/careers/opportunity/7418982?gh_jid=7418982)
+  - Company: okta
+  - Location: Remote
+
+- [Senior Site Reliability Engineer -](https://www.okta.com/company/careers/opportunity/7610901?gh_jid=7610901)
+  - Company: okta
+  - Location: Remote
+
+- [Senior Site Reliability Engineer - Security and Data Systems (Federal)](https://www.okta.com/company/careers/opportunity/7591606?gh_jid=7591606)
   - Company: okta
   - Location: Remote
 
@@ -368,6 +404,11 @@ Total new jobs: 96
 - [Cloud Engineer - VMWare](https://jobicy.com/jobs/143887-cloud-engineer-vmware)
   - Company: ManTech
   - Location: USA
+  - Level/Team: DevOps &amp; Infrastructure
+
+- [Senior IT Engineer](https://jobicy.com/jobs/151501-senior-it-engineer)
+  - Company: Qventus
+  - Location: Canada
   - Level/Team: DevOps &amp; Infrastructure
 
 - [Senior Site Reliability Engineer](https://jobicy.com/jobs/148108-senior-site-reliability-engineer)

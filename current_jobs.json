@@ -2,6 +2,19 @@
   {
     "source_type": "greenhouse",
     "company": "airbnb",
+    "title": "Automation Engineer, Quality Engineering",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://careers.airbnb.com/positions/8154749?gh_jid=8154749",
+    "external_id": "greenhouse::8154749",
+    "description_snippet": "",
+    "posted_at": "2026-08-24T15:41:54-04:00",
+    "collected_at_utc": "2026-08-25 12:42:20"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "airbnb",
     "title": "Senior iOS Automation Engineer",
     "location": "",
     "team": "",
@@ -50,6 +63,19 @@
     "description_snippet": "",
     "posted_at": "2026-08-21T12:51:05-04:00",
     "collected_at_utc": "2026-08-24 12:45:00"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "anthropic",
+    "title": "IT Systems Engineer, Mobile Client Platform Engineer",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5396384008",
+    "external_id": "greenhouse::5396384008",
+    "description_snippet": "",
+    "posted_at": "2026-08-24T17:20:13-04:00",
+    "collected_at_utc": "2026-08-25 12:42:20"
   },
   {
     "source_type": "greenhouse",
@@ -664,6 +690,58 @@
     "collected_at_utc": "2026-08-24 12:45:00"
   },
   {
+    "source_type": "greenhouse",
+    "company": "elastic",
+    "title": "Senior Site Reliability Engineer (Capacity) - Platform Infrastructure",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8155557&gh_jid=8155557",
+    "external_id": "greenhouse::8155557",
+    "description_snippet": "",
+    "posted_at": "2026-08-24T19:06:58-04:00",
+    "collected_at_utc": "2026-08-25 12:42:20"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "elastic",
+    "title": "Senior Site Reliability Engineer (Capacity) - Platform Infrastructure",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8155558&gh_jid=8155558",
+    "external_id": "greenhouse::8155558",
+    "description_snippet": "",
+    "posted_at": "2026-08-24T19:07:01-04:00",
+    "collected_at_utc": "2026-08-25 12:42:20"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "elastic",
+    "title": "Senior Site Reliability Engineer (Capacity) - Platform Infrastructure",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8155560&gh_jid=8155560",
+    "external_id": "greenhouse::8155560",
+    "description_snippet": "",
+    "posted_at": "2026-08-24T19:07:03-04:00",
+    "collected_at_utc": "2026-08-25 12:42:20"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "elastic",
+    "title": "Senior Site Reliability Engineer (Capacity) - Platform Infrastructure",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8070615&gh_jid=8070615",
+    "external_id": "greenhouse::8070615",
+    "description_snippet": "",
+    "posted_at": "2026-08-24T19:06:57-04:00",
+    "collected_at_utc": "2026-08-25 12:42:20"
+  },
+  {
     "source_type": "jobicy",
     "company": "Experian",
     "title": "DevOps Senior Engineer",
@@ -1109,6 +1187,19 @@
   {
     "source_type": "greenhouse",
     "company": "okta",
+    "title": "DevOps Engineer, Professional Services R&D",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://www.okta.com/company/careers/opportunity/8056209?gh_jid=8056209",
+    "external_id": "greenhouse::8056209",
+    "description_snippet": "",
+    "posted_at": "2026-08-25T01:53:50-04:00",
+    "collected_at_utc": "2026-08-25 12:42:20"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "okta",
     "title": "QA Automation Engineer, Professional Services R&D",
     "location": "",
     "team": "",
@@ -1173,6 +1264,32 @@
   },
   {
     "source_type": "greenhouse",
+    "company": "okta",
+    "title": "Senior Site Reliability Engineer -",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://www.okta.com/company/careers/opportunity/7610901?gh_jid=7610901",
+    "external_id": "greenhouse::7610901",
+    "description_snippet": "",
+    "posted_at": "2026-08-24T18:27:04-04:00",
+    "collected_at_utc": "2026-08-25 12:42:20"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "okta",
+    "title": "Senior Site Reliability Engineer - Security and Data Systems (Federal)",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://www.okta.com/company/careers/opportunity/7591606?gh_jid=7591606",
+    "external_id": "greenhouse::7591606",
+    "description_snippet": "",
+    "posted_at": "2026-08-24T18:26:56-04:00",
+    "collected_at_utc": "2026-08-25 12:42:20"
+  },
+  {
+    "source_type": "greenhouse",
     "company": "pinterest",
     "title": "Site Reliability Engineer II, tvScientific",
     "location": "",
@@ -1209,6 +1326,21 @@
     "description_snippet": "",
     "posted_at": "2026-08-20T21:45:49-04:00",
     "collected_at_utc": "2026-08-24 12:45:00"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Qventus",
+    "title": "Senior IT Engineer",
+    "location": "Canada",
+    "team": "DevOps &amp; Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/151501-senior-it-engineer",
+    "external_id": "jobicy::151501",
+    "description_snippet": "On this journey for over 12 years, Qventus is leading the transformation of healthcare. We enable hospitals to focus on what matters most: patient care. Our innovative solutions harness the power of machine learning, generative AI, and behavioral science to deliver exceptional outcomes and empower c",
+    "posted_at": "2026-08-24T17:38:06+00:00",
+    "collected_at_utc": "2026-08-25 12:42:20"
   },
   {
     "source_type": "jobicy",
