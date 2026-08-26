@@ -1,16 +1,12 @@
 # New jobs
 
-Generated: 2026-08-25 12:43 UTC
+Generated: 2026-08-26 12:47 UTC
 
-Total new jobs: 106
+Total new jobs: 111
 
 ## greenhouse
 
 - [Automation Engineer, Quality Engineering](https://careers.airbnb.com/positions/8154749?gh_jid=8154749)
-  - Company: airbnb
-  - Location: Remote
-
-- [Senior iOS Automation Engineer](https://careers.airbnb.com/positions/7453190?gh_jid=7453190)
   - Company: airbnb
   - Location: Remote
 
@@ -70,11 +66,11 @@ Total new jobs: 106
   - Company: clickhouse
   - Location: Remote
 
-- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843421004)
+- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843423004)
   - Company: clickhouse
   - Location: Remote
 
-- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843425004)
+- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843421004)
   - Company: clickhouse
   - Location: Remote
 
@@ -86,11 +82,7 @@ Total new jobs: 106
   - Company: clickhouse
   - Location: Remote
 
-- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843423004)
-  - Company: clickhouse
-  - Location: Remote
-
-- [Senior Cloud Data Infrastructure Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/5778616004)
+- [Database Reliability Engineer - Core Team](https://job-boards.greenhouse.io/clickhouse/jobs/5843425004)
   - Company: clickhouse
   - Location: Remote
 
@@ -98,7 +90,7 @@ Total new jobs: 106
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Cloud Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/5994726004)
+- [Senior Cloud Data Infrastructure Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/5778616004)
   - Company: clickhouse
   - Location: Remote
 
@@ -106,7 +98,7 @@ Total new jobs: 106
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Cloud Engineer - Product Metrics](https://job-boards.greenhouse.io/clickhouse/jobs/6107163004)
+- [Senior Cloud Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/5994726004)
   - Company: clickhouse
   - Location: Remote
 
@@ -118,11 +110,15 @@ Total new jobs: 106
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Infrastructure Engineer - Postgres](https://job-boards.greenhouse.io/clickhouse/jobs/5706417004)
+- [Senior Cloud Engineer - Product Metrics](https://job-boards.greenhouse.io/clickhouse/jobs/6107163004)
   - Company: clickhouse
   - Location: Remote
 
 - [Senior Infrastructure Engineer - Postgres](https://job-boards.greenhouse.io/clickhouse/jobs/5717944004)
+  - Company: clickhouse
+  - Location: Remote
+
+- [Senior Infrastructure Engineer - Postgres](https://job-boards.greenhouse.io/clickhouse/jobs/5706417004)
   - Company: clickhouse
   - Location: Remote
 
@@ -138,11 +134,7 @@ Total new jobs: 106
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819757004)
-  - Company: clickhouse
-  - Location: Remote
-
-- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5828333004)
+- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819754004)
   - Company: clickhouse
   - Location: Remote
 
@@ -150,7 +142,7 @@ Total new jobs: 106
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819754004)
+- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5828333004)
   - Company: clickhouse
   - Location: Remote
 
@@ -158,7 +150,19 @@ Total new jobs: 106
   - Company: clickhouse
   - Location: Remote
 
+- [Senior Site Reliability Engineer- Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5819757004)
+  - Company: clickhouse
+  - Location: Remote
+
+- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819676004)
+  - Company: clickhouse
+  - Location: Remote
+
 - [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819679004)
+  - Company: clickhouse
+  - Location: Remote
+
+- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819677004)
   - Company: clickhouse
   - Location: Remote
 
@@ -170,14 +174,6 @@ Total new jobs: 106
   - Company: clickhouse
   - Location: Remote
 
-- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819677004)
-  - Company: clickhouse
-  - Location: Remote
-
-- [Senior Software Engineer - Cloud Infrastructure](https://job-boards.greenhouse.io/clickhouse/jobs/5819676004)
-  - Company: clickhouse
-  - Location: Remote
-
 - [Network Reliability Engineer](https://boards.greenhouse.io/cloudflare/jobs/7649981?gh_jid=7649981)
   - Company: cloudflare
   - Location: Remote
@@ -186,19 +182,19 @@ Total new jobs: 106
   - Company: elastic
   - Location: Remote
 
-- [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8155557&gh_jid=8155557)
-  - Company: elastic
-  - Location: Remote
-
 - [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8155558&gh_jid=8155558)
   - Company: elastic
   - Location: Remote
 
-- [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8155560&gh_jid=8155560)
+- [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8070615&gh_jid=8070615)
   - Company: elastic
   - Location: Remote
 
-- [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8070615&gh_jid=8070615)
+- [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8155557&gh_jid=8155557)
+  - Company: elastic
+  - Location: Remote
+
+- [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8155560&gh_jid=8155560)
   - Company: elastic
   - Location: Remote
 
@@ -210,11 +206,11 @@ Total new jobs: 106
   - Company: fastly
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7814036003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7688580003)
   - Company: fivetran
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7688580003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7814036003)
   - Company: fivetran
   - Location: Remote
 
@@ -230,7 +226,7 @@ Total new jobs: 106
   - Company: lyft
   - Location: Remote
 
-- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=8025824)
+- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=8025827)
   - Company: mongodb
   - Location: Remote
 
@@ -238,7 +234,7 @@ Total new jobs: 106
   - Company: mongodb
   - Location: Remote
 
-- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=8025827)
+- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=8025824)
   - Company: mongodb
   - Location: Remote
 
@@ -270,11 +266,11 @@ Total new jobs: 106
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727910)
+- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727913)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727913)
+- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727910)
   - Company: mongodb
   - Location: Remote
 
@@ -298,11 +294,11 @@ Total new jobs: 106
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineering, Fabric (Mid, Senior, or Staff)](https://www.mongodb.com/careers/job/?gh_jid=7727923)
+- [Site Reliability Engineering, Fabric (Mid, Senior, or Staff)](https://www.mongodb.com/careers/job/?gh_jid=7727920)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineering, Fabric (Mid, Senior, or Staff)](https://www.mongodb.com/careers/job/?gh_jid=7727920)
+- [Site Reliability Engineering, Fabric (Mid, Senior, or Staff)](https://www.mongodb.com/careers/job/?gh_jid=7727923)
   - Company: mongodb
   - Location: Remote
 
@@ -361,75 +357,105 @@ Total new jobs: 106
   - Location: USA
   - Level/Team: Technical Support
 
+- [Cloud Operations Engineer](https://jobicy.com/jobs/151694-cloud-operations-engineer-2)
+  - Company: Branch
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Senior Database Reliability Engineer (DBRE)](https://jobicy.com/jobs/151712-senior-database-reliability-engineer-dbre)
+  - Company: Branch
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
 - [Senior Site Reliability / Gitops Engineer](https://jobicy.com/jobs/149544-senior-site-reliability-gitops-engineer)
-  - Company: Canonical Ltd.
+  - Company: Canonical
   - Location: Anywhere
-  - Level/Team: DevOps &amp; Infrastructure
+  - Level/Team: DevOps & Infrastructure
 
 - [Senior Site Reliability Engineer](https://jobicy.com/jobs/149557-senior-site-reliability-engineer-5)
-  - Company: Canonical Ltd.
+  - Company: Canonical
   - Location: Anywhere
-  - Level/Team: DevOps &amp; Infrastructure
+  - Level/Team: DevOps & Infrastructure
 
 - [Site Reliability / Gitops Engineer](https://jobicy.com/jobs/149553-site-reliability-gitops-engineer)
-  - Company: Canonical Ltd.
+  - Company: Canonical
   - Location: Anywhere
-  - Level/Team: DevOps &amp; Infrastructure
+  - Level/Team: DevOps & Infrastructure
 
 - [Site Reliability Engineer](https://jobicy.com/jobs/149547-site-reliability-engineer)
-  - Company: Canonical Ltd.
+  - Company: Canonical
   - Location: Anywhere
-  - Level/Team: DevOps &amp; Infrastructure
+  - Level/Team: DevOps & Infrastructure
+
+- [Cloud Database Infrastructure Engineer](https://jobicy.com/jobs/151713-cloud-database-infrastructure-engineer)
+  - Company: Clickhouse
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
 
 - [Senior Site Reliability Engineer- EMEA](https://jobicy.com/jobs/149958-senior-site-reliability-engineer-emea)
   - Company: Clickhouse
   - Location: EMEA
-  - Level/Team: DevOps &amp; Infrastructure
+  - Level/Team: DevOps & Infrastructure
+
+- [Developer Advocate - Service Management](https://jobicy.com/jobs/151723-developer-advocate-service-management)
+  - Company: Datadog
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
 
 - [Platform Engineer](https://jobicy.com/jobs/143041-platform-engineer)
   - Company: Defense Unicorns
   - Location: USA
-  - Level/Team: DevOps &amp; Infrastructure
+  - Level/Team: DevOps & Infrastructure
 
 - [DevOps Senior Engineer](https://jobicy.com/jobs/148202-devops-senior-engineer)
   - Company: Experian
   - Location: Costa Rica
-  - Level/Team: DevOps &amp; Infrastructure
+  - Level/Team: DevOps & Infrastructure
 
 - [Senior DevOps Engineer](https://jobicy.com/jobs/144464-senior-devops-engineer-5)
   - Company: Experian
   - Location: Costa Rica
-  - Level/Team: DevOps &amp; Infrastructure
+  - Level/Team: DevOps & Infrastructure
+
+- [Senior Infrastructure Engineer](https://jobicy.com/jobs/151592-senior-infrastructure-engineer)
+  - Company: Fieldguide
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
 
 - [Cloud Engineer - VMWare](https://jobicy.com/jobs/143887-cloud-engineer-vmware)
   - Company: ManTech
   - Location: USA
-  - Level/Team: DevOps &amp; Infrastructure
+  - Level/Team: DevOps & Infrastructure
+
+- [Senior Data Platform Engineer](https://jobicy.com/jobs/151664-senior-data-platform-engineer-2)
+  - Company: Medium
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
 
 - [Senior IT Engineer](https://jobicy.com/jobs/151501-senior-it-engineer)
   - Company: Qventus
   - Location: Canada
-  - Level/Team: DevOps &amp; Infrastructure
+  - Level/Team: DevOps & Infrastructure
 
 - [Senior Site Reliability Engineer](https://jobicy.com/jobs/148108-senior-site-reliability-engineer)
   - Company: Remote
   - Location: EMEA
-  - Level/Team: DevOps &amp; Infrastructure
+  - Level/Team: DevOps & Infrastructure
 
 - [Atlassian Administrator 1726](https://jobicy.com/jobs/146254-atlassian-administrator-1726)
   - Company: Softgic
   - Location: Anywhere
-  - Level/Team: DevOps &amp; Infrastructure
+  - Level/Team: DevOps & Infrastructure
 
 - [Lead Cloud Platform & Dev Ops Engineer](https://jobicy.com/jobs/149238-lead-cloud-platform-dev-ops-engineer)
   - Company: University of Colorado
   - Location: USA
-  - Level/Team: DevOps &amp; Infrastructure
+  - Level/Team: DevOps & Infrastructure
 
 - [Lead Cloud Platform & Dev Ops Engineer](https://jobicy.com/jobs/149240-lead-cloud-platform-dev-ops-engineer-2)
   - Company: University of Colorado Anschutz Medical Campus
   - Location: USA
-  - Level/Team: DevOps &amp; Infrastructure
+  - Level/Team: DevOps & Infrastructure
 
 ## lever
 

@@ -10,20 +10,7 @@
     "external_id": "greenhouse::8154749",
     "description_snippet": "",
     "posted_at": "2026-08-24T15:41:54-04:00",
-    "collected_at_utc": "2026-08-25 12:42:20"
-  },
-  {
-    "source_type": "greenhouse",
-    "company": "airbnb",
-    "title": "Senior iOS Automation Engineer",
-    "location": "",
-    "team": "",
-    "categories": [],
-    "url": "https://careers.airbnb.com/positions/7453190?gh_jid=7453190",
-    "external_id": "greenhouse::7453190",
-    "description_snippet": "",
-    "posted_at": "2026-03-12T14:33:40-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -36,7 +23,7 @@
     "external_id": "greenhouse::8026696",
     "description_snippet": "",
     "posted_at": "2026-06-25T12:16:07-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -49,7 +36,7 @@
     "external_id": "greenhouse::7863467",
     "description_snippet": "",
     "posted_at": "2026-08-03T18:41:37-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -62,7 +49,7 @@
     "external_id": "greenhouse::5392856008",
     "description_snippet": "",
     "posted_at": "2026-08-21T12:51:05-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -75,7 +62,7 @@
     "external_id": "greenhouse::5396384008",
     "description_snippet": "",
     "posted_at": "2026-08-24T17:20:13-04:00",
-    "collected_at_utc": "2026-08-25 12:42:20"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -88,7 +75,7 @@
     "external_id": "greenhouse::5364804008",
     "description_snippet": "",
     "posted_at": "2026-08-21T12:50:40-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -101,7 +88,7 @@
     "external_id": "greenhouse::5206978008",
     "description_snippet": "",
     "posted_at": "2026-08-21T12:49:54-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -114,7 +101,7 @@
     "external_id": "greenhouse::5230394008",
     "description_snippet": "",
     "posted_at": "2026-08-21T12:50:17-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "jobicy",
@@ -129,7 +116,37 @@
     "external_id": "jobicy::147812",
     "description_snippet": "Astronomer empowers data teams to bring mission-critical software, analytics, and AI to life and is the company behind Astro, the industry-leading unified DataOps platform powered by Apache Airflow®. Astro accelerates building reliable data products that unlock insights, unleash AI value, and powers",
     "posted_at": "2026-07-26T10:00:02+00:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Branch",
+    "title": "Cloud Operations Engineer",
+    "location": "USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/151694-cloud-operations-engineer-2",
+    "external_id": "jobicy::151694",
+    "description_snippet": "About us: Branch is on a mission to empower workers with financial freedom. We do this by helping companies accelerate payments and providing working Americans with accessible, free financial services. We’re committed to building and delivering more inclusive, transparent, and frictionless financial",
+    "posted_at": "2026-08-26T04:57:00+00:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Branch",
+    "title": "Senior Database Reliability Engineer (DBRE)",
+    "location": "USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/151712-senior-database-reliability-engineer-dbre",
+    "external_id": "jobicy::151712",
+    "description_snippet": "About us: Branch is on a mission to empower workers with financial freedom. We do this by helping companies accelerate payments and providing working Americans with accessible, free financial services. We’re committed to building and delivering more inclusive, transparent, and frictionless financial",
+    "posted_at": "2026-08-26T05:02:01+00:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -142,7 +159,7 @@
     "external_id": "greenhouse::7334725",
     "description_snippet": "",
     "posted_at": "2026-08-05T18:23:33-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -155,7 +172,22 @@
     "external_id": "greenhouse::6177790",
     "description_snippet": "",
     "posted_at": "2026-08-05T18:23:33-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Canonical",
+    "title": "Senior Site Reliability / Gitops Engineer",
+    "location": "Anywhere",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/149544-senior-site-reliability-gitops-engineer",
+    "external_id": "jobicy::149544",
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers inclu",
+    "posted_at": "2026-08-22T16:15:07+00:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -168,7 +200,22 @@
     "external_id": "greenhouse::5517891",
     "description_snippet": "",
     "posted_at": "2026-08-05T18:23:33-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Canonical",
+    "title": "Senior Site Reliability Engineer",
+    "location": "Anywhere",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/149557-senior-site-reliability-engineer-5",
+    "external_id": "jobicy::149557",
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+    "posted_at": "2026-08-22T17:10:08+00:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -181,7 +228,22 @@
     "external_id": "greenhouse::3029798",
     "description_snippet": "",
     "posted_at": "2026-08-05T18:23:33-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Canonical",
+    "title": "Site Reliability / Gitops Engineer",
+    "location": "Anywhere",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/149553-site-reliability-gitops-engineer",
+    "external_id": "jobicy::149553",
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers inclu",
+    "posted_at": "2026-08-22T16:10:02+00:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -194,7 +256,22 @@
     "external_id": "greenhouse::1747487",
     "description_snippet": "",
     "posted_at": "2026-08-05T18:23:33-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Canonical",
+    "title": "Site Reliability Engineer",
+    "location": "Anywhere",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/149547-site-reliability-engineer",
+    "external_id": "jobicy::149547",
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include th",
+    "posted_at": "2026-08-22T16:15:08+00:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -207,67 +284,22 @@
     "external_id": "greenhouse::4468036",
     "description_snippet": "",
     "posted_at": "2026-08-05T18:23:33-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "jobicy",
-    "company": "Canonical Ltd.",
-    "title": "Senior Site Reliability / Gitops Engineer",
-    "location": "Anywhere",
-    "team": "DevOps &amp; Infrastructure",
+    "company": "Clickhouse",
+    "title": "Cloud Database Infrastructure Engineer",
+    "location": "USA",
+    "team": "DevOps & Infrastructure",
     "categories": [
       "['Full-Time']"
     ],
-    "url": "https://jobicy.com/jobs/149544-senior-site-reliability-gitops-engineer",
-    "external_id": "jobicy::149544",
-    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers inclu",
-    "posted_at": "2026-08-22T16:15:07+00:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
-  },
-  {
-    "source_type": "jobicy",
-    "company": "Canonical Ltd.",
-    "title": "Senior Site Reliability Engineer",
-    "location": "Anywhere",
-    "team": "DevOps &amp; Infrastructure",
-    "categories": [
-      "['Full-Time']"
-    ],
-    "url": "https://jobicy.com/jobs/149557-senior-site-reliability-engineer-5",
-    "external_id": "jobicy::149557",
-    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
-    "posted_at": "2026-08-22T17:10:08+00:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
-  },
-  {
-    "source_type": "jobicy",
-    "company": "Canonical Ltd.",
-    "title": "Site Reliability / Gitops Engineer",
-    "location": "Anywhere",
-    "team": "DevOps &amp; Infrastructure",
-    "categories": [
-      "['Full-Time']"
-    ],
-    "url": "https://jobicy.com/jobs/149553-site-reliability-gitops-engineer",
-    "external_id": "jobicy::149553",
-    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers inclu",
-    "posted_at": "2026-08-22T16:10:02+00:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
-  },
-  {
-    "source_type": "jobicy",
-    "company": "Canonical Ltd.",
-    "title": "Site Reliability Engineer",
-    "location": "Anywhere",
-    "team": "DevOps &amp; Infrastructure",
-    "categories": [
-      "['Full-Time']"
-    ],
-    "url": "https://jobicy.com/jobs/149547-site-reliability-engineer",
-    "external_id": "jobicy::149547",
-    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include th",
-    "posted_at": "2026-08-22T16:15:08+00:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "url": "https://jobicy.com/jobs/151713-cloud-database-infrastructure-engineer",
+    "external_id": "jobicy::151713",
+    "description_snippet": "About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 4,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousin",
+    "posted_at": "2026-08-26T05:02:21+00:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -280,59 +312,7 @@
     "external_id": "greenhouse::5778617004",
     "description_snippet": "",
     "posted_at": "2026-05-19T09:23:38-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
-  },
-  {
-    "source_type": "greenhouse",
-    "company": "clickhouse",
-    "title": "Database Reliability Engineer - Core Team",
-    "location": "",
-    "team": "",
-    "categories": [],
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5843421004",
-    "external_id": "greenhouse::5843421004",
-    "description_snippet": "",
-    "posted_at": "2026-04-01T20:22:42-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
-  },
-  {
-    "source_type": "greenhouse",
-    "company": "clickhouse",
-    "title": "Database Reliability Engineer - Core Team",
-    "location": "",
-    "team": "",
-    "categories": [],
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5843425004",
-    "external_id": "greenhouse::5843425004",
-    "description_snippet": "",
-    "posted_at": "2026-04-01T20:22:48-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
-  },
-  {
-    "source_type": "greenhouse",
-    "company": "clickhouse",
-    "title": "Database Reliability Engineer - Core Team",
-    "location": "",
-    "team": "",
-    "categories": [],
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5843422004",
-    "external_id": "greenhouse::5843422004",
-    "description_snippet": "",
-    "posted_at": "2026-04-01T20:22:44-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
-  },
-  {
-    "source_type": "greenhouse",
-    "company": "clickhouse",
-    "title": "Database Reliability Engineer - Core Team",
-    "location": "",
-    "team": "",
-    "categories": [],
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5843424004",
-    "external_id": "greenhouse::5843424004",
-    "description_snippet": "",
-    "posted_at": "2026-04-01T20:22:47-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -345,20 +325,59 @@
     "external_id": "greenhouse::5843423004",
     "description_snippet": "",
     "posted_at": "2026-04-01T20:22:45-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
     "company": "clickhouse",
-    "title": "Senior Cloud Data Infrastructure Engineer",
+    "title": "Database Reliability Engineer - Core Team",
     "location": "",
     "team": "",
     "categories": [],
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5778616004",
-    "external_id": "greenhouse::5778616004",
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5843421004",
+    "external_id": "greenhouse::5843421004",
     "description_snippet": "",
-    "posted_at": "2026-07-22T15:18:52-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "posted_at": "2026-04-01T20:22:42-04:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "clickhouse",
+    "title": "Database Reliability Engineer - Core Team",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5843422004",
+    "external_id": "greenhouse::5843422004",
+    "description_snippet": "",
+    "posted_at": "2026-04-01T20:22:44-04:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "clickhouse",
+    "title": "Database Reliability Engineer - Core Team",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5843424004",
+    "external_id": "greenhouse::5843424004",
+    "description_snippet": "",
+    "posted_at": "2026-04-01T20:22:47-04:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "clickhouse",
+    "title": "Database Reliability Engineer - Core Team",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5843425004",
+    "external_id": "greenhouse::5843425004",
+    "description_snippet": "",
+    "posted_at": "2026-04-01T20:22:48-04:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -371,20 +390,20 @@
     "external_id": "greenhouse::5778615004",
     "description_snippet": "",
     "posted_at": "2026-07-22T15:18:20-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
     "company": "clickhouse",
-    "title": "Senior Cloud Engineer",
+    "title": "Senior Cloud Data Infrastructure Engineer",
     "location": "",
     "team": "",
     "categories": [],
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5994726004",
-    "external_id": "greenhouse::5994726004",
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5778616004",
+    "external_id": "greenhouse::5778616004",
     "description_snippet": "",
-    "posted_at": "2026-06-04T14:44:10-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "posted_at": "2026-07-22T15:18:52-04:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -397,20 +416,20 @@
     "external_id": "greenhouse::5994727004",
     "description_snippet": "",
     "posted_at": "2026-07-23T11:41:21-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
     "company": "clickhouse",
-    "title": "Senior Cloud Engineer - Product Metrics",
+    "title": "Senior Cloud Engineer",
     "location": "",
     "team": "",
     "categories": [],
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6107163004",
-    "external_id": "greenhouse::6107163004",
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5994726004",
+    "external_id": "greenhouse::5994726004",
     "description_snippet": "",
-    "posted_at": "2026-07-01T16:38:42-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "posted_at": "2026-06-04T14:44:10-04:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -423,7 +442,7 @@
     "external_id": "greenhouse::6101325004",
     "description_snippet": "",
     "posted_at": "2026-07-01T16:39:46-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -436,20 +455,20 @@
     "external_id": "greenhouse::6101326004",
     "description_snippet": "",
     "posted_at": "2026-07-01T16:40:07-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
     "company": "clickhouse",
-    "title": "Senior Infrastructure Engineer - Postgres",
+    "title": "Senior Cloud Engineer - Product Metrics",
     "location": "",
     "team": "",
     "categories": [],
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5706417004",
-    "external_id": "greenhouse::5706417004",
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6107163004",
+    "external_id": "greenhouse::6107163004",
     "description_snippet": "",
-    "posted_at": "2026-03-27T09:46:40-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "posted_at": "2026-07-01T16:38:42-04:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -462,7 +481,20 @@
     "external_id": "greenhouse::5717944004",
     "description_snippet": "",
     "posted_at": "2026-03-27T09:46:40-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "clickhouse",
+    "title": "Senior Infrastructure Engineer - Postgres",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5706417004",
+    "external_id": "greenhouse::5706417004",
+    "description_snippet": "",
+    "posted_at": "2026-03-27T09:46:40-04:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -475,7 +507,7 @@
     "external_id": "greenhouse::6105352004",
     "description_snippet": "",
     "posted_at": "2026-07-06T15:43:49-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -488,14 +520,14 @@
     "external_id": "greenhouse::6105350004",
     "description_snippet": "",
     "posted_at": "2026-07-02T11:30:37-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "jobicy",
     "company": "Clickhouse",
     "title": "Senior Site Reliability Engineer- EMEA",
     "location": "EMEA",
-    "team": "DevOps &amp; Infrastructure",
+    "team": "DevOps & Infrastructure",
     "categories": [
       "['Full-Time']"
     ],
@@ -503,7 +535,7 @@
     "external_id": "jobicy::149958",
     "description_snippet": "About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousin",
     "posted_at": "2026-08-01T03:03:30+00:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -516,46 +548,7 @@
     "external_id": "greenhouse::6114708004",
     "description_snippet": "",
     "posted_at": "2026-07-31T10:24:07-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
-  },
-  {
-    "source_type": "greenhouse",
-    "company": "clickhouse",
-    "title": "Senior Site Reliability Engineer- Remote",
-    "location": "",
-    "team": "",
-    "categories": [],
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5819757004",
-    "external_id": "greenhouse::5819757004",
-    "description_snippet": "",
-    "posted_at": "2026-03-27T09:46:40-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
-  },
-  {
-    "source_type": "greenhouse",
-    "company": "clickhouse",
-    "title": "Senior Site Reliability Engineer- Remote",
-    "location": "",
-    "team": "",
-    "categories": [],
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5828333004",
-    "external_id": "greenhouse::5828333004",
-    "description_snippet": "",
-    "posted_at": "2026-03-27T09:46:40-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
-  },
-  {
-    "source_type": "greenhouse",
-    "company": "clickhouse",
-    "title": "Senior Site Reliability Engineer- Remote",
-    "location": "",
-    "team": "",
-    "categories": [],
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5819756004",
-    "external_id": "greenhouse::5819756004",
-    "description_snippet": "",
-    "posted_at": "2026-07-31T10:23:53-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -568,7 +561,33 @@
     "external_id": "greenhouse::5819754004",
     "description_snippet": "",
     "posted_at": "2026-03-27T09:46:40-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "clickhouse",
+    "title": "Senior Site Reliability Engineer- Remote",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5819756004",
+    "external_id": "greenhouse::5819756004",
+    "description_snippet": "",
+    "posted_at": "2026-07-31T10:23:53-04:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "clickhouse",
+    "title": "Senior Site Reliability Engineer- Remote",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5828333004",
+    "external_id": "greenhouse::5828333004",
+    "description_snippet": "",
+    "posted_at": "2026-03-27T09:46:40-04:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -581,59 +600,20 @@
     "external_id": "greenhouse::5819755004",
     "description_snippet": "",
     "posted_at": "2026-07-13T12:32:03-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
     "company": "clickhouse",
-    "title": "Senior Software Engineer - Cloud Infrastructure",
+    "title": "Senior Site Reliability Engineer- Remote",
     "location": "",
     "team": "",
     "categories": [],
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5819679004",
-    "external_id": "greenhouse::5819679004",
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5819757004",
+    "external_id": "greenhouse::5819757004",
     "description_snippet": "",
-    "posted_at": "2026-07-29T15:09:23-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
-  },
-  {
-    "source_type": "greenhouse",
-    "company": "clickhouse",
-    "title": "Senior Software Engineer - Cloud Infrastructure",
-    "location": "",
-    "team": "",
-    "categories": [],
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5819678004",
-    "external_id": "greenhouse::5819678004",
-    "description_snippet": "",
-    "posted_at": "2026-07-29T15:09:10-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
-  },
-  {
-    "source_type": "greenhouse",
-    "company": "clickhouse",
-    "title": "Senior Software Engineer - Cloud Infrastructure",
-    "location": "",
-    "team": "",
-    "categories": [],
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5819674004",
-    "external_id": "greenhouse::5819674004",
-    "description_snippet": "",
-    "posted_at": "2026-07-29T15:07:49-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
-  },
-  {
-    "source_type": "greenhouse",
-    "company": "clickhouse",
-    "title": "Senior Software Engineer - Cloud Infrastructure",
-    "location": "",
-    "team": "",
-    "categories": [],
-    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5819677004",
-    "external_id": "greenhouse::5819677004",
-    "description_snippet": "",
-    "posted_at": "2026-07-29T15:08:36-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "posted_at": "2026-03-27T09:46:40-04:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -646,7 +626,59 @@
     "external_id": "greenhouse::5819676004",
     "description_snippet": "",
     "posted_at": "2026-07-29T15:07:59-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "clickhouse",
+    "title": "Senior Software Engineer - Cloud Infrastructure",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5819679004",
+    "external_id": "greenhouse::5819679004",
+    "description_snippet": "",
+    "posted_at": "2026-07-29T15:09:23-04:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "clickhouse",
+    "title": "Senior Software Engineer - Cloud Infrastructure",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5819677004",
+    "external_id": "greenhouse::5819677004",
+    "description_snippet": "",
+    "posted_at": "2026-07-29T15:08:36-04:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "clickhouse",
+    "title": "Senior Software Engineer - Cloud Infrastructure",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5819678004",
+    "external_id": "greenhouse::5819678004",
+    "description_snippet": "",
+    "posted_at": "2026-07-29T15:09:10-04:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "clickhouse",
+    "title": "Senior Software Engineer - Cloud Infrastructure",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5819674004",
+    "external_id": "greenhouse::5819674004",
+    "description_snippet": "",
+    "posted_at": "2026-07-29T15:07:49-04:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -658,15 +690,30 @@
     "url": "https://boards.greenhouse.io/cloudflare/jobs/7649981?gh_jid=7649981",
     "external_id": "greenhouse::7649981",
     "description_snippet": "",
-    "posted_at": "2026-08-06T15:17:31-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "posted_at": "2026-08-25T19:40:34-04:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Datadog",
+    "title": "Developer Advocate - Service Management",
+    "location": "USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/151723-developer-advocate-service-management",
+    "external_id": "jobicy::151723",
+    "description_snippet": "We are a team of engineers that translate our real-world experience to help our user communities solve problems. With a focus on service management, helping teams respond to incidents, run on-call, and automate their operations, you will work with practitioners and leaders across the industry and br",
+    "posted_at": "2026-08-26T05:13:39+00:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "jobicy",
     "company": "Defense Unicorns",
     "title": "Platform Engineer",
     "location": "USA",
-    "team": "DevOps &amp; Infrastructure",
+    "team": "DevOps & Infrastructure",
     "categories": [
       "['Full-Time']"
     ],
@@ -674,7 +721,7 @@
     "external_id": "jobicy::143041",
     "description_snippet": "EMPLOYER IS A CONTRACTOR FOR THE U.S. GOVERNMENT. THIS POSITION WILL REQUIRE AN ACTIVE SECRET CLEARANCE TO APPLY. Role DescriptionWe are seeking a talented and experienced Platform Engineer to join our team. Possessing strong proficiency with Kubernetes, the ideal candidate will play a crucial role ",
     "posted_at": "2026-07-26T10:49:27+00:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -686,21 +733,8 @@
     "url": "https://jobs.elastic.co/jobs?gh_jid=8047349&gh_jid=8047349",
     "external_id": "greenhouse::8047349",
     "description_snippet": "",
-    "posted_at": "2026-08-10T22:52:26-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
-  },
-  {
-    "source_type": "greenhouse",
-    "company": "elastic",
-    "title": "Senior Site Reliability Engineer (Capacity) - Platform Infrastructure",
-    "location": "",
-    "team": "",
-    "categories": [],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8155557&gh_jid=8155557",
-    "external_id": "greenhouse::8155557",
-    "description_snippet": "",
-    "posted_at": "2026-08-24T19:06:58-04:00",
-    "collected_at_utc": "2026-08-25 12:42:20"
+    "posted_at": "2026-08-25T17:42:00-04:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -712,21 +746,8 @@
     "url": "https://jobs.elastic.co/jobs?gh_jid=8155558&gh_jid=8155558",
     "external_id": "greenhouse::8155558",
     "description_snippet": "",
-    "posted_at": "2026-08-24T19:07:01-04:00",
-    "collected_at_utc": "2026-08-25 12:42:20"
-  },
-  {
-    "source_type": "greenhouse",
-    "company": "elastic",
-    "title": "Senior Site Reliability Engineer (Capacity) - Platform Infrastructure",
-    "location": "",
-    "team": "",
-    "categories": [],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8155560&gh_jid=8155560",
-    "external_id": "greenhouse::8155560",
-    "description_snippet": "",
-    "posted_at": "2026-08-24T19:07:03-04:00",
-    "collected_at_utc": "2026-08-25 12:42:20"
+    "posted_at": "2026-08-25T17:42:00-04:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -738,15 +759,41 @@
     "url": "https://jobs.elastic.co/jobs?gh_jid=8070615&gh_jid=8070615",
     "external_id": "greenhouse::8070615",
     "description_snippet": "",
-    "posted_at": "2026-08-24T19:06:57-04:00",
-    "collected_at_utc": "2026-08-25 12:42:20"
+    "posted_at": "2026-08-25T17:42:00-04:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "elastic",
+    "title": "Senior Site Reliability Engineer (Capacity) - Platform Infrastructure",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8155557&gh_jid=8155557",
+    "external_id": "greenhouse::8155557",
+    "description_snippet": "",
+    "posted_at": "2026-08-25T17:42:00-04:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "elastic",
+    "title": "Senior Site Reliability Engineer (Capacity) - Platform Infrastructure",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8155560&gh_jid=8155560",
+    "external_id": "greenhouse::8155560",
+    "description_snippet": "",
+    "posted_at": "2026-08-25T17:42:00-04:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "jobicy",
     "company": "Experian",
     "title": "DevOps Senior Engineer",
     "location": "Costa Rica",
-    "team": "DevOps &amp; Infrastructure",
+    "team": "DevOps & Infrastructure",
     "categories": [
       "['Full-Time']"
     ],
@@ -754,22 +801,22 @@
     "external_id": "jobicy::148202",
     "description_snippet": "Company DescriptionExperian is a global data and technology company, powering opportunities for people and businesses around the world. We help to redefine lending practices, uncover and prevent fraud, simplify healthcare, create marketing solutions, and gain deeper insights into the automotive mark",
     "posted_at": "2026-08-05T07:00:04+00:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "jobicy",
     "company": "Experian",
     "title": "Senior DevOps Engineer",
     "location": "Costa Rica",
-    "team": "DevOps &amp; Infrastructure",
+    "team": "DevOps & Infrastructure",
     "categories": [
       "['Full-Time']"
     ],
     "url": "https://jobicy.com/jobs/144464-senior-devops-engineer-5",
     "external_id": "jobicy::144464",
     "description_snippet": "Company DescriptionExperian is a global data and technology company, powering opportunities for people and businesses around the world. We operate across a range of markets, from financial services to healthcare, automotive, agribusiness, insurance, and many more. Experian invests in people and new ",
-    "posted_at": "2026-07-24T10:00:07+00:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "posted_at": "2026-08-25T03:50:05+00:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -782,7 +829,7 @@
     "external_id": "greenhouse::8082266",
     "description_snippet": "",
     "posted_at": "2026-08-20T15:21:32-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -795,20 +842,22 @@
     "external_id": "greenhouse::8045052",
     "description_snippet": "",
     "posted_at": "2026-08-20T15:21:32-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
-    "source_type": "greenhouse",
-    "company": "fivetran",
-    "title": "Senior Site Reliability Engineer",
-    "location": "",
-    "team": "",
-    "categories": [],
-    "url": "https://www.fivetran.com/careers/job?gh_jid=7814036003",
-    "external_id": "greenhouse::7814036003",
-    "description_snippet": "",
-    "posted_at": "2026-08-20T12:58:43-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "source_type": "jobicy",
+    "company": "Fieldguide",
+    "title": "Senior Infrastructure Engineer",
+    "location": "USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/151592-senior-infrastructure-engineer",
+    "external_id": "jobicy::151592",
+    "description_snippet": "About Us Fieldguide is establishing a new state of trust for global commerce and capital markets through automating and streamlining the work of assurance and audit practitioners specifically within cybersecurity, privacy, and financial audit. Put simply, we build software for the people who enable ",
+    "posted_at": "2026-08-25T14:42:40+00:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -820,8 +869,21 @@
     "url": "https://www.fivetran.com/careers/job?gh_jid=7688580003",
     "external_id": "greenhouse::7688580003",
     "description_snippet": "",
-    "posted_at": "2026-08-20T12:58:41-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "posted_at": "2026-08-24T22:18:42-04:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "fivetran",
+    "title": "Senior Site Reliability Engineer",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7814036003",
+    "external_id": "greenhouse::7814036003",
+    "description_snippet": "",
+    "posted_at": "2026-08-24T22:18:46-04:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -833,8 +895,8 @@
     "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4947673101",
     "external_id": "greenhouse::4947673101",
     "description_snippet": "",
-    "posted_at": "2026-08-20T12:59:01-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "posted_at": "2026-08-26T02:43:36-04:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -847,7 +909,7 @@
     "external_id": "greenhouse::4777935101",
     "description_snippet": "",
     "posted_at": "2026-08-20T12:59:01-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "remoteok",
@@ -879,7 +941,7 @@
     "external_id": "remoteok::1137062",
     "description_snippet": "Desarrollador/a Full Stack â Python / Angular / Go En Rekluti , consultora especializada en talento tecnolÃ³gico en LATAM, buscamos un/a Desarrollador/a Full Stack para integrarse a proyectos de alta complejidad y participar en el desarrollo de soluciones web escalables. Buscamos un perfil con sÃ³",
     "posted_at": "2026-08-22T00:00:12+00:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "weworkremotely",
@@ -892,7 +954,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/lemon-io-senior-devops-engineer-3",
     "description_snippet": "Headquarters: New York, NY URL: https://lemon.io Senior Developer? Work Remote. Get Paid Well. Build What Matters. Lemon.io connects hand-picked senior developers with vetted startups across the US and Europe — no bidding wars, no ghosting, just serious opportunities. We're currently hiring for a re",
     "posted_at": "Mon, 24 Aug 2026 11:52:38 +0000",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -905,14 +967,14 @@
     "external_id": "greenhouse::8621017002",
     "description_snippet": "",
     "posted_at": "2026-07-24T12:10:49-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "jobicy",
     "company": "ManTech",
     "title": "Cloud Engineer - VMWare",
     "location": "USA",
-    "team": "DevOps &amp; Infrastructure",
+    "team": "DevOps & Infrastructure",
     "categories": [
       "['Full-Time']"
     ],
@@ -920,7 +982,22 @@
     "external_id": "jobicy::143887",
     "description_snippet": "General information Requisition # R67728 Locations USA-Remote Work Posting Date 05/13/2026 Security Clearance Required Secret Remote Type Fully Remote Time Type Full time Description &amp; Requirements Shape the future of defense with MANTECH! Join a team dedicated to safeguarding our nation through",
     "posted_at": "2026-08-21T03:45:04+00:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Medium",
+    "title": "Senior Data Platform Engineer",
+    "location": "USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/151664-senior-data-platform-engineer-2",
+    "external_id": "jobicy::151664",
+    "description_snippet": "About Medium Medium is one of the world's most influential writing platforms, connecting millions of readers with ideas that matter. We're a small, dedicated team that cares deeply about craft, curiosity, and building something that lasts. We make decisions efficiently and iterate fast, think carefu",
+    "posted_at": "2026-08-26T04:45:58+00:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "lever",
@@ -935,33 +1012,7 @@
     "external_id": "lever::1b702919-4d0b-4085-baec-8947f9b7e4ee",
     "description_snippet": "Metabase is the easiest way for people to get insights from their data, from tiny startups who get up and running quickly to major corporations with tens of thousands of users. That's why people love us. We bring data tools with the elegance and simplicity of consumer products to the crufty world of",
     "posted_at": "1589224005614",
-    "collected_at_utc": "2026-08-24 12:45:00"
-  },
-  {
-    "source_type": "greenhouse",
-    "company": "mongodb",
-    "title": "Cloud Operations Engineer",
-    "location": "",
-    "team": "",
-    "categories": [],
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=8025824",
-    "external_id": "greenhouse::8025824",
-    "description_snippet": "",
-    "posted_at": "2026-08-21T15:40:40-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
-  },
-  {
-    "source_type": "greenhouse",
-    "company": "mongodb",
-    "title": "Cloud Operations Engineer",
-    "location": "",
-    "team": "",
-    "categories": [],
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=7453323",
-    "external_id": "greenhouse::7453323",
-    "description_snippet": "",
-    "posted_at": "2026-08-21T15:40:40-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -974,7 +1025,33 @@
     "external_id": "greenhouse::8025827",
     "description_snippet": "",
     "posted_at": "2026-08-21T15:40:40-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "mongodb",
+    "title": "Cloud Operations Engineer",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7453323",
+    "external_id": "greenhouse::7453323",
+    "description_snippet": "",
+    "posted_at": "2026-08-21T15:40:40-04:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "mongodb",
+    "title": "Cloud Operations Engineer",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=8025824",
+    "external_id": "greenhouse::8025824",
+    "description_snippet": "",
+    "posted_at": "2026-08-21T15:40:40-04:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -987,7 +1064,7 @@
     "external_id": "greenhouse::8045688",
     "description_snippet": "",
     "posted_at": "2026-08-21T15:40:40-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -1000,7 +1077,7 @@
     "external_id": "greenhouse::8060943",
     "description_snippet": "",
     "posted_at": "2026-08-21T15:40:40-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -1013,7 +1090,7 @@
     "external_id": "greenhouse::8071475",
     "description_snippet": "",
     "posted_at": "2026-08-21T15:40:40-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -1026,7 +1103,7 @@
     "external_id": "greenhouse::7924987",
     "description_snippet": "",
     "posted_at": "2026-08-21T15:40:40-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -1039,7 +1116,7 @@
     "external_id": "greenhouse::8051379",
     "description_snippet": "",
     "posted_at": "2026-08-21T15:40:40-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -1052,7 +1129,7 @@
     "external_id": "greenhouse::7727873",
     "description_snippet": "",
     "posted_at": "2026-08-21T15:40:40-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -1065,20 +1142,7 @@
     "external_id": "greenhouse::7727964",
     "description_snippet": "",
     "posted_at": "2026-08-21T15:40:40-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
-  },
-  {
-    "source_type": "greenhouse",
-    "company": "mongodb",
-    "title": "Site Reliability Engineer (Senior or Staff), Deployments",
-    "location": "",
-    "team": "",
-    "categories": [],
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=7727910",
-    "external_id": "greenhouse::7727910",
-    "description_snippet": "",
-    "posted_at": "2026-08-21T15:40:40-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -1091,7 +1155,20 @@
     "external_id": "greenhouse::7727913",
     "description_snippet": "",
     "posted_at": "2026-08-21T15:40:40-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "mongodb",
+    "title": "Site Reliability Engineer (Senior or Staff), Deployments",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7727910",
+    "external_id": "greenhouse::7727910",
+    "description_snippet": "",
+    "posted_at": "2026-08-21T15:40:40-04:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -1104,7 +1181,7 @@
     "external_id": "greenhouse::7758610",
     "description_snippet": "",
     "posted_at": "2026-08-21T15:40:40-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -1117,7 +1194,7 @@
     "external_id": "greenhouse::7793634",
     "description_snippet": "",
     "posted_at": "2026-08-21T15:40:40-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -1130,7 +1207,7 @@
     "external_id": "greenhouse::7743366",
     "description_snippet": "",
     "posted_at": "2026-08-21T15:40:40-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -1143,7 +1220,7 @@
     "external_id": "greenhouse::6984814",
     "description_snippet": "",
     "posted_at": "2026-08-21T15:40:40-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -1156,20 +1233,7 @@
     "external_id": "greenhouse::7821316",
     "description_snippet": "",
     "posted_at": "2026-08-21T15:40:40-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
-  },
-  {
-    "source_type": "greenhouse",
-    "company": "mongodb",
-    "title": "Site Reliability Engineering, Fabric (Mid, Senior, or Staff)",
-    "location": "",
-    "team": "",
-    "categories": [],
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=7727923",
-    "external_id": "greenhouse::7727923",
-    "description_snippet": "",
-    "posted_at": "2026-08-21T15:40:40-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -1182,7 +1246,20 @@
     "external_id": "greenhouse::7727920",
     "description_snippet": "",
     "posted_at": "2026-08-21T15:40:40-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "mongodb",
+    "title": "Site Reliability Engineering, Fabric (Mid, Senior, or Staff)",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7727923",
+    "external_id": "greenhouse::7727923",
+    "description_snippet": "",
+    "posted_at": "2026-08-21T15:40:40-04:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -1195,7 +1272,7 @@
     "external_id": "greenhouse::8056209",
     "description_snippet": "",
     "posted_at": "2026-08-25T01:53:50-04:00",
-    "collected_at_utc": "2026-08-25 12:42:20"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -1207,8 +1284,8 @@
     "url": "https://www.okta.com/company/careers/opportunity/8056207?gh_jid=8056207",
     "external_id": "greenhouse::8056207",
     "description_snippet": "",
-    "posted_at": "2026-08-24T05:18:22-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "posted_at": "2026-08-24T12:51:52-04:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -1220,8 +1297,8 @@
     "url": "https://www.okta.com/company/careers/opportunity/7617976?gh_jid=7617976",
     "external_id": "greenhouse::7617976",
     "description_snippet": "",
-    "posted_at": "2026-07-31T11:23:35-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "posted_at": "2026-08-24T12:51:52-04:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -1233,8 +1310,8 @@
     "url": "https://www.okta.com/company/careers/opportunity/7963271?gh_jid=7963271",
     "external_id": "greenhouse::7963271",
     "description_snippet": "",
-    "posted_at": "2026-07-31T11:23:35-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "posted_at": "2026-08-24T12:51:52-04:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -1246,8 +1323,8 @@
     "url": "https://www.okta.com/company/careers/opportunity/8100444?gh_jid=8100444",
     "external_id": "greenhouse::8100444",
     "description_snippet": "",
-    "posted_at": "2026-08-03T13:40:56-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "posted_at": "2026-08-24T12:51:52-04:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -1259,8 +1336,8 @@
     "url": "https://www.okta.com/company/careers/opportunity/7418982?gh_jid=7418982",
     "external_id": "greenhouse::7418982",
     "description_snippet": "",
-    "posted_at": "2026-07-31T11:23:35-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "posted_at": "2026-08-24T12:51:52-04:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -1272,8 +1349,8 @@
     "url": "https://www.okta.com/company/careers/opportunity/7610901?gh_jid=7610901",
     "external_id": "greenhouse::7610901",
     "description_snippet": "",
-    "posted_at": "2026-08-24T18:27:04-04:00",
-    "collected_at_utc": "2026-08-25 12:42:20"
+    "posted_at": "2026-08-25T18:42:39-04:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -1285,8 +1362,8 @@
     "url": "https://www.okta.com/company/careers/opportunity/7591606?gh_jid=7591606",
     "external_id": "greenhouse::7591606",
     "description_snippet": "",
-    "posted_at": "2026-08-24T18:26:56-04:00",
-    "collected_at_utc": "2026-08-25 12:42:20"
+    "posted_at": "2026-08-25T18:42:25-04:00",
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -1299,7 +1376,7 @@
     "external_id": "greenhouse::7782538",
     "description_snippet": "",
     "posted_at": "2026-08-20T21:45:45-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -1312,7 +1389,7 @@
     "external_id": "greenhouse::7772875",
     "description_snippet": "",
     "posted_at": "2026-08-20T21:45:37-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -1325,14 +1402,14 @@
     "external_id": "greenhouse::7782550",
     "description_snippet": "",
     "posted_at": "2026-08-20T21:45:49-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "jobicy",
     "company": "Qventus",
     "title": "Senior IT Engineer",
     "location": "Canada",
-    "team": "DevOps &amp; Infrastructure",
+    "team": "DevOps & Infrastructure",
     "categories": [
       "['Full-Time']"
     ],
@@ -1340,14 +1417,14 @@
     "external_id": "jobicy::151501",
     "description_snippet": "On this journey for over 12 years, Qventus is leading the transformation of healthcare. We enable hospitals to focus on what matters most: patient care. Our innovative solutions harness the power of machine learning, generative AI, and behavioral science to deliver exceptional outcomes and empower c",
     "posted_at": "2026-08-24T17:38:06+00:00",
-    "collected_at_utc": "2026-08-25 12:42:20"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "jobicy",
     "company": "Remote",
     "title": "Senior Site Reliability Engineer",
     "location": "EMEA",
-    "team": "DevOps &amp; Infrastructure",
+    "team": "DevOps & Infrastructure",
     "categories": [
       "['Full-Time']"
     ],
@@ -1355,7 +1432,7 @@
     "external_id": "jobicy::148108",
     "description_snippet": "About Remote Remote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focused work culture, our team works ",
     "posted_at": "2026-08-23T17:14:36+00:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "greenhouse",
@@ -1368,14 +1445,14 @@
     "external_id": "greenhouse::7570678",
     "description_snippet": "",
     "posted_at": "2026-08-10T17:24:09-04:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "jobicy",
     "company": "Softgic",
     "title": "Atlassian Administrator 1726",
     "location": "Anywhere",
-    "team": "DevOps &amp; Infrastructure",
+    "team": "DevOps & Infrastructure",
     "categories": [
       "['Full-Time']"
     ],
@@ -1383,7 +1460,7 @@
     "external_id": "jobicy::146254",
     "description_snippet": "This is a remote position. We are seeking an experienced Atlassian Administrator to manage, optimize, and continuously improve our Atlassian Cloud ecosystem. This role will be responsible for the administration, configuration, customization, and support of Jira Software, Confluence, and Jira Service",
     "posted_at": "2026-08-16T03:15:08+00:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "lever",
@@ -1398,14 +1475,14 @@
     "external_id": "lever::83cc47d4-e93e-4ce3-b440-185839cddaa1",
     "description_snippet": "Sonatype is the software supply chain security company. We provide the world’s best end-to-end software supply chain security solution, combining the only proactive protection against malicious open source, the only enterprise grade SBOM management and the leading open source dependency management p",
     "posted_at": "1784663482841",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "jobicy",
     "company": "University of Colorado",
     "title": "Lead Cloud Platform & Dev Ops Engineer",
     "location": "USA",
-    "team": "DevOps &amp; Infrastructure",
+    "team": "DevOps & Infrastructure",
     "categories": [
       "['Full-Time']"
     ],
@@ -1413,14 +1490,14 @@
     "external_id": "jobicy::149238",
     "description_snippet": "Lead Cloud Platform &amp; Dev Ops Engineer - 40286 University Staff Description Join Our Team and Make a Difference in Higher Education! At the System Administration office at the University of Colorado, we are dedicated to building a workplace where everyone feels valued, supported, and empowered t",
     "posted_at": "2026-08-14T04:45:07+00:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   },
   {
     "source_type": "jobicy",
     "company": "University of Colorado Anschutz Medical Campus",
     "title": "Lead Cloud Platform & Dev Ops Engineer",
     "location": "USA",
-    "team": "DevOps &amp; Infrastructure",
+    "team": "DevOps & Infrastructure",
     "categories": [
       "['Full-Time']"
     ],
@@ -1428,6 +1505,6 @@
     "external_id": "jobicy::149240",
     "description_snippet": "Lead Cloud Platform &amp; Dev Ops Engineer(Job Number: 40286)Description Join Our Team and Make a Difference in Higher Education! At the System Administration office at the University of Colorado, we are dedicated to building a workplace where everyone feels valued, supported, and empowered to thriv",
     "posted_at": "2026-08-14T04:45:04+00:00",
-    "collected_at_utc": "2026-08-24 12:45:00"
+    "collected_at_utc": "2026-08-26 12:47:23"
   }
 ]
