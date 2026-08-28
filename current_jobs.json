@@ -694,6 +694,19 @@
     "collected_at_utc": "2026-08-27 21:46:56"
   },
   {
+    "source_type": "greenhouse",
+    "company": "cloudflare",
+    "title": "Senior Systems Reliability Engineer (SRE), Edge",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8161940?gh_jid=8161940",
+    "external_id": "greenhouse::8161940",
+    "description_snippet": "",
+    "posted_at": "2026-08-28T10:18:52-04:00",
+    "collected_at_utc": "2026-08-28 21:43:19"
+  },
+  {
     "source_type": "jobicy",
     "company": "Datadog",
     "title": "Developer Advocate - Service Management",

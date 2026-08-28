@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-08-27 21:47 UTC
+Generated: 2026-08-28 21:44 UTC
 
-Total new jobs: 111
+Total new jobs: 112
 
 ## greenhouse
 
@@ -175,6 +175,10 @@ Total new jobs: 111
   - Location: Remote
 
 - [Senior Network Reliability Engineer](https://boards.greenhouse.io/cloudflare/jobs/7649981?gh_jid=7649981)
+  - Company: cloudflare
+  - Location: Remote
+
+- [Senior Systems Reliability Engineer (SRE), Edge](https://boards.greenhouse.io/cloudflare/jobs/8161940?gh_jid=8161940)
   - Company: cloudflare
   - Location: Remote
 
