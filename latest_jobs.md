@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-08-30 16:04 UTC
+Generated: 2026-08-31 18:47 UTC
 
-Total new jobs: 105
+Total new jobs: 104
 
 ## greenhouse
 
@@ -178,15 +178,15 @@ Total new jobs: 105
   - Company: elastic
   - Location: Remote
 
-- [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8070615&gh_jid=8070615)
-  - Company: elastic
-  - Location: Remote
-
 - [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8155558&gh_jid=8155558)
   - Company: elastic
   - Location: Remote
 
 - [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8155557&gh_jid=8155557)
+  - Company: elastic
+  - Location: Remote
+
+- [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8070615&gh_jid=8070615)
   - Company: elastic
   - Location: Remote
 
@@ -226,11 +226,11 @@ Total new jobs: 105
   - Company: mongodb
   - Location: Remote
 
-- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=7453323)
+- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=8025827)
   - Company: mongodb
   - Location: Remote
 
-- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=8025827)
+- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=7453323)
   - Company: mongodb
   - Location: Remote
 
@@ -274,11 +274,11 @@ Total new jobs: 105
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7793634)
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7793634)
   - Company: mongodb
   - Location: Remote
 
@@ -342,10 +342,6 @@ Total new jobs: 105
   - Company: pinterest
   - Location: Remote
 
-- [Senior Integration & Automation Engineer](https://www.rubrik.com/company/careers/departments/job.7570678?gh_jid=7570678)
-  - Company: rubrik
-  - Location: Remote
-
 ## jobicy
 
 - [Customer Reliability Engineer - Infrastructure](https://jobicy.com/jobs/147812-customer-reliability-engineer-infrastructure)
@@ -358,17 +354,7 @@ Total new jobs: 105
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
-- [Senior Database Reliability Engineer (DBRE)](https://jobicy.com/jobs/151712-senior-database-reliability-engineer-dbre)
-  - Company: Branch
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
 - [Senior Site Reliability / Gitops Engineer](https://jobicy.com/jobs/149544-senior-site-reliability-gitops-engineer)
-  - Company: Canonical
-  - Location: Anywhere
-  - Level/Team: DevOps & Infrastructure
-
-- [Senior Site Reliability Engineer](https://jobicy.com/jobs/149557-senior-site-reliability-engineer-5)
   - Company: Canonical
   - Location: Anywhere
   - Level/Team: DevOps & Infrastructure
@@ -408,11 +394,6 @@ Total new jobs: 105
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
-- [Senior IT Engineer](https://jobicy.com/jobs/151501-senior-it-engineer)
-  - Company: Qventus
-  - Location: Canada
-  - Level/Team: DevOps & Infrastructure
-
 - [Senior Site Reliability Engineer](https://jobicy.com/jobs/148108-senior-site-reliability-engineer)
   - Company: Remote
   - Location: EMEA
@@ -428,12 +409,27 @@ Total new jobs: 105
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
+- [Associate Infrastructure Engineer](https://jobicy.com/jobs/152106-associate-infrastructure-engineer)
+  - Company: Webflow
+  - Location: Canada,  USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Senior Software Engineer (Cloud Infrastructure)](https://jobicy.com/jobs/152179-senior-software-engineer-cloud-infrastructure)
+  - Company: YipitData
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
 ## lever
 
 - [Senior SRE/DevOps Engineer](https://jobs.lever.co/metabase/1b702919-4d0b-4085-baec-8947f9b7e4ee)
   - Company: metabase
   - Location: Global Remote
   - Level/Team: Engineering
+
+- [Data Engineer](https://jobs.lever.co/sonatype/7ec5eac6-2adb-4554-8634-5dbb21034e1b)
+  - Company: sonatype
+  - Location: Colombia - Remote
+  - Level/Team: Engineering - Application Platform
 
 - [Senior Solutions Delivery Engineer- DevOps](https://jobs.lever.co/sonatype/83cc47d4-e93e-4ce3-b440-185839cddaa1)
   - Company: sonatype
