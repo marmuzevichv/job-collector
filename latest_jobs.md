@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-08-31 18:47 UTC
+Generated: 2026-09-01 16:05 UTC
 
-Total new jobs: 104
+Total new jobs: 108
 
 ## greenhouse
 
@@ -382,6 +382,26 @@ Total new jobs: 104
 - [Senior Infrastructure Engineer](https://jobicy.com/jobs/151592-senior-infrastructure-engineer)
   - Company: Fieldguide
   - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [AWS DevOps Engineer (Associate)](https://jobicy.com/jobs/152276-aws-devops-engineer-associate)
+  - Company: Mactores
+  - Location: Anywhere
+  - Level/Team: DevOps & Infrastructure
+
+- [AWS DevOps Engineer (Freelancer)](https://jobicy.com/jobs/152278-aws-devops-engineer-freelancer)
+  - Company: Mactores
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [AWS DevOps Engineer (Senior)](https://jobicy.com/jobs/152282-aws-devops-engineer-senior)
+  - Company: Mactores
+  - Location: Anywhere
+  - Level/Team: DevOps & Infrastructure
+
+- [AWS DevOps Engineer (Senior) - Migration Project (VMware to AWS)](https://jobicy.com/jobs/152284-aws-devops-engineer-senior-migration-project-vmware-to-aws)
+  - Company: Mactores
+  - Location: Anywhere
   - Level/Team: DevOps & Infrastructure
 
 - [Cloud Engineer - VMWare](https://jobicy.com/jobs/143887-cloud-engineer-vmware)

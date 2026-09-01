@@ -868,6 +868,66 @@
   },
   {
     "source_type": "jobicy",
+    "company": "Mactores",
+    "title": "AWS DevOps Engineer (Associate)",
+    "location": "Anywhere",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/152276-aws-devops-engineer-associate",
+    "external_id": "jobicy::152276",
+    "description_snippet": "Mactores is the agent-native AWS modernization firm. Most modernization work doesn't ship, it stalls in pilots, slips a year, or lands at three times the budget. We exist to ship it: production systems running, legacy retired, outcomes measured. Our delivery is built on Aedeon, the agent platform bu",
+    "posted_at": "2026-09-01T05:10:29+00:00",
+    "collected_at_utc": "2026-09-01 16:04:12"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Mactores",
+    "title": "AWS DevOps Engineer (Freelancer)",
+    "location": "USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Contract']"
+    ],
+    "url": "https://jobicy.com/jobs/152278-aws-devops-engineer-freelancer",
+    "external_id": "jobicy::152278",
+    "description_snippet": "Mactores is the agent-native AWS modernization firm. Most modernization work doesn't ship, it stalls in pilots, slips a year, or lands at three times the budget. We exist to ship it: production systems running, legacy retired, outcomes measured. Our delivery is built on Aedeon, the agent platform bu",
+    "posted_at": "2026-09-01T05:11:03+00:00",
+    "collected_at_utc": "2026-09-01 16:04:12"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Mactores",
+    "title": "AWS DevOps Engineer (Senior)",
+    "location": "Anywhere",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/152282-aws-devops-engineer-senior",
+    "external_id": "jobicy::152282",
+    "description_snippet": "Mactores is the agent-native AWS modernization firm. Most modernization work doesn't ship, it stalls in pilots, slips a year, or lands at three times the budget. We exist to ship it: production systems running, legacy retired, outcomes measured. Our delivery is built on Aedeon, the agent platform bu",
+    "posted_at": "2026-09-01T05:12:12+00:00",
+    "collected_at_utc": "2026-09-01 16:04:12"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Mactores",
+    "title": "AWS DevOps Engineer (Senior) - Migration Project (VMware to AWS)",
+    "location": "Anywhere",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/152284-aws-devops-engineer-senior-migration-project-vmware-to-aws",
+    "external_id": "jobicy::152284",
+    "description_snippet": "Mactores is the agent-native AWS modernization firm. Most modernization work doesn't ship, it stalls in pilots, slips a year, or lands at three times the budget. We exist to ship it: production systems running, legacy retired, outcomes measured. Our delivery is built on Aedeon, the agent platform bu",
+    "posted_at": "2026-09-01T05:12:44+00:00",
+    "collected_at_utc": "2026-09-01 16:04:12"
+  },
+  {
+    "source_type": "jobicy",
     "company": "ManTech",
     "title": "Cloud Engineer - VMWare",
     "location": "USA",
