@@ -1,28 +1,4 @@
 {
-  "jobicy::152284": {
-    "company": "Mactores",
-    "title": "AWS DevOps Engineer (Senior) - Migration Project (VMware to AWS)",
-    "url": "https://jobicy.com/jobs/152284-aws-devops-engineer-senior-migration-project-vmware-to-aws",
-    "first_seen_utc": "2026-09-03 15:47:54"
-  },
-  "jobicy::152282": {
-    "company": "Mactores",
-    "title": "AWS DevOps Engineer (Senior)",
-    "url": "https://jobicy.com/jobs/152282-aws-devops-engineer-senior",
-    "first_seen_utc": "2026-09-03 15:47:54"
-  },
-  "jobicy::152278": {
-    "company": "Mactores",
-    "title": "AWS DevOps Engineer (Freelancer)",
-    "url": "https://jobicy.com/jobs/152278-aws-devops-engineer-freelancer",
-    "first_seen_utc": "2026-09-03 15:47:54"
-  },
-  "jobicy::152276": {
-    "company": "Mactores",
-    "title": "AWS DevOps Engineer (Associate)",
-    "url": "https://jobicy.com/jobs/152276-aws-devops-engineer-associate",
-    "first_seen_utc": "2026-09-03 15:47:54"
-  },
   "wwr::https://weworkremotely.com/remote-jobs/lemon-io-senior-devops-engineer-3": {
     "company": "Lemon.io",
     "title": "Senior DevOps Engineer",
@@ -496,5 +472,47 @@
     "title": "QA Automation Engineer (IntelliJ IDEA Java Build Tools)",
     "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4777935101",
     "first_seen_utc": "2026-09-04 15:46:31"
+  },
+  "remoteok::1137300": {
+    "company": "SunnyData",
+    "title": "QA Engineer",
+    "url": "https://remoteOK.com/remote-jobs/remote-qa-engineer-sunnydata-1137300",
+    "first_seen_utc": "2026-09-05 14:36:20"
+  },
+  "jobicy::152284": {
+    "company": "Mactores",
+    "title": "AWS DevOps Engineer (Senior) - Migration Project (VMware to AWS)",
+    "url": "https://jobicy.com/jobs/152284-aws-devops-engineer-senior-migration-project-vmware-to-aws",
+    "first_seen_utc": "2026-09-05 14:36:20"
+  },
+  "jobicy::152282": {
+    "company": "Mactores",
+    "title": "AWS DevOps Engineer (Senior)",
+    "url": "https://jobicy.com/jobs/152282-aws-devops-engineer-senior",
+    "first_seen_utc": "2026-09-05 14:36:20"
+  },
+  "jobicy::152278": {
+    "company": "Mactores",
+    "title": "AWS DevOps Engineer (Freelancer)",
+    "url": "https://jobicy.com/jobs/152278-aws-devops-engineer-freelancer",
+    "first_seen_utc": "2026-09-05 14:36:20"
+  },
+  "jobicy::152276": {
+    "company": "Mactores",
+    "title": "AWS DevOps Engineer (Associate)",
+    "url": "https://jobicy.com/jobs/152276-aws-devops-engineer-associate",
+    "first_seen_utc": "2026-09-05 14:36:20"
+  },
+  "jobicy::152549": {
+    "company": "Braze",
+    "title": "Senior Site Reliability Engineer I",
+    "url": "https://jobicy.com/jobs/152549-senior-site-reliability-engineer-i",
+    "first_seen_utc": "2026-09-05 14:36:20"
+  },
+  "greenhouse::5416709008": {
+    "company": "anthropic",
+    "title": "Staff+ Site Reliability Engineer, Safeguards ML Infra",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5416709008",
+    "first_seen_utc": "2026-09-05 14:36:20"
   }
 }

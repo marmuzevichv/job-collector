@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-09-04 15:46 UTC
+Generated: 2026-09-05 14:37 UTC
 
-Total new jobs: 83
+Total new jobs: 86
 
 ## greenhouse
 
@@ -39,6 +39,10 @@ Total new jobs: 83
   - Location: Remote
 
 - [Staff+ Site Reliability Engineer, Safeguards ML Infra](https://job-boards.greenhouse.io/anthropic/jobs/5230394008)
+  - Company: anthropic
+  - Location: Remote
+
+- [Staff+ Site Reliability Engineer, Safeguards ML Infra](https://job-boards.greenhouse.io/anthropic/jobs/5416709008)
   - Company: anthropic
   - Location: Remote
 
@@ -265,6 +269,11 @@ Total new jobs: 83
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
+- [Senior Site Reliability Engineer I](https://jobicy.com/jobs/152549-senior-site-reliability-engineer-i)
+  - Company: Braze
+  - Location: Canada
+  - Level/Team: DevOps & Infrastructure
+
 - [Developer Advocate - Service Management](https://jobicy.com/jobs/151723-developer-advocate-service-management)
   - Company: Datadog
   - Location: USA
@@ -356,6 +365,12 @@ Total new jobs: 83
   - Company: sonatype
   - Location: Colombia - Remote
   - Level/Team: Engineering - Application Platform
+
+## remoteok
+
+- [QA Engineer](https://remoteOK.com/remote-jobs/remote-qa-engineer-sunnydata-1137300)
+  - Company: SunnyData
+  - Location: Worldwide
 
 ## weworkremotely
 
