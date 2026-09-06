@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-09-05 14:37 UTC
+Generated: 2026-09-06 14:56 UTC
 
-Total new jobs: 86
+Total new jobs: 82
 
 ## greenhouse
 
@@ -35,10 +35,6 @@ Total new jobs: 86
   - Location: Remote
 
 - [Staff+ Infrastructure Engineer, Cluster Infrastructure](https://job-boards.greenhouse.io/anthropic/jobs/5206978008)
-  - Company: anthropic
-  - Location: Remote
-
-- [Staff+ Site Reliability Engineer, Safeguards ML Infra](https://job-boards.greenhouse.io/anthropic/jobs/5230394008)
   - Company: anthropic
   - Location: Remote
 
@@ -86,19 +82,19 @@ Total new jobs: 86
   - Company: elastic
   - Location: Remote
 
-- [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8070615&gh_jid=8070615)
-  - Company: elastic
-  - Location: Remote
-
-- [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8155557&gh_jid=8155557)
-  - Company: elastic
-  - Location: Remote
-
 - [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8155558&gh_jid=8155558)
   - Company: elastic
   - Location: Remote
 
+- [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8070615&gh_jid=8070615)
+  - Company: elastic
+  - Location: Remote
+
 - [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8155560&gh_jid=8155560)
+  - Company: elastic
+  - Location: Remote
+
+- [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8155557&gh_jid=8155557)
   - Company: elastic
   - Location: Remote
 
@@ -110,11 +106,11 @@ Total new jobs: 86
   - Company: fastly
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7688580003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7814036003)
   - Company: fivetran
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7814036003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7688580003)
   - Company: fivetran
   - Location: Remote
 
@@ -142,11 +138,11 @@ Total new jobs: 86
   - Company: mongodb
   - Location: Remote
 
-- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=7453323)
+- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=8025827)
   - Company: mongodb
   - Location: Remote
 
-- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=8025827)
+- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=7453323)
   - Company: mongodb
   - Location: Remote
 
@@ -178,11 +174,11 @@ Total new jobs: 86
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727910)
+- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727913)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727913)
+- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727910)
   - Company: mongodb
   - Location: Remote
 
@@ -190,11 +186,11 @@ Total new jobs: 86
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7793634)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7793634)
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
   - Company: mongodb
   - Location: Remote
 
@@ -212,10 +208,6 @@ Total new jobs: 86
 
 - [Site Reliability Engineering, Fabric (Mid, Senior, or Staff)](https://www.mongodb.com/careers/job/?gh_jid=7727923)
   - Company: mongodb
-  - Location: Remote
-
-- [DevOps Engineer, Professional Services R&D](https://www.okta.com/company/careers/opportunity/8056209?gh_jid=8056209)
-  - Company: okta
   - Location: Remote
 
 - [Senior Database Reliability Engineer (DBRE)](https://www.okta.com/company/careers/opportunity/7617976?gh_jid=7617976)
@@ -274,11 +266,6 @@ Total new jobs: 86
   - Location: Canada
   - Level/Team: DevOps & Infrastructure
 
-- [Developer Advocate - Service Management](https://jobicy.com/jobs/151723-developer-advocate-service-management)
-  - Company: Datadog
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
 - [Platform Engineer](https://jobicy.com/jobs/143041-platform-engineer)
   - Company: Defense Unicorns
   - Location: USA
@@ -314,10 +301,10 @@ Total new jobs: 86
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
-- [Senior Data Platform Engineer](https://jobicy.com/jobs/151664-senior-data-platform-engineer-2)
-  - Company: Medium
+- [Customer Reliability Engineer](https://jobicy.com/jobs/152662-customer-reliability-engineer)
+  - Company: Tailscale
   - Location: USA
-  - Level/Team: DevOps & Infrastructure
+  - Level/Team: Technical Support
 
 - [Software Engineer, AI/ML Infrastructure](https://jobicy.com/jobs/152419-software-engineer-ai-ml-infrastructure)
   - Company: Thumbtack
@@ -343,11 +330,6 @@ Total new jobs: 86
   - Company: Upgrade
   - Location: USA
   - Level/Team: QA & Testing
-
-- [Associate Infrastructure Engineer](https://jobicy.com/jobs/152106-associate-infrastructure-engineer)
-  - Company: Webflow
-  - Location: Canada,  USA
-  - Level/Team: DevOps & Infrastructure
 
 - [Senior Software Engineer (Cloud Infrastructure)](https://jobicy.com/jobs/152179-senior-software-engineer-cloud-infrastructure)
   - Company: YipitData
