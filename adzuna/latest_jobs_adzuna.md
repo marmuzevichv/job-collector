@@ -1,7 +1,7 @@
 # Jobs via Adzuna API
 
-Generated: 2026-09-07 17:33 UTC
-Total jobs (24h window): 466
+Generated: 2026-09-08 16:19 UTC
+Total jobs (24h window): 490
 
 - [DevOps & SRE Engineer](https://www.adzuna.com/details/5873050341?utm_medium=api&utm_source=632a28fd)
   - Company: Bright Vision Technologies | Long Creek, Mecklenburg County
@@ -1866,3 +1866,99 @@ Total jobs (24h window): 466
 - [Kubernetes Engineer](https://www.adzuna.com/details/5727641551?utm_medium=api&utm_source=632a28fd)
   - Company: Ascension Federal Services | Orlando, Orange County
   - Kubernetes Engineer (Remote) Location: Orlando, FL, 32801 Job Description: We are seeking a highly skilled Kubernetes En...
+
+- [DevOps Engineer](https://www.adzuna.com/land/ad/5875735406?se=4tu596Cr8RG5huuXgoUgfQ&utm_medium=api&utm_source=632a28fd&v=F869E387F07F98BEE8871586803D3AB60F7856FE)
+  - Company: Spadtek Solutions LLC | US
+  - Job Title: DevOps Engineer Location: Canada – Remote Job Summary We are seeking an experienced L3 DevOps Engineer to joi...
+
+- [Azure DevOps Engineer - Remote](https://www.adzuna.com/land/ad/5875729833?se=4tu596Cr8RG5huuXgoUgfQ&utm_medium=api&utm_source=632a28fd&v=C1F19725E970BBC91E1EA4E6EEBDD4F5E01E41F2)
+  - Company: SSN Group LLC | US
+  - Hi, Job Title: Azure DevOps Engineer Location: Remote Duration: Longterm Skills required: Experience with Azure DevOps (...
+
+- [DevOps Engineer - Fully Remote](https://www.adzuna.com/land/ad/5869314344?se=4tu596Cr8RG5huuXgoUgfQ&utm_medium=api&utm_source=632a28fd&v=CBC0F180AF6FA75E2FD8E240E2DD07A69E87A317)
+  - Company: Booz Allen Hamilton | Mc Lean, Fairfax County
+  - DevOps Engineer The Opportunity: Everyone is trying to “harness the cloud”, but not everyone knows how. As a DevOps engi...
+
+- [Virtual / Remote DevOps Engineer](https://www.adzuna.com/land/ad/5869166715?se=4tu596Cr8RG5huuXgoUgfQ&utm_medium=api&utm_source=632a28fd&v=16B561D3C80345EBD617CCD6AC9BC7BAB71879B8)
+  - Company: Leidos | Orlando, Orange County
+  - The Decision Advantage within Defense at Leidos has an immediate opening for a DevSecOps Engineer on the Systems Enginee...
+
+- [DevOps Engineer - Fully Remote](https://www.adzuna.com/land/ad/5869023597?se=4tu596Cr8RG5huuXgoUgfQ&utm_medium=api&utm_source=632a28fd&v=35BD6B375D4C771DC5982224A1E7CEA452C21CDC)
+  - Company: Leidos | Orlando, Orange County
+  - The Decision Advantage within Defense at Leidos has an immediate opening for a DevSecOps Engineer on the Systems Enginee...
+
+- [Virtual / Remote DevOps Engineer](https://www.adzuna.com/land/ad/5869021613?se=4tu596Cr8RG5huuXgoUgfQ&utm_medium=api&utm_source=632a28fd&v=6DBEAD3E3F693C4385974DE7E292BC0793DAA70B)
+  - Company: Booz Allen Hamilton | Mc Lean, Fairfax County
+  - DevOps Engineer The Opportunity: Everyone is trying to “harness the cloud”, but not everyone knows how. As a DevOps engi...
+
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/details/5836246181?utm_medium=api&utm_source=632a28fd)
+  - Company: SitusAMC | Tallahassee, Leon County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Platform Engineer-Infrastructure](https://www.adzuna.com/land/ad/5875745024?se=VOUS-6Cr8RG9a970WpGurQ&utm_medium=api&utm_source=632a28fd&v=D043A936EF825EBFCD366AC91A86138B6AD2C03C)
+  - Company: CS Solutions, Inc. | US
+  - Job Title: Platform Engineer-Infrastructure & Observability Location: Remote Duration: 6 Months Job Description We are s...
+
+- [kafka Platform Engineer](https://www.adzuna.com/land/ad/5875744826?se=VOUS-6Cr8RG9a970WpGurQ&utm_medium=api&utm_source=632a28fd&v=E5D1BD51DBA8F82B7514A67857C4333A7C1A4BDD)
+  - Company: Value Technology Inc | US
+  - Job Title: kafka Platform Engineer Job Type: Working remotely Experience: 10 Job Summary Value Technology is seeking for...
+
+- [Software Engineer — Data Platform (Remote)](https://www.adzuna.com/land/ad/5874689899?se=VOUS-6Cr8RG9a970WpGurQ&utm_medium=api&utm_source=632a28fd&v=BA4AAE143D4559F0E71F20C3EA3AD3B5BE4FC335)
+  - Company: Tradeweb | Ny State Campus, Albany County
+  - Tradeweb is a global leader in electronic trading across asset classes. As financial markets become increasingly interco...
+
+- [AI Data Platform Engineer](https://www.adzuna.com/land/ad/5874564019?se=VOUS-6Cr8RG9a970WpGurQ&utm_medium=api&utm_source=632a28fd&v=36457054D2DF87559D69D8BD3F88CFD4481265F6)
+  - Company: Bright Vision Technologies | Texas, US
+  - AI Data Platform Engineer – Remote Bright Vision Technologies is a technology consulting and software development compan...
+
+- [Engineer III - Platform Data Engineer (Remote)](https://www.adzuna.com/land/ad/5874563900?se=VOUS-6Cr8RG9a970WpGurQ&utm_medium=api&utm_source=632a28fd&v=8FB8951EC8D716329608CCEECD10C6562FA3A1DF)
+  - Company: CrowdStrike | California, US
+  - As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organ...
+
+- [Software Engineer — Data Platform (Remote)](https://www.adzuna.com/land/ad/5874488252?se=VOUS-6Cr8RG9a970WpGurQ&utm_medium=api&utm_source=632a28fd&v=ACBC9B354EC48CED10FBCD18F81468DA79EE9335)
+  - Company: The Walt Disney Company | Glendale, Los Angeles County
+  - Job Posting Title:Software Engineer II Req ID: Disney Entertainment and ESPN Product & Technology is a global organizati...
+
+- [IoT Platform Engineer](https://www.adzuna.com/land/ad/5874473913?se=VOUS-6Cr8RG9a970WpGurQ&utm_medium=api&utm_source=632a28fd&v=BBD3D5ADE50C5A90C5E5F28042E7DAB0975D5F19)
+  - Company: Bright Vision Technologies | Texas, US
+  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
+
+- [Azure Platform Engineer](https://www.adzuna.com/land/ad/5874453324?se=VOUS-6Cr8RG9a970WpGurQ&utm_medium=api&utm_source=632a28fd&v=B5BD595237D8B9B06B40196B61FC751DE43604B6)
+  - Company: Bright Vision Technologies | Texas, US
+  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
+
+- [Senior Engineer - Data Platform (Remote)](https://www.adzuna.com/land/ad/5874445851?se=VOUS-6Cr8RG9a970WpGurQ&utm_medium=api&utm_source=632a28fd&v=7506DF608CC45BECF08BA2B10188D8607ACD1B4D)
+  - Company: Altruist | Los Angeles, Los Angeles County
+  - About Altruist Altruist is transforming the multi-trillion dollar wealth management industry by building an AI platform ...
+
+- [Senior Engineer - Data Platform (Remote)](https://www.adzuna.com/land/ad/5874437288?se=VOUS-6Cr8RG9a970WpGurQ&utm_medium=api&utm_source=632a28fd&v=E826B5759653C3ED443F6361B1C2FD34BB5A2A52)
+  - Company: SoFi | South San Francisco, San Mateo County
+  - Employee Applicant Privacy Notice Who we are: Shape a brighter financial future with us. Together with our members, we’r...
+
+- [Sr AI Platform Engineer - ZL](https://www.adzuna.com/land/ad/5869640036?se=2nLv-6Cr8RGIJqh87QWbzg&utm_medium=api&utm_source=632a28fd&v=5655FD486042ACB6C7A229ECCED5AE229F8C0AF6)
+  - Company: SES | US
+  - Sr AI Platform Engineer Remote - ocassional oniste in Centreville, VA (Must be local to Centreville, VA) No C2C or 3rd P...
+
+- [Cloud Automation Engineer](https://www.adzuna.com/land/ad/5875742900?se=uMXg_KCr8RG9a970WpGurQ&utm_medium=api&utm_source=632a28fd&v=42331C7E911ABBF9D24B79EA00977C1DD60C08E4)
+  - Company: NextGen IT Inc. | US
+  - Job Title: Cloud Automation Engineer Location -Remote USA Client develops cutting edge analytics, data visualization, pa...
+
+- [Senior Cloud Engineer (Remote)](https://www.adzuna.com/land/ad/5873318410?se=uMXg_KCr8RG9a970WpGurQ&utm_medium=api&utm_source=632a28fd&v=3D8056B4CB1C0AC469BC3A2B679ED0C776B4EBC6)
+  - Company: Govcio LLC | US
+  - Overview: GovCIO is currently seeking a Cloud Infrastructure Engineer to support the transition of Digital Collection Se...
+
+- [Cloud Engineer (Remote)](https://www.adzuna.com/land/ad/5873315684?se=uMXg_KCr8RG9a970WpGurQ&utm_medium=api&utm_source=632a28fd&v=A060F752E88A0B450E19C6970C8F89BEE2E21336)
+  - Company: Govcio LLC | US
+  - Overview: GovCIO is seeking a Cloud Data & Automation Engineer to support the migration and ongoing management of DCS's ...
+
+- [DevSecOps Engineer with Security Clearance](https://www.adzuna.com/land/ad/5874364517?se=5oMUAKGr8RGIF6DeSiUj7Q&utm_medium=api&utm_source=632a28fd&v=F595A470150A338A9C7FF9E8BDC4D0575F2356E8)
+  - Company: Auria | Rockrimmon, El Paso County
+  - Position: DevSecOps Engineer Location: Colorado Springs, CO Remote Status: Hybrid Job Id: 13898-GMI - Chase  of Openings...
+
+- [DevOps/SRE Engineer](https://www.adzuna.com/land/ad/5832647753?se=QhLOAaGr8RGIF6DeSiUj7Q&utm_medium=api&utm_source=632a28fd&v=B47FB0089D65E7B13144C30A2E506093B8C72D74)
+  - Company: Apex Systems | Schiller Park, Cook County
+  - Job: 3041293 Job Description: DevOps/SRE Engineer Location: Chicago, Illinois (Partial Remote) Role Overview The Senior ...
+
+- [Kubernetes & OpenShift Engineer](https://www.adzuna.com/land/ad/5869262127?se=eCOaAqGr8RG9a970WpGurQ&utm_medium=api&utm_source=632a28fd&v=3D6AA1396AB20060E408E2A70F93650DE6F3F8D9)
+  - Company: Bright Vision Technologies | Texas, US
+  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
