@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-09-07 17:17 UTC
+Generated: 2026-09-08 16:01 UTC
 
-Total new jobs: 80
+Total new jobs: 82
 
 ## greenhouse
 
@@ -347,6 +347,14 @@ Total new jobs: 80
   - Location: Worldwide
 
 ## weworkremotely
+
+- [Professional Services DevOps Engineer](https://weworkremotely.com/remote-jobs/jfrog-professional-services-devops-engineer)
+  - Company: JFrog
+  - Location: Remote
+
+- [Senior Professional Services DevOps Engineer](https://weworkremotely.com/remote-jobs/jfrog-senior-professional-services-devops-engineer)
+  - Company: JFrog
+  - Location: Remote
 
 - [Senior DevOps Engineer](https://weworkremotely.com/remote-jobs/lemon-io-senior-devops-engineer-3)
   - Company: Lemon.io

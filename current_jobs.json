@@ -477,6 +477,32 @@
   },
   {
     "source_type": "weworkremotely",
+    "company": "JFrog",
+    "title": "Professional Services DevOps Engineer",
+    "location": "Remote",
+    "team": "",
+    "categories": [],
+    "url": "https://weworkremotely.com/remote-jobs/jfrog-professional-services-devops-engineer",
+    "external_id": "wwr::https://weworkremotely.com/remote-jobs/jfrog-professional-services-devops-engineer",
+    "description_snippet": "Headquarters: Remote, US &nbsp; ** Open to remote within the East Coast only** At JFrog, we’re reinventing DevOps to help the world’s greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great p",
+    "posted_at": "Tue, 08 Sep 2026 07:31:00 +0000",
+    "collected_at_utc": "2026-09-08 15:59:54"
+  },
+  {
+    "source_type": "weworkremotely",
+    "company": "JFrog",
+    "title": "Senior Professional Services DevOps Engineer",
+    "location": "Remote",
+    "team": "",
+    "categories": [],
+    "url": "https://weworkremotely.com/remote-jobs/jfrog-senior-professional-services-devops-engineer",
+    "external_id": "wwr::https://weworkremotely.com/remote-jobs/jfrog-senior-professional-services-devops-engineer",
+    "description_snippet": "Headquarters: Remote, Canada ** Open to remote within the East Coast only** At JFrog, we’re reinventing DevOps to help the world’s greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great peop",
+    "posted_at": "Tue, 08 Sep 2026 07:31:09 +0000",
+    "collected_at_utc": "2026-09-08 15:59:54"
+  },
+  {
+    "source_type": "weworkremotely",
     "company": "Lemon.io",
     "title": "Senior DevOps Engineer",
     "location": "Remote",
