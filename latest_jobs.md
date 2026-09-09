@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-09-08 16:01 UTC
+Generated: 2026-09-09 15:58 UTC
 
-Total new jobs: 82
+Total new jobs: 79
 
 ## greenhouse
 
@@ -74,27 +74,7 @@ Total new jobs: 82
   - Company: cloudflare
   - Location: Remote
 
-- [Senior Systems Reliability Engineer (SRE), Edge](https://boards.greenhouse.io/cloudflare/jobs/8161940?gh_jid=8161940)
-  - Company: cloudflare
-  - Location: Remote
-
 - [Platform Engineer - Kubernetes](https://jobs.elastic.co/jobs?gh_jid=8047349&gh_jid=8047349)
-  - Company: elastic
-  - Location: Remote
-
-- [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8155560&gh_jid=8155560)
-  - Company: elastic
-  - Location: Remote
-
-- [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8070615&gh_jid=8070615)
-  - Company: elastic
-  - Location: Remote
-
-- [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8155557&gh_jid=8155557)
-  - Company: elastic
-  - Location: Remote
-
-- [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8155558&gh_jid=8155558)
   - Company: elastic
   - Location: Remote
 
@@ -126,11 +106,15 @@ Total new jobs: 82
   - Company: gitlab
   - Location: Remote
 
-- [QA Automation Engineer (IDEA Ultimate QA)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4947673101)
-  - Company: jetbrains
+- [Site Reliability Engineer, Infrastructure Platforms — UK (Intermediate to Senior Staff)](https://job-boards.greenhouse.io/gitlab/jobs/8773546002)
+  - Company: gitlab
   - Location: Remote
 
 - [QA Automation Engineer (IntelliJ IDEA Java Build Tools)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4777935101)
+  - Company: jetbrains
+  - Location: Remote
+
+- [Senior Test Automation Engineer (TeamCity)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4961618101)
   - Company: jetbrains
   - Location: Remote
 
@@ -162,11 +146,11 @@ Total new jobs: 82
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727910)
+- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727913)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727913)
+- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727910)
   - Company: mongodb
   - Location: Remote
 
@@ -174,11 +158,11 @@ Total new jobs: 82
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7793634)
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7793634)
   - Company: mongodb
   - Location: Remote
 
@@ -190,11 +174,11 @@ Total new jobs: 82
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineering, Fabric (Mid, Senior, or Staff)](https://www.mongodb.com/careers/job/?gh_jid=7727923)
+- [Site Reliability Engineering, Fabric (Mid, Senior, or Staff)](https://www.mongodb.com/careers/job/?gh_jid=7727920)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineering, Fabric (Mid, Senior, or Staff)](https://www.mongodb.com/careers/job/?gh_jid=7727920)
+- [Site Reliability Engineering, Fabric (Mid, Senior, or Staff)](https://www.mongodb.com/careers/job/?gh_jid=7727923)
   - Company: mongodb
   - Location: Remote
 
@@ -202,11 +186,11 @@ Total new jobs: 82
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/7963271?gh_jid=7963271)
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8078730?gh_jid=8078730)
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer (Auth0)](https://www.okta.com/company/careers/opportunity/7418982?gh_jid=7418982)
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/7963271?gh_jid=7963271)
   - Company: okta
   - Location: Remote
 
@@ -339,6 +323,11 @@ Total new jobs: 82
   - Company: sonatype
   - Location: Colombia - Remote
   - Level/Team: Engineering - Application Platform
+
+- [Senior Solutions Delivery Engineer- DevOps](https://jobs.lever.co/sonatype/83cc47d4-e93e-4ce3-b440-185839cddaa1)
+  - Company: sonatype
+  - Location: US - Remote
+  - Level/Team: Customer Success - Direct - Solutions Delivery
 
 ## remoteok
 
