@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-09-09 15:58 UTC
+Generated: 2026-09-10 15:51 UTC
 
-Total new jobs: 79
+Total new jobs: 86
 
 ## greenhouse
 
@@ -75,6 +75,22 @@ Total new jobs: 79
   - Location: Remote
 
 - [Platform Engineer - Kubernetes](https://jobs.elastic.co/jobs?gh_jid=8047349&gh_jid=8047349)
+  - Company: elastic
+  - Location: Remote
+
+- [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8155557&gh_jid=8155557)
+  - Company: elastic
+  - Location: Remote
+
+- [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8070615&gh_jid=8070615)
+  - Company: elastic
+  - Location: Remote
+
+- [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8155560&gh_jid=8155560)
+  - Company: elastic
+  - Location: Remote
+
+- [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8155558&gh_jid=8155558)
   - Company: elastic
   - Location: Remote
 
@@ -277,6 +293,16 @@ Total new jobs: 79
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
+- [Senior Engineer (Software), Enterprise](https://jobicy.com/jobs/152949-senior-engineer-software-enterprise)
+  - Company: NetBox Labs
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Senior DevOps Engineer](https://jobicy.com/jobs/152901-senior-devops-engineer-7)
+  - Company: Nextiva
+  - Location: Mexico
+  - Level/Team: DevOps & Infrastructure
+
 - [Customer Reliability Engineer](https://jobicy.com/jobs/152662-customer-reliability-engineer)
   - Company: Tailscale
   - Location: USA
@@ -330,6 +356,10 @@ Total new jobs: 79
   - Level/Team: Customer Success - Direct - Solutions Delivery
 
 ## remoteok
+
+- [DESARROLLADOR FULL STACK](https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062)
+  - Company: Kruger NearShore LLC - Rekluti
+  - Location: Worldwide
 
 - [QA Engineer](https://remoteOK.com/remote-jobs/remote-qa-engineer-sunnydata-1137300)
   - Company: SunnyData

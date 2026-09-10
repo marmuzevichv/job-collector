@@ -280,6 +280,58 @@
   },
   {
     "source_type": "greenhouse",
+    "company": "elastic",
+    "title": "Senior Site Reliability Engineer (Capacity) - Platform Infrastructure",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8155557&gh_jid=8155557",
+    "external_id": "greenhouse::8155557",
+    "description_snippet": "",
+    "posted_at": "2026-09-09T19:20:15-04:00",
+    "collected_at_utc": "2026-09-10 15:50:54"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "elastic",
+    "title": "Senior Site Reliability Engineer (Capacity) - Platform Infrastructure",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8070615&gh_jid=8070615",
+    "external_id": "greenhouse::8070615",
+    "description_snippet": "",
+    "posted_at": "2026-09-09T19:20:13-04:00",
+    "collected_at_utc": "2026-09-10 15:50:54"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "elastic",
+    "title": "Senior Site Reliability Engineer (Capacity) - Platform Infrastructure",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8155560&gh_jid=8155560",
+    "external_id": "greenhouse::8155560",
+    "description_snippet": "",
+    "posted_at": "2026-09-09T19:20:19-04:00",
+    "collected_at_utc": "2026-09-10 15:50:54"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "elastic",
+    "title": "Senior Site Reliability Engineer (Capacity) - Platform Infrastructure",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8155558&gh_jid=8155558",
+    "external_id": "greenhouse::8155558",
+    "description_snippet": "",
+    "posted_at": "2026-09-09T19:20:17-04:00",
+    "collected_at_utc": "2026-09-10 15:50:54"
+  },
+  {
+    "source_type": "greenhouse",
     "company": "fastly",
     "title": "Senior Cloud Engineer",
     "location": "",
@@ -434,7 +486,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/jfrog-professional-services-devops-engineer",
     "description_snippet": "Headquarters: Remote, US &nbsp; ** Open to remote within the East Coast only** At JFrog, we’re reinventing DevOps to help the world’s greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great p",
     "posted_at": "Tue, 08 Sep 2026 07:31:00 +0000",
-    "collected_at_utc": "2026-09-08 15:59:54"
+    "collected_at_utc": "2026-09-10 15:50:54"
   },
   {
     "source_type": "weworkremotely",
@@ -447,7 +499,39 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/jfrog-senior-professional-services-devops-engineer",
     "description_snippet": "Headquarters: Remote, Canada ** Open to remote within the East Coast only** At JFrog, we’re reinventing DevOps to help the world’s greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great peop",
     "posted_at": "Tue, 08 Sep 2026 07:31:09 +0000",
-    "collected_at_utc": "2026-09-08 15:59:54"
+    "collected_at_utc": "2026-09-10 15:50:54"
+  },
+  {
+    "source_type": "remoteok",
+    "company": "Kruger NearShore LLC - Rekluti",
+    "title": "DESARROLLADOR FULL STACK",
+    "location": "Worldwide",
+    "team": "",
+    "categories": [
+      "full stack",
+      "front end",
+      "python",
+      "dev",
+      "testing",
+      "web dev",
+      "quality assurance",
+      "devops",
+      "c",
+      "cloud",
+      "nosql",
+      "git",
+      "flutter",
+      "angular",
+      "mobile",
+      "golang",
+      "backend",
+      "digital nomad"
+    ],
+    "url": "https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062",
+    "external_id": "remoteok::1137062",
+    "description_snippet": "Desarrollador/a Full Stack â Python / Angular / Go En Rekluti , consultora especializada en talento tecnolÃ³gico en LATAM, buscamos un/a Desarrollador/a Full Stack para integrarse a proyectos de alta complejidad y participar en el desarrollo de soluciones web escalables. Buscamos un perfil con sÃ³",
+    "posted_at": "2026-08-22T00:00:12+00:00",
+    "collected_at_utc": "2026-09-10 15:50:54"
   },
   {
     "source_type": "weworkremotely",
@@ -759,6 +843,36 @@
     "description_snippet": "",
     "posted_at": "2026-09-01T03:40:27-04:00",
     "collected_at_utc": "2026-09-09 15:56:31"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "NetBox Labs",
+    "title": "Senior Engineer (Software), Enterprise",
+    "location": "USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/152949-senior-engineer-software-enterprise",
+    "external_id": "jobicy::152949",
+    "description_snippet": "NetBox Labs seeks a Senior Software Engineer with strong DevOps experience to build and drive NetBox Enterprise, our on-premises product suite. You'll own installation, configuration, and lifecycle management for our customers, tackle complex technical challenges, proactively address deployment issu",
+    "posted_at": "2026-09-09T17:27:13+00:00",
+    "collected_at_utc": "2026-09-10 15:50:54"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Nextiva",
+    "title": "Senior DevOps Engineer",
+    "location": "Mexico",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/152901-senior-devops-engineer-7",
+    "external_id": "jobicy::152901",
+    "description_snippet": "Redefine the future of customer experiences. One conversation at a time. At Nextiva, we’re reimagining how businesses connect, bringing together customer experience and team collaboration on a single, conversation centric platform. Powered by AI, driven by human innovation. Our culture is forward th",
+    "posted_at": "2026-09-09T16:27:57+00:00",
+    "collected_at_utc": "2026-09-10 15:50:54"
   },
   {
     "source_type": "greenhouse",
