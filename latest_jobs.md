@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-09-10 15:51 UTC
+Generated: 2026-09-11 15:53 UTC
 
-Total new jobs: 86
+Total new jobs: 84
 
 ## greenhouse
 
@@ -78,15 +78,15 @@ Total new jobs: 86
   - Company: elastic
   - Location: Remote
 
+- [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8155560&gh_jid=8155560)
+  - Company: elastic
+  - Location: Remote
+
 - [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8155557&gh_jid=8155557)
   - Company: elastic
   - Location: Remote
 
 - [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8070615&gh_jid=8070615)
-  - Company: elastic
-  - Location: Remote
-
-- [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8155560&gh_jid=8155560)
   - Company: elastic
   - Location: Remote
 
@@ -102,11 +102,11 @@ Total new jobs: 86
   - Company: fastly
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7814036003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7688580003)
   - Company: fivetran
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7688580003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7814036003)
   - Company: fivetran
   - Location: Remote
 
@@ -154,6 +154,10 @@ Total new jobs: 86
   - Company: mongodb
   - Location: Remote
 
+- [Senior Site Reliability Engineer, Fabric](https://www.mongodb.com/careers/job/?gh_jid=7727920)
+  - Company: mongodb
+  - Location: Remote
+
 - [Senior Site Reliability Engineer,  Fleet Management](https://www.mongodb.com/careers/job/?gh_jid=7727873)
   - Company: mongodb
   - Location: Remote
@@ -174,11 +178,11 @@ Total new jobs: 86
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7793634)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7793634)
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
   - Company: mongodb
   - Location: Remote
 
@@ -190,23 +194,15 @@ Total new jobs: 86
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineering, Fabric (Mid, Senior, or Staff)](https://www.mongodb.com/careers/job/?gh_jid=7727920)
-  - Company: mongodb
-  - Location: Remote
-
-- [Site Reliability Engineering, Fabric (Mid, Senior, or Staff)](https://www.mongodb.com/careers/job/?gh_jid=7727923)
-  - Company: mongodb
-  - Location: Remote
-
 - [Senior Database Reliability Engineer (DBRE)](https://www.okta.com/company/careers/opportunity/7617976?gh_jid=7617976)
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8078730?gh_jid=8078730)
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/7963271?gh_jid=7963271)
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/7963271?gh_jid=7963271)
+- [Senior Site Reliability Engineer (CI-CD/CTAP/Delivery team)](https://www.okta.com/company/careers/opportunity/8078730?gh_jid=8078730)
   - Company: okta
   - Location: Remote
 
@@ -246,6 +242,10 @@ Total new jobs: 86
   - Company: pinterest
   - Location: Remote
 
+- [Site Reliability Engineer- FedRAMP](https://www.rubrik.com/company/careers/departments/job.8177762?gh_jid=8177762)
+  - Company: rubrik
+  - Location: Remote
+
 ## jobicy
 
 - [Cloud Operations Engineer](https://jobicy.com/jobs/151694-cloud-operations-engineer-2)
@@ -258,8 +258,8 @@ Total new jobs: 86
   - Location: Canada
   - Level/Team: DevOps & Infrastructure
 
-- [Platform Engineer](https://jobicy.com/jobs/143041-platform-engineer)
-  - Company: Defense Unicorns
+- [DevOps Engineer](https://jobicy.com/jobs/152990-devops-engineer-4)
+  - Company: Cloudbeds
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
@@ -328,11 +328,6 @@ Total new jobs: 86
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
-- [Senior QA Automation Engineer (Platform)](https://jobicy.com/jobs/152407-senior-qa-automation-engineer-platform)
-  - Company: Upgrade
-  - Location: USA
-  - Level/Team: QA & Testing
-
 - [Senior Software Engineer (Cloud Infrastructure)](https://jobicy.com/jobs/152179-senior-software-engineer-cloud-infrastructure)
   - Company: YipitData
   - Location: USA
@@ -359,10 +354,6 @@ Total new jobs: 86
 
 - [DESARROLLADOR FULL STACK](https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062)
   - Company: Kruger NearShore LLC - Rekluti
-  - Location: Worldwide
-
-- [QA Engineer](https://remoteOK.com/remote-jobs/remote-qa-engineer-sunnydata-1137300)
-  - Company: SunnyData
   - Location: Worldwide
 
 ## weworkremotely
