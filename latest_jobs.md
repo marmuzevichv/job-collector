@@ -1,16 +1,12 @@
 # New jobs
 
-Generated: 2026-09-12 15:00 UTC
+Generated: 2026-09-13 15:38 UTC
 
-Total new jobs: 84
+Total new jobs: 82
 
 ## greenhouse
 
 - [Automation Engineer, Quality Engineering](https://careers.airbnb.com/positions/8154749?gh_jid=8154749)
-  - Company: airbnb
-  - Location: Remote
-
-- [Senior Software Engineer, Reliability Engineering Team](https://careers.airbnb.com/positions/8026696?gh_jid=8026696)
   - Company: airbnb
   - Location: Remote
 
@@ -78,7 +74,15 @@ Total new jobs: 84
   - Company: elastic
   - Location: Remote
 
+- [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8070615&gh_jid=8070615)
+  - Company: elastic
+  - Location: Remote
+
 - [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8155560&gh_jid=8155560)
+  - Company: elastic
+  - Location: Remote
+
+- [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8155558&gh_jid=8155558)
   - Company: elastic
   - Location: Remote
 
@@ -86,11 +90,7 @@ Total new jobs: 84
   - Company: elastic
   - Location: Remote
 
-- [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8070615&gh_jid=8070615)
-  - Company: elastic
-  - Location: Remote
-
-- [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8155558&gh_jid=8155558)
+- [Software Engineer II - Builder Experience - Platform Engineering Productivity](https://jobs.elastic.co/jobs?gh_jid=8154426&gh_jid=8154426)
   - Company: elastic
   - Location: Remote
 
@@ -134,10 +134,6 @@ Total new jobs: 84
   - Company: jetbrains
   - Location: Remote
 
-- [Cloud Operations Engineer (2nd Shift, Weekend)](https://www.mongodb.com/careers/job/?gh_jid=8045688)
-  - Company: mongodb
-  - Location: Remote
-
 - [Lead, Cloud Operations Engineering](https://www.mongodb.com/careers/job/?gh_jid=8060943)
   - Company: mongodb
   - Location: Remote
@@ -178,11 +174,11 @@ Total new jobs: 84
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7793634)
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7793634)
   - Company: mongodb
   - Location: Remote
 
@@ -242,10 +238,6 @@ Total new jobs: 84
   - Company: pinterest
   - Location: Remote
 
-- [Site Reliability Engineer- FedRAMP](https://www.rubrik.com/company/careers/departments/job.8177762?gh_jid=8177762)
-  - Company: rubrik
-  - Location: Remote
-
 ## jobicy
 
 - [Cloud Operations Engineer](https://jobicy.com/jobs/151694-cloud-operations-engineer-2)
@@ -288,11 +280,6 @@ Total new jobs: 84
   - Location: Anywhere
   - Level/Team: DevOps & Infrastructure
 
-- [Cloud Engineer - VMWare](https://jobicy.com/jobs/143887-cloud-engineer-vmware)
-  - Company: ManTech
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
 - [Senior Engineer (Software), Enterprise](https://jobicy.com/jobs/152949-senior-engineer-software-enterprise)
   - Company: NetBox Labs
   - Location: USA
@@ -303,10 +290,10 @@ Total new jobs: 84
   - Location: Mexico
   - Level/Team: DevOps & Infrastructure
 
-- [Customer Reliability Engineer](https://jobicy.com/jobs/152662-customer-reliability-engineer)
-  - Company: Tailscale
+- [IT Automation Engineer - Business Technology (Central/Mountain Time - US)](https://jobicy.com/jobs/153100-it-automation-engineer-business-technology-central-mountain-time-us)
+  - Company: Rithum
   - Location: USA
-  - Level/Team: Technical Support
+  - Level/Team: DevOps & Infrastructure
 
 - [Software Engineer, AI/ML Infrastructure](https://jobicy.com/jobs/152419-software-engineer-ai-ml-infrastructure)
   - Company: Thumbtack
@@ -326,6 +313,11 @@ Total new jobs: 84
 - [Lead Cloud Platform & Dev Ops Engineer](https://jobicy.com/jobs/149240-lead-cloud-platform-dev-ops-engineer-2)
   - Company: University of Colorado Anschutz Medical Campus
   - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Senior Infrastructure Engineer](https://jobicy.com/jobs/153105-senior-infrastructure-engineer-3)
+  - Company: Webflow
+  - Location: Argentina
   - Level/Team: DevOps & Infrastructure
 
 - [Senior Software Engineer (Cloud Infrastructure)](https://jobicy.com/jobs/152179-senior-software-engineer-cloud-infrastructure)
