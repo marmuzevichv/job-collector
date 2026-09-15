@@ -484,5 +484,29 @@
     "title": "Senior Test Automation Engineer (TeamCity)",
     "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4961618101",
     "first_seen_utc": "2026-09-14 17:43:14"
+  },
+  "jobicy::153315": {
+    "company": "Tailscale",
+    "title": "Infrastructure Engineer",
+    "url": "https://jobicy.com/jobs/153315-infrastructure-engineer-2",
+    "first_seen_utc": "2026-09-15 16:16:56"
+  },
+  "jobicy::150748": {
+    "company": "Kalshi",
+    "title": "IT Administrator",
+    "url": "https://jobicy.com/jobs/150748-it-administrator",
+    "first_seen_utc": "2026-09-15 16:16:56"
+  },
+  "jobicy::150664": {
+    "company": "Meta",
+    "title": "Critical Facility Engineer",
+    "url": "https://jobicy.com/jobs/150664-critical-facility-engineer",
+    "first_seen_utc": "2026-09-15 16:16:56"
+  },
+  "greenhouse::8771527002": {
+    "company": "gitlab",
+    "title": "Senior Platform Engineer, GitLab Orbit",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8771527002",
+    "first_seen_utc": "2026-09-15 16:16:56"
   }
 }

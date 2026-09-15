@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-09-14 17:44 UTC
+Generated: 2026-09-15 16:18 UTC
 
-Total new jobs: 81
+Total new jobs: 85
 
 ## greenhouse
 
@@ -104,6 +104,10 @@ Total new jobs: 81
 
 - [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7688580003)
   - Company: fivetran
+  - Location: Remote
+
+- [Senior Platform Engineer, GitLab Orbit](https://job-boards.greenhouse.io/gitlab/jobs/8771527002)
+  - Company: gitlab
   - Location: Remote
 
 - [Senior Release Engineer](https://job-boards.greenhouse.io/gitlab/jobs/8730125002)
@@ -256,6 +260,11 @@ Total new jobs: 81
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
+- [IT Administrator](https://jobicy.com/jobs/150748-it-administrator)
+  - Company: Kalshi
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
 - [AWS DevOps Engineer (Associate)](https://jobicy.com/jobs/152276-aws-devops-engineer-associate)
   - Company: Mactores
   - Location: Anywhere
@@ -276,6 +285,11 @@ Total new jobs: 81
   - Location: Anywhere
   - Level/Team: DevOps & Infrastructure
 
+- [Critical Facility Engineer](https://jobicy.com/jobs/150664-critical-facility-engineer)
+  - Company: Meta
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
 - [Senior Engineer (Software), Enterprise](https://jobicy.com/jobs/152949-senior-engineer-software-enterprise)
   - Company: NetBox Labs
   - Location: USA
@@ -289,6 +303,11 @@ Total new jobs: 81
 - [IT Automation Engineer - Business Technology (Central/Mountain Time - US)](https://jobicy.com/jobs/153100-it-automation-engineer-business-technology-central-mountain-time-us)
   - Company: Rithum
   - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Infrastructure Engineer](https://jobicy.com/jobs/153315-infrastructure-engineer-2)
+  - Company: Tailscale
+  - Location: UK
   - Level/Team: DevOps & Infrastructure
 
 - [Software Engineer, AI/ML Infrastructure](https://jobicy.com/jobs/152419-software-engineer-ai-ml-infrastructure)
