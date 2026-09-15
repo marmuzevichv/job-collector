@@ -1,7 +1,7 @@
 # Jobs via Adzuna API
 
-Generated: 2026-09-14 17:56 UTC
-Total jobs (24h window): 519
+Generated: 2026-09-15 16:36 UTC
+Total jobs (24h window): 568
 
 - [DevOps Engineer (REMOTE)](https://www.adzuna.com/details/5883542256?utm_medium=api&utm_source=632a28fd)
   - Company: Koniag Government Services | Chantilly, Fairfax County
@@ -2078,3 +2078,199 @@ Total jobs (24h window): 519
 - [Kubernetes Engineer](https://www.adzuna.com/details/5727641551?utm_medium=api&utm_source=632a28fd)
   - Company: Ascension Federal Services | Orlando, Orange County
   - Kubernetes Engineer (Remote) Location: Orlando, FL, 32801 Job Description: We are seeking a highly skilled Kubernetes En...
+
+- [Sr. Data Platform Engineer](https://www.adzuna.com/land/ad/5884842581?se=XNyDhSOx8RG_65OMBxShqA&utm_medium=api&utm_source=632a28fd&v=C65F5773ED604672D9BA405C1402BC82B12A6A98)
+  - Company: Donato Technologies Inc | US
+  - Snowflake Platform Engineering | DataOps | DevOps Remote (Work on EST) W2 Contract About the role We are seeking a Senio...
+
+- [Remote : DevOps / Network Engineer](https://www.adzuna.com/land/ad/5884820744?se=XNyDhSOx8RG_65OMBxShqA&utm_medium=api&utm_source=632a28fd&v=3A5DD36C28A5147A88084A4FFEFB51266A4C3D88)
+  - Company: Accenture Federal Services | Herndon, Fairfax County
+  - At Accenture Federal Services, nothing matters more than helping the US federal government make the nation stronger and ...
+
+- [DevOps Engineer / Cloud Infrastructure Engineer - 100% Remote](https://www.adzuna.com/land/ad/5884817678?se=XNyDhSOx8RG_65OMBxShqA&utm_medium=api&utm_source=632a28fd&v=9D94727B16BBC1B59503687C880C0789ECC4B17A)
+  - Company: The Dignify Solutions, LLC | US
+  - SKILLS Cloud Platforms: Hands-on experience with AWS and Azure core services: Compute: EC2, Virtual Machine, AMI and Man...
+
+- [Sr. IT DevOps Engineer](https://www.adzuna.com/land/ad/5884489056?se=XNyDhSOx8RG_65OMBxShqA&utm_medium=api&utm_source=632a28fd&v=A21327018C49CE928814BA3EAEBDDBF8276C5DBE)
+  - Company: Precision System Design Inc. | Newburgh Heights, Cuyahoga County
+  - Our direct, F100 client is looking to hire a REMOTE Sr. DevOps Engineer for a 12-month, extendable contract position. Th...
+
+- [DevOps Engineer](https://www.adzuna.com/details/5884142518?utm_medium=api&utm_source=632a28fd)
+  - Company: Noblesoft Technologies | New Jersey, US
+  - Job Title - Senior DevOps & Platform Engineer Location - Secaucus, NJ(Remote) Mandatory Skills: We are seeking a Senior ...
+
+- [SENIOR DATA PLATFORM ENGINEER](https://www.adzuna.com/details/5884141613?utm_medium=api&utm_source=632a28fd)
+  - Company: Donato Technologies, Inc | Texas, US
+  - SENIOR DATA PLATFORM ENGINEER Snowflake Platform Engineering | DataOps | DevOps Remote (Work on EST) W2 Contract About t...
+
+- [Devops engineer](https://www.adzuna.com/details/5884140198?utm_medium=api&utm_source=632a28fd)
+  - Company: Inherent Technologies | New Jersey, US
+  - Position: Devops engineer Location: Secaucus, NJ(Remote) Duration: 1 Years Mandatory Skills: Devops Engineers are hybrid...
+
+- [DevOps Engineer with GitLab- Full Time-Remote](https://www.adzuna.com/land/ad/5883863311?se=XNyDhSOx8RG_65OMBxShqA&utm_medium=api&utm_source=632a28fd&v=2B92F48CC8883CBE38827319C2A94AC1193B5EFA)
+  - Company: mProgen | US
+  - GitLab administration: upgrades, Geo replication, backup/restore Ansible  Terraform (Infrastructure as Code) Linux (RHEL...
+
+- [DevOps & Platform Engineer](https://www.adzuna.com/land/ad/5883863240?se=XNyDhSOx8RG_65OMBxShqA&utm_medium=api&utm_source=632a28fd&v=36ADA2086B3B3116C3F107374FE63F1E3BB0A642)
+  - Company: Saim Technologies | US
+  - Job Title - Senior DevOps & Platform Engineer Location - Secaucus, NJ(Remote) Mandatory Skills: We are seeking a Senior ...
+
+- [AWS DevOps Engineer with Security Clearance](https://www.adzuna.com/land/ad/5883823026?se=XNyDhSOx8RG_65OMBxShqA&utm_medium=api&utm_source=632a28fd&v=C685AF52703DB798E62C9FDFA99E172A5DDFED19)
+  - Company: Millennium Corporation | Pinehaven, Charleston County
+  - Millennium is proud to be part of the Markon enterprise, a network of specialized organizations united in support of cri...
+
+- [W2 and remote- Sr DevOps Platform engineer with Jfrog, DORA (Jellyfish)](https://www.adzuna.com/details/5880429709?utm_medium=api&utm_source=632a28fd)
+  - Company: Noblesoft Technologies | US
+  - Job Title - Senior DevOps & Platform Engineer with Jfrog, Dora metrics Location - Secaucus, NJ(Remote) Mandatory Skills:...
+
+- [Site Reliability Engineer - AWS - Remote](https://www.adzuna.com/details/5756729537?utm_medium=api&utm_source=632a28fd)
+  - Company: SitusAMC | Tallahassee, Leon County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Site Reliability Engineer - AWS - Remote](https://www.adzuna.com/land/ad/5753892852?se=lIwWiCOx8RG81I_a4Gd-LQ&utm_medium=api&utm_source=632a28fd&v=ACFDAE4A7BB4A13A446152D7C36D5DAB48CEA31D)
+  - Company: SitusAMC | Trenton, Mercer County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [REMOTE Senior Platform Engineer - Python](https://www.adzuna.com/land/ad/5884852045?se=epxMiSOx8RG80dqbAPfRRQ&utm_medium=api&utm_source=632a28fd&v=999A2CDDAB80D26A01FBD1D9AC1C91BCCB42C32B)
+  - Company: Highmark Health | Wisconsin, US
+  - CANDIDATE MUST BE US Citizen (due to contractual/access requirements) The Platform Engineer designs, implements, adminis...
+
+- [Lead AWS Cloud Platform Engineer - IaC / SRE – Preferred TriZetto Facets / Healthcare](https://www.adzuna.com/land/ad/5884842869?se=epxMiSOx8RG80dqbAPfRRQ&utm_medium=api&utm_source=632a28fd&v=95C73C869D874631FEF64CF58874AC505441FEE3)
+  - Company: System One | Reston, Fairfax County
+  - LEAD AWS CLOUD PLATFORM ENGINEER (IaC / SRE) Location: Remote (United States) | Preference for DMV & East Coast Candidat...
+
+- [Software Engineer - Fabric](https://www.adzuna.com/land/ad/5884812194?se=epxMiSOx8RG80dqbAPfRRQ&utm_medium=api&utm_source=632a28fd&v=4BAAE3F61911606AFA9EA8412E94E934EC82E9FE)
+  - Company: Brooksource | US
+  - Software Engineer, Microsoft Fabric Platform and Services Remote (EST hours strongly preferred) Contract: 6-12 months Co...
+
+- [Platform Engineering (Remote)](https://www.adzuna.com/land/ad/5884745511?se=epxMiSOx8RG80dqbAPfRRQ&utm_medium=api&utm_source=632a28fd&v=F97203DBF42573FE640F8317DB4050A362A8F1E0)
+  - Company: Accenture Federal Services | Herndon, Fairfax County
+  - At Accenture Federal Services, nothing matters more than helping the US federal government make the nation stronger and ...
+
+- [Senior Platform Engineer - Remote](https://www.adzuna.com/land/ad/5884734255?se=epxMiSOx8RG80dqbAPfRRQ&utm_medium=api&utm_source=632a28fd&v=EF399CC6EC610E21043F0A24CA98C61AA29EA6AB)
+  - Company: Highmark Health | Rhode Island, US
+  - CANDIDATE MUST BE US Citizen (due to contractual/access requirements) The Platform Engineer designs, implements, adminis...
+
+- [REMOTE Senior Platform Engineer - Python](https://www.adzuna.com/land/ad/5884725162?se=epxMiSOx8RG80dqbAPfRRQ&utm_medium=api&utm_source=632a28fd&v=3430D76075EE078D13A2412EC3CDBE0F939FBE37)
+  - Company: Highmark Health | Kentucky, US
+  - CANDIDATE MUST BE US Citizen (due to contractual/access requirements) The Platform Engineer designs, implements, adminis...
+
+- [Senior Software Engineer, Data Platform (Remote)](https://www.adzuna.com/land/ad/5884724377?se=epxMiSOx8RG80dqbAPfRRQ&utm_medium=api&utm_source=632a28fd&v=E32DCF5193D58023CF5F62C24D754BAEC2C2A388)
+  - Company: SeatGeek | Ny State Campus, Albany County
+  - SeatGeek believes live events are powerful experiences that unite humans. We are looking for a Senior Software Engineer ...
+
+- [Platform Engineer - Remote](https://www.adzuna.com/land/ad/5884716951?se=epxMiSOx8RG80dqbAPfRRQ&utm_medium=api&utm_source=632a28fd&v=9D1DBD421CF987F6446C00A18F67385C4018CD1A)
+  - Company: Pacific Life | Newport Beach, Orange County
+  - Pacific Life is investing in innovative technology solutions to help our business move confidently into the future. We a...
+
+- [REMOTE Senior Platform Engineer - Python](https://www.adzuna.com/land/ad/5884713103?se=epxMiSOx8RG80dqbAPfRRQ&utm_medium=api&utm_source=632a28fd&v=29AA37E8D2AEA04615F35C0E77BC9F2282E3ED81)
+  - Company: Highmark Health | Hawaii
+  - CANDIDATE MUST BE US Citizen (due to contractual/access requirements) The Platform Engineer designs, implements, adminis...
+
+- [Senior AWS Cloud Engineer](https://www.adzuna.com/land/ad/5884165449?se=epxMiSOx8RG80dqbAPfRRQ&utm_medium=api&utm_source=632a28fd&v=FA82532A55489C0D4D932717AF9279CA5E3DBE64)
+  - Company: BCD Travel | US
+  - Start your journey with BCD: Grow, connect, collaborate and celebrate with our global team Senior AWS Cloud Platform Eng...
+
+- [Integrated Platform Engineering (IPE) Scrum Master](https://www.adzuna.com/details/5884143950?utm_medium=api&utm_source=632a28fd)
+  - Company: Emcube Technologies Inc | US
+  - Title: Integrated Platform Engineering (IPE) Scrum Master Location: Remote Type: Contract Experience: 8 Years Assertive ...
+
+- [DevOps/Platform Engineer SME](https://www.adzuna.com/details/5884142168?utm_medium=api&utm_source=632a28fd)
+  - Company: Akaasa Technologies | US
+  - Position: DevOps/Platform Engineer SME Location: Westchester, IL (100% Remote) Duration: 6-12 Months Job Description Abo...
+
+- [Senior AutoSys Platform Engineer](https://www.adzuna.com/details/5884142194?utm_medium=api&utm_source=632a28fd)
+  - Company: Akaasa Technologies | Huntington, Orange County
+  - Senior AutoSys Platform Engineer 2 roles Irvine CA and Remote Need 2 profiles for the role as of now. Position - 1 - Ons...
+
+- [Senior AutoSys Platform Engineer](https://www.adzuna.com/details/5884140842?utm_medium=api&utm_source=632a28fd)
+  - Company: VSG Business Solutions LLC | Huntington, Orange County
+  - New Accenture: Senior AutoSys Platform Engineer 2 roles Irvine CA and Remote - $70/hr c2c AIC Need 2 profiles for the ro...
+
+- [Remote- Platform Software Validation Engineer](https://www.adzuna.com/land/ad/5884025506?se=epxMiSOx8RG80dqbAPfRRQ&utm_medium=api&utm_source=632a28fd&v=E7615AFD057661B63FFBA5E7F39802AB1A3E358D)
+  - Company: Apetan Consulting | Grand Central, Manhattan
+  - Platform Software Validation Engineer LOCATION Palo Alto, CA or Long Beach, CA (hybrid – 4 days onsite) DURATION 6 month...
+
+- [Senior Full Stack & Cloud Platform Engineer](https://www.adzuna.com/land/ad/5883926270?se=epxMiSOx8RG80dqbAPfRRQ&utm_medium=api&utm_source=632a28fd&v=9F66792B1A1B669F35E9C49511843959D8FFD0D8)
+  - Company: Apex Systems | Juno Beach, Palm Beach County
+  - Job: 3051378 Job Description: Senior Full Stack & Cloud Platform Engineer Location: Remote (Remote) Role Overview We are...
+
+- [Senior AutoSys Platform Engineer- Independent candidates](https://www.adzuna.com/land/ad/5883823285?se=epxMiSOx8RG80dqbAPfRRQ&utm_medium=api&utm_source=632a28fd&v=9253B3788579FA3E14A4B93C242D67881AC2EA2A)
+  - Company: Pull Skill Technologies | US
+  - Role: Senior AutoSys Platform Engineer Location: 2 positions (one is Remote and one is onsite @ Irvine CA) Rate: hourly ...
+
+- [Software Programmers](https://www.adzuna.com/land/ad/5875382446?se=SrZSiiOx8RGEx_5DqbUvug&utm_medium=api&utm_source=632a28fd&v=F5FB335F55B08DBC69948E70D23F3B33BEC4E939)
+  - Company: LogicGate | Chicago, Cook County
+  - LogicGate® is the leading AI GRC platform for the Enterprise, helping governance, risk, and compliance teams limit surpr...
+
+- [Software Engineer: Back-End](https://www.adzuna.com/land/ad/5868432730?se=SrZSiiOx8RGEx_5DqbUvug&utm_medium=api&utm_source=632a28fd&v=62C05CF99E461F953B336A161D211441329A907C)
+  - Company: LogicGate | Chicago, Cook County
+  - LogicGate® is the leading AI GRC platform for the Enterprise, helping governance, risk, and compliance teams limit surpr...
+
+- [Cloud Performance Engineer (Remote)](https://www.adzuna.com/land/ad/5884814004?se=PLMhiyOx8RGErbR4kG1BOA&utm_medium=api&utm_source=632a28fd&v=032CEAA8E8B885A66E8EA948167FEAF1EDD00C93)
+  - Company: Groundswell | Mc Lean, Fairfax County
+  - Groundswell is a premier technology integrator and solution provider, resolutely committed to solving the most complex c...
+
+- [Senior Software Engineer, Cloud](https://www.adzuna.com/land/ad/5884732777?se=PLMhiyOx8RGErbR4kG1BOA&utm_medium=api&utm_source=632a28fd&v=88C73769DA0191CA86367DE65DFA7823DDEAD10D)
+  - Company: Abbott | Illinois, US
+  - Abbott is a global healthcare leader that helps people live more fully at all stages of life. Our portfolio of life-chan...
+
+- [Sr Infrastructure Cloud Security Engineer - AWS - Remote](https://www.adzuna.com/details/5884550277?utm_medium=api&utm_source=632a28fd)
+  - Company: SitusAMC | Tallahassee, Leon County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Cloud Engineer - Remote](https://www.adzuna.com/land/ad/5884491551?se=PLMhiyOx8RGErbR4kG1BOA&utm_medium=api&utm_source=632a28fd&v=C73FDE3B871B58D372790FBBB02A274A8360F377)
+  - Company: Genesis10 | Waukesha, Waukesha County
+  - Genesis10 is currently seeking a Cloud Engineer for a Remote position with a Leading Geospatial Technology Firm. This is...
+
+- [Cloud Cybersecurity Engineer - Junior](https://www.adzuna.com/details/5884142529?utm_medium=api&utm_source=632a28fd)
+  - Company: Zenius | Virginia, US
+  - Cloud Cybersecurity Engineer Junior Location: Remote Education: Bachelor's Degree Minimum Experience: Minimum 3 years of...
+
+- [Cloud Cybersecurity Engineer - Intermediate](https://www.adzuna.com/details/5884142534?utm_medium=api&utm_source=632a28fd)
+  - Company: Zenius | Virginia, US
+  - Cloud Cybersecurity Engineer Intermediate Location: Remote Education: Bachelor's Degree Minimum Experience: 5 years Posi...
+
+- [AWS RDS DBA with PostgreSQL](https://www.adzuna.com/details/5884142079?utm_medium=api&utm_source=632a28fd)
+  - Company: SPAR Information Systems LLC | US
+  - JD: AWS RDS DBA(PostgreSQL)/Cloud Database Operations Engineer Role AWS RDS DBA (PostgreSQL) / Cloud Database Operations...
+
+- [Hybrid Cloud Engineer Azure & AWS](https://www.adzuna.com/details/5884141725?utm_medium=api&utm_source=632a28fd)
+  - Company: Match Point Solutions | Irving, Dallas
+  - MatchPoint Solutions is a fast-growing, young, energetic global IT-Engineering services company with clients across the ...
+
+- [Lead Data Cloud Engineer](https://www.adzuna.com/details/5884141755?utm_medium=api&utm_source=632a28fd)
+  - Company: VeeRteq Solutions Inc. | Irving, Dallas
+  - Job Description Job Title: Lead Data\Cloud Engineer Location: Remote Experience: - 8 Years What is in it for you? We are...
+
+- [Senior Cloud Infrastructure Engineer](https://www.adzuna.com/details/5884140582?utm_medium=api&utm_source=632a28fd)
+  - Company: VDart Inc | US
+  - Title: Senior Cloud Infrastructure Engineer Location: Plano, TX (Remote) Type: Contract Preferred Experience: Solid unde...
+
+- [AWS Reverse Engineering Engineer / Cloud Discovery Engineer](https://www.adzuna.com/details/5884140577?utm_medium=api&utm_source=632a28fd)
+  - Company: VDart Inc | US
+  - Title- AWS Reverse Engineering Engineer / Cloud Discovery Engineer Location- Plano, TX (Remote) Type: Contract Role Summ...
+
+- [Remote Cloud Data Engineer (Must have experience with Pyspark) with Security Clearance](https://www.adzuna.com/land/ad/5883862647?se=PLMhiyOx8RGErbR4kG1BOA&utm_medium=api&utm_source=632a28fd&v=6C1156FA8B7B94F475008B96225353F4FAC6071D)
+  - Company: Advantech GS Enterprises, Inc. | Fort George G Meade, Anne Arundel County
+  - Data Cloud Engineer Location: Fort Meade, MD (remote) Company: Advantech GS Enterprises Program: DISA NEXUS Clearance Re...
+
+- [Cloud and Storage Engineer with Security Clearance](https://www.adzuna.com/land/ad/5880983264?se=PLMhiyOx8RGErbR4kG1BOA&utm_medium=api&utm_source=632a28fd&v=65FC7BD9BDA438CA2ED1C566C4F2223E189F57D0)
+  - Company: Contact Government Services, LLC | Smith Park, Chicago
+  - Cloud and Storage Engineer Chicago, IL / Remote / Hybrid / Detroit, MI Information Technology / Full Time Hybrid / Hybri...
+
+- [Cloud Engineer (AWS) with Security Clearance](https://www.adzuna.com/land/ad/5879717649?se=2GbRiyOx8RGGHeEZPxUmaw&utm_medium=api&utm_source=632a28fd&v=A5D94379A5DEFEFD27D9D30C68A7B89B559374FF)
+  - Company: Contact Government Services, LLC | East Point, Fulton County
+  - Cloud Engineer (AWS) Atlanta, GA / Remote / Hybrid / Charlotte, NC Information Technology / Full Time Hybrid / Hybrid ap...
+
+- [Senior Azure and Hybrid Infrastructure Engineer](https://www.adzuna.com/land/ad/5884817600?se=1Ir7jCOx8RGEx_5DqbUvug&utm_medium=api&utm_source=632a28fd&v=9D063DDF0E35E8324D9B9B5EF10C0BF62D589552)
+  - Company: Trigent Software, Inc. Account Number | US
+  - Title: Senior Azure and Hybrid Infrastructure Engineer Location: Remote Duration: 6 Months (Possible Extension) Must hav...
+
+- [Infrastructure Engineer - NGS (Next‑Generation Sequencing)](https://www.adzuna.com/land/ad/5884792656?se=1Ir7jCOx8RGEx_5DqbUvug&utm_medium=api&utm_source=632a28fd&v=EE82CED410D31CA1020CBEBEBEA6E229D25BEB93)
+  - Company: Labcorp | Durham, Durham County
+  - Labcorp is a global leader in laboratory services, providing the insights and answers that help healthcare providers, pa...
+
+- [Senior Desktop Infrastructure Engineer (Remote with 2 days onsite in a month)](https://www.adzuna.com/land/ad/5883928352?se=1Ir7jCOx8RGEx_5DqbUvug&utm_medium=api&utm_source=632a28fd&v=7024F2A62311AFCE11BB3457E07CC948CB8EBF12)
+  - Company: TrustMinds, Inc. | Schiller Park, Cook County
+  - Job Description: The ideal candidate will be onsite 2 days per month at old post office building in Chicago Illinois for...
