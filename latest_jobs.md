@@ -1,24 +1,16 @@
 # New jobs
 
-Generated: 2026-09-15 16:18 UTC
+Generated: 2026-09-16 16:10 UTC
 
-Total new jobs: 85
+Total new jobs: 78
 
 ## greenhouse
 
-- [Automation Engineer, Quality Engineering](https://careers.airbnb.com/positions/8154749?gh_jid=8154749)
-  - Company: airbnb
-  - Location: Remote
-
-- [Senior Web Automation Engineer, Quality Platform](https://careers.airbnb.com/positions/7863467?gh_jid=7863467)
-  - Company: airbnb
-  - Location: Remote
-
-- [Data Infrastructure Engineer, Pre-training](https://job-boards.greenhouse.io/anthropic/jobs/4973067008)
+- [DevOps / AgentOps Engineer, GTM Systems](https://job-boards.greenhouse.io/anthropic/jobs/5392856008)
   - Company: anthropic
   - Location: Remote
 
-- [DevOps / AgentOps Engineer, GTM Systems](https://job-boards.greenhouse.io/anthropic/jobs/5392856008)
+- [Infrastructure Engineer, Pre-training](https://job-boards.greenhouse.io/anthropic/jobs/4973067008)
   - Company: anthropic
   - Location: Remote
 
@@ -70,19 +62,19 @@ Total new jobs: 85
   - Company: elastic
   - Location: Remote
 
-- [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8155558&gh_jid=8155558)
-  - Company: elastic
-  - Location: Remote
-
 - [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8155560&gh_jid=8155560)
   - Company: elastic
   - Location: Remote
 
-- [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8155557&gh_jid=8155557)
+- [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8155558&gh_jid=8155558)
   - Company: elastic
   - Location: Remote
 
 - [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8070615&gh_jid=8070615)
+  - Company: elastic
+  - Location: Remote
+
+- [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8155557&gh_jid=8155557)
   - Company: elastic
   - Location: Remote
 
@@ -98,11 +90,11 @@ Total new jobs: 85
   - Company: fastly
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7814036003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7688580003)
   - Company: fivetran
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7688580003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7814036003)
   - Company: fivetran
   - Location: Remote
 
@@ -142,10 +134,6 @@ Total new jobs: 85
   - Company: mongodb
   - Location: Remote
 
-- [Senior Platform Engineer](https://www.mongodb.com/careers/job/?gh_jid=7924987)
-  - Company: mongodb
-  - Location: Remote
-
 - [Senior Site Reliability Engineer](https://www.mongodb.com/careers/job/?gh_jid=8051379)
   - Company: mongodb
   - Location: Remote
@@ -162,11 +150,11 @@ Total new jobs: 85
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727913)
+- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727910)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727910)
+- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727913)
   - Company: mongodb
   - Location: Remote
 
@@ -211,14 +199,6 @@ Total new jobs: 85
   - Location: Remote
 
 - [Senior Site Reliability Engineer - Security and Data Systems (Federal)](https://www.okta.com/company/careers/opportunity/7591606?gh_jid=7591606)
-  - Company: okta
-  - Location: Remote
-
-- [Senior TDI Site Reliability Engineer, Okta Federal](https://www.okta.com/company/careers/opportunity/8100444?gh_jid=8100444)
-  - Company: okta
-  - Location: Remote
-
-- [SRE Operations Engineer](https://www.okta.com/company/careers/opportunity/8003315?gh_jid=8003315)
   - Company: okta
   - Location: Remote
 
@@ -305,6 +285,11 @@ Total new jobs: 85
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
+- [Multigres Deployment Engineer](https://jobicy.com/jobs/153326-multigres-deployment-engineer)
+  - Company: Supabase
+  - Location: Anywhere
+  - Level/Team: DevOps & Infrastructure
+
 - [Infrastructure Engineer](https://jobicy.com/jobs/153315-infrastructure-engineer-2)
   - Company: Tailscale
   - Location: UK
@@ -317,16 +302,6 @@ Total new jobs: 85
 
 - [Lead Infrastructure Engineer III](https://jobicy.com/jobs/152411-lead-infrastructure-engineer-iii)
   - Company: Truckstop
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
-- [Lead Cloud Platform & Dev Ops Engineer](https://jobicy.com/jobs/149238-lead-cloud-platform-dev-ops-engineer)
-  - Company: University of Colorado
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
-- [Lead Cloud Platform & Dev Ops Engineer](https://jobicy.com/jobs/149240-lead-cloud-platform-dev-ops-engineer-2)
-  - Company: University of Colorado Anschutz Medical Campus
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
@@ -346,11 +321,6 @@ Total new jobs: 85
   - Company: metabase
   - Location: Global Remote
   - Level/Team: Engineering
-
-- [Data Engineer](https://jobs.lever.co/sonatype/7ec5eac6-2adb-4554-8634-5dbb21034e1b)
-  - Company: sonatype
-  - Location: Colombia - Remote
-  - Level/Team: Engineering - Application Platform
 
 - [Senior Solutions Delivery Engineer- DevOps](https://jobs.lever.co/sonatype/83cc47d4-e93e-4ce3-b440-185839cddaa1)
   - Company: sonatype
