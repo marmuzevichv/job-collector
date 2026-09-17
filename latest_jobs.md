@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-09-16 16:10 UTC
+Generated: 2026-09-17 16:16 UTC
 
-Total new jobs: 78
+Total new jobs: 82
 
 ## greenhouse
 
@@ -90,11 +90,11 @@ Total new jobs: 78
   - Company: fastly
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7688580003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7814036003)
   - Company: fivetran
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7814036003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7688580003)
   - Company: fivetran
   - Location: Remote
 
@@ -122,12 +122,12 @@ Total new jobs: 78
   - Company: jetbrains
   - Location: Remote
 
-- [Senior Test Automation Engineer (TeamCity)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4961618101)
+- [Release Engineer](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4966818101)
   - Company: jetbrains
   - Location: Remote
 
-- [Lead, Cloud Operations Engineering](https://www.mongodb.com/careers/job/?gh_jid=8060943)
-  - Company: mongodb
+- [Senior Test Automation Engineer (TeamCity)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4961618101)
+  - Company: jetbrains
   - Location: Remote
 
 - [Lead, Platform Engineering](https://www.mongodb.com/careers/job/?gh_jid=8071475)
@@ -146,6 +146,10 @@ Total new jobs: 78
   - Company: mongodb
   - Location: Remote
 
+- [Site Reliability Engineer (Mid-Level, Senior or Staff), Infrastructure Security](https://www.mongodb.com/careers/job/?gh_jid=7758610)
+  - Company: mongodb
+  - Location: Remote
+
 - [Site Reliability Engineer (Senior or Staff), Atlas](https://www.mongodb.com/careers/job/?gh_jid=7727964)
   - Company: mongodb
   - Location: Remote
@@ -155,10 +159,6 @@ Total new jobs: 78
   - Location: Remote
 
 - [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727913)
-  - Company: mongodb
-  - Location: Remote
-
-- [Site Reliability Engineer (Senior or Staff), Infrastructure Security](https://www.mongodb.com/careers/job/?gh_jid=7758610)
   - Company: mongodb
   - Location: Remote
 
@@ -240,8 +240,13 @@ Total new jobs: 78
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
-- [IT Administrator](https://jobicy.com/jobs/150748-it-administrator)
-  - Company: Kalshi
+- [Data Center Engineer (in Atlanta, GA)](https://jobicy.com/jobs/153458-data-center-engineer-in-atlanta-ga)
+  - Company: Five9
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Senior DevOps Engineer - Storage Platforms](https://jobicy.com/jobs/153466-senior-devops-engineer-storage-platforms)
+  - Company: Five9
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
@@ -265,8 +270,8 @@ Total new jobs: 78
   - Location: Anywhere
   - Level/Team: DevOps & Infrastructure
 
-- [Critical Facility Engineer](https://jobicy.com/jobs/150664-critical-facility-engineer)
-  - Company: Meta
+- [Infrastructure Developer, Platform Engineering](https://jobicy.com/jobs/153437-infrastructure-developer-platform-engineering)
+  - Company: MaintainX
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
@@ -285,7 +290,22 @@ Total new jobs: 78
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
+- [Atlassian Administrator 1726](https://jobicy.com/jobs/146254-atlassian-administrator-1726)
+  - Company: Softgic
+  - Location: Anywhere
+  - Level/Team: DevOps & Infrastructure
+
 - [Multigres Deployment Engineer](https://jobicy.com/jobs/153326-multigres-deployment-engineer)
+  - Company: Supabase
+  - Location: Anywhere
+  - Level/Team: DevOps & Infrastructure
+
+- [Postgres Deployment Engineer (Nix)](https://jobicy.com/jobs/153446-postgres-deployment-engineer-nix)
+  - Company: Supabase
+  - Location: Anywhere
+  - Level/Team: DevOps & Infrastructure
+
+- [Software Engineer: IaC Platform Experience](https://jobicy.com/jobs/153451-software-engineer-iac-platform-experience)
   - Company: Supabase
   - Location: Anywhere
   - Level/Team: DevOps & Infrastructure
