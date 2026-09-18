@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-09-17 16:16 UTC
+Generated: 2026-09-18 15:52 UTC
 
-Total new jobs: 82
+Total new jobs: 88
 
 ## greenhouse
 
@@ -78,7 +78,15 @@ Total new jobs: 82
   - Company: elastic
   - Location: Remote
 
+- [Senior Site Reliability Engineer (Observability & Analytics) – Platform Infra](https://jobs.elastic.co/jobs?gh_jid=8053903&gh_jid=8053903)
+  - Company: elastic
+  - Location: Remote
+
 - [Software Engineer II - Builder Experience - Platform Engineering Productivity](https://jobs.elastic.co/jobs?gh_jid=8154426&gh_jid=8154426)
+  - Company: elastic
+  - Location: Remote
+
+- [Sr. Salesforce DevOps Engineer](https://jobs.elastic.co/jobs?gh_jid=8207939&gh_jid=8207939)
   - Company: elastic
   - Location: Remote
 
@@ -186,6 +194,10 @@ Total new jobs: 82
   - Company: okta
   - Location: Remote
 
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8184824?gh_jid=8184824)
+  - Company: okta
+  - Location: Remote
+
 - [Senior Site Reliability Engineer (CI-CD/CTAP/Delivery team)](https://www.okta.com/company/careers/opportunity/8078730?gh_jid=8078730)
   - Company: okta
   - Location: Remote
@@ -199,6 +211,10 @@ Total new jobs: 82
   - Location: Remote
 
 - [Senior Site Reliability Engineer - Security and Data Systems (Federal)](https://www.okta.com/company/careers/opportunity/7591606?gh_jid=7591606)
+  - Company: okta
+  - Location: Remote
+
+- [Senior Software Reliability Engineer - Data Platform](https://www.okta.com/company/careers/opportunity/8082028?gh_jid=8082028)
   - Company: okta
   - Location: Remote
 
@@ -216,6 +232,10 @@ Total new jobs: 82
 
 - [Sr. Site Reliability Engineer, tvScientific](https://www.pinterestcareers.com/jobs/?gh_jid=7782550)
   - Company: pinterest
+  - Location: Remote
+
+- [AI Platform Engineer](https://job-boards.greenhouse.io/starburst/jobs/5416975008)
+  - Company: starburst
   - Location: Remote
 
 ## jobicy
@@ -273,6 +293,11 @@ Total new jobs: 82
 - [Infrastructure Developer, Platform Engineering](https://jobicy.com/jobs/153437-infrastructure-developer-platform-engineering)
   - Company: MaintainX
   - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Site Reliability Engineer](https://jobicy.com/jobs/153549-site-reliability-engineer-3)
+  - Company: MaintainX
+  - Location: Canada
   - Level/Team: DevOps & Infrastructure
 
 - [Senior Engineer (Software), Enterprise](https://jobicy.com/jobs/152949-senior-engineer-software-enterprise)

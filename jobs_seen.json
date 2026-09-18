@@ -490,5 +490,41 @@
     "title": "Senior Test Automation Engineer (TeamCity)",
     "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4961618101",
     "first_seen_utc": "2026-09-17 16:15:42"
+  },
+  "jobicy::153549": {
+    "company": "MaintainX",
+    "title": "Site Reliability Engineer",
+    "url": "https://jobicy.com/jobs/153549-site-reliability-engineer-3",
+    "first_seen_utc": "2026-09-18 15:51:13"
+  },
+  "greenhouse::8053903": {
+    "company": "elastic",
+    "title": "Senior Site Reliability Engineer (Observability & Analytics) – Platform Infra",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8053903&gh_jid=8053903",
+    "first_seen_utc": "2026-09-18 15:51:13"
+  },
+  "greenhouse::8207939": {
+    "company": "elastic",
+    "title": "Sr. Salesforce DevOps Engineer",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8207939&gh_jid=8207939",
+    "first_seen_utc": "2026-09-18 15:51:13"
+  },
+  "greenhouse::8184824": {
+    "company": "okta",
+    "title": "Senior Site Reliability Engineer",
+    "url": "https://www.okta.com/company/careers/opportunity/8184824?gh_jid=8184824",
+    "first_seen_utc": "2026-09-18 15:51:13"
+  },
+  "greenhouse::8082028": {
+    "company": "okta",
+    "title": "Senior Software Reliability Engineer - Data Platform",
+    "url": "https://www.okta.com/company/careers/opportunity/8082028?gh_jid=8082028",
+    "first_seen_utc": "2026-09-18 15:51:13"
+  },
+  "greenhouse::5416975008": {
+    "company": "starburst",
+    "title": "AI Platform Engineer",
+    "url": "https://job-boards.greenhouse.io/starburst/jobs/5416975008",
+    "first_seen_utc": "2026-09-18 15:51:13"
   }
 }
