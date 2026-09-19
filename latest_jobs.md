@@ -1,16 +1,12 @@
 # New jobs
 
-Generated: 2026-09-18 15:52 UTC
+Generated: 2026-09-19 15:23 UTC
 
-Total new jobs: 88
+Total new jobs: 78
 
 ## greenhouse
 
 - [DevOps / AgentOps Engineer, GTM Systems](https://job-boards.greenhouse.io/anthropic/jobs/5392856008)
-  - Company: anthropic
-  - Location: Remote
-
-- [Infrastructure Engineer, Pre-training](https://job-boards.greenhouse.io/anthropic/jobs/4973067008)
   - Company: anthropic
   - Location: Remote
 
@@ -19,6 +15,10 @@ Total new jobs: 88
   - Location: Remote
 
 - [Machine Learning Infrastructure Engineer, Safeguards Research](https://job-boards.greenhouse.io/anthropic/jobs/5364804008)
+  - Company: anthropic
+  - Location: Remote
+
+- [Pre-training Data Infrastructure Engineer](https://job-boards.greenhouse.io/anthropic/jobs/4973067008)
   - Company: anthropic
   - Location: Remote
 
@@ -62,27 +62,7 @@ Total new jobs: 88
   - Company: elastic
   - Location: Remote
 
-- [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8155560&gh_jid=8155560)
-  - Company: elastic
-  - Location: Remote
-
-- [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8155558&gh_jid=8155558)
-  - Company: elastic
-  - Location: Remote
-
-- [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8070615&gh_jid=8070615)
-  - Company: elastic
-  - Location: Remote
-
-- [Senior Site Reliability Engineer (Capacity) - Platform Infrastructure](https://jobs.elastic.co/jobs?gh_jid=8155557&gh_jid=8155557)
-  - Company: elastic
-  - Location: Remote
-
 - [Senior Site Reliability Engineer (Observability & Analytics) – Platform Infra](https://jobs.elastic.co/jobs?gh_jid=8053903&gh_jid=8053903)
-  - Company: elastic
-  - Location: Remote
-
-- [Software Engineer II - Builder Experience - Platform Engineering Productivity](https://jobs.elastic.co/jobs?gh_jid=8154426&gh_jid=8154426)
   - Company: elastic
   - Location: Remote
 
@@ -99,10 +79,6 @@ Total new jobs: 88
   - Location: Remote
 
 - [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7814036003)
-  - Company: fivetran
-  - Location: Remote
-
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7688580003)
   - Company: fivetran
   - Location: Remote
 
@@ -190,10 +166,6 @@ Total new jobs: 88
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/7963271?gh_jid=7963271)
-  - Company: okta
-  - Location: Remote
-
 - [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8184824?gh_jid=8184824)
   - Company: okta
   - Location: Remote
@@ -203,14 +175,6 @@ Total new jobs: 88
   - Location: Remote
 
 - [Senior Site Reliability Engineer (FedRAMP)](https://www.okta.com/company/careers/opportunity/7289458?gh_jid=7289458)
-  - Company: okta
-  - Location: Remote
-
-- [Senior Site Reliability Engineer -](https://www.okta.com/company/careers/opportunity/7610901?gh_jid=7610901)
-  - Company: okta
-  - Location: Remote
-
-- [Senior Site Reliability Engineer - Security and Data Systems (Federal)](https://www.okta.com/company/careers/opportunity/7591606?gh_jid=7591606)
   - Company: okta
   - Location: Remote
 
@@ -240,8 +204,8 @@ Total new jobs: 88
 
 ## jobicy
 
-- [Cloud Operations Engineer](https://jobicy.com/jobs/151694-cloud-operations-engineer-2)
-  - Company: Branch
+- [Infrastructure Engineer](https://jobicy.com/jobs/153599-infrastructure-engineer-3)
+  - Company: Bayesian Health
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
@@ -257,11 +221,6 @@ Total new jobs: 88
 
 - [Senior Infrastructure Engineer](https://jobicy.com/jobs/151592-senior-infrastructure-engineer)
   - Company: Fieldguide
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
-- [Data Center Engineer (in Atlanta, GA)](https://jobicy.com/jobs/153458-data-center-engineer-in-atlanta-ga)
-  - Company: Five9
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
