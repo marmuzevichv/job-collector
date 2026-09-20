@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-09-19 15:23 UTC
+Generated: 2026-09-20 15:28 UTC
 
-Total new jobs: 78
+Total new jobs: 77
 
 ## greenhouse
 
@@ -138,11 +138,11 @@ Total new jobs: 78
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727910)
+- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727913)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727913)
+- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727910)
   - Company: mongodb
   - Location: Remote
 
@@ -209,14 +209,14 @@ Total new jobs: 78
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
-- [Senior Site Reliability Engineer I](https://jobicy.com/jobs/152549-senior-site-reliability-engineer-i)
-  - Company: Braze
-  - Location: Canada
-  - Level/Team: DevOps & Infrastructure
-
 - [DevOps Engineer](https://jobicy.com/jobs/152990-devops-engineer-4)
   - Company: Cloudbeds
   - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Senior SRE - Networks](https://jobicy.com/jobs/153756-senior-sre-networks)
+  - Company: Fastly
+  - Location: UK
   - Level/Team: DevOps & Infrastructure
 
 - [Senior Infrastructure Engineer](https://jobicy.com/jobs/151592-senior-infrastructure-engineer)
@@ -267,11 +267,6 @@ Total new jobs: 78
 - [Senior DevOps Engineer](https://jobicy.com/jobs/152901-senior-devops-engineer-7)
   - Company: Nextiva
   - Location: Mexico
-  - Level/Team: DevOps & Infrastructure
-
-- [IT Automation Engineer - Business Technology (Central/Mountain Time - US)](https://jobicy.com/jobs/153100-it-automation-engineer-business-technology-central-mountain-time-us)
-  - Company: Rithum
-  - Location: USA
   - Level/Team: DevOps & Infrastructure
 
 - [Atlassian Administrator 1726](https://jobicy.com/jobs/146254-atlassian-administrator-1726)
