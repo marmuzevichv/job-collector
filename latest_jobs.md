@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-09-20 15:28 UTC
+Generated: 2026-09-21 17:54 UTC
 
-Total new jobs: 77
+Total new jobs: 78
 
 ## greenhouse
 
@@ -82,6 +82,10 @@ Total new jobs: 77
   - Company: fivetran
   - Location: Remote
 
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=8000571003)
+  - Company: fivetran
+  - Location: Remote
+
 - [Senior Platform Engineer, GitLab Orbit](https://job-boards.greenhouse.io/gitlab/jobs/8771527002)
   - Company: gitlab
   - Location: Remote
@@ -100,6 +104,10 @@ Total new jobs: 77
 
 - [Site Reliability Engineer, Infrastructure Platforms — UK (Intermediate to Senior Staff)](https://job-boards.greenhouse.io/gitlab/jobs/8773546002)
   - Company: gitlab
+  - Location: Remote
+
+- [Build Infrastructure Engineer (JetBrains IDEs)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4696977101)
+  - Company: jetbrains
   - Location: Remote
 
 - [QA Automation Engineer (IntelliJ IDEA Java Build Tools)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4777935101)
@@ -259,14 +267,14 @@ Total new jobs: 77
   - Location: Canada
   - Level/Team: DevOps & Infrastructure
 
-- [Senior Engineer (Software), Enterprise](https://jobicy.com/jobs/152949-senior-engineer-software-enterprise)
-  - Company: NetBox Labs
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
 - [Senior DevOps Engineer](https://jobicy.com/jobs/152901-senior-devops-engineer-7)
   - Company: Nextiva
   - Location: Mexico
+  - Level/Team: DevOps & Infrastructure
+
+- [DevOps Engineer](https://jobicy.com/jobs/153779-devops-engineer-6)
+  - Company: Oddball
+  - Location: USA
   - Level/Team: DevOps & Infrastructure
 
 - [Atlassian Administrator 1726](https://jobicy.com/jobs/146254-atlassian-administrator-1726)
@@ -275,11 +283,6 @@ Total new jobs: 77
   - Level/Team: DevOps & Infrastructure
 
 - [Multigres Deployment Engineer](https://jobicy.com/jobs/153326-multigres-deployment-engineer)
-  - Company: Supabase
-  - Location: Anywhere
-  - Level/Team: DevOps & Infrastructure
-
-- [Postgres Deployment Engineer (Nix)](https://jobicy.com/jobs/153446-postgres-deployment-engineer-nix)
   - Company: Supabase
   - Location: Anywhere
   - Level/Team: DevOps & Infrastructure
