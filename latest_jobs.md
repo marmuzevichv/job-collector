@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-09-21 17:54 UTC
+Generated: 2026-09-22 16:19 UTC
 
-Total new jobs: 78
+Total new jobs: 80
 
 ## greenhouse
 
@@ -206,6 +206,10 @@ Total new jobs: 78
   - Company: pinterest
   - Location: Remote
 
+- [Software Engineer - Cloud Infrastructure](https://www.rubrik.com/company/careers/departments/job.8209928?gh_jid=8209928)
+  - Company: rubrik
+  - Location: Remote
+
 - [AI Platform Engineer](https://job-boards.greenhouse.io/starburst/jobs/5416975008)
   - Company: starburst
   - Location: Remote
@@ -265,6 +269,11 @@ Total new jobs: 78
 - [Site Reliability Engineer](https://jobicy.com/jobs/153549-site-reliability-engineer-3)
   - Company: MaintainX
   - Location: Canada
+  - Level/Team: DevOps & Infrastructure
+
+- [Lead Site Reliability Engineer](https://jobicy.com/jobs/153852-lead-site-reliability-engineer)
+  - Company: Mattermost
+  - Location: USA
   - Level/Team: DevOps & Infrastructure
 
 - [Senior DevOps Engineer](https://jobicy.com/jobs/152901-senior-devops-engineer-7)

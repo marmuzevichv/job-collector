@@ -613,6 +613,21 @@
     "collected_at_utc": "2026-09-21 17:53:00"
   },
   {
+    "source_type": "jobicy",
+    "company": "Mattermost",
+    "title": "Lead Site Reliability Engineer",
+    "location": "USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/153852-lead-site-reliability-engineer",
+    "external_id": "jobicy::153852",
+    "description_snippet": "Mattermost is the leading collaborative workflow platform for defense, intelligence, security, and critical infrastructure. Trusted by the U.S. Department of War and Fortune 500s, our platform runs on-premises and in private clouds, delivering secure messaging, file sharing, workflow automation, aud",
+    "posted_at": "2026-09-22T08:18:57+00:00",
+    "collected_at_utc": "2026-09-22 16:18:05"
+  },
+  {
     "source_type": "lever",
     "company": "metabase",
     "title": "Senior SRE/DevOps Engineer",
@@ -929,6 +944,19 @@
     "description_snippet": "",
     "posted_at": "2026-09-16T14:51:43-04:00",
     "collected_at_utc": "2026-09-21 17:53:00"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "rubrik",
+    "title": "Software Engineer - Cloud Infrastructure",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://www.rubrik.com/company/careers/departments/job.8209928?gh_jid=8209928",
+    "external_id": "greenhouse::8209928",
+    "description_snippet": "",
+    "posted_at": "2026-09-21T16:21:24-04:00",
+    "collected_at_utc": "2026-09-22 16:18:05"
   },
   {
     "source_type": "jobicy",
