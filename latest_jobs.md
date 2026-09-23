@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-09-22 16:19 UTC
+Generated: 2026-09-23 16:09 UTC
 
-Total new jobs: 80
+Total new jobs: 83
 
 ## greenhouse
 
@@ -78,11 +78,11 @@ Total new jobs: 80
   - Company: fastly
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7814036003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=8000571003)
   - Company: fivetran
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=8000571003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7814036003)
   - Company: fivetran
   - Location: Remote
 
@@ -122,6 +122,10 @@ Total new jobs: 80
   - Company: jetbrains
   - Location: Remote
 
+- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=8184637)
+  - Company: mongodb
+  - Location: Remote
+
 - [Lead, Platform Engineering](https://www.mongodb.com/careers/job/?gh_jid=8071475)
   - Company: mongodb
   - Location: Remote
@@ -146,19 +150,19 @@ Total new jobs: 80
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727913)
-  - Company: mongodb
-  - Location: Remote
-
 - [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727910)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
+- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727913)
   - Company: mongodb
   - Location: Remote
 
 - [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7793634)
+  - Company: mongodb
+  - Location: Remote
+
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
   - Company: mongodb
   - Location: Remote
 
@@ -216,9 +220,34 @@ Total new jobs: 80
 
 ## jobicy
 
+- [Security and Infrastructure Engineer](https://jobicy.com/jobs/153866-security-and-infrastructure-engineer)
+  - Company: Ada
+  - Location: Canada
+  - Level/Team: Cybersecurity
+
 - [Infrastructure Engineer](https://jobicy.com/jobs/153599-infrastructure-engineer-3)
   - Company: Bayesian Health
   - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Senior Site Reliability / Gitops Engineer](https://jobicy.com/jobs/149544-senior-site-reliability-gitops-engineer)
+  - Company: Canonical
+  - Location: Anywhere
+  - Level/Team: DevOps & Infrastructure
+
+- [Senior Site Reliability Engineer](https://jobicy.com/jobs/149557-senior-site-reliability-engineer-5)
+  - Company: Canonical
+  - Location: Anywhere
+  - Level/Team: DevOps & Infrastructure
+
+- [Site Reliability / Gitops Engineer](https://jobicy.com/jobs/149553-site-reliability-gitops-engineer)
+  - Company: Canonical
+  - Location: Anywhere
+  - Level/Team: DevOps & Infrastructure
+
+- [Site Reliability Engineer](https://jobicy.com/jobs/149547-site-reliability-engineer)
+  - Company: Canonical
+  - Location: Anywhere
   - Level/Team: DevOps & Infrastructure
 
 - [DevOps Engineer](https://jobicy.com/jobs/152990-devops-engineer-4)
@@ -286,11 +315,6 @@ Total new jobs: 80
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
-- [Atlassian Administrator 1726](https://jobicy.com/jobs/146254-atlassian-administrator-1726)
-  - Company: Softgic
-  - Location: Anywhere
-  - Level/Team: DevOps & Infrastructure
-
 - [Multigres Deployment Engineer](https://jobicy.com/jobs/153326-multigres-deployment-engineer)
   - Company: Supabase
   - Location: Anywhere
@@ -321,11 +345,6 @@ Total new jobs: 80
   - Location: Argentina
   - Level/Team: DevOps & Infrastructure
 
-- [Senior Software Engineer (Cloud Infrastructure)](https://jobicy.com/jobs/152179-senior-software-engineer-cloud-infrastructure)
-  - Company: YipitData
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
 ## lever
 
 - [Senior SRE/DevOps Engineer](https://jobs.lever.co/metabase/1b702919-4d0b-4085-baec-8947f9b7e4ee)
@@ -352,8 +371,4 @@ Total new jobs: 80
 
 - [Senior Professional Services DevOps Engineer](https://weworkremotely.com/remote-jobs/jfrog-senior-professional-services-devops-engineer)
   - Company: JFrog
-  - Location: Remote
-
-- [Senior DevOps Engineer](https://weworkremotely.com/remote-jobs/lemon-io-senior-devops-engineer-3)
-  - Company: Lemon.io
   - Location: Remote
