@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-09-23 16:09 UTC
+Generated: 2026-09-24 16:32 UTC
 
-Total new jobs: 83
+Total new jobs: 82
 
 ## greenhouse
 
@@ -150,11 +150,11 @@ Total new jobs: 83
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727910)
+- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727913)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727913)
+- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727910)
   - Company: mongodb
   - Location: Remote
 
@@ -323,11 +323,6 @@ Total new jobs: 83
 - [Software Engineer: IaC Platform Experience](https://jobicy.com/jobs/153451-software-engineer-iac-platform-experience)
   - Company: Supabase
   - Location: Anywhere
-  - Level/Team: DevOps & Infrastructure
-
-- [Infrastructure Engineer](https://jobicy.com/jobs/153315-infrastructure-engineer-2)
-  - Company: Tailscale
-  - Location: UK
   - Level/Team: DevOps & Infrastructure
 
 - [Software Engineer, AI/ML Infrastructure](https://jobicy.com/jobs/152419-software-engineer-ai-ml-infrastructure)
