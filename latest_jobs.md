@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-09-24 16:32 UTC
+Generated: 2026-09-25 16:34 UTC
 
-Total new jobs: 82
+Total new jobs: 89
 
 ## greenhouse
 
@@ -62,7 +62,35 @@ Total new jobs: 82
   - Company: elastic
   - Location: Remote
 
+- [Senior Site Reliability Engineer (Hosted Infra)](https://jobs.elastic.co/jobs?gh_jid=8166580&gh_jid=8166580)
+  - Company: elastic
+  - Location: Remote
+
 - [Senior Site Reliability Engineer (Observability & Analytics) – Platform Infra](https://jobs.elastic.co/jobs?gh_jid=8053903&gh_jid=8053903)
+  - Company: elastic
+  - Location: Remote
+
+- [Senior Site Reliability Engineer - Platform Reliability (Resilience)](https://jobs.elastic.co/jobs?gh_jid=8232033&gh_jid=8232033)
+  - Company: elastic
+  - Location: Remote
+
+- [Senior Site Reliability Engineer - Platform Reliability (Resilience)](https://jobs.elastic.co/jobs?gh_jid=8232037&gh_jid=8232037)
+  - Company: elastic
+  - Location: Remote
+
+- [Senior Site Reliability Engineer - Platform Reliability (Resilience)](https://jobs.elastic.co/jobs?gh_jid=8232039&gh_jid=8232039)
+  - Company: elastic
+  - Location: Remote
+
+- [Senior Site Reliability Engineer - Platform Reliability (Resilience)](https://jobs.elastic.co/jobs?gh_jid=8232131&gh_jid=8232131)
+  - Company: elastic
+  - Location: Remote
+
+- [Senior Site Reliability Engineer - Platform Reliability (Resilience)](https://jobs.elastic.co/jobs?gh_jid=8232032&gh_jid=8232032)
+  - Company: elastic
+  - Location: Remote
+
+- [Senior Site Reliability Engineer - Platform Reliability (Resilience)](https://jobs.elastic.co/jobs?gh_jid=8176967&gh_jid=8176967)
   - Company: elastic
   - Location: Remote
 
@@ -78,11 +106,11 @@ Total new jobs: 82
   - Company: fastly
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=8000571003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7814036003)
   - Company: fivetran
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7814036003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=8000571003)
   - Company: fivetran
   - Location: Remote
 
@@ -194,14 +222,6 @@ Total new jobs: 82
   - Company: okta
   - Location: Remote
 
-- [Site Reliability Engineer I](https://job-boards.greenhouse.io/pagerduty/jobs/6162484004)
-  - Company: pagerduty
-  - Location: Remote
-
-- [Site Reliability Engineer II](https://job-boards.greenhouse.io/pagerduty/jobs/6162595004)
-  - Company: pagerduty
-  - Location: Remote
-
 - [Site Reliability Engineer II, tvScientific](https://www.pinterestcareers.com/jobs/?gh_jid=7782538)
   - Company: pinterest
   - Location: Remote
@@ -268,6 +288,11 @@ Total new jobs: 82
 - [Senior DevOps Engineer - Storage Platforms](https://jobicy.com/jobs/153466-senior-devops-engineer-storage-platforms)
   - Company: Five9
   - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Telecom Engineer](https://jobicy.com/jobs/151643-telecom-engineer-2)
+  - Company: Five9
+  - Location: UK
   - Level/Team: DevOps & Infrastructure
 
 - [AWS DevOps Engineer (Associate)](https://jobicy.com/jobs/152276-aws-devops-engineer-associate)
@@ -366,4 +391,8 @@ Total new jobs: 82
 
 - [Senior Professional Services DevOps Engineer](https://weworkremotely.com/remote-jobs/jfrog-senior-professional-services-devops-engineer)
   - Company: JFrog
+  - Location: Remote
+
+- [DevOps Engineer (Remote)](https://weworkremotely.com/remote-jobs/thehivecareers-co-devops-engineer-remote)
+  - Company: thehivecareers.co
   - Location: Remote
