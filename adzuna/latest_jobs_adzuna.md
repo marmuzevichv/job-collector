@@ -1,7 +1,7 @@
 # Jobs via Adzuna API
 
-Generated: 2026-09-25 16:53 UTC
-Total jobs (24h window): 544
+Generated: 2026-09-26 16:04 UTC
+Total jobs (24h window): 646
 
 - [Senior Cloud DevOps Engineer - Top SECRET - REMOTE 3 days/2 days ONSITE](https://www.adzuna.com/details/5898472345?utm_medium=api&utm_source=632a28fd)
   - Company: Visual Soft | Winchester, Virginia
@@ -2178,3 +2178,411 @@ Total jobs (24h window): 544
 - [Kubernetes Engineer](https://www.adzuna.com/details/5727641551?utm_medium=api&utm_source=632a28fd)
   - Company: Ascension Federal Services | Orlando, Orange County
   - Kubernetes Engineer (Remote) Location: Orlando, FL, 32801 Job Description: We are seeking a highly skilled Kubernetes En...
+
+- [DevOps Engineer (Remote)](https://www.adzuna.com/details/5899715492?utm_medium=api&utm_source=632a28fd)
+  - Company: Naviga | Harrisburg, Dauphin County
+  - The Opportunity We are seeking an experienced DevOps Engineer to spearhead the optimization of our software delivery pip...
+
+- [DevOps Release Engineer](https://www.adzuna.com/details/5899371069?utm_medium=api&utm_source=632a28fd)
+  - Company: GCR Professional Services | Eden Prairie, Hennepin County
+  - DevOps Release Engineer II Remote role supporting our client's 9:AM to 5:00 CST office. US Citizenship Background check ...
+
+- [Azure DevOps Engineer - Remote](https://www.adzuna.com/details/5899226878?utm_medium=api&utm_source=632a28fd)
+  - Company: SSN Group LLC | US
+  - Job Title: Azure DevOps Engineer Location: Remote Duration: LongtermSkills required: Azure DevOps Engineer with strong h...
+
+- [SRE  Azure DevOps Engineer](https://www.adzuna.com/details/5899009869?utm_medium=api&utm_source=632a28fd)
+  - Company: VDart Inc | US
+  - Role: SRE  Azure DevOps Engineer Location: Remote Type: Contract Description: Senior Developer, migrate application from...
+
+- [Virtual / Remote DevOps Engineer](https://www.adzuna.com/land/ad/5898759478?se=rgS31MO58RGGQ9u1mQKVdw&utm_medium=api&utm_source=632a28fd&v=EAA55C8FC0000FA294689EDF83B6563513798588)
+  - Company: Leidos | Bethesda, Montgomery County
+  - Leidos has an exciting opportunity for a DevOps Engineer in our Intel Security Sector's Analysis Solutions Business Area...
+
+- [REMOTE Job: DevOps Engineer - * Remote, with *1 day per week in office*](https://www.adzuna.com/land/ad/5898620869?se=rgS31MO58RGGQ9u1mQKVdw&utm_medium=api&utm_source=632a28fd&v=DD291F960BBFE0FCDC6FE664B58B23675F55537F)
+  - Company: SAR TECH LLC | US
+  - REMOTE Job: DevOps Engineer - * Remote, with *1 day per week in office* Location: * Remote, with *1 day per week in offi...
+
+- [Lead DevOps Engineer](https://www.adzuna.com/land/ad/5882325443?se=rgS31MO58RGGQ9u1mQKVdw&utm_medium=api&utm_source=632a28fd&v=80CF24CF63AFE2C1A9816E56267D9023A8964BD4)
+  - Company: Stefanini Group | Capitol, Richmond
+  - Details: Stefanini Group is hiring! Stefanini is looking for Lead DevOps Engineer-Remote For quick apply, please contact...
+
+- [Lead DevOps Engineer](https://www.adzuna.com/land/ad/5882229150?se=rgS31MO58RGGQ9u1mQKVdw&utm_medium=api&utm_source=632a28fd&v=AF99316DC5F9CCBE56228D0F151A156276DCE7AD)
+  - Company: Stefanini Group | Capitol, Richmond
+  - Job Description Stefanini Group is hiring! Stefanini is looking for Lead DevOps Engineer-Remote For quick apply, please ...
+
+- [DevOps Engineer III - REMOTE](https://www.adzuna.com/details/5828816609?utm_medium=api&utm_source=632a28fd)
+  - Company: Net Health | Pittsburgh, Allegheny County
+  - About Net Healthâ¯â¯ Belong. Thrive. Make a Difference.â¯â¯ Are you looking for a meaningful and satisfying career w...
+
+- [DevOps Engineer, Talent Pipeline (GitHub Migration Projects) (Remote - LATAM)](https://www.adzuna.com/details/5825207130?utm_medium=api&utm_source=632a28fd)
+  - Company: Atmosera | Latham, Albany County
+  - DevOps Engineer, Talent Pipeline (GitHub Migration Projects) (Remote - LATAM) Atmosera empowers businesses to redefine w...
+
+- [SAP Commerce Cloud DevOps Engineer (Remote)](https://www.adzuna.com/details/5820829567?utm_medium=api&utm_source=632a28fd)
+  - Company: Signet Jewelers | Irving, Dallas
+  - We have many opportunities available on our other career site pages. Click here to link to our careers page! Signet Jewe...
+
+- [Senior Software Engineer- DevOps (Remote Option)](https://www.adzuna.com/details/5819305841?utm_medium=api&utm_source=632a28fd)
+  - Company: Roberts Recruiting | Massachusetts, US
+  - Our engineering team is building solutions to dramatically change the way people purchase their daily goods. We provide ...
+
+- [Site Reliability Engineer (SRE) - FEDRAMP | NIGHTS | Remote](https://www.adzuna.com/details/5899770211?utm_medium=api&utm_source=632a28fd)
+  - Company: Cisco | US
+  - The application window is expected to close on: 10/11/2026 Note: The successful applicant will be performing work on US ...
+
+- [Site Reliability Engineer (SRE) - FEDRAMP | NIGHTS | Remote](https://www.adzuna.com/details/5899618240?utm_medium=api&utm_source=632a28fd)
+  - Company: Cisco | Herndon, Fairfax County
+  - The application window is expected to close on: 10/11/2026 Note: The successful applicant will be performing work on US ...
+
+- [Site Reliability Engineer (SRE) - FEDRAMP | NIGHTS | Remote](https://www.adzuna.com/land/ad/5899582104?se=MNPS1sO58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=2D08BA9D5B2358AD7819B740C13344D7F2B25F5F)
+  - Company: Cisco | Nashville, Davidson County
+  - The application window is expected to close on: 10/11/2026 Note: The successful applicant will be performing work on US ...
+
+- [Site Reliability Engineer (SRE) - FEDRAMP | NIGHTS | Remote](https://www.adzuna.com/details/5899581297?utm_medium=api&utm_source=632a28fd)
+  - Company: Cisco | Illinois Medical District, Chicago
+  - The application window is expected to close on: 10/11/2026 Note: The successful applicant will be performing work on US ...
+
+- [Site Reliability Engineer (SRE) - FEDRAMP | NIGHTS | Remote](https://www.adzuna.com/land/ad/5899580884?se=MNPS1sO58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=15F28F1A7BC03D2AF05F3C12F131498DFFF9B82C)
+  - Company: Cisco | Grand Chute, Outagamie County
+  - The application window is expected to close on: 10/11/2026 Note: The successful applicant will be performing work on US ...
+
+- [Site Reliability Engineer (SRE) - FEDRAMP | NIGHTS | Remote](https://www.adzuna.com/land/ad/5899578631?se=MNPS1sO58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=03FBED74C42239D926E32A0E2FBABBB7AC34E13B)
+  - Company: Cisco | Edgewood, Richland County
+  - The application window is expected to close on: 10/11/2026 Note: The successful applicant will be performing work on US ...
+
+- [Site Reliability Engineer (SRE) - FEDRAMP | NIGHTS | Remote](https://www.adzuna.com/land/ad/5899578240?se=MNPS1sO58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=8F92598A65B09E1F90FC07D5B207B4D21CFDE158)
+  - Company: Cisco | Charleston, Kanawha County
+  - The application window is expected to close on: 10/11/2026 Note: The successful applicant will be performing work on US ...
+
+- [Site Reliability Engineer (SRE) - FEDRAMP | NIGHTS | Remote](https://www.adzuna.com/land/ad/5899576125?se=MNPS1sO58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=5B9078B9F1B4B1B1953593C24A8773D379C91D3D)
+  - Company: Cisco | Oklahoma City, Oklahoma County
+  - The application window is expected to close on: 10/11/2026 Note: The successful applicant will be performing work on US ...
+
+- [Site Reliability Engineer (SRE) - FEDRAMP | NIGHTS | Remote](https://www.adzuna.com/land/ad/5899576003?se=MNPS1sO58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=3D2D927D920EB80D4BD13DC437D00308D7EEA4F7)
+  - Company: Cisco | Clayton, Saint Louis County
+  - The application window is expected to close on: 10/11/2026 Note: The successful applicant will be performing work on US ...
+
+- [Site Reliability Engineer (SRE) - FEDRAMP | NIGHTS | Remote](https://www.adzuna.com/land/ad/5899573634?se=MNPS1sO58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=3F2F4A289A49B791281BA35DD6A3E2ADA87F0F21)
+  - Company: Cisco | Minneapolis, Hennepin County
+  - The application window is expected to close on: 10/11/2026 Note: The successful applicant will be performing work on US ...
+
+- [Site Reliability Engineer (SRE) - FEDRAMP | NIGHTS | Remote](https://www.adzuna.com/land/ad/5899573258?se=MNPS1sO58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=A28B4D84ACD77F843674D9DA278AE4F104EDF313)
+  - Company: Cisco | Loch Alpine, Washtenaw County
+  - The application window is expected to close on: 10/11/2026 Note: The successful applicant will be performing work on US ...
+
+- [Site Reliability Engineer (SRE) - FEDRAMP | NIGHTS | Remote](https://www.adzuna.com/land/ad/5899572155?se=MNPS1sO58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=FE413825D75B00ED8BFA11B57848BE56735605FB)
+  - Company: Cisco | Savage, Anne Arundel County
+  - The application window is expected to close on: 10/11/2026 Note: The successful applicant will be performing work on US ...
+
+- [Site Reliability Engineer (SRE) - FEDRAMP | NIGHTS | Remote](https://www.adzuna.com/land/ad/5899570638?se=MNPS1sO58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=8C1C3DECCA0F6EC4173EB0B554EC5588E7FDAFF5)
+  - Company: Cisco | Atlanta, Fulton County
+  - The application window is expected to close on: 10/11/2026 Note: The successful applicant will be performing work on US ...
+
+- [Site Reliability Engineer (SRE) - FEDRAMP | NIGHTS | Remote](https://www.adzuna.com/details/5899569896?utm_medium=api&utm_source=632a28fd)
+  - Company: Cisco | West Miami, Miami-Dade County
+  - The application window is expected to close on: 10/11/2026 Note: The successful applicant will be performing work on US ...
+
+- [Site Reliability Engineer (SRE) - FEDRAMP | NIGHTS | Remote](https://www.adzuna.com/land/ad/5899568675?se=MNPS1sO58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=A676179CEA216BDB63A2C16B536634A87EEB9229)
+  - Company: Cisco | Jackson, Hinds County
+  - The application window is expected to close on: 10/11/2026 Note: The successful applicant will be performing work on US ...
+
+- [Site Reliability Engineer (SRE) - FEDRAMP | NIGHTS | Remote](https://www.adzuna.com/land/ad/5899568425?se=MNPS1sO58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=C5B34454F5BEEF2A2F82E6F88CAA451200FD3D6A)
+  - Company: Cisco | Topeka, Shawnee County
+  - The application window is expected to close on: 10/11/2026 Note: The successful applicant will be performing work on US ...
+
+- [Site Reliability Engineer (SRE) - FEDRAMP | NIGHTS | Remote](https://www.adzuna.com/land/ad/5899568366?se=MNPS1sO58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=F65672C94D7609C6863525E04B13D2929D4E0DDF)
+  - Company: Cisco | Frankfort, Franklin County
+  - The application window is expected to close on: 10/11/2026 Note: The successful applicant will be performing work on US ...
+
+- [Site Reliability Engineer (SRE) - FEDRAMP | NIGHTS | Remote](https://www.adzuna.com/land/ad/5899567108?se=MNPS1sO58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=14F413B845F7B9ABCC24D893028F8D3241EFFF86)
+  - Company: Cisco | Uptown, Marion County
+  - The application window is expected to close on: 10/11/2026 Note: The successful applicant will be performing work on US ...
+
+- [Site Reliability Engineer (SRE) - FEDRAMP | NIGHTS | Remote](https://www.adzuna.com/land/ad/5899564987?se=MNPS1sO58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=0688D4B6A84FEA28989EC4DA95D9534EFA3A12F9)
+  - Company: Cisco | Birmingham, Jefferson County
+  - The application window is expected to close on: 10/11/2026 Note: The successful applicant will be performing work on US ...
+
+- [Site Reliability Engineer (SRE) - FEDRAMP | NIGHTS | Remote](https://www.adzuna.com/land/ad/5899564807?se=MNPS1sO58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=6152894D7249BCB112B038C29DBC5C4E6D73A1F3)
+  - Company: Cisco | West Des Moines, Polk County
+  - The application window is expected to close on: 10/11/2026 Note: The successful applicant will be performing work on US ...
+
+- [Site Reliability Engineer (SRE) - FEDRAMP | NIGHTS | Remote](https://www.adzuna.com/land/ad/5899564466?se=MNPS1sO58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=0A11CBD0D08E59FD22727DE9AF2D7F0D6D6C9331)
+  - Company: Cisco | Cammack Village, Pulaski County
+  - The application window is expected to close on: 10/11/2026 Note: The successful applicant will be performing work on US ...
+
+- [Site Reliability Engineer (SRE) - FEDRAMP | NIGHTS | Remote](https://www.adzuna.com/details/5899555109?utm_medium=api&utm_source=632a28fd)
+  - Company: Cisco | William Penn Annex East, Philadelphia County
+  - The application window is expected to close on: 10/11/2026 Note: The successful applicant will be performing work on US ...
+
+- [Site Reliability Engineer (SRE) - FEDRAMP | NIGHTS | Remote](https://www.adzuna.com/land/ad/5899297838?se=MNPS1sO58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=E468A94688204C9813FD5B5B320A9F6E5AE99C8E)
+  - Company: Cisco | Montpelier, Washington County
+  - The application window is expected to close on: 10/11/2026 Note: The successful applicant will be performing work on US ...
+
+- [Site Reliability Engineer (SRE) - FEDRAMP | NIGHTS | Remote](https://www.adzuna.com/land/ad/5899259010?se=MNPS1sO58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=CB5020B5A5E7B711E8C2ADDD4C4EFDD6FAC95ACF)
+  - Company: Cisco | Pierre, Hughes County
+  - The application window is expected to close on: 10/11/2026 Note: The successful applicant will be performing work on US ...
+
+- [Site Reliability Engineer (SRE) - FEDRAMP | NIGHTS | Remote](https://www.adzuna.com/land/ad/5899256961?se=MNPS1sO58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=583D31013A154369D14DD75FE53B98FB829DF239)
+  - Company: Cisco | Wyoming, Kent County
+  - The application window is expected to close on: 10/11/2026 Note: The successful applicant will be performing work on US ...
+
+- [Site Reliability Engineer (SRE) - FEDRAMP | NIGHTS | Remote](https://www.adzuna.com/land/ad/5899053090?se=MNPS1sO58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=4E5E402117FD096505C086653B188E7B2B6FEDC2)
+  - Company: Cisco | Augusta, Kennebec County
+  - The application window is expected to close on: 10/11/2026 Note: The successful applicant will be performing work on US ...
+
+- [GCP Database Site Reliability/Support Engineer (SCE)](https://www.adzuna.com/details/5899009883?utm_medium=api&utm_source=632a28fd)
+  - Company: VDart Inc | US
+  - Job Title: GCP Database Site Reliability/Support Engineer (SCE) Location:Remote Contract Role Overview: We're looking fo...
+
+- [Google Cloud Platform Database Site Reliability/Support Engineer (SCE)](https://www.adzuna.com/land/ad/5898585505?se=MNPS1sO58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=6921D673167819B6062C875661DB97AF55561C4D)
+  - Company: SunRay Enterprise Inc | US
+  - W2 ONLY Position : Google Cloud Platform Database Site Reliability/Support Engineer (SCE) Location : REMOTE CONTRACT Job...
+
+- [Site Reliability Engineer](https://www.adzuna.com/land/ad/5898582357?se=MNPS1sO58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=13FB3AB116E7F871E8EBE5B5D687DE7A85D3C07C)
+  - Company: HonorVet Technologies | Hayes Valley, San Francisco
+  - HonorVet Technologies is a Service Disable Veteran-Owned IT staffing firm, ISO 9001 and ISO 27001 certified, working wit...
+
+- [Google Cloud Platform Site Reliability/Support Engineer (SCE)- W2](https://www.adzuna.com/land/ad/5898582314?se=MNPS1sO58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=E35E4310937F76108087F38008CADE6670BC6FB2)
+  - Company: Prudent Technologies and Consulting | US
+  - Job Title: Google Cloud Platform Site Reliability/Support Engineer (SCE) Location: REMOTE USA Job Type : Contract – W2 R...
+
+- [Google Cloud Platform Database Site Reliability/Support Engineer (SCE)](https://www.adzuna.com/land/ad/5898539164?se=MNPS1sO58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=8DD6499B213F8F3F86002170729824AE84F26E72)
+  - Company: HMG America | US
+  - HMG America LLC is the best Business Solutions focused Information Technology Company with IT consulting and services, s...
+
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5850174670?se=YvCq18O58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=B33DD72983AF8B92042DFE5EF8339120DFD6D385)
+  - Company: SitusAMC | La Cienga, Santa Fe County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849332349?se=YvCq18O58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=C06F2BC45224E03027A9C48625104A4EC5644059)
+  - Company: SitusAMC | Madison, Dane County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849329505?se=YvCq18O58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=4DD65DBB4BA807D566D239168F7970131934BBFB)
+  - Company: SitusAMC | Bonnie, Utah County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849309975?se=YvCq18O58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=01E59756F42FA1D545D409E8CC45AECDE5DFB40D)
+  - Company: SitusAMC | Charleston, Kanawha County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849253512?se=YvCq18O58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=B8E2C48EDDAB10CFA275924D684DDDA681926FC1)
+  - Company: SitusAMC | Cedar, Cole County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849252840?se=YvCq18O58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=051BBA259DDEE00513A6AD5D1E0096017BFBA30A)
+  - Company: SitusAMC | Trenton, Mercer County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849247564?se=YvCq18O58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=90FB957D0F8FD0812B3B2C3F41D3CC458E68D126)
+  - Company: SitusAMC | Frankfort, Franklin County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
+
+- [AI Data Platform Engineer](https://www.adzuna.com/details/5899702201?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Mc Neil, Travis County
+  - AI Data Platform Engineer – Remote Bright Vision Technologies is a technology consulting and software development compan...
+
+- [Lead AWS Cloud Platform Engineer - IaC / SRE - Preferred TriZetto Facets / Healthcare](https://www.adzuna.com/details/5899641213?utm_medium=api&utm_source=632a28fd)
+  - Company: System One | Reston, Fairfax County
+  - LEAD AWS CLOUD PLATFORM ENGINEER (IaC / SRE) Location: Remote (United States) | Preference for DMV & East Coast Candidat...
+
+- [Senior Foundational Platforms Engineer - IT- REMOTE](https://www.adzuna.com/details/5899507844?utm_medium=api&utm_source=632a28fd)
+  - Company: Military Spouse Corporate Career Network | US
+  - The Senior Foundational Platforms Engineer is a recognized technical expert responsible for leading large-scale infrastr...
+
+- [ServiceNow Platform Engineer - Remote](https://www.adzuna.com/details/5899218575?utm_medium=api&utm_source=632a28fd)
+  - Company: Genesis10 | Bexley, Franklin County
+  - Genesis10 is currently seeking a ServiceNow Platform Engineer for a contract to hire position with a Regional Financial ...
+
+- [AutoSys Platform Engineer](https://www.adzuna.com/details/5899205927?utm_medium=api&utm_source=632a28fd)
+  - Company: Pinnacle Technical Resources | California, US
+  - THIS JOB DESCRIPTION WAS CREATED BY AI, REVIEW BEFORE POSTING Position: AutoSys Platform Engineer Location: Irvine, Cali...
+
+- [ECC Migration Engineer](https://www.adzuna.com/details/5899015332?utm_medium=api&utm_source=632a28fd)
+  - Company: Openkyber | Atlanta, Fulton County
+  - Lead AWS Cloud Security Remediation Engineer (AWS Platform / CSPM Remediation): Location: Remote with onsite interview i...
+
+- [ECC Migration Engineer](https://www.adzuna.com/details/5899015331?utm_medium=api&utm_source=632a28fd)
+  - Company: Openkyber | Atlanta, Fulton County
+  - LEAD AWS CLOUD PLATFORM ENGINEER (IaC / SRE): Location: Remote (United States) | Preference for DMV & East Coast Candida...
+
+- [BigQuery Engineer](https://www.adzuna.com/details/5899015391?utm_medium=api&utm_source=632a28fd)
+  - Company: Openkyber | Atlanta, Fulton County
+  - Role: Senior Google Cloud Platform Data Engineer Location: Remote Experience: 8 years Our client is looking for an exper...
+
+- [Senior Databricks Platform Automation Engineer - Remote / Telecommute](https://www.adzuna.com/details/5899014483?utm_medium=api&utm_source=632a28fd)
+  - Company: CYNET SYSTEMS | Aliso Viejo, Orange County
+  - Pay Range: $55.00hr - $60.00hr Job Overview: Our client is seeking a Senior Databricks Platform Automation Engineer to d...
+
+- [Remote Senior Platform Engineer](https://www.adzuna.com/land/ad/5898877149?se=6N_P2MO58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=797D07E62B2829A1C7BFFACF8480001139A9B440)
+  - Company: Kforce Technology Staffing | Queens, New York City
+  - RESPONSIBILITIES: Kforce has a client in need of a Remote Senior Platform Engineer. Responsibilities: * Design, deploy, ...
+
+- [Platform Automation Engineer](https://www.adzuna.com/details/5898718668?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Eden Prairie, Hennepin County
+  - Platform Automation Engineer- Remote Bright Vision Technologies is a technology consulting and software development comp...
+
+- [Platform Reliability Engineer](https://www.adzuna.com/details/5898718667?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Maple Grove, Clallam County
+  - Platform Reliability Engineer – Remote Bright Vision Technologies is a technology consulting and software development co...
+
+- [Sr. Engineer - Platform Data Engineer (Remote)](https://www.adzuna.com/land/ad/5898709134?se=6N_P2MO58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=931D79EF3349E173E2D2E96CFFDFC28E778C84BF)
+  - Company: CrowdStrike | California, US
+  - As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organ...
+
+- [Engineer Sr I - Product Security (AI Platform Engineer) -remote](https://www.adzuna.com/land/ad/5898680124?se=6N_P2MO58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=CB2B9FD29D2FAA465F4E1915F68F3FC0D510D807)
+  - Company: Arthrex | US
+  - Arthrex, Inc. is a global medical device company and a leader in new product development and medical education. We are a...
+
+- [Power Platform & AI Engineer with Security Clearance](https://www.adzuna.com/land/ad/5898675958?se=6N_P2MO58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=2630084ABA194718097C315C9637771232CF0E47)
+  - Company: ClearBridge Technology Group | Tenderloin, San Francisco
+  - Our client, a technology solutions provider company located in San Francisco, needs a Power Platform & AI Engineer for a...
+
+- [Snowflake Platform Engineer](https://www.adzuna.com/land/ad/5898637198?se=6N_P2MO58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=1EB225F39CA436F475DA4336665DB09730D15799)
+  - Company: Kforce Technology Staffing | Greenwood Village, Arapahoe County
+  - RESPONSIBILITIES: Kforce has a client that is seeking a Snowflake Platform Engineer. This role is remote, but candidates...
+
+- [GenAI Platform Engineer AWS Bedrock & AgentCore Remote, USA for fulltime](https://www.adzuna.com/land/ad/5898582216?se=6N_P2MO58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=EC320804BE3BF53DBBDB332C501B61738137742B)
+  - Company: BURGEON IT SERVICES LLC | US
+  - GenAI Platform Engineer AWS Bedrock & AgentCore Location: Remote, USA Experience: 10 20 years Job Type: Full time Please...
+
+- [Software Engineer, Privacy Engineering](https://www.adzuna.com/details/5898018698?utm_medium=api&utm_source=632a28fd)
+  - Company: Block | US
+  - Block builds simple, powerful tools that make progress towards an economy that’s truly open to all. Each of our brands u...
+
+- [AWS Cloud Engineer](https://www.adzuna.com/details/5899773006?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Monroeville, Allegheny County
+  - AWS Cloud Engineer – Remote Bright Vision Technologies is a technology consulting and software development company deliv...
+
+- [Azure Cloud Engineer](https://www.adzuna.com/details/5899752744?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Monroeville, Allegheny County
+  - Azure Cloud Engineer – Remote Bright Vision Technologies is a technology consulting and software development company del...
+
+- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/land/ad/5899542448?se=-pXs2sO58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=C963068DBE28DA858BF4F6286EA05F9C902A3733)
+  - Company: CrowdStrike | Sunnyvale, Santa Clara County
+  - USA - Sunnyvale, CA USA - Remote Full time R30109 As a global leader in cybersecurity, CrowdStrike protects the people, ...
+
+- [Senior Cloud Engineer (Kubernetes / Helm / AWS)](https://www.adzuna.com/details/5899532264?utm_medium=api&utm_source=632a28fd)
+  - Company: ZipStaff | Austin, Travis County
+  - Job Title: Senior Cloud Engineer (Kubernetes / Helm / AWS) Location: Remote (U.S.; Austin, TX time zone preferred) Emplo...
+
+- [AWS Cloud Systems Engineer with Security Clearance](https://www.adzuna.com/land/ad/5899283890?se=-pXs2sO58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=4DE6AE9CAC55AD83669AC7DD6E0AD2D4C7C8368B)
+  - Company: Indotronix International Corp | Boston, Suffolk County
+  - AWS Cloud Systems Engineer - SECRET Clearance Location: Remote (DMV preferred); Hybrid onsite as needed (Hanscom AFB, MA...
+
+- [Cloud Engineer](https://www.adzuna.com/details/5899226167?utm_medium=api&utm_source=632a28fd)
+  - Company: ARCTICOM LLC | Anchorage, Alaska
+  - About Arcticom, LLC Arcticom LLC provides network and systems administration, enterprise architecture and resource plann...
+
+- [Cloud Engineer](https://www.adzuna.com/details/5899226145?utm_medium=api&utm_source=632a28fd)
+  - Company: The Computer Merchant, Ltd | US
+  - JOB TITLE: CLOUD ENGINEER JOB LOCATION: REMOTE WAGE RANGE*: 73.00-76.00 PER HOUR JOB NUMBER: SAIJP00039138 JOB DESCRIPTI...
+
+- [Oracle Cloud Infrastructure Engineer](https://www.adzuna.com/details/5899164873?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Beaverton, Washington County
+  - Oracle Cloud Infrastructure Engineer – Remote Bright Vision Technologies is a technology consulting and software develop...
+
+- [Oracle Integration Cloud (OIC) Engineer / Lead](https://www.adzuna.com/details/5899011907?utm_medium=api&utm_source=632a28fd)
+  - Company: The AES Group | Dayton, Montgomery County
+  - Title: Oracle Integration Cloud (OIC) Engineer / Lead Location: Remote (Dayton, OH) About The AES Group The AES Group is...
+
+- [Cloud Engineer](https://www.adzuna.com/details/5899011846?utm_medium=api&utm_source=632a28fd)
+  - Company: VeeRteq Solutions Inc. | Murphy, Collin County
+  - Role: Cloud Engineer Experience: - Min 5Years Location: - Remote USA As a Cloud Engineer you will be a part of an Agile ...
+
+- [Cloud Infrastructure Engineer](https://www.adzuna.com/details/5899010108?utm_medium=api&utm_source=632a28fd)
+  - Company: Stellent IT LLC | US
+  - Cloud Infrastructure Engineer Location : Remote Position Type: Contract Visa: USC and GC Interview: Video Duration: Long...
+
+- [Remote Multi-Cloud Engineer](https://www.adzuna.com/land/ad/5898978156?se=-pXs2sO58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=FD6F78DA824F1ACAEF8F6D49018582AE7F9BA732)
+  - Company: Apex Systems | Montgomery Village, Montgomery County
+  - Job: 3047934 Job Description: Remote Multi-Cloud Engineer Location: Remote with potential for quarterly travel to Gaithe...
+
+- [W2-Certified Cloud Engineer(Remote)(12years)](https://www.adzuna.com/land/ad/5898910008?se=-pXs2sO58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=06EC3F581009EF500CD8870B069AE3B19F96CCF5)
+  - Company: Prohires | US
+  - Certified Cloud Engineer Remote Certified Cloud Engineer will be responsible for the development, implementation, config...
+
+- [Oracle Integration Cloud (OIC) Engineer / Lead](https://www.adzuna.com/land/ad/5898621959?se=-pXs2sO58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=71ECFE6376AA7A4D0EDC792800EE52CFD3857B2E)
+  - Company: ChaTeck Incorporated | US
+  - Title: Oracle Integration Cloud (OIC) Engineer / Lead Location: Remote (Dayton, OH) About The AES Group The AES Group is...
+
+- [Cyber Security Engineering](https://www.adzuna.com/land/ad/5898585485?se=-pXs2sO58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=2CCD9D981F784BC2AB8DA8F2538B78A625A21EB8)
+  - Company: Tech Rakers | US
+  - Senior Data Protection Engineer (Cloud) Remote W2 Position Long Term 1 hour zoom video interviews w/ Dan and other team ...
+
+- [Senior Cloud AWS Engineer](https://www.adzuna.com/land/ad/5898585503?se=-pXs2sO58RGFjaMjh9sVhA&utm_medium=api&utm_source=632a28fd&v=AEB7D3AE28953F13CFDB5531986202B7035CCDF7)
+  - Company: Arnex Solutions LLC | US
+  - Senior Cloud AWS Engineer Remote (Ideally near a fed locations - Boston, MA New York, NY, Philadelphia, PA Cleveland, OH...
+
+- [Azure Infrastructure Engineer](https://www.adzuna.com/details/5899715645?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Beaverton, Washington County
+  - Azure Infrastructure Engineer – Remote Bright Vision Technologies is a technology consulting and software development co...
+
+- [Infrastructure Engineer, TechOps CICD Image Management (Remote)](https://www.adzuna.com/details/5899641078?utm_medium=api&utm_source=632a28fd)
+  - Company: CrowdStrike | US
+  - As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organ...
+
+- [Sr. Infrastructure Engineer, TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5899542564?se=bqXG3MO58RG3jpCv9xpWmA&utm_medium=api&utm_source=632a28fd&v=2CC8FACE1EBC89C9D2CBFB98DA1EAD29773EBD52)
+  - Company: CrowdStrike | US
+  - USA - Remote, CA Full time R30075 As a global leader in cybersecurity, CrowdStrike protects the people, processes and te...
+
+- [Infrastructure Reliability Engineer](https://www.adzuna.com/details/5899531063?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Jollyville, Williamson County
+  - Infrastructure Reliability Engineer – Remote Bright Vision Technologies is a technology consulting and software developm...
+
+- [Senior Infrastructure Automation Engineer](https://www.adzuna.com/details/5899317687?utm_medium=api&utm_source=632a28fd)
+  - Company: System One | Washington, Washington, D.C.
+  - Senior Infrastructure Automation Engineer Remote 12 month contract Federal End Customer – US Citizenship required Must b...
+
+- [Infrastructure Senior Engineer](https://www.adzuna.com/land/ad/5899266625?se=bqXG3MO58RG3jpCv9xpWmA&utm_medium=api&utm_source=632a28fd&v=565FBD8342BEF0629FDB3D3B74F61E5CCC7FD649)
+  - Company: System One | Milford, Sussex County
+  - Job Title: Infrastructure Senior Engineer Work Model: Remote - Responsibilities  Lead department initiatives including b...
+
+- [Windows Infrastructure Automation Engineer || Remote role || W2 role](https://www.adzuna.com/details/5899014319?utm_medium=api&utm_source=632a28fd)
+  - Company: DMS Vision Inc | Alaska, US
+  - Hi, Hope you are doing well  I have an urgent position. Kindly go through the Job description and let me know if this wo...
+
+- [Senior Infrastructure Automation Engineer](https://www.adzuna.com/land/ad/5898910134?se=bqXG3MO58RG3jpCv9xpWmA&utm_medium=api&utm_source=632a28fd&v=F94C8EDEB8759A4D10DBFAB04A7C75310B4692B8)
+  - Company: System One | US
+  - Senior Infrastructure Automation Engineer Remote 12 month contract Federal End Customer – US Citizenship required Must b...
+
+- [Infrastructure Engineer – Automation](https://www.adzuna.com/details/5898890596?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
+
+- [ML Infrastructure Engineer](https://www.adzuna.com/details/5898718664?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Eden Prairie, Hennepin County
+  - ML Infrastructure Engineer - Remote Bright Vision Technologies is a technology consulting and software development compa...
+
+- [Windows Infrastructure Automation Engineer || Remote role || W2 role](https://www.adzuna.com/land/ad/5898655232?se=bqXG3MO58RG3jpCv9xpWmA&utm_medium=api&utm_source=632a28fd&v=37D8A6DDE0D0F7D3AAAEE06B61EF045B69A4F1B3)
+  - Company: DMS Vision Inc. | US
+  - Hi, Hope you are doing well  I have an urgent position. Kindly go through the Job description and let me know if this wo...
+
+- [AI Infrastructure Engineer](https://www.adzuna.com/details/5898033212?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Monroeville, Allegheny County
+  - AI Infrastructure Engineer – Remote Bright Vision Technologies is a technology consulting and software development compa...
+
+- [DevSecOps Engineer with Security Clearance](https://www.adzuna.com/land/ad/5899287290?se=2N-73sO58RGGcpzgq69x0w&utm_medium=api&utm_source=632a28fd&v=98B67BBED3AC47E019F80F66F232E9152B4C3E7B)
+  - Company: ClearBridge Technology Group | Germania, Atlantic County
+  - Our client, a leading Government Systems Integrator, is in need of 3 DevSecOps Engineers for initial 12 month contract o...
+
+- [Senior DevSecOps Engineer with Security Clearance](https://www.adzuna.com/land/ad/5899280049?se=2N-73sO58RGGcpzgq69x0w&utm_medium=api&utm_source=632a28fd&v=D3208F8C14A59A1225375622490AF810BD073CF9)
+  - Company: ClearBridge Technology Group | Germania, Atlantic County
+  - Our client, a leading Government Systems Integrator, is in need of 3 Senior DevSecOps Engineers for initial 12 month con...
+
+- [Senior DevSecOps Engineer (Remote)](https://www.adzuna.com/details/5899210020?utm_medium=api&utm_source=632a28fd)
+  - Company: Integrated Data Services | US
+  - Company Overview: Integrated Data Services (IDS) is a leading provider of custom software products and Government financ...
+
+- [DevSecOps Lead  Remote](https://www.adzuna.com/details/5899016622?utm_medium=api&utm_source=632a28fd)
+  - Company: Corevia Staffing | Alaska, US
+  - DevSecOps Lead 100% Remote $65 pr hr on W2  $3 Referral fee W2 Candidates only Minimum Experience: 10 Years Must have re...
+
+- [Application Security Engineer](https://www.adzuna.com/land/ad/5898655185?se=2N-73sO58RGGcpzgq69x0w&utm_medium=api&utm_source=632a28fd&v=2252984B77FFBECAF21007FCBB974F1E61A84A22)
+  - Company: Innova Solutions, Inc | US
+  - A client of Innova Solutions is immediately hiring for an Application Security Engineer Position type: Full-Time Contrac...
+
+- [Sr. Software Engineer](https://www.adzuna.com/details/5899296872?utm_medium=api&utm_source=632a28fd)
+  - Company: SUSE RGS | Reston, Fairfax County
+  - Senior Software Engineer (Go & Kubernetes Expertise) Location: Remote COMPANY DESCRIPTION Rancher Government Solutions (...
