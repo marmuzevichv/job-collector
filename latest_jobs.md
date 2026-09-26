@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-09-25 16:34 UTC
+Generated: 2026-09-26 15:49 UTC
 
-Total new jobs: 89
+Total new jobs: 90
 
 ## greenhouse
 
@@ -272,6 +272,11 @@ Total new jobs: 89
 
 - [DevOps Engineer](https://jobicy.com/jobs/152990-devops-engineer-4)
   - Company: Cloudbeds
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Developer Advocate - Service Management](https://jobicy.com/jobs/151723-developer-advocate-service-management)
+  - Company: Datadog
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 

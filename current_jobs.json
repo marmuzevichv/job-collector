@@ -274,6 +274,21 @@
     "collected_at_utc": "2026-09-25 16:34:06"
   },
   {
+    "source_type": "jobicy",
+    "company": "Datadog",
+    "title": "Developer Advocate - Service Management",
+    "location": "USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/151723-developer-advocate-service-management",
+    "external_id": "jobicy::151723",
+    "description_snippet": "We are a team of engineers that translate our real-world experience to help our user communities solve problems. With a focus on service management, helping teams respond to incidents, run on-call, and automate their operations, you will work with practitioners and leaders across the industry and br",
+    "posted_at": "2026-09-26T11:00:37+00:00",
+    "collected_at_utc": "2026-09-26 15:48:51"
+  },
+  {
     "source_type": "greenhouse",
     "company": "elastic",
     "title": "Platform Engineer - Kubernetes",
