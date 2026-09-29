@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-09-28 19:16 UTC
+Generated: 2026-09-29 17:40 UTC
 
-Total new jobs: 89
+Total new jobs: 91
 
 ## greenhouse
 
@@ -59,6 +59,10 @@ Total new jobs: 89
   - Location: Remote
 
 - [Platform Engineer - Kubernetes](https://jobs.elastic.co/jobs?gh_jid=8047349&gh_jid=8047349)
+  - Company: elastic
+  - Location: Remote
+
+- [Platform Engineer - Kubernetes](https://jobs.elastic.co/jobs?gh_jid=8237463&gh_jid=8237463)
   - Company: elastic
   - Location: Remote
 
@@ -135,6 +139,10 @@ Total new jobs: 89
   - Location: Remote
 
 - [Build Infrastructure Engineer (JetBrains IDEs)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4696977101)
+  - Company: jetbrains
+  - Location: Remote
+
+- [QA Automation Engineer (IJ Platform / Core team)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4867022101)
   - Company: jetbrains
   - Location: Remote
 

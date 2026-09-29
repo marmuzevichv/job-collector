@@ -319,6 +319,19 @@
   {
     "source_type": "greenhouse",
     "company": "elastic",
+    "title": "Platform Engineer - Kubernetes",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8237463&gh_jid=8237463",
+    "external_id": "greenhouse::8237463",
+    "description_snippet": "",
+    "posted_at": "2026-09-29T04:39:57-04:00",
+    "collected_at_utc": "2026-09-29 17:39:22"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "elastic",
     "title": "Senior Site Reliability Engineer (Hosted Infra)",
     "location": "",
     "team": "",
@@ -607,6 +620,19 @@
     "description_snippet": "",
     "posted_at": "2026-09-21T09:19:20-04:00",
     "collected_at_utc": "2026-09-28 19:15:20"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "jetbrains",
+    "title": "QA Automation Engineer (IJ Platform / Core team)",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4867022101",
+    "external_id": "greenhouse::4867022101",
+    "description_snippet": "",
+    "posted_at": "2026-09-29T12:04:06-04:00",
+    "collected_at_utc": "2026-09-29 17:39:22"
   },
   {
     "source_type": "greenhouse",
