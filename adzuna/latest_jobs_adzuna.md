@@ -1,7 +1,7 @@
 # Jobs via Adzuna API
 
-Generated: 2026-09-28 19:26 UTC
-Total jobs (24h window): 532
+Generated: 2026-09-29 17:53 UTC
+Total jobs (24h window): 579
 
 - [Devops Engineer __ Remote](https://www.adzuna.com/land/ad/5901892686?se=DuwhcnK78RGS97j_zW5Twg&utm_medium=api&utm_source=632a28fd&v=933C36E706D7AA96A0C5B6C8CFADA41CAE253822)
   - Company: Momento USA LLC | US
@@ -2130,3 +2130,191 @@ Total jobs (24h window): 532
 - [Kubernetes Engineer](https://www.adzuna.com/details/5727641551?utm_medium=api&utm_source=632a28fd)
   - Company: Ascension Federal Services | Orlando, Orange County
   - Kubernetes Engineer (Remote) Location: Orlando, FL, 32801 Job Description: We are seeking a highly skilled Kubernetes En...
+
+- [Network DevOps Engineer](https://www.adzuna.com/details/5902304347?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Elk Grove, Sacramento County
+  - Network DevOps Engineer – Remote Bright Vision Technologies is a technology consulting and software development company ...
+
+- [Devops Engineer __ Remote](https://www.adzuna.com/details/5902260819?utm_medium=api&utm_source=632a28fd)
+  - Company: Momento USA | New Jersey, US
+  - Momento USA is a global technology consulting, talent acquisition, and creative development firm that addresses clients'...
+
+- [Junior Level Java Spring/DevOps Developer /AI engineer/Data Scientist- Remote](https://www.adzuna.com/land/ad/5902232808?se=zC-InS688RGU3oJRZ7zEmQ&utm_medium=api&utm_source=632a28fd&v=968FDAB1B6FBADA017E63D45B62DC976B19F5D31)
+  - Company: SynergisticIT | Federal Heights, Adams County
+  - Your Capstone Is Not a Production Portfolio Class Projects Do Not Survive a Hiring Screen You finished a stats, CS, econ...
+
+- [DevOps Release Engineer](https://www.adzuna.com/land/ad/5902231870?se=zC-InS688RGU3oJRZ7zEmQ&utm_medium=api&utm_source=632a28fd&v=87FA9D538CC2C3160A4D14F42F863FF1C7906BB1)
+  - Company: GCR Professional Services | Eden Prairie, Hennepin County
+  - DevOps Release Engineer II Remote role supporting our client's 9:AM to 5:00 CST office. US Citizenship Background check ...
+
+- [Azure DevOps Engineer - Remote](https://www.adzuna.com/land/ad/5902230862?se=zC-InS688RGU3oJRZ7zEmQ&utm_medium=api&utm_source=632a28fd&v=0271FE9DF9845E845E2DE8A4554078E3EFB99C82)
+  - Company: SSN Group LLC | US
+  - Job Title: Azure DevOps Engineer Location: Remote Duration: LongtermSkills required: Azure DevOps Engineer with strong h...
+
+- [Lead DevOps Engineer](https://www.adzuna.com/land/ad/5902199647?se=zC-InS688RGU3oJRZ7zEmQ&utm_medium=api&utm_source=632a28fd&v=54FC415A8E31A8489E28349AF6CFF61025FDFCBE)
+  - Company: Stefanini | Richmond, Richmond County
+  - Stefanini Group is hiring! Stefanini is looking for Lead DevOps Engineer-Remote For quick apply, please contact Vaibhav ...
+
+- [Senior DevOps Engineer](https://www.adzuna.com/land/ad/5893364835?se=zC-InS688RGU3oJRZ7zEmQ&utm_medium=api&utm_source=632a28fd&v=0DCE64DBD61E93001C522D71BB812050C3ACB913)
+  - Company: Cloud Destinations LLC | US
+  - Position: DevOps Engineer Duration: 6 months (extension) Location: Remote Cloud Infra Support - DevOps Persona Job Descr...
+
+- [Site Reliability Engineer - Snowflake Cortex  AWS Bedrock @ Remote](https://www.adzuna.com/land/ad/5902910723?se=pGisny688RGU3oJRZ7zEmQ&utm_medium=api&utm_source=632a28fd&v=988A4D66094578E1801204F1AD41110306194499)
+  - Company: Momento USA LLC | US
+  - Momento USA is a global technology consulting, talent acquisition, and creative development firm that addresses clients'...
+
+- [Site Reliability Engineer FedRAMP Vulnerability Management](https://www.adzuna.com/land/ad/5901991154?se=pGisny688RGU3oJRZ7zEmQ&utm_medium=api&utm_source=632a28fd&v=A22FEB9155DB85701F838705716EFF030A8ED4EC)
+  - Company: Stanley David and Associates | US
+  - Job Title: Site Reliability Engineer FedRAMP Vulnerability Management Location: Remote Employment Type: Full-time Job De...
+
+- [Google Cloud Platform Database Site Reliability/Support Engineer (SCE)](https://www.adzuna.com/land/ad/5901757455?se=pGisny688RGU3oJRZ7zEmQ&utm_medium=api&utm_source=632a28fd&v=86025EE0CBC441B769CBD2788977FA6768A4516E)
+  - Company: VDart, Inc. | US
+  - Job Title: Google Cloud Platform Database Site Reliability/Support Engineer (SCE) Location:Remote Contract Role Overview...
+
+- [OpenShift Platform Engineer](https://www.adzuna.com/details/5902970282?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Edison, Middlesex County
+  - OpenShift Platform Engineer - Remote Bright Vision Technologies is a technology consulting and software development comp...
+
+- [Autosys Platform Engineer/Administrator](https://www.adzuna.com/land/ad/5902907110?se=QCHdoS688RGFWqSdFQrnew&utm_medium=api&utm_source=632a28fd&v=8C3D31139B1A5E81BF75B5F525A00AF58E07B5DE)
+  - Company: INGENworks | US
+  - Job Title: Senior AutoSys Platform Engineer / Administrator Experience: 10 Years Location: Remote / Irvine, CA Duration:...
+
+- [Senior Developer](https://www.adzuna.com/land/ad/5902329384?se=QCHdoS688RGFWqSdFQrnew&utm_medium=api&utm_source=632a28fd&v=4B2E68B3122AA1A0D325956A7AC5E98C928F35BC)
+  - Company: Catapult Solutions Group | US
+  - Senior Software Engineer – Mobile & Web Contract (1-Year, Option to Convert) | Remote – CST Hours Nearshore (Mexico) Abo...
+
+- [AI Platform Engineer | Canada (Remote- PST hours)](https://www.adzuna.com/land/ad/5902285598?se=QCHdoS688RGFWqSdFQrnew&utm_medium=api&utm_source=632a28fd&v=E8D8E5C00D4FBFF044726E23A5FB50F75DAD9DD8)
+  - Company: Momento USA LLC | US
+  - Momento USA is a global technology consulting, talent acquisition and creative development firm that addresses clients m...
+
+- [Senior Network Engineer (AI/Google Cloud Platform)](https://www.adzuna.com/land/ad/5902277335?se=QCHdoS688RGFWqSdFQrnew&utm_medium=api&utm_source=632a28fd&v=1F6C56899F3ABC251C91AE816D62C479104DE8A2)
+  - Company: Innominds Software | US
+  - Role: Senior Network Engineer (AI/Google Cloud Platform) Location: Remote Duration: 6 Months Key responsibilities Identi...
+
+- [Hadoop Platform Engineer](https://www.adzuna.com/land/ad/5902269928?se=QCHdoS688RGFWqSdFQrnew&utm_medium=api&utm_source=632a28fd&v=91D3187AB31D2053365349FA8A0924A8578E6514)
+  - Company: Dahl Consulting | US
+  - Title : Hadoop Platform Engineer Location : Remote Job Type : Contract (6 months) Compensation : $82.00 - $120.00 per ho...
+
+- [Data Platform Engineer](https://www.adzuna.com/details/5902260495?utm_medium=api&utm_source=632a28fd)
+  - Company: Inherent Technologies | US
+  - Position: Data Platform Engineer Location: REMOTE Duration: 1 Year Mandatory Skills Microsoft SQL Server, SQL Server on ...
+
+- [ServiceNow Platform Engineer - Remote](https://www.adzuna.com/land/ad/5902221341?se=QCHdoS688RGFWqSdFQrnew&utm_medium=api&utm_source=632a28fd&v=470EA22BFBF4E15668B27D79D3AF124536F46326)
+  - Company: Genesis10 | Bexley, Franklin County
+  - Genesis10 is currently seeking a ServiceNow Platform Engineer for a contract to hire position with a Regional Financial ...
+
+- [AutoSys Platform Engineer](https://www.adzuna.com/land/ad/5902200962?se=QCHdoS688RGFWqSdFQrnew&utm_medium=api&utm_source=632a28fd&v=CF12F13D885C17E12696F9568C3694E70D9A2D48)
+  - Company: Pinnacle Technical Resources | California, US
+  - THIS JOB DESCRIPTION WAS CREATED BY AI, REVIEW BEFORE POSTING Position: AutoSys Platform Engineer Location: Irvine, Cali...
+
+- [Sr. Engineer - Platform Data Engineer (Remote)](https://www.adzuna.com/land/ad/5898709134?se=QCHdoS688RGFWqSdFQrnew&utm_medium=api&utm_source=632a28fd&v=931D79EF3349E173E2D2E96CFFDFC28E778C84BF)
+  - Company: CrowdStrike | California, US
+  - As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organ...
+
+- [Data Platform Engineer](https://www.adzuna.com/details/5891795829?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Powell, Delaware County
+  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
+
+- [Senior Cloud AWS Engineer](https://www.adzuna.com/land/ad/5902906868?se=fgMkpC688RGU3oJRZ7zEmQ&utm_medium=api&utm_source=632a28fd&v=EB4F46C8A7F02AECB06A5BB6D31064DAE87768B3)
+  - Company: Arnex Solutions LLC | US
+  - Senior Cloud AWS Engineer Remote (Ideally near a fed locations - Boston, MA New York, NY, Philadelphia, PA Cleveland, OH...
+
+- [Cloud Engineer (AWS) with Security Clearance](https://www.adzuna.com/land/ad/5902788461?se=fgMkpC688RGU3oJRZ7zEmQ&utm_medium=api&utm_source=632a28fd&v=DB243C347C916DF8BCD6C84BCAA5C78B331CA93E)
+  - Company: Contact Government Services, LLC | Hapeville, Fulton County
+  - Cloud Engineer (AWS) Atlanta, GA / Remote / Hybrid / Charlotte, NC Information Technology / Full Time Hybrid / Hybrid ap...
+
+- [Cloud Migration Engineer - Local to DMV Areas](https://www.adzuna.com/details/5902319013?utm_medium=api&utm_source=632a28fd)
+  - Company: Nexiva Inc | US
+  - Title: Application Cloud Migration Engineer Location: Remote DMV (DC/MD/VA) Duration: 3 months (through end of 2026; pos...
+
+- [Oracle Cloud Integration Engineer](https://www.adzuna.com/details/5902304364?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Plymouth, Hennepin County
+  - Oracle Cloud Integration Engineer - Remote Bright Vision Technologies is a technology consulting and software developmen...
+
+- [Cloud Infrastructure Network Engineer](https://www.adzuna.com/details/5902304228?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Elk Grove, Sacramento County
+  - Cloud Infrastructure Network Engineer – Remote Bright Vision Technologies is a technology consulting and software develo...
+
+- [Azure DevOps Lead](https://www.adzuna.com/details/5902300523?utm_medium=api&utm_source=632a28fd)
+  - Company: Openkyber | Atlanta, Fulton County
+  - Job Title: Senior Cloud Engineer Location: REMOTE Type: Contract Compensation: $73 - 80/hour W2 Work Model: Remote offsi...
+
+- [Azure Cloud Infrastructure Engineer- remote](https://www.adzuna.com/land/ad/5902288730?se=fgMkpC688RGU3oJRZ7zEmQ&utm_medium=api&utm_source=632a28fd&v=F048B13416E3B73A1B97816D693747C711562E26)
+  - Company: Calance | US
+  - Azure Cloud Infrastructure Engineer Position Summary We are seeking an Azure Cloud Infrastructure Engineer to support an...
+
+- [Cloud GRC Engineer = Remote=Must Have Clearance](https://www.adzuna.com/details/5902264431?utm_medium=api&utm_source=632a28fd)
+  - Company: Nastech Global | North Carolina, US
+  - Job Title: Cloud GRC Engineer Location: Remote Clearance Required: US Citizen with active Public Trust or Top Secret cle...
+
+- [Cloud Engineer](https://www.adzuna.com/land/ad/5902230173?se=fgMkpC688RGU3oJRZ7zEmQ&utm_medium=api&utm_source=632a28fd&v=4B38B4065493A0CCE24F50D41156C21C5D539EE3)
+  - Company: The Computer Merchant, Ltd | US
+  - JOB TITLE: CLOUD ENGINEER JOB LOCATION: REMOTE WAGE RANGE*: 73.00-76.00 PER HOUR JOB NUMBER: SAIJP00039138 JOB DESCRIPTI...
+
+- [Cloud Engineer](https://www.adzuna.com/land/ad/5902230080?se=fgMkpC688RGU3oJRZ7zEmQ&utm_medium=api&utm_source=632a28fd&v=E4B267200ABF943624C3273ED6C0F303E82090BB)
+  - Company: ARCTICOM LLC | Anchorage, Alaska
+  - About Arcticom, LLC Arcticom LLC provides network and systems administration, enterprise architecture and resource plann...
+
+- [AWS Cloud Engineer](https://www.adzuna.com/details/5899773006?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Monroeville, Allegheny County
+  - AWS Cloud Engineer – Remote Bright Vision Technologies is a technology consulting and software development company deliv...
+
+- [Cloud Engineer (AWS) with Security Clearance](https://www.adzuna.com/land/ad/5899693913?se=fgMkpC688RGU3oJRZ7zEmQ&utm_medium=api&utm_source=632a28fd&v=011866602867DC1A014AB24D290C155BA73BACED)
+  - Company: Contact Government Services, LLC | Echo Park, Los Angeles County
+  - Cloud Engineer (AWS) Los Angeles, CA / Remote / Hybrid / San Francisco, CA Information Technology / Full Time Hybrid / H...
+
+- [Cloud Performance Engineer (Remote)](https://www.adzuna.com/land/ad/5898784201?se=fgMkpC688RGU3oJRZ7zEmQ&utm_medium=api&utm_source=632a28fd&v=DCB23D6B73903B712E8589062070FC0E82FCA9BB)
+  - Company: JCS Solutions LLC | Maryland, Anne Arundel County
+  - JCS Solutions LLC is seeking a Cloud Engineer III to support the Defense Enclave Services (DES) Operations & Maintenance...
+
+- [Cloud Infrastructure Engineer – AWS](https://www.adzuna.com/details/5896954518?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Hilliard, Franklin County
+  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
+
+- [Machine Learning Engineer- Cloud Deployment (Remote)](https://www.adzuna.com/land/ad/5895726938?se=MM4ZpS688RGU3oJRZ7zEmQ&utm_medium=api&utm_source=632a28fd&v=9AFAF4A73E96FC55F6E13418989E1A6EF929AFBA)
+  - Company: Agero | Tennessee, Drew County
+  - Agero’s mission is to rethink the vehicle ownership experience through a powerful combination of passionate people and d...
+
+- [Infrastructure Engineer - Remote](https://www.adzuna.com/details/5902875394?utm_medium=api&utm_source=632a28fd)
+  - Company: US Anesthesia Partners | Buckingham, Dallas
+  - The Infrastructure Engineer is responsible for the administration, support, engineering, and continuous improvement of e...
+
+- [Cyber Security Infrastructure Engineer - CRIBL & SIEM - Fully REMOTE](https://www.adzuna.com/land/ad/5902330911?se=QiRCpi688RGFWqSdFQrnew&utm_medium=api&utm_source=632a28fd&v=CF7EEC9EB5DA4A143A638EB6AE404966615DD775)
+  - Company: RICEFW Technologies Inc | Pineridge, Lexington County
+  - Interview Process: 1-2 Rounds of Virtual Interviews with Camera On. Duration of the Contract: 12 Months Possibility for ...
+
+- [Azure Infrastructure Engineer](https://www.adzuna.com/land/ad/5902323597?se=QiRCpi688RGFWqSdFQrnew&utm_medium=api&utm_source=632a28fd&v=48FB1D352C68F9897251D2F1F89F4C12127ED317)
+  - Company: Logiciel Solutions Inc | US
+  - Role : Azure Infrastructure Engineer Location : Phoenix, AZ / Rockville, MD / Remote Duration : 12 Months Job Descriptio...
+
+- [AI Infrastructure Engineer](https://www.adzuna.com/details/5902262581?utm_medium=api&utm_source=632a28fd)
+  - Company: Creative G C | Hillcrest Heights, Prince George's County
+  - Job Details: Role: AI Infrastructure Engineer Location: Remote Duration: 12 Months Contract Job Summary: Defense Counter...
+
+- [Cyber Security Infrastructure Engineer - CRIBL & SIEM - Fully REMOTE](https://www.adzuna.com/details/5902262234?utm_medium=api&utm_source=632a28fd)
+  - Company: RICEFW Technologies Inc | Dutch Fork, Richland County
+  - Interview Process: 1-2 Rounds of Virtual Interviews with Camera On. Duration of the Contract: 12 Months Possibility for ...
+
+- [Senior DevSecOps Engineer (Remote)](https://www.adzuna.com/land/ad/5902630332?se=bhlHqC688RGnaMK3Ib81hg&utm_medium=api&utm_source=632a28fd&v=CBC77B00B1143BCFA1A1CBC7D602DF031896AF90)
+  - Company: Integrated Data Services | US
+  - Company Overview: Integrated Data Services (IDS) is a leading provider of custom software products and Government financ...
+
+- [Machine Learning Engineer (SRE Focus)](https://www.adzuna.com/land/ad/5902324615?se=2M0mqi688RG5QYXapx_3iw&utm_medium=api&utm_source=632a28fd&v=40CDD03405791ABE6F9AABB2BB62A87E964B43E3)
+  - Company: Aziro Technologies LLC | US
+  - Job Title: Machine Learning Engineer (SRE Focus) Location: Remote Job Summary: We are seeking a skilled Machine Learning...
+
+- [Machine Learning Engineer](https://www.adzuna.com/land/ad/5902277386?se=2M0mqi688RG5QYXapx_3iw&utm_medium=api&utm_source=632a28fd&v=B82F061BD0630C3B6972FFB22A346CD3F382F3B6)
+  - Company: Aziro Technologies LLC | US
+  - Job Title: Machine Learning Engineer (SRE Focus) Location: Remote Job Summary: We are seeking a skilled Machine Learning...
+
+- [DevOps Engineer III](https://www.adzuna.com/land/ad/5902232250?se=2M0mqi688RG5QYXapx_3iw&utm_medium=api&utm_source=632a28fd&v=61F8A3426C527C47068F3CABD867F8122DB1AF8D)
+  - Company: Pinnacle Technical Resources | Queen Anne, King County
+  - Job Title: Devops/ SRE Engineer (AI/ML) Location: Seattle, WA (Remote) Duration: 12 months Job Id: 171076 Job Descriptio...
+
+- [Monitoring/SRE Engineer (REMOTE) with Security Clearance](https://www.adzuna.com/land/ad/5847872782?se=loDdqi688RGcn96iDKHEww&utm_medium=api&utm_source=632a28fd&v=854FBCB020AE6B916E5B8F7027C552BAC094A065)
+  - Company: Koniag Government Services | Washington, D.C., US
+  - This position may be filled prior to the posted deadline. Interested candidates are encouraged to apply as soon as possi...
+
+- [Sr. Security Engineer (Kubernetes)](https://www.adzuna.com/land/ad/5901967520?se=LCBmqy688RG5QYXapx_3iw&utm_medium=api&utm_source=632a28fd&v=665345A229F0B02ECABAC28F7C9EAA6CEF7836F0)
+  - Company: Mindsource Inc | US
+  - Title: Sr. Security Engineer (Kubernetes) Location: 100% Remote Duration: Long term Type: Contract - W2 Experience : Min...
