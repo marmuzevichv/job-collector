@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-10-01 18:03 UTC
+Generated: 2026-10-02 17:29 UTC
 
-Total new jobs: 73
+Total new jobs: 77
 
 ## greenhouse
 
@@ -256,6 +256,16 @@ Total new jobs: 73
 
 ## jobicy
 
+- [Site Reliability Engineer (SRE), Data Products](https://jobicy.com/jobs/154368-site-reliability-engineer-sre-data-products)
+  - Company: CentralReach
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Sr. Site Reliability Engineer](https://jobicy.com/jobs/154372-sr-site-reliability-engineer)
+  - Company: CentralReach
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
 - [Developer Advocate - Service Management](https://jobicy.com/jobs/151723-developer-advocate-service-management)
   - Company: Datadog
   - Location: USA
@@ -271,9 +281,19 @@ Total new jobs: 73
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
+- [AWS DevOps Engineer (Freelancer)](https://jobicy.com/jobs/152278-aws-devops-engineer-freelancer)
+  - Company: Mactores
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
 - [Software Engineer, Platform Engineering](https://jobicy.com/jobs/154333-software-engineer-platform-engineering)
   - Company: Mural
   - Location: Argentina
+  - Level/Team: DevOps & Infrastructure
+
+- [Sr. Software Engineer, Cloud Platform](https://jobicy.com/jobs/154394-sr-software-engineer-cloud-platform)
+  - Company: Samsara
+  - Location: UK
   - Level/Team: DevOps & Infrastructure
 
 - [Senior Software Engineer, Platform](https://jobicy.com/jobs/154204-senior-software-engineer-platform)
