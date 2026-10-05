@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-10-04 16:28 UTC
+Generated: 2026-10-05 20:13 UTC
 
-Total new jobs: 68
+Total new jobs: 79
 
 ## greenhouse
 
@@ -58,11 +58,11 @@ Total new jobs: 68
   - Company: cloudflare
   - Location: Remote
 
-- [Platform Engineer - Kubernetes](https://jobs.elastic.co/jobs?gh_jid=8047349&gh_jid=8047349)
+- [Platform Engineer - Kubernetes](https://jobs.elastic.co/jobs?gh_jid=8237463&gh_jid=8237463)
   - Company: elastic
   - Location: Remote
 
-- [Platform Engineer - Kubernetes](https://jobs.elastic.co/jobs?gh_jid=8237463&gh_jid=8237463)
+- [Platform Engineer - Kubernetes](https://jobs.elastic.co/jobs?gh_jid=8047349&gh_jid=8047349)
   - Company: elastic
   - Location: Remote
 
@@ -74,11 +74,15 @@ Total new jobs: 68
   - Company: elastic
   - Location: Remote
 
-- [Senior Site Reliability Engineer - Platform Reliability (Resilience)](https://jobs.elastic.co/jobs?gh_jid=8232032&gh_jid=8232032)
+- [Senior Site Reliability Engineer - Platform Reliability (Resilience)](https://jobs.elastic.co/jobs?gh_jid=8232033&gh_jid=8232033)
   - Company: elastic
   - Location: Remote
 
-- [Senior Site Reliability Engineer - Platform Reliability (Resilience)](https://jobs.elastic.co/jobs?gh_jid=8232033&gh_jid=8232033)
+- [Senior Site Reliability Engineer - Platform Reliability (Resilience)](https://jobs.elastic.co/jobs?gh_jid=8176967&gh_jid=8176967)
+  - Company: elastic
+  - Location: Remote
+
+- [Senior Site Reliability Engineer - Platform Reliability (Resilience)](https://jobs.elastic.co/jobs?gh_jid=8232032&gh_jid=8232032)
   - Company: elastic
   - Location: Remote
 
@@ -94,10 +98,6 @@ Total new jobs: 68
   - Company: elastic
   - Location: Remote
 
-- [Senior Site Reliability Engineer - Platform Reliability (Resilience)](https://jobs.elastic.co/jobs?gh_jid=8176967&gh_jid=8176967)
-  - Company: elastic
-  - Location: Remote
-
 - [Sr. Salesforce DevOps Engineer](https://jobs.elastic.co/jobs?gh_jid=8207939&gh_jid=8207939)
   - Company: elastic
   - Location: Remote
@@ -110,11 +110,11 @@ Total new jobs: 68
   - Company: fastly
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=8000571003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7814036003)
   - Company: fivetran
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7814036003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=8000571003)
   - Company: fivetran
   - Location: Remote
 
@@ -186,19 +186,19 @@ Total new jobs: 68
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727910)
-  - Company: mongodb
-  - Location: Remote
-
 - [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727913)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
+- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727910)
   - Company: mongodb
   - Location: Remote
 
 - [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7793634)
+  - Company: mongodb
+  - Location: Remote
+
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
   - Company: mongodb
   - Location: Remote
 
@@ -253,6 +253,63 @@ Total new jobs: 68
 - [AI Platform Engineer](https://job-boards.greenhouse.io/starburst/jobs/5416975008)
   - Company: starburst
   - Location: Remote
+
+## jobicy
+
+- [Senior Site Reliability Engineer I](https://jobicy.com/jobs/152549-senior-site-reliability-engineer-i)
+  - Company: Braze
+  - Location: Canada
+  - Level/Team: DevOps & Infrastructure
+
+- [Platform Engineer](https://jobicy.com/jobs/154501-platform-engineer-2)
+  - Company: Catawiki
+  - Location: Anywhere
+  - Level/Team: DevOps & Infrastructure
+
+- [Site Reliability Engineer (SRE), Data Products](https://jobicy.com/jobs/154368-site-reliability-engineer-sre-data-products)
+  - Company: CentralReach
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Sr. Site Reliability Engineer](https://jobicy.com/jobs/154372-sr-site-reliability-engineer)
+  - Company: CentralReach
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Senior ML Operations (MLOps) Engineer](https://jobicy.com/jobs/154500-senior-ml-operations-mlops-engineer)
+  - Company: Eight Sleep
+  - Location: Anywhere
+  - Level/Team: DevOps & Infrastructure
+
+- [AWS DevOps Engineer (Freelancer)](https://jobicy.com/jobs/152278-aws-devops-engineer-freelancer)
+  - Company: Mactores
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Software Engineer, Platform Engineering](https://jobicy.com/jobs/154333-software-engineer-platform-engineering)
+  - Company: Mural
+  - Location: Argentina
+  - Level/Team: DevOps & Infrastructure
+
+- [Software Engineer II - Database Engineering](https://jobicy.com/jobs/154462-software-engineer-ii-database-engineering)
+  - Company: Salesloft
+  - Location: Mexico
+  - Level/Team: DevOps & Infrastructure
+
+- [Sr. Software Engineer, Cloud Platform](https://jobicy.com/jobs/154394-sr-software-engineer-cloud-platform)
+  - Company: Samsara
+  - Location: UK
+  - Level/Team: DevOps & Infrastructure
+
+- [Senior Software Engineer, Platform](https://jobicy.com/jobs/154204-senior-software-engineer-platform)
+  - Company: SeatGeek
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Senior QA Automation Engineer (Platform)](https://jobicy.com/jobs/152407-senior-qa-automation-engineer-platform)
+  - Company: Upgrade
+  - Location: USA
+  - Level/Team: QA & Testing
 
 ## lever
 
