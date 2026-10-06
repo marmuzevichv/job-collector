@@ -472,5 +472,35 @@
     "title": "Senior Test Automation Engineer (TeamCity)",
     "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4961618101",
     "first_seen_utc": "2026-10-05 20:13:38"
+  },
+  "jobicy::154637": {
+    "company": "Kong Inc.",
+    "title": "Site Reliability Engineer 2",
+    "url": "https://jobicy.com/jobs/154637-site-reliability-engineer-2-3",
+    "first_seen_utc": "2026-10-06 17:56:59"
+  },
+  "greenhouse::8255904": {
+    "company": "okta",
+    "title": "Senior Site Reliability Engineer (K8s, Terraform, Python)",
+    "url": "https://www.okta.com/company/careers/opportunity/8255904?gh_jid=8255904",
+    "first_seen_utc": "2026-10-06 17:56:59"
+  },
+  "greenhouse::8243101": {
+    "company": "okta",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.okta.com/company/careers/opportunity/8243101?gh_jid=8243101",
+    "first_seen_utc": "2026-10-06 17:56:59"
+  },
+  "greenhouse::8867725002": {
+    "company": "gitlab",
+    "title": "Senior Backend Engineer (Ruby), Production Engineering:Tenant Controls",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8867725002",
+    "first_seen_utc": "2026-10-06 17:56:59"
+  },
+  "greenhouse::4795218101": {
+    "company": "jetbrains",
+    "title": "QA Automation Engineer (IJ Platform / JetBrains Runtime)",
+    "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4795218101",
+    "first_seen_utc": "2026-10-06 17:56:59"
   }
 }

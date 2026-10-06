@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-10-05 20:13 UTC
+Generated: 2026-10-06 17:57 UTC
 
-Total new jobs: 79
+Total new jobs: 84
 
 ## greenhouse
 
@@ -118,6 +118,10 @@ Total new jobs: 79
   - Company: fivetran
   - Location: Remote
 
+- [Senior Backend Engineer (Ruby), Production Engineering:Tenant Controls](https://job-boards.greenhouse.io/gitlab/jobs/8867725002)
+  - Company: gitlab
+  - Location: Remote
+
 - [Senior Platform Engineer, GitLab Orbit](https://job-boards.greenhouse.io/gitlab/jobs/8771527002)
   - Company: gitlab
   - Location: Remote
@@ -143,6 +147,10 @@ Total new jobs: 79
   - Location: Remote
 
 - [QA Automation Engineer (IJ Platform / Core team)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4867022101)
+  - Company: jetbrains
+  - Location: Remote
+
+- [QA Automation Engineer (IJ Platform / JetBrains Runtime)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4795218101)
   - Company: jetbrains
   - Location: Remote
 
@@ -234,7 +242,15 @@ Total new jobs: 79
   - Company: okta
   - Location: Remote
 
+- [Senior Site Reliability Engineer (K8s, Terraform, Python)](https://www.okta.com/company/careers/opportunity/8255904?gh_jid=8255904)
+  - Company: okta
+  - Location: Remote
+
 - [Senior Software Reliability Engineer - Data Platform](https://www.okta.com/company/careers/opportunity/8082028?gh_jid=8082028)
+  - Company: okta
+  - Location: Remote
+
+- [Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8243101?gh_jid=8243101)
   - Company: okta
   - Location: Remote
 
@@ -279,6 +295,11 @@ Total new jobs: 79
 - [Senior ML Operations (MLOps) Engineer](https://jobicy.com/jobs/154500-senior-ml-operations-mlops-engineer)
   - Company: Eight Sleep
   - Location: Anywhere
+  - Level/Team: DevOps & Infrastructure
+
+- [Site Reliability Engineer 2](https://jobicy.com/jobs/154637-site-reliability-engineer-2-3)
+  - Company: Kong Inc.
+  - Location: USA
   - Level/Team: DevOps & Infrastructure
 
 - [AWS DevOps Engineer (Freelancer)](https://jobicy.com/jobs/152278-aws-devops-engineer-freelancer)

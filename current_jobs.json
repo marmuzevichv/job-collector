@@ -441,6 +441,19 @@
   {
     "source_type": "greenhouse",
     "company": "gitlab",
+    "title": "Senior Backend Engineer (Ruby), Production Engineering:Tenant Controls",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8867725002",
+    "external_id": "greenhouse::8867725002",
+    "description_snippet": "",
+    "posted_at": "2026-10-06T04:22:35-04:00",
+    "collected_at_utc": "2026-10-06 17:56:59"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "gitlab",
     "title": "Senior Platform Engineer, GitLab Orbit",
     "location": "",
     "team": "",
@@ -532,6 +545,19 @@
   {
     "source_type": "greenhouse",
     "company": "jetbrains",
+    "title": "QA Automation Engineer (IJ Platform / JetBrains Runtime)",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4795218101",
+    "external_id": "greenhouse::4795218101",
+    "description_snippet": "",
+    "posted_at": "2026-10-06T06:39:20-04:00",
+    "collected_at_utc": "2026-10-06 17:56:59"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "jetbrains",
     "title": "QA Automation Engineer (IntelliJ IDEA Java Build Tools)",
     "location": "",
     "team": "",
@@ -580,6 +606,21 @@
     "description_snippet": "Headquarters: Remote, Canada ** Open to remote within the East Coast only** At JFrog, we’re reinventing DevOps to help the world’s greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great peop",
     "posted_at": "Tue, 08 Sep 2026 07:31:09 +0000",
     "collected_at_utc": "2026-10-05 20:13:38"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Kong Inc.",
+    "title": "Site Reliability Engineer 2",
+    "location": "USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/154637-site-reliability-engineer-2-3",
+    "external_id": "jobicy::154637",
+    "description_snippet": "Are you ready to unlock intelligence? If you don’t think you meet all of the criteria below but are still interested in the job, please apply. Nobody checks every box - we’re looking for candidates that are particularly strong in a few areas, and have some interest and capabilities in others. Are yo",
+    "posted_at": "2026-10-05T18:52:34+00:00",
+    "collected_at_utc": "2026-10-06 17:56:59"
   },
   {
     "source_type": "remoteok",
@@ -908,6 +949,19 @@
   {
     "source_type": "greenhouse",
     "company": "okta",
+    "title": "Senior Site Reliability Engineer (K8s, Terraform, Python)",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://www.okta.com/company/careers/opportunity/8255904?gh_jid=8255904",
+    "external_id": "greenhouse::8255904",
+    "description_snippet": "",
+    "posted_at": "2026-10-06T06:10:06-04:00",
+    "collected_at_utc": "2026-10-06 17:56:59"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "okta",
     "title": "Senior Software Reliability Engineer - Data Platform",
     "location": "",
     "team": "",
@@ -917,6 +971,19 @@
     "description_snippet": "",
     "posted_at": "2026-09-21T12:43:00-04:00",
     "collected_at_utc": "2026-10-05 20:13:38"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "okta",
+    "title": "Site Reliability Engineer",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://www.okta.com/company/careers/opportunity/8243101?gh_jid=8243101",
+    "external_id": "greenhouse::8243101",
+    "description_snippet": "",
+    "posted_at": "2026-10-06T03:04:07-04:00",
+    "collected_at_utc": "2026-10-06 17:56:59"
   },
   {
     "source_type": "greenhouse",
