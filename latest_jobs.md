@@ -1,12 +1,16 @@
 # New jobs
 
-Generated: 2026-10-06 17:57 UTC
+Generated: 2026-10-07 18:27 UTC
 
-Total new jobs: 84
+Total new jobs: 85
 
 ## greenhouse
 
 - [DevOps / AgentOps Engineer, GTM Systems](https://job-boards.greenhouse.io/anthropic/jobs/5392856008)
+  - Company: anthropic
+  - Location: Remote
+
+- [IT Systems Engineer, Client Platform Engineer, macOS](https://job-boards.greenhouse.io/anthropic/jobs/5445625008)
   - Company: anthropic
   - Location: Remote
 
@@ -58,10 +62,6 @@ Total new jobs: 84
   - Company: cloudflare
   - Location: Remote
 
-- [Platform Engineer - Kubernetes](https://jobs.elastic.co/jobs?gh_jid=8237463&gh_jid=8237463)
-  - Company: elastic
-  - Location: Remote
-
 - [Platform Engineer - Kubernetes](https://jobs.elastic.co/jobs?gh_jid=8047349&gh_jid=8047349)
   - Company: elastic
   - Location: Remote
@@ -74,7 +74,7 @@ Total new jobs: 84
   - Company: elastic
   - Location: Remote
 
-- [Senior Site Reliability Engineer - Platform Reliability (Resilience)](https://jobs.elastic.co/jobs?gh_jid=8232033&gh_jid=8232033)
+- [Senior Site Reliability Engineer - Platform Reliability (Resilience)](https://jobs.elastic.co/jobs?gh_jid=8232032&gh_jid=8232032)
   - Company: elastic
   - Location: Remote
 
@@ -82,7 +82,7 @@ Total new jobs: 84
   - Company: elastic
   - Location: Remote
 
-- [Senior Site Reliability Engineer - Platform Reliability (Resilience)](https://jobs.elastic.co/jobs?gh_jid=8232032&gh_jid=8232032)
+- [Senior Site Reliability Engineer - Platform Reliability (Resilience)](https://jobs.elastic.co/jobs?gh_jid=8232039&gh_jid=8232039)
   - Company: elastic
   - Location: Remote
 
@@ -90,7 +90,7 @@ Total new jobs: 84
   - Company: elastic
   - Location: Remote
 
-- [Senior Site Reliability Engineer - Platform Reliability (Resilience)](https://jobs.elastic.co/jobs?gh_jid=8232039&gh_jid=8232039)
+- [Senior Site Reliability Engineer - Platform Reliability (Resilience)](https://jobs.elastic.co/jobs?gh_jid=8232033&gh_jid=8232033)
   - Company: elastic
   - Location: Remote
 
@@ -110,15 +110,23 @@ Total new jobs: 84
   - Company: fastly
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7814036003)
-  - Company: fivetran
-  - Location: Remote
-
 - [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=8000571003)
   - Company: fivetran
   - Location: Remote
 
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7814036003)
+  - Company: fivetran
+  - Location: Remote
+
 - [Senior Backend Engineer (Ruby), Production Engineering:Tenant Controls](https://job-boards.greenhouse.io/gitlab/jobs/8867725002)
+  - Company: gitlab
+  - Location: Remote
+
+- [Senior Backend Engineer, Core DevOps](https://job-boards.greenhouse.io/gitlab/jobs/8689243002)
+  - Company: gitlab
+  - Location: Remote
+
+- [Senior CX Platform Engineer](https://job-boards.greenhouse.io/gitlab/jobs/8871406002)
   - Company: gitlab
   - Location: Remote
 
@@ -140,10 +148,6 @@ Total new jobs: 84
 
 - [Site Reliability Engineer, Infrastructure Platforms — UK (Intermediate to Senior Staff)](https://job-boards.greenhouse.io/gitlab/jobs/8773546002)
   - Company: gitlab
-  - Location: Remote
-
-- [Build Infrastructure Engineer (JetBrains IDEs)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4696977101)
-  - Company: jetbrains
   - Location: Remote
 
 - [QA Automation Engineer (IJ Platform / Core team)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4867022101)
@@ -202,11 +206,11 @@ Total new jobs: 84
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7793634)
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7793634)
   - Company: mongodb
   - Location: Remote
 
@@ -222,11 +226,11 @@ Total new jobs: 84
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8242984?gh_jid=8242984)
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8184824?gh_jid=8184824)
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8184824?gh_jid=8184824)
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8242984?gh_jid=8242984)
   - Company: okta
   - Location: Remote
 
@@ -235,10 +239,6 @@ Total new jobs: 84
   - Location: Remote
 
 - [Senior Site Reliability Engineer (Auth0)](https://www.okta.com/company/careers/opportunity/7418982?gh_jid=7418982)
-  - Company: okta
-  - Location: Remote
-
-- [Senior Site Reliability Engineer (CI-CD/CTAP/Delivery team)](https://www.okta.com/company/careers/opportunity/8078730?gh_jid=8078730)
   - Company: okta
   - Location: Remote
 
@@ -292,11 +292,6 @@ Total new jobs: 84
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
-- [Senior ML Operations (MLOps) Engineer](https://jobicy.com/jobs/154500-senior-ml-operations-mlops-engineer)
-  - Company: Eight Sleep
-  - Location: Anywhere
-  - Level/Team: DevOps & Infrastructure
-
 - [Site Reliability Engineer 2](https://jobicy.com/jobs/154637-site-reliability-engineer-2-3)
   - Company: Kong Inc.
   - Location: USA
@@ -322,10 +317,15 @@ Total new jobs: 84
   - Location: UK
   - Level/Team: DevOps & Infrastructure
 
-- [Senior Software Engineer, Platform](https://jobicy.com/jobs/154204-senior-software-engineer-platform)
-  - Company: SeatGeek
+- [Senior Database Engineer](https://jobicy.com/jobs/154747-senior-database-engineer)
+  - Company: Spreedly
   - Location: USA
   - Level/Team: DevOps & Infrastructure
+
+- [Customer Reliability Engineer](https://jobicy.com/jobs/152662-customer-reliability-engineer)
+  - Company: Tailscale
+  - Location: USA
+  - Level/Team: Technical Support
 
 - [Senior QA Automation Engineer (Platform)](https://jobicy.com/jobs/152407-senior-qa-automation-engineer-platform)
   - Company: Upgrade
@@ -356,6 +356,10 @@ Total new jobs: 84
   - Location: Worldwide
 
 ## weworkremotely
+
+- [Cloud Engineer](https://weworkremotely.com/remote-jobs/beyondtrust-cloud-engineer)
+  - Company: BeyondTrust
+  - Location: Remote
 
 - [Senior Professional Services DevOps Engineer](https://weworkremotely.com/remote-jobs/jfrog-senior-professional-services-devops-engineer)
   - Company: JFrog
