@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-10-07 18:27 UTC
+Generated: 2026-10-08 18:26 UTC
 
-Total new jobs: 85
+Total new jobs: 89
 
 ## greenhouse
 
@@ -56,6 +56,10 @@ Total new jobs: 85
 
 - [Site Reliability Engineer](https://job-boards.greenhouse.io/canonical/jobs/4468036)
   - Company: canonical
+  - Location: Remote
+
+- [Senior Forward Deployed Engineer (DevOps)](https://boards.greenhouse.io/cloudflare/jobs/8256332?gh_jid=8256332)
+  - Company: cloudflare
   - Location: Remote
 
 - [Senior Infrastructure Engineer, Storage Platform](https://boards.greenhouse.io/cloudflare/jobs/7629805?gh_jid=7629805)
@@ -126,6 +130,10 @@ Total new jobs: 85
   - Company: gitlab
   - Location: Remote
 
+- [Senior Backend Engineer, Core DevOps: Container Registry](https://job-boards.greenhouse.io/gitlab/jobs/8687958002)
+  - Company: gitlab
+  - Location: Remote
+
 - [Senior CX Platform Engineer](https://job-boards.greenhouse.io/gitlab/jobs/8871406002)
   - Company: gitlab
   - Location: Remote
@@ -171,6 +179,10 @@ Total new jobs: 85
   - Location: Remote
 
 - [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=8184637)
+  - Company: mongodb
+  - Location: Remote
+
+- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=8259719)
   - Company: mongodb
   - Location: Remote
 
@@ -275,6 +287,11 @@ Total new jobs: 85
 - [Senior Site Reliability Engineer I](https://jobicy.com/jobs/152549-senior-site-reliability-engineer-i)
   - Company: Braze
   - Location: Canada
+  - Level/Team: DevOps & Infrastructure
+
+- [GxP Systems and Support Administrator](https://jobicy.com/jobs/154799-gxp-systems-and-support-administrator)
+  - Company: CAI
+  - Location: USA
   - Level/Team: DevOps & Infrastructure
 
 - [Platform Engineer](https://jobicy.com/jobs/154501-platform-engineer-2)

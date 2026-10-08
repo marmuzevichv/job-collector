@@ -119,6 +119,21 @@
     "collected_at_utc": "2026-10-07 18:26:39"
   },
   {
+    "source_type": "jobicy",
+    "company": "CAI",
+    "title": "GxP Systems and Support Administrator",
+    "location": "USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/154799-gxp-systems-and-support-administrator",
+    "external_id": "jobicy::154799",
+    "description_snippet": "Are You Ready? CAI is a professional services company established in 1996 that has grown year over year to nearly 800 people worldwide. For mission-critical and regulated industries that need to deliver critical solutions in high-stakes environments, we provide accelerated operational readiness and ",
+    "posted_at": "2026-10-07T19:37:33+00:00",
+    "collected_at_utc": "2026-10-08 18:26:00"
+  },
+  {
     "source_type": "greenhouse",
     "company": "canonical",
     "title": "Kernel Build Automation Engineer - Ubuntu Linux",
@@ -240,6 +255,19 @@
     "description_snippet": "CentralReach is a leading provider of autism and IDD care software for Applied Behavior Analysis (ABA), multidisciplinary therapy, and special education. Trusted by more than 200,000 users, we enable therapy providers, educators, and employers to scale the way they deliver ABA and related therapies ",
     "posted_at": "2026-10-01T19:53:16+00:00",
     "collected_at_utc": "2026-10-07 18:26:39"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "cloudflare",
+    "title": "Senior Forward Deployed Engineer (DevOps)",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8256332?gh_jid=8256332",
+    "external_id": "greenhouse::8256332",
+    "description_snippet": "",
+    "posted_at": "2026-10-07T17:17:46-04:00",
+    "collected_at_utc": "2026-10-08 18:26:00"
   },
   {
     "source_type": "greenhouse",
@@ -461,6 +489,19 @@
     "description_snippet": "",
     "posted_at": "2026-10-07T12:34:51-04:00",
     "collected_at_utc": "2026-10-07 18:26:39"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "gitlab",
+    "title": "Senior Backend Engineer, Core DevOps: Container Registry",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8687958002",
+    "external_id": "greenhouse::8687958002",
+    "description_snippet": "",
+    "posted_at": "2026-10-07T22:34:12-04:00",
+    "collected_at_utc": "2026-10-08 18:26:00"
   },
   {
     "source_type": "greenhouse",
@@ -707,6 +748,19 @@
     "description_snippet": "",
     "posted_at": "2026-10-05T19:30:53-04:00",
     "collected_at_utc": "2026-10-07 18:26:39"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "mongodb",
+    "title": "Cloud Operations Engineer",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=8259719",
+    "external_id": "greenhouse::8259719",
+    "description_snippet": "",
+    "posted_at": "2026-10-08T13:02:51-04:00",
+    "collected_at_utc": "2026-10-08 18:26:00"
   },
   {
     "source_type": "greenhouse",
