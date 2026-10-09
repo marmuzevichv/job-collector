@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-10-08 18:26 UTC
+Generated: 2026-10-09 17:59 UTC
 
-Total new jobs: 89
+Total new jobs: 83
 
 ## greenhouse
 
@@ -78,7 +78,7 @@ Total new jobs: 89
   - Company: elastic
   - Location: Remote
 
-- [Senior Site Reliability Engineer - Platform Reliability (Resilience)](https://jobs.elastic.co/jobs?gh_jid=8232032&gh_jid=8232032)
+- [Senior Site Reliability Engineer - Platform Reliability (Resilience)](https://jobs.elastic.co/jobs?gh_jid=8232039&gh_jid=8232039)
   - Company: elastic
   - Location: Remote
 
@@ -86,15 +86,15 @@ Total new jobs: 89
   - Company: elastic
   - Location: Remote
 
-- [Senior Site Reliability Engineer - Platform Reliability (Resilience)](https://jobs.elastic.co/jobs?gh_jid=8232039&gh_jid=8232039)
-  - Company: elastic
-  - Location: Remote
-
-- [Senior Site Reliability Engineer - Platform Reliability (Resilience)](https://jobs.elastic.co/jobs?gh_jid=8232037&gh_jid=8232037)
+- [Senior Site Reliability Engineer - Platform Reliability (Resilience)](https://jobs.elastic.co/jobs?gh_jid=8232032&gh_jid=8232032)
   - Company: elastic
   - Location: Remote
 
 - [Senior Site Reliability Engineer - Platform Reliability (Resilience)](https://jobs.elastic.co/jobs?gh_jid=8232033&gh_jid=8232033)
+  - Company: elastic
+  - Location: Remote
+
+- [Senior Site Reliability Engineer - Platform Reliability (Resilience)](https://jobs.elastic.co/jobs?gh_jid=8232037&gh_jid=8232037)
   - Company: elastic
   - Location: Remote
 
@@ -178,11 +178,11 @@ Total new jobs: 89
   - Company: jetbrains
   - Location: Remote
 
-- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=8184637)
+- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=8259719)
   - Company: mongodb
   - Location: Remote
 
-- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=8259719)
+- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=8184637)
   - Company: mongodb
   - Location: Remote
 
@@ -210,11 +210,11 @@ Total new jobs: 89
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727913)
+- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727910)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727910)
+- [Site Reliability Engineer (Senior or Staff), Deployments](https://www.mongodb.com/careers/job/?gh_jid=7727913)
   - Company: mongodb
   - Location: Remote
 
@@ -238,15 +238,15 @@ Total new jobs: 89
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8184824?gh_jid=8184824)
-  - Company: okta
-  - Location: Remote
-
 - [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8242984?gh_jid=8242984)
   - Company: okta
   - Location: Remote
 
 - [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8015032?gh_jid=8015032)
+  - Company: okta
+  - Location: Remote
+
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8184824?gh_jid=8184824)
   - Company: okta
   - Location: Remote
 
@@ -299,39 +299,14 @@ Total new jobs: 89
   - Location: Anywhere
   - Level/Team: DevOps & Infrastructure
 
-- [Site Reliability Engineer (SRE), Data Products](https://jobicy.com/jobs/154368-site-reliability-engineer-sre-data-products)
-  - Company: CentralReach
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
-- [Sr. Site Reliability Engineer](https://jobicy.com/jobs/154372-sr-site-reliability-engineer)
-  - Company: CentralReach
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
 - [Site Reliability Engineer 2](https://jobicy.com/jobs/154637-site-reliability-engineer-2-3)
   - Company: Kong Inc.
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
-- [AWS DevOps Engineer (Freelancer)](https://jobicy.com/jobs/152278-aws-devops-engineer-freelancer)
-  - Company: Mactores
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
-- [Software Engineer, Platform Engineering](https://jobicy.com/jobs/154333-software-engineer-platform-engineering)
-  - Company: Mural
-  - Location: Argentina
-  - Level/Team: DevOps & Infrastructure
-
 - [Software Engineer II - Database Engineering](https://jobicy.com/jobs/154462-software-engineer-ii-database-engineering)
   - Company: Salesloft
   - Location: Mexico
-  - Level/Team: DevOps & Infrastructure
-
-- [Sr. Software Engineer, Cloud Platform](https://jobicy.com/jobs/154394-sr-software-engineer-cloud-platform)
-  - Company: Samsara
-  - Location: UK
   - Level/Team: DevOps & Infrastructure
 
 - [Senior Database Engineer](https://jobicy.com/jobs/154747-senior-database-engineer)
@@ -344,10 +319,10 @@ Total new jobs: 89
   - Location: USA
   - Level/Team: Technical Support
 
-- [Senior QA Automation Engineer (Platform)](https://jobicy.com/jobs/152407-senior-qa-automation-engineer-platform)
-  - Company: Upgrade
-  - Location: USA
-  - Level/Team: QA & Testing
+- [DevOps Engineer (Observability)](https://jobicy.com/jobs/154900-devops-engineer-observability)
+  - Company: Twilio
+  - Location: Ireland
+  - Level/Team: DevOps & Infrastructure
 
 ## lever
 
@@ -376,10 +351,6 @@ Total new jobs: 89
 
 - [Cloud Engineer](https://weworkremotely.com/remote-jobs/beyondtrust-cloud-engineer)
   - Company: BeyondTrust
-  - Location: Remote
-
-- [Senior Professional Services DevOps Engineer](https://weworkremotely.com/remote-jobs/jfrog-senior-professional-services-devops-engineer)
-  - Company: JFrog
   - Location: Remote
 
 - [DevOps Engineer (Remote)](https://weworkremotely.com/remote-jobs/thehivecareers-co-devops-engineer-remote)
