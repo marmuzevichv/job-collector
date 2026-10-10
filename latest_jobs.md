@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-10-09 17:59 UTC
+Generated: 2026-10-10 16:59 UTC
 
-Total new jobs: 83
+Total new jobs: 84
 
 ## greenhouse
 
@@ -58,7 +58,7 @@ Total new jobs: 83
   - Company: canonical
   - Location: Remote
 
-- [Senior Forward Deployed Engineer (DevOps)](https://boards.greenhouse.io/cloudflare/jobs/8256332?gh_jid=8256332)
+- [Senior Forward Deployed Infrastructure Engineer](https://boards.greenhouse.io/cloudflare/jobs/8256332?gh_jid=8256332)
   - Company: cloudflare
   - Location: Remote
 
@@ -178,11 +178,11 @@ Total new jobs: 83
   - Company: jetbrains
   - Location: Remote
 
-- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=8259719)
+- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=8184637)
   - Company: mongodb
   - Location: Remote
 
-- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=8184637)
+- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=8259719)
   - Company: mongodb
   - Location: Remote
 
@@ -289,11 +289,6 @@ Total new jobs: 83
   - Location: Canada
   - Level/Team: DevOps & Infrastructure
 
-- [GxP Systems and Support Administrator](https://jobicy.com/jobs/154799-gxp-systems-and-support-administrator)
-  - Company: CAI
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
 - [Platform Engineer](https://jobicy.com/jobs/154501-platform-engineer-2)
   - Company: Catawiki
   - Location: Anywhere
@@ -302,6 +297,16 @@ Total new jobs: 83
 - [Site Reliability Engineer 2](https://jobicy.com/jobs/154637-site-reliability-engineer-2-3)
   - Company: Kong Inc.
   - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Senior Engineer (Software), Enterprise](https://jobicy.com/jobs/152949-senior-engineer-software-enterprise)
+  - Company: NetBox Labs
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Senior DevOps Engineer](https://jobicy.com/jobs/152901-senior-devops-engineer-7)
+  - Company: Nextiva
+  - Location: Mexico
   - Level/Team: DevOps & Infrastructure
 
 - [Software Engineer II - Database Engineering](https://jobicy.com/jobs/154462-software-engineer-ii-database-engineering)

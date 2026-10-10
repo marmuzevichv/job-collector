@@ -1,28 +1,4 @@
 {
-  "jobicy::154799": {
-    "company": "CAI",
-    "title": "GxP Systems and Support Administrator",
-    "url": "https://jobicy.com/jobs/154799-gxp-systems-and-support-administrator",
-    "first_seen_utc": "2026-10-08 18:26:00"
-  },
-  "greenhouse::8687958002": {
-    "company": "gitlab",
-    "title": "Senior Backend Engineer, Core DevOps: Container Registry",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8687958002",
-    "first_seen_utc": "2026-10-08 18:26:00"
-  },
-  "greenhouse::8256332": {
-    "company": "cloudflare",
-    "title": "Senior Forward Deployed Engineer (DevOps)",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8256332?gh_jid=8256332",
-    "first_seen_utc": "2026-10-08 18:26:00"
-  },
-  "greenhouse::8259719": {
-    "company": "mongodb",
-    "title": "Cloud Operations Engineer",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=8259719",
-    "first_seen_utc": "2026-10-08 18:26:00"
-  },
   "remoteok::1137062": {
     "company": "Kruger NearShore LLC - Rekluti",
     "title": "DESARROLLADOR FULL STACK",
@@ -496,5 +472,35 @@
     "title": "Senior Test Automation Engineer (TeamCity)",
     "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4961618101",
     "first_seen_utc": "2026-10-09 17:58:26"
+  },
+  "jobicy::152949": {
+    "company": "NetBox Labs",
+    "title": "Senior Engineer (Software), Enterprise",
+    "url": "https://jobicy.com/jobs/152949-senior-engineer-software-enterprise",
+    "first_seen_utc": "2026-10-10 16:59:01"
+  },
+  "jobicy::152901": {
+    "company": "Nextiva",
+    "title": "Senior DevOps Engineer",
+    "url": "https://jobicy.com/jobs/152901-senior-devops-engineer-7",
+    "first_seen_utc": "2026-10-10 16:59:01"
+  },
+  "greenhouse::8687958002": {
+    "company": "gitlab",
+    "title": "Senior Backend Engineer, Core DevOps: Container Registry",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8687958002",
+    "first_seen_utc": "2026-10-10 16:59:01"
+  },
+  "greenhouse::8256332": {
+    "company": "cloudflare",
+    "title": "Senior Forward Deployed Infrastructure Engineer",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8256332?gh_jid=8256332",
+    "first_seen_utc": "2026-10-10 16:59:01"
+  },
+  "greenhouse::8259719": {
+    "company": "mongodb",
+    "title": "Cloud Operations Engineer",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=8259719",
+    "first_seen_utc": "2026-10-10 16:59:01"
   }
 }
