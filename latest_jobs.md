@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-10-11 17:21 UTC
+Generated: 2026-10-12 20:55 UTC
 
-Total new jobs: 85
+Total new jobs: 86
 
 ## greenhouse
 
@@ -66,6 +66,10 @@ Total new jobs: 85
   - Company: cloudflare
   - Location: Remote
 
+- [Software Engineer, Infrastructure Engineering](https://boards.greenhouse.io/cloudflare/jobs/8264664?gh_jid=8264664)
+  - Company: cloudflare
+  - Location: Remote
+
 - [Platform Engineer - Kubernetes](https://jobs.elastic.co/jobs?gh_jid=8047349&gh_jid=8047349)
   - Company: elastic
   - Location: Remote
@@ -78,14 +82,6 @@ Total new jobs: 85
   - Company: elastic
   - Location: Remote
 
-- [Senior Site Reliability Engineer - Platform Reliability (Resilience)](https://jobs.elastic.co/jobs?gh_jid=8232032&gh_jid=8232032)
-  - Company: elastic
-  - Location: Remote
-
-- [Senior Site Reliability Engineer - Platform Reliability (Resilience)](https://jobs.elastic.co/jobs?gh_jid=8232131&gh_jid=8232131)
-  - Company: elastic
-  - Location: Remote
-
 - [Senior Site Reliability Engineer - Platform Reliability (Resilience)](https://jobs.elastic.co/jobs?gh_jid=8176967&gh_jid=8176967)
   - Company: elastic
   - Location: Remote
@@ -94,11 +90,19 @@ Total new jobs: 85
   - Company: elastic
   - Location: Remote
 
+- [Senior Site Reliability Engineer - Platform Reliability (Resilience)](https://jobs.elastic.co/jobs?gh_jid=8232131&gh_jid=8232131)
+  - Company: elastic
+  - Location: Remote
+
 - [Senior Site Reliability Engineer - Platform Reliability (Resilience)](https://jobs.elastic.co/jobs?gh_jid=8232037&gh_jid=8232037)
   - Company: elastic
   - Location: Remote
 
 - [Senior Site Reliability Engineer - Platform Reliability (Resilience)](https://jobs.elastic.co/jobs?gh_jid=8232033&gh_jid=8232033)
+  - Company: elastic
+  - Location: Remote
+
+- [Senior Site Reliability Engineer - Platform Reliability (Resilience)](https://jobs.elastic.co/jobs?gh_jid=8232032&gh_jid=8232032)
   - Company: elastic
   - Location: Remote
 
@@ -202,7 +206,11 @@ Total new jobs: 85
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Mid-Level, Senior or Staff), Infrastructure Security](https://www.mongodb.com/careers/job/?gh_jid=7758610)
+- [Senior Site Reliability Engineer, Infrastructure Security](https://www.mongodb.com/careers/job/?gh_jid=7668289)
+  - Company: mongodb
+  - Location: Remote
+
+- [Senior Software Engineer (SRE), Infrastructure Security](https://www.mongodb.com/careers/job/?gh_jid=8274765)
   - Company: mongodb
   - Location: Remote
 
@@ -238,10 +246,6 @@ Total new jobs: 85
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8184824?gh_jid=8184824)
-  - Company: okta
-  - Location: Remote
-
 - [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8242984?gh_jid=8242984)
   - Company: okta
   - Location: Remote
@@ -250,11 +254,19 @@ Total new jobs: 85
   - Company: okta
   - Location: Remote
 
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8184824?gh_jid=8184824)
+  - Company: okta
+  - Location: Remote
+
 - [Senior Site Reliability Engineer (Auth0)](https://www.okta.com/company/careers/opportunity/7418982?gh_jid=7418982)
   - Company: okta
   - Location: Remote
 
 - [Senior Site Reliability Engineer (K8s, Terraform, Python)](https://www.okta.com/company/careers/opportunity/8255904?gh_jid=8255904)
+  - Company: okta
+  - Location: Remote
+
+- [Senior Site Reliability Engineer  - EPG](https://www.okta.com/company/careers/opportunity/8268917?gh_jid=8268917)
   - Company: okta
   - Location: Remote
 
@@ -280,18 +292,8 @@ Total new jobs: 85
 
 ## jobicy
 
-- [Senior Site Reliability Engineer I](https://jobicy.com/jobs/152549-senior-site-reliability-engineer-i)
-  - Company: Braze
-  - Location: Canada
-  - Level/Team: DevOps & Infrastructure
-
 - [IT Engineer](https://jobicy.com/jobs/155006-it-engineer-2)
   - Company: Elevenlabs
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
-- [Site Reliability Engineer 2](https://jobicy.com/jobs/154637-site-reliability-engineer-2-3)
-  - Company: Kong Inc.
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
@@ -315,11 +317,6 @@ Total new jobs: 85
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
-- [Customer Reliability Engineer](https://jobicy.com/jobs/152662-customer-reliability-engineer)
-  - Company: Tailscale
-  - Location: USA
-  - Level/Team: Technical Support
-
 - [Lead Infrastructure Engineer III](https://jobicy.com/jobs/155001-lead-infrastructure-engineer-iii-2)
   - Company: Truckstop
   - Location: USA
@@ -333,6 +330,11 @@ Total new jobs: 85
 - [DevOps Engineer](https://jobicy.com/jobs/154974-devops-engineer-7)
   - Company: WalkMe
   - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Senior Software Engineer, Cloud (Backend / Infrastructure)](https://jobicy.com/jobs/155112-senior-software-engineer-cloud-backend-infrastructure)
+  - Company: Webflow
+  - Location: Argentina
   - Level/Team: DevOps & Infrastructure
 
 ## lever
