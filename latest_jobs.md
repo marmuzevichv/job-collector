@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-10-12 20:55 UTC
+Generated: 2026-10-13 18:53 UTC
 
-Total new jobs: 86
+Total new jobs: 90
 
 ## greenhouse
 
@@ -270,6 +270,14 @@ Total new jobs: 86
   - Company: okta
   - Location: Remote
 
+- [Senior Software Engineer - SRE](https://www.okta.com/company/careers/opportunity/8263916?gh_jid=8263916)
+  - Company: okta
+  - Location: Remote
+
+- [Senior Software Engineer - SRE](https://www.okta.com/company/careers/opportunity/8263918?gh_jid=8263918)
+  - Company: okta
+  - Location: Remote
+
 - [Senior Software Reliability Engineer - Data Platform](https://www.okta.com/company/careers/opportunity/8082028?gh_jid=8082028)
   - Company: okta
   - Location: Remote
@@ -312,6 +320,11 @@ Total new jobs: 86
   - Location: UK
   - Level/Team: DevOps & Infrastructure
 
+- [Senior Platform Engineer](https://jobicy.com/jobs/155202-senior-platform-engineer-4)
+  - Company: Solace
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
 - [Senior Database Engineer](https://jobicy.com/jobs/154747-senior-database-engineer)
   - Company: Spreedly
   - Location: USA
@@ -330,6 +343,11 @@ Total new jobs: 86
 - [DevOps Engineer](https://jobicy.com/jobs/154974-devops-engineer-7)
   - Company: WalkMe
   - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Senior Infrastructure Engineer](https://jobicy.com/jobs/153105-senior-infrastructure-engineer-3)
+  - Company: Webflow
+  - Location: Argentina
   - Level/Team: DevOps & Infrastructure
 
 - [Senior Software Engineer, Cloud (Backend / Infrastructure)](https://jobicy.com/jobs/155112-senior-software-engineer-cloud-backend-infrastructure)

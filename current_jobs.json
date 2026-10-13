@@ -965,6 +965,32 @@
   {
     "source_type": "greenhouse",
     "company": "okta",
+    "title": "Senior Software Engineer - SRE",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://www.okta.com/company/careers/opportunity/8263916?gh_jid=8263916",
+    "external_id": "greenhouse::8263916",
+    "description_snippet": "",
+    "posted_at": "2026-10-13T03:46:25-04:00",
+    "collected_at_utc": "2026-10-13 18:53:04"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "okta",
+    "title": "Senior Software Engineer - SRE",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://www.okta.com/company/careers/opportunity/8263918?gh_jid=8263918",
+    "external_id": "greenhouse::8263918",
+    "description_snippet": "",
+    "posted_at": "2026-10-13T03:55:01-04:00",
+    "collected_at_utc": "2026-10-13 18:53:04"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "okta",
     "title": "Senior Software Reliability Engineer - Data Platform",
     "location": "",
     "team": "",
@@ -1028,6 +1054,21 @@
     "description_snippet": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve",
     "posted_at": "2026-10-11T04:05:06+00:00",
     "collected_at_utc": "2026-10-12 20:54:59"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Solace",
+    "title": "Senior Platform Engineer",
+    "location": "USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/155202-senior-platform-engineer-4",
+    "external_id": "jobicy::155202",
+    "description_snippet": "About Solace Healthcare in the U.S. is fundamentally broken. The system is so complex that 88% of U.S. adults do not have the health literacy necessary to navigate it without help. Solace cuts through the red tape of healthcare by pairing patients with expert advocates and giving them the tools to m",
+    "posted_at": "2026-10-13T09:48:22+00:00",
+    "collected_at_utc": "2026-10-13 18:53:04"
   },
   {
     "source_type": "lever",
@@ -1144,6 +1185,21 @@
     "description_snippet": "Industry leader? Well, how about an industry creator?! WalkMe, an SAP company, pioneered the world's leading Digital Adoption Platform, helping organizations navigate change across any application or system. Today it is the platform that drives AI adoption across the enterprise. Enterprise work stay",
     "posted_at": "2026-10-10T15:50:38+00:00",
     "collected_at_utc": "2026-10-12 20:54:59"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Webflow",
+    "title": "Senior Infrastructure Engineer",
+    "location": "Argentina",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/153105-senior-infrastructure-engineer-3",
+    "external_id": "jobicy::153105",
+    "description_snippet": "Webflow is the agentic web marketing platform for modern marketing teams, helping organizations build, manage, and optimize high-performing web experiences that drive predictable growth and strengthen brand trust. Building at Webflow will need grit, because we move fast, without ever sacrificing cra",
+    "posted_at": "2026-10-13T02:05:07+00:00",
+    "collected_at_utc": "2026-10-13 18:53:04"
   },
   {
     "source_type": "jobicy",
