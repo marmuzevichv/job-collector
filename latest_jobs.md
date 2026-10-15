@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-10-14 16:34 UTC
+Generated: 2026-10-15 16:20 UTC
 
-Total new jobs: 80
+Total new jobs: 83
 
 ## greenhouse
 
@@ -115,6 +115,10 @@ Total new jobs: 80
   - Location: Remote
 
 - [Senior Site Reliability Engineer - Monitoring and Anomaly Detection (Monetization)](https://job-boards.greenhouse.io/gitlab/jobs/8615319002)
+  - Company: gitlab
+  - Location: Remote
+
+- [Site Reliability Engineer, Cells Infrastructure](https://job-boards.greenhouse.io/gitlab/jobs/8867756002)
   - Company: gitlab
   - Location: Remote
 
@@ -234,11 +238,11 @@ Total new jobs: 80
   - Company: okta
   - Location: Remote
 
-- [Senior Software Engineer - SRE](https://www.okta.com/company/careers/opportunity/8263916?gh_jid=8263916)
+- [Senior Software Engineer - SRE](https://www.okta.com/company/careers/opportunity/8263918?gh_jid=8263918)
   - Company: okta
   - Location: Remote
 
-- [Senior Software Engineer - SRE](https://www.okta.com/company/careers/opportunity/8263918?gh_jid=8263918)
+- [Senior Software Engineer - SRE](https://www.okta.com/company/careers/opportunity/8263916?gh_jid=8263916)
   - Company: okta
   - Location: Remote
 
@@ -269,6 +273,11 @@ Total new jobs: 80
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
+- [Senior Platform Engineer](https://jobicy.com/jobs/155361-senior-platform-engineer-5)
+  - Company: Fleetio
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
 - [Senior Engineer (Software), Enterprise](https://jobicy.com/jobs/152949-senior-engineer-software-enterprise)
   - Company: NetBox Labs
   - Location: USA
@@ -287,6 +296,11 @@ Total new jobs: 80
 - [Senior Platform Engineer](https://jobicy.com/jobs/155202-senior-platform-engineer-4)
   - Company: Solace
   - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Software Engineer, AI/ML Infrastructure](https://jobicy.com/jobs/152419-software-engineer-ai-ml-infrastructure)
+  - Company: Thumbtack
+  - Location: Canada
   - Level/Team: DevOps & Infrastructure
 
 - [Lead Infrastructure Engineer III](https://jobicy.com/jobs/155001-lead-infrastructure-engineer-iii-2)

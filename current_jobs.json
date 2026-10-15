@@ -301,6 +301,21 @@
     "collected_at_utc": "2026-10-14 16:33:48"
   },
   {
+    "source_type": "jobicy",
+    "company": "Fleetio",
+    "title": "Senior Platform Engineer",
+    "location": "USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/155361-senior-platform-engineer-5",
+    "external_id": "jobicy::155361",
+    "description_snippet": "A little about us…Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we’re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D fund",
+    "posted_at": "2026-10-15T12:59:32+00:00",
+    "collected_at_utc": "2026-10-15 16:19:57"
+  },
+  {
     "source_type": "greenhouse",
     "company": "gitlab",
     "title": "Senior Backend Engineer (Ruby), Production Engineering:Tenant Controls",
@@ -390,6 +405,19 @@
     "description_snippet": "",
     "posted_at": "2026-09-29T10:38:50-04:00",
     "collected_at_utc": "2026-10-14 16:33:48"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "gitlab",
+    "title": "Site Reliability Engineer, Cells Infrastructure",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8867756002",
+    "external_id": "greenhouse::8867756002",
+    "description_snippet": "",
+    "posted_at": "2026-10-15T02:28:38-04:00",
+    "collected_at_utc": "2026-10-15 16:19:57"
   },
   {
     "source_type": "greenhouse",
@@ -852,11 +880,11 @@
     "location": "",
     "team": "",
     "categories": [],
-    "url": "https://www.okta.com/company/careers/opportunity/8263916?gh_jid=8263916",
-    "external_id": "greenhouse::8263916",
+    "url": "https://www.okta.com/company/careers/opportunity/8263918?gh_jid=8263918",
+    "external_id": "greenhouse::8263918",
     "description_snippet": "",
-    "posted_at": "2026-10-13T03:46:25-04:00",
-    "collected_at_utc": "2026-10-13 18:53:04"
+    "posted_at": "2026-10-13T03:55:01-04:00",
+    "collected_at_utc": "2026-10-15 16:19:57"
   },
   {
     "source_type": "greenhouse",
@@ -865,11 +893,11 @@
     "location": "",
     "team": "",
     "categories": [],
-    "url": "https://www.okta.com/company/careers/opportunity/8263918?gh_jid=8263918",
-    "external_id": "greenhouse::8263918",
+    "url": "https://www.okta.com/company/careers/opportunity/8263916?gh_jid=8263916",
+    "external_id": "greenhouse::8263916",
     "description_snippet": "",
-    "posted_at": "2026-10-13T03:55:01-04:00",
-    "collected_at_utc": "2026-10-13 18:53:04"
+    "posted_at": "2026-10-14T23:48:26-04:00",
+    "collected_at_utc": "2026-10-15 16:19:57"
   },
   {
     "source_type": "greenhouse",
@@ -951,7 +979,7 @@
     "external_id": "jobicy::155202",
     "description_snippet": "About Solace Healthcare in the U.S. is fundamentally broken. The system is so complex that 88% of U.S. adults do not have the health literacy necessary to navigate it without help. Solace cuts through the red tape of healthcare by pairing patients with expert advocates and giving them the tools to m",
     "posted_at": "2026-10-13T09:48:22+00:00",
-    "collected_at_utc": "2026-10-13 18:53:04"
+    "collected_at_utc": "2026-10-15 16:19:57"
   },
   {
     "source_type": "lever",
@@ -1011,6 +1039,21 @@
   },
   {
     "source_type": "jobicy",
+    "company": "Thumbtack",
+    "title": "Software Engineer, AI/ML Infrastructure",
+    "location": "Canada",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/152419-software-engineer-ai-ml-infrastructure",
+    "external_id": "jobicy::152419",
+    "description_snippet": "Thumbtack helps millions of people confidently care for their homes. Thumbtack is the one app you need to take care of and improve your home — from personalized guidance to AI tools and a best-in-class hiring experience. Every day in every county of the U.S., people turn to Thumbtack to complete urg",
+    "posted_at": "2026-10-15T04:30:05+00:00",
+    "collected_at_utc": "2026-10-15 16:19:57"
+  },
+  {
+    "source_type": "jobicy",
     "company": "Truckstop",
     "title": "Lead Infrastructure Engineer III",
     "location": "USA",
@@ -1067,7 +1110,7 @@
     "external_id": "jobicy::153105",
     "description_snippet": "Webflow is the agentic web marketing platform for modern marketing teams, helping organizations build, manage, and optimize high-performing web experiences that drive predictable growth and strengthen brand trust. Building at Webflow will need grit, because we move fast, without ever sacrificing cra",
     "posted_at": "2026-10-13T02:05:07+00:00",
-    "collected_at_utc": "2026-10-13 18:53:04"
+    "collected_at_utc": "2026-10-15 16:19:57"
   },
   {
     "source_type": "jobicy",
