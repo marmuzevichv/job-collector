@@ -1,46 +1,4 @@
 {
-  "jobicy::155202": {
-    "company": "Solace",
-    "title": "Senior Platform Engineer",
-    "url": "https://jobicy.com/jobs/155202-senior-platform-engineer-4",
-    "first_seen_utc": "2026-10-15 16:19:57"
-  },
-  "jobicy::155361": {
-    "company": "Fleetio",
-    "title": "Senior Platform Engineer",
-    "url": "https://jobicy.com/jobs/155361-senior-platform-engineer-5",
-    "first_seen_utc": "2026-10-15 16:19:57"
-  },
-  "jobicy::153105": {
-    "company": "Webflow",
-    "title": "Senior Infrastructure Engineer",
-    "url": "https://jobicy.com/jobs/153105-senior-infrastructure-engineer-3",
-    "first_seen_utc": "2026-10-15 16:19:57"
-  },
-  "jobicy::152419": {
-    "company": "Thumbtack",
-    "title": "Software Engineer, AI/ML Infrastructure",
-    "url": "https://jobicy.com/jobs/152419-software-engineer-ai-ml-infrastructure",
-    "first_seen_utc": "2026-10-15 16:19:57"
-  },
-  "greenhouse::8263918": {
-    "company": "okta",
-    "title": "Senior Software Engineer - SRE",
-    "url": "https://www.okta.com/company/careers/opportunity/8263918?gh_jid=8263918",
-    "first_seen_utc": "2026-10-15 16:19:57"
-  },
-  "greenhouse::8263916": {
-    "company": "okta",
-    "title": "Senior Software Engineer - SRE",
-    "url": "https://www.okta.com/company/careers/opportunity/8263916?gh_jid=8263916",
-    "first_seen_utc": "2026-10-15 16:19:57"
-  },
-  "greenhouse::8867756002": {
-    "company": "gitlab",
-    "title": "Site Reliability Engineer, Cells Infrastructure",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8867756002",
-    "first_seen_utc": "2026-10-15 16:19:57"
-  },
   "remoteok::1137062": {
     "company": "Kruger NearShore LLC - Rekluti",
     "title": "DESARROLLADOR FULL STACK",
@@ -508,5 +466,77 @@
     "title": "Senior Test Automation Engineer (TeamCity)",
     "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4961618101",
     "first_seen_utc": "2026-10-16 16:05:58"
+  },
+  "jobicy::155574": {
+    "company": "dscout",
+    "title": "Senior DevOps Engineer",
+    "url": "https://jobicy.com/jobs/155574-senior-devops-engineer-10",
+    "first_seen_utc": "2026-10-17 14:58:44"
+  },
+  "jobicy::153466": {
+    "company": "Five9",
+    "title": "Senior DevOps Engineer - Storage Platforms",
+    "url": "https://jobicy.com/jobs/153466-senior-devops-engineer-storage-platforms",
+    "first_seen_utc": "2026-10-17 14:58:44"
+  },
+  "jobicy::155494": {
+    "company": "Documo Inc.",
+    "title": "Senior DevOps Engineer",
+    "url": "https://jobicy.com/jobs/155494-senior-devops-engineer-9",
+    "first_seen_utc": "2026-10-17 14:58:44"
+  },
+  "jobicy::155361": {
+    "company": "Fleetio",
+    "title": "Senior Platform Engineer",
+    "url": "https://jobicy.com/jobs/155361-senior-platform-engineer-5",
+    "first_seen_utc": "2026-10-17 14:58:44"
+  },
+  "jobicy::155202": {
+    "company": "Solace",
+    "title": "Senior Platform Engineer",
+    "url": "https://jobicy.com/jobs/155202-senior-platform-engineer-4",
+    "first_seen_utc": "2026-10-17 14:58:44"
+  },
+  "jobicy::153446": {
+    "company": "Supabase",
+    "title": "Postgres Deployment Engineer (Nix)",
+    "url": "https://jobicy.com/jobs/153446-postgres-deployment-engineer-nix",
+    "first_seen_utc": "2026-10-17 14:58:44"
+  },
+  "greenhouse::8286405": {
+    "company": "okta",
+    "title": "Senior Platform Engineer, Layer0 (Auth0)",
+    "url": "https://www.okta.com/company/careers/opportunity/8286405?gh_jid=8286405",
+    "first_seen_utc": "2026-10-17 14:58:44"
+  },
+  "greenhouse::8263918": {
+    "company": "okta",
+    "title": "Senior Software Engineer - SRE",
+    "url": "https://www.okta.com/company/careers/opportunity/8263918?gh_jid=8263918",
+    "first_seen_utc": "2026-10-17 14:58:44"
+  },
+  "greenhouse::8263916": {
+    "company": "okta",
+    "title": "Senior Software Engineer - SRE",
+    "url": "https://www.okta.com/company/careers/opportunity/8263916?gh_jid=8263916",
+    "first_seen_utc": "2026-10-17 14:58:44"
+  },
+  "greenhouse::8867756002": {
+    "company": "gitlab",
+    "title": "Site Reliability Engineer, Cells Infrastructure",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8867756002",
+    "first_seen_utc": "2026-10-17 14:58:44"
+  },
+  "greenhouse::8280093": {
+    "company": "dropbox",
+    "title": "Senior Corporate Enterprise Platform Engineer, Windows",
+    "url": "https://jobs.dropbox.com/listing/8280093?gh_jid=8280093",
+    "first_seen_utc": "2026-10-17 14:58:44"
+  },
+  "greenhouse::8280094": {
+    "company": "dropbox",
+    "title": "Senior Corporate Enterprise Platform Engineer, Windows",
+    "url": "https://jobs.dropbox.com/listing/8280094?gh_jid=8280094",
+    "first_seen_utc": "2026-10-17 14:58:44"
   }
 }

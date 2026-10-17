@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-10-16 16:07 UTC
+Generated: 2026-10-17 14:59 UTC
 
-Total new jobs: 85
+Total new jobs: 90
 
 ## greenhouse
 
@@ -64,6 +64,14 @@ Total new jobs: 85
 
 - [Senior Infrastructure Engineer, Storage Platform](https://boards.greenhouse.io/cloudflare/jobs/7629805?gh_jid=7629805)
   - Company: cloudflare
+  - Location: Remote
+
+- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280093?gh_jid=8280093)
+  - Company: dropbox
+  - Location: Remote
+
+- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280094?gh_jid=8280094)
+  - Company: dropbox
   - Location: Remote
 
 - [Senior Site Reliability Engineer (Hosted Infra)](https://jobs.elastic.co/jobs?gh_jid=8166580&gh_jid=8166580)
@@ -218,6 +226,10 @@ Total new jobs: 85
   - Company: okta
   - Location: Remote
 
+- [Senior Platform Engineer, Layer0 (Auth0)](https://www.okta.com/company/careers/opportunity/8286405?gh_jid=8286405)
+  - Company: okta
+  - Location: Remote
+
 - [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8015032?gh_jid=8015032)
   - Company: okta
   - Location: Remote
@@ -272,8 +284,23 @@ Total new jobs: 85
 
 ## jobicy
 
+- [Senior DevOps Engineer](https://jobicy.com/jobs/155494-senior-devops-engineer-9)
+  - Company: Documo Inc.
+  - Location: Anywhere
+  - Level/Team: DevOps & Infrastructure
+
+- [Senior DevOps Engineer](https://jobicy.com/jobs/155574-senior-devops-engineer-10)
+  - Company: dscout
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
 - [IT Engineer](https://jobicy.com/jobs/155006-it-engineer-2)
   - Company: Elevenlabs
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Senior DevOps Engineer - Storage Platforms](https://jobicy.com/jobs/153466-senior-devops-engineer-storage-platforms)
+  - Company: Five9
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
@@ -322,24 +349,19 @@ Total new jobs: 85
   - Location: Anywhere
   - Level/Team: DevOps & Infrastructure
 
+- [Postgres Deployment Engineer (Nix)](https://jobicy.com/jobs/153446-postgres-deployment-engineer-nix)
+  - Company: Supabase
+  - Location: Anywhere
+  - Level/Team: DevOps & Infrastructure
+
 - [Site Reliability Engineer](https://jobicy.com/jobs/155391-site-reliability-engineer-4)
   - Company: Supabase
   - Location: Anywhere
   - Level/Team: DevOps & Infrastructure
 
-- [Software Engineer, AI/ML Infrastructure](https://jobicy.com/jobs/152419-software-engineer-ai-ml-infrastructure)
-  - Company: Thumbtack
-  - Location: Canada
-  - Level/Team: DevOps & Infrastructure
-
 - [DevOps Engineer](https://jobicy.com/jobs/154974-devops-engineer-7)
   - Company: WalkMe
   - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
-- [Senior Infrastructure Engineer](https://jobicy.com/jobs/153105-senior-infrastructure-engineer-3)
-  - Company: Webflow
-  - Location: Argentina
   - Level/Team: DevOps & Infrastructure
 
 ## lever
