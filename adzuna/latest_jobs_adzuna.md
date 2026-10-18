@@ -1,9 +1,53 @@
 # Jobs via Adzuna API
 
-Generated: 2026-10-17 15:15 UTC
-Total jobs (24h window): 680
+Generated: 2026-10-18 15:36 UTC
+Total jobs (24h window): 621
 
-- [Senior DevOps Engineer - Contract W2 position](https://www.adzuna.com/land/ad/5930805632?se=qG3icn3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=70B4D07DE0C10B7C961AD8BCAEA4192CF5F58BB7)
+- [DevOps Software Engineer](https://www.adzuna.com/land/ad/5933235436?se=dipLpgnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=B3A98BE8509ACD5C01B6D8118EB4FCC0B4D446E3)
+  - Company: Leidos | Bethesda, Montgomery County
+  - Description Leidos has an exciting opening for you, our next TS/SCI cleared DevOps Software Engineer working with a dyna...
+
+- [DevOps Software Engineer](https://www.adzuna.com/land/ad/5933100840?se=dipLpgnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=6CDC57ECC5DB858C4E461D99481D95CBBA1EEE23)
+  - Company: Leidos | Bethesda, Montgomery County
+  - Leidos has an exciting opening for you, our next TS/SCI cleared DevOps Software Engineer working with a dynamic team to ...
+
+- [Entry Level Java/DevOps Developer - Remote/Junior Data Engineer](https://www.adzuna.com/land/ad/5932900198?se=dipLpgnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=BB279D85A38DF0868E77FE8A837177DF17AF1B36)
+  - Company: SynergisticIT | Phoenix, Maricopa County
+  - Three Hundred Applications, Zero Recruiter Calls Volume Is Not a Strategy When Nobody Opens the Resume You track applica...
+
+- [Sr. DevOps Engineer (Remote)](https://www.adzuna.com/details/5932346814?utm_medium=api&utm_source=632a28fd)
+  - Company: Cognizant | Highland Park, Dallas
+  - About the role As a Sr. DevOps Engineer, you will make an impact by designing scalable deployment pipelines and improvin...
+
+- [DevOps Engineer](https://www.adzuna.com/details/5932217475?utm_medium=api&utm_source=632a28fd)
+  - Company: SAIC | US
+  - DevOps Engineer Job ID: 2617907 Location: Remote Work, TX, United States Date Posted: Oct 16, 2026 Category: Information...
+
+- [DevOps Engineer](https://www.adzuna.com/details/5932061546?utm_medium=api&utm_source=632a28fd)
+  - Company: Insight Global | West Miami, Miami-Dade County
+  - Job Description We are seeking a Systems & DevOps Engineer to work remotely in Miami/Ft. Lauderdale with some office vis...
+
+- [DevOps Engineer](https://www.adzuna.com/details/5931936581?utm_medium=api&utm_source=632a28fd)
+  - Company: Auria Space | Colorado Springs, El Paso County
+  - Position: DevOps Engineer Location: Colorado Springs, CO Remote Status: On-Site Job Id: 13905-TASD-Eric  of Openings: 1 ...
+
+- [Senior Devops Engineer](https://www.adzuna.com/details/5931816487?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Grover, Saint Louis County
+  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
+
+- [DevOps Engineer (MCCF- Healthcare Systems)](https://www.adzuna.com/land/ad/5931733852?se=dipLpgnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=740064D0C38C720C4BD37FCE73D6311B31368083)
+  - Company: HigherEchelon | US
+  - DevOps Engineer (MCCF- Healthcare Systems) Location: Remote Description HigherEchelon has an exciting opportunity for a ...
+
+- [DevOps Software Engineer with Security Clearance](https://www.adzuna.com/land/ad/5931586951?se=dipLpgnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=593E0496AEC485E3B4E1A93213408D5B62C6DEC3)
+  - Company: Leidos | Bethesda, Montgomery County
+  - R-00194742 Description Leidos has an exciting opening for you, our next TS/SCI cleared DevOps Software Engineer working ...
+
+- [SRE / DevOps Engineer](https://www.adzuna.com/land/ad/5931077185?se=dipLpgnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=A604B98E5C74F330576A7094B03E4D29FDBD12F9)
+  - Company: ERPMark Inc | US
+  -  We’re Hiring: SRE / DevOps Engineer  Location: Canada – Remote  Duration: 3 Months Contract  Key Technical Requirements...
+
+- [Senior DevOps Engineer - Contract W2 position](https://www.adzuna.com/land/ad/5930805632?se=dipLpgnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=70B4D07DE0C10B7C961AD8BCAEA4192CF5F58BB7)
   - Company: SunRay Enterprise Inc | US
   - Job Title: Senior DevOps Engineer Location: Remote Duration: 6 Month s Contract Job Description: Build the AWS productio...
 
@@ -12,14 +56,10 @@ Total jobs (24h window): 680
   - DevOps Engineer Role Type: Contractor Location: Remote Job Overview We are seeking experienced DevOps Engineers to creat...
 
 - [Senior DevOps Engineer, Azure](https://www.adzuna.com/details/5930519325?utm_medium=api&utm_source=632a28fd)
-  - Company: Kelly Services | US
+  - Company: Kelly Services | William Penn Annex East, Philadelphia County
   - $150000 - $170000 This smaller SaaS company is hiring a Senior DevOps Engineer for a full-time, fully remote role. They ...
 
-- [Entry Level Java/DevOps Developer - Remote/Junior Data Engineer](https://www.adzuna.com/land/ad/5929930590?se=qG3icn3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=289A1C3EE46D86A3FADD146F48106F54BE1CBF93)
-  - Company: SynergisticIT | Phoenix, Maricopa County
-  - Three Hundred Applications, Zero Recruiter Calls Volume Is Not a Strategy When Nobody Opens the Resume You track applica...
-
-- [Google Cloud Platform Infrastructure - DevOps Engineer](https://www.adzuna.com/land/ad/5929723898?se=qG3icn3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=9C7A7D4BE4546DB34E8E6E9DDD3D562C3ED2E248)
+- [Google Cloud Platform Infrastructure - DevOps Engineer](https://www.adzuna.com/land/ad/5929723898?se=dipLpgnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=9C7A7D4BE4546DB34E8E6E9DDD3D562C3ED2E248)
   - Company: Sensiple Inc. | Lauderdale, Ramsey County
   - Sensiple Inc is a New Jersey corporation with over two decades of expertise in technology-driven solutions specializing ...
 
@@ -31,13 +71,29 @@ Total jobs (24h window): 680
   - Company: Saransh Inc | New Jersey, US
   - Position Title: GCP Infrastructure / DevOps Engineer Location: Remote Duration: 6 Months Contract Job Description: Autom...
 
-- [DevOps/SRE Engineer](https://www.adzuna.com/land/ad/5929691438?se=qG3icn3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=59BFC5E870A5DB394A85F2499AB35059CCF82D81)
+- [DevOps/SRE Engineer](https://www.adzuna.com/land/ad/5929691438?se=dipLpgnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=59BFC5E870A5DB394A85F2499AB35059CCF82D81)
   - Company: Datasignify | US
   - Hi, Position: DevOps/SRE Engineer Location: Remote Duration: Contract to Hire Job Description: WHAT YOU'LL DO Own day-to...
 
-- [Devops Engineer](https://www.adzuna.com/land/ad/5929324744?se=qG3icn3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=B35D4E3739C5DE726DBCD8BB98ACC640AF689451)
+- [Devops Engineer](https://www.adzuna.com/land/ad/5929324744?se=dipLpgnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=B35D4E3739C5DE726DBCD8BB98ACC640AF689451)
   - Company: Unicorn Technologies LLC | US
   - Role: Devops Engineer Location : Remote (TX) Long term Contract (Full Time) JOB DESCRIPTION One of our largest Telecom c...
+
+- [Senior DevOps Engineer](https://www.adzuna.com/land/ad/5929153649?se=dipLpgnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=35367B1922053F0CD6B6A2FAE49A672A185A1E89)
+  - Company: NewVision Software & Consultancy Pvt. Ltd | US
+  - Job Title: Senior DevOps Engineer Location: Remote Job Type: 6 months contract EXPERIENCE : Strong knowledge of Cloud, C...
+
+- [DevOps Automation Engineer](https://www.adzuna.com/details/5928734896?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Tierra Buena, Sutter County
+  - DevOps Automation Engineer – Remote Bright Vision Technologies is a technology consulting and software development compa...
+
+- [Senior DevOps Engineer, Azure](https://www.adzuna.com/land/ad/5928432206?se=dipLpgnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=045B6FB00C210B0A6799B91CC454CC6D12B0C778)
+  - Company: Motion Recruitment Partners, LLC | US
+  - This smaller SaaS company is hiring a Senior DevOps Engineer for a full-time, fully remote role. They are a software com...
+
+- [Remote - Senior DevOps Engineer (Active Secret Clearance) (United States)](https://www.adzuna.com/land/ad/5927873743?se=dipLpgnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=52791C4354715506F3A49418BC198E50209D3FEF)
+  - Company: Striveworks | US
+  - “In 36 months, agentic AI systems will be an operating reality across major institutions. We intend to be central to it....
 
 - [Senior DevOps Engineer - Remote](https://www.adzuna.com/details/5927667986?utm_medium=api&utm_source=632a28fd)
   - Company: Cognizant | Highland Park, Dallas
@@ -47,6 +103,10 @@ Total jobs (24h window): 680
   - Company: Bright Vision Technologies | Rancho Santa Fe, San Diego County
   - Network DevOps Engineer – Remote Bright Vision Technologies is a technology consulting and software development company ...
 
+- [Azure DevOps Engineer](https://www.adzuna.com/details/5927527609?utm_medium=api&utm_source=632a28fd)
+  - Company: C&F | Loveland, Larimer County
+  - C&F is a technology services company providing innovative solutions in Data Management, Big Data, Advanced Analytics and...
+
 - [Azure DevOps Engineer](https://www.adzuna.com/details/5926991795?utm_medium=api&utm_source=632a28fd)
   - Company: C&F | Loveland, Larimer County
   - C&F is a technology services company providing innovative solutions in Data Management, Big Data, Advanced Analytics and...
@@ -55,33 +115,61 @@ Total jobs (24h window): 680
   - Company: Akaasa Technologies | US
   - Terraform DevOps Engineer Location: Remote (San Francisco, CA; Arlington, VA; Denver, CO; Chicago, IL; Boston, MA; New Y...
 
-- [DevOps Engineer](https://www.adzuna.com/land/ad/5926193067?se=qG3icn3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=FC820942FE096E2C5B787D0B5B6DF201348B1A18)
+- [DevOps Engineer](https://www.adzuna.com/land/ad/5926193067?se=dipLpgnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=FC820942FE096E2C5B787D0B5B6DF201348B1A18)
   - Company: INSPYR Solutions | US
   - Title: DevOps Engineer Location: Remote Duration: 6  month contract Compensation: Competitive, based on experience Work ...
+
+- [DevOps Automation Engineer](https://www.adzuna.com/details/5926109812?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Yuba City, Sutter County
+  - DevOps Automation Engineer – Remote Bright Vision Technologies is a technology consulting and software development compa...
+
+- [Cloud Devops Engineer](https://www.adzuna.com/land/ad/5925906750?se=dipLpgnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=6855AA1B30B0E6826C2AA9FFA598AD0DF7C53465)
+  - Company: QUANTUM TECHNOLOGIES LLC | US
+  - Job Title: Cloud Devops Engineer Location: Remote Duration: 6 Months  Extension Bill Rate: $76 Job Type: W-2 Contract Cl...
+
+- [Network DevOps Engineer](https://www.adzuna.com/details/5925318978?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - Network DevOps Engineer – Remote Bright Vision Technologies is a technology consulting and software development company ...
 
 - [DevOps Engineer](https://www.adzuna.com/details/5925152189?utm_medium=api&utm_source=632a28fd)
   - Company: Technotopia Solutions LLC | New Jersey, US
   - Position: DevOps Engineer Location: 100% Remote (USA) Job Type: Long-Term Contract Key Responsibilities: Manage and supp...
 
+- [SRE](https://www.adzuna.com/details/5925151104?utm_medium=api&utm_source=632a28fd)
+  - Company: Openkyber | Atlanta, Fulton County
+  - Job Title: Sr. DevOps Engineer (Compute Platform) Location: Remote Duration- 3 Month Contract 6 years of experience as a...
+
+- [SRE](https://www.adzuna.com/details/5925151092?utm_medium=api&utm_source=632a28fd)
+  - Company: Openkyber | Atlanta, Fulton County
+  - L2 Operations Support Engineer (Cloud & DevOps) USA, Remote Positions: 7 Position Summary The L2 Operations Support Engi...
+
+- [Senior DevOps Engineer(Remote)](https://www.adzuna.com/details/5925150600?utm_medium=api&utm_source=632a28fd)
+  - Company: HRC Global Services | Reston, Fairfax County
+  - Position-Senior Devops Manager Job description: seeking a Senior DevOps Engineer to own release management, CI/CD, and p...
+
+- [DevOps engineer](https://www.adzuna.com/details/5925150356?utm_medium=api&utm_source=632a28fd)
+  - Company: Conch Technologies Inc | Minnesota, US
+  - Title: Devops Engineer Location: Remote Duration: 6 Month C2H 12 years of experience in Infrastructure, Cloud, DevOps, o...
+
+- [Devops Engineer](https://www.adzuna.com/details/5925150279?utm_medium=api&utm_source=632a28fd)
+  - Company: Akaasa Technologies | US
+  - Devops Engineer Remote 12 years of experience in Infrastructure, Cloud, DevOps, or Platform Engineering. 7 years designi...
+
 - [Azure DevOps Engineer](https://www.adzuna.com/details/5925150272?utm_medium=api&utm_source=632a28fd)
   - Company: Akaasa Technologies | US
   - Job Title :: Azure DevOps Engineer Location :: Remote Duration :: 6-12 Months CTH Interview :: Vide o Required Qualifica...
 
-- [DevOps Engineer (REMOTE)](https://www.adzuna.com/land/ad/5923138588?se=qG3icn3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=299F34EF44FCF71096260F893B0800261B9884A8)
+- [DevOps Engineer](https://www.adzuna.com/details/5925150265?utm_medium=api&utm_source=632a28fd)
+  - Company: Akaasa Technologies | US
+  - POSITION Devops Engineer LOCATION REMOTE DURATION 6 MONTHS INTERVIEW TYPE Video VISA RESTRICTIONS NONE REQUIRED SKILLS R...
+
+- [DevOps Engineer (REMOTE)](https://www.adzuna.com/land/ad/5923138588?se=dipLpgnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=299F34EF44FCF71096260F893B0800261B9884A8)
   - Company: Koniag Government Services | Washington, D.C., US
   - This position may be filled prior to the posted deadline. Interested candidates are encouraged to apply as soon as possi...
 
 - [DevOps & SRE Engineer](https://www.adzuna.com/details/5922957323?utm_medium=api&utm_source=632a28fd)
-  - Company: Bright Vision Technologies | Fishers, Hamilton County
+  - Company: Bright Vision Technologies | Franklin, Williamson County
   - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
-
-- [DevOps Engineer (REMOTE)](https://www.adzuna.com/details/5922096259?utm_medium=api&utm_source=632a28fd)
-  - Company: Koniag Government Services | Washington, Washington, D.C.
-  - This position may be filled prior to the posted deadline. Interested candidates are encouraged to apply as soon as possi...
-
-- [DevOps Engineer (EST only)](https://www.adzuna.com/land/ad/5921762902?se=qG3icn3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=DEE6AFDB7A5B462D1CA9278C42E55813523F3845)
-  - Company: CopilotIQ | Atlanta, Fulton County
-  - Job Description Job Description At the forefront of health tech innovation, CopilotIQ  Biofourmis is transforming in-hom...
 
 - [DevOps Engineer](https://www.adzuna.com/details/5921402559?utm_medium=api&utm_source=632a28fd)
   - Company: VeeRteq Solutions Inc. | Upper East Side, Manhattan
@@ -99,15 +187,15 @@ Total jobs (24h window): 680
   - Company: ReqRoute,Inc | US
   - Role: Cloud Infrastructure DevOps Engineer Location: Remote, USA Work Authorization: USC/GC only (W2/C2C) Role Overview ...
 
-- [Senior Azure DevOps Engineer - Only W2](https://www.adzuna.com/land/ad/5921121338?se=qG3icn3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=FB16CB7D58C7F9286DAAD1979EAE91D636961DFB)
+- [Senior Azure DevOps Engineer - Only W2](https://www.adzuna.com/land/ad/5921121338?se=ol8WpwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=FB16CB7D58C7F9286DAAD1979EAE91D636961DFB)
   - Company: Info Dinamica Inc | Alaska, US
   - Senior Azure DevOps Engineer Remote (US) Job Type: W2 Contract Primary skills: Azure Bash CI/CD Containerization Kuberne...
 
 - [DevOps & SRE Engineer](https://www.adzuna.com/details/5921102478?utm_medium=api&utm_source=632a28fd)
-  - Company: Bright Vision Technologies | Fishers, Hamilton County
+  - Company: Bright Vision Technologies | US
   - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
 
-- [Sr. Mobile DevOps Engineer](https://www.adzuna.com/land/ad/5921081422?se=qG3icn3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=385094B5B5C8F8CC338FCDAA390881D62B58B700)
+- [Sr. Mobile DevOps Engineer](https://www.adzuna.com/land/ad/5921081422?se=ol8WpwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=385094B5B5C8F8CC338FCDAA390881D62B58B700)
   - Company: CIS Technologies Inc. | US
   - Hi Associate, Greetings for the day, We have a position as a Sr. DevOps Engineer (Mobile) role for Remote. Please find t...
 
@@ -115,51 +203,23 @@ Total jobs (24h window): 680
   - Company: Bright Vision Technologies | Bridgewater, Somerset County
   - Middleware System Administrator / DevOps Engineer required for my client. Please go through the below job details if int...
 
-- [DevOps Engineer (REMOTE) with Security Clearance](https://www.adzuna.com/land/ad/5920154609?se=qG3icn3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=CAB878B34B6363465D7B05A0FB6F43ECAC1DC44B)
+- [DevOps Engineer (REMOTE) with Security Clearance](https://www.adzuna.com/land/ad/5920154609?se=ol8WpwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=CAB878B34B6363465D7B05A0FB6F43ECAC1DC44B)
   - Company: Koniag Government Services | Washington, D.C., US
   - This position may be filled prior to the posted deadline. Interested candidates are encouraged to apply as soon as possi...
 
-- [DevOps / DevSecOps Engineer](https://www.adzuna.com/details/5919862574?utm_medium=api&utm_source=632a28fd)
-  - Company: Staffxpert LLC | Roxbury Crossing, Suffolk County
-  - DevOps / DevSecOps Engineer Location: Remote or Boston, MA Duration: 6 Months Contract Possible Extension Industry: Heal...
-
-- [Azure Platform Engineer](https://www.adzuna.com/details/5919861343?utm_medium=api&utm_source=632a28fd)
-  - Company: Openkyber | Atlanta, Fulton County
-  - Job Title: AI & Platform Software Engineer (GenAI | Azure | DevOps | Platform Engineering) Location: Remote (Occasional ...
-
-- [Cloud Infrastructure DevOps Engineer](https://www.adzuna.com/details/5919858422?utm_medium=api&utm_source=632a28fd)
-  - Company: VDart Inc | US
-  - Role :- Cloud Infrastructure DevOps Engineer Location :- Remote, USA Contract Role Overview Lead by a team of Cloud Arch...
-
-- [Senior Dev Operations Engineer](https://www.adzuna.com/land/ad/5919631325?se=qG3icn3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=C3C9177E9A1A5A41473F8F1D8D0F777AD559D56D)
+- [Senior Dev Operations Engineer](https://www.adzuna.com/land/ad/5919631325?se=ol8WpwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=C3C9177E9A1A5A41473F8F1D8D0F777AD559D56D)
   - Company: Buxton Consulting | US
   - The Senior DevOps Engineer Remote (PST) The Senior DevOps Engineer / Architect will act as a primary technical principal...
 
-- [DevOps Engineer](https://www.adzuna.com/details/5917964413?utm_medium=api&utm_source=632a28fd)
-  - Company: Elevait Solutions | Chicago, Cook County
-  - DevOps Engineer | Remote | 90 Day Contract-to-Hire If you live in Kubernetes, know your way around CI/CD pipelines, and ...
-
-- [Data Observability Engineer](https://www.adzuna.com/details/5917961486?utm_medium=api&utm_source=632a28fd)
-  - Company: Openkyber | Atlanta, Fulton County
-  - Title: DevOps / Observability Engineer Location: Remote (US) Duration: Long Term Sourcing Rationale: Observability pipel...
-
-- [Platform Engineer](https://www.adzuna.com/details/5917961307?utm_medium=api&utm_source=632a28fd)
-  - Company: Openkyber | Atlanta, Fulton County
-  - Job Title: DevOps Engineer AWS Location: Remote Employment Type: Contract W2 Job Summary We are seeking an experienced D...
-
-- [Senior HPC DevOps Engineer](https://www.adzuna.com/details/5917957459?utm_medium=api&utm_source=632a28fd)
-  - Company: Stellent IT LLC | Mather, Sacramento County
-  - Senior DevOps Engineer HPC / EDA / SLURM / Azure Location: Remote Rancho Cordova, CA Duration: 12 months Job Description...
-
-- [Sr. DevOps Engineer](https://www.adzuna.com/land/ad/5917835310?se=ItDDc33J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=4FE84C97B6FCA142DB8567D5A0D6DC909CCB34D7)
+- [Sr. DevOps Engineer](https://www.adzuna.com/land/ad/5917835310?se=ol8WpwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=4FE84C97B6FCA142DB8567D5A0D6DC909CCB34D7)
   - Company: Triune Infomatics Inc | Florin, Sacramento County
   - Role: Senior DevOps Engineer Location: Remote (Preferably local to Pleasanton, Vacaville, or Sacramento) Duration: 12 mo...
 
-- [Senior DevOps Engineer](https://www.adzuna.com/land/ad/5917809249?se=ItDDc33J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=0F8581B67A7E11FC12DF487C5430907F3F20BE3B)
+- [Senior DevOps Engineer](https://www.adzuna.com/land/ad/5917809249?se=ol8WpwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=0F8581B67A7E11FC12DF487C5430907F3F20BE3B)
   - Company: Kforce Technology Staffing | Northlake, DeKalb County
   - RESPONSIBILITIES: Kforce has a client that is seeking a remote Senior DevOps Engineer to join their team. Summary: They ...
 
-- [Azure DevOps Engineer Azure Data Platform](https://www.adzuna.com/land/ad/5917704841?se=ItDDc33J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=EC866A6BC6CAFBEAF76A8DEF4253E0ADAA8D7350)
+- [Azure DevOps Engineer Azure Data Platform](https://www.adzuna.com/land/ad/5917704841?se=ol8WpwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=EC866A6BC6CAFBEAF76A8DEF4253E0ADAA8D7350)
   - Company: Shimento, Inc. | US
   - Senior Azure DevOps  Data Platform Engineer Location: USA – Remote (Work in Pacific Time) Duration: Long Term Position O...
 
@@ -167,37 +227,25 @@ Total jobs (24h window): 680
   - Company: TMS LLC | US
   - Job Description Role: Middleware System Administrator / DevOps Engineer Location: Remote Duration: 12 Months Experience ...
 
-- [DevOps Engineer - Remote](https://www.adzuna.com/land/ad/5915660229?se=ItDDc33J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=F9A97DD5692AEE2F521290FDED23326E3325C4D3)
-  - Company: YO AI Labs | Austin, Travis County
-  - Job Description Job Description DevOps Engineer Role Type: Contractor Location: Remote Job Overview We are seeking exper...
-
-- [DevOps Engineer - Remote](https://www.adzuna.com/land/ad/5914200612?se=ItDDc33J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=A830A00208078C37E7CA2BEE6B036FA3A1729C0E)
-  - Company: YO AI Labs | Houston, Harris County
-  - Job Description Job Description DevOps Engineer Role Type: Contractor Location: Remote Job Overview We are seeking exper...
-
-- [Devops Engineer | Remote | $30-$60/hr](https://www.adzuna.com/land/ad/5914073183?se=ItDDc33J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=3D48FB9F4723E9B91CB4C70C65998C8BC547EED8)
-  - Company: Codefeast | US
-  - Devops Engineer Experience: 3–8 Years Job Type: Contractor Location: Remote Compensation: $30–$60/hour Role Overview Con...
-
-- [DevOps Engineer](https://www.adzuna.com/land/ad/5914041309?se=ItDDc33J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=315A6711F28A2063B1464A90074A9ED7383F17AD)
+- [DevOps Engineer](https://www.adzuna.com/land/ad/5914041309?se=ol8WpwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=315A6711F28A2063B1464A90074A9ED7383F17AD)
   - Company: Accurate Lab Audits | US
   - Company Description Accurate Lab Audits provides technology-driven solutions that help laboratories improve the accuracy...
 
-- [REMOTE: DevOps Engineer (Mid Level)](https://www.adzuna.com/land/ad/5914035018?se=ItDDc33J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=5F46D81842CEF7316127317187A0F164C1DB40CA)
+- [REMOTE: DevOps Engineer (Mid Level)](https://www.adzuna.com/land/ad/5914035018?se=ol8WpwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=5F46D81842CEF7316127317187A0F164C1DB40CA)
   - Company: IntePros | US
   - Mid-Level DevOps Engineer Intepros is seeking a Mid-Level DevOps Engineer to join our valued client and support their te...
 
-- [Lead DevOps Engineer - Remote](https://www.adzuna.com/land/ad/5912472891?se=ItDDc33J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=4553F27991D73A01A895F68ECF9F8240D69F608C)
+- [Remote - Senior DevOps Engineer (Active Secret Clearance)](https://www.adzuna.com/land/ad/5914032134?se=ol8WpwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=72BC287EACBB4F2C732E75A740294798F85736CF)
+  - Company: Striveworks | US
+  - “In 36 months, agentic AI systems will be an operating reality across major institutions. We intend to be central to it....
+
+- [Lead DevOps Engineer - Remote](https://www.adzuna.com/land/ad/5912472891?se=ol8WpwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=4553F27991D73A01A895F68ECF9F8240D69F608C)
   - Company: UnitedHealth Group | Eden Prairie, Hennepin County
   - Requisition number: 2392610 Job category: Technology Optum Tech is a global leader in health care innovation. Our teams ...
 
-- [REMOTE DevOps Engineer](https://www.adzuna.com/land/ad/5911495188?se=ItDDc33J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=4774A8FE89A7BA26EC27AE085B5E253BF8AD4FAA)
+- [REMOTE DevOps Engineer](https://www.adzuna.com/land/ad/5911495188?se=ol8WpwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=4774A8FE89A7BA26EC27AE085B5E253BF8AD4FAA)
   - Company: Insight Global | Newburgh Heights, Cuyahoga County
   - Job Description Design, build, and maintain CI/CD pipelines to support application development and deployment. Automate ...
-
-- [Remote DevOps Engineer (Redshift)](https://www.adzuna.com/details/5909977374?utm_medium=api&utm_source=632a28fd)
-  - Company: Insight Global | Tysons, Fairfax County
-  - Job Description Skills and Requirements We are a company committed to creating diverse and inclusive environments where ...
 
 - [MD DevOps Engineer 3-TS/SCI w/ Polygraph](https://www.adzuna.com/details/5907961072?utm_medium=api&utm_source=632a28fd)
   - Company: Sunayu | Maryland, US
@@ -214,10 +262,6 @@ Total jobs (24h window): 680
 - [Sr. DevOps Engineer (REMOTE)](https://www.adzuna.com/details/5904893654?utm_medium=api&utm_source=632a28fd)
   - Company: Cyware | US
   - Job Title: Senior DevOps Engineer Location: USA (Remote or Regional Office) Reports To: SVP of Engineering About Cyware ...
-
-- [Sr Software Development Engineer VNDLY with Security Clearance](https://www.adzuna.com/land/ad/5904365253?se=ItDDc33J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=ACA86549EB92F03AE1577F732405CABA1D3EEB52)
-  - Company: Workday | Foster, Warren County
-  - Your work days are brighter here. We’re obsessed with making hard work pay off, for our people, our customers, and the w...
 
 - [Mid DevOps Engineer](https://www.adzuna.com/details/5903801652?utm_medium=api&utm_source=632a28fd)
   - Company: ZipStaff | Grand Rapids, Kent County
@@ -247,7 +291,7 @@ Total jobs (24h window): 680
   - Company: TeamDynamix | US
   - About the job TeamDynamix is searching for a mid-level DevOps Software Engineer (Remote) to join our Process Automation ...
 
-- [DevOps Automation Engineer](https://www.adzuna.com/land/ad/5895930244?se=ItDDc33J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=3199737C32B4D1EAA5309E573BEC38B87FC3323D)
+- [DevOps Automation Engineer](https://www.adzuna.com/land/ad/5895930244?se=ol8WpwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=3199737C32B4D1EAA5309E573BEC38B87FC3323D)
   - Company: NeevSys Inc | US
   - Hi, we are looking for DevOps Automation Engineer for one of our client Federal please share updated resume along with S...
 
@@ -255,12 +299,12 @@ Total jobs (24h window): 680
   - Company: Sprezzatura Management Consulting | US
   - Position Title: Senior DevOps Engineer Location: Remote (Within the U.S.) Other Considerations: U.S. Citizen or Permanen...
 
-- [Azure DevOps/Cloud Engineer](https://www.adzuna.com/land/ad/5894384960?se=ItDDc33J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=8229EA7D1A63B23685C6761B2C9FBA96ACD4E981)
+- [Azure DevOps/Cloud Engineer](https://www.adzuna.com/land/ad/5894384960?se=ol8WpwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=8229EA7D1A63B23685C6761B2C9FBA96ACD4E981)
   - Company: Apex Systems | Chamberlayne, Henrico County
   - Job: 3053001 Job Description: Azure DevOps/Cloud Engineer Location: Richmond, VA (Remote) Position Summary An opportunit...
 
-- [DevOps Engineer with Security Clearance](https://www.adzuna.com/land/ad/5893684197?se=ItDDc33J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=746319CE75E00F4ADFF8AF779F8AAF78CBACCA89)
-  - Company: Auria | Falcon, El Paso County
+- [DevOps Engineer with Security Clearance](https://www.adzuna.com/land/ad/5893684197?se=ol8WpwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=746319CE75E00F4ADFF8AF779F8AAF78CBACCA89)
+  - Company: Auria | Colorado Springs, El Paso County
   - Position: DevOps Engineer Location: Colorado Springs, CO Remote Status: On-Site Job Id: 13905-TASD-Eric  of Openings: 1 ...
 
 - [DevOps Engineer](https://www.adzuna.com/details/5891792934?utm_medium=api&utm_source=632a28fd)
@@ -287,19 +331,55 @@ Total jobs (24h window): 680
   - Company: Ayla Networks | US
   - Description Senior DevOps Engineer — Remote About Ayla Networks Ayla Networks is a full-stack IoT platform and managed s...
 
-- [Remote Azure DevOps Engineer / PST Hours](https://www.adzuna.com/land/ad/5879618681?se=ItDDc33J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=437875728F88CAB35CACA9DE5E968A95B7E8164C)
+- [Remote Azure DevOps Engineer / PST Hours](https://www.adzuna.com/land/ad/5879618681?se=ol8WpwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=437875728F88CAB35CACA9DE5E968A95B7E8164C)
   - Company: Kelly Services | Phoenix, Maricopa County
   - $115000 - $135000 A boutique software consulting firm is seeking a fully remote Azure DevOps Engineer to join a growing ...
 
-- [Remote Azure DevOps Engineer / PST Hours](https://www.adzuna.com/land/ad/5877834899?se=ItDDc33J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=B4583110B40B0C9595DBC55EC76086F9BCA79E53)
+- [Remote Azure DevOps Engineer / PST Hours](https://www.adzuna.com/land/ad/5877834899?se=ol8WpwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=B4583110B40B0C9595DBC55EC76086F9BCA79E53)
   - Company: Motion Recruitment Partners, LLC | US
   - A boutique software consulting firm is seeking a fully remote Azure DevOps Engineer to join a growing team focused on de...
 
-- [Azure DevOps Engineer - Remote](https://www.adzuna.com/land/ad/5875729833?se=ItDDc33J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=C1F19725E970BBC91E1EA4E6EEBDD4F5E01E41F2)
+- [Azure DevOps Engineer - Remote](https://www.adzuna.com/land/ad/5875729833?se=ol8WpwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=C1F19725E970BBC91E1EA4E6EEBDD4F5E01E41F2)
   - Company: SSN Group LLC | US
   - Hi, Job Title: Azure DevOps Engineer Location: Remote Duration: Longterm Skills required: Experience with Azure DevOps (...
 
-- [Senior Site Reliability Engineer](https://www.adzuna.com/land/ad/5930821338?se=hGbKdH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=3DEFE2D38776C463627C051466F2EA54D7630DAA)
+- [Azure DevOps Engineer](https://www.adzuna.com/land/ad/5872303758?se=ol8WpwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=C892786E2A53C72C6343F4255B1FB14940DCA73A)
+  - Company: SSN Group LLC | US
+  - Hi, Job Title: Azure DevOps Engineer Location: Remote Duration: Longterm Skills required: 8 Years experience with Azure ...
+
+- [Network DevOps Engineer (Remote Opportunity)](https://www.adzuna.com/details/5870554603?utm_medium=api&utm_source=632a28fd)
+  - Company: Hyatt | Illinois Medical District, Chicago
+  - Description: The Opportunity Hyatt Hotels Corporation seeks an enthusiastic Network DevOps Engineer to join our Global N...
+
+- [Mid-Level Microsoft DevOps Engineer (REMOTE)](https://www.adzuna.com/details/5868825347?utm_medium=api&utm_source=632a28fd)
+  - Company: Koniag Government Services | Chantilly, Fairfax County
+  - This position may be filled prior to the posted deadline. Interested candidates are encouraged to apply as soon as possi...
+
+- [DevOps Engineer, Infrastructure - Remote](https://www.adzuna.com/land/ad/5863093206?se=ol8WpwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=D2F5182E138F8CFC6B9CA20CF621EAB22ED3BCF8)
+  - Company: Origami Risk | Highland Park, Dallas
+  - As a DevOps Engineer, Infrastructure you will be responsible for deploying product updates, identifying production issue...
+
+- [Senior/Lead DevOps Engineer (On-Prem Infrastructure) - Remote](https://www.adzuna.com/land/ad/5863093144?se=ol8WpwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=9EED4C8F72E90AA7BE97E7430E6F653DE1EA73C0)
+  - Company: SoftServe | Hayes Valley, San Francisco
+  - Our client builds and operates hybrid infrastructure, spanning on-premises GPU clusters and multi-cloud environments, fo...
+
+- [SRE-Platform Lead](https://www.adzuna.com/details/5932976708?utm_medium=api&utm_source=632a28fd)
+  - Company: Gemini Solutions Pvt Ltd | US
+  - Position: Senior Site Reliability Engineer (SRE) Platform Lead Job Location: Remote/ US Job Type: Full Time Immediate In...
+
+- [Site Reliability Engineer](https://www.adzuna.com/details/5932289669?utm_medium=api&utm_source=632a28fd)
+  - Company: Ascending | Austin, Travis County
+  - Required U.S. Citizenship / No clearance needed / 100% remote within the US Staff Site Reliability Engineer / Cloud SME ...
+
+- [Site Reliability Engineer (Remote)](https://www.adzuna.com/land/ad/5932054096?se=jI0RqAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=C9BB1A4807B779ED01E9FB947A4CBA264393485D)
+  - Company: Cisco | Durham, Durham County
+  - The application window is expected to close on: 10/30/2026 This position will perform work that the U.S. government has ...
+
+- [Site Reliability Engineer (Remote)](https://www.adzuna.com/land/ad/5932015524?se=jI0RqAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=7A416C1AB907BA1FC7F93AA3F6F5B22C9AABF4B5)
+  - Company: Cisco | Eldorado Springs, Boulder County
+  - The application window is expected to close on: 10/30/2026 This position will perform work that the U.S. government has ...
+
+- [Senior Site Reliability Engineer](https://www.adzuna.com/land/ad/5930821338?se=jI0RqAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=3DEFE2D38776C463627C051466F2EA54D7630DAA)
   - Company: K Anand Corporation | US
   - Role: Senior Site Reliability Engineer Location: 100% Remote Duration: 12 Months Contract Role Purpose Designs, automate...
 
@@ -316,7 +396,7 @@ Total jobs (24h window): 680
   - Developer & Infrastructure Expert Role Type: Contractor Location: Remote Job Overview We are seeking experienced Develop...
 
 - [Senior Site Reliability Engineer / Remote](https://www.adzuna.com/details/5930520289?utm_medium=api&utm_source=632a28fd)
-  - Company: Kelly Services | US
+  - Company: Kelly Services | Herndon, Fairfax County
   - $75 - $85 A U.S.-based provider of secure enterprise cloud technology for national security agencies, defense, and regul...
 
 - [Site Reliability Engineer - Remote / Telecommute](https://www.adzuna.com/details/5929700736?utm_medium=api&utm_source=632a28fd)
@@ -327,37 +407,45 @@ Total jobs (24h window): 680
   - Company: VDart Inc | US
   - Position : Lead Site Reliability Engineer Location : Remote Contract Job Summary : You'll lead initiatives that improve ...
 
-- [Mid/Senior Site Reliability Engineer (US Federal) with Security Clearance](https://www.adzuna.com/land/ad/5929382792?se=hGbKdH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=8A7908EB0DD1E65B5876800AE8D141DE859B014B)
+- [Mid/Senior Site Reliability Engineer (US Federal) with Security Clearance](https://www.adzuna.com/land/ad/5929382792?se=jI0RqAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=8A7908EB0DD1E65B5876800AE8D141DE859B014B)
   - Company: Workday, Inc. | Reston, Fairfax County
   - Your work days are brighter here. We’re obsessed with making hard work pay off, for our people, our customers, and the w...
 
-- [Senior Site Reliability Engineer - US Federal (VDI & Infrastruct with Security Clearance](https://www.adzuna.com/land/ad/5929382785?se=hGbKdH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=28633DA711F1B59CD17D0C0805DCE67C559D2102)
-  - Company: Workday, Inc. | Reston, Fairfax County
+- [Senior Site Reliability Engineer - US Federal (VDI & Infrastruct with Security Clearance](https://www.adzuna.com/land/ad/5929382785?se=jI0RqAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=28633DA711F1B59CD17D0C0805DCE67C559D2102)
+  - Company: Workday | Oak Hill, Fairfax County
   - Your work days are brighter here. We’re obsessed with making hard work pay off, for our people, our customers, and the w...
+
+- [Sr Site Reliability Engineer (US Federal) with Security Clearance](https://www.adzuna.com/land/ad/5929382768?se=jI0RqAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=1DCCDF63E7C2FC5AB20BA39B2E60D7C337BA5424)
+  - Company: Workday | Oak Hill, Fairfax County
+  - Your work days are brighter here. We’re obsessed with making hard work pay off, for our people, our customers, and the w...
+
+- [Site Reliability Engineer (SRE)](https://www.adzuna.com/details/5928721099?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | South Plainfield, Middlesex County
+  - Site Reliability Engineer (SRE) - Remote Bright Vision Technologies is a technology consulting and software development ...
+
+- [Senior Site Reliability Engineer / Remote](https://www.adzuna.com/land/ad/5928438460?se=jI0RqAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=01FF004C5F12CCD437AB0F31AB78FE0B8458D135)
+  - Company: Motion Recruitment Partners, LLC | US
+  - A U.S.-based provider of secure enterprise cloud technology for national security agencies, defense, and regulated indus...
+
+- [Lead Site Reliability Engineer – Observability](https://www.adzuna.com/land/ad/5927863056?se=jI0RqAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=6D1D7FBE5FA2B4D5C9D62484EFE018760F5640EB)
+  - Company: NMK Global Inc. | US
+  - NMK Global Inc. is a global IT Services & Solutions company specializing in IT Staffing, Technology Consulting, Workforc...
 
 - [Site Reliability Engineer (SRE)](https://www.adzuna.com/details/5927638936?utm_medium=api&utm_source=632a28fd)
   - Company: Bright Vision Technologies | South Plainfield, Middlesex County
   - Site Reliability Engineer (SRE) - Remote Bright Vision Technologies is a technology consulting and software development ...
 
+- [SRE](https://www.adzuna.com/details/5925151129?utm_medium=api&utm_source=632a28fd)
+  - Company: Openkyber | Atlanta, Fulton County
+  - Role: Sr. Site Reliability Engineer (Compute Platform) Location: Remote Duration: 3 Months Contract(500 Hrs) We are seek...
+
 - [Lead Site Reliability Engineer – Observability](https://www.adzuna.com/details/5921401360?utm_medium=api&utm_source=632a28fd)
   - Company: Momento USA | California, US
   - Momento USA is a global technology consulting, talent acquisition and creative development firm that addresses clients m...
 
-- [Splunk ES Engineer](https://www.adzuna.com/details/5919861506?utm_medium=api&utm_source=632a28fd)
-  - Company: Openkyber | Atlanta, Fulton County
-  - Hiring: Site Reliability Engineer (SRE) | Location: Remote We are hiring an experienced Site Reliability Engineer (SRE) ...
-
-- [SRE](https://www.adzuna.com/details/5917961449?utm_medium=api&utm_source=632a28fd)
-  - Company: Openkyber | Atlanta, Fulton County
-  - Hiring: Site Reliability Engineer (SRE) | Location: Remote We are hiring an experienced Site Reliability Engineer (SRE) ...
-
-- [SRE](https://www.adzuna.com/details/5917961465?utm_medium=api&utm_source=632a28fd)
-  - Company: Openkyber | Atlanta, Fulton County
-  - We are hiring for Site Reliability Engineer OpenSearch to support our client Company Name: - OpenKyber (Johnson Technolo...
-
-- [SRE](https://www.adzuna.com/details/5917961453?utm_medium=api&utm_source=632a28fd)
-  - Company: Openkyber | Atlanta, Fulton County
-  - Hello, Role: Site Reliability Engineer Location: 100% Remote Job Description: Site Reliability Engineer OpenSearch to he...
+- [Expert Site Reliability Engineer](https://www.adzuna.com/land/ad/5917039254?se=jI0RqAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=1FD257336C198EB856915C8E49B42E7AD36445E4)
+  - Company: Harris | Florida
+  - Job Title : Expert Site Reliability Engineer Location: Remote U.S. Role Employment Type : Full-time About Altera Altera,...
 
 - [Expert Site Reliability Engineer](https://www.adzuna.com/details/5909974223?utm_medium=api&utm_source=632a28fd)
   - Company: Altera Digital Health | Florida, US
@@ -371,39 +459,39 @@ Total jobs (24h window): 680
   - Company: First Due | US
   - About First Due First Due’s mission is to prevent first responder injury or death by providing fire and EMS agencies wit...
 
-- [Senior Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5870540244?se=hGbKdH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=1CA6101A8C6A61CEE8B945390ACD0F29744B3F99)
+- [Senior Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5870540244?se=jI0RqAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=1CA6101A8C6A61CEE8B945390ACD0F29744B3F99)
   - Company: UnitedHealth Group | Eden Prairie, Hennepin County
   - Requisition number: 2358829 Job category: Technology For those who want to invent the future of health care, here's your...
 
-- [Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5870540257?se=hGbKdH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=9E54B360F02C2CD42D14CAF7B366AD7CED4A24BD)
+- [Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5870540257?se=jI0RqAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=9E54B360F02C2CD42D14CAF7B366AD7CED4A24BD)
   - Company: UnitedHealth Group | Eden Prairie, Hennepin County
   - Requisition number: 2358259 Job category: Technology For those who want to invent the future of health care, here's your...
 
-- [Senior Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5870540234?se=hGbKdH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=CB4C070B720CE334165AD3488255A3A6F568D6EA)
+- [Senior Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5870540234?se=jI0RqAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=CB4C070B720CE334165AD3488255A3A6F568D6EA)
   - Company: UnitedHealth Group | Eden Prairie, Hennepin County
   - Requisition number: 2355913 Job category: Technology Our Optum Serve IT team develops cutting-edge solutions that help p...
 
-- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5868855081?se=hGbKdH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=8165FF8A1E7CC03364C9C0FED55FFE0893045B7C)
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5868855081?se=jI0RqAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=8165FF8A1E7CC03364C9C0FED55FFE0893045B7C)
   - Company: SitusAMC | Atlanta, Fulton County
   - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
 
-- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5868834779?se=hGbKdH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=8F73682CEBA842CE0CB0DE18860536A1937EEACC)
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5868834779?se=jI0RqAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=8F73682CEBA842CE0CB0DE18860536A1937EEACC)
   - Company: SitusAMC | Cammack Village, Pulaski County
   - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
 
-- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5868834095?se=hGbKdH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=C9758780FBD5EF44138E3B3D51BF8307E8DE57FD)
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5868834095?se=jI0RqAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=C9758780FBD5EF44138E3B3D51BF8307E8DE57FD)
   - Company: SitusAMC | Tumwater, Thurston County
   - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
 
-- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5868831691?se=hGbKdH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=DFFA8E409C51B963DE81DBA9AC23BA852EAFDC62)
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5868831691?se=jI0RqAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=DFFA8E409C51B963DE81DBA9AC23BA852EAFDC62)
   - Company: SitusAMC | Lansing, Ingham County
   - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
 
-- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5868766399?se=hGbKdH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=391DE2B7B70A1651446CC750D28308F618D7A985)
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5868766399?se=jI0RqAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=391DE2B7B70A1651446CC750D28308F618D7A985)
   - Company: SitusAMC | Salem, Marion County
   - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
 
-- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5868762586?se=hGbKdH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=69E3676C26869D7DC6C688247AD9042C7A4215E2)
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5868762586?se=jI0RqAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=69E3676C26869D7DC6C688247AD9042C7A4215E2)
   - Company: SitusAMC | Boise, Ada County
   - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
 
@@ -411,7 +499,7 @@ Total jobs (24h window): 680
   - Company: AXON-Networks | East Irvine, Orange County
   - AXON Networks delivers a robust AI-driven, analytics-based orchestration platform and a wide portfolio of next-gen high-...
 
-- [Site Reliability Engineer- REMOTE - Onsite Training](https://www.adzuna.com/land/ad/5866300276?se=hGbKdH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=D5754F725BD9CE167CABA01812D5562CD3BEA7BE)
+- [Site Reliability Engineer- REMOTE - Onsite Training](https://www.adzuna.com/land/ad/5866300276?se=jI0RqAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=D5754F725BD9CE167CABA01812D5562CD3BEA7BE)
   - Company: NTT America, Inc. | Cloverdale, Shelby County
   - Req ID: 375782 NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If ...
 
@@ -419,36 +507,56 @@ Total jobs (24h window): 680
   - Company: Knexus | US
   - We're seeking a skilled and proactive Site Reliability Engineer to join our team, ensuring the stability, security, and ...
 
-- [Site Reliability Engineering - Remote](https://www.adzuna.com/details/5858198450?utm_medium=api&utm_source=632a28fd)
-  - Company: YO AI Labs | San Jose, San Miguel County
+- [Site Reliability Engineering - Remote](https://www.adzuna.com/details/5858198431?utm_medium=api&utm_source=632a28fd)
+  - Company: YO AI Labs | Dallas, Texas
+  - Developer & Infrastructure Expert Role Type: Contractor Location: Remote Job Overview We are seeking experienced Develop...
+
+- [Site Reliability Engineering - Remote](https://www.adzuna.com/details/5858198430?utm_medium=api&utm_source=632a28fd)
+  - Company: YO AI Labs | North Carolina, US
   - Developer & Infrastructure Expert Role Type: Contractor Location: Remote Job Overview We are seeking experienced Develop...
 
 - [Site Reliability Engineering - Remote](https://www.adzuna.com/details/5858198446?utm_medium=api&utm_source=632a28fd)
   - Company: YO AI Labs | Miami, Miami-Dade County
   - Developer & Infrastructure Expert Role Type: Contractor Location: Remote Job Overview We are seeking experienced Develop...
 
-- [Site Reliability Engineering - Remote](https://www.adzuna.com/details/5858198445?utm_medium=api&utm_source=632a28fd)
-  - Company: YO AI Labs | Chicago, Cook County
-  - Developer & Infrastructure Expert Role Type: Contractor Location: Remote Job Overview We are seeking experienced Develop...
-
-- [Site Reliability Engineering - Remote](https://www.adzuna.com/details/5858198443?utm_medium=api&utm_source=632a28fd)
-  - Company: YO AI Labs | Palo Alto, Santa Clara County
+- [Site Reliability Engineering - Remote](https://www.adzuna.com/details/5858198436?utm_medium=api&utm_source=632a28fd)
+  - Company: YO AI Labs | Texas, US
   - Developer & Infrastructure Expert Role Type: Contractor Location: Remote Job Overview We are seeking experienced Develop...
 
 - [Site Reliability Engineering - Remote](https://www.adzuna.com/details/5858198435?utm_medium=api&utm_source=632a28fd)
   - Company: YO AI Labs | California, US
   - Developer & Infrastructure Expert Role Type: Contractor Location: Remote Job Overview We are seeking experienced Develop...
 
-- [Site Reliability Engineering - Remote](https://www.adzuna.com/details/5858198442?utm_medium=api&utm_source=632a28fd)
-  - Company: YO AI Labs | Atlanta, Fulton County
+- [Site Reliability Engineering - Remote](https://www.adzuna.com/details/5858198440?utm_medium=api&utm_source=632a28fd)
+  - Company: YO AI Labs | Maryland, Anne Arundel County
+  - Developer & Infrastructure Expert Role Type: Contractor Location: Remote Job Overview We are seeking experienced Develop...
+
+- [Site Reliability Engineering - Remote](https://www.adzuna.com/details/5858198445?utm_medium=api&utm_source=632a28fd)
+  - Company: YO AI Labs | Chicago, Cook County
   - Developer & Infrastructure Expert Role Type: Contractor Location: Remote Job Overview We are seeking experienced Develop...
 
 - [Site Reliability Engineering - Remote](https://www.adzuna.com/details/5858198447?utm_medium=api&utm_source=632a28fd)
   - Company: YO AI Labs | Los Angeles, Los Angeles County
   - Developer & Infrastructure Expert Role Type: Contractor Location: Remote Job Overview We are seeking experienced Develop...
 
+- [Site Reliability Engineering - Remote](https://www.adzuna.com/details/5858198450?utm_medium=api&utm_source=632a28fd)
+  - Company: YO AI Labs | San Jose, San Miguel County
+  - Developer & Infrastructure Expert Role Type: Contractor Location: Remote Job Overview We are seeking experienced Develop...
+
+- [Site Reliability Engineering - Remote](https://www.adzuna.com/details/5858198442?utm_medium=api&utm_source=632a28fd)
+  - Company: YO AI Labs | Atlanta, Fulton County
+  - Developer & Infrastructure Expert Role Type: Contractor Location: Remote Job Overview We are seeking experienced Develop...
+
 - [Site Reliability Engineering - Remote](https://www.adzuna.com/details/5858198437?utm_medium=api&utm_source=632a28fd)
   - Company: YO AI Labs | Boston, Thomas County
+  - Developer & Infrastructure Expert Role Type: Contractor Location: Remote Job Overview We are seeking experienced Develop...
+
+- [Site Reliability Engineering - Remote](https://www.adzuna.com/details/5858198443?utm_medium=api&utm_source=632a28fd)
+  - Company: YO AI Labs | Palo Alto, Santa Clara County
+  - Developer & Infrastructure Expert Role Type: Contractor Location: Remote Job Overview We are seeking experienced Develop...
+
+- [Site Reliability Engineering - Remote](https://www.adzuna.com/details/5858198448?utm_medium=api&utm_source=632a28fd)
+  - Company: YO AI Labs | Washington, Washington, D.C.
   - Developer & Infrastructure Expert Role Type: Contractor Location: Remote Job Overview We are seeking experienced Develop...
 
 - [Site Reliability Engineering - Remote](https://www.adzuna.com/details/5858198434?utm_medium=api&utm_source=632a28fd)
@@ -459,163 +567,143 @@ Total jobs (24h window): 680
   - Company: YO AI Labs | Phoenix, Maricopa County
   - Developer & Infrastructure Expert Role Type: Contractor Location: Remote Job Overview We are seeking experienced Develop...
 
-- [Site Reliability Engineering - Remote](https://www.adzuna.com/details/5858198444?utm_medium=api&utm_source=632a28fd)
-  - Company: YO AI Labs | San Francisco, California
-  - Developer & Infrastructure Expert Role Type: Contractor Location: Remote Job Overview We are seeking experienced Develop...
-
-- [Site Reliability Engineering - Remote](https://www.adzuna.com/details/5858198431?utm_medium=api&utm_source=632a28fd)
-  - Company: YO AI Labs | Dallas, Texas
-  - Developer & Infrastructure Expert Role Type: Contractor Location: Remote Job Overview We are seeking experienced Develop...
-
-- [Site Reliability Engineering - Remote](https://www.adzuna.com/details/5858198440?utm_medium=api&utm_source=632a28fd)
-  - Company: YO AI Labs | Maryland, Anne Arundel County
-  - Developer & Infrastructure Expert Role Type: Contractor Location: Remote Job Overview We are seeking experienced Develop...
-
-- [Site Reliability Engineering - Remote](https://www.adzuna.com/details/5858198436?utm_medium=api&utm_source=632a28fd)
-  - Company: YO AI Labs | Texas, US
-  - Developer & Infrastructure Expert Role Type: Contractor Location: Remote Job Overview We are seeking experienced Develop...
-
-- [Site Reliability Engineering - Remote](https://www.adzuna.com/details/5858198430?utm_medium=api&utm_source=632a28fd)
-  - Company: YO AI Labs | North Carolina, US
-  - Developer & Infrastructure Expert Role Type: Contractor Location: Remote Job Overview We are seeking experienced Develop...
-
-- [Site Reliability Engineering - Remote](https://www.adzuna.com/details/5858198448?utm_medium=api&utm_source=632a28fd)
-  - Company: YO AI Labs | Washington, Washington, D.C.
-  - Developer & Infrastructure Expert Role Type: Contractor Location: Remote Job Overview We are seeking experienced Develop...
-
 - [Site Reliability Engineering - Remote](https://www.adzuna.com/details/5858198449?utm_medium=api&utm_source=632a28fd)
   - Company: YO AI Labs | Illinois, US
+  - Developer & Infrastructure Expert Role Type: Contractor Location: Remote Job Overview We are seeking experienced Develop...
+
+- [Site Reliability Engineering - Remote](https://www.adzuna.com/details/5858198444?utm_medium=api&utm_source=632a28fd)
+  - Company: YO AI Labs | San Francisco, California
   - Developer & Infrastructure Expert Role Type: Contractor Location: Remote Job Overview We are seeking experienced Develop...
 
 - [Site Reliability Engineering - Remote](https://www.adzuna.com/details/5855313669?utm_medium=api&utm_source=632a28fd)
   - Company: YO AI Labs | New York City, New York
   - Developer & Infrastructure Expert Role Type: Contractor Location: Remote Job Overview We are seeking experienced Develop...
 
-- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5850562124?se=kAL-dX3J8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=DDDD1318A4ACB0CD4F98C5B419F6B12F0DEFDAFD)
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5850562124?se=qintqAnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=DDDD1318A4ACB0CD4F98C5B419F6B12F0DEFDAFD)
   - Company: SitusAMC | Montpelier, Washington County
   - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
 
-- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5850176709?se=kAL-dX3J8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=1CA65BA76493196B75DA7142D369E2C98970F972)
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5850176709?se=qintqAnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=1CA65BA76493196B75DA7142D369E2C98970F972)
   - Company: SitusAMC | Annapolis, Anne Arundel County
   - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
 
-- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5850174670?se=kAL-dX3J8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=B33DD72983AF8B92042DFE5EF8339120DFD6D385)
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5850174670?se=qintqAnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=B33DD72983AF8B92042DFE5EF8339120DFD6D385)
   - Company: SitusAMC | La Cienga, Santa Fe County
   - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
 
-- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849332349?se=kAL-dX3J8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=C06F2BC45224E03027A9C48625104A4EC5644059)
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849332349?se=qintqAnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=C06F2BC45224E03027A9C48625104A4EC5644059)
   - Company: SitusAMC | Madison, Dane County
   - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
 
-- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849329505?se=kAL-dX3J8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=4DD65DBB4BA807D566D239168F7970131934BBFB)
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849329505?se=qintqAnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=4DD65DBB4BA807D566D239168F7970131934BBFB)
   - Company: SitusAMC | Bonnie, Utah County
   - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
 
-- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849309975?se=kAL-dX3J8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=01E59756F42FA1D545D409E8CC45AECDE5DFB40D)
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849309975?se=qintqAnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=01E59756F42FA1D545D409E8CC45AECDE5DFB40D)
   - Company: SitusAMC | Charleston, Kanawha County
   - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
 
-- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849253512?se=kAL-dX3J8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=B8E2C48EDDAB10CFA275924D684DDDA681926FC1)
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849253512?se=qintqAnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=B8E2C48EDDAB10CFA275924D684DDDA681926FC1)
   - Company: SitusAMC | Cedar, Cole County
   - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
 
-- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849252840?se=kAL-dX3J8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=051BBA259DDEE00513A6AD5D1E0096017BFBA30A)
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849252840?se=qintqAnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=051BBA259DDEE00513A6AD5D1E0096017BFBA30A)
   - Company: SitusAMC | Trenton, Mercer County
   - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
 
-- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849247564?se=kAL-dX3J8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=90FB957D0F8FD0812B3B2C3F41D3CC458E68D126)
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849247564?se=qintqAnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=90FB957D0F8FD0812B3B2C3F41D3CC458E68D126)
   - Company: SitusAMC | Frankfort, Franklin County
   - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
 
-- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849246993?se=kAL-dX3J8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=8098D3E3D9E5855033922774BAC717FEA68748E6)
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849246993?se=qintqAnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=8098D3E3D9E5855033922774BAC717FEA68748E6)
   - Company: SitusAMC | Topeka, Shawnee County
   - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
 
-- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849246678?se=kAL-dX3J8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=4F51720F2B07B5E0ACE35417BCEB593506E60E20)
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849246678?se=qintqAnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=4F51720F2B07B5E0ACE35417BCEB593506E60E20)
   - Company: SitusAMC | Jackson, Hinds County
   - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
 
-- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849245384?se=kAL-dX3J8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=588A1D5FE78682411360E641F984E229EEF8C256)
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849245384?se=qintqAnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=588A1D5FE78682411360E641F984E229EEF8C256)
   - Company: SitusAMC | Concord, Merrimack County
   - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
 
-- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849245196?se=kAL-dX3J8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=7042472BD9924E3EC5EC93405218FD016AD5B963)
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849245196?se=qintqAnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=7042472BD9924E3EC5EC93405218FD016AD5B963)
   - Company: SitusAMC | Carson Mall, Carson City
   - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
 
-- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849244784?se=kAL-dX3J8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=F41457B032891C73D58AB686AFB953351A6721C2)
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849244784?se=qintqAnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=F41457B032891C73D58AB686AFB953351A6721C2)
   - Company: SitusAMC | State House, Lancaster County
   - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
 
-- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849241946?se=kAL-dX3J8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=73D1BA0C915834CFC39EB885D628F8D41B36B2DD)
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849241946?se=qintqAnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=73D1BA0C915834CFC39EB885D628F8D41B36B2DD)
   - Company: SitusAMC | Pierre, Hughes County
   - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
 
-- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849241834?se=kAL-dX3J8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=39F0A8FAE0B200614D9686162EDBAF4D8B22F875)
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849241834?se=qintqAnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=39F0A8FAE0B200614D9686162EDBAF4D8B22F875)
   - Company: SitusAMC | Providence, Providence County
   - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
 
-- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849236165?se=kAL-dX3J8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=9444111A850324491C4D37517B36FB6C618A3A31)
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849236165?se=qintqAnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=9444111A850324491C4D37517B36FB6C618A3A31)
   - Company: SitusAMC | Washington, D.C., US
   - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
 
-- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849235316?se=kAL-dX3J8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=DA1DA384EFFF4ECE85A4623139D11B7D195401EC)
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849235316?se=qintqAnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=DA1DA384EFFF4ECE85A4623139D11B7D195401EC)
   - Company: SitusAMC | Bismarck, Burleigh County
   - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
 
-- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849235138?se=kAL-dX3J8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=1B1BDBF4F5ED6B4E7DC9B31553A60960F445DDA4)
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849235138?se=qintqAnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=1B1BDBF4F5ED6B4E7DC9B31553A60960F445DDA4)
   - Company: SitusAMC | Wyoming, Kent County
   - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
 
-- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849210914?se=kAL-dX3J8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=4B8B47FE911B3AAE2405EB7C19071E6B69522956)
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849210914?se=qintqAnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=4B8B47FE911B3AAE2405EB7C19071E6B69522956)
   - Company: SitusAMC | Grandview Heights, Franklin County
   - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
 
-- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849209821?se=kAL-dX3J8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=C1FABEC9C2D6B7089C860086E5304E4495DD5D3A)
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849209821?se=qintqAnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=C1FABEC9C2D6B7089C860086E5304E4495DD5D3A)
   - Company: SitusAMC | Five Points, Wake County
   - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
 
-- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849207113?se=kAL-dX3J8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=43074562B40434A7F8FDF150CDC46C07A28C8264)
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849207113?se=qintqAnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=43074562B40434A7F8FDF150CDC46C07A28C8264)
   - Company: SitusAMC | Nashville, Davidson County
   - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
 
-- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849205226?se=kAL-dX3J8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=4BE4A9CD1A5AA8EAE31AEC29B9E44169EF9E8D2A)
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849205226?se=qintqAnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=4BE4A9CD1A5AA8EAE31AEC29B9E44169EF9E8D2A)
   - Company: SitusAMC | Phoenix, Maricopa County
   - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
 
-- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849204306?se=kAL-dX3J8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=F133BC921353B53612B6EA905A426FFA20C49AA2)
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849204306?se=qintqAnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=F133BC921353B53612B6EA905A426FFA20C49AA2)
   - Company: SitusAMC | Saint Paul, Ramsey County
   - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
 
-- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849203162?se=kAL-dX3J8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=BC8F3C3B8211DA93CD0EC7E390AF6751E87BB4BC)
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849203162?se=qintqAnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=BC8F3C3B8211DA93CD0EC7E390AF6751E87BB4BC)
   - Company: SitusAMC | Chisolm, Montgomery County
   - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
 
-- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849196090?se=kAL-dX3J8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=8DCD036ABD873582E7CED87F569DCB4D2BED2682)
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849196090?se=qintqAnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=8DCD036ABD873582E7CED87F569DCB4D2BED2682)
   - Company: SitusAMC | Ny State Campus, Albany County
   - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
 
-- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849195300?se=kAL-dX3J8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=641DC5783DAF052B7030E4A4D283F33EEE960B8E)
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849195300?se=qintqAnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=641DC5783DAF052B7030E4A4D283F33EEE960B8E)
   - Company: SitusAMC | Oklahoma City, Oklahoma County
   - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
 
-- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849154781?se=kAL-dX3J8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=515C26DF80563AB224FD7C2141F679AFFC1E401F)
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849154781?se=qintqAnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=515C26DF80563AB224FD7C2141F679AFFC1E401F)
   - Company: SitusAMC | Uptown, Marion County
   - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
 
-- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849133907?se=kAL-dX3J8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=6C13D38548DD00177ACF51BD947A12EF426C884C)
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849133907?se=qintqAnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=6C13D38548DD00177ACF51BD947A12EF426C884C)
   - Company: SitusAMC | Edgewood, Richland County
   - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
 
-- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849133174?se=kAL-dX3J8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=52C8AC122A5E961B6A7ADDB7EB99A42B4387BF1F)
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849133174?se=qintqAnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=52C8AC122A5E961B6A7ADDB7EB99A42B4387BF1F)
   - Company: SitusAMC | Des Moines, Polk County
   - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
 
-- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849132567?se=kAL-dX3J8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=096BA091937CCD63CE87246C7A01BDA18126CCC8)
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849132567?se=qintqAnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=096BA091937CCD63CE87246C7A01BDA18126CCC8)
   - Company: SitusAMC | Augusta, Kennebec County
   - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
 
-- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849132173?se=kAL-dX3J8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=66F1C382161B8A6473A6207380136A19BA299988)
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5849132173?se=qintqAnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=66F1C382161B8A6473A6207380136A19BA299988)
   - Company: SitusAMC | Helena, Lewis and Clark County
   - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
 
@@ -635,23 +723,307 @@ Total jobs (24h window): 680
   - Company: SitusAMC | US
   - SitusAMC is where the best and most passionate people come to transform our client’s businesses and their own careers. W...
 
-- [Site Reliability Engineer](https://www.adzuna.com/land/ad/5845773189?se=kAL-dX3J8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=B222B0203929829D229008EF5863EFAA0AB88DAE)
+- [Site Reliability Engineer](https://www.adzuna.com/land/ad/5845773189?se=qintqAnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=B222B0203929829D229008EF5863EFAA0AB88DAE)
   - Company: ElevaIT Solutions | Charlotte, Mecklenburg County
   - Job Title: Site Reliability Engineer Location: Remote (US, EST hours required) Interview Process: 2x Interviews Client O...
+
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/details/5836246181?utm_medium=api&utm_source=632a28fd)
+  - Company: SitusAMC | Tallahassee, Leon County
+  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
 
 - [Lead Site Reliability Engineer](https://www.adzuna.com/details/5827468489?utm_medium=api&utm_source=632a28fd)
   - Company: Glint Tech Solutions LLC | Buffalo, Buffalo County
   - Job Title: Lead Site Reliability Engineer Location: Remote within the USA, or onsite in Buffalo, NY / Wilmington, DE (cl...
 
-- [Site Reliability Engineer (Remote)](https://www.adzuna.com/details/5785840824?utm_medium=api&utm_source=632a28fd)
-  - Company: Knexus | Carmel By The Sea, Monterey County
-  - We're seeking a skilled and proactive Site Reliability Engineer to join our team, ensuring the stability, security, and ...
+- [Senior Site Reliability Engineer](https://www.adzuna.com/details/5721148518?utm_medium=api&utm_source=632a28fd)
+  - Company: Andromeda Cluster | San Francisco, California
+  - Senior Site Reliability Engineer Location: Global Remote / San Francisco · Full-Time About Andromeda Andromeda is a mark...
+
+- [Senior Infrastructure Platform Engineer (Remote)](https://www.adzuna.com/land/ad/5933416432?se=6p8wqgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=C9936527E201D7B8CC65420D43F92AC720310E35)
+  - Company: Teaching Strategies, LLC | Denton, Denton County
+  - Job Description Job Description Description Be a Part of our Team! Join a working team that is dedicated to the mission ...
+
+- [Container Platform Engineer](https://www.adzuna.com/details/5933386948?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Riverton, Salt Lake County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Microsoft 365 Consultant](https://www.adzuna.com/land/ad/5933240828?se=6p8wqgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=333DD137D97542816A62C4EE934ACEA234524CCF)
+  - Company: Kelly Services | US
+  - $55 - $70 Power Platform Automation Engineer We are seeking a hands-on Power Platform Automation Engineer for a three-mo...
+
+- [Platform Engineer](https://www.adzuna.com/details/5933182498?utm_medium=api&utm_source=632a28fd)
+  - Company: HiddenLayer | US
+  - Platform Engineer Remote [within the US] ABOUT THE ROLE: We are seeking a Platform Engineer to take ownership of deployi...
+
+- [Platform Engineer (DevOps / CI/CD / Automation / Observability) (SS27)](https://www.adzuna.com/details/5933120532?utm_medium=api&utm_source=632a28fd)
+  - Company: Vaco LLC | Addison, Dallas
+  - Platform Engineer (DevOps / CI/CD / Automation / Observability) DETAILS Location: Remote Position Type: 16M Contract Hou...
+
+- [AI Platform Engineer](https://www.adzuna.com/details/5933061617?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Franklin, Williamson County
+  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
+
+- [AutoSys Platform Engineer](https://www.adzuna.com/land/ad/5932898128?se=6p8wqgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=C9358CCA3304919943B7B465880931BCA80E1932)
+  - Company: Pinnacle Technical Resources | California, US
+  - THIS JOB DESCRIPTION WAS CREATED BY AI, REVIEW BEFORE POSTING Position: AutoSys Platform Engineer Location: Irvine, Cali...
+
+- [AI Data Platform Engineer](https://www.adzuna.com/details/5932315769?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Grover, Saint Louis County
+  - AI Data Platform Engineer – Remote Bright Vision Technologies is a technology consulting and software development compan...
+
+- [Senior AI Engineer](https://www.adzuna.com/land/ad/5932228585?se=6p8wqgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=53A590163E2E6AC89021DB951F1954D491817E01)
+  - Company: GTN Solutions | US
+  - Senior AI Platform Engineer Remote (Must be based in EST or CST)  quarterly travel to HQ This position is responsible fo...
+
+- [Software Engineer, Platform Engineering, Remote- Full-time](https://www.adzuna.com/details/5932191184?utm_medium=api&utm_source=632a28fd)
+  - Company: Xperteez Technology | US
+  - Job Title: Software Engineer, Platform Engineering Job Type: Full-time Location: Remote Required Skills: JS/TS AI-Native...
+
+- [Azure Platform Engineer](https://www.adzuna.com/details/5932162760?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Grover, Saint Louis County
+  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
+
+- [Platform Infrastructure Engineer](https://www.adzuna.com/details/5932151557?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Westchase, Hillsborough County
+  - Platform Infrastructure Engineer – Remote Bright Vision Technologies is a technology consulting and software development...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5932101336?se=6p8wqgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=ACAD3707DD71391154E634F122D6D67CEBCE774D)
+  - Company: Cognizant | Ny State Campus, Albany County
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/details/5932069238?utm_medium=api&utm_source=632a28fd)
+  - Company: Cognizant | Capitol, Richmond
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5932068892?se=6p8wqgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=775DFDBD1DEA3AB08095A4D759BAB2C955AE7D1E)
+  - Company: Cognizant | Grandview Heights, Franklin County
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5932064249?se=6p8wqgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=9DCC32A0B5904CB117E2314887A13F9E1FD23380)
+  - Company: Cognizant | Tumwater, Thurston County
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [Platform Engineer (Remote)](https://www.adzuna.com/land/ad/5932062988?se=6p8wqgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=9908A4D9001FE7AECA13DE0F20BF7BD425C782BC)
+  - Company: RTX Corporation | Talcott Village, Hartford County
+  - Date Posted: 2026-10-14 Country: United States of America Location: US-CT-REMOTE Position Role Type: Remote U.S. Citizen...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5932054175?se=6p8wqgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=9EC2FF9ACBD4A06A10E84D054CBCB77A07B1AB15)
+  - Company: Cognizant | Five Points, Wake County
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5932053672?se=6p8wqgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=EC90835F5011E39ADCCAF0B9C67CAE4AE43E2EC3)
+  - Company: Cognizant | Nashville, Davidson County
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5932051060?se=6p8wqgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=49D04E751F04A68CB0E073E3A1C2490962F1D34E)
+  - Company: Cognizant | Trenton, Mercer County
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5932050688?se=6p8wqgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=6CB44F757DDF7F8B42201DDA036BFE954C493C83)
+  - Company: Cognizant | Boston, Suffolk County
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/details/5932043319?utm_medium=api&utm_source=632a28fd)
+  - Company: Cognizant | Springfield, Sangamon County
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5932043349?se=6p8wqgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=12185C3584275E969B805362DB1830A35C4109AA)
+  - Company: Cognizant | Cedar, Cole County
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5932041712?se=6p8wqgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=90BA216FCB0D03206F73F7C86A867042F73382EE)
+  - Company: Cognizant | Uptown, Marion County
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/details/5932036656?utm_medium=api&utm_source=632a28fd)
+  - Company: Cognizant | Tallahassee, Leon County
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5932032683?se=6p8wqgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=728AF175BC087DC7E41CEDECB1674F97D75A0A2E)
+  - Company: Cognizant | Atlanta, Fulton County
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5932031345?se=6p8wqgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=25D0A1F27BDA80B1BC62465AF22CA94254B90571)
+  - Company: Cognizant | Edgewood, Richland County
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5932031316?se=6p8wqgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=787C83B46C9CFB2BA18E57759A2FDAA5DB487DDD)
+  - Company: Cognizant | Salem, Marion County
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5932030462?se=6p8wqgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=7B1C2B771E337853940C6888E8B61FD56147FC6C)
+  - Company: Cognizant | Madison, Dane County
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5932029547?se=6p8wqgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=D154117D57BFC98F4FD18D014B9387B60CEBEFD7)
+  - Company: Cognizant | Oklahoma City, Oklahoma County
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5932028797?se=6p8wqgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=744B2114721319CCAA8EEB891E9DA57A715F2641)
+  - Company: Cognizant | Bonnie, Utah County
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5932027448?se=6p8wqgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=1271479921DDFC9F18AE4D30CA8EA8561BDD8A3A)
+  - Company: Cognizant | Carson Mall, Carson City
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/details/5932026450?utm_medium=api&utm_source=632a28fd)
+  - Company: Cognizant | Penbrook, Dauphin County
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5932026432?se=6p8wqgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=D9A04BC762C826A3326F834DF1884E58B41871FD)
+  - Company: Cognizant | Charleston, Kanawha County
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5932025670?se=6p8wqgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=0E9D23D9F98DDA736A6C412A75C2B29A8EFC66E7)
+  - Company: Cognizant | La Cienga, Santa Fe County
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5932025517?se=6p8wqgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=7FD4E1B3B2CA634B653F1518EE60288DA78BA23B)
+  - Company: Cognizant | Saint Paul, Ramsey County
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5932023622?se=6p8wqgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=09F69BD18C69364131A3468E4580F5F5D828CBA4)
+  - Company: Cognizant | State House, Lancaster County
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5932023590?se=6p8wqgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=51440D845C986BD27FEBD32D0D6EE945C5BCDB1A)
+  - Company: Cognizant | Washington, D.C., US
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5932023531?se=6p8wqgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=3E09ECCB3C28339A252000C758D6FB9618EC9BFF)
+  - Company: Cognizant | Boise, Ada County
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5932023264?se=6p8wqgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=942CAF2127B9191BEC9131AB96987C2357B6A288)
+  - Company: Cognizant | Frankfort, Franklin County
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5932020464?se=6p8wqgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=483DE7929217AE9E341196A83908B9215F623DDF)
+  - Company: Cognizant | Annapolis, Anne Arundel County
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5932020058?se=6p8wqgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=380CFAE801FFF6016EAC8D602C81E350A36244D4)
+  - Company: Cognizant | Lansing, Ingham County
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5932019910?se=6p8wqgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=70C57412E2689B9470D290ACB31239F85F924DE9)
+  - Company: Cognizant | Phoenix, Maricopa County
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5932019933?se=6p8wqgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=14AA8CFE8A9DF24BA5FEA0014CD9814D3E7994BB)
+  - Company: Cognizant | Topeka, Shawnee County
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5932019525?se=6p8wqgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=38EFEF57B1B48503FFD6E8E6B45098512076DF4D)
+  - Company: Cognizant | Talcott Village, Hartford County
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5932019011?se=6p8wqgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=F9B31AAD5E2BB6083900D038DE246315BF0027D8)
+  - Company: Cognizant | Jackson, Hinds County
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5932018477?se=6p8wqgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=E602070425B14B6C3EA4A48132637ECCC5B18F23)
+  - Company: Cognizant | Chisolm, Montgomery County
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5932017931?se=pqUEqwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=1D8D3D5553AE7B6E87D629D0E7B7924E10FA6865)
+  - Company: Cognizant | Cammack Village, Pulaski County
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5932017236?se=pqUEqwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=DA82985EC9D56C278053935FA6BCEC86F62C99D0)
+  - Company: Cognizant | Des Moines, Polk County
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5932015592?se=pqUEqwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=8BA5837E8C4F29C87B93724DCF4694800290BCF5)
+  - Company: Cognizant | Glendale, Denver
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [Workday Platform Engineer](https://www.adzuna.com/details/5931834872?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Westchase, Hillsborough County
+  - Workday Platform Engineer – Remote Bright Vision Technologies is a technology consulting and software development compan...
+
+- [IoT Platform Engineer](https://www.adzuna.com/details/5931830490?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Grover, Saint Louis County
+  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
+
+- [Platform Automation Engineer](https://www.adzuna.com/details/5931828839?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Woodbury, Washington County
+  - Platform Automation Engineer- Remote Bright Vision Technologies is a technology consulting and software development comp...
+
+- [Platform Infrastructure Engineer](https://www.adzuna.com/details/5931814321?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Grover, Saint Louis County
+  - Platform Infrastructure Engineer – Remote Bright Vision Technologies is a technology consulting and software development...
+
+- [Data Platform Engineer](https://www.adzuna.com/details/5931781177?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Franklin, Williamson County
+  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
+
+- [Platform Engineer with Security Clearance](https://www.adzuna.com/land/ad/5931733380?se=pqUEqwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=871367B1A22C2805AE721B9B85BCC3202C257C3A)
+  - Company: Auria | Lutz, Hillsborough County
+  - Position: Platform Engineer Location: Tampa, FL Remote Status: Hybrid Job Id: 13929-STRIDE-Carly  of Openings: 1 BCubed ...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5931726183?se=pqUEqwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=BBE028E8CF126711BC96E4F19B682BD0A3D1BB33)
+  - Company: Cognizant | Montpelier, Washington County
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [ML Platform Engineer](https://www.adzuna.com/details/5931714750?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | South Plainfield, Middlesex County
+  - ML Platform Engineer - Remote Bright Vision Technologies is a technology consulting and software development company del...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5931627206?se=pqUEqwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=4A23603839F044FAD5F1ED4D7247EA53186B5531)
+  - Company: Cognizant | Pierre, Hughes County
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5931626915?se=pqUEqwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=72B07636680265AC75B053160CDC51ABDDC4C4F4)
+  - Company: Cognizant | Providence, Providence County
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5931625307?se=pqUEqwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=30E607D522EC732CA1FD77739487F1AEF2E945E6)
+  - Company: Cognizant | Archer, Laramie County
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5931625314?se=pqUEqwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=EA2D78BC0D4AD8DDFA267F2A6E02AEED93AE4C90)
+  - Company: Cognizant | Wyoming, Kent County
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5931625231?se=pqUEqwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=ECE2442E8D0A65543E6B0EB6FF41DB1D47002DB1)
+  - Company: Cognizant | Bismarck, Burleigh County
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/details/5931625202?utm_medium=api&utm_source=632a28fd)
+  - Company: Cognizant | Douglas, Juneau
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5931468678?se=pqUEqwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=FE026E2F5C2AB1A75F190C148AFA7D47E0F9A322)
+  - Company: Cognizant | Wake Island, Honolulu
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5931468427?se=pqUEqwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=C675ECA743EAE92658DBAB8ED87C09F384426BB5)
+  - Company: Cognizant | Helena, Lewis and Clark County
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5931468341?se=pqUEqwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=9930DD84DC54B556EC9AFD9445353CE39B2E69C4)
+  - Company: Cognizant | Augusta, Kennebec County
+  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
+
+- [Microsoft 365 Consultant](https://www.adzuna.com/land/ad/5931418647?se=pqUEqwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=9F9190AC8C8D3057D4CC78FA46CB3612DE22F810)
+  - Company: Motion Recruitment Partners, LLC | US
+  - Power Platform Automation Engineer We are seeking a hands-on Power Platform Automation Engineer for a three-month remote...
+
+- [AI Platform Engineer](https://www.adzuna.com/details/5931049898?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
+
+- [Container Platform Engineer](https://www.adzuna.com/details/5931049952?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
 
 - [Engineer III, Product Configuration Systems](https://www.adzuna.com/details/5930810185?utm_medium=api&utm_source=632a28fd)
   - Company: Omnicell | Fort Worth, Tarrant County
   - Senior CPQ Platform Engineer Remote | Global Product Data Management Position Summary The Senior CPQ Platform Engineer i...
 
-- [Cloud Platform Engineer](https://www.adzuna.com/land/ad/5930805595?se=IMlQd33J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=6BE49E81F607A4920D18BCA5B2543AC70A2FF2D1)
+- [Cloud Platform Engineer](https://www.adzuna.com/land/ad/5930805595?se=pqUEqwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=6BE49E81F607A4920D18BCA5B2543AC70A2FF2D1)
   - Company: Shiv Software Experts LLC | US
   - Position: Sr. Platform Engineer Location: EST (Remote) Position Overview The Sr Platform Engineer is responsible for des...
 
@@ -659,7 +1031,7 @@ Total jobs (24h window): 680
   - Company: Cognizant | Tarrytown, Travis County
   - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
 
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5930788534?se=IMlQd33J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=FFD98C5103DA6B69BDABCC2ECF91692D9C7ED4CC)
+- [AI/ML Developer](https://www.adzuna.com/land/ad/5930788534?se=pqUEqwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=FFD98C5103DA6B69BDABCC2ECF91692D9C7ED4CC)
   - Company: Cognizant | Concord, Merrimack County
   - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
 
@@ -675,15 +1047,19 @@ Total jobs (24h window): 680
   - Company: Bright Vision Technologies | Wildwood, Saint Louis County
   - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
 
+- [Software Engineer, Platform Engineering – Remote](https://www.adzuna.com/details/5930595843?utm_medium=api&utm_source=632a28fd)
+  - Company: RemoteJobsOne | Columbus, Hempstead County
+  - IMPORTANT: after you apply, please check your email. We send you a link to complete your application — it is not conside...
+
 - [Software Engineer, Platform Engineering - Remote](https://www.adzuna.com/details/5930595686?utm_medium=api&utm_source=632a28fd)
   - Company: YO AI Labs | New York City, New York
   - Job Title: Software Engineer, Platform Engineering Job Type: Full-Time Location: Remote Role Overview We are seeking a F...
 
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930547476?se=IMlQd33J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=8057B1E93202C8267D39A457A38CF4D999C20D9D)
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930547476?se=pqUEqwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=8057B1E93202C8267D39A457A38CF4D999C20D9D)
   - Company: CrowdStrike | Ny State Campus, Albany County
   - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Sr Engineer - AI Platforms - Forward Deployed Engineer (FDE)(Remote Or Hybrid)](https://www.adzuna.com/land/ad/5930498322?se=IMlQd33J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=2505E3D749FE4A1D64658ACA6708909C1A5F13AF)
+- [Sr Engineer - AI Platforms - Forward Deployed Engineer (FDE)(Remote Or Hybrid)](https://www.adzuna.com/land/ad/5930498322?se=pqUEqwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=2505E3D749FE4A1D64658ACA6708909C1A5F13AF)
   - Company: Target | Brooklyn, Hennepin County
   - The pay range is $98,000.00 - $176,000.00 Pay is based on several factors which vary based on position. These include la...
 
@@ -695,11 +1071,11 @@ Total jobs (24h window): 680
   - Company: CrowdStrike | Capitol, Richmond
   - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930482036?se=IMlQd33J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=8BA160EA00EE63C9E9829B9148888F8ABF427CAF)
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930482036?se=pqUEqwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=8BA160EA00EE63C9E9829B9148888F8ABF427CAF)
   - Company: CrowdStrike | Tumwater, Thurston County
   - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Sr. Engineer - Platform Data Engineer (Remote)](https://www.adzuna.com/land/ad/5930481922?se=IMlQd33J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=B551A569ED36F091662DA16C014B488EA578EA36)
+- [Sr. Engineer - Platform Data Engineer (Remote)](https://www.adzuna.com/land/ad/5930481922?se=pqUEqwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=B551A569ED36F091662DA16C014B488EA578EA36)
   - Company: CrowdStrike | Tumwater, Thurston County
   - USA - Remote Full time R30175 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
@@ -711,231 +1087,83 @@ Total jobs (24h window): 680
   - Company: CrowdStrike | Springfield, Sangamon County
   - USA - Remote Full time R30175 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Engineer III - Platform Data Engineer (Remote)](https://www.adzuna.com/land/ad/5930479678?se=IMlQd33J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=1343C099FC73A581D9F55DD8452B22448712413F)
+- [Engineer III - Platform Data Engineer (Remote)](https://www.adzuna.com/land/ad/5930479678?se=pqUEqwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=1343C099FC73A581D9F55DD8452B22448712413F)
   - Company: CrowdStrike | Grandview Heights, Franklin County
   - USA - Remote Full time R30029 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930479648?se=IMlQd33J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=1898E2D7C6A9EAB2FB96E4CA4A30CE7D460FF384)
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930479648?se=pqUEqwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=1898E2D7C6A9EAB2FB96E4CA4A30CE7D460FF384)
   - Company: CrowdStrike | Grandview Heights, Franklin County
   - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Engineer III - Platform Data Engineer (Remote)](https://www.adzuna.com/land/ad/5930469744?se=IMlQd33J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=A5AA912E17FCDF5EEEB31C568847603407783F99)
+- [Engineer III - Platform Data Engineer (Remote)](https://www.adzuna.com/land/ad/5930469744?se=pqUEqwnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=A5AA912E17FCDF5EEEB31C568847603407783F99)
   - Company: CrowdStrike | Five Points, Wake County
   - USA - Remote Full time R30029 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930469649?se=IMlQd33J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=FB9604FB162F55C78DBA18E2448EDD3281DFDF6A)
-  - Company: CrowdStrike | Five Points, Wake County
-  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+- [Oracle Cloud Infrastructure Engineer](https://www.adzuna.com/details/5933153617?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Rancho Santa Fe, San Diego County
+  - Oracle Cloud Infrastructure Engineer – Remote Bright Vision Technologies is a technology consulting and software develop...
 
-- [Sr. Engineer - Platform Data Engineer (Remote)](https://www.adzuna.com/details/5930464673?utm_medium=api&utm_source=632a28fd)
-  - Company: CrowdStrike | Tallahassee, Leon County
-  - USA - Remote Full time R30175 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+- [Cloud Networking Engineer](https://www.adzuna.com/details/5933143719?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Riverton, Salt Lake County
+  - Cloud Networking Engineer – Remote Bright Vision Technologies is a technology consulting and software development compan...
 
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/details/5930464501?utm_medium=api&utm_source=632a28fd)
-  - Company: CrowdStrike | Tallahassee, Leon County
-  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+- [Cloud Engineer](https://www.adzuna.com/land/ad/5932902782?se=gvMGrAnL8RGpZIc52DbTPg&utm_medium=api&utm_source=632a28fd&v=70837BCB48A57F683C78BED64F139F0CB0E8968D)
+  - Company: ARCTICOM LLC | Anchorage, Alaska
+  - About Arcticom, LLC Arcticom LLC provides network and systems administration, enterprise architecture and resource plann...
 
-- [Engineer III - Platform Data Engineer (Remote)](https://www.adzuna.com/land/ad/5930459704?se=IMlQd33J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=709D55C4D0AB5F2E5AA87EB9F915C4BE92106AFB)
-  - Company: CrowdStrike | Nashville, Davidson County
-  - USA - Remote Full time R30029 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+- [Azure Cloud Engineer](https://www.adzuna.com/details/5932301302?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Woodbridge, Middlesex County
+  - Azure Cloud Engineer – Remote Bright Vision Technologies is a technology consulting and software development company del...
 
-- [Sr. Engineer - Platform Data Engineer (Remote)](https://www.adzuna.com/land/ad/5930453560?se=IMlQd33J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=625AB15B52E2F0722429686F55FE3A0FF0E8BE88)
-  - Company: CrowdStrike | Trenton, Mercer County
-  - USA - Remote Full time R30175 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+- [AWS Cloud Engineer](https://www.adzuna.com/details/5932171733?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | South Plainfield, Middlesex County
+  - AWS Cloud Engineer – Remote Bright Vision Technologies is a technology consulting and software development company deliv...
 
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930453502?se=IMlQd33J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=A5E3312A14D2C1F5A7EA47A8C0283833FB87E887)
-  - Company: CrowdStrike | Trenton, Mercer County
-  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+- [Cloud Connectivity Engineer](https://www.adzuna.com/details/5931989074?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Franklin, Williamson County
+  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
 
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930447430?se=IMlQd33J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=2FAD0C2538F2A5EF3E75FD08DE02AE26B37D4748)
-  - Company: CrowdStrike | Atlanta, Fulton County
-  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+- [Oracle Cloud Engineer (SME) - REMOTE](https://www.adzuna.com/details/5931888123?utm_medium=api&utm_source=632a28fd)
+  - Company: JTEC Consulting | San Antonio, Bexar County
+  - ​ Oracle Cloud Senior Engineer (SME) - REMOTE San Antonio, TX 78201 JTEC Consulting LLC is a Veteran-Owned Small Busines...
 
-- [Sr. Engineer - Platform Data Engineer (Remote)](https://www.adzuna.com/land/ad/5930447298?se=IMlQd33J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=E86507FC7264D5AA3E5C4FC85625DDBF4D513AA6)
-  - Company: CrowdStrike | Atlanta, Fulton County
-  - USA - Remote Full time R30175 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+- [Senior AWS & Liferay Cloud Migration Engineer || Remote || 6 months || Video](https://www.adzuna.com/details/5931389852?utm_medium=api&utm_source=632a28fd)
+  - Company: Stellent IT LLC | US
+  - Title: Senior AWS & Liferay Cloud Migration Engineer Location: Remote Duration: 6 months MOI: Video Project background a...
 
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930445476?se=IMlQd33J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=3B9D6C95E470CE5A3998E7844747673F4ADD6F91)
-  - Company: CrowdStrike | Cedar, Cole County
-  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+- [Cloud Infrastructure Engineer using Terraform and AWS](https://www.adzuna.com/land/ad/5931222038?se=gvMGrAnL8RGpZIc52DbTPg&utm_medium=api&utm_source=632a28fd&v=B0FB8741F97827C714DBB22AA201FF6AD29192A0)
+  - Company: SRI Tech Solutions | US
+  - Cloud Infrastructure Engineer using Terraform and AWS Remote Contract Solid understanding and working experience of Core...
 
-- [Sr. Engineer - Platform Data Engineer (Remote)](https://www.adzuna.com/land/ad/5930445354?se=IMlQd33J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=F31EFC17CEB03268FEA0A373E66EF9FF2365819E)
-  - Company: CrowdStrike | Cedar, Cole County
-  - USA - Remote Full time R30175 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+- [Senior AWS & Liferay Cloud Migration Engineer || Remote || 6 months || Video](https://www.adzuna.com/land/ad/5931073646?se=gvMGrAnL8RGpZIc52DbTPg&utm_medium=api&utm_source=632a28fd&v=360F2B25B89D7B64582EED1F8BE1A4A06B3320A5)
+  - Company: Stellent IT LLC | US
+  - Title: Senior AWS & Liferay Cloud Migration Engineer Location: Remote Duration: 6 months MOI: Video Project background a...
 
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930442222?se=IMlQd33J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=B71AA7419327E41EA60B0034E2CBE5064935EC97)
-  - Company: CrowdStrike | Phoenix, Maricopa County
-  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+- [Oracle Cloud Infrastructure Engineer](https://www.adzuna.com/details/5931050288?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - Oracle Cloud Infrastructure Engineer – Remote Bright Vision Technologies is a technology consulting and software develop...
 
-- [Engineer III - Platform Data Engineer (Remote)](https://www.adzuna.com/land/ad/5930442061?se=IMlQd33J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=4EAE248F19193BFA698EF6B80B0C0F3346A8ABA0)
-  - Company: CrowdStrike | Phoenix, Maricopa County
-  - USA - Remote Full time R30029 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+- [Cloud Networking Engineer](https://www.adzuna.com/details/5931049942?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - Cloud Networking Engineer – Remote Bright Vision Technologies is a technology consulting and software development compan...
 
-- [Engineer III - Platform Data Engineer (Remote)](https://www.adzuna.com/land/ad/5930438806?se=IMlQd33J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=31080D10B171929696DAB6CB6D831C65F11C2B34)
-  - Company: CrowdStrike | Boston, Suffolk County
-  - USA - Remote Full time R30029 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+- [Azure Cloud Security Engineer (Montvale)](https://www.adzuna.com/land/ad/5931012478?se=gvMGrAnL8RGpZIc52DbTPg&utm_medium=api&utm_source=632a28fd&v=B1E3C7CC1DA44068E04227380EBD5C734793A2F2)
+  - Company: Iris Software Inc. | Park Ridge, Bergen County
+  - Iris client, one of their Auditing Client is looking to hire Azure Cloud Security Engineer for Remote. Job Title: Azure ...
 
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930438467?se=IMlQd33J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=AB4B6521E666FCDC8D5C7232C05B12D03A680A51)
-  - Company: CrowdStrike | Lansing, Ingham County
-  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Engineer III - Platform Data Engineer (Remote)](https://www.adzuna.com/land/ad/5930438395?se=IMlQd33J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=A74A55EA85F2D5117F2290065E801081FD652AD4)
-  - Company: CrowdStrike | Lansing, Ingham County
-  - USA - Remote Full time R30029 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930434958?se=IMlQd33J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=037A5631C399FA49BBD99654ADB83726AD1064DD)
-  - Company: CrowdStrike | Saint Paul, Ramsey County
-  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Engineer III - Platform Data Engineer (Remote)](https://www.adzuna.com/land/ad/5930434947?se=6ho-eH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=DDED0C9A574AFAFCEBF6691D81425AAF14788456)
-  - Company: CrowdStrike | Saint Paul, Ramsey County
-  - USA - Remote Full time R30029 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Engineer III - Platform Data Engineer (Remote)](https://www.adzuna.com/land/ad/5930431692?se=6ho-eH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=1C9EB9A7A3300BADCB56C1A1A5993AF28698EDF7)
-  - Company: CrowdStrike | Madison, Dane County
-  - USA - Remote Full time R30029 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930431699?se=6ho-eH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=3FDF1A19CBA2C4A465D2A50FC107009AD2C2CDDD)
-  - Company: CrowdStrike | Madison, Dane County
-  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930426516?se=6ho-eH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=896CD11EBDF981B78979AB97F53C8C2D60BF2809)
-  - Company: CrowdStrike | Uptown, Marion County
-  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Engineer - Platform Data Engineer (Remote)](https://www.adzuna.com/land/ad/5930426509?se=6ho-eH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=2E2EFAD816CBA234AF51DF498D10EB31B127D61C)
-  - Company: CrowdStrike | Uptown, Marion County
-  - USA - Remote Full time R30175 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Engineer - Platform Data Engineer (Remote)](https://www.adzuna.com/land/ad/5930426019?se=6ho-eH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=9804427FE98B7431BB5FC1127A0BCD88ADB9299E)
-  - Company: CrowdStrike | Edgewood, Richland County
-  - USA - Remote Full time R30175 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930425924?se=6ho-eH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=FC3875CB5B3D8B20F6111813BA3A86B23FE786B0)
-  - Company: CrowdStrike | Edgewood, Richland County
-  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930424456?se=6ho-eH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=CCDDB165C4BB28BE9B8028BFE38DA331535FC227)
-  - Company: CrowdStrike | Charleston, Kanawha County
-  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930424189?se=6ho-eH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=6875638279E3D75796103D00E2AA6CA51231D457)
-  - Company: CrowdStrike | Bonnie, Utah County
-  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Engineer III - Platform Data Engineer (Remote)](https://www.adzuna.com/land/ad/5930424083?se=6ho-eH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=E7A9FC86AFDA7AD2D7992621F603F04487B2D70B)
-  - Company: CrowdStrike | Bonnie, Utah County
-  - USA - Remote Full time R30029 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Engineer - Platform Data Engineer (Remote)](https://www.adzuna.com/land/ad/5930424140?se=6ho-eH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=857821FE48C0AC1B587DCFB3AB063F88A2B9A0D9)
-  - Company: CrowdStrike | Charleston, Kanawha County
-  - USA - Remote Full time R30175 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Engineer III - Platform Data Engineer (Remote)](https://www.adzuna.com/details/5930421872?utm_medium=api&utm_source=632a28fd)
-  - Company: CrowdStrike | Penbrook, Dauphin County
-  - USA - Remote Full time R30029 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/details/5930421848?utm_medium=api&utm_source=632a28fd)
-  - Company: CrowdStrike | Penbrook, Dauphin County
-  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930420928?se=6ho-eH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=CB6CA082D123B2F3A9B231C26AD800B96F33F1B9)
-  - Company: CrowdStrike | Salem, Marion County
-  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Engineer III - Platform Data Engineer (Remote)](https://www.adzuna.com/land/ad/5930420949?se=6ho-eH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=AC1126ACB64FD4DB5E0BDBF5E13CB85BADD3A809)
-  - Company: CrowdStrike | Salem, Marion County
-  - USA - Remote Full time R30029 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Engineer III - Platform Data Engineer (Remote)](https://www.adzuna.com/land/ad/5930420496?se=6ho-eH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=272976A70E17EBB9776C58E3AAFA4E6C92CA9124)
-  - Company: CrowdStrike | Carson Mall, Carson City
-  - USA - Remote Full time R30029 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930420505?se=6ho-eH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=B482901AAD8AA2131C2852C665D1042DABDCC00D)
-  - Company: CrowdStrike | Carson Mall, Carson City
-  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930420087?se=6ho-eH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=42A19B083B6FB6A444E22AD281FCAE02DED154D6)
-  - Company: CrowdStrike | State House, Lancaster County
-  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Engineer III - Platform Data Engineer (Remote)](https://www.adzuna.com/land/ad/5930419577?se=6ho-eH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=55F581F207D9E028B586033FBCC713A1469A580A)
-  - Company: CrowdStrike | State House, Lancaster County
-  - USA - Remote Full time R30029 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930419446?se=6ho-eH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=03B9D9E1B5E9056FA1FFBC74CAE316AB62BC37F1)
-  - Company: CrowdStrike | La Cienga, Santa Fe County
-  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Engineer III - Platform Data Engineer (Remote)](https://www.adzuna.com/land/ad/5930419300?se=6ho-eH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=28D9480871B025E66AC98F3E3EFC2607032FD5E8)
-  - Company: CrowdStrike | La Cienga, Santa Fe County
-  - USA - Remote Full time R30029 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930418438?se=6ho-eH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=CE1942FFB9F5359D0A8F71F114B5F29C86CF0077)
-  - Company: CrowdStrike | Oklahoma City, Oklahoma County
-  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Engineer - Platform Data Engineer (Remote)](https://www.adzuna.com/land/ad/5930418483?se=6ho-eH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=2EB7F264B25184C34A6419CE08D973E95ADDBD52)
-  - Company: CrowdStrike | Oklahoma City, Oklahoma County
-  - USA - Remote Full time R30175 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Engineer III - Platform Data Engineer (Remote)](https://www.adzuna.com/land/ad/5930416523?se=6ho-eH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=1A567A5973712134D48D6CE3B267EF2E5ABFC0EA)
-  - Company: CrowdStrike | Des Moines, Polk County
-  - USA - Remote Full time R30029 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930416217?se=6ho-eH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=6337206B773D164D8EA457192E269F2206C162D8)
-  - Company: CrowdStrike | Des Moines, Polk County
-  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Engineer - Platform Data Engineer (Remote)](https://www.adzuna.com/land/ad/5930415933?se=6ho-eH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=B0A25B8C8334DF0E28AB3B7FF15546948398D698)
-  - Company: CrowdStrike | Washington, D.C., US
-  - USA - Remote Full time R30175 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930415996?se=6ho-eH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=24124A5AF7C7283739BFBF9C3D57D4A464AF11B0)
-  - Company: CrowdStrike | Washington, D.C., US
-  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Engineer III - Platform Data Engineer (Remote)](https://www.adzuna.com/land/ad/5930415567?se=6ho-eH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=F8C1DAC9A702F12ABA97ADF96300C10C5806C5B5)
-  - Company: CrowdStrike | Boise, Ada County
-  - USA - Remote Full time R30029 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930415540?se=6ho-eH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=D580C3FE1D7AB154C790ADC52F7103EF1AB6C705)
-  - Company: CrowdStrike | Boise, Ada County
-  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930414985?se=6ho-eH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=7416D9BFD59222237A885E1389349B491D85FF6D)
-  - Company: CrowdStrike | Annapolis, Anne Arundel County
-  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Engineer III - Platform Data Engineer (Remote)](https://www.adzuna.com/land/ad/5930414979?se=6ho-eH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=00E9569CE39B0A3F76BC9DF584FC1BD8E4040F77)
-  - Company: CrowdStrike | Annapolis, Anne Arundel County
-  - USA - Remote Full time R30029 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Engineer III - Platform Data Engineer (Remote)](https://www.adzuna.com/land/ad/5930414747?se=6ho-eH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=42C38F1D1408A84EA2812AB2203C57762B0BE503)
-  - Company: CrowdStrike | Talcott Village, Hartford County
-  - USA - Remote Full time R30029 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930414587?se=6ho-eH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=F5A99E66FF847E5E07ADB5EF5528ECEF2E46BF44)
-  - Company: CrowdStrike | Talcott Village, Hartford County
-  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Engineer III - Platform Data Engineer (Remote)](https://www.adzuna.com/land/ad/5930412370?se=6ho-eH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=B18489D30CDB85F1E907A01AB956879A52A2EE1B)
-  - Company: CrowdStrike | Chisolm, Montgomery County
-  - USA - Remote Full time R30029 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Oracle Integration Cloud (OIC) Engineer / Lead (Remote)](https://www.adzuna.com/land/ad/5930822222?se=VmhHeX3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=8D7B98A726B68C1F346FB4085ED91BB073E3BDEB)
+- [Oracle Integration Cloud (OIC) Engineer / Lead (Remote)](https://www.adzuna.com/land/ad/5930822222?se=gvMGrAnL8RGpZIc52DbTPg&utm_medium=api&utm_source=632a28fd&v=8D7B98A726B68C1F346FB4085ED91BB073E3BDEB)
   - Company: GSK Solutions Inc. | US
   - Job Title Oracle Integration Cloud (OIC) Engineer / Lead (Remote) Location Remote (Dayton, OH) Duration 6 Months Intervi...
 
-- [Senior Cloud Engineer (STP)](https://www.adzuna.com/land/ad/5930808106?se=VmhHeX3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=705C3F9257DE85C24EACD543105E6483E33578B0)
+- [Senior Cloud Engineer (STP)](https://www.adzuna.com/land/ad/5930808106?se=gvMGrAnL8RGpZIc52DbTPg&utm_medium=api&utm_source=632a28fd&v=705C3F9257DE85C24EACD543105E6483E33578B0)
   - Company: K Anand Corporation | US
   - Role: Senior Cloud Engineer (STP) Location: 100% Remote Duration: 12 Months Contract Role Purpose Owns and builds infras...
 
-- [Azure Cloud Security Engineer](https://www.adzuna.com/land/ad/5930648321?se=VmhHeX3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=3CF1C852CA992D095E238B68B0B71F4DC68819EB)
+- [Azure Cloud Security Engineer](https://www.adzuna.com/land/ad/5930648321?se=gvMGrAnL8RGpZIc52DbTPg&utm_medium=api&utm_source=632a28fd&v=3CF1C852CA992D095E238B68B0B71F4DC68819EB)
   - Company: Iris Software Inc. | Montvale, Bergen County
   - Iris client, one of their Auditing Client is looking to hire Azure Cloud Security Engineer for Remote. Job Title: Azure ...
 
-- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930547428?se=VmhHeX3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=0EA9C4AFC9ED8DF4D3EE2FA8DB0315D0D0AFAFC0)
+- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930547428?se=gvMGrAnL8RGpZIc52DbTPg&utm_medium=api&utm_source=632a28fd&v=0EA9C4AFC9ED8DF4D3EE2FA8DB0315D0D0AFAFC0)
   - Company: CrowdStrike | Ny State Campus, Albany County
   - USA - Remote Full time R29897 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
@@ -951,11 +1179,11 @@ Total jobs (24h window): 680
   - Company: CrowdStrike | Capitol, Richmond
   - USA - Remote Full time R29897 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/land/ad/5930481945?se=VmhHeX3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=E53C8B153685C77F9E36D9AFC270CCE864EE33DA)
+- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/land/ad/5930481945?se=gvMGrAnL8RGpZIc52DbTPg&utm_medium=api&utm_source=632a28fd&v=E53C8B153685C77F9E36D9AFC270CCE864EE33DA)
   - Company: CrowdStrike | Tumwater, Thurston County
   - USA - Sunnyvale, CA USA - Remote Full time R30109 As a global leader in cybersecurity, CrowdStrike protects the people, ...
 
-- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930481979?se=VmhHeX3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=E2B0F20402D7D517B34E3163D5D6BF530892057A)
+- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930481979?se=gvMGrAnL8RGpZIc52DbTPg&utm_medium=api&utm_source=632a28fd&v=E2B0F20402D7D517B34E3163D5D6BF530892057A)
   - Company: CrowdStrike | Tumwater, Thurston County
   - USA - Remote Full time R29897 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
@@ -963,127 +1191,135 @@ Total jobs (24h window): 680
   - Company: CrowdStrike | Springfield, Sangamon County
   - USA - Remote Full time R29897 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930479651?se=VmhHeX3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=68E29A493D5836828C1CB00038C3B9114D7AB5A5)
+- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/details/5930480532?utm_medium=api&utm_source=632a28fd)
+  - Company: CrowdStrike | Springfield, Sangamon County
+  - USA - Sunnyvale, CA USA - Remote Full time R30109 As a global leader in cybersecurity, CrowdStrike protects the people, ...
+
+- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930479651?se=gvMGrAnL8RGpZIc52DbTPg&utm_medium=api&utm_source=632a28fd&v=68E29A493D5836828C1CB00038C3B9114D7AB5A5)
   - Company: CrowdStrike | Grandview Heights, Franklin County
   - USA - Remote Full time R29897 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/land/ad/5930479725?se=VmhHeX3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=354F3AC14D311DD27BF3FDCF467FFA3AAD77BA0E)
+- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/land/ad/5930479725?se=gvMGrAnL8RGpZIc52DbTPg&utm_medium=api&utm_source=632a28fd&v=354F3AC14D311DD27BF3FDCF467FFA3AAD77BA0E)
   - Company: CrowdStrike | Grandview Heights, Franklin County
   - USA - Sunnyvale, CA USA - Remote Full time R30109 As a global leader in cybersecurity, CrowdStrike protects the people, ...
 
-- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/land/ad/5930469720?se=VmhHeX3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=2C701D6CD81E209F6D3BC67D932ACFA953421722)
+- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/land/ad/5930469720?se=gvMGrAnL8RGpZIc52DbTPg&utm_medium=api&utm_source=632a28fd&v=2C701D6CD81E209F6D3BC67D932ACFA953421722)
   - Company: CrowdStrike | Five Points, Wake County
   - USA - Sunnyvale, CA USA - Remote Full time R30109 As a global leader in cybersecurity, CrowdStrike protects the people, ...
 
-- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930469718?se=VmhHeX3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=FAE619AF23AF566355FD68DF7C1A0DC81F725D9C)
+- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930469718?se=gvMGrAnL8RGpZIc52DbTPg&utm_medium=api&utm_source=632a28fd&v=FAE619AF23AF566355FD68DF7C1A0DC81F725D9C)
   - Company: CrowdStrike | Five Points, Wake County
   - USA - Remote Full time R29897 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/details/5930464630?utm_medium=api&utm_source=632a28fd)
+  - Company: CrowdStrike | Tallahassee, Leon County
+  - USA - Sunnyvale, CA USA - Remote Full time R30109 As a global leader in cybersecurity, CrowdStrike protects the people, ...
 
 - [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/details/5930464431?utm_medium=api&utm_source=632a28fd)
   - Company: CrowdStrike | Tallahassee, Leon County
   - USA - Remote Full time R29897 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930459712?se=VmhHeX3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=D561311347157EBA6AD5FEB0FA41979F97B5718A)
+- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930459712?se=gvMGrAnL8RGpZIc52DbTPg&utm_medium=api&utm_source=632a28fd&v=D561311347157EBA6AD5FEB0FA41979F97B5718A)
   - Company: CrowdStrike | Nashville, Davidson County
   - USA - Remote Full time R29897 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/land/ad/5930459549?se=VmhHeX3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=10CEA5EC6BA9078D10BE0AE12CC22D588FCBF09F)
+- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/land/ad/5930459549?se=gvMGrAnL8RGpZIc52DbTPg&utm_medium=api&utm_source=632a28fd&v=10CEA5EC6BA9078D10BE0AE12CC22D588FCBF09F)
   - Company: CrowdStrike | Nashville, Davidson County
   - USA - Sunnyvale, CA USA - Remote Full time R30109 As a global leader in cybersecurity, CrowdStrike protects the people, ...
 
-- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930453593?se=VmhHeX3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=6512E7F39FB67A1D210C83A50CC4B45BD4EE8AB4)
+- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930453593?se=gvMGrAnL8RGpZIc52DbTPg&utm_medium=api&utm_source=632a28fd&v=6512E7F39FB67A1D210C83A50CC4B45BD4EE8AB4)
   - Company: CrowdStrike | Trenton, Mercer County
   - USA - Remote Full time R29897 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/land/ad/5930453677?se=VmhHeX3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=7C66DCC6153A02B4465B09443FDB2D53A6F53E3E)
+- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/land/ad/5930453677?se=ok7brAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=7C66DCC6153A02B4465B09443FDB2D53A6F53E3E)
   - Company: CrowdStrike | Trenton, Mercer County
   - USA - Sunnyvale, CA USA - Remote Full time R30109 As a global leader in cybersecurity, CrowdStrike protects the people, ...
 
-- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930447608?se=VmhHeX3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=0C264F2520260C9B8C0719AE70CF148ED3E1BE84)
+- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930447608?se=ok7brAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=0C264F2520260C9B8C0719AE70CF148ED3E1BE84)
   - Company: CrowdStrike | Atlanta, Fulton County
   - USA - Remote Full time R29897 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/land/ad/5930447380?se=VmhHeX3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=FAEFE45D01963F621BC2E38E6F9FC7B54494348D)
+- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/land/ad/5930447380?se=ok7brAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=FAEFE45D01963F621BC2E38E6F9FC7B54494348D)
   - Company: CrowdStrike | Atlanta, Fulton County
   - USA - Sunnyvale, CA USA - Remote Full time R30109 As a global leader in cybersecurity, CrowdStrike protects the people, ...
 
-- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/land/ad/5930445449?se=VmhHeX3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=484B51BF8EE4B916EA794DEEB6698F3CB0E265D8)
+- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/land/ad/5930445449?se=ok7brAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=484B51BF8EE4B916EA794DEEB6698F3CB0E265D8)
   - Company: CrowdStrike | Cedar, Cole County
   - USA - Sunnyvale, CA USA - Remote Full time R30109 As a global leader in cybersecurity, CrowdStrike protects the people, ...
 
-- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930445289?se=VmhHeX3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=28D2219BBC6F39BD7354CCA76E6F74F672FEB9A4)
+- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930445289?se=ok7brAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=28D2219BBC6F39BD7354CCA76E6F74F672FEB9A4)
   - Company: CrowdStrike | Cedar, Cole County
   - USA - Remote Full time R29897 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/land/ad/5930442050?se=VmhHeX3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=BA9BD8162389C4E5938612E936DFD78BB79A1346)
+- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/land/ad/5930442050?se=ok7brAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=BA9BD8162389C4E5938612E936DFD78BB79A1346)
   - Company: CrowdStrike | Phoenix, Maricopa County
   - USA - Sunnyvale, CA USA - Remote Full time R30109 As a global leader in cybersecurity, CrowdStrike protects the people, ...
 
-- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930442045?se=VmhHeX3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=2C7AD8B29F97FE44E85FDF875177B30CE9291779)
+- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930442045?se=ok7brAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=2C7AD8B29F97FE44E85FDF875177B30CE9291779)
   - Company: CrowdStrike | Phoenix, Maricopa County
   - USA - Remote Full time R29897 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/land/ad/5930438813?se=VmhHeX3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=C45624A7AE75D2AAF874F7551BAFA439AFD103DE)
+- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/land/ad/5930438813?se=ok7brAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=C45624A7AE75D2AAF874F7551BAFA439AFD103DE)
   - Company: CrowdStrike | Boston, Suffolk County
   - USA - Sunnyvale, CA USA - Remote Full time R30109 As a global leader in cybersecurity, CrowdStrike protects the people, ...
 
-- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930438727?se=aFlDen3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=E99452CB7934D6564B88D7FF896A2DDC08C7ADDA)
+- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930438727?se=ok7brAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=E99452CB7934D6564B88D7FF896A2DDC08C7ADDA)
   - Company: CrowdStrike | Boston, Suffolk County
   - USA - Remote Full time R29897 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930438375?se=aFlDen3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=C3E1262F9E5F71FA72D62847EDED67F74F1187F9)
+- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930438375?se=ok7brAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=C3E1262F9E5F71FA72D62847EDED67F74F1187F9)
   - Company: CrowdStrike | Lansing, Ingham County
   - USA - Remote Full time R29897 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/land/ad/5930438468?se=aFlDen3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=6A57E0252E65F621F179372FEAD7A07DE62AF9EF)
+- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/land/ad/5930438468?se=ok7brAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=6A57E0252E65F621F179372FEAD7A07DE62AF9EF)
   - Company: CrowdStrike | Lansing, Ingham County
   - USA - Sunnyvale, CA USA - Remote Full time R30109 As a global leader in cybersecurity, CrowdStrike protects the people, ...
 
-- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/land/ad/5930434862?se=aFlDen3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=03C8CE776F154A710FFE5BAE1B69D1A5478F9674)
+- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/land/ad/5930434862?se=ok7brAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=03C8CE776F154A710FFE5BAE1B69D1A5478F9674)
   - Company: CrowdStrike | Saint Paul, Ramsey County
   - USA - Sunnyvale, CA USA - Remote Full time R30109 As a global leader in cybersecurity, CrowdStrike protects the people, ...
 
-- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930434876?se=aFlDen3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=C4725801181D97D6ED4B33877D1DADF0482B5308)
+- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930434876?se=ok7brAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=C4725801181D97D6ED4B33877D1DADF0482B5308)
   - Company: CrowdStrike | Saint Paul, Ramsey County
   - USA - Remote Full time R29897 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/land/ad/5930431801?se=aFlDen3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=B2836471D3E735D63E3B3D51BA592B023FBBC166)
+- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/land/ad/5930431801?se=ok7brAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=B2836471D3E735D63E3B3D51BA592B023FBBC166)
   - Company: CrowdStrike | Madison, Dane County
   - USA - Sunnyvale, CA USA - Remote Full time R30109 As a global leader in cybersecurity, CrowdStrike protects the people, ...
 
-- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930431774?se=aFlDen3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=37354ECEE3A9DC548A1D656AEEB8D2A43795C9F8)
+- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930431774?se=ok7brAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=37354ECEE3A9DC548A1D656AEEB8D2A43795C9F8)
   - Company: CrowdStrike | Madison, Dane County
   - USA - Remote Full time R29897 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930426476?se=aFlDen3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=1932DFBEC6092392C1007DA11422C1F278AE98E7)
+- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930426476?se=ok7brAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=1932DFBEC6092392C1007DA11422C1F278AE98E7)
   - Company: CrowdStrike | Uptown, Marion County
   - USA - Remote Full time R29897 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/land/ad/5930426486?se=aFlDen3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=0A35DCAE13536A4E031767E5FDFE6CB2271E81CF)
+- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/land/ad/5930426486?se=ok7brAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=0A35DCAE13536A4E031767E5FDFE6CB2271E81CF)
   - Company: CrowdStrike | Uptown, Marion County
   - USA - Sunnyvale, CA USA - Remote Full time R30109 As a global leader in cybersecurity, CrowdStrike protects the people, ...
 
-- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/land/ad/5930425983?se=aFlDen3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=5914FC5BF542198A89B498316430673EC46E9761)
+- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/land/ad/5930425983?se=ok7brAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=5914FC5BF542198A89B498316430673EC46E9761)
   - Company: CrowdStrike | Edgewood, Richland County
   - USA - Sunnyvale, CA USA - Remote Full time R30109 As a global leader in cybersecurity, CrowdStrike protects the people, ...
 
-- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930425914?se=aFlDen3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=DF5CC2A83D174CC758D506509C1FB6ACC84B3CC8)
+- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930425914?se=ok7brAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=DF5CC2A83D174CC758D506509C1FB6ACC84B3CC8)
   - Company: CrowdStrike | Edgewood, Richland County
   - USA - Remote Full time R29897 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/land/ad/5930424174?se=aFlDen3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=C5030A84C6E5014A143397C87361C3A4024096E1)
+- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/land/ad/5930424174?se=ok7brAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=C5030A84C6E5014A143397C87361C3A4024096E1)
   - Company: CrowdStrike | Bonnie, Utah County
   - USA - Sunnyvale, CA USA - Remote Full time R30109 As a global leader in cybersecurity, CrowdStrike protects the people, ...
 
-- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930424186?se=aFlDen3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=547D84193CD1731AD49A76805450F24FDE82D6E2)
+- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930424186?se=ok7brAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=547D84193CD1731AD49A76805450F24FDE82D6E2)
   - Company: CrowdStrike | Bonnie, Utah County
   - USA - Remote Full time R29897 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/land/ad/5930424110?se=aFlDen3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=8828146E526A922643141FEDD51B45770DEBBA3B)
+- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/land/ad/5930424110?se=ok7brAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=8828146E526A922643141FEDD51B45770DEBBA3B)
   - Company: CrowdStrike | Charleston, Kanawha County
   - USA - Sunnyvale, CA USA - Remote Full time R30109 As a global leader in cybersecurity, CrowdStrike protects the people, ...
 
-- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930424135?se=aFlDen3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=6EDD468D193382249D9447F5A86595D40FC2686B)
+- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930424135?se=ok7brAnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=6EDD468D193382249D9447F5A86595D40FC2686B)
   - Company: CrowdStrike | Charleston, Kanawha County
   - USA - Remote Full time R29897 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
@@ -1091,51 +1327,103 @@ Total jobs (24h window): 680
   - Company: CrowdStrike | Penbrook, Dauphin County
   - USA - Remote Full time R29897 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/details/5930421664?utm_medium=api&utm_source=632a28fd)
-  - Company: CrowdStrike | Penbrook, Dauphin County
-  - USA - Sunnyvale, CA USA - Remote Full time R30109 As a global leader in cybersecurity, CrowdStrike protects the people, ...
+- [Field Claims Investigator](https://www.adzuna.com/land/ad/5933413455?se=oIMBrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=9970032A731840E0A860E2B1F1650B74A2EDF7A5)
+  - Company: Phoenix Loss Control | Fountain Hills, Maricopa County
+  - Job Description Job Description Job Type: Contract Workplace Type: Hybrid (50% remote, 50% fieldwork) Compensation: $25/...
 
-- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/land/ad/5930420946?se=aFlDen3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=571898041B6D46B275F09C005A1EA63122F0369E)
-  - Company: CrowdStrike | Salem, Marion County
-  - USA - Sunnyvale, CA USA - Remote Full time R30109 As a global leader in cybersecurity, CrowdStrike protects the people, ...
+- [Service Infrastructure Engineer](https://www.adzuna.com/details/5933168302?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Wesley Chapel, Pasco County
+  - Service Infrastructure Engineer – Remote Bright Vision Technologies is a technology consulting and software development ...
 
-- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930420972?se=aFlDen3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=8F827EBF756803BFD1A4EEEE6DDDE084B2A24179)
-  - Company: CrowdStrike | Salem, Marion County
-  - USA - Remote Full time R29897 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+- [Azure Infrastructure Engineer](https://www.adzuna.com/details/5933120493?utm_medium=api&utm_source=632a28fd)
+  - Company: Vaco LLC | Addison, Dallas
+  - Azure Infrastructure Engineer DETAILS Location: Remote Position Type: 6M C2H Hourly / Salary: to $120K (based on experie...
 
-- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/land/ad/5930420438?se=aFlDen3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=F4EC703FFBC92F4D52D5730EAC61CDB3B650F71C)
-  - Company: CrowdStrike | Carson Mall, Carson City
-  - USA - Sunnyvale, CA USA - Remote Full time R30109 As a global leader in cybersecurity, CrowdStrike protects the people, ...
+- [Data Infrastructure Engineer- onsite in Memphis no remote](https://www.adzuna.com/details/5933120226?utm_medium=api&utm_source=632a28fd)
+  - Company: Vaco LLC | Memphis, Shelby County
+  -  US citizens and those authorized to work in the US are encouraged to apply.   We are unable to sponsor candidates at th...
 
-- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930420541?se=aFlDen3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=F59EAE27B0FC25D2F77435ED25440B31D2B61451)
-  - Company: CrowdStrike | Carson Mall, Carson City
-  - USA - Remote Full time R29897 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+- [VMware Infrastructure Engineer](https://www.adzuna.com/details/5933118421?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Draper, Salt Lake County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
 
-- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/land/ad/5930420174?se=aFlDen3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=3DB6C1A7F51C17F7472FB7603AA3C857629EDBEF)
-  - Company: CrowdStrike | State House, Lancaster County
-  - USA - Sunnyvale, CA USA - Remote Full time R30109 As a global leader in cybersecurity, CrowdStrike protects the people, ...
+- [Infrastructure Automation Engineer](https://www.adzuna.com/details/5933051072?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Draper, Salt Lake County
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
 
-- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930420188?se=aFlDen3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=AA39DB8FAE3333139DC7B4EE19A00FFAA43A7083)
-  - Company: CrowdStrike | State House, Lancaster County
-  - USA - Remote Full time R29897 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+- [Infrastructure Storage Engineer](https://www.adzuna.com/details/5933000835?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Draper, Salt Lake County
+  - Infrastructure Storage Engineer - Remote Bright Vision Technologies is a forward-thinking software development company d...
 
-- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930419388?se=aFlDen3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=89EAC0BA1045CFCCEDDE5786F9C2D14B71023918)
-  - Company: CrowdStrike | La Cienga, Santa Fe County
-  - USA - Remote Full time R29897 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/land/ad/5930419284?se=aFlDen3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=7C2D4245B1522BA0CEAFD96644EF4A4ED080F112)
-  - Company: CrowdStrike | La Cienga, Santa Fe County
-  - USA - Sunnyvale, CA USA - Remote Full time R30109 As a global leader in cybersecurity, CrowdStrike protects the people, ...
-
-- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/land/ad/5930418472?se=aFlDen3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=1A019DD64527719E21BADA27502AA687A85A0FED)
-  - Company: CrowdStrike | Oklahoma City, Oklahoma County
-  - USA - Sunnyvale, CA USA - Remote Full time R30109 As a global leader in cybersecurity, CrowdStrike protects the people, ...
-
-- [Field Claims Investigator](https://www.adzuna.com/land/ad/5930757911?se=ts-ge33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=F6238FA9DBE9D1B4FEDFBFA3B7039BB622EE4DFF)
+- [Field Claims Investigator](https://www.adzuna.com/land/ad/5932865147?se=oIMBrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=C6FC50DEAACEF28DE960F7C0CBE174BCD701CB38)
   - Company: Phoenix Loss Control | Phoenix, Maricopa County
   - Job Description Job Description Job Type: Contract Workplace Type: Hybrid (50% remote, 50% fieldwork) Compensation: $25/...
 
-- [Sr. GovCloud Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930547444?se=ts-ge33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=029C2E2526B748901412E0A18C96FA1F108C4B51)
+- [Field Claims Investigator](https://www.adzuna.com/land/ad/5932863446?se=oIMBrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=F6055A604F16ED5D889B3BB2021E68B82C98FDE2)
+  - Company: Phoenix Loss Control | Surprise, Maricopa County
+  - Job Description Job Description Job Type: Contract Workplace Type: Hybrid (50% remote, 50% fieldwork) Compensation: $25/...
+
+- [Field Claims Investigator](https://www.adzuna.com/land/ad/5932861835?se=oIMBrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=6227306FAF7C9F79590487A87D6C698F2574BC18)
+  - Company: Phoenix Loss Control | Avondale, Maricopa County
+  - Job Description Job Description Job Type: Contract Workplace Type: Hybrid (50% remote, 50% fieldwork) Compensation: $25/...
+
+- [Experienced Infrastructure Engineer with Security Clearance](https://www.adzuna.com/land/ad/5932564823?se=oIMBrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=206074F0C578501DD6C29516FA1E9DD80D899580)
+  - Company: Serco Inc. | Washington, D.C., US
+  - Position Description & Qualifications We are looking for an experienced Experienced Infrastructure Engineer - (100% Remo...
+
+- [Infrastructure Reliability Engineer](https://www.adzuna.com/details/5932137457?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Pacific, Franklin County
+  - Infrastructure Reliability Engineer – Remote Bright Vision Technologies is a technology consulting and software developm...
+
+- [Sr. Software Engineer, Infrastructure (Remote)](https://www.adzuna.com/land/ad/5932103772?se=oIMBrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=0268D9ADAB3D13DB9AE05E11CD17A9F6AC105865)
+  - Company: CrowdStrike | Ny State Campus, Albany County
+  - USA - Remote Full time R30380 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Desktop Technician](https://www.adzuna.com/land/ad/5932031592?se=oIMBrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=F4BC003BE132418C78065777691185C8EBE4B487)
+  - Company: CompuCom | Greenwood, Greenwood County
+  - At CompucomStaffing (https://www1.jobdiva.com/portal/?a=xpjdnwd96pfzndejt5orrp7btv1uj90471yr05agwnk9h3kdkxgy44xuptw0m44x...
+
+- [Desktop Technician - Greenwood, SC](https://www.adzuna.com/details/5931915957?utm_medium=api&utm_source=632a28fd)
+  - Company: Military Spouse Corporate Career Network | Greenwood, Greenwood County
+  - ATTENTION MILITARY AFFILIATED JOB SEEKERS - Our organization works with partner companies to source qualified talent for...
+
+- [Senior Infrastructure Engineer](https://www.adzuna.com/details/5931830476?utm_medium=api&utm_source=632a28fd)
+  - Company: d-Matrix | Seattle, King County
+  - At d-Matrix , we are focused on unleashing the potential of generative AI to power the transformation of technology. We ...
+
+- [ML Infrastructure Engineer](https://www.adzuna.com/details/5931685878?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Riverton, Salt Lake County
+  - ML Infrastructure Engineer - Remote Bright Vision Technologies is a technology consulting and software development compa...
+
+- [Senior Infrastructure Automation Engineer - Remote / Telecommute](https://www.adzuna.com/details/5931392409?utm_medium=api&utm_source=632a28fd)
+  - Company: CYNET SYSTEMS | Cary, Wake County
+  - Pay Range: $39.00hr - $44.00hr Job Overview: As a Senior Systems Engineer, the successful candidate will play a pivotal ...
+
+- [Senior Infrastructure Automation Engineer - Remote / Telecommute](https://www.adzuna.com/land/ad/5931124113?se=oIMBrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=5612F09BE2DE6F41C84719FFDB96F4DED7659703)
+  - Company: CYNET SYSTEMS | Cary, Wake County
+  - We are looking for Senior Infrastructure Automation Engineer - Remote / Telecommute for our client in Cary, NC Job Title...
+
+- [Service Infrastructure Engineer](https://www.adzuna.com/details/5931050448?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Wesley Chapel, Pasco County
+  - Service Infrastructure Engineer – Remote Bright Vision Technologies is a technology consulting and software development ...
+
+- [VMware Infrastructure Engineer](https://www.adzuna.com/details/5931050495?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Infrastructure Automation Engineer](https://www.adzuna.com/details/5931050032?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
+
+- [Infrastructure ​​​​​​​Storage Engineer](https://www.adzuna.com/details/5931050026?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - Infrastructure Storage Engineer - Remote Bright Vision Technologies is a forward-thinking software development company d...
+
+- [Infrastructure Engineer – Automation](https://www.adzuna.com/details/5931050035?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
+
+- [Sr. Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930547444?se=oIMBrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=029C2E2526B748901412E0A18C96FA1F108C4B51)
   - Company: CrowdStrike | Ny State Campus, Albany County
   - USA - Remote Full time R29607 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
@@ -1143,7 +1431,7 @@ Total jobs (24h window): 680
   - Company: CrowdStrike | Capitol, Richmond
   - USA - Remote Full time R30377 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Sr. GovCloud Data Infrastructure Engineer (Remote)](https://www.adzuna.com/details/5930483590?utm_medium=api&utm_source=632a28fd)
+- [Sr. Data Infrastructure Engineer (Remote)](https://www.adzuna.com/details/5930483590?utm_medium=api&utm_source=632a28fd)
   - Company: CrowdStrike | Capitol, Richmond
   - USA - Remote Full time R29607 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
@@ -1151,15 +1439,15 @@ Total jobs (24h window): 680
   - Company: CrowdStrike | Capitol, Richmond
   - USA - Remote Full time R30174 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Sr. GovCloud Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930481989?se=ts-ge33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=36B1578DAD25DD0ED2722532F295440A5EFFD134)
-  - Company: CrowdStrike | Tumwater, Thurston County
-  - USA - Remote Full time R29607 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Software Engineer, Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930482020?se=ts-ge33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=B43DFBEF95E8EC7A6E9B5298039F87E45505425A)
+- [Sr. Software Engineer, Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930482020?se=oIMBrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=B43DFBEF95E8EC7A6E9B5298039F87E45505425A)
   - Company: CrowdStrike | Tumwater, Thurston County
   - USA - Remote Full time R30377 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5930481951?se=ts-ge33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=8E639D0F1CBA29C9D195D4AD000F5425379B1DE1)
+- [Sr. Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930481989?se=oIMBrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=36B1578DAD25DD0ED2722532F295440A5EFFD134)
+  - Company: CrowdStrike | Tumwater, Thurston County
+  - USA - Remote Full time R29607 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5930481951?se=oIMBrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=8E639D0F1CBA29C9D195D4AD000F5425379B1DE1)
   - Company: CrowdStrike | Tumwater, Thurston County
   - USA - Remote Full time R30174 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
@@ -1167,39 +1455,43 @@ Total jobs (24h window): 680
   - Company: CrowdStrike | Springfield, Sangamon County
   - USA - Remote Full time R30174 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Sr. GovCloud Data Infrastructure Engineer (Remote)](https://www.adzuna.com/details/5930480592?utm_medium=api&utm_source=632a28fd)
-  - Company: CrowdStrike | Springfield, Sangamon County
-  - USA - Remote Full time R29607 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
 - [Sr. Software Engineer, Infrastructure (Remote)](https://www.adzuna.com/details/5930480596?utm_medium=api&utm_source=632a28fd)
   - Company: CrowdStrike | Springfield, Sangamon County
   - USA - Remote Full time R30377 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Sr. Software Engineer, Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930479664?se=ts-ge33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=EB1560FE3FC34DB615EF810A6F040A87D0E23DFE)
-  - Company: CrowdStrike | Grandview Heights, Franklin County
-  - USA - Remote Full time R30377 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+- [Sr. Data Infrastructure Engineer (Remote)](https://www.adzuna.com/details/5930480592?utm_medium=api&utm_source=632a28fd)
+  - Company: CrowdStrike | Springfield, Sangamon County
+  - USA - Remote Full time R29607 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Sr. GovCloud Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930479693?se=ts-ge33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=465A68170669B9D3283A6A4D32176649EB9E2FD1)
+- [Sr. Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930479693?se=oIMBrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=465A68170669B9D3283A6A4D32176649EB9E2FD1)
   - Company: CrowdStrike | Grandview Heights, Franklin County
   - USA - Remote Full time R29607 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5930479620?se=ts-ge33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=0D17EAEEF179B9079909CCA5DFCFD8928360ECFF)
+- [Sr. Software Engineer, Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930479664?se=oIMBrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=EB1560FE3FC34DB615EF810A6F040A87D0E23DFE)
+  - Company: CrowdStrike | Grandview Heights, Franklin County
+  - USA - Remote Full time R30377 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5930479620?se=oIMBrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=0D17EAEEF179B9079909CCA5DFCFD8928360ECFF)
   - Company: CrowdStrike | Grandview Heights, Franklin County
   - USA - Remote Full time R30174 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Sr. Software Engineer, Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930469726?se=ts-ge33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=9681C68088D885A827FBD43EAAF79FF191891E65)
+- [Sr. Software Engineer, Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930469726?se=oIMBrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=9681C68088D885A827FBD43EAAF79FF191891E65)
   - Company: CrowdStrike | Five Points, Wake County
   - USA - Remote Full time R30377 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Sr. GovCloud Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930469639?se=ts-ge33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=6971904F67F5AF29832812E21A13FBEAB4BCA87B)
+- [Sr. Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930469639?se=fAzTrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=6971904F67F5AF29832812E21A13FBEAB4BCA87B)
   - Company: CrowdStrike | Five Points, Wake County
   - USA - Remote Full time R29607 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5930469656?se=fAzTrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=65A554B758382037BF2585AA4F52CBB971271284)
+  - Company: CrowdStrike | Five Points, Wake County
+  - USA - Remote Full time R30174 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
 - [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/details/5930464540?utm_medium=api&utm_source=632a28fd)
   - Company: CrowdStrike | Tallahassee, Leon County
   - USA - Remote Full time R30174 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Sr. GovCloud Data Infrastructure Engineer (Remote)](https://www.adzuna.com/details/5930464575?utm_medium=api&utm_source=632a28fd)
+- [Sr. Data Infrastructure Engineer (Remote)](https://www.adzuna.com/details/5930464575?utm_medium=api&utm_source=632a28fd)
   - Company: CrowdStrike | Tallahassee, Leon County
   - USA - Remote Full time R29607 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
@@ -1207,241 +1499,209 @@ Total jobs (24h window): 680
   - Company: CrowdStrike | Tallahassee, Leon County
   - USA - Remote Full time R30377 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5930459447?se=ts-ge33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=AE5E73D75409B7E61520EB113C4D787DBDDDBB17)
+- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5930459447?se=fAzTrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=AE5E73D75409B7E61520EB113C4D787DBDDDBB17)
   - Company: CrowdStrike | Nashville, Davidson County
   - USA - Remote Full time R30174 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Sr. GovCloud Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930459628?se=ts-ge33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=1B007F380EB5A382040A7A6D46A76E78A4D6C810)
-  - Company: CrowdStrike | Nashville, Davidson County
-  - USA - Remote Full time R29607 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Software Engineer, Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930459644?se=ts-ge33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=0EE54ED26B2A9C5DE9F00B1F08EE4AF132FE53DA)
+- [Sr. Software Engineer, Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930459644?se=fAzTrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=0EE54ED26B2A9C5DE9F00B1F08EE4AF132FE53DA)
   - Company: CrowdStrike | Nashville, Davidson County
   - USA - Remote Full time R30377 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Sr. Software Engineer, Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930453614?se=ts-ge33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=D6A88156244FFC02FD52ABE9DD9B97066252AEDE)
+- [Sr. Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930459628?se=fAzTrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=1B007F380EB5A382040A7A6D46A76E78A4D6C810)
+  - Company: CrowdStrike | Nashville, Davidson County
+  - USA - Remote Full time R29607 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Software Engineer, Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930453614?se=fAzTrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=D6A88156244FFC02FD52ABE9DD9B97066252AEDE)
   - Company: CrowdStrike | Trenton, Mercer County
   - USA - Remote Full time R30377 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Sr. GovCloud Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930453541?se=ts-ge33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=3E1CEA39EE5C6D269307971BE427988FC84626C0)
-  - Company: CrowdStrike | Trenton, Mercer County
-  - USA - Remote Full time R29607 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5930453518?se=ts-ge33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=521F8D23CE63D289DCF476944BD87BAF35831FC0)
+- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5930453518?se=fAzTrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=521F8D23CE63D289DCF476944BD87BAF35831FC0)
   - Company: CrowdStrike | Trenton, Mercer County
   - USA - Remote Full time R30174 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5930447446?se=ts-ge33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=3BB3EC3C3F0B2CA766A6150AE635CB75D015ED8D)
+- [Sr. Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930453541?se=fAzTrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=3E1CEA39EE5C6D269307971BE427988FC84626C0)
+  - Company: CrowdStrike | Trenton, Mercer County
+  - USA - Remote Full time R29607 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5930447446?se=fAzTrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=3BB3EC3C3F0B2CA766A6150AE635CB75D015ED8D)
   - Company: CrowdStrike | Atlanta, Fulton County
   - USA - Remote Full time R30174 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Sr. GovCloud Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930447379?se=ts-ge33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=69C79C37045B8A1F03EDA90C30032CC7443B6FF1)
+- [Sr. Software Engineer, Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930447410?se=fAzTrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=717413649375120919C2A7734B43BA72C27FE532)
+  - Company: CrowdStrike | Atlanta, Fulton County
+  - USA - Remote Full time R30377 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930447379?se=fAzTrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=69C79C37045B8A1F03EDA90C30032CC7443B6FF1)
   - Company: CrowdStrike | Atlanta, Fulton County
   - USA - Remote Full time R29607 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Sr. Software Engineer, Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930447410?se=ts-ge33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=717413649375120919C2A7734B43BA72C27FE532)
-  - Company: CrowdStrike | Atlanta, Fulton County
-  - USA - Remote Full time R30377 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Software Engineer, Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930445306?se=ts-ge33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=89FCF324BD6610C4FF45485EF829ECF8AF92D704)
+- [Sr. Software Engineer, Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930445306?se=fAzTrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=89FCF324BD6610C4FF45485EF829ECF8AF92D704)
   - Company: CrowdStrike | Cedar, Cole County
   - USA - Remote Full time R30377 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5930445351?se=ts-ge33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=8990E19A4998B27383569124F5F4BE710D6BA5FC)
+- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5930445351?se=fAzTrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=8990E19A4998B27383569124F5F4BE710D6BA5FC)
   - Company: CrowdStrike | Cedar, Cole County
   - USA - Remote Full time R30174 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Sr. GovCloud Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930445323?se=ts-ge33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=30E695B48DF05982130BB150A8C4B70BC835B85B)
+- [Sr. GovCloud Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930445323?se=fAzTrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=30E695B48DF05982130BB150A8C4B70BC835B85B)
   - Company: CrowdStrike | Cedar, Cole County
   - USA - Remote Full time R29607 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [HP NonStop Infrastructure Engineer](https://www.adzuna.com/land/ad/5930443828?se=ts-ge33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=076A6759430BC718A460D9FF43AAAA05DC1309BA)
+- [HP NonStop Infrastructure Engineer](https://www.adzuna.com/land/ad/5930443828?se=fAzTrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=076A6759430BC718A460D9FF43AAAA05DC1309BA)
   - Company: Cognizant | Cedar, Cole County
   - Job Title: HP NonStop Infrastructure Engineer Job Location: Remote, USA. About the Role We are seeking an experienced HP...
 
-- [Sr. GovCloud Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930442127?se=ts-ge33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=C3620C5C61259E778A4DE8E4F869CD021D822873)
+- [Sr. Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930442127?se=fAzTrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=C3620C5C61259E778A4DE8E4F869CD021D822873)
   - Company: CrowdStrike | Phoenix, Maricopa County
   - USA - Remote Full time R29607 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5930442083?se=ts-ge33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=F5BFE49D4B9A9FC4DC11E467FE7C2E216ED6C809)
+- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5930442083?se=fAzTrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=F5BFE49D4B9A9FC4DC11E467FE7C2E216ED6C809)
   - Company: CrowdStrike | Phoenix, Maricopa County
   - USA - Remote Full time R30174 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Sr. Software Engineer, Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930442013?se=ts-ge33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=80F5AE90E981D5C1C4A63AE841D8269682B87C19)
+- [Sr. Software Engineer, Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930442013?se=fAzTrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=80F5AE90E981D5C1C4A63AE841D8269682B87C19)
   - Company: CrowdStrike | Phoenix, Maricopa County
   - USA - Remote Full time R30377 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Sr. Software Engineer, Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930438849?se=ts-ge33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=AF627ECE727575F0A68D49D9BB93C90B4E712486)
+- [Sr. Software Engineer, Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930438849?se=fAzTrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=AF627ECE727575F0A68D49D9BB93C90B4E712486)
   - Company: CrowdStrike | Boston, Suffolk County
   - USA - Remote Full time R30377 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Sr. GovCloud Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930438629?se=ts-ge33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=5A2425638CDB0650DC166052D01115BEB3AF4C5F)
+- [Sr. Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930438629?se=fAzTrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=5A2425638CDB0650DC166052D01115BEB3AF4C5F)
   - Company: CrowdStrike | Boston, Suffolk County
   - USA - Remote Full time R29607 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5930438522?se=ts-ge33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=4DD5947D34ABBD324D75481C1C94F974BDA581AA)
+- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5930438522?se=fAzTrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=4DD5947D34ABBD324D75481C1C94F974BDA581AA)
   - Company: CrowdStrike | Lansing, Ingham County
   - USA - Remote Full time R30174 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5930438693?se=RO3afH3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=F07B924D2F22AD956FF627F99C23BBBA5F5B650E)
+- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5930438693?se=fAzTrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=F07B924D2F22AD956FF627F99C23BBBA5F5B650E)
   - Company: CrowdStrike | Boston, Suffolk County
   - USA - Remote Full time R30174 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Sr. Software Engineer, Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930438363?se=RO3afH3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=FE0C2ECF55A28D4F54BDD4DF243B4D07A232C21D)
-  - Company: CrowdStrike | Lansing, Ingham County
-  - USA - Remote Full time R30377 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. GovCloud Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930438439?se=RO3afH3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=9ACCE1C4AAEA9500344A36EC23B40F97E91DE33F)
+- [Sr. Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930438439?se=fAzTrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=9ACCE1C4AAEA9500344A36EC23B40F97E91DE33F)
   - Company: CrowdStrike | Lansing, Ingham County
   - USA - Remote Full time R29607 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Sr. Software Engineer, Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930434965?se=RO3afH3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=ABD51DE00913C71926700F1BBCBAC3456EEE3639)
+- [Sr. Software Engineer, Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930438363?se=fAzTrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=FE0C2ECF55A28D4F54BDD4DF243B4D07A232C21D)
+  - Company: CrowdStrike | Lansing, Ingham County
+  - USA - Remote Full time R30377 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Software Engineer, Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930434965?se=fAzTrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=ABD51DE00913C71926700F1BBCBAC3456EEE3639)
   - Company: CrowdStrike | Saint Paul, Ramsey County
   - USA - Remote Full time R30377 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Sr. GovCloud Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930434941?se=RO3afH3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=D34E1529570896B0D6F52B6F9B65A61BF0AF2A4B)
+- [Sr. GovCloud Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930434941?se=fAzTrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=D34E1529570896B0D6F52B6F9B65A61BF0AF2A4B)
   - Company: CrowdStrike | Saint Paul, Ramsey County
   - USA - Remote Full time R29607 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5930434927?se=RO3afH3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=075DE67540077D0B4F55D9429C9419B27996553A)
+- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5930434927?se=fAzTrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=075DE67540077D0B4F55D9429C9419B27996553A)
   - Company: CrowdStrike | Saint Paul, Ramsey County
   - USA - Remote Full time R30174 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Sr. GovCloud Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930431775?se=RO3afH3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=A3DB0728780B7D24D3DF4F0FCA20AF49C2A03712)
+- [Sr. Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930431775?se=fAzTrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=A3DB0728780B7D24D3DF4F0FCA20AF49C2A03712)
   - Company: CrowdStrike | Madison, Dane County
   - USA - Remote Full time R29607 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Sr. Software Engineer, Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930431722?se=RO3afH3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=661989F1C2ED8CEA2AD60D99B70CCDEFFAAA99CB)
+- [Sr. Software Engineer, Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930431722?se=fAzTrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=661989F1C2ED8CEA2AD60D99B70CCDEFFAAA99CB)
   - Company: CrowdStrike | Madison, Dane County
   - USA - Remote Full time R30377 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5930431675?se=RO3afH3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=2BCB717DD4A95AA4A38C6BAC0C180F324A4677FA)
+- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5930431675?se=fAzTrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=2BCB717DD4A95AA4A38C6BAC0C180F324A4677FA)
   - Company: CrowdStrike | Madison, Dane County
   - USA - Remote Full time R30174 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Sr. GovCloud Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930426538?se=RO3afH3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=F3AFB830C8B7A3ABF80085382F2D82606299BE84)
-  - Company: CrowdStrike | Uptown, Marion County
-  - USA - Remote Full time R29607 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5930426541?se=RO3afH3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=2C701B26E3894839888E0E9D820EA6F6C7FE7625)
+- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5930426541?se=fAzTrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=2C701B26E3894839888E0E9D820EA6F6C7FE7625)
   - Company: CrowdStrike | Uptown, Marion County
   - USA - Remote Full time R30174 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Sr. Software Engineer, Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930426525?se=RO3afH3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=B435D8EF31C1D44E4435BB33D96B5F73C5143712)
+- [Sr. Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930426538?se=fAzTrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=F3AFB830C8B7A3ABF80085382F2D82606299BE84)
+  - Company: CrowdStrike | Uptown, Marion County
+  - USA - Remote Full time R29607 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Software Engineer, Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930426525?se=fAzTrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=B435D8EF31C1D44E4435BB33D96B5F73C5143712)
   - Company: CrowdStrike | Uptown, Marion County
   - USA - Remote Full time R30377 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Sr. Software Engineer, Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930426022?se=RO3afH3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=758FCB6802AE73FF064042ECB85EB24F6645F031)
-  - Company: CrowdStrike | Edgewood, Richland County
-  - USA - Remote Full time R30377 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. GovCloud Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930426030?se=RO3afH3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=B2B02CD07751C101FAC2582F064858657EF2F913)
+- [Sr. Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930426030?se=fAzTrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=B2B02CD07751C101FAC2582F064858657EF2F913)
   - Company: CrowdStrike | Edgewood, Richland County
   - USA - Remote Full time R29607 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5930425974?se=RO3afH3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=E39D7B4795D13E75E6051EC12B3EC2B391B787AA)
+- [Sr. Software Engineer, Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930426022?se=fAzTrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=758FCB6802AE73FF064042ECB85EB24F6645F031)
+  - Company: CrowdStrike | Edgewood, Richland County
+  - USA - Remote Full time R30377 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5930425974?se=fAzTrgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=E39D7B4795D13E75E6051EC12B3EC2B391B787AA)
   - Company: CrowdStrike | Edgewood, Richland County
   - USA - Remote Full time R30174 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5930424475?se=RO3afH3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=769D2FA630E50533F2295DDC266A47CC86E44091)
-  - Company: CrowdStrike | Charleston, Kanawha County
-  - USA - Remote Full time R30174 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+- [Edifecs DevSecOps Engineer](https://www.adzuna.com/land/ad/5933416367?se=ko6orwnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=FA32D8F8F02DF67E7509F05E198C36ECEB6D5204)
+  - Company: Syms Strategic Group, LLC  | Bethesda, Montgomery County
+  - Job Description Job Description Syms Strategic Group (SSG) is seeking a talented Edifecs DevSecOps Engineer Location: Re...
 
-- [Sr. Software Engineer, Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930424453?se=RO3afH3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=A104D7D93FFC86EA1679535979EEA451C0939324)
-  - Company: CrowdStrike | Charleston, Kanawha County
-  - USA - Remote Full time R30377 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+- [Senior DevSecOps Engineer (Remote)](https://www.adzuna.com/land/ad/5932901411?se=ko6orwnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=7E515522E7CD8BA4C9F6AFCE1182B4BA7C372F36)
+  - Company: Integrated Data Services | US
+  - Company Overview: Integrated Data Services (IDS) is a leading provider of custom software products and Government financ...
 
-- [Sr. GovCloud Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930424459?se=RO3afH3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=004A00C27B60BDF1ECDF134FA68606221E53BF2F)
-  - Company: CrowdStrike | Charleston, Kanawha County
-  - USA - Remote Full time R29607 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+- [Edifecs DevSecOps/Integration Engineer- VHA Finance](https://www.adzuna.com/land/ad/5931760978?se=ko6orwnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=ADA3CC64977AB24259E5C7E95B2B4E7DBFD9FE49)
+  - Company: HigherEchelon | US
+  - Edifecs DevSecOps/Integration Engineer Location: Remote Description HigherEchelon, Inc. has an exciting opportunity for ...
 
-- [HP NonStop Infrastructure Engineer](https://www.adzuna.com/land/ad/5930424241?se=RO3afH3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=67552B90028AFCAF97BD1A79E543234A89026D51)
-  - Company: Cognizant | Uptown, Marion County
-  - Job Title: HP NonStop Infrastructure Engineer Job Location: Remote, USA. About the Role We are seeking an experienced HP...
-
-- [Sr. GovCloud Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930424114?se=RO3afH3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=4B0FC3D0A7B6F48A02D9BCBFA6B6695826D1C9CE)
-  - Company: CrowdStrike | Bonnie, Utah County
-  - USA - Remote Full time R29607 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5930424075?se=RO3afH3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=AAA3233FA0F60C23CD98B92116796711669DAA32)
-  - Company: CrowdStrike | Bonnie, Utah County
-  - USA - Remote Full time R30174 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Software Engineer, Infrastructure (Remote)](https://www.adzuna.com/details/5930421849?utm_medium=api&utm_source=632a28fd)
-  - Company: CrowdStrike | Penbrook, Dauphin County
-  - USA - Remote Full time R30377 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/details/5930421866?utm_medium=api&utm_source=632a28fd)
-  - Company: CrowdStrike | Penbrook, Dauphin County
-  - USA - Remote Full time R30174 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. GovCloud Data Infrastructure Engineer (Remote)](https://www.adzuna.com/details/5930421662?utm_medium=api&utm_source=632a28fd)
-  - Company: CrowdStrike | Penbrook, Dauphin County
-  - USA - Remote Full time R29607 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5930420924?se=RO3afH3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=2FD86DFF75190FAE708A7096B68E61E20E0AD13E)
-  - Company: CrowdStrike | Salem, Marion County
-  - USA - Remote Full time R30174 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Software Engineer, Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930420958?se=RO3afH3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=FC8613EC6BC58E462C34FC1E611C75449BBF5C76)
-  - Company: CrowdStrike | Salem, Marion County
-  - USA - Remote Full time R30377 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. GovCloud Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930420536?se=RO3afH3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=9E41EE35FCBBB15587D5723E1105A60B4F963FB6)
-  - Company: CrowdStrike | Carson Mall, Carson City
-  - USA - Remote Full time R29607 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5930420417?se=RO3afH3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=8C166D49665E1B249186F771F914018741A13A6E)
-  - Company: CrowdStrike | Carson Mall, Carson City
-  - USA - Remote Full time R30174 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Software Engineer, Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930420572?se=RO3afH3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=AD74E3200452EB7D0B8711F53653FF8A276EE7C4)
-  - Company: CrowdStrike | Carson Mall, Carson City
-  - USA - Remote Full time R30377 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. GovCloud Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930420166?se=RO3afH3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=3F5C5743A9AF7A43E443B8A397A79DF6A1B66B11)
-  - Company: CrowdStrike | State House, Lancaster County
-  - USA - Remote Full time R29607 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5930419460?se=RO3afH3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=D8217415738F63034B5913C1E1D6A52C97334883)
-  - Company: CrowdStrike | State House, Lancaster County
-  - USA - Remote Full time R30174 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. GovCloud Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930419324?se=RO3afH3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=A610D8516D17A7DA4DB97137EB6E4FA018A8F60B)
-  - Company: CrowdStrike | La Cienga, Santa Fe County
-  - USA - Remote Full time R29607 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Software Engineer, Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930419453?se=RO3afH3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=44C2F93854354E40F2CC1844C1729E7D8A1ED484)
-  - Company: CrowdStrike | State House, Lancaster County
-  - USA - Remote Full time R30377 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5930419443?se=RO3afH3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=8A1DB20D4C26704D0A405DB270510975C743084E)
-  - Company: CrowdStrike | La Cienga, Santa Fe County
-  - USA - Remote Full time R30174 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Software Engineer, Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930419258?se=RO3afH3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=D5B0DEC7B56D4828795BD9C09EB67F8441BEA8E6)
-  - Company: CrowdStrike | La Cienga, Santa Fe County
-  - USA - Remote Full time R30377 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [HP NonStop Infrastructure Engineer](https://www.adzuna.com/land/ad/5930419003?se=RO3afH3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=2C40CAEB436E7BFAD7A8CE03EF84EBAE2FFA36B6)
-  - Company: Cognizant | La Cienga, Santa Fe County
-  - Job Title: HP NonStop Infrastructure Engineer Job Location: Remote, USA. About the Role We are seeking an experienced HP...
-
-- [Sr. GovCloud Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930418528?se=RO3afH3J8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=CBB98F02C1D000ECA9237535481F7E826D752F91)
-  - Company: CrowdStrike | Oklahoma City, Oklahoma County
-  - USA - Remote Full time R29607 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Senior DevSecOps Engineer](https://www.adzuna.com/land/ad/5930808663?se=ZM4Ffn3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=EFD186C413D02DCF8B4E02B9D7428FA12B62B5C3)
+- [Senior DevSecOps Engineer](https://www.adzuna.com/land/ad/5930808663?se=ko6orwnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=EFD186C413D02DCF8B4E02B9D7428FA12B62B5C3)
   - Company: K Anand Corporation | US
   - Senior DevSecOps Engineer – OpenStack Remote Role Purpose Designs, automates, and secures infrastructure and deployment ...
 
-- [Senior DevSecOps Engineer (Remote)](https://www.adzuna.com/land/ad/5930168349?se=ZM4Ffn3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=3D1F6531396F16411BCC0D17951466C4714AAA5D)
-  - Company: Integrated Data Services | US
-  - Company Overview: Integrated Data Services (IDS) is a leading provider of custom software products and Government financ...
+- [Edifecs DevSecOps Engineer](https://www.adzuna.com/details/5929121270?utm_medium=api&utm_source=632a28fd)
+  - Company: SSG | State Farm, Arlington County
+  - Syms Strategic Group (SSG) is seeking a talented Edifecs DevSecOps Engineer Location: Remote Department: Veterans Affair...
 
 - [Edifecs DevSecOps Engineer](https://www.adzuna.com/details/5929085441?utm_medium=api&utm_source=632a28fd)
   - Company: SSG | Capitol, Richmond
   - Syms Strategic Group (SSG) is seeking a talented Edifecs DevSecOps Engineer Location: Remote Department: Veterans Affair...
+
+- [Edifecs DevSecOps Engineer](https://www.adzuna.com/details/5929072905?utm_medium=api&utm_source=632a28fd)
+  - Company: SSG | Broadlands, Loudoun County
+  - Syms Strategic Group (SSG) is seeking a talented Edifecs DevSecOps Engineer Location: Remote Department: Veterans Affair...
+
+- [Edifecs DevSecOps Engineer](https://www.adzuna.com/details/5929001103?utm_medium=api&utm_source=632a28fd)
+  - Company: SSG | Largo, Pinellas County
+  - Syms Strategic Group (SSG) is seeking a talented Edifecs DevSecOps Engineer Location: Remote Department: Veterans Affair...
+
+- [Edifecs DevSecOps Engineer](https://www.adzuna.com/details/5928793179?utm_medium=api&utm_source=632a28fd)
+  - Company: SSG | Overland, Johnson County
+  - Syms Strategic Group (SSG) is seeking a talented Edifecs DevSecOps Engineer Location: Remote Department: Veterans Affair...
+
+- [Edifecs DevSecOps Engineer](https://www.adzuna.com/details/5928786955?utm_medium=api&utm_source=632a28fd)
+  - Company: SSG | East Lake-Orient Park, Hillsborough County
+  - Syms Strategic Group (SSG) is seeking a talented Edifecs DevSecOps Engineer Location: Remote Department: Veterans Affair...
+
+- [Edifecs DevSecOps Engineer](https://www.adzuna.com/details/5928785553?utm_medium=api&utm_source=632a28fd)
+  - Company: SSG | College Estates, Frederick County
+  - Syms Strategic Group (SSG) is seeking a talented Edifecs DevSecOps Engineer Location: Remote Department: Veterans Affair...
+
+- [Edifecs DevSecOps Engineer](https://www.adzuna.com/details/5928669177?utm_medium=api&utm_source=632a28fd)
+  - Company: SSG | Lee Hall, Newport News City
+  - Syms Strategic Group (SSG) is seeking a talented Edifecs DevSecOps Engineer Location: Remote Department: Veterans Affair...
+
+- [Edifecs DevSecOps Engineer](https://www.adzuna.com/details/5928667869?utm_medium=api&utm_source=632a28fd)
+  - Company: SSG | University, Charlottesville
+  - Syms Strategic Group (SSG) is seeking a talented Edifecs DevSecOps Engineer Location: Remote Department: Veterans Affair...
+
+- [Edifecs DevSecOps Engineer](https://www.adzuna.com/details/5928522691?utm_medium=api&utm_source=632a28fd)
+  - Company: SSG | Lockhart, Orange County
+  - Syms Strategic Group (SSG) is seeking a talented Edifecs DevSecOps Engineer Location: Remote Department: Veterans Affair...
+
+- [DevSecOps Engineer II](https://www.adzuna.com/details/5928419101?utm_medium=api&utm_source=632a28fd)
+  - Company: ATTAINX INC | State Farm, Arlington County
+  - Job Title: DevSecOps Engineer II Location: Remote/Hybrid - DHS CISA; approved remote work location within the 50 United ...
+
+- [Devsecops Engineer (Washington)](https://www.adzuna.com/land/ad/5927937349?se=ko6orwnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=BC10487D290C772CFEE4EB058E8A575BCB50E8FA)
+  - Company: Conviso Inc. | Mount Rainier, Prince George's County
+  - Conviso Inc is hiring Secret Cleared DevSecOps Engineer. This is a 100% Remote set-up position & comes with benefits, 40...
+
+- [Azure AI Application Platform & DevSecOps Engineer (United States)](https://www.adzuna.com/land/ad/5927917158?se=ko6orwnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=97C4B71E36373128C15E8DD84325B5C078F19B9C)
+  - Company: Osborn and Holloway, LLC | US
+  - Azure AI Application Platform & DevSecOps Engineer Senior Individual Contributor | Azure | Full Stack | Platform Enginee...
 
 - [Edifecs DevSecOps Engineer](https://www.adzuna.com/details/5926344062?utm_medium=api&utm_source=632a28fd)
   - Company: Syms Strategic Group, LLC  | Richmond, Richmond County
@@ -1515,23 +1775,31 @@ Total jobs (24h window): 680
   - Company: Syms Strategic Group, LLC  | Virginia Beach, Virginia Beach City
   - Syms Strategic Group (SSG) is seeking a talented Edifecs DevSecOps Engineer Location: Remote Department: Veterans Affair...
 
-- [DevSecOps Engineer with Security Clearance](https://www.adzuna.com/land/ad/5926200069?se=ZM4Ffn3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=79B54E17A28FDF61E22343552DACE52B0C96B4FB)
-  - Company: Auria | Colorado Springs, El Paso County
+- [DevSecOps Engineer with Security Clearance](https://www.adzuna.com/land/ad/5926200069?se=ko6orwnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=79B54E17A28FDF61E22343552DACE52B0C96B4FB)
+  - Company: Auria | Cimarron Hills, El Paso County
   - Position: DevSecOps Engineer Location: Colorado Springs, CO Remote Status: On-Site Job Id: 13918-WGS - Chase  of Opening...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/land/ad/5925919306?se=ko6orwnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=D2899E9D09F8BC8127A5045CF69B554749B07B59)
+  - Company: Brooksource | Pennsylvania, US
+  - Job Title : Senior DevSecOps Engineer Location : US / Remote Department : Digital AI Reports to : Senior Manager, IT Ris...
+
+- [Azure AI Application Platform & DevSecOps Engineer](https://www.adzuna.com/land/ad/5925406601?se=ko6orwnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=A0AFE539D36C7CB6062715C4E67DE43497F1578B)
+  - Company: Osborn and Holloway, LLC | US
+  - Azure AI Application Platform & DevSecOps Engineer Senior Individual Contributor | Azure | Full Stack | Platform Enginee...
 
 - [Senior DevSecOps Engineer](https://www.adzuna.com/details/5923279062?utm_medium=api&utm_source=632a28fd)
   - Company: NuAxis Innovations | Wolf Trap, Halifax County
   - Senior DevSecOps Engineer Location Remote \ of openings 1 Salary Range (Min-Max) 0 We are a federal IT company on a miss...
 
-- [Platform Engineer (FedD145)](https://www.adzuna.com/land/ad/5921586935?se=ZM4Ffn3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=00039C8750385C3C1D56CA15CBCDCB154BE115BB)
+- [Platform Engineer (FedD145)](https://www.adzuna.com/land/ad/5921586935?se=ko6orwnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=00039C8750385C3C1D56CA15CBCDCB154BE115BB)
   - Company: Defense Unicorns | US
   - hackajob is collaborating with Defense Unicorns to connect them with exceptional professionals for this role. EMPLOYER I...
 
-- [DevSecOps Secuirty Engineer](https://www.adzuna.com/land/ad/5921266019?se=ZM4Ffn3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=8629C7E3C41717CE056518EB4DDFB6AD6ACD1AD8)
+- [DevSecOps Secuirty Engineer](https://www.adzuna.com/land/ad/5921266019?se=ko6orwnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=8629C7E3C41717CE056518EB4DDFB6AD6ACD1AD8)
   - Company: IMR Soft LLC | US
   - Job Title: DevSecOps Secuirty Engineer Remote 12 months contract/ Fulltime Job Description: In this role, you will build...
 
-- [Senior DevSecOps Engineer with Security Clearance](https://www.adzuna.com/land/ad/5921122263?se=ZM4Ffn3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=D4713ADCDB6F83F74A156A3986D5CF17747F11F8)
+- [Senior DevSecOps Engineer with Security Clearance](https://www.adzuna.com/land/ad/5921122263?se=ko6orwnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=D4713ADCDB6F83F74A156A3986D5CF17747F11F8)
   - Company: ClearBridge Technology Group | Gaithersburg, Montgomery County
   - Our client, a leading Government Systems Integrator, is in need of 3 Senior DevSecOps Engineers for initial 12 month con...
 
@@ -1543,11 +1811,7 @@ Total jobs (24h window): 680
   - Company: Qbadvisory | Washington, Washington, D.C.
   - We are building a team to support one of the U.S. Federal Government's largest technology modernization programs, underp...
 
-- [DevSecOps Engineer](https://www.adzuna.com/details/5917959962?utm_medium=api&utm_source=632a28fd)
-  - Company: SolutionIT | US
-  - Solution IT Inc. is looking for a DevSecOps Engineer for one of its clients Remote Job Title: DevSecOps Engineer Require...
-
-- [Devsecops Engineer](https://www.adzuna.com/land/ad/5914057429?se=ZM4Ffn3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=22CF3EA930D89540E996484BEC4C1F478876F23D)
+- [Devsecops Engineer](https://www.adzuna.com/land/ad/5914057429?se=ko6orwnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=22CF3EA930D89540E996484BEC4C1F478876F23D)
   - Company: Conviso Inc. | Washington, D.C., US
   - Conviso Inc is hiring Secret Cleared DevSecOps Engineer. This is a 100% Remote set-up position & comes with benefits, 40...
 
@@ -1559,11 +1823,11 @@ Total jobs (24h window): 680
   - Company: Attainx Inc. | South, Arlington County
   - Attainx Inc. Job Title: DevSecOps Engineer II Location: Remote/Hybrid - DHS CISA; approved remote work location within t...
 
-- [DevSecOps Engineer with Security Clearance](https://www.adzuna.com/land/ad/5912838752?se=cvgIf33J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=69319DD0D312365C9C45312E26F92E35F8A596A5)
+- [DevSecOps Engineer with Security Clearance](https://www.adzuna.com/land/ad/5912838752?se=VtKBsAnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=69319DD0D312365C9C45312E26F92E35F8A596A5)
   - Company: ClearBridge Technology Group | Gaithersburg, Montgomery County
   - Our client, a leading Government Systems Integrator, is in need of 3 DevSecOps Engineers for initial 12 month contract o...
 
-- [Cloud DevSecOps Engineer with Security Clearance](https://www.adzuna.com/land/ad/5897990957?se=cvgIf33J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=764E874E6DCDD8475ED8F1E0F5108C3E5B1464CF)
+- [Cloud DevSecOps Engineer with Security Clearance](https://www.adzuna.com/land/ad/5897990957?se=VtKBsAnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=764E874E6DCDD8475ED8F1E0F5108C3E5B1464CF)
   - Company: ECS | Hampton Roads, Hampton City
   - Job Description ECS is seeking a Cloud DevSecOps Engineer to work remotely. Job Description: We are seeking a highly ski...
 
@@ -1575,7 +1839,7 @@ Total jobs (24h window): 680
   - Company: TinyFish | Los Altos, Santa Clara County
   - Job Title Senior DevSecOps Engineer Location In-office or Remote - (strong preference for overlap with Pacific Time). Em...
 
-- [DevSecOps Engineer with Security Clearance](https://www.adzuna.com/land/ad/5868368929?se=cvgIf33J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=C83CA42B5ECAEF2D9C644E48A1DA179793C3386F)
+- [DevSecOps Engineer with Security Clearance](https://www.adzuna.com/land/ad/5868368929?se=VtKBsAnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=C83CA42B5ECAEF2D9C644E48A1DA179793C3386F)
   - Company: Blu Omega LLC | Ashburn, Loudoun County
   - DevSecOps Engineer Remote Blu Omega is seeking a DevSecOps Engineer to support a federal program focused on mission-crit...
 
@@ -1583,1065 +1847,13 @@ Total jobs (24h window): 680
   - Company: Koniag Government Services | Chantilly, Fairfax County
   - This position may be filled prior to the posted deadline. Interested candidates are encouraged to apply as soon as possi...
 
-- [Cloud DevSecOps Engineer](https://www.adzuna.com/land/ad/5845656507?se=cvgIf33J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=C42B7714501A3FE2316F66AD29C37BC878BE7FFC)
-  - Company: Apex Systems | Hoover, Jefferson County
-  - Job: 3046604 Job Description: Cloud DevSecOps Engineer Location: Hoover, Alabama (Remote) Role Overview The Cloud DevSec...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930547479?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=475F9CA31A096BD6F7AAAA7D6725B3595F08D20E)
-  - Company: CrowdStrike | Ny State Campus, Albany County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/details/5930483633?utm_medium=api&utm_source=632a28fd)
-  - Company: CrowdStrike | Capitol, Richmond
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930482055?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=CD799B316D7644EE3B6C6239B4475E439A6584FE)
-  - Company: CrowdStrike | Tumwater, Thurston County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/details/5930480624?utm_medium=api&utm_source=632a28fd)
-  - Company: CrowdStrike | Springfield, Sangamon County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930479706?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=A6CF4DE0803424A8B93F8E8E072452A1C52B45A6)
-  - Company: CrowdStrike | Grandview Heights, Franklin County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930469697?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=200E23B65C1A5AEFAB347EF752D6F93C0D40C5CD)
-  - Company: CrowdStrike | Five Points, Wake County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/details/5930464320?utm_medium=api&utm_source=632a28fd)
-  - Company: CrowdStrike | Tallahassee, Leon County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930459668?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=EBA71B8C6D7DF1F92DE80698943FE8F7C89B3EDE)
-  - Company: CrowdStrike | Nashville, Davidson County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930453641?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=0EBF2B5F840D68DE3F2EECF79DE9E2338D080E07)
-  - Company: CrowdStrike | Trenton, Mercer County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930447465?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=4AFA0A686C6D3B7510503EB798D0DAB2CD3D7F26)
-  - Company: CrowdStrike | Atlanta, Fulton County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930445269?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=80C08CE40300841FED28701D7C436F1F01FA1D8B)
-  - Company: CrowdStrike | Cedar, Cole County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930442016?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=4C6D3BF8D5B98F36B7A4026214A72819263D70E6)
-  - Company: CrowdStrike | Phoenix, Maricopa County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930438636?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=FCB92BE1F1658EC18EC4CE79CA63534642C88556)
-  - Company: CrowdStrike | Boston, Suffolk County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930438380?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=63B11F125F910E183C600E9388794724B62A279A)
-  - Company: CrowdStrike | Lansing, Ingham County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930434856?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=38164ED0D7E8B718D0205C62089D4D4353DA37BF)
-  - Company: CrowdStrike | Saint Paul, Ramsey County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930431688?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=8B314D39B85AE87892BF4DBAB4523820493ADE9B)
-  - Company: CrowdStrike | Madison, Dane County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930426482?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=5EA67421F05FEC8A542A16D65C7BC7DCD6BCBCAA)
-  - Company: CrowdStrike | Uptown, Marion County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930426029?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=16928E4ABB3D2FC10D0C5D0396C765DA1BFDD038)
-  - Company: CrowdStrike | Edgewood, Richland County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930424466?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=0C75A54764D87A787AB44644CAD7068854AD64B6)
-  - Company: CrowdStrike | Charleston, Kanawha County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930424181?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=A71C3D06B5CFD16FA05EA9EFD760BA0D984926B2)
-  - Company: CrowdStrike | Bonnie, Utah County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/details/5930421644?utm_medium=api&utm_source=632a28fd)
-  - Company: CrowdStrike | Penbrook, Dauphin County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930420947?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=04CFC6BB0E45AC9918075E091C9BD23ECEE7464B)
-  - Company: CrowdStrike | Salem, Marion County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930420512?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=18E4963B2B46B03D2CA4051F796B540569B7B25F)
-  - Company: CrowdStrike | Carson Mall, Carson City
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930420080?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=DDBB5EF45DDACDD01E2098D78F3FB60E9C0D652F)
-  - Company: CrowdStrike | State House, Lancaster County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930419342?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=6EAAE0BF90C3B3FF47F1BEC65E94304B8AB8E204)
-  - Company: CrowdStrike | La Cienga, Santa Fe County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930418550?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=914340E212082EABDD825102A3133F8034DCE9C4)
-  - Company: CrowdStrike | Oklahoma City, Oklahoma County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930416158?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=982A97EC148A48CBFDCE39949CE9917E3C2013F9)
-  - Company: CrowdStrike | Des Moines, Polk County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930416012?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=5C481B87BD3E279B5CF8D471254ADDF83CE7F41C)
-  - Company: CrowdStrike | Washington, D.C., US
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930415594?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=154BE7A232E27A9D820B95841D89AC2449AD5915)
-  - Company: CrowdStrike | Boise, Ada County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930414964?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=BA7A6348B6F81407926D04E4D676033C1B2B8E4A)
-  - Company: CrowdStrike | Annapolis, Anne Arundel County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930414768?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=24EF678EF533AC77A8981424486D4A7ADDB7A599)
-  - Company: CrowdStrike | Talcott Village, Hartford County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930412253?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=9C8AB85F8407F2A38CB374F71936254BC2AE19AF)
-  - Company: CrowdStrike | Chisolm, Montgomery County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930408822?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=E3F8CD38F82E91A961FA2330D479EF7C1709B733)
-  - Company: CrowdStrike | Jackson, Hinds County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930408712?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=08D6D242CB203AAD05AE6B2C23BC396DEE16BA67)
-  - Company: CrowdStrike | Frankfort, Franklin County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930408662?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=529687B1205325655705BC70C0FA92C6BBE77A11)
-  - Company: CrowdStrike | Cammack Village, Pulaski County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930408491?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=274D8BF725B0BA3ACF0C1410D4532E6AA4D9FF25)
-  - Company: CrowdStrike | Topeka, Shawnee County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930402497?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=D1B1B759ACBC3BFAB98AD66F438E3210DA3AEE0B)
-  - Company: CrowdStrike | Glendale, Denver
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930391105?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=317753FD2A67D727A6CECBE1BB1E381EA391CC33)
-  - Company: CrowdStrike | Sacramento, Sacramento County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930039427?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=31B868BE510BE0FA39CB74B1C3140EC2F7AB811A)
-  - Company: CrowdStrike | Montpelier, Washington County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5929964958?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=307AD32F6660A068E5E72525A77FCEFEBE2431CB)
-  - Company: CrowdStrike | Pierre, Hughes County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5929964683?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=CCC88A3465B0641E91CE5D29D4D0BB72239A2DB2)
-  - Company: CrowdStrike | Providence, Providence County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/details/5929963174?utm_medium=api&utm_source=632a28fd)
-  - Company: CrowdStrike | Douglas, Juneau
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5929963111?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=798C53235F732F0AC2B5F7038BAEF6F3A30218D8)
-  - Company: CrowdStrike | Archer, Laramie County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5929962832?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=1F667081A5F48FA52D63400DDE768AA708405051)
-  - Company: CrowdStrike | Wyoming, Kent County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5929962572?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=4F5C8BACDE3D973830BD088471EB4D4717CF483A)
-  - Company: CrowdStrike | Bismarck, Burleigh County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5929776884?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=6892DD69569BE26328724B4CA71F570EE483BA82)
-  - Company: CrowdStrike | Wake Island, Honolulu
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5929776337?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=3BA1AF604FBF17727CD95317844ADB5FEFD998E4)
-  - Company: CrowdStrike | Helena, Lewis and Clark County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5929776299?se=mAo0gH3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=9F2CD28A92AC348E9590CB1B6EB648A3EB919EE6)
-  - Company: CrowdStrike | Augusta, Kennebec County
-  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Senior SRE BizOps Engineer - Remote / Telecommute](https://www.adzuna.com/details/5926517823?utm_medium=api&utm_source=632a28fd)
-  - Company: CYNET SYSTEMS | Saint Louis, Saint Louis County
-  - Pay Range: $45.00hr - $50.00hr Job Overview: The candidate should have 5 to 8 years of experience with Application Produ...
-
-- [SRE Engineer](https://www.adzuna.com/land/ad/5924439443?se=rDACgn3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=771DE37FFD3C6A05F876BE6BD88EA4F94B957370)
-  - Company: ClifyX | US
-  - Job Title: SRE Engineer Location: US(Remote) Duration: Long term contract Visa: USC The AI Platform and Services team pr...
-
-- [Splunk ES Engineer](https://www.adzuna.com/details/5919861523?utm_medium=api&utm_source=632a28fd)
-  - Company: Openkyber | Atlanta, Fulton County
-  - Role: Senior SRE Observability & Reliability Engineer Location: Remote We are seeking a Senior SRE Observability & Relia...
-
-- [SRE](https://www.adzuna.com/details/5917962072?utm_medium=api&utm_source=632a28fd)
-  - Company: Openkyber | Atlanta, Fulton County
-  - Need Only Machine Learning Engineer consultants. Please dont share AI/ML Engineer profiles. Experience Level: 12 years. ...
-
-- [SRE](https://www.adzuna.com/details/5917961468?utm_medium=api&utm_source=632a28fd)
-  - Company: Openkyber | Atlanta, Fulton County
-  - Role: Senior SRE Observability & Reliability Engineer Location: Remote Job Description: We are seeking a Senior SRE Obse...
-
-- [Machine Learning Engineer (SRE Focus)](https://www.adzuna.com/land/ad/5902324615?se=rDACgn3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=40CDD03405791ABE6F9AABB2BB62A87E964B43E3)
-  - Company: Aziro Technologies LLC | US
-  - Job Title: Machine Learning Engineer (SRE Focus) Location: Remote Job Summary: We are seeking a skilled Machine Learning...
-
-- [Lead AWS Cloud Platform Engineer - IaC / SRE - Preferred TriZetto Facets / Healthcare](https://www.adzuna.com/details/5899641213?utm_medium=api&utm_source=632a28fd)
-  - Company: System One | Reston, Fairfax County
-  - LEAD AWS CLOUD PLATFORM ENGINEER (IaC / SRE) Location: Remote (United States) | Preference for DMV & East Coast Candidat...
-
-- [Lead AWS Cloud Platform Engineer - IaC / SRE – Preferred TriZetto Facets / Healthcare](https://www.adzuna.com/land/ad/5884842869?se=rDACgn3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=95C73C869D874631FEF64CF58874AC505441FEE3)
-  - Company: System One | Reston, Fairfax County
-  - LEAD AWS CLOUD PLATFORM ENGINEER (IaC / SRE) Location: Remote (United States) | Preference for DMV & East Coast Candidat...
-
-- [Sr Site Reliability Engineer](https://www.adzuna.com/land/ad/5880455282?se=rDACgn3J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=F1D9C3A9B5F9505C4BC5DAA8EF0EE63C435D26E7)
-  - Company: Judge Group, Inc. | Schiller Park, Cook County
-  - Location: Chicago, IL Salary: $150,000.00 USD Annually - $185,000.00 USD Annually Description: Financial Software compan...
-
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/details/5846222438?utm_medium=api&utm_source=632a28fd)
-  - Company: CrowdStrike | US
-  - As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organ...
-
-- [Forward Deployed Engineer - SRE](https://www.adzuna.com/details/5825372534?utm_medium=api&utm_source=632a28fd)
-  - Company: Andromeda Cluster | San Francisco, California
-  - Forward Deployed Engineer - SRE Location: North America Remote/SF-Hybrid · Full-Time About Andromeda Andromeda is a mark...
-
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930412271?se=MmMqg33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=BA03D950134A3F531EA79AAFA9C61F19F0B4755A)
-  - Company: CrowdStrike | Chisolm, Montgomery County
-  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930408898?se=MmMqg33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=39F1D92E86AD607F5E3177E554FD0FE9E5766BAA)
-  - Company: CrowdStrike | Jackson, Hinds County
-  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930408685?se=MmMqg33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=7A960DC8AB0844C4135971E3163EA4BBA4E97B25)
-  - Company: CrowdStrike | Frankfort, Franklin County
-  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930408531?se=MmMqg33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=B3C415622ED0F967E02DADA7BCD17400F672B5F1)
-  - Company: CrowdStrike | Cammack Village, Pulaski County
-  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930408407?se=MmMqg33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=6B133D9A91696E963E2B72C17856D2E97D94FB10)
-  - Company: CrowdStrike | Topeka, Shawnee County
-  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930391163?se=MmMqg33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=0C114186EE5FF80C3C479DC30665E61B7581A825)
-  - Company: CrowdStrike | Sacramento, Sacramento County
-  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5930389202?se=MmMqg33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=116F8118D6018B6A516E65E6FA62C3BFC9837903)
-  - Company: Cognizant | Sacramento, Sacramento County
-  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
-
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930039413?se=MmMqg33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=E673CA09AECC4FBA925D33C66B8F64D55796BDDC)
-  - Company: CrowdStrike | Montpelier, Washington County
-  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5929964952?se=MmMqg33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=32E6B7F96C84118FC0611C44E25D1663005D142F)
-  - Company: CrowdStrike | Pierre, Hughes County
-  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5929964662?se=MmMqg33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=E28F7F8A46D894B86D1531B1EACD0125AC9DFD60)
-  - Company: CrowdStrike | Providence, Providence County
-  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/details/5929963189?utm_medium=api&utm_source=632a28fd)
-  - Company: CrowdStrike | Douglas, Juneau
-  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5929963156?se=MmMqg33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=A882CD3089F7039069F920F5FD57F27FA202D12B)
-  - Company: CrowdStrike | Archer, Laramie County
-  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5929962803?se=MmMqg33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=CC0C87F2023CB85945FC64FD90576CEEB4AEF938)
-  - Company: CrowdStrike | Wyoming, Kent County
-  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5929962633?se=MmMqg33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=7F22EFDD01E355A8A282ED426F05C063118F61D4)
-  - Company: CrowdStrike | Bismarck, Burleigh County
-  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5929776846?se=MmMqg33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=05B5DB2261630CCA017221197BF7AC8402D6C6D6)
-  - Company: CrowdStrike | Wake Island, Honolulu
-  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5929776347?se=MmMqg33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=DF6792B3D2EE0C7B575F336114179F75AA60AB7F)
-  - Company: CrowdStrike | Helena, Lewis and Clark County
-  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5929776245?se=MmMqg33J8RGxT_GFzhXuVQ&utm_medium=api&utm_source=632a28fd&v=C144B7395C849EA0EE4F4C89D5E0C17C24661BFA)
-  - Company: CrowdStrike | Augusta, Kennebec County
-  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Kubernetes Engineer](https://www.adzuna.com/details/5929701067?utm_medium=api&utm_source=632a28fd)
-  - Company: Acestack | Louisville, Jefferson County
-  - Role: Kubernetes Engineer Location: Louisville, KY Remote Fulltime Permanent Job Description Must Have Technical/Functio...
-
-- [HPC Kubernetes Engineer](https://www.adzuna.com/details/5929700569?utm_medium=api&utm_source=632a28fd)
-  - Company: SoftPathTechnologies | Myrtle Point, Coos County
-  - Job Title: HPC Kubernetes Engineer Location: 100% Remote USA Client: Amazon / AWS Employment Type: Full-Time (FTE Only N...
-
-- [Kubernetes Service Engineer](https://www.adzuna.com/details/5929495994?utm_medium=api&utm_source=632a28fd)
-  - Company: Bright Vision Technologies | US
-  - Kubernetes Service Engineer – Remote Bright Vision Technologies is a technology consulting and software development comp...
-
-- [Senior Kubernetes Platform Engineer](https://www.adzuna.com/details/5926519758?utm_medium=api&utm_source=632a28fd)
-  - Company: Tekvivid | Texas, US
-  - Role: Senior Kubernetes Platform Engineer Location: Remote Experience: 5 Years Visa: USC/GC/GC EAD/H1/H4 No opt Rate: $5...
-
-- [Kubernetes Engineer](https://www.adzuna.com/details/5926513150?utm_medium=api&utm_source=632a28fd)
-  - Company: SFE | US
-  - Kubernetes Engineer Louisville, KY/ 100% Remote Hire Type: fulltime Salary Range: $120,000-$130,000 a year Must Have Tec...
-
-- [Quick Hire Kubernetes Engineer at 100% Remote](https://www.adzuna.com/details/5926512539?utm_medium=api&utm_source=632a28fd)
-  - Company: Okaya Inc | Louisville, Jefferson County
-  - Kubernetes Engineer 100% Remote Full Time Must Have Technical/Functional Skills Candidates must be certified in GKE and/...
-
-- [Quick Hire Kubernetes Engineer at 100% Remote](https://www.adzuna.com/land/ad/5926193526?se=dpXBhH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=858267E62E5A2572B96B1DCDF6A131F2B8B159AE)
-  - Company: Okaya Inc | Louisville, Jefferson County
-  - Kubernetes Engineer 100% Remote Full Time Must Have Technical/Functional Skills Candidates must be certified in GKE and/...
-
-- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/details/5922318829?utm_medium=api&utm_source=632a28fd)
-  - Company: Cognizant | Tarrytown, Travis County
-  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
-
-- [Kubernetes & OpenShift Engineer](https://www.adzuna.com/details/5921013904?utm_medium=api&utm_source=632a28fd)
-  - Company: Bright Vision Technologies | Lake Chesterfield, Saint Louis County
-  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
-
-- [Azure Engineer](https://www.adzuna.com/details/5917961941?utm_medium=api&utm_source=632a28fd)
-  - Company: Openkyber | Atlanta, Fulton County
-  - Cloud Engineer - Kubernetes, Azure, Google Cloud Platform, Remote: We have an immediate need for an experienced Cloud En...
-
-- [HPC Kubernetes Engineers](https://www.adzuna.com/details/5917960224?utm_medium=api&utm_source=632a28fd)
-  - Company: SoftPathTechnologies | Myrtle Point, Coos County
-  - HPC Kubernetes Engineer Job Title: HPC Kubernetes Engineer Location: 100% Remote United States Employment Type: Full-Tim...
-
-- [W2/1099 Contract | Senior EDB PostgreSQL / Kubernetes Engineer | Remote](https://www.adzuna.com/land/ad/5914209950?se=dpXBhH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=56A5A0E8B83AECC61D325BA682CAEA84312AEE1C)
-  - Company: Anagha Techno Soft | US
-  - Senior EDB PostgreSQL / Kubernetes Engineer | Contract | Remote Senior EDB PostgreSQL / Kubernetes Engineer Job Type: Co...
-
-- [Secops / Security Engineer](https://www.adzuna.com/land/ad/5906010952?se=dpXBhH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=7BC23433561234BEF56A3E6AE4AAD04208C11235)
-  - Company: Mindsource Inc | US
-  - Title: Sr. Security Engineer (Kubernetes) Location: 100% Remote Duration: Long term Type: Contract - W2 Experience : Min...
-
-- [Lead Kubernetes Platform Engineer](https://www.adzuna.com/details/5905607291?utm_medium=api&utm_source=632a28fd)
-  - Company: EverOps | San Francisco, California
-  - Lead Kubernetes Platform Engineer (Remote) Overview Some of the world’s most innovative global software and technology c...
-
-- [Senior Cloud Engineer (Kubernetes / Helm / AWS)](https://www.adzuna.com/details/5899532264?utm_medium=api&utm_source=632a28fd)
-  - Company: ZipStaff | Austin, Travis County
-  - Job Title: Senior Cloud Engineer (Kubernetes / Helm / AWS) Location: Remote (U.S.; Austin, TX time zone preferred) Emplo...
-
-- [Sr. Software Engineer](https://www.adzuna.com/details/5899296872?utm_medium=api&utm_source=632a28fd)
-  - Company: SUSE RGS | Reston, Fairfax County
-  - Senior Software Engineer (Go & Kubernetes Expertise) Location: Remote COMPANY DESCRIPTION Rancher Government Solutions (...
-
-- [Sr. Software Engineer with Security Clearance](https://www.adzuna.com/land/ad/5897984660?se=dpXBhH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=7C88ED2CF479F891F19E32E83AC6D02997915F3D)
-  - Company: Rancher Government Solutions | Reston, Fairfax County
-  - Senior Software Engineer (Go & Kubernetes Expertise) Location: Remote COMPANY DESCRIPTION Rancher Government Solutions (...
-
-- [Senior Kubernetes Platforms System Engineer (Remote Eligible)](https://www.adzuna.com/details/5889914625?utm_medium=api&utm_source=632a28fd)
-  - Company: Oak Ridge National Laboratory | Oak Ridge, Anderson County
-  - Requisition Id 17120 Annual Salary Range:$$160,000.00 -$$175,000.00 Work-Site Type: Remote ORNL offers a flexible work e...
-
-- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872995538?se=dpXBhH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=90426E6859A5179261EB2CBEB1098B8A134ADDBF)
-  - Company: Cognizant | Ny State Campus, Albany County
-  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
-
-- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872971346?se=dpXBhH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=EB56E6E0203AE10FC722AF61B44C465E923CBCAE)
-  - Company: Cognizant | Five Points, Wake County
-  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
-
-- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872969234?se=dpXBhH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=9F359C81896608DE810D74B57DBBA50714F96A8C)
-  - Company: Cognizant | Atlanta, Fulton County
-  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
-
-- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872968769?se=dpXBhH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=95F84AD666561AFBCBB25F152A25EF9AD2B7D4AF)
-  - Company: Cognizant | Tumwater, Thurston County
-  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
-
-- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872965473?se=dpXBhH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=14A9BBC7DE59D4892DB5418450C17600FC700E93)
-  - Company: Cognizant | Grandview Heights, Franklin County
-  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
-
-- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872965178?se=dpXBhH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=514F6B07F5E89D7729A817EE0EFF25E44EAE6234)
-  - Company: Cognizant | Uptown, Marion County
-  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
-
-- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872964473?se=dpXBhH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=95FA2782E8F9C64FD59FB47AAC54242003BB6C41)
-  - Company: Cognizant | Edgewood, Richland County
-  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
-
-- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872964492?se=dpXBhH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=0AF7B0089DF2ECE00BDCF8B3C09ABBF8C9D55045)
-  - Company: Cognizant | Trenton, Mercer County
-  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
-
-- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872962180?se=dpXBhH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=1ABC5E8FCEFBE51108C94C8DEDCFD6F84704190A)
-  - Company: Cognizant | Salem, Marion County
-  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
-
-- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872959334?se=dpXBhH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=DB33D797D2A92B3FF38DFEEEAF20EB796A61309B)
-  - Company: Cognizant | Charleston, Kanawha County
-  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
-
-- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872958726?se=dpXBhH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=52D4046EB3E7340ACF913FA61FC5FF47663C3324)
-  - Company: Cognizant | State House, Lancaster County
-  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
-
-- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872958319?se=dpXBhH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=4FBB9EDAB45E7CC944653138E0D7FC0E8C36606A)
-  - Company: Cognizant | Washington, D.C., US
-  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
-
-- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872956723?se=dpXBhH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=FC50024C9EFF0610292AF72E13B9A90B356AE8BD)
-  - Company: Cognizant | Oklahoma City, Oklahoma County
-  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
-
-- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/details/5872954291?utm_medium=api&utm_source=632a28fd)
-  - Company: Cognizant | Springfield, Sangamon County
-  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
-
-- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872954251?se=dpXBhH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=84D6A918FCC65247260A090EB5774BAD89629EFD)
-  - Company: Cognizant | Bonnie, Utah County
-  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
-
-- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872953620?se=dpXBhH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=D342622FE54FDD97A4B90518261CBA31E3E3ACE5)
-  - Company: Cognizant | Cammack Village, Pulaski County
-  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
-
-- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872952731?se=dpXBhH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=6A895B30FD3B7597B682843241EC290DC6E983A5)
-  - Company: Cognizant | Phoenix, Maricopa County
-  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
-
-- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872952202?se=dpXBhH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=2A4B02C004D784BFDA553FD40D65607C9BD423BD)
-  - Company: Cognizant | Saint Paul, Ramsey County
-  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
-
-- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872951800?se=dpXBhH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=B4D0467A63655EACEF9F47368996E1B38025F907)
-  - Company: Cognizant | Carson Mall, Carson City
-  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
-
-- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872950731?se=dpXBhH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=DB68386CDEE997C3BD25AA45610B8A577797E311)
-  - Company: Cognizant | Frankfort, Franklin County
-  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
-
-- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872950646?se=dpXBhH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=FC91A2A6E873162DBC95DEB7F096757F3E177777)
-  - Company: Cognizant | Jackson, Hinds County
-  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
-
-- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872714009?se=dpXBhH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=C92AB85E0CDBFC74203FD7C9FD3973DD5A900295)
-  - Company: Cognizant | Providence, Providence County
-  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
-
-- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872712508?se=dpXBhH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=DFCDD35D0E696C864043F01AC65A1B60DD21B193)
-  - Company: Cognizant | Bismarck, Burleigh County
-  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
-
-- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872066782?se=dpXBhH3J8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=18250F4A264CBD96D65ED121DFB67B1F05AE81A4)
-  - Company: Cognizant | Concord, Merrimack County
-  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
-
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/details/5762417765?utm_medium=api&utm_source=632a28fd)
-  - Company: CrowdStrike | US
-  - As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organ...
-
-- [Kubernetes Engineer](https://www.adzuna.com/details/5727641551?utm_medium=api&utm_source=632a28fd)
-  - Company: Ascension Federal Services | Orlando, Orange County
-  - Kubernetes Engineer (Remote) Location: Orlando, FL, 32801 Job Description: We are seeking a highly skilled Kubernetes En...
-
-- [DevOps Engineer](https://www.adzuna.com/details/5932217475?utm_medium=api&utm_source=632a28fd)
-  - Company: SAIC | US
-  - DevOps Engineer Job ID: 2617907 Location: Remote Work, TX, United States Date Posted: Oct 16, 2026 Category: Information...
-
-- [DevOps Engineer](https://www.adzuna.com/details/5932061546?utm_medium=api&utm_source=632a28fd)
-  - Company: Insight Global | West Miami, Miami-Dade County
-  - Job Description We are seeking a Systems & DevOps Engineer to work remotely in Miami/Ft. Lauderdale with some office vis...
-
-- [DevOps Engineer](https://www.adzuna.com/details/5931936581?utm_medium=api&utm_source=632a28fd)
-  - Company: Auria Space | Colorado Springs, El Paso County
-  - Position: DevOps Engineer Location: Colorado Springs, CO Remote Status: On-Site Job Id: 13905-TASD-Eric  of Openings: 1 ...
-
-- [Senior Devops Engineer](https://www.adzuna.com/details/5931816487?utm_medium=api&utm_source=632a28fd)
-  - Company: Bright Vision Technologies | Grover, Saint Louis County
-  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
-
-- [DevOps Engineer (MCCF- Healthcare Systems)](https://www.adzuna.com/land/ad/5931733852?se=INidgj3K8RGShelPZmo4zw&utm_medium=api&utm_source=632a28fd&v=740064D0C38C720C4BD37FCE73D6311B31368083)
-  - Company: HigherEchelon | US
-  - DevOps Engineer (MCCF- Healthcare Systems) Location: Remote Description HigherEchelon has an exciting opportunity for a ...
-
-- [DevOps Software Engineer with Security Clearance](https://www.adzuna.com/land/ad/5931586951?se=INidgj3K8RGShelPZmo4zw&utm_medium=api&utm_source=632a28fd&v=593E0496AEC485E3B4E1A93213408D5B62C6DEC3)
-  - Company: Leidos | Bethesda, Montgomery County
-  - R-00194742 Description Leidos has an exciting opening for you, our next TS/SCI cleared DevOps Software Engineer working ...
-
-- [Entry Level Java/DevOps Developer - Remote/Junior Data Engineer](https://www.adzuna.com/land/ad/5931582277?se=INidgj3K8RGShelPZmo4zw&utm_medium=api&utm_source=632a28fd&v=3639853D2E5132CA1504425ED7CCD3BF5FA72F9C)
-  - Company: SynergisticIT | Phoenix, Maricopa County
-  - Three Hundred Applications, Zero Recruiter Calls Volume Is Not a Strategy When Nobody Opens the Resume You track applica...
-
-- [SRE / DevOps Engineer](https://www.adzuna.com/land/ad/5931077185?se=INidgj3K8RGShelPZmo4zw&utm_medium=api&utm_source=632a28fd&v=A604B98E5C74F330576A7094B03E4D29FDBD12F9)
-  - Company: ERPMark Inc | US
-  -  We’re Hiring: SRE / DevOps Engineer  Location: Canada – Remote  Duration: 3 Months Contract  Key Technical Requirements...
-
-- [Senior DevOps Engineer](https://www.adzuna.com/land/ad/5929153649?se=INidgj3K8RGShelPZmo4zw&utm_medium=api&utm_source=632a28fd&v=35367B1922053F0CD6B6A2FAE49A672A185A1E89)
-  - Company: NewVision Software & Consultancy Pvt. Ltd | US
-  - Job Title: Senior DevOps Engineer Location: Remote Job Type: 6 months contract EXPERIENCE : Strong knowledge of Cloud, C...
-
-- [DevOps Automation Engineer](https://www.adzuna.com/details/5928734896?utm_medium=api&utm_source=632a28fd)
-  - Company: Bright Vision Technologies | Tierra Buena, Sutter County
-  - DevOps Automation Engineer – Remote Bright Vision Technologies is a technology consulting and software development compa...
-
-- [Senior DevOps Engineer, Azure](https://www.adzuna.com/land/ad/5928432206?se=INidgj3K8RGShelPZmo4zw&utm_medium=api&utm_source=632a28fd&v=045B6FB00C210B0A6799B91CC454CC6D12B0C778)
-  - Company: Motion Recruitment Partners, LLC | US
-  - This smaller SaaS company is hiring a Senior DevOps Engineer for a full-time, fully remote role. They are a software com...
-
-- [Azure DevOps Engineer](https://www.adzuna.com/details/5927527609?utm_medium=api&utm_source=632a28fd)
-  - Company: C&F | Loveland, Larimer County
-  - C&F is a technology services company providing innovative solutions in Data Management, Big Data, Advanced Analytics and...
-
-- [DevOps Automation Engineer](https://www.adzuna.com/details/5926109812?utm_medium=api&utm_source=632a28fd)
-  - Company: Bright Vision Technologies | Yuba City, Sutter County
-  - DevOps Automation Engineer – Remote Bright Vision Technologies is a technology consulting and software development compa...
-
-- [Cloud Devops Engineer](https://www.adzuna.com/land/ad/5925906750?se=INidgj3K8RGShelPZmo4zw&utm_medium=api&utm_source=632a28fd&v=6855AA1B30B0E6826C2AA9FFA598AD0DF7C53465)
-  - Company: QUANTUM TECHNOLOGIES LLC | US
-  - Job Title: Cloud Devops Engineer Location: Remote Duration: 6 Months  Extension Bill Rate: $76 Job Type: W-2 Contract Cl...
-
-- [Network DevOps Engineer](https://www.adzuna.com/details/5925318978?utm_medium=api&utm_source=632a28fd)
-  - Company: Bright Vision Technologies | US
-  - Network DevOps Engineer – Remote Bright Vision Technologies is a technology consulting and software development company ...
-
-- [SRE](https://www.adzuna.com/details/5925151092?utm_medium=api&utm_source=632a28fd)
-  - Company: Openkyber | Atlanta, Fulton County
-  - L2 Operations Support Engineer (Cloud & DevOps) USA, Remote Positions: 7 Position Summary The L2 Operations Support Engi...
-
-- [SRE](https://www.adzuna.com/details/5925151104?utm_medium=api&utm_source=632a28fd)
-  - Company: Openkyber | Atlanta, Fulton County
-  - Job Title: Sr. DevOps Engineer (Compute Platform) Location: Remote Duration- 3 Month Contract 6 years of experience as a...
-
-- [Senior DevOps Engineer(Remote)](https://www.adzuna.com/details/5925150600?utm_medium=api&utm_source=632a28fd)
-  - Company: HRC Global Services | Reston, Fairfax County
-  - Position-Senior Devops Manager Job description: seeking a Senior DevOps Engineer to own release management, CI/CD, and p...
-
-- [DevOps engineer](https://www.adzuna.com/details/5925150356?utm_medium=api&utm_source=632a28fd)
-  - Company: Conch Technologies Inc | Minnesota, US
-  - Title: Devops Engineer Location: Remote Duration: 6 Month C2H 12 years of experience in Infrastructure, Cloud, DevOps, o...
-
-- [Devops Engineer](https://www.adzuna.com/details/5925150279?utm_medium=api&utm_source=632a28fd)
-  - Company: Akaasa Technologies | US
-  - Devops Engineer Remote 12 years of experience in Infrastructure, Cloud, DevOps, or Platform Engineering. 7 years designi...
-
-- [DevOps Engineer](https://www.adzuna.com/details/5925150265?utm_medium=api&utm_source=632a28fd)
-  - Company: Akaasa Technologies | US
-  - POSITION Devops Engineer LOCATION REMOTE DURATION 6 MONTHS INTERVIEW TYPE Video VISA RESTRICTIONS NONE REQUIRED SKILLS R...
-
-- [Remote - Senior DevOps Engineer (Active Secret Clearance)](https://www.adzuna.com/land/ad/5914032134?se=KM_Fgz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=72BC287EACBB4F2C732E75A740294798F85736CF)
-  - Company: Striveworks | US
-  - “In 36 months, agentic AI systems will be an operating reality across major institutions. We intend to be central to it....
-
-- [Azure Devops Engineer](https://www.adzuna.com/land/ad/5892808530?se=KM_Fgz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=A14EF57747B1D846D990D9F6519F0752D57C1ACF)
-  - Company: Apex Systems | Fort Sam Houston, Bexar County
-  - Job: 3052740 Job Description: Azure DevOps Engineer (Azure Cloud) Remote Overview We are seeking a hands-on Azure DevOps...
-
-- [Azure DevOps Engineer](https://www.adzuna.com/land/ad/5872303758?se=KM_Fgz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=C892786E2A53C72C6343F4255B1FB14940DCA73A)
-  - Company: SSN Group LLC | US
-  - Hi, Job Title: Azure DevOps Engineer Location: Remote Duration: Longterm Skills required: 8 Years experience with Azure ...
-
-- [Network DevOps Engineer (Remote Opportunity)](https://www.adzuna.com/details/5870554603?utm_medium=api&utm_source=632a28fd)
-  - Company: Hyatt | Illinois Medical District, Chicago
-  - Description: The Opportunity Hyatt Hotels Corporation seeks an enthusiastic Network DevOps Engineer to join our Global N...
-
-- [Senior DevOps Engineer](https://www.adzuna.com/land/ad/5868877908?se=KM_Fgz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=ABF6FA5380EBAA93C0AFD6D1C2B514A8F704794B)
-  - Company: Centric Software | US
-  - About Centric Software: Centric Software® is a global leader, providing an innovative and AI-enabled product-concept-to-...
-
-- [Mid-Level Microsoft DevOps Engineer (REMOTE)](https://www.adzuna.com/details/5868825347?utm_medium=api&utm_source=632a28fd)
-  - Company: Koniag Government Services | Chantilly, Fairfax County
-  - This position may be filled prior to the posted deadline. Interested candidates are encouraged to apply as soon as possi...
-
-- [DevOps Engineer, Infrastructure - Remote](https://www.adzuna.com/land/ad/5863093206?se=KM_Fgz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=D2F5182E138F8CFC6B9CA20CF621EAB22ED3BCF8)
-  - Company: Origami Risk | Highland Park, Dallas
-  - As a DevOps Engineer, Infrastructure you will be responsible for deploying product updates, identifying production issue...
-
-- [Site Reliability Engineer](https://www.adzuna.com/details/5932289669?utm_medium=api&utm_source=632a28fd)
-  - Company: Ascending | Austin, Travis County
-  - Required U.S. Citizenship / No clearance needed / 100% remote within the US Staff Site Reliability Engineer / Cloud SME ...
-
-- [Site Reliability Engineer (Remote)](https://www.adzuna.com/land/ad/5932054096?se=CIzShD3K8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=C9BB1A4807B779ED01E9FB947A4CBA264393485D)
-  - Company: Cisco | Durham, Durham County
-  - The application window is expected to close on: 10/30/2026 This position will perform work that the U.S. government has ...
-
-- [Site Reliability Engineer (Remote)](https://www.adzuna.com/land/ad/5932015524?se=CIzShD3K8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=7A416C1AB907BA1FC7F93AA3F6F5B22C9AABF4B5)
-  - Company: Cisco | Eldorado Springs, Boulder County
-  - The application window is expected to close on: 10/30/2026 This position will perform work that the U.S. government has ...
-
-- [Sr Site Reliability Engineer (US Federal) with Security Clearance](https://www.adzuna.com/land/ad/5929382768?se=CIzShD3K8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=1DCCDF63E7C2FC5AB20BA39B2E60D7C337BA5424)
-  - Company: Workday | Oak Hill, Fairfax County
-  - Your work days are brighter here. We’re obsessed with making hard work pay off, for our people, our customers, and the w...
-
-- [Site Reliability Engineer (SRE)](https://www.adzuna.com/details/5928721099?utm_medium=api&utm_source=632a28fd)
-  - Company: Bright Vision Technologies | South Plainfield, Middlesex County
-  - Site Reliability Engineer (SRE) - Remote Bright Vision Technologies is a technology consulting and software development ...
-
-- [Senior Site Reliability Engineer / Remote](https://www.adzuna.com/land/ad/5928438460?se=CIzShD3K8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=01FF004C5F12CCD437AB0F31AB78FE0B8458D135)
-  - Company: Motion Recruitment Partners, LLC | US
-  - A U.S.-based provider of secure enterprise cloud technology for national security agencies, defense, and regulated indus...
-
-- [Lead Site Reliability Engineer – Observability](https://www.adzuna.com/land/ad/5927863056?se=CIzShD3K8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=6D1D7FBE5FA2B4D5C9D62484EFE018760F5640EB)
-  - Company: NMK Global Inc. | US
-  - NMK Global Inc. is a global IT Services & Solutions company specializing in IT Staffing, Technology Consulting, Workforc...
-
-- [SRE](https://www.adzuna.com/details/5925151129?utm_medium=api&utm_source=632a28fd)
-  - Company: Openkyber | Atlanta, Fulton County
-  - Role: Sr. Site Reliability Engineer (Compute Platform) Location: Remote Duration: 3 Months Contract(500 Hrs) We are seek...
-
-- [Expert Site Reliability Engineer](https://www.adzuna.com/land/ad/5917039254?se=CIzShD3K8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=1FD257336C198EB856915C8E49B42E7AD36445E4)
-  - Company: Harris | Florida
-  - Job Title : Expert Site Reliability Engineer Location: Remote U.S. Role Employment Type : Full-time About Altera Altera,...
-
-- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/details/5836246181?utm_medium=api&utm_source=632a28fd)
-  - Company: SitusAMC | Tallahassee, Leon County
-  - SitusAMC is where the best and most passionate people come to transform our client's businesses and their own careers. W...
-
-- [Senior Site Reliability Engineer](https://www.adzuna.com/details/5721148518?utm_medium=api&utm_source=632a28fd)
-  - Company: Andromeda Cluster | San Francisco, California
-  - Senior Site Reliability Engineer Location: Global Remote / San Francisco · Full-Time About Andromeda Andromeda is a mark...
-
-- [AI Data Platform Engineer](https://www.adzuna.com/details/5932315769?utm_medium=api&utm_source=632a28fd)
-  - Company: Bright Vision Technologies | Grover, Saint Louis County
-  - AI Data Platform Engineer – Remote Bright Vision Technologies is a technology consulting and software development compan...
-
-- [Senior AI Engineer](https://www.adzuna.com/land/ad/5932228585?se=mnzUhz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=53A590163E2E6AC89021DB951F1954D491817E01)
-  - Company: GTN Solutions | US
-  - Senior AI Platform Engineer Remote (Must be based in EST or CST)  quarterly travel to HQ This position is responsible fo...
-
-- [Lead Software Engineer (Platform Services) - Remote, United States](https://www.adzuna.com/land/ad/5932169392?se=mnzUhz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=5DA99B32EABB901E537A5008189AFF1954BEB11E)
-  - Company: Conexess Group | New York City, New York
-  - Lead Software Engineer (Backend Platform & APIs) Job Summary A client of mine is seeking a Lead Software Engineer to pro...
-
-- [Azure Platform Engineer](https://www.adzuna.com/details/5932162760?utm_medium=api&utm_source=632a28fd)
-  - Company: Bright Vision Technologies | Grover, Saint Louis County
-  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
-
-- [Platform Infrastructure Engineer](https://www.adzuna.com/details/5932151557?utm_medium=api&utm_source=632a28fd)
-  - Company: Bright Vision Technologies | Westchase, Hillsborough County
-  - Platform Infrastructure Engineer – Remote Bright Vision Technologies is a technology consulting and software development...
-
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5932101336?se=mnzUhz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=ACAD3707DD71391154E634F122D6D67CEBCE774D)
-  - Company: Cognizant | Ny State Campus, Albany County
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5932068892?se=mnzUhz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=775DFDBD1DEA3AB08095A4D759BAB2C955AE7D1E)
-  - Company: Cognizant | Grandview Heights, Franklin County
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [Platform Engineer (Remote)](https://www.adzuna.com/land/ad/5932062988?se=mnzUhz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=9908A4D9001FE7AECA13DE0F20BF7BD425C782BC)
-  - Company: RTX Corporation | Talcott Village, Hartford County
-  - Date Posted: 2026-10-14 Country: United States of America Location: US-CT-REMOTE Position Role Type: Remote U.S. Citizen...
-
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5932054175?se=mnzUhz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=9EC2FF9ACBD4A06A10E84D054CBCB77A07B1AB15)
-  - Company: Cognizant | Five Points, Wake County
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5932053672?se=mnzUhz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=EC90835F5011E39ADCCAF0B9C67CAE4AE43E2EC3)
-  - Company: Cognizant | Nashville, Davidson County
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5932051060?se=mnzUhz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=49D04E751F04A68CB0E073E3A1C2490962F1D34E)
-  - Company: Cognizant | Trenton, Mercer County
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5932050688?se=mnzUhz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=6CB44F757DDF7F8B42201DDA036BFE954C493C83)
-  - Company: Cognizant | Boston, Suffolk County
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [AI/ML Developer](https://www.adzuna.com/details/5932043319?utm_medium=api&utm_source=632a28fd)
-  - Company: Cognizant | Springfield, Sangamon County
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5932043349?se=mnzUhz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=12185C3584275E969B805362DB1830A35C4109AA)
-  - Company: Cognizant | Cedar, Cole County
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5932041712?se=mnzUhz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=90BA216FCB0D03206F73F7C86A867042F73382EE)
-  - Company: Cognizant | Uptown, Marion County
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [AI/ML Developer](https://www.adzuna.com/details/5932036656?utm_medium=api&utm_source=632a28fd)
-  - Company: Cognizant | Tallahassee, Leon County
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5932032683?se=mnzUhz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=728AF175BC087DC7E41CEDECB1674F97D75A0A2E)
-  - Company: Cognizant | Atlanta, Fulton County
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5932031345?se=mnzUhz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=25D0A1F27BDA80B1BC62465AF22CA94254B90571)
-  - Company: Cognizant | Edgewood, Richland County
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5932031316?se=mnzUhz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=787C83B46C9CFB2BA18E57759A2FDAA5DB487DDD)
-  - Company: Cognizant | Salem, Marion County
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5932030462?se=mnzUhz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=7B1C2B771E337853940C6888E8B61FD56147FC6C)
-  - Company: Cognizant | Madison, Dane County
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5932029547?se=mnzUhz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=D154117D57BFC98F4FD18D014B9387B60CEBEFD7)
-  - Company: Cognizant | Oklahoma City, Oklahoma County
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5932028797?se=mnzUhz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=744B2114721319CCAA8EEB891E9DA57A715F2641)
-  - Company: Cognizant | Bonnie, Utah County
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5932027448?se=mnzUhz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=1271479921DDFC9F18AE4D30CA8EA8561BDD8A3A)
-  - Company: Cognizant | Carson Mall, Carson City
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [AI/ML Developer](https://www.adzuna.com/details/5932026450?utm_medium=api&utm_source=632a28fd)
-  - Company: Cognizant | Penbrook, Dauphin County
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5932026432?se=mnzUhz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=D9A04BC762C826A3326F834DF1884E58B41871FD)
-  - Company: Cognizant | Charleston, Kanawha County
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5932025670?se=mnzUhz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=0E9D23D9F98DDA736A6C412A75C2B29A8EFC66E7)
-  - Company: Cognizant | La Cienga, Santa Fe County
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5932025517?se=mnzUhz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=7FD4E1B3B2CA634B653F1518EE60288DA78BA23B)
-  - Company: Cognizant | Saint Paul, Ramsey County
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5932023622?se=mnzUhz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=09F69BD18C69364131A3468E4580F5F5D828CBA4)
-  - Company: Cognizant | State House, Lancaster County
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5932023590?se=mnzUhz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=51440D845C986BD27FEBD32D0D6EE945C5BCDB1A)
-  - Company: Cognizant | Washington, D.C., US
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5932023531?se=mnzUhz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=3E09ECCB3C28339A252000C758D6FB9618EC9BFF)
-  - Company: Cognizant | Boise, Ada County
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5932023264?se=mnzUhz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=942CAF2127B9191BEC9131AB96987C2357B6A288)
-  - Company: Cognizant | Frankfort, Franklin County
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5932020464?se=mnzUhz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=483DE7929217AE9E341196A83908B9215F623DDF)
-  - Company: Cognizant | Annapolis, Anne Arundel County
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5932020058?se=mnzUhz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=380CFAE801FFF6016EAC8D602C81E350A36244D4)
-  - Company: Cognizant | Lansing, Ingham County
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5932019910?se=mnzUhz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=70C57412E2689B9470D290ACB31239F85F924DE9)
-  - Company: Cognizant | Phoenix, Maricopa County
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5932019933?se=mnzUhz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=14AA8CFE8A9DF24BA5FEA0014CD9814D3E7994BB)
-  - Company: Cognizant | Topeka, Shawnee County
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5932019525?se=mnzUhz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=38EFEF57B1B48503FFD6E8E6B45098512076DF4D)
-  - Company: Cognizant | Talcott Village, Hartford County
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5932019011?se=mnzUhz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=F9B31AAD5E2BB6083900D038DE246315BF0027D8)
-  - Company: Cognizant | Jackson, Hinds County
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5932018477?se=mnzUhz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=E602070425B14B6C3EA4A48132637ECCC5B18F23)
-  - Company: Cognizant | Chisolm, Montgomery County
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5932017931?se=mnzUhz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=1D8D3D5553AE7B6E87D629D0E7B7924E10FA6865)
-  - Company: Cognizant | Cammack Village, Pulaski County
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5932017236?se=mnzUhz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=DA82985EC9D56C278053935FA6BCEC86F62C99D0)
-  - Company: Cognizant | Des Moines, Polk County
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5932015592?se=mnzUhz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=8BA5837E8C4F29C87B93724DCF4694800290BCF5)
-  - Company: Cognizant | Glendale, Denver
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [Workday Platform Engineer](https://www.adzuna.com/details/5931834872?utm_medium=api&utm_source=632a28fd)
-  - Company: Bright Vision Technologies | Westchase, Hillsborough County
-  - Workday Platform Engineer – Remote Bright Vision Technologies is a technology consulting and software development compan...
-
-- [IoT Platform Engineer](https://www.adzuna.com/details/5931830490?utm_medium=api&utm_source=632a28fd)
-  - Company: Bright Vision Technologies | Grover, Saint Louis County
-  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
-
-- [Platform Automation Engineer](https://www.adzuna.com/details/5931828839?utm_medium=api&utm_source=632a28fd)
-  - Company: Bright Vision Technologies | Woodbury, Washington County
-  - Platform Automation Engineer- Remote Bright Vision Technologies is a technology consulting and software development comp...
-
-- [Data Platform Engineer](https://www.adzuna.com/details/5931781177?utm_medium=api&utm_source=632a28fd)
-  - Company: Bright Vision Technologies | Franklin, Williamson County
-  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
-
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5931726183?se=mnzUhz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=BBE028E8CF126711BC96E4F19B682BD0A3D1BB33)
-  - Company: Cognizant | Montpelier, Washington County
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [ML Platform Engineer](https://www.adzuna.com/details/5931714750?utm_medium=api&utm_source=632a28fd)
-  - Company: Bright Vision Technologies | South Plainfield, Middlesex County
-  - ML Platform Engineer - Remote Bright Vision Technologies is a technology consulting and software development company del...
-
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5931627206?se=mnzUhz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=4A23603839F044FAD5F1ED4D7247EA53186B5531)
-  - Company: Cognizant | Pierre, Hughes County
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5931626915?se=mnzUhz3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=72B07636680265AC75B053160CDC51ABDDC4C4F4)
-  - Company: Cognizant | Providence, Providence County
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5931625307?se=ntiyij3K8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=30E607D522EC732CA1FD77739487F1AEF2E945E6)
-  - Company: Cognizant | Archer, Laramie County
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5931625314?se=ntiyij3K8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=EA2D78BC0D4AD8DDFA267F2A6E02AEED93AE4C90)
-  - Company: Cognizant | Wyoming, Kent County
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5931625231?se=ntiyij3K8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=ECE2442E8D0A65543E6B0EB6FF41DB1D47002DB1)
-  - Company: Cognizant | Bismarck, Burleigh County
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [AI/ML Developer](https://www.adzuna.com/details/5931625202?utm_medium=api&utm_source=632a28fd)
-  - Company: Cognizant | Douglas, Juneau
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [AutoSys Platform Engineer](https://www.adzuna.com/land/ad/5931578655?se=ntiyij3K8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=4297863AB4D9681B8AA89A2F0F157A9275A64DBC)
-  - Company: Pinnacle Technical Resources | California, US
-  - THIS JOB DESCRIPTION WAS CREATED BY AI, REVIEW BEFORE POSTING Position: AutoSys Platform Engineer Location: Irvine, Cali...
-
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5931468678?se=ntiyij3K8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=FE026E2F5C2AB1A75F190C148AFA7D47E0F9A322)
-  - Company: Cognizant | Wake Island, Honolulu
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5931468427?se=ntiyij3K8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=C675ECA743EAE92658DBAB8ED87C09F384426BB5)
-  - Company: Cognizant | Helena, Lewis and Clark County
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [AI/ML Developer](https://www.adzuna.com/land/ad/5931468341?se=ntiyij3K8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=9930DD84DC54B556EC9AFD9445353CE39B2E69C4)
-  - Company: Cognizant | Augusta, Kennebec County
-  - AI/ML Engineer - Generative AI Platforms (Remote) About Cognizant Cognizant is one of the world's leading professional s...
-
-- [Microsoft 365 Consultant](https://www.adzuna.com/land/ad/5931418647?se=ntiyij3K8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=9F9190AC8C8D3057D4CC78FA46CB3612DE22F810)
-  - Company: Motion Recruitment Partners, LLC | US
-  - Power Platform Automation Engineer We are seeking a hands-on Power Platform Automation Engineer for a three-month remote...
-
-- [AI Platform Engineer](https://www.adzuna.com/details/5931049898?utm_medium=api&utm_source=632a28fd)
-  - Company: Bright Vision Technologies | US
-  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
-
-- [Container Platform Engineer](https://www.adzuna.com/details/5931049952?utm_medium=api&utm_source=632a28fd)
-  - Company: Bright Vision Technologies | US
-  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
-
-- [Software Engineer, Platform Engineering – Remote](https://www.adzuna.com/details/5930595843?utm_medium=api&utm_source=632a28fd)
-  - Company: RemoteJobsOne | Columbus, Hempstead County
-  - IMPORTANT: after you apply, please check your email. We send you a link to complete your application — it is not conside...
-
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930459677?se=ntiyij3K8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=CE66A0B2E1C646B8226E9A6CA3AFBD1370E2FA33)
-  - Company: CrowdStrike | Nashville, Davidson County
-  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Azure Cloud Engineer](https://www.adzuna.com/details/5932301302?utm_medium=api&utm_source=632a28fd)
-  - Company: Bright Vision Technologies | Woodbridge, Middlesex County
-  - Azure Cloud Engineer – Remote Bright Vision Technologies is a technology consulting and software development company del...
-
-- [AWS Cloud Engineer](https://www.adzuna.com/details/5932171733?utm_medium=api&utm_source=632a28fd)
-  - Company: Bright Vision Technologies | South Plainfield, Middlesex County
-  - AWS Cloud Engineer – Remote Bright Vision Technologies is a technology consulting and software development company deliv...
-
-- [Cloud Connectivity Engineer](https://www.adzuna.com/details/5931989074?utm_medium=api&utm_source=632a28fd)
-  - Company: Bright Vision Technologies | Franklin, Williamson County
-  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
-
-- [Oracle Cloud Engineer (SME) - REMOTE](https://www.adzuna.com/details/5931888123?utm_medium=api&utm_source=632a28fd)
-  - Company: JTEC Consulting | San Antonio, Bexar County
-  - ​ Oracle Cloud Senior Engineer (SME) - REMOTE San Antonio, TX 78201 JTEC Consulting LLC is a Veteran-Owned Small Busines...
-
-- [Cloud Engineer](https://www.adzuna.com/land/ad/5931798956?se=EoU_jT3K8RGTjuVkbjlGnw&utm_medium=api&utm_source=632a28fd&v=1D94F7B1C943093E32C09AA5A017C20EB1753535)
-  - Company: ARCTICOM LLC | Anchorage, Alaska
-  - About Arcticom, LLC Arcticom LLC provides network and systems administration, enterprise architecture and resource plann...
-
-- [Senior AWS & Liferay Cloud Migration Engineer || Remote || 6 months || Video](https://www.adzuna.com/details/5931389852?utm_medium=api&utm_source=632a28fd)
-  - Company: Stellent IT LLC | US
-  - Title: Senior AWS & Liferay Cloud Migration Engineer Location: Remote Duration: 6 months MOI: Video Project background a...
-
-- [Cloud Infrastructure Engineer using Terraform and AWS](https://www.adzuna.com/land/ad/5931222038?se=EoU_jT3K8RGTjuVkbjlGnw&utm_medium=api&utm_source=632a28fd&v=B0FB8741F97827C714DBB22AA201FF6AD29192A0)
-  - Company: SRI Tech Solutions | US
-  - Cloud Infrastructure Engineer using Terraform and AWS Remote Contract Solid understanding and working experience of Core...
-
-- [Senior AWS & Liferay Cloud Migration Engineer || Remote || 6 months || Video](https://www.adzuna.com/land/ad/5931073646?se=EoU_jT3K8RGTjuVkbjlGnw&utm_medium=api&utm_source=632a28fd&v=360F2B25B89D7B64582EED1F8BE1A4A06B3320A5)
-  - Company: Stellent IT LLC | US
-  - Title: Senior AWS & Liferay Cloud Migration Engineer Location: Remote Duration: 6 months MOI: Video Project background a...
-
-- [Oracle Cloud Infrastructure Engineer](https://www.adzuna.com/details/5931050288?utm_medium=api&utm_source=632a28fd)
-  - Company: Bright Vision Technologies | US
-  - Oracle Cloud Infrastructure Engineer – Remote Bright Vision Technologies is a technology consulting and software develop...
-
-- [Cloud Networking Engineer](https://www.adzuna.com/details/5931049942?utm_medium=api&utm_source=632a28fd)
-  - Company: Bright Vision Technologies | US
-  - Cloud Networking Engineer – Remote Bright Vision Technologies is a technology consulting and software development compan...
-
-- [Azure Cloud Security Engineer (Montvale)](https://www.adzuna.com/land/ad/5931012478?se=EoU_jT3K8RGTjuVkbjlGnw&utm_medium=api&utm_source=632a28fd&v=B1E3C7CC1DA44068E04227380EBD5C734793A2F2)
-  - Company: Iris Software Inc. | Park Ridge, Bergen County
-  - Iris client, one of their Auditing Client is looking to hire Azure Cloud Security Engineer for Remote. Job Title: Azure ...
-
-- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/details/5930480532?utm_medium=api&utm_source=632a28fd)
-  - Company: CrowdStrike | Springfield, Sangamon County
-  - USA - Sunnyvale, CA USA - Remote Full time R30109 As a global leader in cybersecurity, CrowdStrike protects the people, ...
-
-- [Senior Engineer - Cloud (Sunnyvale, CA; US Remote)](https://www.adzuna.com/details/5930464630?utm_medium=api&utm_source=632a28fd)
-  - Company: CrowdStrike | Tallahassee, Leon County
-  - USA - Sunnyvale, CA USA - Remote Full time R30109 As a global leader in cybersecurity, CrowdStrike protects the people, ...
-
-- [Infrastructure Reliability Engineer](https://www.adzuna.com/details/5932137457?utm_medium=api&utm_source=632a28fd)
-  - Company: Bright Vision Technologies | Pacific, Franklin County
-  - Infrastructure Reliability Engineer – Remote Bright Vision Technologies is a technology consulting and software developm...
-
-- [Sr. Software Engineer, Infrastructure (Remote)](https://www.adzuna.com/land/ad/5932103772?se=HoDCjz3K8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=0268D9ADAB3D13DB9AE05E11CD17A9F6AC105865)
-  - Company: CrowdStrike | Ny State Campus, Albany County
-  - USA - Remote Full time R30380 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Desktop Technician](https://www.adzuna.com/land/ad/5932031592?se=HoDCjz3K8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=F4BC003BE132418C78065777691185C8EBE4B487)
-  - Company: CompuCom | Greenwood, Greenwood County
-  - At CompucomStaffing (https://www1.jobdiva.com/portal/?a=xpjdnwd96pfzndejt5orrp7btv1uj90471yr05agwnk9h3kdkxgy44xuptw0m44x...
-
-- [Desktop Technician - Greenwood, SC](https://www.adzuna.com/details/5931915957?utm_medium=api&utm_source=632a28fd)
-  - Company: Military Spouse Corporate Career Network | Greenwood, Greenwood County
-  - ATTENTION MILITARY AFFILIATED JOB SEEKERS - Our organization works with partner companies to source qualified talent for...
-
-- [Senior Infrastructure Engineer](https://www.adzuna.com/details/5931830476?utm_medium=api&utm_source=632a28fd)
-  - Company: d-Matrix | Seattle, King County
-  - At d-Matrix , we are focused on unleashing the potential of generative AI to power the transformation of technology. We ...
-
-- [ML Infrastructure Engineer](https://www.adzuna.com/details/5931685878?utm_medium=api&utm_source=632a28fd)
-  - Company: Bright Vision Technologies | Riverton, Salt Lake County
-  - ML Infrastructure Engineer - Remote Bright Vision Technologies is a technology consulting and software development compa...
-
-- [Senior Infrastructure Automation Engineer - Remote / Telecommute](https://www.adzuna.com/details/5931392409?utm_medium=api&utm_source=632a28fd)
-  - Company: CYNET SYSTEMS | Cary, Wake County
-  - Pay Range: $39.00hr - $44.00hr Job Overview: As a Senior Systems Engineer, the successful candidate will play a pivotal ...
-
-- [Senior Infrastructure Automation Engineer - Remote / Telecommute](https://www.adzuna.com/land/ad/5931124113?se=HoDCjz3K8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=5612F09BE2DE6F41C84719FFDB96F4DED7659703)
-  - Company: CYNET SYSTEMS | Cary, Wake County
-  - We are looking for Senior Infrastructure Automation Engineer - Remote / Telecommute for our client in Cary, NC Job Title...
-
-- [Service Infrastructure Engineer](https://www.adzuna.com/details/5931050448?utm_medium=api&utm_source=632a28fd)
-  - Company: Bright Vision Technologies | Wesley Chapel, Pasco County
-  - Service Infrastructure Engineer – Remote Bright Vision Technologies is a technology consulting and software development ...
-
-- [VMware Infrastructure Engineer](https://www.adzuna.com/details/5931050495?utm_medium=api&utm_source=632a28fd)
-  - Company: Bright Vision Technologies | US
-  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
-
-- [Infrastructure Automation Engineer](https://www.adzuna.com/details/5931050032?utm_medium=api&utm_source=632a28fd)
-  - Company: Bright Vision Technologies | US
-  - Bright Vision Technologies is a forward-thinking software development company dedicated to building innovative solutions...
-
-- [Infrastructure ​​​​​​​Storage Engineer](https://www.adzuna.com/details/5931050026?utm_medium=api&utm_source=632a28fd)
-  - Company: Bright Vision Technologies | US
-  - Infrastructure Storage Engineer - Remote Bright Vision Technologies is a forward-thinking software development company d...
-
-- [Infrastructure Engineer – Automation](https://www.adzuna.com/details/5931050035?utm_medium=api&utm_source=632a28fd)
-  - Company: Bright Vision Technologies | US
-  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
-
-- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5930469656?se=HoDCjz3K8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=65A554B758382037BF2585AA4F52CBB971271284)
-  - Company: CrowdStrike | Five Points, Wake County
-  - USA - Remote Full time R30174 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Sr. Software Engineer, Infrastructure (Remote)](https://www.adzuna.com/land/ad/5930424193?se=OPXhkD3K8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=EC1D34079A2D93FA27439A0F77994220D5ED7C07)
-  - Company: CrowdStrike | Bonnie, Utah County
-  - USA - Remote Full time R30377 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
-
-- [Senior DevSecOps Engineer (Remote)](https://www.adzuna.com/land/ad/5931585059?se=BM3skT3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=158E15C567940A0B612C1B8A218A5CDED3FF6313)
-  - Company: Integrated Data Services | US
-  - Company Overview: Integrated Data Services (IDS) is a leading provider of custom software products and Government financ...
-
-- [DevSecOps Engineer](https://www.adzuna.com/land/ad/5931045182?se=BM3skT3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=C94EB807F00DBB5C30DC2BA360B293AE53444ED7)
-  - Company: West 4th Strategy | Washington, Washington, D.C.
-  - Job Description Job Description DevSecOps Engineer(REMOTE) ROLE We need an experienced DevSecOps Engineer at the U.S. Se...
-
-- [Edifecs DevSecOps Engineer](https://www.adzuna.com/details/5929121270?utm_medium=api&utm_source=632a28fd)
-  - Company: SSG | State Farm, Arlington County
-  - Syms Strategic Group (SSG) is seeking a talented Edifecs DevSecOps Engineer Location: Remote Department: Veterans Affair...
-
-- [Edifecs DevSecOps Engineer](https://www.adzuna.com/details/5929072905?utm_medium=api&utm_source=632a28fd)
-  - Company: SSG | Broadlands, Loudoun County
-  - Syms Strategic Group (SSG) is seeking a talented Edifecs DevSecOps Engineer Location: Remote Department: Veterans Affair...
-
-- [Edifecs DevSecOps Engineer](https://www.adzuna.com/details/5929001103?utm_medium=api&utm_source=632a28fd)
-  - Company: SSG | Largo, Pinellas County
-  - Syms Strategic Group (SSG) is seeking a talented Edifecs DevSecOps Engineer Location: Remote Department: Veterans Affair...
-
-- [Edifecs DevSecOps Engineer](https://www.adzuna.com/details/5928793179?utm_medium=api&utm_source=632a28fd)
-  - Company: SSG | Overland, Johnson County
-  - Syms Strategic Group (SSG) is seeking a talented Edifecs DevSecOps Engineer Location: Remote Department: Veterans Affair...
-
-- [Edifecs DevSecOps Engineer](https://www.adzuna.com/details/5928786955?utm_medium=api&utm_source=632a28fd)
-  - Company: SSG | East Lake-Orient Park, Hillsborough County
-  - Syms Strategic Group (SSG) is seeking a talented Edifecs DevSecOps Engineer Location: Remote Department: Veterans Affair...
-
-- [Edifecs DevSecOps Engineer](https://www.adzuna.com/details/5928785553?utm_medium=api&utm_source=632a28fd)
-  - Company: SSG | College Estates, Frederick County
-  - Syms Strategic Group (SSG) is seeking a talented Edifecs DevSecOps Engineer Location: Remote Department: Veterans Affair...
-
-- [Edifecs DevSecOps Engineer](https://www.adzuna.com/details/5928669177?utm_medium=api&utm_source=632a28fd)
-  - Company: SSG | Lee Hall, Newport News City
-  - Syms Strategic Group (SSG) is seeking a talented Edifecs DevSecOps Engineer Location: Remote Department: Veterans Affair...
-
-- [Edifecs DevSecOps Engineer](https://www.adzuna.com/details/5928667869?utm_medium=api&utm_source=632a28fd)
-  - Company: SSG | University, Charlottesville
-  - Syms Strategic Group (SSG) is seeking a talented Edifecs DevSecOps Engineer Location: Remote Department: Veterans Affair...
-
-- [Edifecs DevSecOps Engineer](https://www.adzuna.com/details/5928522691?utm_medium=api&utm_source=632a28fd)
-  - Company: SSG | Lockhart, Orange County
-  - Syms Strategic Group (SSG) is seeking a talented Edifecs DevSecOps Engineer Location: Remote Department: Veterans Affair...
-
-- [DevSecOps Engineer II](https://www.adzuna.com/details/5928419101?utm_medium=api&utm_source=632a28fd)
-  - Company: ATTAINX INC | State Farm, Arlington County
-  - Job Title: DevSecOps Engineer II Location: Remote/Hybrid - DHS CISA; approved remote work location within the 50 United ...
-
-- [Senior DevSecOps Engineer](https://www.adzuna.com/land/ad/5925919306?se=BM3skT3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=D2899E9D09F8BC8127A5045CF69B554749B07B59)
-  - Company: Brooksource | Pennsylvania, US
-  - Job Title : Senior DevSecOps Engineer Location : US / Remote Department : Digital AI Reports to : Senior Manager, IT Ris...
-
-- [Azure AI Application Platform & DevSecOps Engineer](https://www.adzuna.com/land/ad/5925406601?se=BM3skT3K8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=A0AFE539D36C7CB6062715C4E67DE43497F1578B)
-  - Company: Osborn and Holloway, LLC | US
-  - Azure AI Application Platform & DevSecOps Engineer Senior Individual Contributor | Azure | Full Stack | Platform Enginee...
-
-- [UI/UX Lead with Security Clearance](https://www.adzuna.com/land/ad/5860240578?se=2OjOkj3K8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=B40F87396577CD95A0613522683B75EA63D411E5)
+- [UI/UX Lead with Security Clearance](https://www.adzuna.com/land/ad/5860240578?se=VtKBsAnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=B40F87396577CD95A0613522683B75EA63D411E5)
   - Company: NALEJ Corporation | South, Arlington County
   - Lead UI/UX Design Engineer – Enterprise Platforms (DoD / GovCloud) Location: Arlington, VA Work Environment: Hybrid / On...
+
+- [Cloud DevSecOps Engineer](https://www.adzuna.com/land/ad/5845656507?se=VtKBsAnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=C42B7714501A3FE2316F66AD29C37BC878BE7FFC)
+  - Company: Apex Systems | Hoover, Jefferson County
+  - Job: 3046604 Job Description: Cloud DevSecOps Engineer Location: Hoover, Alabama (Remote) Role Overview The Cloud DevSec...
 
 - [E-EFMP DevSecOps Engineer](https://www.adzuna.com/details/5821185537?utm_medium=api&utm_source=632a28fd)
   - Company: DecisionPoint | US
@@ -2667,15 +1879,203 @@ Total jobs (24h window): 680
   - Company: Defense Unicorns | US
   - EMPLOYER IS A CONTRACTOR FOR THE U.S. GOVERNMENT. Role Description We are seeking a talented and experienced Platform En...
 
-- [DevOps Engineer III](https://www.adzuna.com/land/ad/5931798281?se=HNV1kz3K8RGTjuVkbjlGnw&utm_medium=api&utm_source=632a28fd&v=A35A1E78C1EA796501C20B07CB3BC73510624AE1)
+- [DevOps Engineer III](https://www.adzuna.com/land/ad/5932902207?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=2D9BAE0F7D0D0A1D27E48B0AB506AEA62A85F648)
   - Company: Pinnacle Technical Resources | Queen Anne, King County
   - Job Title: Devops/ SRE Engineer (AI/ML) Location: Seattle, WA (Remote) Duration: 12 months Job Id: 171076 Job Descriptio...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930547479?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=475F9CA31A096BD6F7AAAA7D6725B3595F08D20E)
+  - Company: CrowdStrike | Ny State Campus, Albany County
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/details/5930483633?utm_medium=api&utm_source=632a28fd)
+  - Company: CrowdStrike | Capitol, Richmond
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930482055?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=CD799B316D7644EE3B6C6239B4475E439A6584FE)
+  - Company: CrowdStrike | Tumwater, Thurston County
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/details/5930480624?utm_medium=api&utm_source=632a28fd)
+  - Company: CrowdStrike | Springfield, Sangamon County
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930479706?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=A6CF4DE0803424A8B93F8E8E072452A1C52B45A6)
+  - Company: CrowdStrike | Grandview Heights, Franklin County
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930469697?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=200E23B65C1A5AEFAB347EF752D6F93C0D40C5CD)
+  - Company: CrowdStrike | Five Points, Wake County
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/details/5930464320?utm_medium=api&utm_source=632a28fd)
+  - Company: CrowdStrike | Tallahassee, Leon County
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930459668?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=EBA71B8C6D7DF1F92DE80698943FE8F7C89B3EDE)
+  - Company: CrowdStrike | Nashville, Davidson County
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930453641?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=0EBF2B5F840D68DE3F2EECF79DE9E2338D080E07)
+  - Company: CrowdStrike | Trenton, Mercer County
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930447465?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=4AFA0A686C6D3B7510503EB798D0DAB2CD3D7F26)
+  - Company: CrowdStrike | Atlanta, Fulton County
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930445269?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=80C08CE40300841FED28701D7C436F1F01FA1D8B)
+  - Company: CrowdStrike | Cedar, Cole County
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930442016?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=4C6D3BF8D5B98F36B7A4026214A72819263D70E6)
+  - Company: CrowdStrike | Phoenix, Maricopa County
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930438636?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=FCB92BE1F1658EC18EC4CE79CA63534642C88556)
+  - Company: CrowdStrike | Boston, Suffolk County
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930438380?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=63B11F125F910E183C600E9388794724B62A279A)
+  - Company: CrowdStrike | Lansing, Ingham County
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930434856?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=38164ED0D7E8B718D0205C62089D4D4353DA37BF)
+  - Company: CrowdStrike | Saint Paul, Ramsey County
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930431688?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=8B314D39B85AE87892BF4DBAB4523820493ADE9B)
+  - Company: CrowdStrike | Madison, Dane County
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930426482?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=5EA67421F05FEC8A542A16D65C7BC7DCD6BCBCAA)
+  - Company: CrowdStrike | Uptown, Marion County
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930426029?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=16928E4ABB3D2FC10D0C5D0396C765DA1BFDD038)
+  - Company: CrowdStrike | Edgewood, Richland County
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930424466?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=0C75A54764D87A787AB44644CAD7068854AD64B6)
+  - Company: CrowdStrike | Charleston, Kanawha County
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930424181?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=A71C3D06B5CFD16FA05EA9EFD760BA0D984926B2)
+  - Company: CrowdStrike | Bonnie, Utah County
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/details/5930421644?utm_medium=api&utm_source=632a28fd)
+  - Company: CrowdStrike | Penbrook, Dauphin County
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930420947?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=04CFC6BB0E45AC9918075E091C9BD23ECEE7464B)
+  - Company: CrowdStrike | Salem, Marion County
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930420512?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=18E4963B2B46B03D2CA4051F796B540569B7B25F)
+  - Company: CrowdStrike | Carson Mall, Carson City
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930420080?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=DDBB5EF45DDACDD01E2098D78F3FB60E9C0D652F)
+  - Company: CrowdStrike | State House, Lancaster County
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930419342?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=6EAAE0BF90C3B3FF47F1BEC65E94304B8AB8E204)
+  - Company: CrowdStrike | La Cienga, Santa Fe County
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930418550?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=914340E212082EABDD825102A3133F8034DCE9C4)
+  - Company: CrowdStrike | Oklahoma City, Oklahoma County
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930416158?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=982A97EC148A48CBFDCE39949CE9917E3C2013F9)
+  - Company: CrowdStrike | Des Moines, Polk County
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930416012?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=5C481B87BD3E279B5CF8D471254ADDF83CE7F41C)
+  - Company: CrowdStrike | Washington, D.C., US
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930415594?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=154BE7A232E27A9D820B95841D89AC2449AD5915)
+  - Company: CrowdStrike | Boise, Ada County
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930414964?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=BA7A6348B6F81407926D04E4D676033C1B2B8E4A)
+  - Company: CrowdStrike | Annapolis, Anne Arundel County
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930414768?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=24EF678EF533AC77A8981424486D4A7ADDB7A599)
+  - Company: CrowdStrike | Talcott Village, Hartford County
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930412253?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=9C8AB85F8407F2A38CB374F71936254BC2AE19AF)
+  - Company: CrowdStrike | Chisolm, Montgomery County
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930408822?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=E3F8CD38F82E91A961FA2330D479EF7C1709B733)
+  - Company: CrowdStrike | Jackson, Hinds County
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930408712?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=08D6D242CB203AAD05AE6B2C23BC396DEE16BA67)
+  - Company: CrowdStrike | Frankfort, Franklin County
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930408662?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=529687B1205325655705BC70C0FA92C6BBE77A11)
+  - Company: CrowdStrike | Cammack Village, Pulaski County
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930408491?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=274D8BF725B0BA3ACF0C1410D4532E6AA4D9FF25)
+  - Company: CrowdStrike | Topeka, Shawnee County
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930402497?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=D1B1B759ACBC3BFAB98AD66F438E3210DA3AEE0B)
+  - Company: CrowdStrike | Glendale, Denver
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5930039427?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=31B868BE510BE0FA39CB74B1C3140EC2F7AB811A)
+  - Company: CrowdStrike | Montpelier, Washington County
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5929964958?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=307AD32F6660A068E5E72525A77FCEFEBE2431CB)
+  - Company: CrowdStrike | Pierre, Hughes County
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5929964683?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=CCC88A3465B0641E91CE5D29D4D0BB72239A2DB2)
+  - Company: CrowdStrike | Providence, Providence County
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/details/5929963174?utm_medium=api&utm_source=632a28fd)
+  - Company: CrowdStrike | Douglas, Juneau
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5929963111?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=798C53235F732F0AC2B5F7038BAEF6F3A30218D8)
+  - Company: CrowdStrike | Archer, Laramie County
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5929962832?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=1F667081A5F48FA52D63400DDE768AA708405051)
+  - Company: CrowdStrike | Wyoming, Kent County
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5929962572?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=4F5C8BACDE3D973830BD088471EB4D4717CF483A)
+  - Company: CrowdStrike | Bismarck, Burleigh County
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5929776884?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=6892DD69569BE26328724B4CA71F570EE483BA82)
+  - Company: CrowdStrike | Wake Island, Honolulu
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5929776337?se=ABIusQnL8RGaeILKK-k6hQ&utm_medium=api&utm_source=632a28fd&v=3BA1AF604FBF17727CD95317844ADB5FEFD998E4)
+  - Company: CrowdStrike | Helena, Lewis and Clark County
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5929776299?se=RoYYsgnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=9F2CD28A92AC348E9590CB1B6EB648A3EB919EE6)
+  - Company: CrowdStrike | Augusta, Kennebec County
+  - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
 - [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/details/5929152004?utm_medium=api&utm_source=632a28fd)
   - Company: CrowdStrike | Tarrytown, Travis County
   - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5929143168?se=JGValD3K8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=AF454C4A0714F64D1FEB4E67B789BC52CBC51CD9)
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/land/ad/5929143168?se=RoYYsgnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=AF454C4A0714F64D1FEB4E67B789BC52CBC51CD9)
   - Company: CrowdStrike | Concord, Merrimack County
   - USA - Remote Full time R29733 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
@@ -2683,27 +2083,243 @@ Total jobs (24h window): 680
   - Company: Goldenpick Technologies | Cockrell Hill, Dallas
   - Role - Software Engineer (.NET Core  SRE) Location - Remote Must have C# and .NET Core: Expertise in C# and .NET Core, w...
 
-- [Software Engineer (.NET Core  SRE)](https://www.adzuna.com/land/ad/5927964574?se=JGValD3K8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=830A83E5D04DEFC6F3A8D11696AA199029B1B44E)
+- [Software Engineer (.NET Core  SRE)](https://www.adzuna.com/land/ad/5927964574?se=RoYYsgnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=830A83E5D04DEFC6F3A8D11696AA199029B1B44E)
   - Company: Goldenpick Technologies LLC | US
   - Role - Software Engineer (.NET Core  SRE) Location - Remote Must have C# and .NET Core: Expertise in C# and .NET Core, w...
+
+- [Senior SRE BizOps Engineer - Remote / Telecommute](https://www.adzuna.com/details/5926517823?utm_medium=api&utm_source=632a28fd)
+  - Company: CYNET SYSTEMS | Saint Louis, Saint Louis County
+  - Pay Range: $45.00hr - $50.00hr Job Overview: The candidate should have 5 to 8 years of experience with Application Produ...
+
+- [SRE Engineer](https://www.adzuna.com/land/ad/5924439443?se=RoYYsgnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=771DE37FFD3C6A05F876BE6BD88EA4F94B957370)
+  - Company: ClifyX | US
+  - Job Title: SRE Engineer Location: US(Remote) Duration: Long term contract Visa: USC The AI Platform and Services team pr...
+
+- [Machine Learning Engineer (SRE Focus)](https://www.adzuna.com/land/ad/5902324615?se=RoYYsgnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=40CDD03405791ABE6F9AABB2BB62A87E964B43E3)
+  - Company: Aziro Technologies LLC | US
+  - Job Title: Machine Learning Engineer (SRE Focus) Location: Remote Job Summary: We are seeking a skilled Machine Learning...
+
+- [Lead AWS Cloud Platform Engineer - IaC / SRE - Preferred TriZetto Facets / Healthcare](https://www.adzuna.com/details/5899641213?utm_medium=api&utm_source=632a28fd)
+  - Company: System One | Reston, Fairfax County
+  - LEAD AWS CLOUD PLATFORM ENGINEER (IaC / SRE) Location: Remote (United States) | Preference for DMV & East Coast Candidat...
+
+- [Sr Site Reliability Engineer](https://www.adzuna.com/land/ad/5880455282?se=RoYYsgnL8RGD3NuKZ_epjg&utm_medium=api&utm_source=632a28fd&v=F1D9C3A9B5F9505C4BC5DAA8EF0EE63C435D26E7)
+  - Company: Judge Group, Inc. | Schiller Park, Cook County
+  - Location: Chicago, IL Salary: $150,000.00 USD Annually - $185,000.00 USD Annually Description: Financial Software compan...
+
+- [Sr Engineer, SRE TechOps CICD (Remote)](https://www.adzuna.com/details/5846222438?utm_medium=api&utm_source=632a28fd)
+  - Company: CrowdStrike | US
+  - As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organ...
+
+- [Forward Deployed Engineer - SRE](https://www.adzuna.com/details/5825372534?utm_medium=api&utm_source=632a28fd)
+  - Company: Andromeda Cluster | San Francisco, California
+  - Forward Deployed Engineer - SRE Location: North America Remote/SF-Hybrid · Full-Time About Andromeda Andromeda is a mark...
+
+- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5932927716?se=cDmpsgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=524E8E90A0142CA8B9DC09D2F4FCCE876995CA94)
+  - Company: Cognizant | Archer, Laramie County
+  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
+
+- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5932783179?se=cDmpsgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=06B8F91B9C90587F713DD93EB6D3B0EE906E38DE)
+  - Company: Cognizant | Wake Island, Honolulu
+  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
+
+- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5932783059?se=cDmpsgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=D42E1B933F59465EA39A67D0E00D62A481366E1C)
+  - Company: Cognizant | Helena, Lewis and Clark County
+  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
+
+- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5932783048?se=cDmpsgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=6490EB5E45F5DA01BAAD24A162B62A02DA49BE49)
+  - Company: Cognizant | Augusta, Kennebec County
+  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
 
 - [Kubernetes Service Engineer](https://www.adzuna.com/details/5931787073?utm_medium=api&utm_source=632a28fd)
   - Company: Bright Vision Technologies | Franklin, Williamson County
   - Kubernetes Service Engineer – Remote Bright Vision Technologies is a technology consulting and software development comp...
 
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930438861?se=eGv6lD3K8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=85E43A30836DD78E964B776241C67D31AC060F4B)
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930469649?se=cDmpsgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=FB9604FB162F55C78DBA18E2448EDD3281DFDF6A)
+  - Company: CrowdStrike | Five Points, Wake County
+  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/details/5930464501?utm_medium=api&utm_source=632a28fd)
+  - Company: CrowdStrike | Tallahassee, Leon County
+  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930459677?se=cDmpsgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=CE66A0B2E1C646B8226E9A6CA3AFBD1370E2FA33)
+  - Company: CrowdStrike | Nashville, Davidson County
+  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930453502?se=cDmpsgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=A5E3312A14D2C1F5A7EA47A8C0283833FB87E887)
+  - Company: CrowdStrike | Trenton, Mercer County
+  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930447430?se=cDmpsgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=2FAD0C2538F2A5EF3E75FD08DE02AE26B37D4748)
+  - Company: CrowdStrike | Atlanta, Fulton County
+  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930445476?se=cDmpsgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=3B9D6C95E470CE5A3998E7844747673F4ADD6F91)
+  - Company: CrowdStrike | Cedar, Cole County
+  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930442222?se=cDmpsgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=B71AA7419327E41EA60B0034E2CBE5064935EC97)
+  - Company: CrowdStrike | Phoenix, Maricopa County
+  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930438861?se=cDmpsgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=85E43A30836DD78E964B776241C67D31AC060F4B)
   - Company: CrowdStrike | Boston, Suffolk County
   - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930402484?se=eGv6lD3K8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=F654AC3BA7560CF14C108F4049F1693E8928861F)
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930438467?se=cDmpsgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=AB4B6521E666FCDC8D5C7232C05B12D03A680A51)
+  - Company: CrowdStrike | Lansing, Ingham County
+  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930434958?se=cDmpsgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=037A5631C399FA49BBD99654ADB83726AD1064DD)
+  - Company: CrowdStrike | Saint Paul, Ramsey County
+  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930431699?se=cDmpsgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=3FDF1A19CBA2C4A465D2A50FC107009AD2C2CDDD)
+  - Company: CrowdStrike | Madison, Dane County
+  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930426516?se=cDmpsgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=896CD11EBDF981B78979AB97F53C8C2D60BF2809)
+  - Company: CrowdStrike | Uptown, Marion County
+  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930425924?se=cDmpsgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=FC3875CB5B3D8B20F6111813BA3A86B23FE786B0)
+  - Company: CrowdStrike | Edgewood, Richland County
+  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930424456?se=cDmpsgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=CCDDB165C4BB28BE9B8028BFE38DA331535FC227)
+  - Company: CrowdStrike | Charleston, Kanawha County
+  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930424189?se=cDmpsgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=6875638279E3D75796103D00E2AA6CA51231D457)
+  - Company: CrowdStrike | Bonnie, Utah County
+  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/details/5930421848?utm_medium=api&utm_source=632a28fd)
+  - Company: CrowdStrike | Penbrook, Dauphin County
+  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930420928?se=cDmpsgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=CB6CA082D123B2F3A9B231C26AD800B96F33F1B9)
+  - Company: CrowdStrike | Salem, Marion County
+  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930420505?se=cDmpsgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=B482901AAD8AA2131C2852C665D1042DABDCC00D)
+  - Company: CrowdStrike | Carson Mall, Carson City
+  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930420087?se=cDmpsgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=42A19B083B6FB6A444E22AD281FCAE02DED154D6)
+  - Company: CrowdStrike | State House, Lancaster County
+  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930419446?se=cDmpsgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=03B9D9E1B5E9056FA1FFBC74CAE316AB62BC37F1)
+  - Company: CrowdStrike | La Cienga, Santa Fe County
+  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930418438?se=cDmpsgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=CE1942FFB9F5359D0A8F71F114B5F29C86CF0077)
+  - Company: CrowdStrike | Oklahoma City, Oklahoma County
+  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930416217?se=cDmpsgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=6337206B773D164D8EA457192E269F2206C162D8)
+  - Company: CrowdStrike | Des Moines, Polk County
+  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930415996?se=cDmpsgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=24124A5AF7C7283739BFBF9C3D57D4A464AF11B0)
+  - Company: CrowdStrike | Washington, D.C., US
+  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930415540?se=cDmpsgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=D580C3FE1D7AB154C790ADC52F7103EF1AB6C705)
+  - Company: CrowdStrike | Boise, Ada County
+  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930414985?se=cDmpsgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=7416D9BFD59222237A885E1389349B491D85FF6D)
+  - Company: CrowdStrike | Annapolis, Anne Arundel County
+  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930414587?se=cDmpsgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=F5A99E66FF847E5E07ADB5EF5528ECEF2E46BF44)
+  - Company: CrowdStrike | Talcott Village, Hartford County
+  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930412271?se=cDmpsgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=BA03D950134A3F531EA79AAFA9C61F19F0B4755A)
+  - Company: CrowdStrike | Chisolm, Montgomery County
+  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930408898?se=cDmpsgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=39F1D92E86AD607F5E3177E554FD0FE9E5766BAA)
+  - Company: CrowdStrike | Jackson, Hinds County
+  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930408685?se=cDmpsgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=7A960DC8AB0844C4135971E3163EA4BBA4E97B25)
+  - Company: CrowdStrike | Frankfort, Franklin County
+  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930408531?se=cDmpsgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=B3C415622ED0F967E02DADA7BCD17400F672B5F1)
+  - Company: CrowdStrike | Cammack Village, Pulaski County
+  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930408407?se=cDmpsgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=6B133D9A91696E963E2B72C17856D2E97D94FB10)
+  - Company: CrowdStrike | Topeka, Shawnee County
+  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930402484?se=cDmpsgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=F654AC3BA7560CF14C108F4049F1693E8928861F)
   - Company: CrowdStrike | Glendale, Denver
   - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5930039413?se=cDmpsgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=E673CA09AECC4FBA925D33C66B8F64D55796BDDC)
+  - Company: CrowdStrike | Montpelier, Washington County
+  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5929964952?se=cDmpsgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=32E6B7F96C84118FC0611C44E25D1663005D142F)
+  - Company: CrowdStrike | Pierre, Hughes County
+  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5929964662?se=cDmpsgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=E28F7F8A46D894B86D1531B1EACD0125AC9DFD60)
+  - Company: CrowdStrike | Providence, Providence County
+  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/details/5929963189?utm_medium=api&utm_source=632a28fd)
+  - Company: CrowdStrike | Douglas, Juneau
+  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5929963156?se=cDmpsgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=A882CD3089F7039069F920F5FD57F27FA202D12B)
+  - Company: CrowdStrike | Archer, Laramie County
+  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5929962803?se=cDmpsgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=CC0C87F2023CB85945FC64FD90576CEEB4AEF938)
+  - Company: CrowdStrike | Wyoming, Kent County
+  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5929962633?se=cDmpsgnL8RGq65mh8wCbFA&utm_medium=api&utm_source=632a28fd&v=7F22EFDD01E355A8A282ED426F05C063118F61D4)
+  - Company: CrowdStrike | Bismarck, Burleigh County
+  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5929776846?se=5J5qswnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=05B5DB2261630CCA017221197BF7AC8402D6C6D6)
+  - Company: CrowdStrike | Wake Island, Honolulu
+  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5929776347?se=5J5qswnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=DF6792B3D2EE0C7B575F336114179F75AA60AB7F)
+  - Company: CrowdStrike | Helena, Lewis and Clark County
+  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5929776245?se=5J5qswnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=C144B7395C849EA0EE4F4C89D5E0C17C24661BFA)
+  - Company: CrowdStrike | Augusta, Kennebec County
+  - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Kubernetes Engineer](https://www.adzuna.com/details/5929701067?utm_medium=api&utm_source=632a28fd)
+  - Company: AceStack | Louisville, Jefferson County
+  - Role: Kubernetes Engineer Location: Louisville, KY Remote Fulltime Permanent Job Description Must Have Technical/Functio...
+
+- [HPC Kubernetes Engineer](https://www.adzuna.com/details/5929700569?utm_medium=api&utm_source=632a28fd)
+  - Company: SoftPathTechnologies | Myrtle Point, Coos County
+  - Job Title: HPC Kubernetes Engineer Location: 100% Remote USA Client: Amazon / AWS Employment Type: Full-Time (FTE Only N...
+
+- [Kubernetes Service Engineer](https://www.adzuna.com/details/5929495994?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | US
+  - Kubernetes Service Engineer – Remote Bright Vision Technologies is a technology consulting and software development comp...
 
 - [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/details/5929151981?utm_medium=api&utm_source=632a28fd)
   - Company: CrowdStrike | Tarrytown, Travis County
   - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
-- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5929143206?se=jm31lT3K8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=D9D14349CA49048DEEAB5976C2FB45A963C7ECF4)
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/land/ad/5929143206?se=5J5qswnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=D9D14349CA49048DEEAB5976C2FB45A963C7ECF4)
   - Company: CrowdStrike | Concord, Merrimack County
   - USA - Remote Full time R29056 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
 
@@ -2711,7 +2327,7 @@ Total jobs (24h window): 680
   - Company: Bright Vision Technologies | Grover, Saint Louis County
   - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
 
-- [Senior Kubernetes / HPC Infrastructure Engineer](https://www.adzuna.com/land/ad/5927961083?se=jm31lT3K8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=29C8A7077D1B3B3C79ECAD142939EF7A51DE8A0B)
+- [Senior Kubernetes / HPC Infrastructure Engineer](https://www.adzuna.com/land/ad/5927961083?se=5J5qswnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=29C8A7077D1B3B3C79ECAD142939EF7A51DE8A0B)
   - Company: Georgia IT | US
   - Senior Kubernetes / HPC Infrastructure Engineer Location: Remote Experience: 10 years overall; 4 years Kubernetes at sca...
 
@@ -2719,6 +2335,154 @@ Total jobs (24h window): 680
   - Company: Bright Vision Technologies | Wildwood, Saint Louis County
   - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
 
-- [Platform Engineer](https://www.adzuna.com/land/ad/5917044277?se=jm31lT3K8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=D6754802A0AB7202225DAAC46A252D8D9DC3FECD)
+- [Senior Kubernetes Platform Engineer](https://www.adzuna.com/details/5926519758?utm_medium=api&utm_source=632a28fd)
+  - Company: Tekvivid | Texas, US
+  - Role: Senior Kubernetes Platform Engineer Location: Remote Experience: 5 Years Visa: USC/GC/GC EAD/H1/H4 No opt Rate: $5...
+
+- [Kubernetes Engineer](https://www.adzuna.com/details/5926513150?utm_medium=api&utm_source=632a28fd)
+  - Company: SFE | US
+  - Kubernetes Engineer Louisville, KY/ 100% Remote Hire Type: fulltime Salary Range: $120,000-$130,000 a year Must Have Tec...
+
+- [Quick Hire Kubernetes Engineer at 100% Remote](https://www.adzuna.com/details/5926512539?utm_medium=api&utm_source=632a28fd)
+  - Company: Okaya Inc | Louisville, Jefferson County
+  - Kubernetes Engineer 100% Remote Full Time Must Have Technical/Functional Skills Candidates must be certified in GKE and/...
+
+- [Quick Hire Kubernetes Engineer at 100% Remote](https://www.adzuna.com/land/ad/5926193526?se=5J5qswnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=858267E62E5A2572B96B1DCDF6A131F2B8B159AE)
+  - Company: Okaya Inc | Louisville, Jefferson County
+  - Kubernetes Engineer 100% Remote Full Time Must Have Technical/Functional Skills Candidates must be certified in GKE and/...
+
+- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/details/5922318829?utm_medium=api&utm_source=632a28fd)
+  - Company: Cognizant | Tarrytown, Travis County
+  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
+
+- [Kubernetes & OpenShift Engineer](https://www.adzuna.com/details/5921013904?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Lake Chesterfield, Saint Louis County
+  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
+
+- [Platform Engineer](https://www.adzuna.com/land/ad/5917044277?se=5J5qswnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=D6754802A0AB7202225DAAC46A252D8D9DC3FECD)
   - Company: GeorgiaTEK Systems Inc. | US
   - About the Role Platform Engineer - Kubernetes / Terraform / Azure Location – Remote Duration – 12 months Rate: DOE Respo...
+
+- [W2/1099 Contract | Senior EDB PostgreSQL / Kubernetes Engineer | Remote](https://www.adzuna.com/land/ad/5914209950?se=5J5qswnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=56A5A0E8B83AECC61D325BA682CAEA84312AEE1C)
+  - Company: Anagha Techno Soft | US
+  - Senior EDB PostgreSQL / Kubernetes Engineer | Contract | Remote Senior EDB PostgreSQL / Kubernetes Engineer Job Type: Co...
+
+- [Secops / Security Engineer](https://www.adzuna.com/land/ad/5906010952?se=5J5qswnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=7BC23433561234BEF56A3E6AE4AAD04208C11235)
+  - Company: Mindsource Inc | US
+  - Title: Sr. Security Engineer (Kubernetes) Location: 100% Remote Duration: Long term Type: Contract - W2 Experience : Min...
+
+- [Senior Cloud Engineer (Kubernetes / Helm / AWS)](https://www.adzuna.com/details/5899532264?utm_medium=api&utm_source=632a28fd)
+  - Company: ZipStaff | Austin, Travis County
+  - Job Title: Senior Cloud Engineer (Kubernetes / Helm / AWS) Location: Remote (U.S.; Austin, TX time zone preferred) Emplo...
+
+- [Sr. Software Engineer](https://www.adzuna.com/details/5899296872?utm_medium=api&utm_source=632a28fd)
+  - Company: SUSE RGS | Reston, Fairfax County
+  - Senior Software Engineer (Go & Kubernetes Expertise) Location: Remote COMPANY DESCRIPTION Rancher Government Solutions (...
+
+- [Sr. Software Engineer with Security Clearance](https://www.adzuna.com/land/ad/5897984660?se=5J5qswnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=7C88ED2CF479F891F19E32E83AC6D02997915F3D)
+  - Company: Rancher Government Solutions | Reston, Fairfax County
+  - Senior Software Engineer (Go & Kubernetes Expertise) Location: Remote COMPANY DESCRIPTION Rancher Government Solutions (...
+
+- [Senior Kubernetes Platforms System Engineer (Remote Eligible)](https://www.adzuna.com/details/5889914625?utm_medium=api&utm_source=632a28fd)
+  - Company: Oak Ridge National Laboratory | Oak Ridge, Anderson County
+  - Requisition Id 17120 Annual Salary Range:$$160,000.00 -$$175,000.00 Work-Site Type: Remote ORNL offers a flexible work e...
+
+- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872995538?se=5J5qswnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=90426E6859A5179261EB2CBEB1098B8A134ADDBF)
+  - Company: Cognizant | Ny State Campus, Albany County
+  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
+
+- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872971346?se=5J5qswnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=EB56E6E0203AE10FC722AF61B44C465E923CBCAE)
+  - Company: Cognizant | Five Points, Wake County
+  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
+
+- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872969234?se=5J5qswnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=9F359C81896608DE810D74B57DBBA50714F96A8C)
+  - Company: Cognizant | Atlanta, Fulton County
+  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
+
+- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872968769?se=5J5qswnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=95F84AD666561AFBCBB25F152A25EF9AD2B7D4AF)
+  - Company: Cognizant | Tumwater, Thurston County
+  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
+
+- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872965473?se=5J5qswnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=14A9BBC7DE59D4892DB5418450C17600FC700E93)
+  - Company: Cognizant | Grandview Heights, Franklin County
+  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
+
+- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872965178?se=5J5qswnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=514F6B07F5E89D7729A817EE0EFF25E44EAE6234)
+  - Company: Cognizant | Uptown, Marion County
+  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
+
+- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872964473?se=5J5qswnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=95FA2782E8F9C64FD59FB47AAC54242003BB6C41)
+  - Company: Cognizant | Edgewood, Richland County
+  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
+
+- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872964492?se=5J5qswnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=0AF7B0089DF2ECE00BDCF8B3C09ABBF8C9D55045)
+  - Company: Cognizant | Trenton, Mercer County
+  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
+
+- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872962180?se=5J5qswnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=1ABC5E8FCEFBE51108C94C8DEDCFD6F84704190A)
+  - Company: Cognizant | Salem, Marion County
+  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
+
+- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872959334?se=5J5qswnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=DB33D797D2A92B3FF38DFEEEAF20EB796A61309B)
+  - Company: Cognizant | Charleston, Kanawha County
+  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
+
+- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872958726?se=5J5qswnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=52D4046EB3E7340ACF913FA61FC5FF47663C3324)
+  - Company: Cognizant | State House, Lancaster County
+  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
+
+- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872958319?se=5J5qswnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=4FBB9EDAB45E7CC944653138E0D7FC0E8C36606A)
+  - Company: Cognizant | Washington, D.C., US
+  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
+
+- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872956723?se=5J5qswnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=FC50024C9EFF0610292AF72E13B9A90B356AE8BD)
+  - Company: Cognizant | Oklahoma City, Oklahoma County
+  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
+
+- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/details/5872954291?utm_medium=api&utm_source=632a28fd)
+  - Company: Cognizant | Springfield, Sangamon County
+  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
+
+- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872954251?se=5J5qswnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=84D6A918FCC65247260A090EB5774BAD89629EFD)
+  - Company: Cognizant | Bonnie, Utah County
+  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
+
+- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872953620?se=5J5qswnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=D342622FE54FDD97A4B90518261CBA31E3E3ACE5)
+  - Company: Cognizant | Cammack Village, Pulaski County
+  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
+
+- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872952731?se=5J5qswnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=6A895B30FD3B7597B682843241EC290DC6E983A5)
+  - Company: Cognizant | Phoenix, Maricopa County
+  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
+
+- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872952202?se=5J5qswnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=2A4B02C004D784BFDA553FD40D65607C9BD423BD)
+  - Company: Cognizant | Saint Paul, Ramsey County
+  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
+
+- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872951800?se=5J5qswnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=B4D0467A63655EACEF9F47368996E1B38025F907)
+  - Company: Cognizant | Carson Mall, Carson City
+  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
+
+- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872950731?se=5J5qswnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=DB68386CDEE997C3BD25AA45610B8A577797E311)
+  - Company: Cognizant | Frankfort, Franklin County
+  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
+
+- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872950646?se=5J5qswnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=FC91A2A6E873162DBC95DEB7F096757F3E177777)
+  - Company: Cognizant | Jackson, Hinds County
+  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
+
+- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872714009?se=5J5qswnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=C92AB85E0CDBFC74203FD7C9FD3973DD5A900295)
+  - Company: Cognizant | Providence, Providence County
+  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
+
+- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872712508?se=5J5qswnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=DFCDD35D0E696C864043F01AC65A1B60DD21B193)
+  - Company: Cognizant | Bismarck, Burleigh County
+  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
+
+- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872066782?se=5J5qswnL8RGjutuTSb6jOA&utm_medium=api&utm_source=632a28fd&v=18250F4A264CBD96D65ED121DFB67B1F05AE81A4)
+  - Company: Cognizant | Concord, Merrimack County
+  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
+
+- [Sr. Platform Engineer - Kubernetes (Remote)](https://www.adzuna.com/details/5762417765?utm_medium=api&utm_source=632a28fd)
+  - Company: CrowdStrike | US
+  - As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organ...
