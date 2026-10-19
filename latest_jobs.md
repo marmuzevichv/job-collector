@@ -1,6 +1,6 @@
 # New jobs
 
-Generated: 2026-10-18 15:24 UTC
+Generated: 2026-10-19 18:21 UTC
 
 Total new jobs: 84
 
@@ -98,6 +98,10 @@ Total new jobs: 84
   - Company: fivetran
   - Location: Remote
 
+- [Cloud Platform Engineer](https://job-boards.greenhouse.io/gitlab/jobs/8889193002)
+  - Company: gitlab
+  - Location: Remote
+
 - [Senior Backend Engineer (Ruby), Production Engineering:Tenant Controls](https://job-boards.greenhouse.io/gitlab/jobs/8867725002)
   - Company: gitlab
   - Location: Remote
@@ -115,10 +119,6 @@ Total new jobs: 84
   - Location: Remote
 
 - [Senior Release Engineer](https://job-boards.greenhouse.io/gitlab/jobs/8730125002)
-  - Company: gitlab
-  - Location: Remote
-
-- [Senior Site Reliability Engineer - Monitoring and Anomaly Detection (Monetization)](https://job-boards.greenhouse.io/gitlab/jobs/8615319002)
   - Company: gitlab
   - Location: Remote
 
@@ -154,11 +154,11 @@ Total new jobs: 84
   - Company: jetbrains
   - Location: Remote
 
-- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=8184637)
+- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=8259719)
   - Company: mongodb
   - Location: Remote
 
-- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=8259719)
+- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=8184637)
   - Company: mongodb
   - Location: Remote
 
@@ -167,10 +167,6 @@ Total new jobs: 84
   - Location: Remote
 
 - [Senior Site Reliability Engineer](https://www.mongodb.com/careers/job/?gh_jid=8051379)
-  - Company: mongodb
-  - Location: Remote
-
-- [Senior Site Reliability Engineer, Fabric](https://www.mongodb.com/careers/job/?gh_jid=7727920)
   - Company: mongodb
   - Location: Remote
 
@@ -218,15 +214,11 @@ Total new jobs: 84
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8242984?gh_jid=8242984)
-  - Company: okta
-  - Location: Remote
-
-- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8184824?gh_jid=8184824)
-  - Company: okta
-  - Location: Remote
-
 - [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8015032?gh_jid=8015032)
+  - Company: okta
+  - Location: Remote
+
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8242984?gh_jid=8242984)
   - Company: okta
   - Location: Remote
 
@@ -242,11 +234,11 @@ Total new jobs: 84
   - Company: okta
   - Location: Remote
 
-- [Senior Software Engineer - SRE](https://www.okta.com/company/careers/opportunity/8263918?gh_jid=8263918)
+- [Senior Software Engineer - SRE](https://www.okta.com/company/careers/opportunity/8263916?gh_jid=8263916)
   - Company: okta
   - Location: Remote
 
-- [Senior Software Engineer - SRE](https://www.okta.com/company/careers/opportunity/8263916?gh_jid=8263916)
+- [Senior Software Engineer - SRE](https://www.okta.com/company/careers/opportunity/8263918?gh_jid=8263918)
   - Company: okta
   - Location: Remote
 
@@ -272,6 +264,11 @@ Total new jobs: 84
 
 ## jobicy
 
+- [Infrastructure Engineer](https://jobicy.com/jobs/153599-infrastructure-engineer-3)
+  - Company: Bayesian Health
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
 - [Senior DevOps Engineer](https://jobicy.com/jobs/155494-senior-devops-engineer-9)
   - Company: Documo Inc.
   - Location: Anywhere
@@ -295,6 +292,11 @@ Total new jobs: 84
 - [Senior SRE, Managed Gateways](https://jobicy.com/jobs/155629-senior-sre-managed-gateways)
   - Company: Kong Inc.
   - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Site Reliability Engineer](https://jobicy.com/jobs/153549-site-reliability-engineer-3)
+  - Company: MaintainX
+  - Location: Canada
   - Level/Team: DevOps & Infrastructure
 
 - [Senior DevOps Engineer, Cloud Delivery](https://jobicy.com/jobs/155636-senior-devops-engineer-cloud-delivery)
