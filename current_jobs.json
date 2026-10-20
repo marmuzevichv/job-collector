@@ -15,6 +15,19 @@
   {
     "source_type": "greenhouse",
     "company": "anthropic",
+    "title": "IT Systems Engineer, Client Platform Engineer, ChromeOS",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456018008",
+    "external_id": "greenhouse::5456018008",
+    "description_snippet": "",
+    "posted_at": "2026-10-19T16:20:56-04:00",
+    "collected_at_utc": "2026-10-20 16:21:56"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "anthropic",
     "title": "IT Systems Engineer, Client Platform Engineer, macOS",
     "location": "",
     "team": "",
@@ -221,6 +234,21 @@
     "description_snippet": "",
     "posted_at": "2026-10-19T05:39:19-04:00",
     "collected_at_utc": "2026-10-19 18:20:46"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Discord",
+    "title": "QA/DevOps Engineer",
+    "location": "USA",
+    "team": "QA & Testing",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/155923-qa-devops-engineer",
+    "external_id": "jobicy::155923",
+    "description_snippet": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and mor",
+    "posted_at": "2026-10-19T17:09:55+00:00",
+    "collected_at_utc": "2026-10-20 16:21:56"
   },
   {
     "source_type": "jobicy",

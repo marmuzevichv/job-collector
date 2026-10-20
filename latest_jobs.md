@@ -1,12 +1,16 @@
 # New jobs
 
-Generated: 2026-10-19 18:21 UTC
+Generated: 2026-10-20 16:22 UTC
 
-Total new jobs: 84
+Total new jobs: 86
 
 ## greenhouse
 
 - [DevOps / AgentOps Engineer, GTM Systems](https://job-boards.greenhouse.io/anthropic/jobs/5392856008)
+  - Company: anthropic
+  - Location: Remote
+
+- [IT Systems Engineer, Client Platform Engineer, ChromeOS](https://job-boards.greenhouse.io/anthropic/jobs/5456018008)
   - Company: anthropic
   - Location: Remote
 
@@ -268,6 +272,11 @@ Total new jobs: 84
   - Company: Bayesian Health
   - Location: USA
   - Level/Team: DevOps & Infrastructure
+
+- [QA/DevOps Engineer](https://jobicy.com/jobs/155923-qa-devops-engineer)
+  - Company: Discord
+  - Location: USA
+  - Level/Team: QA & Testing
 
 - [Senior DevOps Engineer](https://jobicy.com/jobs/155494-senior-devops-engineer-9)
   - Company: Documo Inc.
