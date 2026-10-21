@@ -10,7 +10,7 @@
     "external_id": "greenhouse::5392856008",
     "description_snippet": "",
     "posted_at": "2026-09-28T12:03:20-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -22,8 +22,8 @@
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456018008",
     "external_id": "greenhouse::5456018008",
     "description_snippet": "",
-    "posted_at": "2026-10-19T16:20:56-04:00",
-    "collected_at_utc": "2026-10-20 16:21:56"
+    "posted_at": "2026-10-21T01:52:27-04:00",
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -36,7 +36,7 @@
     "external_id": "greenhouse::5445625008",
     "description_snippet": "",
     "posted_at": "2026-10-07T10:57:55-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -49,7 +49,7 @@
     "external_id": "greenhouse::5396384008",
     "description_snippet": "",
     "posted_at": "2026-08-24T17:20:13-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -62,7 +62,7 @@
     "external_id": "greenhouse::5364804008",
     "description_snippet": "",
     "posted_at": "2026-08-21T12:50:40-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -75,7 +75,7 @@
     "external_id": "greenhouse::4973067008",
     "description_snippet": "",
     "posted_at": "2026-09-17T19:17:22-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -88,7 +88,7 @@
     "external_id": "greenhouse::5206978008",
     "description_snippet": "",
     "posted_at": "2026-08-21T12:49:54-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -101,7 +101,22 @@
     "external_id": "greenhouse::5416709008",
     "description_snippet": "",
     "posted_at": "2026-09-21T16:00:16-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Astronomer",
+    "title": "Senior Software Engineer, Platform",
+    "location": "Ireland",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/156187-senior-software-engineer-platform-3",
+    "external_id": "jobicy::156187",
+    "description_snippet": "Astronomer empowers data teams to bring mission-critical software, analytics, and AI to life and is the company behind Astro, the industry-leading unified DataOps platform powered by Apache Airflow®. Astro accelerates building reliable data products that unlock insights, unleash AI value, and powers",
+    "posted_at": "2026-10-21T10:45:10+00:00",
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "jobicy",
@@ -116,7 +131,22 @@
     "external_id": "jobicy::153599",
     "description_snippet": "In Brief We’re a rapidly growing startup on a mission to make healthcare proactive by empowering physicians, nurses, and care team members with real-time data to save lives. You will build and maintain the infrastructure for the Bayesian platform and develop CI/CD to enable other team members such a",
     "posted_at": "2026-10-19T02:50:06+00:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "BetterHelp",
+    "title": "Senior DevOps Engineer",
+    "location": "USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/156049-senior-devops-engineer-11",
+    "external_id": "jobicy::156049",
+    "description_snippet": "Who are we and why should you join us? BetterHelp is on a mission to remove the traditional barriers to therapy and make mental health care more accessible to everyone. Founded in 2013, we are now the world’s largest online therapy service, providing affordable and convenient therapy across the glob",
+    "posted_at": "2026-10-20T19:01:17+00:00",
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "weworkremotely",
@@ -129,7 +159,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/beyondtrust-cloud-engineer",
     "description_snippet": "Headquarters: Remote Canada | Remote United States BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for",
     "posted_at": "Wed, 07 Oct 2026 07:30:53 +0000",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -142,7 +172,7 @@
     "external_id": "greenhouse::7334725",
     "description_snippet": "",
     "posted_at": "2026-08-05T18:23:33-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -155,7 +185,7 @@
     "external_id": "greenhouse::6177790",
     "description_snippet": "",
     "posted_at": "2026-08-05T18:23:33-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -168,7 +198,7 @@
     "external_id": "greenhouse::5517891",
     "description_snippet": "",
     "posted_at": "2026-10-09T11:13:09-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -181,7 +211,7 @@
     "external_id": "greenhouse::3029798",
     "description_snippet": "",
     "posted_at": "2026-08-05T18:23:33-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -194,7 +224,7 @@
     "external_id": "greenhouse::1747487",
     "description_snippet": "",
     "posted_at": "2026-08-05T18:23:33-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -207,7 +237,7 @@
     "external_id": "greenhouse::4468036",
     "description_snippet": "",
     "posted_at": "2026-08-05T18:23:33-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -220,7 +250,7 @@
     "external_id": "greenhouse::8256332",
     "description_snippet": "",
     "posted_at": "2026-10-19T05:39:19-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -233,7 +263,22 @@
     "external_id": "greenhouse::7629805",
     "description_snippet": "",
     "posted_at": "2026-10-19T05:39:19-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Cologix, Inc.",
+    "title": "IT Systems DevOps Engineer",
+    "location": "USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/156089-it-systems-devops-engineer",
+    "external_id": "jobicy::156089",
+    "description_snippet": "About Our Company: Headquartered in Denver, Colorado, Cologix is a leading North America network-neutral interconnection and hyperscale edge data center company. Our platform gives customers access to 45+ digital edge and Scalelogix℠ hyperscale edge data centers in 13 markets across the United State",
+    "posted_at": "2026-10-20T19:20:11+00:00",
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "jobicy",
@@ -248,22 +293,7 @@
     "external_id": "jobicy::155923",
     "description_snippet": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and mor",
     "posted_at": "2026-10-19T17:09:55+00:00",
-    "collected_at_utc": "2026-10-20 16:21:56"
-  },
-  {
-    "source_type": "jobicy",
-    "company": "Documo Inc.",
-    "title": "Senior DevOps Engineer",
-    "location": "Anywhere",
-    "team": "DevOps & Infrastructure",
-    "categories": [
-      "['Full-Time']"
-    ],
-    "url": "https://jobicy.com/jobs/155494-senior-devops-engineer-9",
-    "external_id": "jobicy::155494",
-    "description_snippet": "Documo is on a mission to help businesses digitize and streamline their document workflows. As a fast-growing B2B SaaS company, our platform makes it easier to handle unstructured files like faxes and forms through tools like Intelligent Document Processing - turning messy paperwork into structured,",
-    "posted_at": "2026-10-16T16:46:30+00:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -276,7 +306,7 @@
     "external_id": "greenhouse::8280094",
     "description_snippet": "",
     "posted_at": "2026-10-16T15:01:51-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -289,7 +319,7 @@
     "external_id": "greenhouse::8280093",
     "description_snippet": "",
     "posted_at": "2026-10-16T15:01:58-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "jobicy",
@@ -304,7 +334,7 @@
     "external_id": "jobicy::155574",
     "description_snippet": "At Dscout, we’re building the most flexible and powerful UX research platform on the market—trusted by the world’s top brands in finance (JP Morgan Chase, Intuit, Charles Schwab, PayPal), healthcare (Aya, Headspace), consumer goods (Keen, Verizon, Target, Northface), and tech (Google, Amazon, Facebo",
     "posted_at": "2026-10-17T07:48:29+00:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -317,7 +347,7 @@
     "external_id": "greenhouse::8166580",
     "description_snippet": "",
     "posted_at": "2026-10-01T12:57:36-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -330,7 +360,7 @@
     "external_id": "greenhouse::8053903",
     "description_snippet": "",
     "posted_at": "2026-10-12T11:05:21-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -343,7 +373,35 @@
     "external_id": "greenhouse::8207939",
     "description_snippet": "",
     "posted_at": "2026-10-01T12:57:36-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "fastly",
+    "title": "Global AV Events and Production Engineer",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://www.fastly.com/about/jobs/apply?gh_jid=8301586",
+    "external_id": "greenhouse::8301586",
+    "description_snippet": "",
+    "posted_at": "2026-10-20T17:21:47-04:00",
+    "collected_at_utc": "2026-10-21 16:37:44"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Fastly",
+    "title": "Senior SRE - Networks",
+    "location": "UK",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/153756-senior-sre-networks",
+    "external_id": "jobicy::153756",
+    "description_snippet": "Fastly helps people stay better connected with the things they love. Fastly’s edge cloud platform enables customers to create great digital experiences quickly, securely, and reliably by processing, serving, and securing our customers’ applications as close to their end-users as possible — at the ed",
+    "posted_at": "2026-10-21T03:15:17+00:00",
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -356,7 +414,7 @@
     "external_id": "greenhouse::8045052",
     "description_snippet": "",
     "posted_at": "2026-10-14T10:31:45-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "jobicy",
@@ -371,20 +429,7 @@
     "external_id": "jobicy::153466",
     "description_snippet": "Join us in bringing joy to customer experience. Five9 is a leading provider of cloud contact center software, bringing the power of cloud innovation to customers worldwide. Living our values everyday results in our team-first culture and enables us to innovate, grow, and thrive while enjoying the jo",
     "posted_at": "2026-10-17T04:10:22+00:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
-  },
-  {
-    "source_type": "greenhouse",
-    "company": "fivetran",
-    "title": "Senior Site Reliability Engineer",
-    "location": "",
-    "team": "",
-    "categories": [],
-    "url": "https://www.fivetran.com/careers/job?gh_jid=7814036003",
-    "external_id": "greenhouse::7814036003",
-    "description_snippet": "",
-    "posted_at": "2026-10-02T17:47:33-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -397,7 +442,20 @@
     "external_id": "greenhouse::8000571003",
     "description_snippet": "",
     "posted_at": "2026-10-02T17:47:37-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "fivetran",
+    "title": "Senior Site Reliability Engineer",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://www.fivetran.com/careers/job?gh_jid=7814036003",
+    "external_id": "greenhouse::7814036003",
+    "description_snippet": "",
+    "posted_at": "2026-10-02T17:47:33-04:00",
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "jobicy",
@@ -412,7 +470,7 @@
     "external_id": "jobicy::155361",
     "description_snippet": "A little about us…Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we’re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D fund",
     "posted_at": "2026-10-15T12:59:32+00:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -424,8 +482,8 @@
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8889193002",
     "external_id": "greenhouse::8889193002",
     "description_snippet": "",
-    "posted_at": "2026-10-19T13:15:54-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "posted_at": "2026-10-20T15:58:02-04:00",
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -438,7 +496,7 @@
     "external_id": "greenhouse::8867725002",
     "description_snippet": "",
     "posted_at": "2026-10-15T15:24:46-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -451,7 +509,7 @@
     "external_id": "greenhouse::8689243002",
     "description_snippet": "",
     "posted_at": "2026-10-15T15:24:46-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -464,7 +522,7 @@
     "external_id": "greenhouse::8687958002",
     "description_snippet": "",
     "posted_at": "2026-10-15T15:24:46-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -477,7 +535,7 @@
     "external_id": "greenhouse::8871406002",
     "description_snippet": "",
     "posted_at": "2026-10-15T15:24:46-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -490,20 +548,7 @@
     "external_id": "greenhouse::8730125002",
     "description_snippet": "",
     "posted_at": "2026-10-15T15:24:46-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
-  },
-  {
-    "source_type": "greenhouse",
-    "company": "gitlab",
-    "title": "Site Reliability Engineer, Cells Infrastructure",
-    "location": "",
-    "team": "",
-    "categories": [],
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8867756002",
-    "external_id": "greenhouse::8867756002",
-    "description_snippet": "",
-    "posted_at": "2026-10-15T15:24:46-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -516,7 +561,7 @@
     "external_id": "greenhouse::8623389002",
     "description_snippet": "",
     "posted_at": "2026-10-15T15:24:46-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -529,7 +574,7 @@
     "external_id": "greenhouse::8773546002",
     "description_snippet": "",
     "posted_at": "2026-10-15T15:24:46-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -542,7 +587,7 @@
     "external_id": "greenhouse::4867022101",
     "description_snippet": "",
     "posted_at": "2026-09-29T12:04:06-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -555,7 +600,7 @@
     "external_id": "greenhouse::4795218101",
     "description_snippet": "",
     "posted_at": "2026-10-06T06:39:20-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -568,7 +613,7 @@
     "external_id": "greenhouse::4777935101",
     "description_snippet": "",
     "posted_at": "2026-10-06T07:10:53-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -581,7 +626,7 @@
     "external_id": "greenhouse::4966818101",
     "description_snippet": "",
     "posted_at": "2026-10-09T09:36:39-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -594,7 +639,7 @@
     "external_id": "greenhouse::4961618101",
     "description_snippet": "",
     "posted_at": "2026-09-09T08:28:52-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "jobicy",
@@ -609,7 +654,7 @@
     "external_id": "jobicy::155629",
     "description_snippet": "Are you ready to unlock intelligence? If you don’t think you meet all of the criteria below but are still interested in the job, please apply. Nobody checks every box - we’re looking for candidates that are particularly strong in a few areas, and have some interest and capabilities in others. Senior",
     "posted_at": "2026-10-18T04:30:43+00:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "remoteok",
@@ -641,7 +686,7 @@
     "external_id": "remoteok::1137062",
     "description_snippet": "Desarrollador/a Full Stack â Python / Angular / Go En Rekluti , consultora especializada en talento tecnolÃ³gico en LATAM, buscamos un/a Desarrollador/a Full Stack para integrarse a proyectos de alta complejidad y participar en el desarrollo de soluciones web escalables. Buscamos un perfil con sÃ³",
     "posted_at": "2026-08-22T00:00:12+00:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "jobicy",
@@ -656,7 +701,7 @@
     "external_id": "jobicy::153549",
     "description_snippet": "MaintainX is a leading mobile-first work execution platform for industrial and frontline teams. More than 13,000 customers, including Duracell, McDonald's, Shell, DHL and Volvo, use MaintainX to cut unplanned downtime and run better operations, across 13.9 million managed assets and 79.5 million com",
     "posted_at": "2026-10-19T02:40:05+00:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "lever",
@@ -671,7 +716,7 @@
     "external_id": "lever::1b702919-4d0b-4085-baec-8947f9b7e4ee",
     "description_snippet": "Metabase is the easiest way for people to get insights from their data, from tiny startups who get up and running quickly to major corporations with tens of thousands of users. That's why people love us. We bring data tools with the elegance and simplicity of consumer products to the crufty world of",
     "posted_at": "1589224005614",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -684,7 +729,7 @@
     "external_id": "greenhouse::8259719",
     "description_snippet": "",
     "posted_at": "2026-10-16T17:59:16-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -697,7 +742,7 @@
     "external_id": "greenhouse::8184637",
     "description_snippet": "",
     "posted_at": "2026-10-16T17:59:16-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -710,7 +755,7 @@
     "external_id": "greenhouse::8071475",
     "description_snippet": "",
     "posted_at": "2026-10-16T17:59:16-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -723,7 +768,7 @@
     "external_id": "greenhouse::8051379",
     "description_snippet": "",
     "posted_at": "2026-10-16T17:59:16-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -736,7 +781,7 @@
     "external_id": "greenhouse::7727873",
     "description_snippet": "",
     "posted_at": "2026-10-16T17:59:16-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -749,7 +794,7 @@
     "external_id": "greenhouse::7668289",
     "description_snippet": "",
     "posted_at": "2026-10-16T17:59:16-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -762,7 +807,7 @@
     "external_id": "greenhouse::8274765",
     "description_snippet": "",
     "posted_at": "2026-10-16T17:59:16-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -775,20 +820,7 @@
     "external_id": "greenhouse::7727964",
     "description_snippet": "",
     "posted_at": "2026-10-16T17:59:16-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
-  },
-  {
-    "source_type": "greenhouse",
-    "company": "mongodb",
-    "title": "Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)",
-    "location": "",
-    "team": "",
-    "categories": [],
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=7743366",
-    "external_id": "greenhouse::7743366",
-    "description_snippet": "",
-    "posted_at": "2026-10-16T17:59:16-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -801,7 +833,20 @@
     "external_id": "greenhouse::7793634",
     "description_snippet": "",
     "posted_at": "2026-10-16T17:59:16-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "mongodb",
+    "title": "Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7743366",
+    "external_id": "greenhouse::7743366",
+    "description_snippet": "",
+    "posted_at": "2026-10-16T17:59:16-04:00",
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -814,7 +859,7 @@
     "external_id": "greenhouse::6984814",
     "description_snippet": "",
     "posted_at": "2026-10-16T17:59:16-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -827,7 +872,7 @@
     "external_id": "greenhouse::7821316",
     "description_snippet": "",
     "posted_at": "2026-10-19T00:38:22-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "jobicy",
@@ -842,7 +887,7 @@
     "external_id": "jobicy::155636",
     "description_snippet": "NetBox Labs is seeking a Senior DevOps Engineer to join our Cloud Delivery team. Cloud Delivery owns the infrastructure and platform that powers NetBox Cloud, our managed SaaS product. We run multi-tenant EKS clusters on AWS, operate the deployment and provisioning systems that serve thousands of cu",
     "posted_at": "2026-10-18T04:30:44+00:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -855,7 +900,7 @@
     "external_id": "greenhouse::5453390008",
     "description_snippet": "",
     "posted_at": "2026-10-19T13:22:14-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -868,7 +913,7 @@
     "external_id": "greenhouse::7617976",
     "description_snippet": "",
     "posted_at": "2026-09-21T12:43:00-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -881,7 +926,7 @@
     "external_id": "greenhouse::8286405",
     "description_snippet": "",
     "posted_at": "2026-10-16T14:58:34-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -894,7 +939,7 @@
     "external_id": "greenhouse::8015032",
     "description_snippet": "",
     "posted_at": "2026-09-28T04:14:49-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -907,7 +952,7 @@
     "external_id": "greenhouse::8242984",
     "description_snippet": "",
     "posted_at": "2026-10-01T01:47:26-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -920,7 +965,7 @@
     "external_id": "greenhouse::7418982",
     "description_snippet": "",
     "posted_at": "2026-10-05T10:32:04-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -933,7 +978,7 @@
     "external_id": "greenhouse::8255904",
     "description_snippet": "",
     "posted_at": "2026-10-06T06:10:06-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -946,20 +991,7 @@
     "external_id": "greenhouse::8268917",
     "description_snippet": "",
     "posted_at": "2026-10-12T16:08:40-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
-  },
-  {
-    "source_type": "greenhouse",
-    "company": "okta",
-    "title": "Senior Software Engineer - SRE",
-    "location": "",
-    "team": "",
-    "categories": [],
-    "url": "https://www.okta.com/company/careers/opportunity/8263916?gh_jid=8263916",
-    "external_id": "greenhouse::8263916",
-    "description_snippet": "",
-    "posted_at": "2026-10-14T23:48:26-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -972,7 +1004,20 @@
     "external_id": "greenhouse::8263918",
     "description_snippet": "",
     "posted_at": "2026-10-13T03:55:01-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "okta",
+    "title": "Senior Software Engineer - SRE",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://www.okta.com/company/careers/opportunity/8263916?gh_jid=8263916",
+    "external_id": "greenhouse::8263916",
+    "description_snippet": "",
+    "posted_at": "2026-10-14T23:48:26-04:00",
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -985,20 +1030,7 @@
     "external_id": "greenhouse::8082028",
     "description_snippet": "",
     "posted_at": "2026-09-21T12:43:00-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
-  },
-  {
-    "source_type": "greenhouse",
-    "company": "okta",
-    "title": "Site Reliability Engineer",
-    "location": "",
-    "team": "",
-    "categories": [],
-    "url": "https://www.okta.com/company/careers/opportunity/8243101?gh_jid=8243101",
-    "external_id": "greenhouse::8243101",
-    "description_snippet": "",
-    "posted_at": "2026-10-06T03:04:07-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -1011,7 +1043,20 @@
     "external_id": "greenhouse::7782550",
     "description_snippet": "",
     "posted_at": "2026-10-02T16:08:26-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "rubrik",
+    "title": "Senior AI API Platform Engineer",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://www.rubrik.com/company/careers/departments/job.8273808?gh_jid=8273808",
+    "external_id": "greenhouse::8273808",
+    "description_snippet": "",
+    "posted_at": "2026-10-21T08:26:49-04:00",
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -1024,7 +1069,7 @@
     "external_id": "greenhouse::8209928",
     "description_snippet": "",
     "posted_at": "2026-10-14T23:23:53-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "jobicy",
@@ -1039,7 +1084,7 @@
     "external_id": "jobicy::155657",
     "description_snippet": "Job Title: Senior Software Engineer - SRE Location:Mexico, Remote This is a fully remote opportunity and can be worked from any location in Mexico. Candidates must be based in Mexico and be able to travel to the office in Guadalajara as needed. ABOUT THE COMPANY: Salesloft is building the next era o",
     "posted_at": "2026-10-18T06:51:45+00:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "jobicy",
@@ -1054,22 +1099,7 @@
     "external_id": "jobicy::146254",
     "description_snippet": "This is a remote position. We are seeking an experienced Atlassian Administrator to manage, optimize, and continuously improve our Atlassian Cloud ecosystem. This role will be responsible for the administration, configuration, customization, and support of Jira Software, Confluence, and Jira Service",
     "posted_at": "2026-10-18T03:50:32+00:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
-  },
-  {
-    "source_type": "jobicy",
-    "company": "Solace",
-    "title": "Senior Platform Engineer",
-    "location": "USA",
-    "team": "DevOps & Infrastructure",
-    "categories": [
-      "['Full-Time']"
-    ],
-    "url": "https://jobicy.com/jobs/155202-senior-platform-engineer-4",
-    "external_id": "jobicy::155202",
-    "description_snippet": "About Solace Healthcare in the U.S. is fundamentally broken. The system is so complex that 88% of U.S. adults do not have the health literacy necessary to navigate it without help. Solace cuts through the red tape of healthcare by pairing patients with expert advocates and giving them the tools to m",
-    "posted_at": "2026-10-13T09:48:22+00:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "lever",
@@ -1084,7 +1114,7 @@
     "external_id": "lever::83cc47d4-e93e-4ce3-b440-185839cddaa1",
     "description_snippet": "Sonatype is the software supply chain security company. We provide the world’s best end-to-end software supply chain security solution, combining the only proactive protection against malicious open source, the only enterprise grade SBOM management and the leading open source dependency management p",
     "posted_at": "1784663482841",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "greenhouse",
@@ -1097,7 +1127,7 @@
     "external_id": "greenhouse::5416975008",
     "description_snippet": "",
     "posted_at": "2026-09-28T11:23:19-04:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "jobicy",
@@ -1112,7 +1142,7 @@
     "external_id": "jobicy::153326",
     "description_snippet": "Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. We're looking for an engineer to own t",
     "posted_at": "2026-10-16T02:50:17+00:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "jobicy",
@@ -1127,22 +1157,7 @@
     "external_id": "jobicy::155389",
     "description_snippet": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We are s",
     "posted_at": "2026-10-15T13:33:52+00:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
-  },
-  {
-    "source_type": "jobicy",
-    "company": "Supabase",
-    "title": "Postgres Deployment Engineer (Nix)",
-    "location": "Anywhere",
-    "team": "DevOps & Infrastructure",
-    "categories": [
-      "['Full-Time']"
-    ],
-    "url": "https://jobicy.com/jobs/153446-postgres-deployment-engineer-nix",
-    "external_id": "jobicy::153446",
-    "description_snippet": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We’re lo",
-    "posted_at": "2026-10-17T04:15:04+00:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "jobicy",
@@ -1157,7 +1172,7 @@
     "external_id": "jobicy::155391",
     "description_snippet": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role Supabase",
     "posted_at": "2026-10-15T13:33:55+00:00",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
   },
   {
     "source_type": "weworkremotely",
@@ -1170,6 +1185,21 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/thehivecareers-co-devops-engineer-remote",
     "description_snippet": "Headquarters: Bridgetown, Saint Michael, Barbados URL: http://thehivecareers.co Job brief The ideal candidate will guide DevOps teams on speed of delivery, improving quality/security of code, and optimizing processes. Job Level: Full-Time/Remote Location: Barbados Key Responsibilities Mentors and co",
     "posted_at": "Fri, 25 Sep 2026 00:33:21 +0000",
-    "collected_at_utc": "2026-10-19 18:20:46"
+    "collected_at_utc": "2026-10-21 16:37:44"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Upstart",
+    "title": "DevOps Engineer II, Cloud Platform",
+    "location": "Canada,  USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/155985-devops-engineer-ii-cloud-platform",
+    "external_id": "jobicy::155985",
+    "description_snippet": "About Upstart At Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape access to credit, helping millions move forward financially with clarity and confi",
+    "posted_at": "2026-10-20T15:21:46+00:00",
+    "collected_at_utc": "2026-10-21 16:37:44"
   }
 ]
