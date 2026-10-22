@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-10-21 16:38 UTC
+Generated: 2026-10-22 16:40 UTC
 
-Total new jobs: 88
+Total new jobs: 86
 
 ## greenhouse
 
@@ -70,11 +70,11 @@ Total new jobs: 88
   - Company: cloudflare
   - Location: Remote
 
-- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280094?gh_jid=8280094)
+- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280093?gh_jid=8280093)
   - Company: dropbox
   - Location: Remote
 
-- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280093?gh_jid=8280093)
+- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280094?gh_jid=8280094)
   - Company: dropbox
   - Location: Remote
 
@@ -96,10 +96,6 @@ Total new jobs: 88
 
 - [Senior SRE - Networks](https://www.fastly.com/about/jobs/apply?gh_jid=8045052)
   - Company: fastly
-  - Location: Remote
-
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=8000571003)
-  - Company: fivetran
   - Location: Remote
 
 - [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7814036003)
@@ -158,10 +154,6 @@ Total new jobs: 88
   - Company: jetbrains
   - Location: Remote
 
-- [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=8259719)
-  - Company: mongodb
-  - Location: Remote
-
 - [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=8184637)
   - Company: mongodb
   - Location: Remote
@@ -206,7 +198,7 @@ Total new jobs: 88
   - Company: mongodb
   - Location: Remote
 
-- [Associate IT Infrastructure Engineer](https://job-boards.greenhouse.io/newrelic/jobs/5453390008)
+- [Associate IT infrastructure Engineer](https://job-boards.greenhouse.io/newrelic/jobs/5453394008)
   - Company: newrelic
   - Location: Remote
 
@@ -283,6 +275,16 @@ Total new jobs: 88
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
+- [Sr. IT Systems Engineer](https://jobicy.com/jobs/156214-sr-it-systems-engineer-2)
+  - Company: Carrot
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [GTM DevOps Engineer](https://jobicy.com/jobs/156285-gtm-devops-engineer)
+  - Company: ClickUp
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
 - [IT Systems DevOps Engineer](https://jobicy.com/jobs/156089-it-systems-devops-engineer)
   - Company: Cologix, Inc.
   - Location: USA
@@ -298,19 +300,14 @@ Total new jobs: 88
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
+- [IT Engineer](https://jobicy.com/jobs/155006-it-engineer-2)
+  - Company: Elevenlabs
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
 - [Senior SRE - Networks](https://jobicy.com/jobs/153756-senior-sre-networks)
   - Company: Fastly
   - Location: UK
-  - Level/Team: DevOps & Infrastructure
-
-- [Senior DevOps Engineer - Storage Platforms](https://jobicy.com/jobs/153466-senior-devops-engineer-storage-platforms)
-  - Company: Five9
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
-- [Senior Platform Engineer](https://jobicy.com/jobs/155361-senior-platform-engineer-5)
-  - Company: Fleetio
-  - Location: USA
   - Level/Team: DevOps & Infrastructure
 
 - [Senior SRE, Managed Gateways](https://jobicy.com/jobs/155629-senior-sre-managed-gateways)
@@ -328,34 +325,34 @@ Total new jobs: 88
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
+- [Senior Platform Engineer - US Remote](https://jobicy.com/jobs/156231-senior-platform-engineer-us-remote)
+  - Company: PerfectServe
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
 - [Senior Software Engineer - SRE](https://jobicy.com/jobs/155657-senior-software-engineer-sre)
   - Company: Salesloft
   - Location: Mexico
   - Level/Team: DevOps & Infrastructure
 
-- [Atlassian Administrator 1726](https://jobicy.com/jobs/146254-atlassian-administrator-1726)
-  - Company: Softgic
-  - Location: Anywhere
-  - Level/Team: DevOps & Infrastructure
-
-- [Multigres Deployment Engineer](https://jobicy.com/jobs/153326-multigres-deployment-engineer)
-  - Company: Supabase
-  - Location: Anywhere
-  - Level/Team: DevOps & Infrastructure
-
-- [Platform Engineer, Managed Postgres](https://jobicy.com/jobs/155389-platform-engineer-managed-postgres)
-  - Company: Supabase
-  - Location: Anywhere
-  - Level/Team: DevOps & Infrastructure
-
-- [Site Reliability Engineer](https://jobicy.com/jobs/155391-site-reliability-engineer-4)
-  - Company: Supabase
-  - Location: Anywhere
-  - Level/Team: DevOps & Infrastructure
-
 - [DevOps Engineer II, Cloud Platform](https://jobicy.com/jobs/155985-devops-engineer-ii-cloud-platform)
   - Company: Upstart
   - Location: Canada,  USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Linux Systems Administrator](https://jobicy.com/jobs/156341-linux-systems-administrator)
+  - Company: Vultr
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [RMA Systems Engineer](https://jobicy.com/jobs/156342-rma-systems-engineer)
+  - Company: Vultr
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Senior Linux System Administrator](https://jobicy.com/jobs/156326-senior-linux-system-administrator)
+  - Company: Vultr
+  - Location: USA
   - Level/Team: DevOps & Infrastructure
 
 ## lever
@@ -377,10 +374,6 @@ Total new jobs: 88
   - Location: Worldwide
 
 ## weworkremotely
-
-- [Cloud Engineer](https://weworkremotely.com/remote-jobs/beyondtrust-cloud-engineer)
-  - Company: BeyondTrust
-  - Location: Remote
 
 - [DevOps Engineer (Remote)](https://weworkremotely.com/remote-jobs/thehivecareers-co-devops-engineer-remote)
   - Company: thehivecareers.co
