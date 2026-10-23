@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-10-22 16:40 UTC
+Generated: 2026-10-23 16:30 UTC
 
-Total new jobs: 86
+Total new jobs: 95
 
 ## greenhouse
 
@@ -60,6 +60,10 @@ Total new jobs: 86
 
 - [Site Reliability Engineer](https://job-boards.greenhouse.io/canonical/jobs/4468036)
   - Company: canonical
+  - Location: Remote
+
+- [Senior Customer Reliability Engineer](https://boards.greenhouse.io/cloudflare/jobs/8018536?gh_jid=8018536)
+  - Company: cloudflare
   - Location: Remote
 
 - [Senior Forward Deployed Infrastructure Engineer](https://boards.greenhouse.io/cloudflare/jobs/8256332?gh_jid=8256332)
@@ -275,6 +279,11 @@ Total new jobs: 86
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
+- [Senior IT Operations Engineer](https://jobicy.com/jobs/156467-senior-it-operations-engineer-2)
+  - Company: BigID
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
 - [Sr. IT Systems Engineer](https://jobicy.com/jobs/156214-sr-it-systems-engineer-2)
   - Company: Carrot
   - Location: USA
@@ -325,6 +334,11 @@ Total new jobs: 86
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
+- [Senior DevOps/SRE Engineer](https://jobicy.com/jobs/156491-senior-devops-sre-engineer)
+  - Company: Oddball
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
 - [Senior Platform Engineer - US Remote](https://jobicy.com/jobs/156231-senior-platform-engineer-us-remote)
   - Company: PerfectServe
   - Location: USA
@@ -333,6 +347,21 @@ Total new jobs: 86
 - [Senior Software Engineer - SRE](https://jobicy.com/jobs/155657-senior-software-engineer-sre)
   - Company: Salesloft
   - Location: Mexico
+  - Level/Team: DevOps & Infrastructure
+
+- [Cloud Platform Engineer](https://jobicy.com/jobs/156583-cloud-platform-engineer)
+  - Company: Supabase
+  - Location: Anywhere
+  - Level/Team: DevOps & Infrastructure
+
+- [Release Engineer](https://jobicy.com/jobs/156579-release-engineer)
+  - Company: Supabase
+  - Location: Anywhere
+  - Level/Team: DevOps & Infrastructure
+
+- [Software Engineer, AI/ML Infrastructure (US-Based)](https://jobicy.com/jobs/156483-software-engineer-ai-ml-infrastructure-us-based)
+  - Company: Thumbtack
+  - Location: USA
   - Level/Team: DevOps & Infrastructure
 
 - [DevOps Engineer II, Cloud Platform](https://jobicy.com/jobs/155985-devops-engineer-ii-cloud-platform)
@@ -355,6 +384,11 @@ Total new jobs: 86
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
+- [Sr. Engineer, Database Reliability](https://jobicy.com/jobs/156564-sr-engineer-database-reliability)
+  - Company: Zapier
+  - Location: EMEA,  Canada,  USA
+  - Level/Team: DevOps & Infrastructure
+
 ## lever
 
 - [Senior SRE/DevOps Engineer](https://jobs.lever.co/metabase/1b702919-4d0b-4085-baec-8947f9b7e4ee)
@@ -373,7 +407,15 @@ Total new jobs: 86
   - Company: Kruger NearShore LLC - Rekluti
   - Location: Worldwide
 
+- [Senior DevOps Engineer](https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557)
+  - Company: Lemon.io
+  - Location: Worldwide
+
 ## weworkremotely
+
+- [QA/DevOps Engineer](https://weworkremotely.com/remote-jobs/discord-qa-devops-engineer)
+  - Company: Discord
+  - Location: Remote
 
 - [DevOps Engineer (Remote)](https://weworkremotely.com/remote-jobs/thehivecareers-co-devops-engineer-remote)
   - Company: thehivecareers.co

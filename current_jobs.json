@@ -149,6 +149,21 @@
     "collected_at_utc": "2026-10-22 16:39:01"
   },
   {
+    "source_type": "jobicy",
+    "company": "BigID",
+    "title": "Senior IT Operations Engineer",
+    "location": "USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/156467-senior-it-operations-engineer-2",
+    "external_id": "jobicy::156467",
+    "description_snippet": "Who we are: BigID is an innovative tech startup that focuses on solutions for data security, compliance, privacy, and AI data management. We're leading the market in all things data: helping our customers reduce risk, drive business innovation, achieve compliance, build customer trust, make better d",
+    "posted_at": "2026-10-22T20:38:09+00:00",
+    "collected_at_utc": "2026-10-23 16:28:48"
+  },
+  {
     "source_type": "greenhouse",
     "company": "canonical",
     "title": "Kernel Build Automation Engineer - Ubuntu Linux",
@@ -259,6 +274,19 @@
   {
     "source_type": "greenhouse",
     "company": "cloudflare",
+    "title": "Senior Customer Reliability Engineer",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8018536?gh_jid=8018536",
+    "external_id": "greenhouse::8018536",
+    "description_snippet": "",
+    "posted_at": "2026-10-23T05:10:38-04:00",
+    "collected_at_utc": "2026-10-23 16:28:48"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "cloudflare",
     "title": "Senior Forward Deployed Infrastructure Engineer",
     "location": "",
     "team": "",
@@ -311,6 +339,19 @@
     "description_snippet": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and mor",
     "posted_at": "2026-10-19T17:09:55+00:00",
     "collected_at_utc": "2026-10-22 16:39:01"
+  },
+  {
+    "source_type": "weworkremotely",
+    "company": "Discord",
+    "title": "QA/DevOps Engineer",
+    "location": "Remote",
+    "team": "",
+    "categories": [],
+    "url": "https://weworkremotely.com/remote-jobs/discord-qa-devops-engineer",
+    "external_id": "wwr::https://weworkremotely.com/remote-jobs/discord-qa-devops-engineer",
+    "description_snippet": "Headquarters: San Francisco Bay Area or Remote (U.S.) Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of ",
+    "posted_at": "Fri, 23 Oct 2026 07:31:21 +0000",
+    "collected_at_utc": "2026-10-23 16:28:48"
   },
   {
     "source_type": "greenhouse",
@@ -678,6 +719,36 @@
     "collected_at_utc": "2026-10-22 16:39:01"
   },
   {
+    "source_type": "remoteok",
+    "company": "Lemon.io",
+    "title": "Senior DevOps Engineer",
+    "location": "Worldwide",
+    "team": "",
+    "categories": [
+      "devops",
+      "engineer",
+      "dev",
+      "python",
+      "golang",
+      "aws",
+      "gcp",
+      "kubernetes",
+      "sql",
+      "linux",
+      "ansible",
+      "ai",
+      "full time",
+      "full stack",
+      "remote",
+      "remote work"
+    ],
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557",
+    "external_id": "remoteok::1137557",
+    "description_snippet": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. Weâve been doing this since 2015, and more than 1,500 companies have hired engineers through us. New roles for Senior DevOps Engineers come in all the time, a",
+    "posted_at": "2026-10-22T12:58:28+00:00",
+    "collected_at_utc": "2026-10-23 16:28:48"
+  },
+  {
     "source_type": "jobicy",
     "company": "MaintainX",
     "title": "Site Reliability Engineer",
@@ -877,6 +948,21 @@
     "description_snippet": "",
     "posted_at": "2026-10-21T15:13:52-04:00",
     "collected_at_utc": "2026-10-22 16:39:01"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Oddball",
+    "title": "Senior DevOps/SRE Engineer",
+    "location": "USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/156491-senior-devops-sre-engineer",
+    "external_id": "jobicy::156491",
+    "description_snippet": "Oddball believes that the best products are built when companies understand and value the things they are working on. We value learning and growth and the ability to make a big impact at a small company. We believe that we can make big changes happen and improve the daily lives of millions of people",
+    "posted_at": "2026-10-23T06:19:33+00:00",
+    "collected_at_utc": "2026-10-23 16:28:48"
   },
   {
     "source_type": "greenhouse",
@@ -1106,6 +1192,36 @@
     "collected_at_utc": "2026-10-22 16:39:01"
   },
   {
+    "source_type": "jobicy",
+    "company": "Supabase",
+    "title": "Cloud Platform Engineer",
+    "location": "Anywhere",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/156583-cloud-platform-engineer",
+    "external_id": "jobicy::156583",
+    "description_snippet": "About the Role As a Cloud Platform Engineer at Supabase, you’ll join Cloud Engineering, part of Engineering Operations, and shape the foundations that let engineering teams build, ship, and operate infrastructure safely and independently across AWS and GCP. This is a role spanning cloud governance, ",
+    "posted_at": "2026-10-23T09:26:37+00:00",
+    "collected_at_utc": "2026-10-23 16:28:48"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Supabase",
+    "title": "Release Engineer",
+    "location": "Anywhere",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/156579-release-engineer",
+    "external_id": "jobicy::156579",
+    "description_snippet": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We're lo",
+    "posted_at": "2026-10-23T09:26:37+00:00",
+    "collected_at_utc": "2026-10-23 16:28:48"
+  },
+  {
     "source_type": "weworkremotely",
     "company": "thehivecareers.co",
     "title": "DevOps Engineer (Remote)",
@@ -1117,6 +1233,21 @@
     "description_snippet": "Headquarters: Bridgetown, Saint Michael, Barbados URL: http://thehivecareers.co Job brief The ideal candidate will guide DevOps teams on speed of delivery, improving quality/security of code, and optimizing processes. Job Level: Full-Time/Remote Location: Barbados Key Responsibilities Mentors and co",
     "posted_at": "Fri, 25 Sep 2026 00:33:21 +0000",
     "collected_at_utc": "2026-10-22 16:39:01"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Thumbtack",
+    "title": "Software Engineer, AI/ML Infrastructure (US-Based)",
+    "location": "USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/156483-software-engineer-ai-ml-infrastructure-us-based",
+    "external_id": "jobicy::156483",
+    "description_snippet": "Thumbtack helps millions of people confidently care for their homes. Thumbtack is the one app you need to take care of and improve your home — from personalized guidance to AI tools and a best-in-class hiring experience. Every day in every county of the U.S., people turn to Thumbtack to complete urg",
+    "posted_at": "2026-10-23T06:17:35+00:00",
+    "collected_at_utc": "2026-10-23 16:28:48"
   },
   {
     "source_type": "jobicy",
@@ -1177,5 +1308,20 @@
     "description_snippet": "Who We Are Vultr is on a mission to make high-performance cloud infrastructure easy to use, affordable, and locally accessible for enterprises and AI innovators around the world. With 33 global cloud data center locations, Vultr is trusted by hundreds of thousands of active customers across 185 coun",
     "posted_at": "2026-10-22T09:29:40+00:00",
     "collected_at_utc": "2026-10-22 16:39:01"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Zapier",
+    "title": "Sr. Engineer, Database Reliability",
+    "location": "EMEA,  Canada,  USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/156564-sr-engineer-database-reliability",
+    "external_id": "jobicy::156564",
+    "description_snippet": "AI at Zapier At Zapier, we build and use automation every day to make work more efficient, creative, and human. So if you’re using AI tools while applying here - that’s great! We just ask that you use them responsibly and transparently. Check out our guidance on How to Collaborate with AI During Zap",
+    "posted_at": "2026-10-23T09:15:42+00:00",
+    "collected_at_utc": "2026-10-23 16:28:48"
   }
 ]

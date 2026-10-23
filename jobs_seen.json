@@ -514,5 +514,59 @@
     "title": "Senior Test Automation Engineer (TeamCity)",
     "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4961618101",
     "first_seen_utc": "2026-10-22 16:39:01"
+  },
+  "remoteok::1137557": {
+    "company": "Lemon.io",
+    "title": "Senior DevOps Engineer",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557",
+    "first_seen_utc": "2026-10-23 16:28:48"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/discord-qa-devops-engineer": {
+    "company": "Discord",
+    "title": "QA/DevOps Engineer",
+    "url": "https://weworkremotely.com/remote-jobs/discord-qa-devops-engineer",
+    "first_seen_utc": "2026-10-23 16:28:48"
+  },
+  "jobicy::156491": {
+    "company": "Oddball",
+    "title": "Senior DevOps/SRE Engineer",
+    "url": "https://jobicy.com/jobs/156491-senior-devops-sre-engineer",
+    "first_seen_utc": "2026-10-23 16:28:48"
+  },
+  "jobicy::156467": {
+    "company": "BigID",
+    "title": "Senior IT Operations Engineer",
+    "url": "https://jobicy.com/jobs/156467-senior-it-operations-engineer-2",
+    "first_seen_utc": "2026-10-23 16:28:48"
+  },
+  "jobicy::156579": {
+    "company": "Supabase",
+    "title": "Release Engineer",
+    "url": "https://jobicy.com/jobs/156579-release-engineer",
+    "first_seen_utc": "2026-10-23 16:28:48"
+  },
+  "jobicy::156564": {
+    "company": "Zapier",
+    "title": "Sr. Engineer, Database Reliability",
+    "url": "https://jobicy.com/jobs/156564-sr-engineer-database-reliability",
+    "first_seen_utc": "2026-10-23 16:28:48"
+  },
+  "jobicy::156583": {
+    "company": "Supabase",
+    "title": "Cloud Platform Engineer",
+    "url": "https://jobicy.com/jobs/156583-cloud-platform-engineer",
+    "first_seen_utc": "2026-10-23 16:28:48"
+  },
+  "jobicy::156483": {
+    "company": "Thumbtack",
+    "title": "Software Engineer, AI/ML Infrastructure (US-Based)",
+    "url": "https://jobicy.com/jobs/156483-software-engineer-ai-ml-infrastructure-us-based",
+    "first_seen_utc": "2026-10-23 16:28:48"
+  },
+  "greenhouse::8018536": {
+    "company": "cloudflare",
+    "title": "Senior Customer Reliability Engineer",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8018536?gh_jid=8018536",
+    "first_seen_utc": "2026-10-23 16:28:48"
   }
 }
