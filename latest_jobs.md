@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-10-23 16:30 UTC
+Generated: 2026-10-24 15:24 UTC
 
-Total new jobs: 95
+Total new jobs: 89
 
 ## greenhouse
 
@@ -186,11 +186,11 @@ Total new jobs: 95
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7793634)
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7793634)
   - Company: mongodb
   - Location: Remote
 
@@ -234,20 +234,16 @@ Total new jobs: 95
   - Company: okta
   - Location: Remote
 
-- [Senior Software Engineer - SRE](https://www.okta.com/company/careers/opportunity/8263918?gh_jid=8263918)
+- [Senior Software Engineer - SRE](https://www.okta.com/company/careers/opportunity/8263916?gh_jid=8263916)
   - Company: okta
   - Location: Remote
 
-- [Senior Software Engineer - SRE](https://www.okta.com/company/careers/opportunity/8263916?gh_jid=8263916)
+- [Senior Software Engineer - SRE](https://www.okta.com/company/careers/opportunity/8263918?gh_jid=8263918)
   - Company: okta
   - Location: Remote
 
 - [Senior Software Reliability Engineer - Data Platform](https://www.okta.com/company/careers/opportunity/8082028?gh_jid=8082028)
   - Company: okta
-  - Location: Remote
-
-- [Sr. Site Reliability Engineer, tvScientific](https://www.pinterestcareers.com/jobs/?gh_jid=7782550)
-  - Company: pinterest
   - Location: Remote
 
 - [Senior AI API Platform Engineer](https://www.rubrik.com/company/careers/departments/job.8273808?gh_jid=8273808)
@@ -269,11 +265,6 @@ Total new jobs: 95
   - Location: Ireland
   - Level/Team: DevOps & Infrastructure
 
-- [Infrastructure Engineer](https://jobicy.com/jobs/153599-infrastructure-engineer-3)
-  - Company: Bayesian Health
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
 - [Senior DevOps Engineer](https://jobicy.com/jobs/156049-senior-devops-engineer-11)
   - Company: BetterHelp
   - Location: USA
@@ -284,28 +275,38 @@ Total new jobs: 95
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
+- [Senior Site Reliability / Gitops Engineer](https://jobicy.com/jobs/149544-senior-site-reliability-gitops-engineer)
+  - Company: Canonical
+  - Location: Anywhere
+  - Level/Team: DevOps & Infrastructure
+
+- [Senior Site Reliability Engineer](https://jobicy.com/jobs/149557-senior-site-reliability-engineer-5)
+  - Company: Canonical
+  - Location: Anywhere
+  - Level/Team: DevOps & Infrastructure
+
+- [Site Reliability / Gitops Engineer](https://jobicy.com/jobs/149553-site-reliability-gitops-engineer)
+  - Company: Canonical
+  - Location: Anywhere
+  - Level/Team: DevOps & Infrastructure
+
+- [Site Reliability Engineer](https://jobicy.com/jobs/149547-site-reliability-engineer)
+  - Company: Canonical
+  - Location: Anywhere
+  - Level/Team: DevOps & Infrastructure
+
 - [Sr. IT Systems Engineer](https://jobicy.com/jobs/156214-sr-it-systems-engineer-2)
   - Company: Carrot
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
+- [IT Lead](https://jobicy.com/jobs/156646-it-lead)
+  - Company: ClassDojo
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
 - [GTM DevOps Engineer](https://jobicy.com/jobs/156285-gtm-devops-engineer)
   - Company: ClickUp
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
-- [IT Systems DevOps Engineer](https://jobicy.com/jobs/156089-it-systems-devops-engineer)
-  - Company: Cologix, Inc.
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
-- [QA/DevOps Engineer](https://jobicy.com/jobs/155923-qa-devops-engineer)
-  - Company: Discord
-  - Location: USA
-  - Level/Team: QA & Testing
-
-- [Senior DevOps Engineer](https://jobicy.com/jobs/155574-senior-devops-engineer-10)
-  - Company: dscout
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
@@ -319,18 +320,8 @@ Total new jobs: 95
   - Location: UK
   - Level/Team: DevOps & Infrastructure
 
-- [Senior SRE, Managed Gateways](https://jobicy.com/jobs/155629-senior-sre-managed-gateways)
-  - Company: Kong Inc.
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
-- [Site Reliability Engineer](https://jobicy.com/jobs/153549-site-reliability-engineer-3)
-  - Company: MaintainX
-  - Location: Canada
-  - Level/Team: DevOps & Infrastructure
-
-- [Senior DevOps Engineer, Cloud Delivery](https://jobicy.com/jobs/155636-senior-devops-engineer-cloud-delivery)
-  - Company: NetBox Labs
+- [Senior Site Reliability Engineer II](https://jobicy.com/jobs/156598-senior-site-reliability-engineer-ii)
+  - Company: Juniper Square
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
@@ -342,11 +333,6 @@ Total new jobs: 95
 - [Senior Platform Engineer - US Remote](https://jobicy.com/jobs/156231-senior-platform-engineer-us-remote)
   - Company: PerfectServe
   - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
-- [Senior Software Engineer - SRE](https://jobicy.com/jobs/155657-senior-software-engineer-sre)
-  - Company: Salesloft
-  - Location: Mexico
   - Level/Team: DevOps & Infrastructure
 
 - [Cloud Platform Engineer](https://jobicy.com/jobs/156583-cloud-platform-engineer)
@@ -367,21 +353,6 @@ Total new jobs: 95
 - [DevOps Engineer II, Cloud Platform](https://jobicy.com/jobs/155985-devops-engineer-ii-cloud-platform)
   - Company: Upstart
   - Location: Canada,  USA
-  - Level/Team: DevOps & Infrastructure
-
-- [Linux Systems Administrator](https://jobicy.com/jobs/156341-linux-systems-administrator)
-  - Company: Vultr
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
-- [RMA Systems Engineer](https://jobicy.com/jobs/156342-rma-systems-engineer)
-  - Company: Vultr
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
-- [Senior Linux System Administrator](https://jobicy.com/jobs/156326-senior-linux-system-administrator)
-  - Company: Vultr
-  - Location: USA
   - Level/Team: DevOps & Infrastructure
 
 - [Sr. Engineer, Database Reliability](https://jobicy.com/jobs/156564-sr-engineer-database-reliability)
