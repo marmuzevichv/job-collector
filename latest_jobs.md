@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-10-25 15:35 UTC
+Generated: 2026-10-26 18:16 UTC
 
-Total new jobs: 83
+Total new jobs: 86
 
 ## greenhouse
 
@@ -62,6 +62,10 @@ Total new jobs: 83
   - Company: canonical
   - Location: Remote
 
+- [Customer Reliability Engineer](https://boards.greenhouse.io/cloudflare/jobs/8317751?gh_jid=8317751)
+  - Company: cloudflare
+  - Location: Remote
+
 - [Senior Customer Reliability Engineer](https://boards.greenhouse.io/cloudflare/jobs/8018536?gh_jid=8018536)
   - Company: cloudflare
   - Location: Remote
@@ -74,11 +78,11 @@ Total new jobs: 83
   - Company: cloudflare
   - Location: Remote
 
-- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280093?gh_jid=8280093)
+- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280094?gh_jid=8280094)
   - Company: dropbox
   - Location: Remote
 
-- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280094?gh_jid=8280094)
+- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280093?gh_jid=8280093)
   - Company: dropbox
   - Location: Remote
 
@@ -186,11 +190,11 @@ Total new jobs: 83
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7793634)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7793634)
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
   - Company: mongodb
   - Location: Remote
 
@@ -202,10 +206,6 @@ Total new jobs: 83
   - Company: mongodb
   - Location: Remote
 
-- [Associate IT infrastructure Engineer](https://job-boards.greenhouse.io/newrelic/jobs/5453394008)
-  - Company: newrelic
-  - Location: Remote
-
 - [Senior Database Reliability Engineer (DBRE)](https://www.okta.com/company/careers/opportunity/7617976?gh_jid=7617976)
   - Company: okta
   - Location: Remote
@@ -214,11 +214,11 @@ Total new jobs: 83
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8015032?gh_jid=8015032)
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8242984?gh_jid=8242984)
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8242984?gh_jid=8242984)
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8015032?gh_jid=8015032)
   - Company: okta
   - Location: Remote
 
@@ -234,11 +234,11 @@ Total new jobs: 83
   - Company: okta
   - Location: Remote
 
-- [Senior Software Engineer - SRE](https://www.okta.com/company/careers/opportunity/8263916?gh_jid=8263916)
+- [Senior Software Engineer - SRE](https://www.okta.com/company/careers/opportunity/8263918?gh_jid=8263918)
   - Company: okta
   - Location: Remote
 
-- [Senior Software Engineer - SRE](https://www.okta.com/company/careers/opportunity/8263918?gh_jid=8263918)
+- [Senior Software Engineer - SRE](https://www.okta.com/company/careers/opportunity/8263916?gh_jid=8263916)
   - Company: okta
   - Location: Remote
 
@@ -295,23 +295,33 @@ Total new jobs: 83
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
+- [Sr. DevOps Engineer](https://jobicy.com/jobs/157082-sr-devops-engineer)
+  - Company: Cyware
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
 - [IT Engineer](https://jobicy.com/jobs/155006-it-engineer-2)
   - Company: Elevenlabs
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
+- [Senior Infrastructure Engineer](https://jobicy.com/jobs/151592-senior-infrastructure-engineer)
+  - Company: Fieldguide
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Telecom Engineer](https://jobicy.com/jobs/151643-telecom-engineer-2)
+  - Company: Five9
+  - Location: UK
+  - Level/Team: DevOps & Infrastructure
+
+- [Cloud Platform Engineer](https://jobicy.com/jobs/157196-cloud-platform-engineer-2)
+  - Company: GitLab
+  - Location: Canada,  USA
+  - Level/Team: DevOps & Infrastructure
+
 - [Senior Site Reliability Engineer II](https://jobicy.com/jobs/156598-senior-site-reliability-engineer-ii)
   - Company: Juniper Square
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
-- [Industrial Compute](https://jobicy.com/jobs/156877-industrial-compute)
-  - Company: OpenAI
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
-- [Senior Platform Engineer - US Remote](https://jobicy.com/jobs/156231-senior-platform-engineer-us-remote)
-  - Company: PerfectServe
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
@@ -361,4 +371,8 @@ Total new jobs: 83
 
 - [QA/DevOps Engineer](https://weworkremotely.com/remote-jobs/discord-qa-devops-engineer)
   - Company: Discord
+  - Location: Remote
+
+- [DevOps Engineer II, Cloud Platform](https://weworkremotely.com/remote-jobs/upstart-devops-engineer-ii-cloud-platform)
+  - Company: Upstart
   - Location: Remote
