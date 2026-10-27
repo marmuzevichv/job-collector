@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-10-26 18:16 UTC
+Generated: 2026-10-27 17:30 UTC
 
-Total new jobs: 86
+Total new jobs: 90
 
 ## greenhouse
 
@@ -107,6 +107,10 @@ Total new jobs: 86
   - Location: Remote
 
 - [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7814036003)
+  - Company: fivetran
+  - Location: Remote
+
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=8044038003)
   - Company: fivetran
   - Location: Remote
 
@@ -246,6 +250,10 @@ Total new jobs: 86
   - Company: okta
   - Location: Remote
 
+- [Splunk Infrastructure Engineer](https://www.okta.com/company/careers/opportunity/7658254?gh_jid=7658254)
+  - Company: okta
+  - Location: Remote
+
 - [Senior AI API Platform Engineer](https://www.rubrik.com/company/careers/departments/job.8273808?gh_jid=8273808)
   - Company: rubrik
   - Location: Remote
@@ -298,6 +306,16 @@ Total new jobs: 86
 - [Sr. DevOps Engineer](https://jobicy.com/jobs/157082-sr-devops-engineer)
   - Company: Cyware
   - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Developer Advocate - Service Management](https://jobicy.com/jobs/151723-developer-advocate-service-management)
+  - Company: Datadog
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobicy.com/jobs/157244-senior-corporate-enterprise-platform-engineer-windows)
+  - Company: Dropbox
+  - Location: Canada
   - Level/Team: DevOps & Infrastructure
 
 - [IT Engineer](https://jobicy.com/jobs/155006-it-engineer-2)

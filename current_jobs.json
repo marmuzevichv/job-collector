@@ -354,6 +354,21 @@
     "collected_at_utc": "2026-10-26 18:14:47"
   },
   {
+    "source_type": "jobicy",
+    "company": "Datadog",
+    "title": "Developer Advocate - Service Management",
+    "location": "USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/151723-developer-advocate-service-management",
+    "external_id": "jobicy::151723",
+    "description_snippet": "We are a team of engineers that translate our real-world experience to help our user communities solve problems. With a focus on service management, helping teams respond to incidents, run on-call, and automate their operations, you will work with practitioners and leaders across the industry and br",
+    "posted_at": "2026-10-27T03:29:11+00:00",
+    "collected_at_utc": "2026-10-27 17:28:55"
+  },
+  {
     "source_type": "weworkremotely",
     "company": "Discord",
     "title": "QA/DevOps Engineer",
@@ -391,6 +406,21 @@
     "description_snippet": "",
     "posted_at": "2026-10-23T16:47:49-04:00",
     "collected_at_utc": "2026-10-26 18:14:47"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Dropbox",
+    "title": "Senior Corporate Enterprise Platform Engineer, Windows",
+    "location": "Canada",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/157244-senior-corporate-enterprise-platform-engineer-windows",
+    "external_id": "jobicy::157244",
+    "description_snippet": "Role Description As a Senior Client Platform Engineer on CorpFleet Engineering, you will own and improve Dropbox’s Windows endpoint platform. You will bring deep Windows and Intune expertise, make patching and application delivery more reliable, and build automation that reduces recurring work for t",
+    "posted_at": "2026-10-26T16:40:44+00:00",
+    "collected_at_utc": "2026-10-27 17:28:55"
   },
   {
     "source_type": "greenhouse",
@@ -514,6 +544,19 @@
     "description_snippet": "",
     "posted_at": "2026-10-02T17:47:33-04:00",
     "collected_at_utc": "2026-10-26 18:14:47"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "fivetran",
+    "title": "Senior Site Reliability Engineer",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://www.fivetran.com/careers/job?gh_jid=8044038003",
+    "external_id": "greenhouse::8044038003",
+    "description_snippet": "",
+    "posted_at": "2026-10-27T05:02:13-04:00",
+    "collected_at_utc": "2026-10-27 17:28:55"
   },
   {
     "source_type": "jobicy",
@@ -1063,6 +1106,19 @@
     "description_snippet": "",
     "posted_at": "2026-09-21T12:43:00-04:00",
     "collected_at_utc": "2026-10-26 18:14:47"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "okta",
+    "title": "Splunk Infrastructure Engineer",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://www.okta.com/company/careers/opportunity/7658254?gh_jid=7658254",
+    "external_id": "greenhouse::7658254",
+    "description_snippet": "",
+    "posted_at": "2026-10-26T19:49:19-04:00",
+    "collected_at_utc": "2026-10-27 17:28:55"
   },
   {
     "source_type": "greenhouse",
