@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-10-27 17:30 UTC
+Generated: 2026-10-28 17:54 UTC
 
-Total new jobs: 90
+Total new jobs: 83
 
 ## greenhouse
 
@@ -194,11 +194,11 @@ Total new jobs: 90
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7793634)
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7793634)
   - Company: mongodb
   - Location: Remote
 
@@ -214,7 +214,7 @@ Total new jobs: 90
   - Company: okta
   - Location: Remote
 
-- [Senior Platform Engineer, Layer0 (Auth0)](https://www.okta.com/company/careers/opportunity/8286405?gh_jid=8286405)
+- [Senior Platform Engineer (Auth0)](https://www.okta.com/company/careers/opportunity/8286405?gh_jid=8286405)
   - Company: okta
   - Location: Remote
 
@@ -238,11 +238,11 @@ Total new jobs: 90
   - Company: okta
   - Location: Remote
 
-- [Senior Software Engineer - SRE](https://www.okta.com/company/careers/opportunity/8263918?gh_jid=8263918)
+- [Senior Software Engineer - SRE](https://www.okta.com/company/careers/opportunity/8263916?gh_jid=8263916)
   - Company: okta
   - Location: Remote
 
-- [Senior Software Engineer - SRE](https://www.okta.com/company/careers/opportunity/8263916?gh_jid=8263916)
+- [Senior Software Engineer - SRE](https://www.okta.com/company/careers/opportunity/8263918?gh_jid=8263918)
   - Company: okta
   - Location: Remote
 
@@ -273,17 +273,7 @@ Total new jobs: 90
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
-- [Senior Site Reliability / Gitops Engineer](https://jobicy.com/jobs/149544-senior-site-reliability-gitops-engineer)
-  - Company: Canonical
-  - Location: Anywhere
-  - Level/Team: DevOps & Infrastructure
-
 - [Senior Site Reliability Engineer](https://jobicy.com/jobs/149557-senior-site-reliability-engineer-5)
-  - Company: Canonical
-  - Location: Anywhere
-  - Level/Team: DevOps & Infrastructure
-
-- [Site Reliability / Gitops Engineer](https://jobicy.com/jobs/149553-site-reliability-gitops-engineer)
   - Company: Canonical
   - Location: Anywhere
   - Level/Team: DevOps & Infrastructure
@@ -298,11 +288,6 @@ Total new jobs: 90
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
-- [GTM DevOps Engineer](https://jobicy.com/jobs/156285-gtm-devops-engineer)
-  - Company: ClickUp
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
 - [Sr. DevOps Engineer](https://jobicy.com/jobs/157082-sr-devops-engineer)
   - Company: Cyware
   - Location: USA
@@ -313,24 +298,9 @@ Total new jobs: 90
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
-- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobicy.com/jobs/157244-senior-corporate-enterprise-platform-engineer-windows)
-  - Company: Dropbox
-  - Location: Canada
-  - Level/Team: DevOps & Infrastructure
-
-- [IT Engineer](https://jobicy.com/jobs/155006-it-engineer-2)
-  - Company: Elevenlabs
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
 - [Senior Infrastructure Engineer](https://jobicy.com/jobs/151592-senior-infrastructure-engineer)
   - Company: Fieldguide
   - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
-- [Telecom Engineer](https://jobicy.com/jobs/151643-telecom-engineer-2)
-  - Company: Five9
-  - Location: UK
   - Level/Team: DevOps & Infrastructure
 
 - [Cloud Platform Engineer](https://jobicy.com/jobs/157196-cloud-platform-engineer-2)
@@ -351,11 +321,6 @@ Total new jobs: 90
 - [Release Engineer](https://jobicy.com/jobs/156579-release-engineer)
   - Company: Supabase
   - Location: Anywhere
-  - Level/Team: DevOps & Infrastructure
-
-- [Senior Software Engineer, Site Reliability Engineering](https://jobicy.com/jobs/156771-senior-software-engineer-site-reliability-engineering)
-  - Company: Thumbtack
-  - Location: USA
   - Level/Team: DevOps & Infrastructure
 
 - [Sr. Engineer, Database Reliability](https://jobicy.com/jobs/156564-sr-engineer-database-reliability)
