@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-10-28 17:54 UTC
+Generated: 2026-10-29 18:04 UTC
 
-Total new jobs: 83
+Total new jobs: 84
 
 ## greenhouse
 
@@ -70,11 +70,19 @@ Total new jobs: 83
   - Company: cloudflare
   - Location: Remote
 
+- [Senior Customer Reliability Engineer](https://boards.greenhouse.io/cloudflare/jobs/8331153?gh_jid=8331153)
+  - Company: cloudflare
+  - Location: Remote
+
 - [Senior Forward Deployed Infrastructure Engineer](https://boards.greenhouse.io/cloudflare/jobs/8256332?gh_jid=8256332)
   - Company: cloudflare
   - Location: Remote
 
 - [Senior Infrastructure Engineer, Storage Platform](https://boards.greenhouse.io/cloudflare/jobs/7629805?gh_jid=7629805)
+  - Company: cloudflare
+  - Location: Remote
+
+- [Systems Reliability Engineer - Core](https://boards.greenhouse.io/cloudflare/jobs/8324908?gh_jid=8324908)
   - Company: cloudflare
   - Location: Remote
 
@@ -90,10 +98,6 @@ Total new jobs: 83
   - Company: elastic
   - Location: Remote
 
-- [Senior Site Reliability Engineer (Observability & Analytics) – Platform Infra](https://jobs.elastic.co/jobs?gh_jid=8053903&gh_jid=8053903)
-  - Company: elastic
-  - Location: Remote
-
 - [Sr. Salesforce DevOps Engineer](https://jobs.elastic.co/jobs?gh_jid=8207939&gh_jid=8207939)
   - Company: elastic
   - Location: Remote
@@ -106,11 +110,11 @@ Total new jobs: 83
   - Company: fastly
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7814036003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=8044038003)
   - Company: fivetran
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=8044038003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7814036003)
   - Company: fivetran
   - Location: Remote
 
@@ -222,6 +226,10 @@ Total new jobs: 83
   - Company: okta
   - Location: Remote
 
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8260950?gh_jid=8260950)
+  - Company: okta
+  - Location: Remote
+
 - [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8015032?gh_jid=8015032)
   - Company: okta
   - Location: Remote
@@ -268,17 +276,7 @@ Total new jobs: 83
 
 ## jobicy
 
-- [Senior IT Operations Engineer](https://jobicy.com/jobs/156467-senior-it-operations-engineer-2)
-  - Company: BigID
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
 - [Senior Site Reliability Engineer](https://jobicy.com/jobs/149557-senior-site-reliability-engineer-5)
-  - Company: Canonical
-  - Location: Anywhere
-  - Level/Team: DevOps & Infrastructure
-
-- [Site Reliability Engineer](https://jobicy.com/jobs/149547-site-reliability-engineer)
   - Company: Canonical
   - Location: Anywhere
   - Level/Team: DevOps & Infrastructure
@@ -286,6 +284,11 @@ Total new jobs: 83
 - [IT Lead](https://jobicy.com/jobs/156646-it-lead)
   - Company: ClassDojo
   - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Infrastructure Engineer/SRE](https://jobicy.com/jobs/157619-infrastructure-engineer-sre)
+  - Company: Cresta
+  - Location: Canada
   - Level/Team: DevOps & Infrastructure
 
 - [Sr. DevOps Engineer](https://jobicy.com/jobs/157082-sr-devops-engineer)
