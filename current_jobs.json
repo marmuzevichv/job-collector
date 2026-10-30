@@ -2,6 +2,19 @@
   {
     "source_type": "greenhouse",
     "company": "anthropic",
+    "title": "Data Center Substation, Protection & Automation Engineer",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468380008",
+    "external_id": "greenhouse::5468380008",
+    "description_snippet": "",
+    "posted_at": "2026-10-30T12:29:10-04:00",
+    "collected_at_utc": "2026-10-30 17:43:02"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "anthropic",
     "title": "DevOps / AgentOps Engineer, GTM Systems",
     "location": "",
     "team": "",
@@ -333,6 +346,21 @@
     "description_snippet": "We are a team of engineers that translate our real-world experience to help our user communities solve problems. With a focus on service management, helping teams respond to incidents, run on-call, and automate their operations, you will work with practitioners and leaders across the industry and br",
     "posted_at": "2026-10-27T03:29:11+00:00",
     "collected_at_utc": "2026-10-29 18:01:39"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Deepgram",
+    "title": "ML Ops Infrastructure Engineer",
+    "location": "USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/157868-ml-ops-infrastructure-engineer",
+    "external_id": "jobicy::157868",
+    "description_snippet": "Company Overview Deepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice agents at scale. More than 200,000 developers and 1,300+ organizations build voic",
+    "posted_at": "2026-10-29T15:41:02+00:00",
+    "collected_at_utc": "2026-10-30 17:43:02"
   },
   {
     "source_type": "weworkremotely",
@@ -1042,6 +1070,34 @@
     "collected_at_utc": "2026-10-29 18:01:39"
   },
   {
+    "source_type": "jobicy",
+    "company": "OpenAI",
+    "title": "Critical Facilities Lead, Compute Infrastructure",
+    "location": "USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/156638-critical-facilities-lead-compute-infrastructure",
+    "external_id": "jobicy::156638",
+    "description_snippet": "About the Team OpenAI, in close collaboration with our capital partners, is embarking on a journey to build the world’s most advanced AI infrastructure ecosystem. The Infrastructure team is central to this mission, setting the core strategy and implementing the vision. From site selection to deploym",
+    "posted_at": "2026-10-23T17:55:38+00:00",
+    "collected_at_utc": "2026-10-30 17:43:02"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "rubrik",
+    "title": "Database Reliability Engineer/Database Engineer (Rubrik Security Cloud Platform)",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://www.rubrik.com/company/careers/departments/job.8161018?gh_jid=8161018",
+    "external_id": "greenhouse::8161018",
+    "description_snippet": "",
+    "posted_at": "2026-10-30T01:33:38-04:00",
+    "collected_at_utc": "2026-10-30 17:43:02"
+  },
+  {
     "source_type": "greenhouse",
     "company": "rubrik",
     "title": "Senior AI API Platform Engineer",
@@ -1066,6 +1122,40 @@
     "description_snippet": "",
     "posted_at": "2026-10-14T23:23:53-04:00",
     "collected_at_utc": "2026-10-29 18:01:39"
+  },
+  {
+    "source_type": "remoteok",
+    "company": "Smile Digital Health",
+    "title": "Cloud Engineer Automation",
+    "location": "Toronto, Ontario",
+    "team": "",
+    "categories": [
+      "design",
+      "grafana",
+      "infosec",
+      "python",
+      "customer support",
+      "marketing",
+      "dev",
+      "quality assurance",
+      "devops",
+      "education",
+      "cloud",
+      "git",
+      "postgres",
+      "microsoft",
+      "exec",
+      "ops",
+      "medical",
+      "engineer",
+      "recruiter",
+      "digital nomad"
+    ],
+    "url": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
+    "external_id": "remoteok::1137600",
+    "description_snippet": "Working for a company like Smile Digital Health means supporting our mandate for #BetterGlobalHealth . We strive towards this goal every day, and the results can be seen in the impact of our innovative health data platform and data management solutions, which are used in over 20 countries. We were #",
+    "posted_at": "2026-10-29T16:00:03+00:00",
+    "collected_at_utc": "2026-10-30 17:43:02"
   },
   {
     "source_type": "lever",

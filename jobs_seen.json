@@ -502,5 +502,35 @@
     "title": "Senior Test Automation Engineer (TeamCity)",
     "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4961618101",
     "first_seen_utc": "2026-10-29 18:01:39"
+  },
+  "remoteok::1137600": {
+    "company": "Smile Digital Health",
+    "title": "Cloud Engineer Automation",
+    "url": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
+    "first_seen_utc": "2026-10-30 17:43:02"
+  },
+  "jobicy::157868": {
+    "company": "Deepgram",
+    "title": "ML Ops Infrastructure Engineer",
+    "url": "https://jobicy.com/jobs/157868-ml-ops-infrastructure-engineer",
+    "first_seen_utc": "2026-10-30 17:43:02"
+  },
+  "jobicy::156638": {
+    "company": "OpenAI",
+    "title": "Critical Facilities Lead, Compute Infrastructure",
+    "url": "https://jobicy.com/jobs/156638-critical-facilities-lead-compute-infrastructure",
+    "first_seen_utc": "2026-10-30 17:43:02"
+  },
+  "greenhouse::8161018": {
+    "company": "rubrik",
+    "title": "Database Reliability Engineer/Database Engineer (Rubrik Security Cloud Platform)",
+    "url": "https://www.rubrik.com/company/careers/departments/job.8161018?gh_jid=8161018",
+    "first_seen_utc": "2026-10-30 17:43:02"
+  },
+  "greenhouse::5468380008": {
+    "company": "anthropic",
+    "title": "Data Center Substation, Protection & Automation Engineer",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468380008",
+    "first_seen_utc": "2026-10-30 17:43:02"
   }
 }

@@ -1,10 +1,14 @@
 # New jobs
 
-Generated: 2026-10-29 18:04 UTC
+Generated: 2026-10-30 17:43 UTC
 
-Total new jobs: 84
+Total new jobs: 89
 
 ## greenhouse
+
+- [Data Center Substation, Protection & Automation Engineer](https://job-boards.greenhouse.io/anthropic/jobs/5468380008)
+  - Company: anthropic
+  - Location: Remote
 
 - [DevOps / AgentOps Engineer, GTM Systems](https://job-boards.greenhouse.io/anthropic/jobs/5392856008)
   - Company: anthropic
@@ -262,6 +266,10 @@ Total new jobs: 84
   - Company: okta
   - Location: Remote
 
+- [Database Reliability Engineer/Database Engineer (Rubrik Security Cloud Platform)](https://www.rubrik.com/company/careers/departments/job.8161018?gh_jid=8161018)
+  - Company: rubrik
+  - Location: Remote
+
 - [Senior AI API Platform Engineer](https://www.rubrik.com/company/careers/departments/job.8273808?gh_jid=8273808)
   - Company: rubrik
   - Location: Remote
@@ -301,6 +309,11 @@ Total new jobs: 84
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
+- [ML Ops Infrastructure Engineer](https://jobicy.com/jobs/157868-ml-ops-infrastructure-engineer)
+  - Company: Deepgram
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
 - [Senior Infrastructure Engineer](https://jobicy.com/jobs/151592-senior-infrastructure-engineer)
   - Company: Fieldguide
   - Location: USA
@@ -313,6 +326,11 @@ Total new jobs: 84
 
 - [Senior Site Reliability Engineer II](https://jobicy.com/jobs/156598-senior-site-reliability-engineer-ii)
   - Company: Juniper Square
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Critical Facilities Lead, Compute Infrastructure](https://jobicy.com/jobs/156638-critical-facilities-lead-compute-infrastructure)
+  - Company: OpenAI
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
@@ -352,6 +370,10 @@ Total new jobs: 84
 - [Senior DevOps Engineer](https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557)
   - Company: Lemon.io
   - Location: Worldwide
+
+- [Cloud Engineer Automation](https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600)
+  - Company: Smile Digital Health
+  - Location: Toronto, Ontario
 
 ## weworkremotely
 
