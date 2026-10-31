@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-10-30 17:43 UTC
+Generated: 2026-10-31 16:50 UTC
 
-Total new jobs: 89
+Total new jobs: 85
 
 ## greenhouse
 
@@ -114,11 +114,11 @@ Total new jobs: 89
   - Company: fastly
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=8044038003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7814036003)
   - Company: fivetran
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7814036003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=8044038003)
   - Company: fivetran
   - Location: Remote
 
@@ -202,11 +202,11 @@ Total new jobs: 89
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7793634)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7793634)
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
   - Company: mongodb
   - Location: Remote
 
@@ -226,7 +226,7 @@ Total new jobs: 89
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8242984?gh_jid=8242984)
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8015032?gh_jid=8015032)
   - Company: okta
   - Location: Remote
 
@@ -234,7 +234,7 @@ Total new jobs: 89
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8015032?gh_jid=8015032)
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8242984?gh_jid=8242984)
   - Company: okta
   - Location: Remote
 
@@ -250,11 +250,11 @@ Total new jobs: 89
   - Company: okta
   - Location: Remote
 
-- [Senior Software Engineer - SRE](https://www.okta.com/company/careers/opportunity/8263916?gh_jid=8263916)
+- [Senior Software Engineer - SRE](https://www.okta.com/company/careers/opportunity/8263918?gh_jid=8263918)
   - Company: okta
   - Location: Remote
 
-- [Senior Software Engineer - SRE](https://www.okta.com/company/careers/opportunity/8263918?gh_jid=8263918)
+- [Senior Software Engineer - SRE](https://www.okta.com/company/careers/opportunity/8263916?gh_jid=8263916)
   - Company: okta
   - Location: Remote
 
@@ -284,16 +284,6 @@ Total new jobs: 89
 
 ## jobicy
 
-- [Senior Site Reliability Engineer](https://jobicy.com/jobs/149557-senior-site-reliability-engineer-5)
-  - Company: Canonical
-  - Location: Anywhere
-  - Level/Team: DevOps & Infrastructure
-
-- [IT Lead](https://jobicy.com/jobs/156646-it-lead)
-  - Company: ClassDojo
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
 - [Infrastructure Engineer/SRE](https://jobicy.com/jobs/157619-infrastructure-engineer-sre)
   - Company: Cresta
   - Location: Canada
@@ -301,11 +291,6 @@ Total new jobs: 89
 
 - [Sr. DevOps Engineer](https://jobicy.com/jobs/157082-sr-devops-engineer)
   - Company: Cyware
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
-- [Developer Advocate - Service Management](https://jobicy.com/jobs/151723-developer-advocate-service-management)
-  - Company: Datadog
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
@@ -324,29 +309,24 @@ Total new jobs: 89
   - Location: Canada,  USA
   - Level/Team: DevOps & Infrastructure
 
-- [Senior Site Reliability Engineer II](https://jobicy.com/jobs/156598-senior-site-reliability-engineer-ii)
-  - Company: Juniper Square
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
+- [Senior Backend Engineer, Core DevOps](https://jobicy.com/jobs/158061-senior-backend-engineer-core-devops)
+  - Company: GitLab
+  - Location: UK
+  - Level/Team: Software Engineering
+
+- [Senior Backend Engineer, Core DevOps: Container Registry](https://jobicy.com/jobs/158063-senior-backend-engineer-core-devops-container-registry)
+  - Company: GitLab
+  - Location: UK
+  - Level/Team: Software Engineering
 
 - [Critical Facilities Lead, Compute Infrastructure](https://jobicy.com/jobs/156638-critical-facilities-lead-compute-infrastructure)
   - Company: OpenAI
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
-- [Platform Engineer - Compute Capacity](https://jobicy.com/jobs/156946-platform-engineer-compute-capacity)
-  - Company: Supabase
-  - Location: Anywhere
-  - Level/Team: DevOps & Infrastructure
-
-- [Release Engineer](https://jobicy.com/jobs/156579-release-engineer)
-  - Company: Supabase
-  - Location: Anywhere
-  - Level/Team: DevOps & Infrastructure
-
-- [Sr. Engineer, Database Reliability](https://jobicy.com/jobs/156564-sr-engineer-database-reliability)
-  - Company: Zapier
-  - Location: EMEA,  Canada,  USA
+- [Platform Engineer - Cloud Native](https://jobicy.com/jobs/158095-platform-engineer-cloud-native)
+  - Company: Vultr
+  - Location: USA
   - Level/Team: DevOps & Infrastructure
 
 ## lever
