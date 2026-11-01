@@ -1,6 +1,6 @@
 # Jobs via SerpAPI (Google Search)
 
-Generated: 2026-10-31 16:27 UTC
+Generated: 2026-11-01 17:21 UTC
 Total jobs (24h window): 0
 
 No matching jobs found.
