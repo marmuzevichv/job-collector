@@ -1,6 +1,6 @@
 # New jobs
 
-Generated: 2026-10-31 16:50 UTC
+Generated: 2026-11-01 17:39 UTC
 
 Total new jobs: 85
 
@@ -90,11 +90,11 @@ Total new jobs: 85
   - Company: cloudflare
   - Location: Remote
 
-- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280094?gh_jid=8280094)
+- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280093?gh_jid=8280093)
   - Company: dropbox
   - Location: Remote
 
-- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280093?gh_jid=8280093)
+- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280094?gh_jid=8280094)
   - Company: dropbox
   - Location: Remote
 
@@ -226,15 +226,15 @@ Total new jobs: 85
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8015032?gh_jid=8015032)
-  - Company: okta
-  - Location: Remote
-
 - [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8260950?gh_jid=8260950)
   - Company: okta
   - Location: Remote
 
 - [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8242984?gh_jid=8242984)
+  - Company: okta
+  - Location: Remote
+
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8015032?gh_jid=8015032)
   - Company: okta
   - Location: Remote
 
@@ -250,11 +250,11 @@ Total new jobs: 85
   - Company: okta
   - Location: Remote
 
-- [Senior Software Engineer - SRE](https://www.okta.com/company/careers/opportunity/8263918?gh_jid=8263918)
+- [Senior Software Engineer - SRE](https://www.okta.com/company/careers/opportunity/8263916?gh_jid=8263916)
   - Company: okta
   - Location: Remote
 
-- [Senior Software Engineer - SRE](https://www.okta.com/company/careers/opportunity/8263916?gh_jid=8263916)
+- [Senior Software Engineer - SRE](https://www.okta.com/company/careers/opportunity/8263918?gh_jid=8263918)
   - Company: okta
   - Location: Remote
 
@@ -299,6 +299,11 @@ Total new jobs: 85
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
+- [Senior Software Engineer | Cloud](https://jobicy.com/jobs/158238-senior-software-engineer-cloud)
+  - Company: ExtraHop
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
 - [Senior Infrastructure Engineer](https://jobicy.com/jobs/151592-senior-infrastructure-engineer)
   - Company: Fieldguide
   - Location: USA
@@ -319,13 +324,8 @@ Total new jobs: 85
   - Location: UK
   - Level/Team: Software Engineering
 
-- [Critical Facilities Lead, Compute Infrastructure](https://jobicy.com/jobs/156638-critical-facilities-lead-compute-infrastructure)
-  - Company: OpenAI
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
-- [Platform Engineer - Cloud Native](https://jobicy.com/jobs/158095-platform-engineer-cloud-native)
-  - Company: Vultr
+- [Infrastructure Engineer](https://jobicy.com/jobs/158274-infrastructure-engineer-6)
+  - Company: Roboflow
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
