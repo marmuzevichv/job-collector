@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-11-01 17:39 UTC
+Generated: 2026-11-02 21:24 UTC
 
-Total new jobs: 85
+Total new jobs: 81
 
 ## greenhouse
 
@@ -182,10 +182,6 @@ Total new jobs: 85
   - Company: mongodb
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.mongodb.com/careers/job/?gh_jid=8051379)
-  - Company: mongodb
-  - Location: Remote
-
 - [Senior Site Reliability Engineer,  Fleet Management](https://www.mongodb.com/careers/job/?gh_jid=7727873)
   - Company: mongodb
   - Location: Remote
@@ -202,11 +198,11 @@ Total new jobs: 85
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7793634)
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7793634)
   - Company: mongodb
   - Location: Remote
 
@@ -250,11 +246,11 @@ Total new jobs: 85
   - Company: okta
   - Location: Remote
 
-- [Senior Software Engineer - SRE](https://www.okta.com/company/careers/opportunity/8263916?gh_jid=8263916)
+- [Senior Software Engineer - SRE](https://www.okta.com/company/careers/opportunity/8263918?gh_jid=8263918)
   - Company: okta
   - Location: Remote
 
-- [Senior Software Engineer - SRE](https://www.okta.com/company/careers/opportunity/8263918?gh_jid=8263918)
+- [Senior Software Engineer - SRE](https://www.okta.com/company/careers/opportunity/8263916?gh_jid=8263916)
   - Company: okta
   - Location: Remote
 
@@ -289,11 +285,6 @@ Total new jobs: 85
   - Location: Canada
   - Level/Team: DevOps & Infrastructure
 
-- [Sr. DevOps Engineer](https://jobicy.com/jobs/157082-sr-devops-engineer)
-  - Company: Cyware
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
 - [ML Ops Infrastructure Engineer](https://jobicy.com/jobs/157868-ml-ops-infrastructure-engineer)
   - Company: Deepgram
   - Location: USA
@@ -302,16 +293,6 @@ Total new jobs: 85
 - [Senior Software Engineer | Cloud](https://jobicy.com/jobs/158238-senior-software-engineer-cloud)
   - Company: ExtraHop
   - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
-- [Senior Infrastructure Engineer](https://jobicy.com/jobs/151592-senior-infrastructure-engineer)
-  - Company: Fieldguide
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
-- [Cloud Platform Engineer](https://jobicy.com/jobs/157196-cloud-platform-engineer-2)
-  - Company: GitLab
-  - Location: Canada,  USA
   - Level/Team: DevOps & Infrastructure
 
 - [Senior Backend Engineer, Core DevOps](https://jobicy.com/jobs/158061-senior-backend-engineer-core-devops)
