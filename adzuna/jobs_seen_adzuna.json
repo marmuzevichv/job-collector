@@ -3124,5 +3124,407 @@
     "title": "Sr. Platform Engineer - Kubernetes (Remote)",
     "url": "https://www.adzuna.com/land/ad/5930431699?se=BEsr3gTX8RGfjaEYrywE8Q&utm_medium=api&utm_source=632a28fd&v=3FDF1A19CBA2C4A465D2A50FC107009AD2C2CDDD",
     "first_seen_utc": "2026-11-02 21:31:48"
+  },
+  "adzuna::5952026796": {
+    "company": "SoftPath Technologies LLC",
+    "title": "DevOps & Platform Engineer",
+    "url": "https://www.adzuna.com/land/ad/5952026796?se=8PQvBbvX8RGJF4UBchTzUg&utm_medium=api&utm_source=632a28fd&v=187698A595746E862AE56F6059119CA2488AEB00",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5951408519": {
+    "company": "SynergisticIT",
+    "title": "Entry Level Java/DevOps Developer - Remote/Data Engineer-remote",
+    "url": "https://www.adzuna.com/land/ad/5951408519?se=8PQvBbvX8RGJF4UBchTzUg&utm_medium=api&utm_source=632a28fd&v=0AAF28BA7DD13929BFE1585B97EC446D8A098B5D",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5951369843": {
+    "company": "Bright Vision Technologies",
+    "title": "Senior DevOps Engineer",
+    "url": "https://www.adzuna.com/details/5951369843?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5951369657": {
+    "company": "Bright Vision Technologies",
+    "title": "Devops Engineer",
+    "url": "https://www.adzuna.com/details/5951369657?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5951145747": {
+    "company": "Noblesoft Technologies",
+    "title": "Senior DevOps / Platform Engineer",
+    "url": "https://www.adzuna.com/details/5951145747?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5951145313": {
+    "company": "AKAASA Technologies",
+    "title": "DevOps Engineer",
+    "url": "https://www.adzuna.com/details/5951145313?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5951143206": {
+    "company": "Momento USA",
+    "title": "Site Reliability Engineer III – Azure SRE / DevOps",
+    "url": "https://www.adzuna.com/details/5951143206?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5905050899": {
+    "company": "Sunayu, LLC",
+    "title": "MD DevOps Engineer 3-TS/SCI w/ Polygraph with Security Clearance",
+    "url": "https://www.adzuna.com/land/ad/5905050899?se=FnP0BbvX8RGvZ7bY2rGjuQ&utm_medium=api&utm_source=632a28fd&v=046CF7A8DB726B9E0D98E31BBEBB12719527429D",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5951369858": {
+    "company": "Bright Vision Technologies",
+    "title": "Site Reliability Engineer",
+    "url": "https://www.adzuna.com/details/5951369858?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5951145327": {
+    "company": "AKAASA Technologies",
+    "title": "Site Reliability Engineer III",
+    "url": "https://www.adzuna.com/details/5951145327?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5951145288": {
+    "company": "AKAASA Technologies",
+    "title": "Site Reliability Engineer III",
+    "url": "https://www.adzuna.com/details/5951145288?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5951143224": {
+    "company": "Stellent IT LLC",
+    "title": "Site Reliability Engineer III",
+    "url": "https://www.adzuna.com/details/5951143224?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5950951671": {
+    "company": "Stellent IT LLC",
+    "title": "Site Reliability Engineer III",
+    "url": "https://www.adzuna.com/land/ad/5950951671?se=qMTTBrvX8RGJF4UBchTzUg&utm_medium=api&utm_source=632a28fd&v=E09AFEDA9A545F673B9BAC458919C49120224FC8",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5952031041": {
+    "company": "TekDallas",
+    "title": "Senior / Lead Platform Engineer – AWS Golden AMI",
+    "url": "https://www.adzuna.com/land/ad/5952031041?se=ZoLiCLvX8RGtDZBIyhV77A&utm_medium=api&utm_source=632a28fd&v=69B7F76535028554C30DB6447C920F7C823639A9",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5951369757": {
+    "company": "Bright Vision Technologies",
+    "title": "Platform Engineer",
+    "url": "https://www.adzuna.com/details/5951369757?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5951242619": {
+    "company": "HII's Mission Technologies division",
+    "title": "Platform Delivery & Reliability Engineer (Remote) - 29337",
+    "url": "https://www.adzuna.com/land/ad/5951242619?se=ZoLiCLvX8RGtDZBIyhV77A&utm_medium=api&utm_source=632a28fd&v=D953912A3B90E2FF64AE3B3A70AB2D1ADB7E1DF0",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5951234830": {
+    "company": "Pinnacle Technical Resources",
+    "title": "AutoSys Platform Engineer",
+    "url": "https://www.adzuna.com/land/ad/5951234830?se=ZoLiCLvX8RGtDZBIyhV77A&utm_medium=api&utm_source=632a28fd&v=1BA4366A2E18692A561209F36185B75D8EBD999D",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5951145715": {
+    "company": "Noblesoft Technologies",
+    "title": "DevOps Engineer with Docker & Container Security, Healthcare domain exp",
+    "url": "https://www.adzuna.com/details/5951145715?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5951140819": {
+    "company": "Apex Systems",
+    "title": "Cloud Platform Engineer",
+    "url": "https://www.adzuna.com/land/ad/5951140819?se=ZoLiCLvX8RGtDZBIyhV77A&utm_medium=api&utm_source=632a28fd&v=BB7AB89FD7386C870BF6D88E9771E56A23568075",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5951030185": {
+    "company": "Indigo Beam",
+    "title": "Cloud and Data Platform Engineer",
+    "url": "https://www.adzuna.com/details/5951030185?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5950948265": {
+    "company": "Tekfortune Inc.",
+    "title": "Collibra & Google Cloud Platform Data Governance Support Engineer (Remote/WFH)",
+    "url": "https://www.adzuna.com/land/ad/5950948265?se=ZoLiCLvX8RGtDZBIyhV77A&utm_medium=api&utm_source=632a28fd&v=2690DBE23D6D294ED028B0C0924F8B8CD9CA5977",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5950941359": {
+    "company": "Intellisoft Technologies",
+    "title": "Senior/Lead AWS Golden AMI Platform Engineer  Remote /C2C/",
+    "url": "https://www.adzuna.com/land/ad/5950941359?se=ZoLiCLvX8RGtDZBIyhV77A&utm_medium=api&utm_source=632a28fd&v=AB9A9D91F0D979E385F9112D779BCCE0816AD392",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5942279366": {
+    "company": "Pax8",
+    "title": "Senior Data Engineer II - Data Platforms",
+    "url": "https://www.adzuna.com/details/5942279366?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5941087629": {
+    "company": "Logix Guru",
+    "title": "Smile CDR Administrator/Platform Engineer - REMOTE",
+    "url": "https://www.adzuna.com/land/ad/5941087629?se=UF29CbvX8RGvZ7bY2rGjuQ&utm_medium=api&utm_source=632a28fd&v=7EF4604DBC7BDAC047D12D219EE8CC793AC45FD5",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5941086159": {
+    "company": "Logix Guru",
+    "title": "Smile CDR Administrator/Platform Engineer - REMOTE",
+    "url": "https://www.adzuna.com/land/ad/5941086159?se=UF29CbvX8RGvZ7bY2rGjuQ&utm_medium=api&utm_source=632a28fd&v=724CA066850633C2BD095EA66E9CB291717CE7DF",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5941086166": {
+    "company": "Logix Guru",
+    "title": "Smile CDR Administrator/Platform Engineer - REMOTE",
+    "url": "https://www.adzuna.com/land/ad/5941086166?se=UF29CbvX8RGvZ7bY2rGjuQ&utm_medium=api&utm_source=632a28fd&v=511C74456D6DFE068FCDB28CCB6945874DB78E37",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5941083788": {
+    "company": "Logix Guru",
+    "title": "Smile CDR Administrator/Platform Engineer - REMOTE",
+    "url": "https://www.adzuna.com/land/ad/5941083788?se=UF29CbvX8RGvZ7bY2rGjuQ&utm_medium=api&utm_source=632a28fd&v=CB671E3412D60D9586BE30A445DB938F69441A69",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5941083517": {
+    "company": "Logix Guru",
+    "title": "Smile CDR Administrator/Platform Engineer - REMOTE",
+    "url": "https://www.adzuna.com/land/ad/5941083517?se=UF29CbvX8RGvZ7bY2rGjuQ&utm_medium=api&utm_source=632a28fd&v=8B2AD6966BC82DBD4CF8B73FB95B531B91BBD686",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5941022100": {
+    "company": "Kelly Services",
+    "title": "Lead Data Platform Engineer (Remote in ME)",
+    "url": "https://www.adzuna.com/land/ad/5941022100?se=UF29CbvX8RGvZ7bY2rGjuQ&utm_medium=api&utm_source=632a28fd&v=84FE670F42E3398B6CB8F969E2DA76EEA7782EE3",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5940534216": {
+    "company": "Redwood Logistics",
+    "title": "Platform Reliability Engineer",
+    "url": "https://www.adzuna.com/details/5940534216?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5940499309": {
+    "company": "RADgov Inc.",
+    "title": "Smile CDR Administrator/Platform Engineer (REMOTE)",
+    "url": "https://www.adzuna.com/land/ad/5940499309?se=UF29CbvX8RGvZ7bY2rGjuQ&utm_medium=api&utm_source=632a28fd&v=9950CCE35D8098CBB38E9EB25E56130E6C873524",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5940425465": {
+    "company": "Mercor",
+    "title": "Platform Engineer - Fully Remote",
+    "url": "https://www.adzuna.com/details/5940425465?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5951874054": {
+    "company": "CrowdStrike",
+    "title": "Engineer III - Cloud (Remote)",
+    "url": "https://www.adzuna.com/details/5951874054?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5951874026": {
+    "company": "CrowdStrike",
+    "title": "Sr. Engineer - Cloud (Remote)",
+    "url": "https://www.adzuna.com/details/5951874026?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5951870598": {
+    "company": "CrowdStrike",
+    "title": "Engineer III - Cloud (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5951870598?se=iumvCrvX8RGT9NV5Q-REgg&utm_medium=api&utm_source=632a28fd&v=43610ED482C6DBBB9B3BA2F88F385CE583EE0CF8",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5951870610": {
+    "company": "CrowdStrike",
+    "title": "Sr. Engineer - Cloud (Remote)",
+    "url": "https://www.adzuna.com/land/ad/5951870610?se=iumvCrvX8RGT9NV5Q-REgg&utm_medium=api&utm_source=632a28fd&v=789B7775BC91CC4ED7C905FC1C28B14D24A973BC",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5951545348": {
+    "company": "CrowdStrike",
+    "title": "Engineer III - Cloud (Remote)",
+    "url": "https://www.adzuna.com/details/5951545348?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5951407098": {
+    "company": "CrowdStrike",
+    "title": "Sr. Engineer - Cloud (Remote)",
+    "url": "https://www.adzuna.com/details/5951407098?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5951369623": {
+    "company": "Bright Vision Technologies",
+    "title": "Cloud Network Engineer",
+    "url": "https://www.adzuna.com/details/5951369623?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5951369629": {
+    "company": "Bright Vision Technologies",
+    "title": "Cloud Systems Engineer",
+    "url": "https://www.adzuna.com/details/5951369629?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5951369627": {
+    "company": "Bright Vision Technologies",
+    "title": "Cloud Operations Engineer",
+    "url": "https://www.adzuna.com/details/5951369627?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5951369620": {
+    "company": "Bright Vision Technologies",
+    "title": "Cloud Migration Engineer",
+    "url": "https://www.adzuna.com/details/5951369620?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5951293711": {
+    "company": "Altamira Technologies",
+    "title": "Cloud Infrastructure Engineering Specialist (Senior) with Security Clearance",
+    "url": "https://www.adzuna.com/land/ad/5951293711?se=iumvCrvX8RGT9NV5Q-REgg&utm_medium=api&utm_source=632a28fd&v=BE2E95E159DB0D3ACFBF36A1DB8E2895C2B394AA",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5951292600": {
+    "company": "Altamira Technologies",
+    "title": "Data Product & Quality Specialist (Journeyman) with Security Clearance",
+    "url": "https://www.adzuna.com/land/ad/5951292600?se=iumvCrvX8RGT9NV5Q-REgg&utm_medium=api&utm_source=632a28fd&v=6841C40E6D9F3088465074A78F4A6CA068B3F2AA",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5951239899": {
+    "company": "ARCTICOM LLC",
+    "title": "Cloud Engineer",
+    "url": "https://www.adzuna.com/land/ad/5951239899?se=iumvCrvX8RGT9NV5Q-REgg&utm_medium=api&utm_source=632a28fd&v=32EEB69175DB7BA3A03F71F81F2A899526B98EC8",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5951145281": {
+    "company": "AKAASA Technologies",
+    "title": "Cloud Network Security Engineer (Micro-Segmentation)",
+    "url": "https://www.adzuna.com/details/5951145281?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5951132628": {
+    "company": "Genesis10",
+    "title": "Cloud Engineer - Hybrid/Remote",
+    "url": "https://www.adzuna.com/land/ad/5951132628?se=iumvCrvX8RGT9NV5Q-REgg&utm_medium=api&utm_source=632a28fd&v=1C87A1EC2FB2D850E7C80EC37B79946903813458",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5951073570": {
+    "company": "Bright Vision Technologies",
+    "title": "Cloud Infrastructure Engineer",
+    "url": "https://www.adzuna.com/details/5951073570?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5950986083": {
+    "company": "Bright Vision Technologies",
+    "title": "Oracle Cloud Integration Engineer",
+    "url": "https://www.adzuna.com/details/5950986083?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5950985991": {
+    "company": "Bright Vision Technologies",
+    "title": "Azure Cloud Engineer",
+    "url": "https://www.adzuna.com/details/5950985991?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5950985981": {
+    "company": "Bright Vision Technologies",
+    "title": "AWS Cloud Engineer",
+    "url": "https://www.adzuna.com/details/5950985981?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5950367070": {
+    "company": "Abbott Laboratories",
+    "title": "Senior Software Engineer, Cloud",
+    "url": "https://www.adzuna.com/details/5950367070?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5947256009": {
+    "company": "Contact Government Services, LLC",
+    "title": "Cloud Engineer (AWS) with Security Clearance",
+    "url": "https://www.adzuna.com/land/ad/5947256009?se=iumvCrvX8RGT9NV5Q-REgg&utm_medium=api&utm_source=632a28fd&v=31665C211935949BEA1176EC340FDD755FA0A97A",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5940770501": {
+    "company": "Contact Government Services, LLC",
+    "title": "Cloud Engineer (AWS) with Security Clearance",
+    "url": "https://www.adzuna.com/land/ad/5940770501?se=yPKoC7vX8RGT9NV5Q-REgg&utm_medium=api&utm_source=632a28fd&v=A9FF5D3EB29B359192C9CA24209BD2E64F4F93B1",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5951369679": {
+    "company": "Bright Vision Technologies",
+    "title": "Infrastructure as Code Engineer",
+    "url": "https://www.adzuna.com/details/5951369679?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5951146039": {
+    "company": "Cynet Systems",
+    "title": "Windows Infrastructure Automation Engineer - Remote / Telecommute",
+    "url": "https://www.adzuna.com/details/5951146039?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5951145287": {
+    "company": "AKAASA Technologies",
+    "title": "Simulation Engineer / Technical Lead",
+    "url": "https://www.adzuna.com/details/5951145287?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5951143178": {
+    "company": "VDart Inc",
+    "title": "Windows Infrastructure Automation Engineer",
+    "url": "https://www.adzuna.com/details/5951143178?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5951140990": {
+    "company": "HTC Global Services",
+    "title": "Infrastructure Support Engineer Network & Desktop- Senior",
+    "url": "https://www.adzuna.com/land/ad/5951140990?se=SgKKDLvX8RGUh96SGHoxpQ&utm_medium=api&utm_source=632a28fd&v=7AA6F1AC6B90F451E586A7DB0D4C7FB30812660A",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5951140786": {
+    "company": "Apex Systems",
+    "title": "Cyber Security Infrastructure Engineer IV",
+    "url": "https://www.adzuna.com/land/ad/5951140786?se=SgKKDLvX8RGUh96SGHoxpQ&utm_medium=api&utm_source=632a28fd&v=C8F371B957C8B042679E81D0289F860D1EC3F7D2",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5951132846": {
+    "company": "Braintree Technology Solutions",
+    "title": "Kubernetes / HPC Infrastructure Engineer",
+    "url": "https://www.adzuna.com/land/ad/5951132846?se=SgKKDLvX8RGUh96SGHoxpQ&utm_medium=api&utm_source=632a28fd&v=21555DB9223B4B5711A2F989AB36D65C2339E74A",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5950985990": {
+    "company": "Bright Vision Technologies",
+    "title": "Intelligent Infrastructure Engineer",
+    "url": "https://www.adzuna.com/details/5950985990?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5950948479": {
+    "company": "Cynet Systems",
+    "title": "Windows Infrastructure Automation Engineer - Remote / Telecommute",
+    "url": "https://www.adzuna.com/land/ad/5950948479?se=SgKKDLvX8RGUh96SGHoxpQ&utm_medium=api&utm_source=632a28fd&v=955CE40BD010218E8F3A370A89FF127A411C1429",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5950948200": {
+    "company": "Prudent Technologies and Consulting",
+    "title": "Windows Infrastructure Automation Engineer",
+    "url": "https://www.adzuna.com/land/ad/5950948200?se=SgKKDLvX8RGUh96SGHoxpQ&utm_medium=api&utm_source=632a28fd&v=7C0224D2774ED955A5F9665714BA0A9C6DB472B3",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5949914689": {
+    "company": "Phoenix Loss Control",
+    "title": "Field Claims Investigator",
+    "url": "https://www.adzuna.com/land/ad/5949914689?se=SgKKDLvX8RGUh96SGHoxpQ&utm_medium=api&utm_source=632a28fd&v=80F837B15B07B102860F8AB69F046E87F51C03C8",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5930023620": {
+    "company": "PointClickCare",
+    "title": "Intermediate AI-Enabled DevOps Engineer",
+    "url": "https://www.adzuna.com/details/5930023620?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-11-03 19:16:06"
+  },
+  "adzuna::5951369682": {
+    "company": "Bright Vision Technologies",
+    "title": "Kubernetes Engineer",
+    "url": "https://www.adzuna.com/details/5951369682?utm_medium=api&utm_source=632a28fd",
+    "first_seen_utc": "2026-11-03 19:16:06"
   }
 }
