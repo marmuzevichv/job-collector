@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-11-02 21:24 UTC
+Generated: 2026-11-03 19:05 UTC
 
-Total new jobs: 81
+Total new jobs: 92
 
 ## greenhouse
 
@@ -280,6 +280,16 @@ Total new jobs: 81
 
 ## jobicy
 
+- [Kernel Build Automation Engineer - Ubuntu Linux](https://jobicy.com/jobs/158610-kernel-build-automation-engineer-ubuntu-linux)
+  - Company: Canonical
+  - Location: EMEA
+  - Level/Team: Software Engineering
+
+- [Sr. Site Reliability Engineer](https://jobicy.com/jobs/154372-sr-site-reliability-engineer)
+  - Company: CentralReach
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
 - [Infrastructure Engineer/SRE](https://jobicy.com/jobs/157619-infrastructure-engineer-sre)
   - Company: Cresta
   - Location: Canada
@@ -295,6 +305,11 @@ Total new jobs: 81
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
+- [NOC Operator](https://jobicy.com/jobs/158723-noc-operator)
+  - Company: Getty Images
+  - Location: Ireland
+  - Level/Team: DevOps & Infrastructure
+
 - [Senior Backend Engineer, Core DevOps](https://jobicy.com/jobs/158061-senior-backend-engineer-core-devops)
   - Company: GitLab
   - Location: UK
@@ -305,8 +320,48 @@ Total new jobs: 81
   - Location: UK
   - Level/Team: Software Engineering
 
+- [Sr. Reliability Engineer](https://jobicy.com/jobs/158046-sr-reliability-engineer)
+  - Company: hims &#038; hers
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [AWS DevOps Engineer (Freelancer)](https://jobicy.com/jobs/152278-aws-devops-engineer-freelancer)
+  - Company: Mactores
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Site Reliability Engineer](https://jobicy.com/jobs/158114-site-reliability-engineer-5)
+  - Company: MaintainX
+  - Location: Canada
+  - Level/Team: DevOps & Infrastructure
+
+- [Software Engineer, Platform Engineering](https://jobicy.com/jobs/154333-software-engineer-platform-engineering)
+  - Company: Mural
+  - Location: Argentina
+  - Level/Team: DevOps & Infrastructure
+
 - [Infrastructure Engineer](https://jobicy.com/jobs/158274-infrastructure-engineer-6)
   - Company: Roboflow
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Senior Software Engineer, Platform](https://jobicy.com/jobs/158570-senior-software-engineer-platform-5)
+  - Company: SeatGeek
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Senior Solutions Delivery Engineer- DevOps](https://jobicy.com/jobs/158650-senior-solutions-delivery-engineer-devops)
+  - Company: Sonatype
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Senior IT Systems Engineer](https://jobicy.com/jobs/158383-senior-it-systems-engineer)
+  - Company: Tines
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [GPU Solutions Engineer](https://jobicy.com/jobs/158092-gpu-solutions-engineer)
+  - Company: Vultr
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 

@@ -130,6 +130,21 @@
     "collected_at_utc": "2026-11-02 21:24:25"
   },
   {
+    "source_type": "jobicy",
+    "company": "Canonical",
+    "title": "Kernel Build Automation Engineer - Ubuntu Linux",
+    "location": "EMEA",
+    "team": "Software Engineering",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/158610-kernel-build-automation-engineer-ubuntu-linux",
+    "external_id": "jobicy::158610",
+    "description_snippet": "Ubuntu Linux is one of the most widely used Linux distributions in the world today and one of the top contributing factors to its popularity is its wide availability and ease of installation. Canonical, the publisher of Ubuntu Linux, is seeking a senior software engineer to lead an initiative to tak",
+    "posted_at": "2026-11-03T05:50:50+00:00",
+    "collected_at_utc": "2026-11-03 19:03:20"
+  },
+  {
     "source_type": "greenhouse",
     "company": "canonical",
     "title": "MAAS Data Center Infrastructure Engineer (Toronto area)",
@@ -193,6 +208,21 @@
     "description_snippet": "",
     "posted_at": "2026-08-05T18:23:33-04:00",
     "collected_at_utc": "2026-11-02 21:24:25"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "CentralReach",
+    "title": "Sr. Site Reliability Engineer",
+    "location": "USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/154372-sr-site-reliability-engineer",
+    "external_id": "jobicy::154372",
+    "description_snippet": "CentralReach is a leading provider of autism and IDD care software for Applied Behavior Analysis (ABA), multidisciplinary therapy, and special education. Trusted by more than 200,000 users, we enable therapy providers, educators, and employers to scale the way they deliver ABA and related therapies ",
+    "posted_at": "2026-11-01T03:50:18+00:00",
+    "collected_at_utc": "2026-11-03 19:03:20"
   },
   {
     "source_type": "greenhouse",
@@ -435,6 +465,21 @@
     "collected_at_utc": "2026-11-02 21:24:25"
   },
   {
+    "source_type": "jobicy",
+    "company": "Getty Images",
+    "title": "NOC Operator",
+    "location": "Ireland",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/158723-noc-operator",
+    "external_id": "jobicy::158723",
+    "description_snippet": "Getty Images is looking for a NOC Operator who enjoys working with a diverse set of technologies and takes pride in their attention to detail. Someone who is looking to develop new skills and strengthen existing ones as they prepare for the next steps in their career. The mission of the NOC at Getty",
+    "posted_at": "2026-11-03T15:21:48+00:00",
+    "collected_at_utc": "2026-11-03 19:03:20"
+  },
+  {
     "source_type": "greenhouse",
     "company": "gitlab",
     "title": "Cloud Platform Engineer",
@@ -569,6 +614,21 @@
     "collected_at_utc": "2026-11-02 21:24:25"
   },
   {
+    "source_type": "jobicy",
+    "company": "hims &#038; hers",
+    "title": "Sr. Reliability Engineer",
+    "location": "USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/158046-sr-reliability-engineer",
+    "external_id": "jobicy::158046",
+    "description_snippet": "Hims &amp; Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and personal, from diagnosis to treatmen",
+    "posted_at": "2026-10-30T16:28:15+00:00",
+    "collected_at_utc": "2026-11-03 19:03:20"
+  },
+  {
     "source_type": "greenhouse",
     "company": "jetbrains",
     "title": "QA Automation Engineer (IJ Platform / Core team)",
@@ -694,6 +754,36 @@
     "description_snippet": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. Weâve been doing this since 2015, and more than 1,500 companies have hired engineers through us. New roles for Senior DevOps Engineers come in all the time, a",
     "posted_at": "2026-10-22T12:58:28+00:00",
     "collected_at_utc": "2026-11-02 21:24:25"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Mactores",
+    "title": "AWS DevOps Engineer (Freelancer)",
+    "location": "USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Contract']"
+    ],
+    "url": "https://jobicy.com/jobs/152278-aws-devops-engineer-freelancer",
+    "external_id": "jobicy::152278",
+    "description_snippet": "Mactores is the agent-native AWS modernization firm. Most modernization work doesn't ship, it stalls in pilots, slips a year, or lands at three times the budget. We exist to ship it: production systems running, legacy retired, outcomes measured. Our delivery is built on Aedeon, the agent platform bu",
+    "posted_at": "2026-11-03T03:35:29+00:00",
+    "collected_at_utc": "2026-11-03 19:03:20"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "MaintainX",
+    "title": "Site Reliability Engineer",
+    "location": "Canada",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/158114-site-reliability-engineer-5",
+    "external_id": "jobicy::158114",
+    "description_snippet": "MaintainX is a leading mobile-first work execution platform for industrial and frontline teams. More than 13,000 customers, including Duracell, McDonald's, Shell, DHL and Volvo, use MaintainX to cut unplanned downtime and run better operations, across 13.9 million managed assets and 79.5 million com",
+    "posted_at": "2026-10-30T18:06:28+00:00",
+    "collected_at_utc": "2026-11-03 19:03:20"
   },
   {
     "source_type": "lever",
@@ -839,6 +929,21 @@
     "description_snippet": "",
     "posted_at": "2026-11-02T07:58:50-05:00",
     "collected_at_utc": "2026-11-02 21:24:25"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Mural",
+    "title": "Software Engineer, Platform Engineering",
+    "location": "Argentina",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/154333-software-engineer-platform-engineering",
+    "external_id": "jobicy::154333",
+    "description_snippet": "ABOUT THE TEAM The Platform Engineering team builds the tools and services that accelerate the software development life cycle of the software engineers at Mural. We work on tools that provide a reliable development environment, on tools to easily test locally and remotely, on integrations with Gith",
+    "posted_at": "2026-11-01T03:50:11+00:00",
+    "collected_at_utc": "2026-11-03 19:03:20"
   },
   {
     "source_type": "greenhouse",
@@ -1051,6 +1156,21 @@
     "collected_at_utc": "2026-11-02 21:24:25"
   },
   {
+    "source_type": "jobicy",
+    "company": "SeatGeek",
+    "title": "Senior Software Engineer, Platform",
+    "location": "USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/158570-senior-software-engineer-platform-5",
+    "external_id": "jobicy::158570",
+    "description_snippet": "SeatGeek believes live events are powerful experiences that unite humans. With our technological savvy and fan-first attitude we’re simplifying and modernizing the ticketing industry. We are looking for a Senior Software Engineer to join SeatGeek’s Platform team. You'll improve the systems that powe",
+    "posted_at": "2026-11-02T16:01:06+00:00",
+    "collected_at_utc": "2026-11-03 19:03:20"
+  },
+  {
     "source_type": "remoteok",
     "company": "Smile Digital Health",
     "title": "Cloud Engineer Automation",
@@ -1100,6 +1220,21 @@
     "collected_at_utc": "2026-11-02 21:24:25"
   },
   {
+    "source_type": "jobicy",
+    "company": "Sonatype",
+    "title": "Senior Solutions Delivery Engineer- DevOps",
+    "location": "USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/158650-senior-solutions-delivery-engineer-devops",
+    "external_id": "jobicy::158650",
+    "description_snippet": "Sonatype is the software supply chain security company. We provide the world’s best end-to-end software supply chain security solution, combining the only proactive protection against malicious open source, the only enterprise grade SBOM management and the leading open source dependency management p",
+    "posted_at": "2026-11-03T14:19:48+00:00",
+    "collected_at_utc": "2026-11-03 19:03:20"
+  },
+  {
     "source_type": "greenhouse",
     "company": "starburst",
     "title": "AI Platform Engineer",
@@ -1113,6 +1248,21 @@
     "collected_at_utc": "2026-11-02 21:24:25"
   },
   {
+    "source_type": "jobicy",
+    "company": "Tines",
+    "title": "Senior IT Systems Engineer",
+    "location": "USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/158383-senior-it-systems-engineer",
+    "external_id": "jobicy::158383",
+    "description_snippet": "Tines is the intelligent workflow company that powers some of the world's most important workflows. Tines has been supporting IT and security teams from a diverse range of customers, including Canva, Reddit, SAP, Coinbase, Mars, Fin (Intercom), and McKesson. Tines 3B, launched in 2026, is the next g",
+    "posted_at": "2026-11-01T18:19:30+00:00",
+    "collected_at_utc": "2026-11-03 19:03:20"
+  },
+  {
     "source_type": "weworkremotely",
     "company": "Upstart",
     "title": "DevOps Engineer II, Cloud Platform",
@@ -1124,5 +1274,20 @@
     "description_snippet": "Headquarters: United States | Remote About Upstart At Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape access to credit, helping millions move forwa",
     "posted_at": "Mon, 26 Oct 2026 07:31:14 +0000",
     "collected_at_utc": "2026-11-02 21:24:25"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Vultr",
+    "title": "GPU Solutions Engineer",
+    "location": "USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/158092-gpu-solutions-engineer",
+    "external_id": "jobicy::158092",
+    "description_snippet": "Who We Are Vultr is on a mission to make high-performance cloud infrastructure easy to use, affordable, and locally accessible for enterprises and AI innovators around the world. With 33 global cloud data center locations, Vultr is trusted by hundreds of thousands of active customers across 185 coun",
+    "posted_at": "2026-10-30T17:41:15+00:00",
+    "collected_at_utc": "2026-11-03 19:03:20"
   }
 ]
