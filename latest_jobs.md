@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-11-03 19:05 UTC
+Generated: 2026-11-04 19:23 UTC
 
-Total new jobs: 92
+Total new jobs: 87
 
 ## greenhouse
 
@@ -90,11 +90,11 @@ Total new jobs: 92
   - Company: cloudflare
   - Location: Remote
 
-- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280093?gh_jid=8280093)
+- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280094?gh_jid=8280094)
   - Company: dropbox
   - Location: Remote
 
-- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280094?gh_jid=8280094)
+- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280093?gh_jid=8280093)
   - Company: dropbox
   - Location: Remote
 
@@ -178,11 +178,7 @@ Total new jobs: 92
   - Company: mongodb
   - Location: Remote
 
-- [Lead, Platform Engineering](https://www.mongodb.com/careers/job/?gh_jid=8071475)
-  - Company: mongodb
-  - Location: Remote
-
-- [Senior Site Reliability Engineer,  Fleet Management](https://www.mongodb.com/careers/job/?gh_jid=7727873)
+- [Senior Platform Engineer](https://www.mongodb.com/careers/job/?gh_jid=8071475)
   - Company: mongodb
   - Location: Remote
 
@@ -222,6 +218,10 @@ Total new jobs: 92
   - Company: okta
   - Location: Remote
 
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8184826?gh_jid=8184826)
+  - Company: okta
+  - Location: Remote
+
 - [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8260950?gh_jid=8260950)
   - Company: okta
   - Location: Remote
@@ -243,10 +243,6 @@ Total new jobs: 92
   - Location: Remote
 
 - [Senior Site Reliability Engineer  - EPG](https://www.okta.com/company/careers/opportunity/8268917?gh_jid=8268917)
-  - Company: okta
-  - Location: Remote
-
-- [Senior Software Engineer - SRE](https://www.okta.com/company/careers/opportunity/8263918?gh_jid=8263918)
   - Company: okta
   - Location: Remote
 
@@ -280,19 +276,9 @@ Total new jobs: 92
 
 ## jobicy
 
-- [Kernel Build Automation Engineer - Ubuntu Linux](https://jobicy.com/jobs/158610-kernel-build-automation-engineer-ubuntu-linux)
-  - Company: Canonical
-  - Location: EMEA
-  - Level/Team: Software Engineering
-
 - [Sr. Site Reliability Engineer](https://jobicy.com/jobs/154372-sr-site-reliability-engineer)
   - Company: CentralReach
   - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
-- [Infrastructure Engineer/SRE](https://jobicy.com/jobs/157619-infrastructure-engineer-sre)
-  - Company: Cresta
-  - Location: Canada
   - Level/Team: DevOps & Infrastructure
 
 - [ML Ops Infrastructure Engineer](https://jobicy.com/jobs/157868-ml-ops-infrastructure-engineer)
@@ -304,21 +290,6 @@ Total new jobs: 92
   - Company: ExtraHop
   - Location: USA
   - Level/Team: DevOps & Infrastructure
-
-- [NOC Operator](https://jobicy.com/jobs/158723-noc-operator)
-  - Company: Getty Images
-  - Location: Ireland
-  - Level/Team: DevOps & Infrastructure
-
-- [Senior Backend Engineer, Core DevOps](https://jobicy.com/jobs/158061-senior-backend-engineer-core-devops)
-  - Company: GitLab
-  - Location: UK
-  - Level/Team: Software Engineering
-
-- [Senior Backend Engineer, Core DevOps: Container Registry](https://jobicy.com/jobs/158063-senior-backend-engineer-core-devops-container-registry)
-  - Company: GitLab
-  - Location: UK
-  - Level/Team: Software Engineering
 
 - [Sr. Reliability Engineer](https://jobicy.com/jobs/158046-sr-reliability-engineer)
   - Company: hims &#038; hers
@@ -354,6 +325,11 @@ Total new jobs: 92
   - Company: Sonatype
   - Location: USA
   - Level/Team: DevOps & Infrastructure
+
+- [Automation Engineer, Agentic Orchestration](https://jobicy.com/jobs/158914-automation-engineer-agentic-orchestration)
+  - Company: StackAdapt
+  - Location: Canada,  USA
+  - Level/Team: Software Engineering
 
 - [Senior IT Systems Engineer](https://jobicy.com/jobs/158383-senior-it-systems-engineer)
   - Company: Tines
