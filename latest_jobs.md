@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-11-04 19:23 UTC
+Generated: 2026-11-05 19:31 UTC
 
-Total new jobs: 87
+Total new jobs: 86
 
 ## greenhouse
 
@@ -90,11 +90,11 @@ Total new jobs: 87
   - Company: cloudflare
   - Location: Remote
 
-- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280094?gh_jid=8280094)
+- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280093?gh_jid=8280093)
   - Company: dropbox
   - Location: Remote
 
-- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280093?gh_jid=8280093)
+- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280094?gh_jid=8280094)
   - Company: dropbox
   - Location: Remote
 
@@ -114,11 +114,11 @@ Total new jobs: 87
   - Company: fastly
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7814036003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=8044038003)
   - Company: fivetran
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=8044038003)
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7814036003)
   - Company: fivetran
   - Location: Remote
 
@@ -154,18 +154,6 @@ Total new jobs: 87
   - Company: gitlab
   - Location: Remote
 
-- [QA Automation Engineer (IJ Platform / Core team)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4867022101)
-  - Company: jetbrains
-  - Location: Remote
-
-- [QA Automation Engineer (IJ Platform / JetBrains Runtime)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4795218101)
-  - Company: jetbrains
-  - Location: Remote
-
-- [QA Automation Engineer (IntelliJ IDEA Java Build Tools)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4777935101)
-  - Company: jetbrains
-  - Location: Remote
-
 - [Release Engineer](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4966818101)
   - Company: jetbrains
   - Location: Remote
@@ -194,11 +182,11 @@ Total new jobs: 87
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7793634)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7793634)
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
   - Company: mongodb
   - Location: Remote
 
@@ -218,15 +206,15 @@ Total new jobs: 87
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8184826?gh_jid=8184826)
-  - Company: okta
-  - Location: Remote
-
 - [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8260950?gh_jid=8260950)
   - Company: okta
   - Location: Remote
 
 - [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8242984?gh_jid=8242984)
+  - Company: okta
+  - Location: Remote
+
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8184826?gh_jid=8184826)
   - Company: okta
   - Location: Remote
 
@@ -281,11 +269,6 @@ Total new jobs: 87
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
-- [ML Ops Infrastructure Engineer](https://jobicy.com/jobs/157868-ml-ops-infrastructure-engineer)
-  - Company: Deepgram
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
 - [Senior Software Engineer | Cloud](https://jobicy.com/jobs/158238-senior-software-engineer-cloud)
   - Company: ExtraHop
   - Location: USA
@@ -296,19 +279,29 @@ Total new jobs: 87
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
+- [Site Reliability Engineer 2](https://jobicy.com/jobs/154637-site-reliability-engineer-2-3)
+  - Company: Kong Inc.
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
 - [AWS DevOps Engineer (Freelancer)](https://jobicy.com/jobs/152278-aws-devops-engineer-freelancer)
   - Company: Mactores
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
-- [Site Reliability Engineer](https://jobicy.com/jobs/158114-site-reliability-engineer-5)
-  - Company: MaintainX
-  - Location: Canada
-  - Level/Team: DevOps & Infrastructure
-
 - [Software Engineer, Platform Engineering](https://jobicy.com/jobs/154333-software-engineer-platform-engineering)
   - Company: Mural
   - Location: Argentina
+  - Level/Team: DevOps & Infrastructure
+
+- [Data Center Design Lead](https://jobicy.com/jobs/159048-data-center-design-lead-2)
+  - Company: Nebius
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Field CTO, Financial Services AI Infrastructure](https://jobicy.com/jobs/159068-field-cto-financial-services-ai-infrastructure)
+  - Company: Nebius
+  - Location: USA
   - Level/Team: DevOps & Infrastructure
 
 - [Infrastructure Engineer](https://jobicy.com/jobs/158274-infrastructure-engineer-6)
@@ -326,14 +319,19 @@ Total new jobs: 87
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
-- [Automation Engineer, Agentic Orchestration](https://jobicy.com/jobs/158914-automation-engineer-agentic-orchestration)
-  - Company: StackAdapt
-  - Location: Canada,  USA
-  - Level/Team: Software Engineering
-
 - [Senior IT Systems Engineer](https://jobicy.com/jobs/158383-senior-it-systems-engineer)
   - Company: Tines
   - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Senior QA Automation Engineer (Platform)](https://jobicy.com/jobs/152407-senior-qa-automation-engineer-platform)
+  - Company: Upgrade
+  - Location: USA
+  - Level/Team: QA & Testing
+
+- [Cloud Operations Engineer](https://jobicy.com/jobs/158996-cloud-operations-engineer-3)
+  - Company: Varicent
+  - Location: Mexico
   - Level/Team: DevOps & Infrastructure
 
 - [GPU Solutions Engineer](https://jobicy.com/jobs/158092-gpu-solutions-engineer)
