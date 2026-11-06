@@ -1,7 +1,7 @@
 # Jobs via Adzuna API
 
-Generated: 2026-11-05 19:42 UTC
-Total jobs (24h window): 517
+Generated: 2026-11-06 19:05 UTC
+Total jobs (24h window): 642
 
 - [Azure DevOps Engineer | Remote - USC](https://www.adzuna.com/details/5954642958?utm_medium=api&utm_source=632a28fd)
   - Company: ISite Technologies Inc | US
@@ -2069,4 +2069,504 @@ Total jobs (24h window): 517
 
 - [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872995538?se=WgoZBVHZ8RGcxONAeSkpDg&utm_medium=api&utm_source=632a28fd&v=90426E6859A5179261EB2CBEB1098B8A134ADDBF)
   - Company: Cognizant | Ny State Campus, Albany County
+  - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
+
+- [DevOps Engineer](https://www.adzuna.com/details/5955394100?utm_medium=api&utm_source=632a28fd)
+  - Company: Initiate Government Solutions | Washington, D.C., US
+  - Full-time Description Founded in 2007, Initiate Government Solutions (IGS) is a Woman-Owned Small Business and a fully r...
+
+- [DevOps Engineer -Remote (DC, MD, VA- Locals only)](https://www.adzuna.com/details/5955255457?utm_medium=api&utm_source=632a28fd)
+  - Company: Swingtech | US
+  - Location: Remote (with occasional travel to Baltimore, MD and Greenbelt, MD) Swingtech Consulting, Inc. is seeking a ski...
+
+- [Cloud Devops Engineer](https://www.adzuna.com/details/5955032915?utm_medium=api&utm_source=632a28fd)
+  - Company: SFE | US
+  - Job Title: Sr Cloud DevOps Engineer Location: REMOTE Hire Type: Full time Required Skills Hands-on experience with AWS i...
+
+- [DevOps IAC Developer](https://www.adzuna.com/land/ad/5955025486?se=iqWZ6hTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=463B44DE9DAD978D56666DD32E65148795098FD1)
+  - Company: Xoriant Corporation | Park Ridge, Bergen County
+  - Job Requirements Job Title: DevOps IAC Developer/Engineer Location: Remote Duration: 6 Months Responsibilities: Design, ...
+
+- [Devops / UX Engineer](https://www.adzuna.com/details/5954964010?utm_medium=api&utm_source=632a28fd)
+  - Company: Protos IT | Mount Rainier, Prince George's County
+  - Job Title: Devops / UX Engineer Location: REMOTE with travel to DC Duration: 6 Months Contract to full-time Hire Basic Q...
+
+- [Senior DevOps Engineer | C#/.NET | CI/CD | PowerShell](https://www.adzuna.com/details/5954697229?utm_medium=api&utm_source=632a28fd)
+  - Company: Infinite Computer Solutions  | US
+  - Senior DevOps Engineer C#/.NET & Automation Remote Role Fulltime/W2-Infinite Computer Solutions Position Overview We are...
+
+- [DevOps Engineer](https://www.adzuna.com/land/ad/5952090166?se=iqWZ6hTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=F8C0B1C043CD080C4A2675ADAAB5C32F47A07805)
+  - Company: Compri Consulting | Boulder, Boulder County
+  - Compri Consulting is seeking a remote DevOps Engineer for a 3-month contract with our client in Boulder, CO. Hands-on De...
+
+- [Senior DevOps Engineer with Security Clearance](https://www.adzuna.com/land/ad/5936322065?se=Vim86xTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=5577C70E6BAF9FC07474F33A881E10F99FD98322)
+  - Company: ECS | Hampton Roads, Hampton City
+  - Job Description Everforth ECS is seeking a Senior DevOps Engineer to work remotely . ECS is seeking talented professiona...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955743688?se=-kgL7RTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=6622C18B84FCE675A18BE74BC7A4096007B70EF2)
+  - Company: SitusAMC | Grandview Heights, Franklin County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/details/5955737056?utm_medium=api&utm_source=632a28fd)
+  - Company: SitusAMC | Penbrook, Dauphin County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955736457?se=-kgL7RTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=6441219F89AA6A2E081587E5168AC5D5B5ABAE3B)
+  - Company: SitusAMC | Five Points, Wake County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/details/5955736021?utm_medium=api&utm_source=632a28fd)
+  - Company: SitusAMC | Springfield, Sangamon County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955732217?se=-kgL7RTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=A7E620C765A808FC0B451D2085528DA1B6CAA8FF)
+  - Company: SitusAMC | Atlanta, Fulton County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955729733?se=-kgL7RTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=60F786E145F0D945B566B06E8E4BD1F37182909F)
+  - Company: SitusAMC | Nashville, Davidson County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955728942?se=-kgL7RTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=E8E4A49DB390DA60527F30BB5E7A466AA83BB316)
+  - Company: SitusAMC | Uptown, Marion County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955728461?se=-kgL7RTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=E7E4C751D609528F2D0144118CA409139B477360)
+  - Company: SitusAMC | Lansing, Ingham County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955726810?se=-kgL7RTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=EF19F3D7AC64E76106EEA63A9F648F6B50A74DA9)
+  - Company: SitusAMC | Tumwater, Thurston County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955726515?se=-kgL7RTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=9885CBF0D8DECC74C71A94E2D624362BE86A6022)
+  - Company: SitusAMC | Cedar, Cole County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955725999?se=-kgL7RTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=CB5D5F586D8965776FFE9617DEB43D3EC38C4685)
+  - Company: SitusAMC | Trenton, Mercer County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955723133?se=-kgL7RTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=E99943F50522E1FD44FB19A67A43487DFA205E38)
+  - Company: SitusAMC | Madison, Dane County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955722159?se=-kgL7RTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=BBDD5EE9EEF9A37B00A91E2A2DDF3CC3C35259FC)
+  - Company: SitusAMC | Saint Paul, Ramsey County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955721534?se=-kgL7RTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=BD9C57197D75DAF1878DA7D22292C38EE001456B)
+  - Company: SitusAMC | Annapolis, Anne Arundel County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955718779?se=-kgL7RTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=D0E1FBD61260CC56EAA5CD8A7061FD20A32A6E89)
+  - Company: SitusAMC | Edgewood, Richland County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955718046?se=-kgL7RTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=26758ED4B883E28193BD7876687B39CC933647AD)
+  - Company: SitusAMC | Phoenix, Maricopa County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955716678?se=-kgL7RTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=FA2A29FD76F4530E36DA222A0E199667497DFC53)
+  - Company: SitusAMC | Frankfort, Franklin County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955715281?se=-kgL7RTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=937776746AE41F9973AACEE001097DBEB6738C9B)
+  - Company: SitusAMC | Ny State Campus, Albany County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955710523?se=-kgL7RTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=86A5B84E6D53D641656F8A14E8CF9A612F6E9AA8)
+  - Company: SitusAMC | Jackson, Hinds County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955709410?se=-kgL7RTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=290A07F501FBCDEEEA1087F58495F28BFA625CC6)
+  - Company: SitusAMC | Chisolm, Montgomery County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955708058?se=-kgL7RTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=015FACDDBCE78062D7FA000AD9D520EB29EF077A)
+  - Company: SitusAMC | Salem, Marion County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955707276?se=-kgL7RTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=35FD3759153548CEF3058B35C17796D0C17AB3B3)
+  - Company: SitusAMC | Oklahoma City, Oklahoma County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955707126?se=-kgL7RTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=F648D96B03B377D2B286D7A88EFA0BFD6659C432)
+  - Company: SitusAMC | Des Moines, Polk County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955706912?se=-kgL7RTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=5CEDFA1AAAE5294B4563F63B56E5E2B5B570D576)
+  - Company: SitusAMC | Topeka, Shawnee County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955706344?se=-kgL7RTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=7C1EE5584030DA0E04941DB16FC624E888AF9B8F)
+  - Company: SitusAMC | Bonnie, Utah County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955694721?se=-kgL7RTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=7B2574EBA9C27FA50268A01A09B4B13BCF60CBE2)
+  - Company: SitusAMC | La Cienga, Santa Fe County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955694351?se=-kgL7RTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=410E67132C9D3D1FF6594393E74E5894EF01BF90)
+  - Company: SitusAMC | Cammack Village, Pulaski County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955693662?se=-kgL7RTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=B3EC297594B82FCC1111DD0411BE77EE8D170E54)
+  - Company: SitusAMC | Charleston, Kanawha County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955693071?se=-kgL7RTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=B4B3C31E2D86BB278C6B9A3C26C9C88D3AE9FF90)
+  - Company: SitusAMC | Carson Mall, Carson City
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955692578?se=-kgL7RTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=B9A4298625648D0A669C0C16C8ADB46E2E73D152)
+  - Company: SitusAMC | State House, Lancaster County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955687193?se=-kgL7RTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=EC5199C23511194F56C7DB88D0CE3293E85F7E65)
+  - Company: SitusAMC | Boise, Ada County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955686746?se=-kgL7RTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=0A2E14085871109E518A9B36B290DCEF28FA891B)
+  - Company: SitusAMC | Washington, D.C., US
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/details/5955600001?utm_medium=api&utm_source=632a28fd)
+  - Company: SitusAMC | Capitol, Richmond
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955227520?se=-kgL7RTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=401F9EB954511EADB83E69336A9037419CF51687)
+  - Company: SitusAMC | Pierre, Hughes County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955227006?se=-kgL7RTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=3A49269711C10F5AD35D69FF45813C9570D4A2F0)
+  - Company: SitusAMC | Providence, Providence County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955219618?se=-kgL7RTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=B59C78246BCA023346CA11B140E9A4BA59F93B08)
+  - Company: SitusAMC | Bismarck, Burleigh County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955219376?se=-kgL7RTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=69E7D47A4E70689D5BB1E5C209CA0FE2C1A08499)
+  - Company: SitusAMC | Wyoming, Kent County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955048213?se=-kgL7RTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=7634C60DC824D4A509767E718BF27510BB20CAFE)
+  - Company: SitusAMC | Augusta, Kennebec County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955046134?se=-kgL7RTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=93EEA24C93F595CEF46FB0FF62EB3FBF9B585E1E)
+  - Company: SitusAMC | Helena, Lewis and Clark County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5954362267?se=-kgL7RTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=E6D780FE16374A01F3F4152D1EFBB622DB1A3D94)
+  - Company: SitusAMC | Atlanta, Fulton County
+  - Remote Remote Full time JR03043 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5954273779?se=xP747RTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=DFCC1DE3EAE5CDB0EB758E4D03D559632657E96A)
+  - Company: SitusAMC | Topeka, Shawnee County
+  - Remote Remote Full time JR03043 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5954272510?se=xP747RTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=89EF0273E70D712A1C47AD0918E1C57F09BBBC43)
+  - Company: SitusAMC | Salem, Marion County
+  - Remote Remote Full time JR03043 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5954270450?se=xP747RTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=EF3D1FAD2DBEFEA65A7A638DA2C54C2C4B2EEF82)
+  - Company: SitusAMC | Des Moines, Polk County
+  - Remote Remote Full time JR03043 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5954267818?se=xP747RTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=1B5B1A66E6514AC7F982545EC279CFF1192750F5)
+  - Company: SitusAMC | Oklahoma City, Oklahoma County
+  - Remote Remote Full time JR03043 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5954257690?se=xP747RTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=F8788CD32D97C36F35108395E3E8AAD349AE8333)
+  - Company: SitusAMC | Boise, Ada County
+  - Remote Remote Full time JR03043 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Sr Site Reliability Engineer -Remote US](https://www.adzuna.com/land/ad/5953894928?se=xP747RTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=667F95D9DF6E85CE747D61CACE8D8CD0C10FEC85)
+  - Company: SitusAMC | Montpelier, Washington County
+  - Remote Remote Full time JR03043 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Platform Engineer - Remote](https://www.adzuna.com/land/ad/5955792724?se=tG3j7xTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=6E8FFB36DF9658ABED4D0FF78E21213EEEB292CF)
+  - Company: SitusAMC | Concord, Merrimack County
+  - Remote Remote Full time JR02900 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Sr. Systems Engineer - AI Gateway Platform(Remote)](https://www.adzuna.com/land/ad/5955789376?se=tG3j7xTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=A1D61C4F3F50D8FF35588E5FFECD2C56F0230D4E)
+  - Company: CrowdStrike | Concord, Merrimack County
+  - USA - Remote Full time R30063 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Senior AI Engineer – Forward Deployed, Agent Platform (REMOTE)](https://www.adzuna.com/land/ad/5955767785?se=tG3j7xTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=0A9A57BB33F1E06FB104CDF6424CF11FE70F92EF)
+  - Company: Home Depot | Atlanta, Fulton County
+  - With a career at The Home Depot, you can be yourself and also be part of something bigger. Position Purpose: Embed with ...
+
+- [Platform Engineer - Remote](https://www.adzuna.com/details/5955737078?utm_medium=api&utm_source=632a28fd)
+  - Company: SitusAMC | Penbrook, Dauphin County
+  - Remote Remote Full time JR02900 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Platform Engineer - Remote](https://www.adzuna.com/land/ad/5955736488?se=tG3j7xTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=20051D9A90FE65F43D8EE142BF286A3E30A9D29D)
+  - Company: SitusAMC | Five Points, Wake County
+  - Remote Remote Full time JR02900 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Platform Engineer - Remote](https://www.adzuna.com/details/5955736033?utm_medium=api&utm_source=632a28fd)
+  - Company: SitusAMC | Springfield, Sangamon County
+  - Remote Remote Full time JR02900 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Platform Engineer - Remote](https://www.adzuna.com/land/ad/5955732258?se=tG3j7xTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=425C3AE99A2A5B890061CAC96571B29D0D50C85E)
+  - Company: SitusAMC | Atlanta, Fulton County
+  - Remote Remote Full time JR02900 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Platform Engineer - Remote](https://www.adzuna.com/land/ad/5955729748?se=tG3j7xTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=EAFEF20633FAE70B65A79E53EF260EEFD9EAFE95)
+  - Company: SitusAMC | Nashville, Davidson County
+  - Remote Remote Full time JR02900 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Platform Engineer - Remote](https://www.adzuna.com/land/ad/5955728954?se=tG3j7xTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=02AB72E67D2BA525E9099400542B02A90C9D3FD5)
+  - Company: SitusAMC | Uptown, Marion County
+  - Remote Remote Full time JR02900 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Platform Engineer - Remote](https://www.adzuna.com/land/ad/5955728411?se=tG3j7xTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=D1E1063EBF137DEA25F07E3F379E0782F23656DE)
+  - Company: SitusAMC | Lansing, Ingham County
+  - Remote Remote Full time JR02900 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Platform Engineer - Remote](https://www.adzuna.com/land/ad/5955726805?se=tG3j7xTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=E831D2A8913ABD2223F18D103A9936FBD01FEC94)
+  - Company: SitusAMC | Tumwater, Thurston County
+  - Remote Remote Full time JR02900 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Platform Engineer - Remote](https://www.adzuna.com/land/ad/5955726505?se=tG3j7xTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=1FAF09CE626DBA7A59D123E6D00E49B67FD87A4B)
+  - Company: SitusAMC | Cedar, Cole County
+  - Remote Remote Full time JR02900 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Platform Engineer - Remote](https://www.adzuna.com/land/ad/5955725952?se=tG3j7xTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=F0961D6CEA7AB7851A12A7D111DB55CAB7FD23CC)
+  - Company: SitusAMC | Trenton, Mercer County
+  - Remote Remote Full time JR02900 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Platform Engineer - Remote](https://www.adzuna.com/land/ad/5955723145?se=tG3j7xTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=5494F31F9FAFA1D7DCA9CE62E627F74CBC939293)
+  - Company: SitusAMC | Madison, Dane County
+  - Remote Remote Full time JR02900 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Platform Engineer - Remote](https://www.adzuna.com/land/ad/5955722172?se=tG3j7xTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=8240BDA24666A0BC7884778D025AD518AB345D9C)
+  - Company: SitusAMC | Saint Paul, Ramsey County
+  - Remote Remote Full time JR02900 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Platform Engineer - Remote](https://www.adzuna.com/land/ad/5955721559?se=tG3j7xTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=4C2A76D0EEEEB823E0B13D67B223C3E98F543850)
+  - Company: SitusAMC | Annapolis, Anne Arundel County
+  - Remote Remote Full time JR02900 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Platform Engineer - Remote](https://www.adzuna.com/land/ad/5955718836?se=tG3j7xTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=84E0FA5A3C302BB081DAA64C60E4A6DA6423F0D7)
+  - Company: SitusAMC | Edgewood, Richland County
+  - Remote Remote Full time JR02900 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Platform Engineer - Remote](https://www.adzuna.com/land/ad/5955718040?se=tG3j7xTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=AA023C75913BC87EC3F01C3E12855A52C10B9352)
+  - Company: SitusAMC | Phoenix, Maricopa County
+  - Remote Remote Full time JR02900 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Platform Engineer - Remote](https://www.adzuna.com/land/ad/5955716734?se=tG3j7xTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=857B11B85D0EC8CFF145F8D99FBD913415FD7693)
+  - Company: SitusAMC | Frankfort, Franklin County
+  - Remote Remote Full time JR02900 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Platform Engineer](https://www.adzuna.com/land/ad/5955711894?se=tG3j7xTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=E4F64119FA399F155A3E38BE7D75938A10762180)
+  - Company: ManpowerGroup | New Jersey, US
+  - Our client, enterprise technology and data governance organization is seeking a Platform Engineer to join their team. As...
+
+- [Platform Engineer - Remote](https://www.adzuna.com/land/ad/5955710508?se=tG3j7xTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=723A9F5167A83F7E4E3AB9E132D88BF4B798562E)
+  - Company: SitusAMC | Jackson, Hinds County
+  - Remote Remote Full time JR02900 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Platform Engineer - Remote](https://www.adzuna.com/land/ad/5955709399?se=tG3j7xTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=9C5315384BE4F60EB9935D14002681A59583F655)
+  - Company: SitusAMC | Chisolm, Montgomery County
+  - Remote Remote Full time JR02900 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Platform Engineer - Remote](https://www.adzuna.com/land/ad/5955708055?se=tG3j7xTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=2A57DC1E932F4F656D2D509EF00933C56BECE331)
+  - Company: SitusAMC | Salem, Marion County
+  - Remote Remote Full time JR02900 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Platform Engineer - Remote](https://www.adzuna.com/land/ad/5955707269?se=tG3j7xTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=24C535DE4BDF7AB277708518915CDC6EA5CE2B6F)
+  - Company: SitusAMC | Oklahoma City, Oklahoma County
+  - Remote Remote Full time JR02900 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Platform Engineer - Remote](https://www.adzuna.com/land/ad/5955707153?se=tG3j7xTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=82F6EDA5E06242022EAA526FB05CE5CB67657DE0)
+  - Company: SitusAMC | Des Moines, Polk County
+  - Remote Remote Full time JR02900 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Platform Engineer - Remote](https://www.adzuna.com/land/ad/5955706949?se=tG3j7xTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=1959A0F80642C50B94489306D4123D53EFDDDF20)
+  - Company: SitusAMC | Topeka, Shawnee County
+  - Remote Remote Full time JR02900 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Platform Engineer - Remote](https://www.adzuna.com/land/ad/5955706356?se=tG3j7xTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=52CF11BF255E2CD6F8C415A69FFBE8C45609053F)
+  - Company: SitusAMC | Bonnie, Utah County
+  - Remote Remote Full time JR02900 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Platform Engineer - Remote](https://www.adzuna.com/land/ad/5955694723?se=tG3j7xTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=34D453EBA8B148E5635CB43B09F6AB9F971CEDC5)
+  - Company: SitusAMC | La Cienga, Santa Fe County
+  - Remote Remote Full time JR02900 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Platform Engineer - Remote](https://www.adzuna.com/land/ad/5955694340?se=tG3j7xTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=CE3E6C755FCD1C553BA97E614118246CFB8AFE82)
+  - Company: SitusAMC | Cammack Village, Pulaski County
+  - Remote Remote Full time JR02900 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Platform Engineer - Remote](https://www.adzuna.com/land/ad/5955693672?se=tG3j7xTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=0A51300566F37102382DFB58E2CC634E228D418E)
+  - Company: SitusAMC | Charleston, Kanawha County
+  - Remote Remote Full time JR02900 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Platform Engineer - Remote](https://www.adzuna.com/land/ad/5955693070?se=tG3j7xTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=AB6523B3AAE18B09AE96DC6CBE321C2B52F40779)
+  - Company: SitusAMC | Carson Mall, Carson City
+  - Remote Remote Full time JR02900 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Platform Engineer - Remote](https://www.adzuna.com/land/ad/5955692592?se=tG3j7xTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=DE0C6269ED8E7B2D30297486D1E237D03D83D86A)
+  - Company: SitusAMC | State House, Lancaster County
+  - Remote Remote Full time JR02900 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Platform Engineer - Remote](https://www.adzuna.com/land/ad/5955687182?se=tG3j7xTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=BE09E7F521A3E201625D0D4D8DF0EA5F7BF14F75)
+  - Company: SitusAMC | Boise, Ada County
+  - Remote Remote Full time JR02900 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Platform Engineer - Remote](https://www.adzuna.com/land/ad/5955686747?se=tG3j7xTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=7B85E7153DA43E8162632FA14A40D2FBAE3130EE)
+  - Company: SitusAMC | Washington, D.C., US
+  - Remote Remote Full time JR02900 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Platform Engineer - Remote](https://www.adzuna.com/details/5955669343?utm_medium=api&utm_source=632a28fd)
+  - Company: SitusAMC | Tallahassee, Leon County
+  - Remote Remote Full time JR02900 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Platform Engineer - Remote](https://www.adzuna.com/details/5955600004?utm_medium=api&utm_source=632a28fd)
+  - Company: SitusAMC | Capitol, Richmond
+  - Remote Remote Full time JR02900 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Infrastructure / SRE Engineer - USA](https://www.adzuna.com/details/5955566718?utm_medium=api&utm_source=632a28fd)
+  - Company: Inviso | US
+  - Infrastructure / SRE Engineer Inviso is partnering with one of our clients to find an experienced Backend / Platform Eng...
+
+- [Data Platform Engineer with Security Clearance](https://www.adzuna.com/land/ad/5955363590?se=tG3j7xTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=E1F5CEE92563794E49721EA31146D0A431C9AD47)
+  - Company: Altamira Technologies | Suitland, Prince George's County
+  - Data Platform Engineer Data Science/Data EngineeringSuitland, MD Data Platform Engineer Altamira Technologies has a long...
+
+- [Backend / Platform Engineer - USA](https://www.adzuna.com/details/5955311979?utm_medium=api&utm_source=632a28fd)
+  - Company: Inviso | US
+  - Backend / Platform Engineer Inviso is partnering with one of our clients to find an experienced Backend / Platform Engin...
+
+- [Platform Engineer - Remote](https://www.adzuna.com/land/ad/5955227517?se=tG3j7xTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=BF818B2CCB195A9703CC8A149C0F37B2752499CC)
+  - Company: SitusAMC | Pierre, Hughes County
+  - Remote Remote Full time JR02900 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Platform Engineer - Remote](https://www.adzuna.com/land/ad/5955227007?se=tG3j7xTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=975F001F1EE6369BCBA1A2E8BC462C0C51830139)
+  - Company: SitusAMC | Providence, Providence County
+  - Remote Remote Full time JR02900 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Platform Engineer - Remote](https://www.adzuna.com/land/ad/5955219619?se=tG3j7xTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=E7365BE0BB7F25063A60B64C03A5E736306401FE)
+  - Company: SitusAMC | Bismarck, Burleigh County
+  - Remote Remote Full time JR02900 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Platform Engineer - Remote](https://www.adzuna.com/land/ad/5955219378?se=tG3j7xTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=9424F572176CA9F81DFBF5385B5FC0B248A23A00)
+  - Company: SitusAMC | Wyoming, Kent County
+  - Remote Remote Full time JR02900 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Platform Engineer - Remote](https://www.adzuna.com/land/ad/5955048194?se=tG3j7xTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=5B67C9DC5270F502034EAED5A671D66CFBCF08A9)
+  - Company: SitusAMC | Augusta, Kennebec County
+  - Remote Remote Full time JR02900 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Platform Engineer - Remote](https://www.adzuna.com/land/ad/5955046122?se=tG3j7xTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=FD3B3DC3EB60F9A7977F05F1E2E4443ED2B734B5)
+  - Company: SitusAMC | Helena, Lewis and Clark County
+  - Remote Remote Full time JR02900 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Data Platform Engineer](https://www.adzuna.com/details/5955034541?utm_medium=api&utm_source=632a28fd)
+  - Company: Noblesoft Technologies | Alaska, US
+  - Job Title: Data Platform Engineer Job Location: USA 100% Remote (EST or CST candidates) Job Duration: 2 years with the p...
+
+- [Senior Machine Learning Engineer (AI Platform & GenAI)](https://www.adzuna.com/details/5954697259?utm_medium=api&utm_source=632a28fd)
+  - Company: SYSTEM SOFT TECHNOLOGIES LLC | US
+  - a { text-decoration: none; color: 464feb; } tr th, tr td { border: 1px solid e6e6e6; } tr th { background-color: f5f5f5;...
+
+- [Data Platform Engineer](https://www.adzuna.com/details/5954258094?utm_medium=api&utm_source=632a28fd)
+  - Company: Altamira Technology Corporation | Tampa, Hillsborough County
+  - Altamira Technologies has a long and successful history providing innovative solutions throughout the U.S. National Secu...
+
+- [Azure Cloud Engineer](https://www.adzuna.com/land/ad/5955866428?se=GB3X8hTa8RGD5Iv7NVeOtg&utm_medium=api&utm_source=632a28fd&v=0085A0455E24834E865F4A9E926D149541EA06C3)
+  - Company: Apollo Technology Solutions LLC | Mechanicsville, Hanover County
+  - Job Description Job Description Title: Azure Cloud Engineer Location: Mechanicsville, VA(Remote) Duration: 8 Months Inte...
+
+- [Cloud AWS Engineer - V (REMOTE)](https://www.adzuna.com/land/ad/5955865741?se=GB3X8hTa8RGD5Iv7NVeOtg&utm_medium=api&utm_source=632a28fd&v=6023E5C238E2FDA63590E9077B91B07D09B5CD0E)
+  - Company: Varite, Inc | Richmond, Richmond County
+  - Job Description Job Description Pay Rate Range: USD 90.00 /hr - USD 125.00 /hr on W2 Job Description: Responsibilities: ...
+
+- [VDOT Tolling Azure Cloud Engineer](https://www.adzuna.com/land/ad/5955865624?se=GB3X8hTa8RGD5Iv7NVeOtg&utm_medium=api&utm_source=632a28fd&v=0633A81E202D6360A8944EA032472A261D379F93)
+  - Company: Talent Software Services, Inc. | Mechanicsville, Hanover County
+  - Job Description Job Description Job Title: Azure Cloud Engineer Job Location: Mechanicsville, VA 23116 (Remote) Job Dura...
+
+- [Azure Cloud Engineer](https://www.adzuna.com/land/ad/5955864503?se=GB3X8hTa8RGD5Iv7NVeOtg&utm_medium=api&utm_source=632a28fd&v=0B34404CDAA6A4243BC2E251247F08C13AC5C143)
+  - Company: Ampcus Incorporated | Mechanicsville, Hanover County
+  - Job Description Job Description Ampcus Inc. is a certified global provider of a broad range of Technology and Business c...
+
+- [Senior Software Engineer, Cloud](https://www.adzuna.com/details/5955734744?utm_medium=api&utm_source=632a28fd)
+  - Company: Abbott | Downey, Lake County
+  - Abbott is a global healthcare leader that helps people live more fully at all stages of life. Our portfolio of life-chan...
+
+- [Senior Software Engineer – Cloud Engineering (GCP / AWS / Azure)](https://www.adzuna.com/details/5955603977?utm_medium=api&utm_source=632a28fd)
+  - Company: Alphanumeric Systems | Rahns, Montgomery County
+  - Senior Software Engineer – Cloud Engineering (GCP / AWS / Azure) Location: 100% Remote – United States Must be located i...
+
+- [Cloud Engineer](https://www.adzuna.com/details/5955586045?utm_medium=api&utm_source=632a28fd)
+  - Company: HTP Consulting Services | West Virginia, US
+  - Job Description Salary Range - $75,000 to $95,000 \n \n Company Description \n HTP is an IT consulting and software deve...
+
+- [Sr AWS Cloud Engineer](https://www.adzuna.com/details/5955258309?utm_medium=api&utm_source=632a28fd)
+  - Company: Ingram Micro | Field, Bell County
+  - Accelerate your career. Join the organization that's driving the world's technology and shape the future. Ingram Micro i...
+
+- [Cloud Engineer](https://www.adzuna.com/land/ad/5955128558?se=GB3X8hTa8RGD5Iv7NVeOtg&utm_medium=api&utm_source=632a28fd&v=56915C7FFDDEBC73511066C45D908BE3AD590A20)
+  - Company: HTP Consulting Services | US
+  - Salary Range - $75,000 to $95,000 Company Description HTP is an IT consulting and software development company. Our team...
+
+- [Sr. Engineer - Cloud (Remote)](https://www.adzuna.com/details/5954177987?utm_medium=api&utm_source=632a28fd)
+  - Company: CrowdStrike | Capitol, Richmond
+  - USA - Remote Full time R30483 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Cloud Engineer](https://www.adzuna.com/details/5953669624?utm_medium=api&utm_source=632a28fd)
+  - Company: Bering Straits Native Corporation | Anchorage, Alaska
+  - About Arcticom, LLC Arcticom LLC provides network and systems administration, enterprise architecture and resource plann...
+
+- [Kubernetes Infrastructure Engineer-Remote](https://www.adzuna.com/details/5955562210?utm_medium=api&utm_source=632a28fd)
+  - Company: CruiTek | US
+  - Kubernetes Infrastructure Engineer-Remote No 3 rd Parties or Sponsorships 1 Year Project *MUST have Extensive and curren...
+
+- [CAD Infrastructure Engineer](https://www.adzuna.com/land/ad/5955126701?se=VHqL9RTa8RGD5Iv7NVeOtg&utm_medium=api&utm_source=632a28fd&v=84157930F354204FD09E11E351C58D71B23E65FB)
+  - Company: HCLTech | Redmond, King County
+  - HCLTech is looking for a highly talented and self-motivated CAD Infrastructure Engineer to join it in advancing the tech...
+
+- [Infrastructure Engineer II](https://www.adzuna.com/land/ad/5954295091?se=VHqL9RTa8RGD5Iv7NVeOtg&utm_medium=api&utm_source=632a28fd&v=9AAA5A8EDA08A16D1DE10FD6921DEC8865CE2D9F)
+  - Company: American Express | Phoenix, Maricopa County
+  - Infrastructure Engineer II Phoenix, AZ, United States(Remote) Job Description Joining Amex Tech means discovering and sh...
+
+- [Senior Infrastructure & Platform Engineer with Security Clearance](https://www.adzuna.com/land/ad/5947275064?se=VHqL9RTa8RGD5Iv7NVeOtg&utm_medium=api&utm_source=632a28fd&v=C84E365A3A0CCC19D73ED6D6D26BED676619D17C)
+  - Company: ECS | Hampton Roads, Hampton City
+  - Job Description ECS is seeking a Senior Infrastructure & Platform Engineer to work remotely . Please Note: This position...
+
+- [Oracle Cloud Infrastructure Monitoring & Observability Engineer, with Security Clearance](https://www.adzuna.com/land/ad/5947265294?se=VHqL9RTa8RGD5Iv7NVeOtg&utm_medium=api&utm_source=632a28fd&v=BF83EEB56A3B1CBB91855A99DF450F1D718B8D33)
+  - Company: ECS | Hampton Roads, Hampton City
+  - Job Description Overview ECS is seeking an Oracle Cloud Infrastructure (OCI) Monitoring & Observability Engineer to work...
+
+- [Cloud Engineer (Cloud Engineer 3) 30895](https://www.adzuna.com/details/5955597852?utm_medium=api&utm_source=632a28fd)
+  - Company: Huntington Ingalls Industries | Fairfax, Fairfax County
+  - Requisition Number: 30895 Required Travel: 0 - 10% Employment Type: Full Time/Salaried/Exempt Anticipated Salary Range: ...
+
+- [DevSecOps Engineer -Remote](https://www.adzuna.com/details/5955587297?utm_medium=api&utm_source=632a28fd)
+  - Company: CruiTek | US
+  - DevSecOps Engineer -Remote No 3rd PARTIES or Sponsorships at this point 100% Remote Great Company *4 Month Project *Hand...
+
+- [Lead Developer - Remote](https://www.adzuna.com/details/5954963307?utm_medium=api&utm_source=632a28fd)
+  - Company: Protos IT | US
+  - DevSecOps The role is primarily remote, with occasional on-site presence at a customer facility in the Washington, DC me...
+
+- [Senior DevSecOps Engineer (Azure Experience) - Remote (USA)](https://www.adzuna.com/details/5954953276?utm_medium=api&utm_source=632a28fd)
+  - Company: Echelon Risk + Cyber | Washington, Washington, D.C.
+  - About us: At Echelon Risk  Cyber, we believe in defending basic human rights to security and privacy. We are seeking a S...
+
+- [Cloud DevSecOps Engineer with Security Clearance](https://www.adzuna.com/land/ad/5897990957?se=Wjs--RTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=764E874E6DCDD8475ED8F1E0F5108C3E5B1464CF)
+  - Company: ECS | Hampton Roads, Hampton City
+  - Job Description ECS is seeking a Cloud DevSecOps Engineer to work remotely. Job Description: We are seeking a highly ski...
+
+- [Software Development Engineer, SRE (US Federal) with Security Clearance](https://www.adzuna.com/land/ad/5937593431?se=4rRJ-xTa8RGJ_5m-0JeM1g&utm_medium=api&utm_source=632a28fd&v=9DE3BAD9BFB1BF0F8B7BF2B8FEBF132302FBD0B1)
+  - Company: Workday | Reston, Fairfax County
+  - Your work days are brighter here. We’re obsessed with making hard work pay off, for our people, our customers, and the w...
+
+- [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872971346?se=Phn6_RTa8RG34JVfd8b-pw&utm_medium=api&utm_source=632a28fd&v=EB56E6E0203AE10FC722AF61B44C465E923CBCAE)
+  - Company: Cognizant | Five Points, Wake County
   - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
