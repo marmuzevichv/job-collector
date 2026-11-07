@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-11-06 18:54 UTC
+Generated: 2026-11-07 17:27 UTC
 
-Total new jobs: 86
+Total new jobs: 83
 
 ## greenhouse
 
@@ -31,10 +31,6 @@ Total new jobs: 86
   - Location: Remote
 
 - [Pre-training Data Infrastructure Engineer](https://job-boards.greenhouse.io/anthropic/jobs/4973067008)
-  - Company: anthropic
-  - Location: Remote
-
-- [Staff+ Infrastructure Engineer, Cluster Infrastructure](https://job-boards.greenhouse.io/anthropic/jobs/5206978008)
   - Company: anthropic
   - Location: Remote
 
@@ -90,11 +86,11 @@ Total new jobs: 86
   - Company: cloudflare
   - Location: Remote
 
-- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280093?gh_jid=8280093)
+- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280094?gh_jid=8280094)
   - Company: dropbox
   - Location: Remote
 
-- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280094?gh_jid=8280094)
+- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280093?gh_jid=8280093)
   - Company: dropbox
   - Location: Remote
 
@@ -134,10 +130,6 @@ Total new jobs: 86
   - Company: gitlab
   - Location: Remote
 
-- [Senior Backend Engineer, Core DevOps: Container Registry](https://job-boards.greenhouse.io/gitlab/jobs/8687958002)
-  - Company: gitlab
-  - Location: Remote
-
 - [Senior CX Platform Engineer](https://job-boards.greenhouse.io/gitlab/jobs/8871406002)
   - Company: gitlab
   - Location: Remote
@@ -170,6 +162,10 @@ Total new jobs: 86
   - Company: mongodb
   - Location: Remote
 
+- [Senior Site Reliability Engineer, InfraSec](https://www.mongodb.com/careers/job/?gh_jid=8278897)
+  - Company: mongodb
+  - Location: Remote
+
 - [Senior Site Reliability Engineer, Infrastructure Security](https://www.mongodb.com/careers/job/?gh_jid=7668289)
   - Company: mongodb
   - Location: Remote
@@ -182,11 +178,11 @@ Total new jobs: 86
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7793634)
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7793634)
   - Company: mongodb
   - Location: Remote
 
@@ -206,7 +202,7 @@ Total new jobs: 86
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8260950?gh_jid=8260950)
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8015032?gh_jid=8015032)
   - Company: okta
   - Location: Remote
 
@@ -218,7 +214,7 @@ Total new jobs: 86
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8015032?gh_jid=8015032)
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8260950?gh_jid=8260950)
   - Company: okta
   - Location: Remote
 
@@ -264,18 +260,8 @@ Total new jobs: 86
 
 ## jobicy
 
-- [Sr. Site Reliability Engineer](https://jobicy.com/jobs/154372-sr-site-reliability-engineer)
-  - Company: CentralReach
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
-- [Senior Software Engineer | Cloud](https://jobicy.com/jobs/158238-senior-software-engineer-cloud)
-  - Company: ExtraHop
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
-- [Sr. Reliability Engineer](https://jobicy.com/jobs/158046-sr-reliability-engineer)
-  - Company: hims &#038; hers
+- [GxP Systems and Support Administrator](https://jobicy.com/jobs/154799-gxp-systems-and-support-administrator)
+  - Company: CAI
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
@@ -289,25 +275,20 @@ Total new jobs: 86
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
-- [Software Engineer, Platform Engineering](https://jobicy.com/jobs/154333-software-engineer-platform-engineering)
-  - Company: Mural
-  - Location: Argentina
-  - Level/Team: DevOps & Infrastructure
-
-- [Data Center Design Lead](https://jobicy.com/jobs/159048-data-center-design-lead-2)
-  - Company: Nebius
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
 - [Field CTO, Financial Services AI Infrastructure](https://jobicy.com/jobs/159068-field-cto-financial-services-ai-infrastructure)
   - Company: Nebius
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
-- [Infrastructure Engineer](https://jobicy.com/jobs/158274-infrastructure-engineer-6)
-  - Company: Roboflow
+- [Infrastructure Software Engineer](https://jobicy.com/jobs/159464-infrastructure-software-engineer-2)
+  - Company: Nebius
   - Location: USA
   - Level/Team: DevOps & Infrastructure
+
+- [DevSecOps Engineer](https://jobicy.com/jobs/159463-devsecops-engineer)
+  - Company: Oddball
+  - Location: USA
+  - Level/Team: Cybersecurity
 
 - [Senior Software Engineer, Platform](https://jobicy.com/jobs/158570-senior-software-engineer-platform-5)
   - Company: SeatGeek
@@ -319,9 +300,24 @@ Total new jobs: 86
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
-- [Senior IT Systems Engineer](https://jobicy.com/jobs/158383-senior-it-systems-engineer)
-  - Company: Tines
+- [Senior Database Engineer](https://jobicy.com/jobs/159461-senior-database-engineer-2)
+  - Company: Spreedly
   - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [FinOps Engineer](https://jobicy.com/jobs/159370-finops-engineer)
+  - Company: Supabase
+  - Location: Anywhere
+  - Level/Team: DevOps & Infrastructure
+
+- [OrioleDB Deployment Engineer](https://jobicy.com/jobs/159380-orioledb-deployment-engineer)
+  - Company: Supabase
+  - Location: Anywhere
+  - Level/Team: DevOps & Infrastructure
+
+- [Platform Engineer, Edge & Networking](https://jobicy.com/jobs/159366-platform-engineer-edge-networking)
+  - Company: Supabase
+  - Location: Anywhere
   - Level/Team: DevOps & Infrastructure
 
 - [Senior QA Automation Engineer (Platform)](https://jobicy.com/jobs/152407-senior-qa-automation-engineer-platform)
@@ -334,22 +330,12 @@ Total new jobs: 86
   - Location: Mexico
   - Level/Team: DevOps & Infrastructure
 
-- [GPU Solutions Engineer](https://jobicy.com/jobs/158092-gpu-solutions-engineer)
-  - Company: Vultr
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
 ## lever
 
 - [Senior SRE/DevOps Engineer](https://jobs.lever.co/metabase/1b702919-4d0b-4085-baec-8947f9b7e4ee)
   - Company: metabase
   - Location: Global Remote
   - Level/Team: Engineering
-
-- [Senior Solutions Delivery Engineer- DevOps](https://jobs.lever.co/sonatype/83cc47d4-e93e-4ce3-b440-185839cddaa1)
-  - Company: sonatype
-  - Location: US - Remote
-  - Level/Team: Customer Success - Direct - Solutions Delivery
 
 ## remoteok
 
