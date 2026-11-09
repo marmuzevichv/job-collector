@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-11-08 17:38 UTC
+Generated: 2026-11-09 21:56 UTC
 
-Total new jobs: 81
+Total new jobs: 80
 
 ## greenhouse
 
@@ -86,11 +86,11 @@ Total new jobs: 81
   - Company: cloudflare
   - Location: Remote
 
-- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280093?gh_jid=8280093)
+- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280094?gh_jid=8280094)
   - Company: dropbox
   - Location: Remote
 
-- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280094?gh_jid=8280094)
+- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280093?gh_jid=8280093)
   - Company: dropbox
   - Location: Remote
 
@@ -110,10 +110,6 @@ Total new jobs: 81
   - Company: fastly
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7814036003)
-  - Company: fivetran
-  - Location: Remote
-
 - [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=8044038003)
   - Company: fivetran
   - Location: Remote
@@ -127,6 +123,10 @@ Total new jobs: 81
   - Location: Remote
 
 - [Senior Backend Engineer, Core DevOps](https://job-boards.greenhouse.io/gitlab/jobs/8689243002)
+  - Company: gitlab
+  - Location: Remote
+
+- [Senior Backend Engineer, Core DevOps: Artifact Central - PST](https://job-boards.greenhouse.io/gitlab/jobs/8687958002)
   - Company: gitlab
   - Location: Remote
 
@@ -178,11 +178,11 @@ Total new jobs: 81
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7793634)
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7793634)
   - Company: mongodb
   - Location: Remote
 
@@ -202,7 +202,11 @@ Total new jobs: 81
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8015032?gh_jid=8015032)
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8242984?gh_jid=8242984)
+  - Company: okta
+  - Location: Remote
+
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8184826?gh_jid=8184826)
   - Company: okta
   - Location: Remote
 
@@ -210,11 +214,7 @@ Total new jobs: 81
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8242984?gh_jid=8242984)
-  - Company: okta
-  - Location: Remote
-
-- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8184826?gh_jid=8184826)
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8015032?gh_jid=8015032)
   - Company: okta
   - Location: Remote
 
@@ -260,11 +260,6 @@ Total new jobs: 81
 
 ## jobicy
 
-- [Senior Enterprise Systems Engineer](https://jobicy.com/jobs/159768-senior-enterprise-systems-engineer)
-  - Company: 1Password
-  - Location: Canada,  USA
-  - Level/Team: DevOps & Infrastructure
-
 - [Senior Salesforce Platform Engineer](https://jobicy.com/jobs/159827-senior-salesforce-platform-engineer)
   - Company: Amplitude
   - Location: USA
@@ -280,22 +275,12 @@ Total new jobs: 81
   - Location: USA
   - Level/Team: Cybersecurity
 
-- [Platform Administrator](https://jobicy.com/jobs/159708-platform-administrator)
-  - Company: Oddball
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
 - [Senior Database Engineer](https://jobicy.com/jobs/159461-senior-database-engineer-2)
   - Company: Spreedly
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
 - [FinOps Engineer](https://jobicy.com/jobs/159370-finops-engineer)
-  - Company: Supabase
-  - Location: Anywhere
-  - Level/Team: DevOps & Infrastructure
-
-- [OrioleDB Deployment Engineer](https://jobicy.com/jobs/159380-orioledb-deployment-engineer)
   - Company: Supabase
   - Location: Anywhere
   - Level/Team: DevOps & Infrastructure
@@ -310,9 +295,9 @@ Total new jobs: 81
   - Location: USA
   - Level/Team: Technical Support
 
-- [Cloud Operations Engineer](https://jobicy.com/jobs/158996-cloud-operations-engineer-3)
-  - Company: Varicent
-  - Location: Mexico
+- [DevOps Engineer (Observability)](https://jobicy.com/jobs/154900-devops-engineer-observability)
+  - Company: Twilio
+  - Location: Ireland
   - Level/Team: DevOps & Infrastructure
 
 ## lever
@@ -344,6 +329,14 @@ Total new jobs: 81
 
 - [QA/DevOps Engineer](https://weworkremotely.com/remote-jobs/discord-qa-devops-engineer)
   - Company: Discord
+  - Location: Remote
+
+- [Full-Stack Platform Engineer](https://weworkremotely.com/remote-jobs/edgewater-federal-solutions-inc-full-stack-platform-engineer)
+  - Company: Edgewater Federal Solutions, Inc.
+  - Location: Remote
+
+- [Senior Backend Cloud Engineer](https://weworkremotely.com/remote-jobs/halcyon-senior-backend-cloud-engineer)
+  - Company: Halcyon
   - Location: Remote
 
 - [DevOps Engineer II, Cloud Platform](https://weworkremotely.com/remote-jobs/upstart-devops-engineer-ii-cloud-platform)
