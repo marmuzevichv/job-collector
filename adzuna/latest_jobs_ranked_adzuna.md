@@ -1,312 +1,282 @@
 # Top DevOps Jobs — Ranked by AI
 
-Generated: 2026-11-08 17:47 UTC
-Total jobs analyzed: 503
-Candidates sent to AI: 68
+Generated: 2026-11-09 22:06 UTC
+Total jobs analyzed: 537
+Candidates sent to AI: 70
 
 ---
+
+### [10/10] Senior AWS DevSecOps / Platform Engineer — Select Source Solutions
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5952083848?utm_medium=api&utm_source=632a28fd
+- Why: Perfect fit combining AWS, DevSecOps, and Platform Engineer roles with security focus (FedRAMP, Vault) matching candidate's expertise.
+
+### [9/10] Mid DevOps Engineer (Azure & GitHub Actions) — ZipStaff
+- Location: Remote (U.S.; Grand Rapids, MI time zone preferred)
+- URL: https://www.adzuna.com/details/5903801652?utm_medium=api&utm_source=632a28fd
+- Why: Strong match on Azure, GitHub Actions, and DevOps core skills; remote US-based; only minor gap is mid-level vs. senior experience.
 
 ### [9/10] Senior Cloud Engineer (Kubernetes / Helm / AWS) — ZipStaff
 - Location: Remote (U.S.; Austin, TX time zone preferred)
 - URL: https://www.adzuna.com/details/5899532264?utm_medium=api&utm_source=632a28fd
-- Why: Perfect skill match with Kubernetes, Helm, AWS, and remote US availability; only minor concern is W2 contract preference vs. permanent role preference.
-
-### [9/10] Cloud Devops Engineer — SFE
-- Location: Remote (U.S.)
-- URL: https://www.adzuna.com/details/5955032915?utm_medium=api&utm_source=632a28fd
-- Why: Perfect match for Senior AWS DevOps role with EC2, containers (ECS), and full-time permanent position ideal for candidate.
-
-### [9/10] Cloud Platform Engineer (100% Remote) — Insight Global
-- Location: Remote (U.S.)
-- URL: https://www.adzuna.com/details/5954182964?utm_medium=api&utm_source=632a28fd
-- Why: Excellent fit for Platform Engineer role in government multi-cloud environment leveraging Kubernetes, AWS, and Azure expertise.
+- Why: Excellent alignment with Kubernetes, Helm, AWS expertise and 6+ years experience; remote US; perfect fit for target roles.
 
 ### [9/10] Senior DevOps Engineer - Azure — ZipStaff
-- Location: Remote (U.S.; Grand Rapids, MI time zone preferred)
+- Location: Remote (US; Grand Rapids, MI time zone)
 - URL: https://www.adzuna.com/details/5903667364?utm_medium=api&utm_source=632a28fd
-- Why: Strong Azure and GitHub Actions match with Senior level; W2 contract through ZipStaff aligns with candidate flexibility.
+- Why: Direct match on Azure, GitHub Actions, and senior-level DevOps; remote US-based; aligns with certifications and experience.
 
-### [9/10] Senior AWS DevSecOps / Platform Engineer — Select Source Solutions
-- Location: Remote (U.S.)
-- URL: https://www.adzuna.com/details/5952083848?utm_medium=api&utm_source=632a28fd
-- Why: Excellent fit for target DevSecOps and Platform Engineer role with AWS, security focus (Vault, IAM, RBAC), and mission-critical systems.
+### [9/10] Sr Cloud DevOps Engineer — SFE
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5955032915?utm_medium=api&utm_source=632a28fd
+- Why: Strong AWS, ECS, container platform experience required matches resume; remote US; full-time permanent role.
+
+### [9/10] Senior DevOps / Platform Engineer — Noblesoft Technologies
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5951145747?utm_medium=api&utm_source=632a28fd
+- Why: Aligns with Docker, container security, and 6+ years DevOps experience in target roles; remote US-based.
 
 ### [9/10] Sr. Platform Engineer - Kubernetes (Remote) — CrowdStrike
-- Location: Remote (U.S.)
-- URL: https://www.adzuna.com/details/5954177975?utm_medium=api&utm_source=632a28fd
-- Why: Perfect match for Platform Engineer target role with CKA/CKAD certifications and Kubernetes expertise at leading cybersecurity company.
-
-### [9/10] Sr. Platform Engineer - Kubernetes (Remote) — CrowdStrike
-- Location: Remote (U.S.)
+- Location: Remote (USA)
 - URL: https://www.adzuna.com/details/5952969552?utm_medium=api&utm_source=632a28fd
-- Why: Perfect match for Platform Engineer target role with CKA/CKAD certifications and Kubernetes expertise at leading cybersecurity company.
+- Why: Platform Engineer role with Kubernetes focus at cybersecurity leader; remote US; perfect match for target role and Kubernetes expertise.
 
 ### [9/10] Sr. Platform Engineer - Kubernetes (Remote) — CrowdStrike
-- Location: Remote (U.S.)
+- Location: Remote (USA)
 - URL: https://www.adzuna.com/details/5952963761?utm_medium=api&utm_source=632a28fd
-- Why: Perfect match for Platform Engineer target role with CKA/CKAD certifications and Kubernetes expertise at leading cybersecurity company.
+- Why: Platform Engineer role with Kubernetes focus at cybersecurity leader; remote US; perfect match for target role and Kubernetes expertise.
+
+### [9/10] Sr. Platform Engineer - Kubernetes (Remote) — CrowdStrike
+- Location: Remote (USA)
+- URL: https://www.adzuna.com/details/5954177975?utm_medium=api&utm_source=632a28fd
+- Why: Platform Engineer role with Kubernetes focus at cybersecurity leader; remote US; perfect match for target role and Kubernetes expertise.
+
+### [9/10] Platform Engineer (FedD145) — Defense Unicorns
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5921586935?utm_medium=api&utm_source=632a28fd
+- Why: Platform Engineer with strong Kubernetes and FedRAMP requirements align perfectly with candidate's security clearance experience and certifications.
+
+### [9/10] Platform Engineer (FedD145) — Defense Unicorns
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5750088706?utm_medium=api&utm_source=632a28fd
+- Why: Platform Engineer with strong Kubernetes and FedRAMP requirements align perfectly with candidate's security clearance experience and certifications.
 
 ### [9/10] Senior Azure Kubernetes Engineer - QNXT — Cognizant
-- Location: Remote (U.S.)
+- Location: Remote (US)
 - URL: https://www.adzuna.com/details/5934132886?utm_medium=api&utm_source=632a28fd
-- Why: Excellent fit combining Azure, Kubernetes (CKA certified), and Senior level with AZ-104 certification and remote full-time role.
+- Why: Senior-level combining Azure, Kubernetes, and AKS expertise with strong certification alignment (AZ-104, CKA, CKAD).
 
 ### [9/10] Senior Azure Kubernetes Engineer - QNXT — Cognizant
-- Location: Remote (U.S.)
+- Location: Remote (US)
 - URL: https://www.adzuna.com/details/5934126559?utm_medium=api&utm_source=632a28fd
-- Why: Excellent fit combining Azure, Kubernetes (CKA certified), and Senior level with AZ-104 certification and remote full-time role.
+- Why: Senior-level combining Azure, Kubernetes, and AKS expertise with strong certification alignment (AZ-104, CKA, CKAD).
 
 ### [9/10] Senior Azure Kubernetes Engineer - QNXT — Cognizant
-- Location: Remote (U.S.)
+- Location: Remote (US)
 - URL: https://www.adzuna.com/details/5934122011?utm_medium=api&utm_source=632a28fd
-- Why: Excellent fit combining Azure, Kubernetes (CKA certified), and Senior level with AZ-104 certification and remote full-time role.
+- Why: Senior-level combining Azure, Kubernetes, and AKS expertise with strong certification alignment (AZ-104, CKA, CKAD).
 
 ### [9/10] Senior Azure Kubernetes Engineer - QNXT — Cognizant
-- Location: Remote (U.S.)
+- Location: Remote (US)
 - URL: https://www.adzuna.com/details/5933906455?utm_medium=api&utm_source=632a28fd
-- Why: Excellent fit combining Azure, Kubernetes (CKA certified), and Senior level with AZ-104 certification and remote full-time role.
-
-### [9/10] Senior Azure Kubernetes Engineer - QNXT — Cognizant
-- Location: Remote (U.S.)
-- URL: https://www.adzuna.com/details/5922318829?utm_medium=api&utm_source=632a28fd
-- Why: Excellent fit combining Azure, Kubernetes (CKA certified), and Senior level with AZ-104 certification and remote full-time role.
+- Why: Senior-level combining Azure, Kubernetes, and AKS expertise with strong certification alignment (AZ-104, CKA, CKAD).
 
 ### [9/10] DevOps Engineer (Remote) — Smartsuite
-- Location: Remote (U.S.)
+- Location: Remote (US)
 - URL: https://www.adzuna.com/details/5956837665?utm_medium=api&utm_source=632a28fd
-- Why: Excellent fit for Senior DevOps role focusing on cloud infrastructure reliability, security, and scalability with hands-on engineering focus.
+- Why: Senior DevOps role focused on reliability, security, and scalability; remote US; hands-on infrastructure role aligns perfectly.
 
-### [9/10] Senior DevOps Engineer /Infrastructure Automation Developer / Ansible Engineer - Remote — Simple Solutions
-- Location: Remote (U.S.)
+### [9/10] Senior DevOps Engineer / Infrastructure Automation Developer / Ansible Engineer — Simple Solutions
+- Location: Remote (US)
 - URL: https://www.adzuna.com/details/5944522019?utm_medium=api&utm_source=632a28fd
-- Why: Perfect match for Ansible, Python, and DevOps skills on urgent Chef-to-Ansible migration project with remote availability.
+- Why: Ansible and Python automation expertise with DevOps focus; urgent need; remote US-based; matches infrastructure automation skills.
 
-### [9/10] Senior DevOps Engineer /Infrastructure Automation Developer / Ansible Engineer - Remote — Simple Solutions
-- Location: Remote (U.S.)
+### [9/10] Senior DevOps Engineer / Infrastructure Automation Developer / Ansible Engineer — Simple Solutions
+- Location: Remote (US)
 - URL: https://www.adzuna.com/details/5944089634?utm_medium=api&utm_source=632a28fd
-- Why: Perfect match for Ansible, Python, and DevOps skills on urgent Chef-to-Ansible migration project with remote availability.
+- Why: Ansible and Python automation expertise with DevOps focus; urgent need; remote US-based; matches infrastructure automation skills.
 
-### [9/10] DevOps & Platform Engineer — SoftPathTechnologies
-- Location: Remote (U.S.)
-- URL: https://www.adzuna.com/details/5952304422?utm_medium=api&utm_source=632a28fd
-- Why: Excellent match for DevOps & Platform Engineer roles on 2-year contract with full remote flexibility and high seniority fit.
+### [9/10] Site Reliability Engineer — ASCENDING
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5952755685?utm_medium=api&utm_source=632a28fd
+- Why: SRE role requiring US citizenship with 3-year contract; remote continental US; perfect fit for target SRE role with no clearance needed.
 
-### [9/10] Senior DevOps Engineer — Bright Vision Technologies
-- Location: Remote (U.S.; The Colony, TX area)
-- URL: https://www.adzuna.com/details/5952975429?utm_medium=api&utm_source=632a28fd
-- Why: Excellent Senior DevOps match at cloud consulting firm with 6+ years experience and full remote availability.
+### [9/10] Kubernetes Infrastructure Engineer-Remote — CruiTek
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5955562210?utm_medium=api&utm_source=632a28fd
+- Why: Extensive hands-on Kubernetes with senior consultant background; remote US; 1-year project aligns with CKA/CKAD certifications.
 
-### [9/10] Senior Devops Engineer — Bright Vision Technologies
-- Location: Remote (U.S.; The Colony, TX area)
-- URL: https://www.adzuna.com/details/5952998659?utm_medium=api&utm_source=632a28fd
-- Why: Excellent Senior DevOps match at cloud consulting firm with 6+ years experience and full remote availability.
+### [9/10] Kubernetes Engineer — Bright Vision Technologies
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5951369682?utm_medium=api&utm_source=632a28fd
+- Why: Kubernetes-focused infrastructure engineering at consulting firm; remote US; strong match for infrastructure engineer target role.
 
-### [9/10] Senior DevOps Engineer — Bright Vision Technologies
-- Location: Remote (U.S.; Frisco, TX area)
-- URL: https://www.adzuna.com/details/5951369843?utm_medium=api&utm_source=632a28fd
-- Why: Excellent Senior DevOps match at cloud consulting firm with 6+ years experience and full remote availability.
+### [9/10] Kubernetes Engineer — Bright Vision Technologies
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5952910762?utm_medium=api&utm_source=632a28fd
+- Why: Kubernetes-focused infrastructure engineering at consulting firm; remote US; strong match for infrastructure engineer target role.
 
-### [9/10] Senior Devops Engineer — Bright Vision Technologies
-- Location: Remote (U.S.; Frisco, TX area)
-- URL: https://www.adzuna.com/details/5950906188?utm_medium=api&utm_source=632a28fd
-- Why: Excellent Senior DevOps match at cloud consulting firm with 6+ years experience and full remote availability.
+### [9/10] Sr. DevOps Engineer — Forta Solutions
+- Location: Remote (US - Colorado)
+- URL: https://www.adzuna.com/details/5958262690?utm_medium=api&utm_source=632a28fd
+- Why: Senior DevOps in Colorado with competitive $125k-$150k salary; remote US; cloud technology focus aligns with candidate experience.
+
+### [9/10] Senior DevOps Engineer — BitSight Technologies
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5956657459?utm_medium=api&utm_source=632a28fd
+- Why: Senior DevOps at cyber risk management leader; remote US; security-focused DevOps role matches FedRAMP and security expertise.
 
 ### [9/10] DevOps Engineer — Initiate Government Solutions
-- Location: Remote (U.S.; Washington D.C. area)
-- URL: https://www.adzuna.com/details/5955394100?utm_medium=api&utm_source=632a28fd
-- Why: Excellent full-time remote DevOps role at federal contractor leveraging security expertise and Government cloud infrastructure experience.
+- Location: Remote (US)
+- URL: https://www.adsuna.com/details/5955394100?utm_medium=api&utm_source=632a28fd
+- Why: Full-time remote DevOps supporting federal partners; Woman-Owned Small Business; US-based fully remote IT services provider.
 
-### [9/10] Senior DevSecOps Engineer (Azure Experience) - Remote (USA) — Echelon Risk + Cyber
-- Location: Remote (U.S.)
+### [9/10] Senior DevSecOps Engineer (Azure Experience) — Echelon Risk + Cyber
+- Location: Remote (US)
 - URL: https://www.adzuna.com/details/5954953276?utm_medium=api&utm_source=632a28fd
-- Why: Excellent match for DevSecOps target role with deep Azure expertise, security focus (Vault, IAM, RBAC), and cybersecurity mission.
+- Why: Senior DevSecOps with Azure focus and security/privacy mission alignment; remote US; perfect fit for DevSecOps target role.
 
 ### [9/10] DevOps Engineer IV - REMOTE — Net Health
-- Location: Remote (U.S.; Pittsburgh area)
+- Location: Remote (US)
 - URL: https://www.adzuna.com/details/5947789699?utm_medium=api&utm_source=632a28fd
-- Why: Excellent senior-level DevOps IV role at healthcare company with 6+ years experience providing meaningful career growth and stability.
+- Why: Senior-level DevOps Engineer IV role fully remote; US-based company with growth opportunities and financial rewards.
+
+### [9/10] Platform Engineer — Lantern Ltd
+- Location: US (East Coast)
+- URL: https://www.adzuna.com/details/5957914604?utm_medium=api&utm_source=632a28fd
+- Why: Excellent match for Platform Engineer target role at US-based company; remote capability aligns with candidate's preferences.
 
 ### [9/10] Engineer II - Site Reliability, Kubernetes (Remote, EST) — CrowdStrike
-- Location: Remote, US (EST)
+- Location: Remote (EST)
 - URL: https://www.adzuna.com/details/5941399162?utm_medium=api&utm_source=632a28fd
-- Why: Excellent remote SRE match with deep Kubernetes expertise required, CKA certification directly applicable, and cybersecurity company prestigious background.
+- Why: Perfect SRE/Kubernetes match with CKA-certified candidate; explicitly remote US role with strong cybersecurity company backing.
 
 ### [9/10] Engineer II - Site Reliability, Kubernetes (Remote, EST) — CrowdStrike
-- Location: Remote, US (EST)
+- Location: Remote (EST)
 - URL: https://www.adzuna.com/details/5941392531?utm_medium=api&utm_source=632a28fd
-- Why: Excellent remote SRE match with deep Kubernetes expertise required, CKA certification directly applicable, and cybersecurity company prestigious background.
+- Why: Perfect SRE/Kubernetes match with CKA-certified candidate; explicitly remote US role with strong cybersecurity company backing.
 
 ### [9/10] Engineer II - Site Reliability, Kubernetes (Remote, EST) — CrowdStrike
-- Location: Remote, US (EST)
+- Location: Remote (EST)
 - URL: https://www.adzuna.com/details/5941374585?utm_medium=api&utm_source=632a28fd
-- Why: Excellent remote SRE match with deep Kubernetes expertise required, CKA certification directly applicable, and cybersecurity company prestigious background.
+- Why: Perfect SRE/Kubernetes match with CKA-certified candidate; explicitly remote US role with strong cybersecurity company backing.
 
 ### [9/10] Engineer II - Site Reliability, Kubernetes (Remote, EST) — CrowdStrike
-- Location: Remote, US (EST)
+- Location: Remote (EST)
 - URL: https://www.adzuna.com/details/5941371418?utm_medium=api&utm_source=632a28fd
-- Why: Excellent remote SRE match with deep Kubernetes expertise required, CKA certification directly applicable, and cybersecurity company prestigious background.
+- Why: Perfect SRE/Kubernetes match with CKA-certified candidate; explicitly remote US role with strong cybersecurity company backing.
 
-### [8/10] Senior AWS DevOps Engineer - Remote / Telecommute — CYNET SYSTEMS
-- Location: Remote (U.S.)
-- URL: https://www.adzuna.com/details/5947408823?utm_medium=api&utm_source=632a28fd
-- Why: Excellent match for AWS DevOps with cloud platform deployment and automation; strong salary range aligns with experience level.
+### [9/10] Engineer II - Site Reliability, Kubernetes (Remote, EST) — CrowdStrike
+- Location: Remote (EST)
+- URL: https://www.adzuna.com/details/5941106821?utm_medium=api&utm_source=632a28fd
+- Why: Perfect SRE/Kubernetes match with CKA-certified candidate; explicitly remote US role with strong cybersecurity company backing.
 
-### [8/10] Mid DevOps Engineer — ZipStaff
-- Location: Remote (U.S.; Grand Rapids, MI time zone preferred)
-- URL: https://www.adzuna.com/details/5903801652?utm_medium=api&utm_source=632a28fd
-- Why: Strong Azure and GitHub Actions alignment with 6+ years experience; slightly overqualified for "Mid" level but excellent technical fit.
+### [9/10] Engineer II - Site Reliability, Kubernetes (Remote, EST) — CrowdStrike
+- Location: Remote (EST)
+- URL: https://www.adzuna.com/details/5940611611?utm_medium=api&utm_source=632a28fd
+- Why: Perfect SRE/Kubernetes match with CKA-certified candidate; explicitly remote US role with strong cybersecurity company backing.
+
+### [9/10] Engineer II - Site Reliability, Kubernetes (Remote, EST) — CrowdStrike
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5940203156?utm_medium=api&utm_source=632a28fd
+- Why: Perfect SRE/Kubernetes match with CKA-certified candidate; explicitly remote US role with strong cybersecurity company backing.
 
 ### [8/10] Senior DevOps Engineer, Azure — Kelly Services
-- Location: Remote (U.S.; Philadelphia area)
+- Location: Remote (US)
 - URL: https://www.adzuna.com/details/5930519325?utm_medium=api&utm_source=632a28fd
-- Why: Excellent full-time remote role with strong Azure/DevOps alignment and attractive $150k-$170k salary range matching experience level.
-
-### [8/10] Platform Engineer (FedD145) — Defense Unicorns
-- Location: Remote (U.S.; Government contractor)
-- URL: https://www.adzuna.com/details/5921586935?utm_medium=api&utm_source=632a28fd
-- Why: Strong fit for Platform Engineer role with Kubernetes expertise and FedRAMP security clearance alignment; government focus is asset.
-
-### [8/10] Platform Engineer (FedD145) — Defense Unicorns
-- Location: Remote (U.S.; Government contractor)
-- URL: https://www.adzuna.com/details/5750088706?utm_medium=api&utm_source=632a28fd
-- Why: Strong fit for Platform Engineer role with Kubernetes expertise and FedRAMP security clearance alignment; government focus is asset.
+- Why: Azure expertise, senior-level DevOps, fully remote, competitive salary range; strong match on cloud platform skills.
 
 ### [8/10] Site Reliability Engineer III – Azure SRE / DevOps — Momento USA
-- Location: Remote (U.S.)
+- Location: Remote (US)
 - URL: https://www.adzuna.com/details/5951143206?utm_medium=api&utm_source=632a28fd
-- Why: Excellent match for SRE target role with Azure expertise and DevOps focus at appropriate seniority level.
+- Why: SRE role combining Azure and DevOps expertise in target SRE role; remote US-based; strong skills alignment.
 
-### [8/10] Devops Engineer — Bright Vision Technologies
-- Location: Remote (U.S.; Frisco, TX area)
+### [8/10] Mid-Level Microsoft DevOps Engineer (Remote) — VIATEQ Corporation
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5940196894?utm_medium=api&utm_source=632a28fd
+- Why: Azure DevOps and Microsoft ecosystem expertise matches; remote US; mid-level role fits candidate's seniority for slightly underleveled position.
+
+### [8/10] Senior DevOps Engineer — Bright Vision Technologies
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5952975429?utm_medium=api&utm_source=632a28fd
+- Why: Senior DevOps with cloud focus at established consulting firm; remote US; cloud, AI, and enterprise solutions alignment.
+
+### [8/10] Senior DevOps Engineer — Bright Vision Technologies
+- Location: Remote (US)
 - URL: https://www.adzuna.com/details/5952853899?utm_medium=api&utm_source=632a28fd
-- Why: Good fit for DevOps role at cloud consulting firm with AWS, Azure, and infrastructure expertise.
+- Why: Senior DevOps with cloud focus at established consulting firm; remote US; cloud, AI, and enterprise solutions alignment.
 
-### [8/10] Devops Engineer — Bright Vision Technologies
-- Location: Remote (U.S.; Frisco, TX area)
+### [8/10] Senior DevOps Engineer — Bright Vision Technologies
+- Location: Remote (US)
 - URL: https://www.adzuna.com/details/5951369657?utm_medium=api&utm_source=632a28fd
-- Why: Good fit for DevOps role at cloud consulting firm with AWS, Azure, and infrastructure expertise.
+- Why: Senior DevOps with cloud focus at established consulting firm; remote US; cloud, AI, and enterprise solutions alignment.
 
-### [8/10] DevOps Engineer — Akaasa Technologies
-- Location: Remote (U.S.)
-- URL: https://www.adzuna.com/details/5952304217?utm_medium=api&utm_source=632a28fd
-- Why: Good fit for CI/CD and pipeline engineering with Harness focus; strong Python and DevOps alignment.
+### [8/10] Senior Devops Engineer — Bright Vision Technologies
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5952998659?utm_medium=api&utm_source=632a28fd
+- Why: Senior DevOps with cloud focus at established consulting firm; remote US; cloud, AI, and enterprise solutions alignment.
 
-### [8/10] Azure Cloud Engineer — Bright Vision Technologies
-- Location: Remote (U.S.; Coppell, Dallas area)
-- URL: https://www.adzuna.com/details/5953118568?utm_medium=api&utm_source=632a28fd
-- Why: Strong Azure cloud engineering fit at consulting firm with hands-on infrastructure and DevOps expertise.
+### [8/10] Senior DevOps Engineer — Bright Vision Technologies
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5951369843?utm_medium=api&utm_source=632a28fd
+- Why: Senior DevOps with cloud focus at established consulting firm; remote US; cloud, AI, and enterprise solutions alignment.
 
-### [8/10] Kubernetes Infrastructure Engineer-Remote — CruiTek
-- Location: Remote (U.S.)
-- URL: https://www.adzuna.com/details/5955562210?utm_medium=api&utm_source=632a28fd
-- Why: Excellent Kubernetes focus with CKA certification and extensive hands-on experience; 1-year project aligns with contract availability.
-
-### [8/10] Senior DevOps Engineer — BitSight Technologies
-- Location: Remote (U.S.; Boston area)
-- URL: https://www.adzuna.com/details/5956657459?utm_medium=api&utm_source=632a28fd
-- Why: Strong Senior DevOps fit in cybersecurity risk management with infrastructure and automation focus.
-
-### [8/10] DevOps Engineer — Foodsmart
-- Location: US
-- URL: https://www.adzuna.com/details/5948912553?utm_medium=api&utm_source=632a28fd
-- Why: Strong DevOps role at US-based company matching core skills, though full tech stack details are unclear from snippet.
+### [8/10] Senior Devops Engineer — Bright Vision Technologies
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5950906188?utm_medium=api&utm_source=632a28fd
+- Why: Senior DevOps with cloud focus at established consulting firm; remote US; cloud, AI, and enterprise solutions alignment.
 
 ### [8/10] Mid-Level Microsoft DevOps Engineer (REMOTE) — Koniag Government Services
-- Location: Remote, US
+- Location: Remote (US)
 - URL: https://www.adzuna.com/details/5941492320?utm_medium=api&utm_source=632a28fd
-- Why: Perfect remote match with strong Azure/Microsoft DevOps expertise in resume and mid-to-senior level appropriate for candidate.
+- Why: Mid-level Microsoft DevOps supporting government contracts; remote US; Azure DevOps expertise matches but mid-level vs. senior experience.
 
-### [8/10] Intermediate AI-Enabled DevOps Engineer — PointClickCare
-- Location: Salt Lake City, Salt Lake County, US
-- URL: https://www.adzuna.com/details/5930023620?utm_medium=api&utm_source=632a28fd
-- Why: Mid-level DevOps engineer role at health tech company aligns well with experience and skills, though Salt Lake location requires verification of remote status.
+### [8/10] Senior DevOps Engineer (REMOTE) — Koniag Government Services
+- Location: Remote (Washington, D.C. based)
+- URL: https://www.adzuna.com/details/5941450784?utm_medium=api&utm_source=632a28fd
+- Why: Perfect role match with government/FedRAMP experience valued; remote eligible but location listed as D.C. requires verification of remote eligibility.
 
 ### [8/10] Sr. DevOps Engineer (REMOTE) — Cyware
-- Location: Remote, US
+- Location: US (Remote)
 - URL: https://www.adzuna.com/details/5904893654?utm_medium=api&utm_source=632a28fd
-- Why: Remote senior DevOps role at cybersecurity company matches experience level and skills well with flexible location options.
-
-### [7/10] Senior DevOps / Platform Engineer — Noblesoft Technologies
-- Location: Remote (U.S.)
-- URL: https://www.adzuna.com/details/5951145747?utm_medium=api&utm_source=632a28fd
-- Why: Good match for Platform Engineer with Docker & container security focus; requires 8 years but candidate has 6+ with strong certifications.
-
-### [7/10] Mid-Level Microsoft DevOps Engineer (Remote) — VIATEQ Corporation
-- Location: Remote (U.S.)
-- URL: https://www.adzuna.com/details/5940196894?utm_medium=api&utm_source=632a28fd
-- Why: Good Azure DevOps fit but "Mid-Level" title may underutilize 6+ years experience; government work aligns with security background.
-
-### [7/10] DevOps Engineer — Insight Global
-- Location: Remote (U.S.; Miami/Ft. Lauderdale with 3-4 office visits monthly)
-- URL: https://www.adzuna.com/details/5932061546?utm_medium=api&utm_source=632a28fd
-- Why: Good DevOps match for bare-metal infrastructure management but office requirement conflicts with candidate's remote-only preference.
-
-### [7/10] DevOps Engineer — Akaasa Technologies
-- Location: Remote (U.S.)
-- URL: https://www.adzuna.com/details/5951145313?utm_medium=api&utm_source=632a28fd
-- Why: Good fit for CI/CD pipeline engineering with Harness focus but 6-7 month contract duration shorter than typical preference.
+- Why: Senior DevOps role in cybersecurity at remote-eligible US company; aligns with candidate's experience level and remote preference.
 
 ### [7/10] Senior Cloud/DevOps Engineer - GCP & AI (Remote) — DivIHN Integration Inc
-- Location: Remote (U.S.)
-- URL: https://www.adzuna.com/details/5945044918?utm_medium=api&utm_source=632a28fd
-- Why: Good GCP and DevOps match but AI/ML focus and contract nature less aligned; candidate has only basic GCP experience.
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5958620160?utm_medium=api&utm_source=632a28fd
+- Why: GCP and DevOps role but candidate has only basic GCP experience; remote US; DevOps core skills still strong match.
 
-### [7/10] Kubernetes Engineer — Bright Vision Technologies
-- Location: Remote (U.S.; Sunnyvale, CA area)
-- URL: https://www.adzuna.com/details/5952910762?utm_medium=api&utm_source=632a28fd
-- Why: Good Kubernetes fit with CKA certification and hands-on experience at cloud consulting firm.
+### [7/10] DevOps Engineer — Akaasa Technologies
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5952304217?utm_medium=api&utm_source=632a28fd
+- Why: CI/CD and pipeline engineering with Harness focus; remote US; strong CI/CD background but Harness is specialized tool requiring ramp-up.
 
-### [7/10] Sr. DevOps Engineer — Forta Solutions
-- Location: Remote (U.S.; Colorado based)
-- URL: https://www.adzuna.com/details/5958262690?utm_medium=api&utm_source=632a28fd
-- Why: Good Senior DevOps match with attractive $125k-$150k salary but Colorado location preference less ideal than Minnesota.
+### [7/10] DevOps Engineer — Akaasa Technologies
+- Location: Remote (US)
+- URL: https://www.adzuna.com/details/5951145313?utm_medium=api&utm_source=632a28fd
+- Why: CI/CD and pipeline engineering with Harness focus on 6-7 month contract; remote US; CI/CD skills strong but Harness platform-specific.
 
-### [7/10] Kubernetes Engineer — Bright Vision Technologies
-- Location: Remote (U.S.; Sunnyvale, CA area)
-- URL: https://www.adzuna.com/details/5951369682?utm_medium=api&utm_source=632a28fd
-- Why: Good Kubernetes fit with CKA certification and hands-on experience at cloud consulting firm.
-
-### [7/10] Senior DevOps Engineer (REMOTE) — Koniag Government Services
-- Location: Remote, US
-- URL: https://www.adzuna.com/details/5941450784?utm_medium=api&utm_source=632a28fd
-- Why: Remote senior-level role aligns with experience level and skills, though government work may require clearance considerations.
-
-### [7/10] DevOps Engineer — ABC Legal Services
+### [7/10] DevOps Engineer — Foodsmart
 - Location: US
-- URL: https://www.adzuna.com/details/5945436814?utm_medium=api&utm_source=632a28fd
-- Why: US-based DevOps role matches target, though snippet lacks detail on tech stack and remote/hybrid status.
-
-### [7/10] DevOps Engineer (REMOTE) — Koniag Government Services
-- Location: Remote, US
-- URL: https://www.adzuna.com/details/5941155489?utm_medium=api&utm_source=632a28fd
-- Why: Remote DevOps position with government background fits experience and location requirements well.
+- URL: https://www.adzuna.com/details/5948912553?utm_medium=api&utm_source=632a28fd
+- Why: Core DevOps role at US-based company; limited job details but matches target role and candidate's 6+ years experience.
 
 ### [7/10] Golang Developer — CoSourcing Partners
-- Location: Seattle, King County, US
+- Location: Seattle, Washington – Remote
 - URL: https://www.adzuna.com/details/5903624951?utm_medium=api&utm_source=632a28fd
-- Why: Platform Engineer/DevOps role with remote Seattle option fits target role family, though Golang specialization may be secondary focus.
+- Why: Platform Engineer/DevOps specialist role labeled as Golang Developer; remote US position matches location preference despite primary language focus.
 
-### [7/10] DevOps Engineer -Remote (DC, MD, VA- Locals only) — Swingtech
-- Location: Remote (Baltimore/Greenbelt, MD area), US
+### [7/10] Intermediate AI-Enabled DevOps Engineer — PointClickCare
+- Location: Salt Lake City, Salt Lake County
+- URL: https://www.adzuna.com/details/5930023620?utm_medium=api&utm_source=632a28fd
+- Why: Direct DevOps match in health tech with AI enablement; location requires verification of remote eligibility given candidate's remote-only preference.
+
+### [6/10] DevOps Engineer (REMOTE) — Koniag Government Services
+- Location: Remote (Washington, D.C. based)
+- URL: https://www.adzuna.com/details/5941155489?utm_medium=api&utm_source=632a28fd
+- Why: Government DevOps role with FedRAMP background valued; remote-eligible but D.C. location requires confirmation of true remote status.
+
+### [6/10] DevOps Engineer - Remote (DC, MD, VA- Locals only) — Swingtech
+- Location: Remote (Baltimore/Greenbelt, MD locals only)
 - URL: https://www.adzuna.com/details/5955255457?utm_medium=api&utm_source=632a28fd
-- Why: Remote DevOps role with occasional travel fits, though "locals only" regional preference and Maryland focus less ideal than Minnesota-based options.
-
-### [6/10] GenAI DevOps Engineer /AI Engineer - Remote/Hybrid with Travel — Simple Solutions
-- Location: Jacksonville, Calhoun County, US
-- URL: https://www.adzuna.com/details/5939222604?utm_medium=api&utm_source=632a28fd
-- Why: Remote/hybrid role matches location preference, but AI/GenAI focus and required travel may not align with primary DevOps expertise.
-
-### [6/10] GenAI DevOps Engineer /AI Engineer - Remote/Hybrid with Travel — Simple Solutions
-- Location: Jacksonville, Duval County, US
-- URL: https://www.adzuna.com/details/5938277269?utm_medium=api&utm_source=632a28fd
-- Why: Remote/hybrid role matches location preference, but AI/GenAI focus and required travel may not align with primary DevOps expertise.
-
-### [6/10] AI Platform Engineer — Nexus Weather & Climate
-- Location: Remote, US
-- URL: https://www.adsuna.com/details/5958224803?utm_medium=api&utm_source=632a28fd
-- Why: Remote platform engineer role fits location and target titles, but AI focus and preferred non-Minnesota locations reduce relevance.
-
-### [5/10] MD DevOps Engineer 3-TS/SCI w/ Polygraph — Sunayu
-- Location: Annapolis Junction, Maryland, US
-- URL: https://www.adzuna.com/details/5907961072?utm_medium=api&utm_source=632a28fd
-- Why: DevOps role matches skills but on-site Maryland position and security clearance requirement conflict with remote-only preference.
+- Why: DevOps role with government/security focus; Minnesota resident does not meet local residency requirement despite remote label.
