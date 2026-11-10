@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-11-09 21:56 UTC
+Generated: 2026-11-10 19:19 UTC
 
-Total new jobs: 80
+Total new jobs: 83
 
 ## greenhouse
 
@@ -138,6 +138,10 @@ Total new jobs: 80
   - Company: gitlab
   - Location: Remote
 
+- [Site Reliability Engineer, Cells Infrastructure](https://job-boards.greenhouse.io/gitlab/jobs/8867756002)
+  - Company: gitlab
+  - Location: Remote
+
 - [Site Reliability Engineer, Infrastructure Platforms — AMER (Intermediate to Senior Staff)](https://job-boards.greenhouse.io/gitlab/jobs/8623389002)
   - Company: gitlab
   - Location: Remote
@@ -270,6 +274,11 @@ Total new jobs: 80
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
+- [Senior Platform Engineer, Quality Platform](https://jobicy.com/jobs/160720-senior-platform-engineer-quality-platform)
+  - Company: MaintainX
+  - Location: Canada
+  - Level/Team: QA & Testing
+
 - [DevSecOps Engineer](https://jobicy.com/jobs/159463-devsecops-engineer)
   - Company: Oddball
   - Location: USA
@@ -298,6 +307,11 @@ Total new jobs: 80
 - [DevOps Engineer (Observability)](https://jobicy.com/jobs/154900-devops-engineer-observability)
   - Company: Twilio
   - Location: Ireland
+  - Level/Team: DevOps & Infrastructure
+
+- [DevOps Engineer](https://jobicy.com/jobs/154974-devops-engineer-7)
+  - Company: WalkMe
+  - Location: USA
   - Level/Team: DevOps & Infrastructure
 
 ## lever

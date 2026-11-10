@@ -472,6 +472,19 @@
   {
     "source_type": "greenhouse",
     "company": "gitlab",
+    "title": "Site Reliability Engineer, Cells Infrastructure",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8867756002",
+    "external_id": "greenhouse::8867756002",
+    "description_snippet": "",
+    "posted_at": "2026-11-09T23:45:31-05:00",
+    "collected_at_utc": "2026-11-10 19:19:03"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "gitlab",
     "title": "Site Reliability Engineer, Infrastructure Platforms — AMER (Intermediate to Senior Staff)",
     "location": "",
     "team": "",
@@ -610,6 +623,21 @@
     "description_snippet": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. Weâve been doing this since 2015, and more than 1,500 companies have hired engineers through us. New roles for Senior DevOps Engineers come in all the time, a",
     "posted_at": "2026-10-22T12:58:28+00:00",
     "collected_at_utc": "2026-11-09 21:56:08"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "MaintainX",
+    "title": "Senior Platform Engineer, Quality Platform",
+    "location": "Canada",
+    "team": "QA & Testing",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/160720-senior-platform-engineer-quality-platform",
+    "external_id": "jobicy::160720",
+    "description_snippet": "MaintainX is a leading mobile-first work execution platform for industrial and frontline teams. More than 15,000 customers, including McDonalds, Michaels, Cintas, Redimix, and U.S. LBM, use MaintainX to cut unplanned downtime and run better operations, across 16 million managed assets and 92 million",
+    "posted_at": "2026-11-10T02:53:45+00:00",
+    "collected_at_utc": "2026-11-10 19:19:03"
   },
   {
     "source_type": "lever",
@@ -1135,5 +1163,20 @@
     "description_snippet": "Headquarters: United States | Remote About Upstart At Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape access to credit, helping millions move forwa",
     "posted_at": "Mon, 26 Oct 2026 07:31:14 +0000",
     "collected_at_utc": "2026-11-09 21:56:08"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "WalkMe",
+    "title": "DevOps Engineer",
+    "location": "USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/154974-devops-engineer-7",
+    "external_id": "jobicy::154974",
+    "description_snippet": "Industry leader? Well, how about an industry creator?! WalkMe, an SAP company, pioneered the world's leading Digital Adoption Platform, helping organizations navigate change across any application or system. Today it is the platform that drives AI adoption across the enterprise. Enterprise work stay",
+    "posted_at": "2026-11-10T03:10:14+00:00",
+    "collected_at_utc": "2026-11-10 19:19:03"
   }
 ]

@@ -478,5 +478,23 @@
     "title": "Senior Test Automation Engineer (TeamCity)",
     "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4961618101",
     "first_seen_utc": "2026-11-09 21:56:08"
+  },
+  "jobicy::154974": {
+    "company": "WalkMe",
+    "title": "DevOps Engineer",
+    "url": "https://jobicy.com/jobs/154974-devops-engineer-7",
+    "first_seen_utc": "2026-11-10 19:19:03"
+  },
+  "jobicy::160720": {
+    "company": "MaintainX",
+    "title": "Senior Platform Engineer, Quality Platform",
+    "url": "https://jobicy.com/jobs/160720-senior-platform-engineer-quality-platform",
+    "first_seen_utc": "2026-11-10 19:19:03"
+  },
+  "greenhouse::8867756002": {
+    "company": "gitlab",
+    "title": "Site Reliability Engineer, Cells Infrastructure",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8867756002",
+    "first_seen_utc": "2026-11-10 19:19:03"
   }
 }
