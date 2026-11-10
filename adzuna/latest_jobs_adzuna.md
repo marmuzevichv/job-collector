@@ -1,7 +1,7 @@
 # Jobs via Adzuna API
 
-Generated: 2026-11-09 22:06 UTC
-Total jobs (24h window): 537
+Generated: 2026-11-10 19:28 UTC
+Total jobs (24h window): 610
 
 - [Junior Java DevOps Engineer / Python Developer (Remote)](https://www.adzuna.com/details/5958932241?utm_medium=api&utm_source=632a28fd)
   - Company: SynergisticIT | The Gap, Chicago
@@ -2150,3 +2150,295 @@ Total jobs (24h window): 537
 - [Senior Azure Kubernetes Engineer - QNXT](https://www.adzuna.com/land/ad/5872995538?se=yIlhwInc8RGUu4-u5QYtzw&utm_medium=api&utm_source=632a28fd&v=90426E6859A5179261EB2CBEB1098B8A134ADDBF)
   - Company: Cognizant | Ny State Campus, Albany County
   - Senior Azure Kubernetes Engineer Location: Remote Employment Type: Full-Time Job ID: 00069699741 Senior Azure Kubernetes...
+
+- [DevOps Engineer with Security Clearance](https://www.adzuna.com/land/ad/5960623184?se=Wq5B6Tzd8RGW67hsumO50A&utm_medium=api&utm_source=632a28fd&v=9D78DE79A93EF131E34533D59632E13C1AA09AD2)
+  - Company: Knowledge Management, Inc. | Woodbridge, Prince William County
+  - Knowledge Management, Inc. (KMI) has the leadership and experience to deliver innovative technology, logistics and manag...
+
+- [DevOps Engineer - Micro Focus / COBOL, Remote or Hunstville, TX - 71538](https://www.adzuna.com/land/ad/5960621132?se=Wq5B6Tzd8RGW67hsumO50A&utm_medium=api&utm_source=632a28fd&v=BF5AEC3B103FCF164EE2FECEF0828C9B9C19675D)
+  - Company: PRIMUS Global Services Inc. | Texas, US
+  - DevOps Engineer - Micro Focus / COBOL, Remote or Huntsville, TX We have an immediate opportunity for a Senior DevOps Eng...
+
+- [Senior DevOps](https://www.adzuna.com/details/5960194906?utm_medium=api&utm_source=632a28fd)
+  - Company: KēSTA I.T. | US
+  - DevOps Engineer Come, Innovate, Build, Disrupt & Thrive! Position Overview KēSTA I.T. is seeking a remote DevOps Enginee...
+
+- [Junior Java DevOps Engineer / Python Developer (Remote)](https://www.adzuna.com/details/5959683397?utm_medium=api&utm_source=632a28fd)
+  - Company: SynergisticIT | The Gap, Chicago
+  - Degree on the Wall, Interview Inbox on Empty You did the coursework. Nobody taught you how hiring actually works. You wa...
+
+- [Senior DevOps Engineer with Security Clearance](https://www.adzuna.com/land/ad/5936322065?se=iBL_6Tzd8RGxnsm2izC-GQ&utm_medium=api&utm_source=632a28fd&v=5577C70E6BAF9FC07474F33A881E10F99FD98322)
+  - Company: ECS | Hampton Roads, Hampton City
+  - Job Description Everforth ECS is seeking a Senior DevOps Engineer to work remotely . ECS is seeking talented professiona...
+
+- [Azure Devops Engineer](https://www.adzuna.com/land/ad/5892808530?se=iBL_6Tzd8RGxnsm2izC-GQ&utm_medium=api&utm_source=632a28fd&v=A14EF57747B1D846D990D9F6519F0752D57C1ACF)
+  - Company: Apex Systems | Fort Sam Houston, Bexar County
+  - Job: 3052740 Job Description: Azure DevOps Engineer (Azure Cloud) Remote Overview We are seeking a hands-on Azure DevOps...
+
+- [Databricks admin/platform engineer with FinOps experience](https://www.adzuna.com/land/ad/5960621535?se=ZL0k7Tzd8RGRTbZzUjwcZg&utm_medium=api&utm_source=632a28fd&v=DB570A1721EC4171CB47F107CAACA3DFB780A8E3)
+  - Company: Spartan Solutions INC | US
+  - Databricks admin/platform engineer with FinOps experience Remote Strong exp. in FinOps end to end tagging, dashboards, f...
+
+- [Sales Engineer, AI Software Delivery Platform (Remote)](https://www.adzuna.com/land/ad/5960615253?se=ZL0k7Tzd8RGRTbZzUjwcZg&utm_medium=api&utm_source=632a28fd&v=ABBD5D89606F80624F81EAF1CA984AFDD87388E2)
+  - Company: Harness | Textile Finance, Los Angeles County
+  - Harness is seeking a Sales Engineer in the Los Angeles area, remote. The role sits at the intersection of sales and engi...
+
+- [Software Automation & Platform Engineer — Federal Health IT](https://www.adzuna.com/details/5960292534?utm_medium=api&utm_source=632a28fd)
+  - Company: Rackner | US
+  - Software Automation & Platform Engineer — Federal Health IT Location: Remote — United States Engineer Smarter Workflows....
+
+- [Sr. Systems Engineer - AI Gateway Platform(Remote)](https://www.adzuna.com/land/ad/5957047539?se=CkM07jzd8RGxnsm2izC-GQ&utm_medium=api&utm_source=632a28fd&v=75588971FF493D5CD049631AAE7C3843D9D8DB34)
+  - Company: CrowdStrike | Salem, Marion County
+  - USA - Remote Full time R30063 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Systems Engineer - AI Gateway Platform(Remote)](https://www.adzuna.com/land/ad/5957046886?se=CkM07jzd8RGxnsm2izC-GQ&utm_medium=api&utm_source=632a28fd&v=F8090EA3BEB7A37D5C20C7F65ABB7A435231CEE8)
+  - Company: CrowdStrike | Des Moines, Polk County
+  - USA - Remote Full time R30063 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Senior Site Reliability Engineer](https://www.adzuna.com/land/ad/5960612256?se=IIhQ7zzd8RG2ju3U9MuxdQ&utm_medium=api&utm_source=632a28fd&v=56A0178BA24BFCA9A5AA5DD64B8EA903E183A429)
+  - Company: The Recruiting Guy | Mount Rainier, Prince George's County
+  - Senior Cloud Infrastructure Engineer Location: San Francisco, CA. Remote unavailable. Modality: On‑Site only. Must live ...
+
+- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/details/5960516498?utm_medium=api&utm_source=632a28fd)
+  - Company: CrowdStrike | Tarrytown, Travis County
+  - USA - Remote Full time R29897 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [AWS Cloud Security Engineer - Remote](https://www.adzuna.com/land/ad/5960504775?se=IIhQ7zzd8RG2ju3U9MuxdQ&utm_medium=api&utm_source=632a28fd&v=61952C3C9F0BC581CBF2A78CB8B5B4F5E51114CB)
+  - Company: The Dignify Solutions, LLC | Washington, Washington, D.C.
+  - Job Description Job Description Required Skills & Experience Minimum 5 years of overall IT experience with broad knowled...
+
+- [Cloud Systems Engineer](https://www.adzuna.com/land/ad/5960494477?se=IIhQ7zzd8RG2ju3U9MuxdQ&utm_medium=api&utm_source=632a28fd&v=E6252CE35180FDE23B538AC2557FC5B148331EEB)
+  - Company: V-Soft Consulting Group, Inc | Pleasanton, Alameda County
+  - Job Description Job Description Cloud Systems Engineer (Remote) Primary Location: Remote V-Soft Consulting is currently ...
+
+- [Cloud Engineer (AWS) with Security Clearance](https://www.adzuna.com/land/ad/5960293216?se=IIhQ7zzd8RG2ju3U9MuxdQ&utm_medium=api&utm_source=632a28fd&v=3D63016DFA0B2A2815097D2A0FC58BABD53D571E)
+  - Company: Contact Government Services, LLC | Rosslyn, Arlington County
+  - Cloud Engineer (AWS) Washington, DC / Remote / Hybrid / Arlington, VA Information Technology / Full Time Hybrid / Hybrid...
+
+- [Junior Java Developer / Cloud Data Engineer – Retail (Remote)](https://www.adzuna.com/details/5960042396?utm_medium=api&utm_source=632a28fd)
+  - Company: SynergisticIT | Raleigh, Wake County
+  - The Assessment Went Out. The Recruiter Never Came Back. Ghosting by recruiters after an assessment is still a no. You ap...
+
+- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5959694206?se=IIhQ7zzd8RG2ju3U9MuxdQ&utm_medium=api&utm_source=632a28fd&v=8AF5F470AE0629B795C7BCE9CAA2763168085F09)
+  - Company: CrowdStrike | Sunnyvale, Santa Clara County
+  - As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organ...
+
+- [Entry Level Java Developer / AWS Cloud Engineer (Remote)](https://www.adzuna.com/details/5959683591?utm_medium=api&utm_source=632a28fd)
+  - Company: SynergisticIT | San Jose, Santa Clara County
+  - Career Switchers: for People Moving from Non-Tech TO Tech Domain Knowledge Is an Asset Until You Cannot Query It Teacher...
+
+- [Cloud Engineer](https://www.adzuna.com/details/5959675716?utm_medium=api&utm_source=632a28fd)
+  - Company: ARCTICOM LLC | Anchorage, Alaska
+  - About Arcticom, LLC Arcticom LLC provides network and systems administration, enterprise architecture and resource plann...
+
+- [Domain Consultant - Security Operations Transformation](https://www.adzuna.com/land/ad/5960614634?se=Mpld8Tzd8RGRTbZzUjwcZg&utm_medium=api&utm_source=632a28fd&v=FFB162769BDBF4E12D8CB7B34C7D03ADF10B3048)
+  - Company: Palo Alto Networks | Northlake, DeKalb County
+  - Domain Consultant - Security Operations TransformationDomain Consultant - Security Operations Transformation 1 day ago B...
+
+- [Sr. Full Stack Engineer - Infrastructure Team (Remote)](https://www.adzuna.com/land/ad/5960565852?se=Mpld8Tzd8RGRTbZzUjwcZg&utm_medium=api&utm_source=632a28fd&v=55F0F387FA034F4886CCEBA3A486D987F57DCFF2)
+  - Company: CrowdStrike | Sunnyvale, Santa Clara County
+  - As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organ...
+
+- [Azure Infrastructure Engineer](https://www.adzuna.com/land/ad/5960191270?se=Mpld8Tzd8RGRTbZzUjwcZg&utm_medium=api&utm_source=632a28fd&v=7BE14C7C5DB3A212769400440C264D4812AF32A4)
+  - Company: Vaco LLC | Addison, Dallas
+  - Azure Infrastructure Engineer DETAILS Location: Remote Position Type: 6M C2H Hourly / Salary: to $120K (based on experie...
+
+- [Field Claims Investigator](https://www.adzuna.com/land/ad/5948612955?se=Mpld8Tzd8RGRTbZzUjwcZg&utm_medium=api&utm_source=632a28fd&v=4AC62A76949608F61B4A3053DA98C60B3D83317C)
+  - Company: Phoenix Loss Control | Flat Rock, Wayne County
+  - Job Description Job Description Job Type: Contract Workplace Type: Hybrid (50% remote, 50% fieldwork) Compensation: $25/...
+
+- [Network & Infrastructure Engineering (REMOTE) with Security Clearance](https://www.adzuna.com/land/ad/5947700337?se=Mpld8Tzd8RGRTbZzUjwcZg&utm_medium=api&utm_source=632a28fd&v=CC7F776530D195F251BCCDD3BDFA4F5D3892CACD)
+  - Company: Koniag Government Services | Washington, D.C., US
+  - Applications for this position will be accepted through November 27, 2026. Kadiak LLC, a Koniag Government Services comp...
+
+- [Senior Infrastructure & Platform Engineer with Security Clearance](https://www.adzuna.com/land/ad/5947275064?se=Mpld8Tzd8RGRTbZzUjwcZg&utm_medium=api&utm_source=632a28fd&v=C84E365A3A0CCC19D73ED6D6D26BED676619D17C)
+  - Company: ECS | Hampton Roads, Hampton City
+  - Job Description ECS is seeking a Senior Infrastructure & Platform Engineer to work remotely . Please Note: This position...
+
+- [Sr. Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5939262650?se=4o898jzd8RGW67hsumO50A&utm_medium=api&utm_source=632a28fd&v=41CB21E4F84E62E6EFF0F87849C2CDC04CD55F2B)
+  - Company: CrowdStrike | Sunnyvale, Santa Clara County
+  - As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organ...
+
+- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5939262663?se=4o898jzd8RGW67hsumO50A&utm_medium=api&utm_source=632a28fd&v=409EE7E8A1265F26E2CC969AE4918EE33729EA00)
+  - Company: CrowdStrike | Sunnyvale, Santa Clara County
+  - As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organ...
+
+- [Level 2 Desktop Technician](https://www.adzuna.com/land/ad/5939149875?se=4o898jzd8RGW67hsumO50A&utm_medium=api&utm_source=632a28fd&v=6597458602F430288E984D72B0C5507C6C0A50BE)
+  - Company: CompuCom | Theresa, Dodge County
+  - At CompucomStaffing (https://www1.jobdiva.com/portal/?a=xpjdnwd96pfzndejt5orrp7btv1uj90471yr05agwnk9h3kdkxgy44xuptw0m44x...
+
+- [Level 2 Desktop Technician](https://www.adzuna.com/land/ad/5939149226?se=4o898jzd8RGW67hsumO50A&utm_medium=api&utm_source=632a28fd&v=2C995EAFC35621DF360132B904A6A7050EBFFD04)
+  - Company: CompuCom | Hoyt Heights, Sumter County
+  - At CompucomStaffing (https://www1.jobdiva.com/portal/?a=xpjdnwd96pfzndejt5orrp7btv1uj90471yr05agwnk9h3kdkxgy44xuptw0m44x...
+
+- [Level 2 Desktop Technician](https://www.adzuna.com/land/ad/5938080451?se=4o898jzd8RGW67hsumO50A&utm_medium=api&utm_source=632a28fd&v=8B2E14D9B7799270C05E038A72A6A8498D4F4636)
+  - Company: CompuCom | Laconia, Belknap County
+  - At CompucomStaffing (https://www1.jobdiva.com/portal/?a=xpjdnwd96pfzndejt5orrp7btv1uj90471yr05agwnk9h3kdkxgy44xuptw0m44x...
+
+- [Senior Cloud Infrastructure Engineer](https://www.adzuna.com/land/ad/5937133065?se=4o898jzd8RGW67hsumO50A&utm_medium=api&utm_source=632a28fd&v=3E98092729BE0F661510FFA98AAB0E19C029A93F)
+  - Company: Lumen Solutions Group Inc. | US
+  - Company Description Lumen SolutionsGroupInc. is a technology consulting Services company based inFlorida. Weprovidea wid...
+
+- [Senior Systems Engineer](https://www.adzuna.com/land/ad/5936669226?se=4o898jzd8RGW67hsumO50A&utm_medium=api&utm_source=632a28fd&v=27C2D21B5A0957FE44082C00B3C533ECDDFE87C2)
+  - Company: Apex Systems | Newcomb Hall, Charlottesville
+  - Job: 3056505 Job Description: Sr Infrastructure Engineer - Remote (EST Time Zone) If interested, please send resume's an...
+
+- [Chief Technology Officer (CTO), Artificial Intelligence (AI) Required, Work From Home - M](https://www.adzuna.com/land/ad/5936535224?se=4o898jzd8RGW67hsumO50A&utm_medium=api&utm_source=632a28fd&v=E63757826F4C71111F6628D8AF299E306B9541D7)
+  - Company: Next Step Systems | US
+  - Chief Technology Officer (CTO), Artificial Intelligence (AI) Required, Work From Home We are looking for a Chief Technol...
+
+- [AWS Infrastructure Engineer](https://www.adzuna.com/land/ad/5934527554?se=4o898jzd8RGW67hsumO50A&utm_medium=api&utm_source=632a28fd&v=9312C4E47BAE8827EC8EFD069608FE43A2913E56)
+  - Company: Stellent IT LLC | Highland Park, Dallas
+  - Hello, I hope you are doing well! My name is Ayush Verma from Stellent IT LLC. I am reaching out to you on a new job opp...
+
+- [Experienced Infrastructure Engineer with Security Clearance](https://www.adzuna.com/land/ad/5932564823?se=4o898jzd8RGW67hsumO50A&utm_medium=api&utm_source=632a28fd&v=206074F0C578501DD6C29516FA1E9DD80D899580)
+  - Company: Serco Inc. | Washington, D.C., US
+  - Position Description & Qualifications We are looking for an experienced Experienced Infrastructure Engineer - (100% Remo...
+
+- [Desktop Technician](https://www.adzuna.com/land/ad/5932031592?se=4o898jzd8RGW67hsumO50A&utm_medium=api&utm_source=632a28fd&v=F4BC003BE132418C78065777691185C8EBE4B487)
+  - Company: CompuCom | Greenwood, Greenwood County
+  - At CompucomStaffing (https://www1.jobdiva.com/portal/?a=xpjdnwd96pfzndejt5orrp7btv1uj90471yr05agwnk9h3kdkxgy44xuptw0m44x...
+
+- [Senior Infrastructure Engineer](https://www.adzuna.com/details/5931830476?utm_medium=api&utm_source=632a28fd)
+  - Company: d-Matrix | Seattle, King County
+  - Join d-Matrix and help build the future of AI inference. We’ve pioneered a memory-centric architecture that brings compu...
+
+- [Remote Access Lead Infrastructure Engineer (Corporate Sector - Employee Platforms)](https://www.adzuna.com/details/5930783697?utm_medium=api&utm_source=632a28fd)
+  - Company: J.P. Morgan | Jersey City, Hudson County
+  - hackajob is collaborating with J.P. Morgan to connect them with exceptional professionals for this role. JOB DESCRIPTION...
+
+- [Sr. Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930547444?se=4o898jzd8RGW67hsumO50A&utm_medium=api&utm_source=632a28fd&v=029C2E2526B748901412E0A18C96FA1F108C4B51)
+  - Company: CrowdStrike | Ny State Campus, Albany County
+  - USA - Remote Full time R29607 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Software Engineer, Infrastructure (Remote)](https://www.adzuna.com/details/5930483595?utm_medium=api&utm_source=632a28fd)
+  - Company: CrowdStrike | Capitol, Richmond
+  - USA - Remote Full time R30377 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Data Infrastructure Engineer (Remote)](https://www.adzuna.com/details/5930483590?utm_medium=api&utm_source=632a28fd)
+  - Company: CrowdStrike | Capitol, Richmond
+  - USA - Remote Full time R29607 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/details/5930483475?utm_medium=api&utm_source=632a28fd)
+  - Company: CrowdStrike | Capitol, Richmond
+  - USA - Remote Full time R30174 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930481989?se=4o898jzd8RGW67hsumO50A&utm_medium=api&utm_source=632a28fd&v=36B1578DAD25DD0ED2722532F295440A5EFFD134)
+  - Company: CrowdStrike | Tumwater, Thurston County
+  - USA - Remote Full time R29607 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Full Stack Engineer - Infrastructure Team (Remote)](https://www.adzuna.com/land/ad/5930482020?se=4o898jzd8RGW67hsumO50A&utm_medium=api&utm_source=632a28fd&v=B43DFBEF95E8EC7A6E9B5298039F87E45505425A)
+  - Company: CrowdStrike | Tumwater, Thurston County
+  - USA - Remote Full time R30377 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5930481951?se=4o898jzd8RGW67hsumO50A&utm_medium=api&utm_source=632a28fd&v=8E639D0F1CBA29C9D195D4AD000F5425379B1DE1)
+  - Company: CrowdStrike | Tumwater, Thurston County
+  - USA - Remote Full time R30174 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/details/5930480614?utm_medium=api&utm_source=632a28fd)
+  - Company: CrowdStrike | Springfield, Sangamon County
+  - USA - Remote Full time R30174 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Software Engineer, Infrastructure (Remote)](https://www.adzuna.com/details/5930480596?utm_medium=api&utm_source=632a28fd)
+  - Company: CrowdStrike | Springfield, Sangamon County
+  - USA - Remote Full time R30377 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Data Infrastructure Engineer (Remote)](https://www.adzuna.com/details/5930480592?utm_medium=api&utm_source=632a28fd)
+  - Company: CrowdStrike | Springfield, Sangamon County
+  - USA - Remote Full time R29607 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Full Stack Engineer - Infrastructure Team (Remote)](https://www.adzuna.com/land/ad/5930479664?se=4o898jzd8RGW67hsumO50A&utm_medium=api&utm_source=632a28fd&v=EB1560FE3FC34DB615EF810A6F040A87D0E23DFE)
+  - Company: CrowdStrike | Grandview Heights, Franklin County
+  - USA - Remote Full time R30377 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930479693?se=4o898jzd8RGW67hsumO50A&utm_medium=api&utm_source=632a28fd&v=465A68170669B9D3283A6A4D32176649EB9E2FD1)
+  - Company: CrowdStrike | Grandview Heights, Franklin County
+  - USA - Remote Full time R29607 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5930479620?se=4o898jzd8RGW67hsumO50A&utm_medium=api&utm_source=632a28fd&v=0D17EAEEF179B9079909CCA5DFCFD8928360ECFF)
+  - Company: CrowdStrike | Grandview Heights, Franklin County
+  - USA - Remote Full time R30174 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Full Stack Engineer - Infrastructure Team (Remote)](https://www.adzuna.com/land/ad/5930469726?se=4o898jzd8RGW67hsumO50A&utm_medium=api&utm_source=632a28fd&v=9681C68088D885A827FBD43EAAF79FF191891E65)
+  - Company: CrowdStrike | Five Points, Wake County
+  - USA - Remote Full time R30377 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930469639?se=4o898jzd8RGW67hsumO50A&utm_medium=api&utm_source=632a28fd&v=6971904F67F5AF29832812E21A13FBEAB4BCA87B)
+  - Company: CrowdStrike | Five Points, Wake County
+  - USA - Remote Full time R29607 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5930469656?se=4o898jzd8RGW67hsumO50A&utm_medium=api&utm_source=632a28fd&v=65A554B758382037BF2585AA4F52CBB971271284)
+  - Company: CrowdStrike | Five Points, Wake County
+  - USA - Remote Full time R30174 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/details/5930464540?utm_medium=api&utm_source=632a28fd)
+  - Company: CrowdStrike | Tallahassee, Leon County
+  - USA - Remote Full time R30174 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Data Infrastructure Engineer (Remote)](https://www.adzuna.com/details/5930464575?utm_medium=api&utm_source=632a28fd)
+  - Company: CrowdStrike | Tallahassee, Leon County
+  - USA - Remote Full time R29607 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Full Stack Engineer - Infrastructure Team (Remote)](https://www.adzuna.com/details/5930464466?utm_medium=api&utm_source=632a28fd)
+  - Company: CrowdStrike | Tallahassee, Leon County
+  - USA - Remote Full time R30377 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5930459447?se=4o898jzd8RGW67hsumO50A&utm_medium=api&utm_source=632a28fd&v=AE5E73D75409B7E61520EB113C4D787DBDDDBB17)
+  - Company: CrowdStrike | Nashville, Davidson County
+  - USA - Remote Full time R30174 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Full Stack Engineer - Infrastructure Team (Remote)](https://www.adzuna.com/land/ad/5930459644?se=4o898jzd8RGW67hsumO50A&utm_medium=api&utm_source=632a28fd&v=0EE54ED26B2A9C5DE9F00B1F08EE4AF132FE53DA)
+  - Company: CrowdStrike | Nashville, Davidson County
+  - USA - Remote Full time R30377 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930459628?se=4o898jzd8RGW67hsumO50A&utm_medium=api&utm_source=632a28fd&v=1B007F380EB5A382040A7A6D46A76E78A4D6C810)
+  - Company: CrowdStrike | Nashville, Davidson County
+  - USA - Remote Full time R29607 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Full Stack Engineer - Infrastructure Team (Remote)](https://www.adzuna.com/land/ad/5930453614?se=4o898jzd8RGW67hsumO50A&utm_medium=api&utm_source=632a28fd&v=D6A88156244FFC02FD52ABE9DD9B97066252AEDE)
+  - Company: CrowdStrike | Trenton, Mercer County
+  - USA - Remote Full time R30377 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5930453518?se=4o898jzd8RGW67hsumO50A&utm_medium=api&utm_source=632a28fd&v=521F8D23CE63D289DCF476944BD87BAF35831FC0)
+  - Company: CrowdStrike | Trenton, Mercer County
+  - USA - Remote Full time R30174 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930453541?se=4o898jzd8RGW67hsumO50A&utm_medium=api&utm_source=632a28fd&v=3E1CEA39EE5C6D269307971BE427988FC84626C0)
+  - Company: CrowdStrike | Trenton, Mercer County
+  - USA - Remote Full time R29607 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5930447446?se=4o898jzd8RGW67hsumO50A&utm_medium=api&utm_source=632a28fd&v=3BB3EC3C3F0B2CA766A6150AE635CB75D015ED8D)
+  - Company: CrowdStrike | Atlanta, Fulton County
+  - USA - Remote Full time R30174 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Full Stack Engineer - Infrastructure Team (Remote)](https://www.adzuna.com/land/ad/5930447410?se=4o898jzd8RGW67hsumO50A&utm_medium=api&utm_source=632a28fd&v=717413649375120919C2A7734B43BA72C27FE532)
+  - Company: CrowdStrike | Atlanta, Fulton County
+  - USA - Remote Full time R30377 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930447379?se=4o898jzd8RGW67hsumO50A&utm_medium=api&utm_source=632a28fd&v=69C79C37045B8A1F03EDA90C30032CC7443B6FF1)
+  - Company: CrowdStrike | Atlanta, Fulton County
+  - USA - Remote Full time R29607 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Infrastructure Engineer III, TechOps CICD Image Management (Remote)](https://www.adzuna.com/land/ad/5930445351?se=4o898jzd8RGW67hsumO50A&utm_medium=api&utm_source=632a28fd&v=8990E19A4998B27383569124F5F4BE710D6BA5FC)
+  - Company: CrowdStrike | Cedar, Cole County
+  - USA - Remote Full time R30174 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Data Infrastructure Engineer (Remote)](https://www.adzuna.com/land/ad/5930445323?se=4o898jzd8RGW67hsumO50A&utm_medium=api&utm_source=632a28fd&v=30E695B48DF05982130BB150A8C4B70BC835B85B)
+  - Company: CrowdStrike | Cedar, Cole County
+  - USA - Remote Full time R29607 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. DevSecOps III with Security Clearance](https://www.adzuna.com/land/ad/5947262454?se=SpQg8zzd8RGxnsm2izC-GQ&utm_medium=api&utm_source=632a28fd&v=E7729EEE3DBF101544ECF3788A9B0CDA486A8075)
+  - Company: Seneca Resources, LLC | Washington, D.C., US
+  - Position Title: Sr. DevSecOps Engineer Location: Remote (preferably in NOVA or Hagerstown, MD) Clearance Requirements: T...
+
+- [Devsecops Engineer](https://www.adzuna.com/land/ad/5914057429?se=SpQg8zzd8RGxnsm2izC-GQ&utm_medium=api&utm_source=632a28fd&v=22CF3EA930D89540E996484BEC4C1F478876F23D)
+  - Company: Conviso Inc. | Washington, D.C., US
+  - Conviso Inc is hiring Secret Cleared DevSecOps Engineer. This is a 100% Remote set-up position & comes with benefits, 40...
+
+- [Cloud DevSecOps Engineer with Security Clearance](https://www.adzuna.com/land/ad/5897990957?se=SpQg8zzd8RGxnsm2izC-GQ&utm_medium=api&utm_source=632a28fd&v=764E874E6DCDD8475ED8F1E0F5108C3E5B1464CF)
+  - Company: ECS | Hampton Roads, Hampton City
+  - Job Description ECS is seeking a Cloud DevSecOps Engineer to work remotely. Job Description: We are seeking a highly ski...
+
+- [Kubernetes Engineer](https://www.adzuna.com/details/5727641551?utm_medium=api&utm_source=632a28fd)
+  - Company: Ascension Federal Services | Orlando, Orange County
+  - Kubernetes Engineer (Remote) Location: Orlando, FL, 32801 Job Description: We are seeking a highly skilled Kubernetes En...
