@@ -1,6 +1,6 @@
 # New jobs
 
-Generated: 2026-11-10 19:19 UTC
+Generated: 2026-11-11 19:16 UTC
 
 Total new jobs: 83
 
@@ -86,11 +86,11 @@ Total new jobs: 83
   - Company: cloudflare
   - Location: Remote
 
-- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280094?gh_jid=8280094)
+- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280093?gh_jid=8280093)
   - Company: dropbox
   - Location: Remote
 
-- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280093?gh_jid=8280093)
+- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280094?gh_jid=8280094)
   - Company: dropbox
   - Location: Remote
 
@@ -206,15 +206,15 @@ Total new jobs: 83
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8242984?gh_jid=8242984)
-  - Company: okta
-  - Location: Remote
-
 - [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8184826?gh_jid=8184826)
   - Company: okta
   - Location: Remote
 
 - [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8260950?gh_jid=8260950)
+  - Company: okta
+  - Location: Remote
+
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8242984?gh_jid=8242984)
   - Company: okta
   - Location: Remote
 
@@ -235,10 +235,6 @@ Total new jobs: 83
   - Location: Remote
 
 - [Senior Software Engineer - SRE](https://www.okta.com/company/careers/opportunity/8263916?gh_jid=8263916)
-  - Company: okta
-  - Location: Remote
-
-- [Senior Software Reliability Engineer - Data Platform](https://www.okta.com/company/careers/opportunity/8082028?gh_jid=8082028)
   - Company: okta
   - Location: Remote
 
@@ -269,8 +265,8 @@ Total new jobs: 83
   - Location: USA
   - Level/Team: Software Engineering
 
-- [Site Reliability Engineer 2](https://jobicy.com/jobs/154637-site-reliability-engineer-2-3)
-  - Company: Kong Inc.
+- [Platform Engineer](https://jobicy.com/jobs/161246-platform-engineer-3)
+  - Company: Defense Unicorns
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
@@ -284,9 +280,9 @@ Total new jobs: 83
   - Location: USA
   - Level/Team: Cybersecurity
 
-- [Senior Database Engineer](https://jobicy.com/jobs/159461-senior-database-engineer-2)
-  - Company: Spreedly
-  - Location: USA
+- [DevOps - Remote (Only Mexico)](https://jobicy.com/jobs/161184-devops-remote-only-mexico)
+  - Company: Orion Innovation
+  - Location: Mexico
   - Level/Team: DevOps & Infrastructure
 
 - [FinOps Engineer](https://jobicy.com/jobs/159370-finops-engineer)
@@ -351,6 +347,10 @@ Total new jobs: 83
 
 - [Senior Backend Cloud Engineer](https://weworkremotely.com/remote-jobs/halcyon-senior-backend-cloud-engineer)
   - Company: Halcyon
+  - Location: Remote
+
+- [Cloud Engineer](https://weworkremotely.com/remote-jobs/knack-cloud-engineer-1)
+  - Company: Knack
   - Location: Remote
 
 - [DevOps Engineer II, Cloud Platform](https://weworkremotely.com/remote-jobs/upstart-devops-engineer-ii-cloud-platform)
