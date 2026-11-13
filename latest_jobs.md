@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-11-12 19:33 UTC
+Generated: 2026-11-13 19:14 UTC
 
-Total new jobs: 89
+Total new jobs: 92
 
 ## greenhouse
 
@@ -174,6 +174,10 @@ Total new jobs: 89
   - Company: mongodb
   - Location: Remote
 
+- [Senior Site Reliability Engineer, Agent Engine](https://www.mongodb.com/careers/job/?gh_jid=8366599)
+  - Company: mongodb
+  - Location: Remote
+
 - [Senior Site Reliability Engineer, InfraSec](https://www.mongodb.com/careers/job/?gh_jid=8278897)
   - Company: mongodb
   - Location: Remote
@@ -204,6 +208,10 @@ Total new jobs: 89
 
 - [Site Reliability Engineer 3](https://www.mongodb.com/careers/job/?gh_jid=7821316)
   - Company: mongodb
+  - Location: Remote
+
+- [Associate IT infrastructure Engineer](https://job-boards.greenhouse.io/newrelic/jobs/5481206008)
+  - Company: newrelic
   - Location: Remote
 
 - [Senior Database Reliability Engineer (DBRE)](https://www.okta.com/company/careers/opportunity/7617976?gh_jid=7617976)
@@ -292,6 +300,11 @@ Total new jobs: 89
   - Company: MaintainX
   - Location: Canada
   - Level/Team: QA & Testing
+
+- [Senior DevOps Engineer](https://jobicy.com/jobs/161653-senior-devops-engineer-13)
+  - Company: Nearform
+  - Location: UK
+  - Level/Team: DevOps & Infrastructure
 
 - [DevOps - Remote (Only Mexico)](https://jobicy.com/jobs/161184-devops-remote-only-mexico)
   - Company: Orion Innovation

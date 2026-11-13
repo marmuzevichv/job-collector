@@ -752,6 +752,19 @@
   {
     "source_type": "greenhouse",
     "company": "mongodb",
+    "title": "Senior Site Reliability Engineer, Agent Engine",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=8366599",
+    "external_id": "greenhouse::8366599",
+    "description_snippet": "",
+    "posted_at": "2026-11-13T11:23:24-05:00",
+    "collected_at_utc": "2026-11-13 19:13:22"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "mongodb",
     "title": "Senior Site Reliability Engineer, InfraSec",
     "location": "",
     "team": "",
@@ -852,6 +865,34 @@
     "description_snippet": "",
     "posted_at": "2026-11-12T09:41:56-05:00",
     "collected_at_utc": "2026-11-12 19:32:43"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Nearform",
+    "title": "Senior DevOps Engineer",
+    "location": "UK",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/161653-senior-devops-engineer-13",
+    "external_id": "jobicy::161653",
+    "description_snippet": "About Nearform Nearform is an independent team of data &amp; AI experts, engineers, and designers who build intelligent digital solutions and capability at pace. We create AI-enabled solutions that enhance digital experiences, empower developers, and deliver measurable results. In these ways, we par",
+    "posted_at": "2026-11-12T16:49:53+00:00",
+    "collected_at_utc": "2026-11-13 19:13:22"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "newrelic",
+    "title": "Associate IT infrastructure Engineer",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://job-boards.greenhouse.io/newrelic/jobs/5481206008",
+    "external_id": "greenhouse::5481206008",
+    "description_snippet": "",
+    "posted_at": "2026-11-13T11:05:24-05:00",
+    "collected_at_utc": "2026-11-13 19:13:22"
   },
   {
     "source_type": "greenhouse",
