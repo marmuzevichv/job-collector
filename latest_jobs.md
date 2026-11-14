@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-11-13 19:14 UTC
+Generated: 2026-11-14 17:40 UTC
 
-Total new jobs: 92
+Total new jobs: 89
 
 ## greenhouse
 
@@ -31,10 +31,6 @@ Total new jobs: 92
   - Location: Remote
 
 - [Pre-training Data Infrastructure Engineer](https://job-boards.greenhouse.io/anthropic/jobs/4973067008)
-  - Company: anthropic
-  - Location: Remote
-
-- [Staff+ Site Reliability Engineer, Safeguards ML Infra](https://job-boards.greenhouse.io/anthropic/jobs/5416709008)
   - Company: anthropic
   - Location: Remote
 
@@ -90,11 +86,11 @@ Total new jobs: 92
   - Company: dropbox
   - Location: Remote
 
-- [Senior Client Platform Engineer, Endpoint Platform & Automation](https://jobs.dropbox.com/listing/8356939?gh_jid=8356939)
+- [Senior Client Platform Engineer, Endpoint Platform & Automation](https://jobs.dropbox.com/listing/8356941?gh_jid=8356941)
   - Company: dropbox
   - Location: Remote
 
-- [Senior Client Platform Engineer, Endpoint Platform & Automation](https://jobs.dropbox.com/listing/8356941?gh_jid=8356941)
+- [Senior Client Platform Engineer, Endpoint Platform & Automation](https://jobs.dropbox.com/listing/8356939?gh_jid=8356939)
   - Company: dropbox
   - Location: Remote
 
@@ -222,7 +218,7 @@ Total new jobs: 92
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8242984?gh_jid=8242984)
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8260950?gh_jid=8260950)
   - Company: okta
   - Location: Remote
 
@@ -230,11 +226,7 @@ Total new jobs: 92
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8015032?gh_jid=8015032)
-  - Company: okta
-  - Location: Remote
-
-- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8260950?gh_jid=8260950)
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8242984?gh_jid=8242984)
   - Company: okta
   - Location: Remote
 
@@ -291,6 +283,16 @@ Total new jobs: 92
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
+- [Platform Engineer (FedD145)](https://jobicy.com/jobs/162132-platform-engineer-fedd145)
+  - Company: Defense Unicorns
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Platform Engineer - FedD180/FedD181](https://jobicy.com/jobs/162137-platform-engineer-fedd180-fedd181)
+  - Company: Defense Unicorns
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
 - [Senior Platform Engineer (Infrastructure)](https://jobicy.com/jobs/161526-senior-platform-engineer-infrastructure)
   - Company: Fleetio
   - Location: USA
@@ -304,11 +306,6 @@ Total new jobs: 92
 - [Senior DevOps Engineer](https://jobicy.com/jobs/161653-senior-devops-engineer-13)
   - Company: Nearform
   - Location: UK
-  - Level/Team: DevOps & Infrastructure
-
-- [DevOps - Remote (Only Mexico)](https://jobicy.com/jobs/161184-devops-remote-only-mexico)
-  - Company: Orion Innovation
-  - Location: Mexico
   - Level/Team: DevOps & Infrastructure
 
 - [Devops Engineer (AWS)](https://jobicy.com/jobs/161429-devops-engineer-aws)
@@ -338,16 +335,6 @@ Total new jobs: 92
 
 - [Senior DevOps Engineer / Cloud Infrastructure Engineer - Cybersecurity](https://jobicy.com/jobs/161545-senior-devops-engineer-cloud-infrastructure-engineer-cybersecurity)
   - Company: Truelogic
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
-- [DevOps Engineer (Observability)](https://jobicy.com/jobs/154900-devops-engineer-observability)
-  - Company: Twilio
-  - Location: Ireland
-  - Level/Team: DevOps & Infrastructure
-
-- [DevOps Engineer](https://jobicy.com/jobs/154974-devops-engineer-7)
-  - Company: WalkMe
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
