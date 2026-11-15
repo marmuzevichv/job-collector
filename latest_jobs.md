@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-11-14 17:40 UTC
+Generated: 2026-11-15 18:30 UTC
 
-Total new jobs: 89
+Total new jobs: 91
 
 ## greenhouse
 
@@ -82,11 +82,11 @@ Total new jobs: 89
   - Company: cloudflare
   - Location: Remote
 
-- [Senior Client Platform Engineer, Endpoint Platform & Automation](https://jobs.dropbox.com/listing/8356942?gh_jid=8356942)
+- [Senior Client Platform Engineer, Endpoint Platform & Automation](https://jobs.dropbox.com/listing/8356941?gh_jid=8356941)
   - Company: dropbox
   - Location: Remote
 
-- [Senior Client Platform Engineer, Endpoint Platform & Automation](https://jobs.dropbox.com/listing/8356941?gh_jid=8356941)
+- [Senior Client Platform Engineer, Endpoint Platform & Automation](https://jobs.dropbox.com/listing/8356942?gh_jid=8356942)
   - Company: dropbox
   - Location: Remote
 
@@ -94,11 +94,11 @@ Total new jobs: 89
   - Company: dropbox
   - Location: Remote
 
-- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280094?gh_jid=8280094)
+- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280093?gh_jid=8280093)
   - Company: dropbox
   - Location: Remote
 
-- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280093?gh_jid=8280093)
+- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280094?gh_jid=8280094)
   - Company: dropbox
   - Location: Remote
 
@@ -218,11 +218,11 @@ Total new jobs: 89
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8260950?gh_jid=8260950)
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8184826?gh_jid=8184826)
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8184826?gh_jid=8184826)
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8260950?gh_jid=8260950)
   - Company: okta
   - Location: Remote
 
@@ -278,11 +278,6 @@ Total new jobs: 89
   - Location: Mexico
   - Level/Team: Software Engineering
 
-- [Platform Engineer](https://jobicy.com/jobs/161246-platform-engineer-3)
-  - Company: Defense Unicorns
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
 - [Platform Engineer (FedD145)](https://jobicy.com/jobs/162132-platform-engineer-fedd145)
   - Company: Defense Unicorns
   - Location: USA
@@ -293,24 +288,34 @@ Total new jobs: 89
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
+- [Senior Client Platform Engineer, Endpoint Platform & Automation](https://jobicy.com/jobs/162318-senior-client-platform-engineer-endpoint-platform-automation)
+  - Company: Dropbox
+  - Location: Ireland
+  - Level/Team: DevOps & Infrastructure
+
+- [Senior Platform Engineer](https://jobicy.com/jobs/155361-senior-platform-engineer-5)
+  - Company: Fleetio
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
 - [Senior Platform Engineer (Infrastructure)](https://jobicy.com/jobs/161526-senior-platform-engineer-infrastructure)
   - Company: Fleetio
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
-- [Senior Platform Engineer, Quality Platform](https://jobicy.com/jobs/160720-senior-platform-engineer-quality-platform)
-  - Company: MaintainX
-  - Location: Canada
-  - Level/Team: QA & Testing
+- [Senior Site Reliability Engineer](https://jobicy.com/jobs/162437-senior-site-reliability-engineer-7)
+  - Company: Monks
+  - Location: Costa Rica
+  - Level/Team: DevOps & Infrastructure
 
 - [Senior DevOps Engineer](https://jobicy.com/jobs/161653-senior-devops-engineer-13)
   - Company: Nearform
   - Location: UK
   - Level/Team: DevOps & Infrastructure
 
-- [Devops Engineer (AWS)](https://jobicy.com/jobs/161429-devops-engineer-aws)
-  - Company: Particle41
-  - Location: Argentina
+- [IT Department Lead - Remote, Worldwide](https://jobicy.com/jobs/162315-it-department-lead-remote-worldwide)
+  - Company: Nethermind
+  - Location: Anywhere
   - Level/Team: DevOps & Infrastructure
 
 - [Devops Engineer (Azure)](https://jobicy.com/jobs/161433-devops-engineer-azure)
@@ -333,6 +338,16 @@ Total new jobs: 89
   - Location: UK
   - Level/Team: DevOps & Infrastructure
 
+- [Platform Engineer, Managed Postgres](https://jobicy.com/jobs/155389-platform-engineer-managed-postgres)
+  - Company: Supabase
+  - Location: Anywhere
+  - Level/Team: DevOps & Infrastructure
+
+- [Site Reliability Engineer](https://jobicy.com/jobs/155391-site-reliability-engineer-4)
+  - Company: Supabase
+  - Location: Anywhere
+  - Level/Team: DevOps & Infrastructure
+
 - [Senior DevOps Engineer / Cloud Infrastructure Engineer - Cybersecurity](https://jobicy.com/jobs/161545-senior-devops-engineer-cloud-infrastructure-engineer-cybersecurity)
   - Company: Truelogic
   - Location: USA
@@ -353,10 +368,6 @@ Total new jobs: 89
 
 - [Senior DevOps Engineer](https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557)
   - Company: Lemon.io
-  - Location: Worldwide
-
-- [AI Developer](https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701)
-  - Company: Salvo Software
   - Location: Worldwide
 
 - [Cloud Engineer Automation](https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600)
