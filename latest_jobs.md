@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-11-15 18:30 UTC
+Generated: 2026-11-16 21:39 UTC
 
-Total new jobs: 91
+Total new jobs: 92
 
 ## greenhouse
 
@@ -82,6 +82,10 @@ Total new jobs: 91
   - Company: cloudflare
   - Location: Remote
 
+- [Senior Client Platform Engineer, Endpoint Platform & Automation](https://jobs.dropbox.com/listing/8356939?gh_jid=8356939)
+  - Company: dropbox
+  - Location: Remote
+
 - [Senior Client Platform Engineer, Endpoint Platform & Automation](https://jobs.dropbox.com/listing/8356941?gh_jid=8356941)
   - Company: dropbox
   - Location: Remote
@@ -90,15 +94,11 @@ Total new jobs: 91
   - Company: dropbox
   - Location: Remote
 
-- [Senior Client Platform Engineer, Endpoint Platform & Automation](https://jobs.dropbox.com/listing/8356939?gh_jid=8356939)
+- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280094?gh_jid=8280094)
   - Company: dropbox
   - Location: Remote
 
 - [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280093?gh_jid=8280093)
-  - Company: dropbox
-  - Location: Remote
-
-- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280094?gh_jid=8280094)
   - Company: dropbox
   - Location: Remote
 
@@ -218,11 +218,15 @@ Total new jobs: 91
   - Company: okta
   - Location: Remote
 
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8260950?gh_jid=8260950)
+  - Company: okta
+  - Location: Remote
+
 - [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8184826?gh_jid=8184826)
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8260950?gh_jid=8260950)
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/7963271?gh_jid=7963271)
   - Company: okta
   - Location: Remote
 
@@ -288,11 +292,6 @@ Total new jobs: 91
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
-- [Senior Client Platform Engineer, Endpoint Platform & Automation](https://jobicy.com/jobs/162318-senior-client-platform-engineer-endpoint-platform-automation)
-  - Company: Dropbox
-  - Location: Ireland
-  - Level/Team: DevOps & Infrastructure
-
 - [Senior Platform Engineer](https://jobicy.com/jobs/155361-senior-platform-engineer-5)
   - Company: Fleetio
   - Location: USA
@@ -301,6 +300,16 @@ Total new jobs: 91
 - [Senior Platform Engineer (Infrastructure)](https://jobicy.com/jobs/161526-senior-platform-engineer-infrastructure)
   - Company: Fleetio
   - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Senior Site Reliability Engineer - Ceph Storage](https://jobicy.com/jobs/162618-senior-site-reliability-engineer-ceph-storage)
+  - Company: GoDaddy
+  - Location: UK
+  - Level/Team: DevOps & Infrastructure
+
+- [Site Reliability Engineer (Remote)(Located in the United Kingdom)](https://jobicy.com/jobs/162686-site-reliability-engineer-remotelocated-in-the-united-kingdom)
+  - Company: KnowBe4, Inc.
+  - Location: UK
   - Level/Team: DevOps & Infrastructure
 
 - [Senior Site Reliability Engineer](https://jobicy.com/jobs/162437-senior-site-reliability-engineer-7)
@@ -316,16 +325,6 @@ Total new jobs: 91
 - [IT Department Lead - Remote, Worldwide](https://jobicy.com/jobs/162315-it-department-lead-remote-worldwide)
   - Company: Nethermind
   - Location: Anywhere
-  - Level/Team: DevOps & Infrastructure
-
-- [Devops Engineer (Azure)](https://jobicy.com/jobs/161433-devops-engineer-azure)
-  - Company: Particle41
-  - Location: Mexico
-  - Level/Team: DevOps & Infrastructure
-
-- [DevOps Engineer (GCP)](https://jobicy.com/jobs/161436-devops-engineer-gcp)
-  - Company: Particle41
-  - Location: Mexico
   - Level/Team: DevOps & Infrastructure
 
 - [Lead DevOps Engineer](https://jobicy.com/jobs/161625-lead-devops-engineer)
@@ -346,6 +345,11 @@ Total new jobs: 91
 - [Site Reliability Engineer](https://jobicy.com/jobs/155391-site-reliability-engineer-4)
   - Company: Supabase
   - Location: Anywhere
+  - Level/Team: DevOps & Infrastructure
+
+- [Software Engineer, AI/ML Infrastructure](https://jobicy.com/jobs/152419-software-engineer-ai-ml-infrastructure)
+  - Company: Thumbtack
+  - Location: Canada
   - Level/Team: DevOps & Infrastructure
 
 - [Senior DevOps Engineer / Cloud Infrastructure Engineer - Cybersecurity](https://jobicy.com/jobs/161545-senior-devops-engineer-cloud-infrastructure-engineer-cybersecurity)
