@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-11-16 21:39 UTC
+Generated: 2026-11-17 20:29 UTC
 
-Total new jobs: 92
+Total new jobs: 95
 
 ## greenhouse
 
@@ -250,6 +250,10 @@ Total new jobs: 92
   - Company: okta
   - Location: Remote
 
+- [Senior Software Engineer, Developer Experience (CI/CD & Release Engineering)](https://www.okta.com/company/careers/opportunity/8237695?gh_jid=8237695)
+  - Company: okta
+  - Location: Remote
+
 - [Splunk Infrastructure Engineer](https://www.okta.com/company/careers/opportunity/7658254?gh_jid=7658254)
   - Company: okta
   - Location: Remote
@@ -289,6 +293,11 @@ Total new jobs: 92
 
 - [Platform Engineer - FedD180/FedD181](https://jobicy.com/jobs/162137-platform-engineer-fedd180-fedd181)
   - Company: Defense Unicorns
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Senior DevOps Engineer](https://jobicy.com/jobs/155574-senior-devops-engineer-10)
+  - Company: dscout
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
@@ -335,6 +344,11 @@ Total new jobs: 92
 - [Sr. Software Engineer, Cloud Platform](https://jobicy.com/jobs/161585-sr-software-engineer-cloud-platform-2)
   - Company: Samsara
   - Location: UK
+  - Level/Team: DevOps & Infrastructure
+
+- [Platform Engineer - Compute](https://jobicy.com/jobs/162979-platform-engineer-compute)
+  - Company: Supabase
+  - Location: Anywhere
   - Level/Team: DevOps & Infrastructure
 
 - [Platform Engineer, Managed Postgres](https://jobicy.com/jobs/155389-platform-engineer-managed-postgres)
