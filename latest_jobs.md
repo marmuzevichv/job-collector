@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-11-17 20:29 UTC
+Generated: 2026-11-18 20:00 UTC
 
-Total new jobs: 95
+Total new jobs: 86
 
 ## greenhouse
 
@@ -82,11 +82,11 @@ Total new jobs: 95
   - Company: cloudflare
   - Location: Remote
 
-- [Senior Client Platform Engineer, Endpoint Platform & Automation](https://jobs.dropbox.com/listing/8356939?gh_jid=8356939)
+- [Senior Client Platform Engineer, Endpoint Platform & Automation](https://jobs.dropbox.com/listing/8356941?gh_jid=8356941)
   - Company: dropbox
   - Location: Remote
 
-- [Senior Client Platform Engineer, Endpoint Platform & Automation](https://jobs.dropbox.com/listing/8356941?gh_jid=8356941)
+- [Senior Client Platform Engineer, Endpoint Platform & Automation](https://jobs.dropbox.com/listing/8356939?gh_jid=8356939)
   - Company: dropbox
   - Location: Remote
 
@@ -100,10 +100,6 @@ Total new jobs: 95
 
 - [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280093?gh_jid=8280093)
   - Company: dropbox
-  - Location: Remote
-
-- [Senior Site Reliability Engineer (Hosted Infra)](https://jobs.elastic.co/jobs?gh_jid=8166580&gh_jid=8166580)
-  - Company: elastic
   - Location: Remote
 
 - [Sr. Salesforce DevOps Engineer](https://jobs.elastic.co/jobs?gh_jid=8207939&gh_jid=8207939)
@@ -126,23 +122,19 @@ Total new jobs: 95
   - Company: gitlab
   - Location: Remote
 
+- [Release Engineer, Salesforce](https://job-boards.greenhouse.io/gitlab/jobs/8730125002)
+  - Company: gitlab
+  - Location: Remote
+
 - [Senior Backend Engineer, Core DevOps](https://job-boards.greenhouse.io/gitlab/jobs/8689243002)
   - Company: gitlab
   - Location: Remote
 
-- [Senior Backend Engineer, Core DevOps: Artifact Central - PST](https://job-boards.greenhouse.io/gitlab/jobs/8687958002)
+- [Senior Backend Engineer, Core DevOps: Artifact Central](https://job-boards.greenhouse.io/gitlab/jobs/8687958002)
   - Company: gitlab
   - Location: Remote
 
 - [Senior CX Platform Engineer](https://job-boards.greenhouse.io/gitlab/jobs/8871406002)
-  - Company: gitlab
-  - Location: Remote
-
-- [Senior Release Engineer](https://job-boards.greenhouse.io/gitlab/jobs/8730125002)
-  - Company: gitlab
-  - Location: Remote
-
-- [Site Reliability Engineer, Cells Infrastructure](https://job-boards.greenhouse.io/gitlab/jobs/8867756002)
   - Company: gitlab
   - Location: Remote
 
@@ -152,14 +144,6 @@ Total new jobs: 95
 
 - [Site Reliability Engineer, Infrastructure Platforms — UK (Intermediate to Senior Staff)](https://job-boards.greenhouse.io/gitlab/jobs/8773546002)
   - Company: gitlab
-  - Location: Remote
-
-- [Release Engineer](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4966818101)
-  - Company: jetbrains
-  - Location: Remote
-
-- [Senior Test Automation Engineer (TeamCity)](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4961618101)
-  - Company: jetbrains
   - Location: Remote
 
 - [Cloud Operations Engineer](https://www.mongodb.com/careers/job/?gh_jid=8184637)
@@ -218,15 +202,15 @@ Total new jobs: 95
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8260950?gh_jid=8260950)
-  - Company: okta
-  - Location: Remote
-
 - [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8184826?gh_jid=8184826)
   - Company: okta
   - Location: Remote
 
 - [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/7963271?gh_jid=7963271)
+  - Company: okta
+  - Location: Remote
+
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8260950?gh_jid=8260950)
   - Company: okta
   - Location: Remote
 
@@ -276,16 +260,6 @@ Total new jobs: 95
 
 ## jobicy
 
-- [Senior IT Engineer](https://jobicy.com/jobs/161619-senior-it-engineer)
-  - Company: Caylent
-  - Location: Mexico
-  - Level/Team: DevOps & Infrastructure
-
-- [Senior Platform Engineer](https://jobicy.com/jobs/161624-senior-platform-engineer-8)
-  - Company: Caylent
-  - Location: Mexico
-  - Level/Team: Software Engineering
-
 - [Platform Engineer (FedD145)](https://jobicy.com/jobs/162132-platform-engineer-fedd145)
   - Company: Defense Unicorns
   - Location: USA
@@ -301,12 +275,17 @@ Total new jobs: 95
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
-- [Senior Platform Engineer](https://jobicy.com/jobs/155361-senior-platform-engineer-5)
-  - Company: Fleetio
+- [Platform Engineer-Kubernetes Operators](https://jobicy.com/jobs/163175-platform-engineer-kubernetes-operators)
+  - Company: EDB
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
-- [Senior Platform Engineer (Infrastructure)](https://jobicy.com/jobs/161526-senior-platform-engineer-infrastructure)
+- [Senior DevOps Engineer - Storage Platforms](https://jobicy.com/jobs/153466-senior-devops-engineer-storage-platforms)
+  - Company: Five9
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Senior Platform Engineer](https://jobicy.com/jobs/155361-senior-platform-engineer-5)
   - Company: Fleetio
   - Location: USA
   - Level/Team: DevOps & Infrastructure
@@ -321,29 +300,19 @@ Total new jobs: 95
   - Location: UK
   - Level/Team: DevOps & Infrastructure
 
+- [Senior SRE, Managed Gateways](https://jobicy.com/jobs/155629-senior-sre-managed-gateways)
+  - Company: Kong Inc.
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
 - [Senior Site Reliability Engineer](https://jobicy.com/jobs/162437-senior-site-reliability-engineer-7)
   - Company: Monks
   - Location: Costa Rica
   - Level/Team: DevOps & Infrastructure
 
-- [Senior DevOps Engineer](https://jobicy.com/jobs/161653-senior-devops-engineer-13)
-  - Company: Nearform
-  - Location: UK
-  - Level/Team: DevOps & Infrastructure
-
 - [IT Department Lead - Remote, Worldwide](https://jobicy.com/jobs/162315-it-department-lead-remote-worldwide)
   - Company: Nethermind
   - Location: Anywhere
-  - Level/Team: DevOps & Infrastructure
-
-- [Lead DevOps Engineer](https://jobicy.com/jobs/161625-lead-devops-engineer)
-  - Company: Particle41
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
-- [Sr. Software Engineer, Cloud Platform](https://jobicy.com/jobs/161585-sr-software-engineer-cloud-platform-2)
-  - Company: Samsara
-  - Location: UK
   - Level/Team: DevOps & Infrastructure
 
 - [Platform Engineer - Compute](https://jobicy.com/jobs/162979-platform-engineer-compute)
@@ -356,19 +325,14 @@ Total new jobs: 95
   - Location: Anywhere
   - Level/Team: DevOps & Infrastructure
 
-- [Site Reliability Engineer](https://jobicy.com/jobs/155391-site-reliability-engineer-4)
+- [Postgres Deployment Engineer (Nix)](https://jobicy.com/jobs/153446-postgres-deployment-engineer-nix)
   - Company: Supabase
   - Location: Anywhere
   - Level/Team: DevOps & Infrastructure
 
-- [Software Engineer, AI/ML Infrastructure](https://jobicy.com/jobs/152419-software-engineer-ai-ml-infrastructure)
-  - Company: Thumbtack
-  - Location: Canada
-  - Level/Team: DevOps & Infrastructure
-
-- [Senior DevOps Engineer / Cloud Infrastructure Engineer - Cybersecurity](https://jobicy.com/jobs/161545-senior-devops-engineer-cloud-infrastructure-engineer-cybersecurity)
-  - Company: Truelogic
-  - Location: USA
+- [Site Reliability Engineer](https://jobicy.com/jobs/155391-site-reliability-engineer-4)
+  - Company: Supabase
+  - Location: Anywhere
   - Level/Team: DevOps & Infrastructure
 
 ## lever
@@ -408,8 +372,4 @@ Total new jobs: 95
 
 - [Cloud Engineer](https://weworkremotely.com/remote-jobs/knack-cloud-engineer-1)
   - Company: Knack
-  - Location: Remote
-
-- [DevOps Engineer II, Cloud Platform](https://weworkremotely.com/remote-jobs/upstart-devops-engineer-ii-cloud-platform)
-  - Company: Upstart
   - Location: Remote
