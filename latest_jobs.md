@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-11-18 20:00 UTC
+Generated: 2026-11-19 19:58 UTC
 
-Total new jobs: 86
+Total new jobs: 92
 
 ## greenhouse
 
@@ -80,6 +80,14 @@ Total new jobs: 86
 
 - [Systems Reliability Engineer - Core](https://boards.greenhouse.io/cloudflare/jobs/8324908?gh_jid=8324908)
   - Company: cloudflare
+  - Location: Remote
+
+- [Senior Atlassian Cloud Engineer](https://jobs.dropbox.com/listing/8328519?gh_jid=8328519)
+  - Company: dropbox
+  - Location: Remote
+
+- [Senior Atlassian Cloud Engineer](https://jobs.dropbox.com/listing/8328520?gh_jid=8328520)
+  - Company: dropbox
   - Location: Remote
 
 - [Senior Client Platform Engineer, Endpoint Platform & Automation](https://jobs.dropbox.com/listing/8356941?gh_jid=8356941)
@@ -270,6 +278,11 @@ Total new jobs: 86
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
+- [QA/DevOps Engineer](https://jobicy.com/jobs/155923-qa-devops-engineer)
+  - Company: Discord
+  - Location: USA
+  - Level/Team: QA & Testing
+
 - [Senior DevOps Engineer](https://jobicy.com/jobs/155574-senior-devops-engineer-10)
   - Company: dscout
   - Location: USA
@@ -315,6 +328,11 @@ Total new jobs: 86
   - Location: Anywhere
   - Level/Team: DevOps & Infrastructure
 
+- [Atlassian Administrator 1726](https://jobicy.com/jobs/146254-atlassian-administrator-1726)
+  - Company: Softgic
+  - Location: Anywhere
+  - Level/Team: DevOps & Infrastructure
+
 - [Platform Engineer - Compute](https://jobicy.com/jobs/162979-platform-engineer-compute)
   - Company: Supabase
   - Location: Anywhere
@@ -356,6 +374,10 @@ Total new jobs: 86
   - Company: Smile Digital Health
   - Location: Toronto, Ontario
 
+- [SEO Full Stack Engineer](https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805)
+  - Company: Treatwell
+  - Location: Worldwide
+
 ## weworkremotely
 
 - [QA/DevOps Engineer](https://weworkremotely.com/remote-jobs/discord-qa-devops-engineer)
@@ -372,4 +394,8 @@ Total new jobs: 86
 
 - [Cloud Engineer](https://weworkremotely.com/remote-jobs/knack-cloud-engineer-1)
   - Company: Knack
+  - Location: Remote
+
+- [Site Reliability Engineer, Sr. Site Reliability Engineer](https://weworkremotely.com/remote-jobs/prove-site-reliability-engineer-sr-site-reliability-engineer)
+  - Company: Prove
   - Location: Remote

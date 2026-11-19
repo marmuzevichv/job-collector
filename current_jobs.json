@@ -290,6 +290,47 @@
     "collected_at_utc": "2026-11-18 19:59:10"
   },
   {
+    "source_type": "jobicy",
+    "company": "Discord",
+    "title": "QA/DevOps Engineer",
+    "location": "USA",
+    "team": "QA & Testing",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/155923-qa-devops-engineer",
+    "external_id": "jobicy::155923",
+    "description_snippet": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and mor",
+    "posted_at": "2026-11-19T03:20:10+00:00",
+    "collected_at_utc": "2026-11-19 19:57:07"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "dropbox",
+    "title": "Senior Atlassian Cloud Engineer",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://jobs.dropbox.com/listing/8328519?gh_jid=8328519",
+    "external_id": "greenhouse::8328519",
+    "description_snippet": "",
+    "posted_at": "2026-11-19T07:15:27-05:00",
+    "collected_at_utc": "2026-11-19 19:57:07"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "dropbox",
+    "title": "Senior Atlassian Cloud Engineer",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://jobs.dropbox.com/listing/8328520?gh_jid=8328520",
+    "external_id": "greenhouse::8328520",
+    "description_snippet": "",
+    "posted_at": "2026-11-19T07:15:36-05:00",
+    "collected_at_utc": "2026-11-19 19:57:07"
+  },
+  {
     "source_type": "greenhouse",
     "company": "dropbox",
     "title": "Senior Client Platform Engineer, Endpoint Platform & Automation",
@@ -367,7 +408,7 @@
     "external_id": "jobicy::155574",
     "description_snippet": "At Dscout, we’re building the most flexible and powerful UX research platform on the market—trusted by the world’s top brands in finance (JP Morgan Chase, Intuit, Charles Schwab, PayPal), healthcare (Aya, Headspace), consumer goods (Keen, Verizon, Target, Northface), and tech (Google, Amazon, Facebo",
     "posted_at": "2026-11-17T03:00:27+00:00",
-    "collected_at_utc": "2026-11-17 20:28:38"
+    "collected_at_utc": "2026-11-19 19:57:07"
   },
   {
     "source_type": "jobicy",
@@ -1045,7 +1086,7 @@
     "external_id": "greenhouse::8237695",
     "description_snippet": "",
     "posted_at": "2026-11-17T15:18:46-05:00",
-    "collected_at_utc": "2026-11-17 20:28:38"
+    "collected_at_utc": "2026-11-19 19:57:07"
   },
   {
     "source_type": "greenhouse",
@@ -1059,6 +1100,19 @@
     "description_snippet": "",
     "posted_at": "2026-11-16T18:26:55-05:00",
     "collected_at_utc": "2026-11-18 19:59:10"
+  },
+  {
+    "source_type": "weworkremotely",
+    "company": "Prove",
+    "title": "Site Reliability Engineer, Sr. Site Reliability Engineer",
+    "location": "Remote",
+    "team": "",
+    "categories": [],
+    "url": "https://weworkremotely.com/remote-jobs/prove-site-reliability-engineer-sr-site-reliability-engineer",
+    "external_id": "wwr::https://weworkremotely.com/remote-jobs/prove-site-reliability-engineer-sr-site-reliability-engineer",
+    "description_snippet": "Headquarters: United States (Remote) About Prove&nbsp; As the world moves to a mobile-first economy, businesses need to modernize how they acquire, engage with and enable consumers. Prove’s phone-centric identity tokenization and passive cryptographic authentication solutions reduce friction, enhanc",
+    "posted_at": "Thu, 19 Nov 2026 18:31:23 +0000",
+    "collected_at_utc": "2026-11-19 19:57:07"
   },
   {
     "source_type": "greenhouse",
@@ -1134,6 +1188,21 @@
     "collected_at_utc": "2026-11-18 19:59:10"
   },
   {
+    "source_type": "jobicy",
+    "company": "Softgic",
+    "title": "Atlassian Administrator 1726",
+    "location": "Anywhere",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/146254-atlassian-administrator-1726",
+    "external_id": "jobicy::146254",
+    "description_snippet": "This is a remote position. We are seeking an experienced Atlassian Administrator to manage, optimize, and continuously improve our Atlassian Cloud ecosystem. This role will be responsible for the administration, configuration, customization, and support of Jira Software, Confluence, and Jira Service",
+    "posted_at": "2026-11-19T02:40:17+00:00",
+    "collected_at_utc": "2026-11-19 19:57:07"
+  },
+  {
     "source_type": "greenhouse",
     "company": "starburst",
     "title": "AI Platform Engineer",
@@ -1159,7 +1228,7 @@
     "external_id": "jobicy::162979",
     "description_snippet": "About the Role We are seeking a platform engineer to join our Compute team. This team owns the critical systems that power project provisioning, scaling, and the compute that our users rely on every day. You’ll work on the core platform that ensures Supabase can seamlessly scaleacross multiple regio",
     "posted_at": "2026-11-17T13:39:12+00:00",
-    "collected_at_utc": "2026-11-17 20:28:38"
+    "collected_at_utc": "2026-11-19 19:57:07"
   },
   {
     "source_type": "jobicy",
@@ -1205,5 +1274,43 @@
     "description_snippet": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role Supabase",
     "posted_at": "2026-11-15T03:45:14+00:00",
     "collected_at_utc": "2026-11-18 19:59:10"
+  },
+  {
+    "source_type": "remoteok",
+    "company": "Treatwell",
+    "title": "SEO Full Stack Engineer",
+    "location": "Worldwide",
+    "team": "",
+    "categories": [
+      "full stack",
+      "react",
+      "rabbitmq",
+      "front end",
+      "technical",
+      "customer support",
+      "dev",
+      "testing",
+      "marketing",
+      "design",
+      "web dev",
+      "exec",
+      "devops",
+      "finance",
+      "java",
+      "postgres",
+      "typescript",
+      "seo",
+      "senior",
+      "stats",
+      "engineer",
+      "recruiter",
+      "backend",
+      "digital nomad"
+    ],
+    "url": "https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805",
+    "external_id": "remoteok::1137805",
+    "description_snippet": "We're looking for a full-stack engineer to join our Product Engineering team, reporting to one of the Engineering Managers of the Marketplace area, with a dotted line to the Marketing SEO Manager, focused on supporting the Growth and Marketing area. This role will have a 60% focus on Front End, and ",
+    "posted_at": "2026-11-18T16:00:31+00:00",
+    "collected_at_utc": "2026-11-19 19:57:07"
   }
 ]
