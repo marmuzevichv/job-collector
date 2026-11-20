@@ -1,7 +1,7 @@
 # Jobs via Adzuna API
 
-Generated: 2026-11-19 20:14 UTC
-Total jobs (24h window): 472
+Generated: 2026-11-20 19:47 UTC
+Total jobs (24h window): 637
 
 - [Sr Devops Engineer](https://www.adzuna.com/land/ad/5972005779?se=xrOgwVXk8RGAvJnbPgF_oA&utm_medium=api&utm_source=632a28fd&v=697DA084F31128EEA3E7132B276A9C584FAF2878)
   - Company: Saim Technologies | US
@@ -1890,3 +1890,663 @@ Total jobs (24h window): 472
 - [Engineer II - Site Reliability, Kubernetes (Remote, EST)](https://www.adzuna.com/land/ad/5941107267?se=xOvn0FXk8RGQV8pfq4KZCg&utm_medium=api&utm_source=632a28fd&v=A0368F020E55330E82B7F02D9C8C87BDD98DE688)
   - Company: CrowdStrike | Wyoming, Kent County
   - USA - Remote Full time R30302 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Devops Engineer](https://www.adzuna.com/land/ad/5973199665?se=_KzlMRvl8RGB-bDIy5dDgQ&utm_medium=api&utm_source=632a28fd&v=BCECDC0AF5BB957DC5773D72458893844E60C37F)
+  - Company: ITBMS Inc. | US
+  - Job Title : Sr Devops Engineer Work Location: USA (Remote) 5 years of experience working in an Agile development environ...
+
+- [DevOps Engineer, NSA TS/SCI with a Full Scope Polygraph Required, Onsite in Columbia, MD - M](https://www.adzuna.com/land/ad/5972755330?se=_KzlMRvl8RGB-bDIy5dDgQ&utm_medium=api&utm_source=632a28fd&v=99487C7EE026A11C74524F5DCA62B519F1390A38)
+  - Company: Next Step Systems | Simpsonville, Howard County
+  - DevOps Engineer, NSA TS/SCI with a Full Scope Polygraph Required, Onsite in Columbia, MD We are seeking a motivated, car...
+
+- [Remote Senior Azure DevOps Engineer](https://www.adzuna.com/details/5972470472?utm_medium=api&utm_source=632a28fd)
+  - Company: IKS Health Career | US
+  - About Us On July 9, 2026 IKS Health at ikshealth.com , a global leader in care enablement solutions across the patient j...
+
+- [Cloud and DevOps Engineer](https://www.adzuna.com/details/5972364663?utm_medium=api&utm_source=632a28fd)
+  - Company: VDart Inc | US
+  - Job Title: Cloud and DevOps Engineer Location: Remote Duration: 6 Months About the Role: We are looking for an experienc...
+
+- [Junior Java DevOps Engineer / Python Developer (Remote)](https://www.adzuna.com/details/5972295847?utm_medium=api&utm_source=632a28fd)
+  - Company: SynergisticIT | The Gap, Chicago
+  - Degree on the Wall, Interview Inbox on Empty You did the coursework. Nobody taught you how hiring actually works. You wa...
+
+- [DevOps Engineer (Remote)](https://www.adzuna.com/details/5956837665?utm_medium=api&utm_source=632a28fd)
+  - Company: Smartsuite | Overland Park, Johnson County
+  - About the role As a Senior DevOps Engineer, you will play a critical role in the reliability, security, and scalability ...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/land/ad/5972937526?se=bOe2Mxvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=3EC8E38834680D2A8F2608C770EF4813524CB039)
+  - Company: Cognizant | Ny State Campus, Albany County
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/land/ad/5972931844?se=bOe2Mxvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=C6E25A9E5D96126BD395BB4E6FC8D080EBABFC7D)
+  - Company: Cognizant | Grandview Heights, Franklin County
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/land/ad/5972920872?se=bOe2Mxvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=FA93B7E1B559B3548A43DDDC9A36DA821EA40201)
+  - Company: Cognizant | Five Points, Wake County
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/land/ad/5972917152?se=bOe2Mxvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=547929CFAC8AEA1F1C2284D7491895FDAF5646F6)
+  - Company: Cognizant | Tumwater, Thurston County
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/land/ad/5972915733?se=bOe2Mxvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=D816D12AAA9C034CE0A3CCE6546E11FD31F96295)
+  - Company: Cognizant | Trenton, Mercer County
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/land/ad/5972913604?se=bOe2Mxvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=5B159171CB5394DA538ECAF840404DEBA23F7BA5)
+  - Company: Cognizant | Atlanta, Fulton County
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/land/ad/5972913555?se=bOe2Mxvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=CBE5CC14E5FFA3EA4784DA5E6FD9F93A1054BED7)
+  - Company: Cognizant | Nashville, Davidson County
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/land/ad/5972913387?se=bOe2Mxvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=F8A7B439857F0C385EFDCBCD48A731E7189CB379)
+  - Company: Cognizant | Boston, Suffolk County
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/details/5972912815?utm_medium=api&utm_source=632a28fd)
+  - Company: Cognizant | Springfield, Sangamon County
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/details/5972908739?utm_medium=api&utm_source=632a28fd)
+  - Company: Cognizant | Tallahassee, Leon County
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/land/ad/5972895234?se=bOe2Mxvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=2ECB05EFEF2E6E4591A6DAC85FE37B104CF07CDF)
+  - Company: Cognizant | Cedar, Cole County
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/land/ad/5972894731?se=bOe2Mxvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=5B8EF46CE54196B17E1E005B656F89BDB753BAB2)
+  - Company: Cognizant | Carson Mall, Carson City
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/land/ad/5972893981?se=bOe2Mxvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=429484B4D47751FA90A7DDDFC9D97B48C246B7BC)
+  - Company: Cognizant | Topeka, Shawnee County
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/land/ad/5972893613?se=bOe2Mxvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=DB258C4A653A6BB02C89B2BAD801529EADED2BB1)
+  - Company: Cognizant | La Cienga, Santa Fe County
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/land/ad/5972893485?se=bOe2Mxvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=DFC72438298415C486F8CC1BE8D31EB36DF8D07B)
+  - Company: Cognizant | Saint Paul, Ramsey County
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/land/ad/5972893169?se=bOe2Mxvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=9A75A0B38B9177505CD5FEE9F7ED8E697872CD53)
+  - Company: Cognizant | Lansing, Ingham County
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/land/ad/5972892646?se=bOe2Mxvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=815E07A796BEE253F15B73A043CE9F6433C28F80)
+  - Company: Cognizant | Annapolis, Anne Arundel County
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/land/ad/5972892111?se=bOe2Mxvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=DE9F8E5BD6A16F37E7F1D2AE55788FBD99F6CCBD)
+  - Company: Cognizant | State House, Lancaster County
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/land/ad/5972892125?se=bOe2Mxvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=46E4803DA2A93F1720ACC3D653FB1A854A9D1B19)
+  - Company: Cognizant | Oklahoma City, Oklahoma County
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/land/ad/5972892044?se=bOe2Mxvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=D5484FD7D81A2427FA813884E3E1383A1A2E4648)
+  - Company: Cognizant | Frankfort, Franklin County
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/land/ad/5972891683?se=bOe2Mxvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=477DE3E0C2585A55A83C57836DB4BD20ABE25EDE)
+  - Company: Cognizant | Jackson, Hinds County
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/land/ad/5972891651?se=bOe2Mxvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=95088FDE2AA175329118EEE6A012A850ACD017B5)
+  - Company: Cognizant | Edgewood, Richland County
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/land/ad/5972891534?se=bOe2Mxvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=D46D823F4047388EBC23248EA058811A959AF1A0)
+  - Company: Cognizant | Phoenix, Maricopa County
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/land/ad/5972891233?se=bOe2Mxvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=0A9F2178156710C969C33D5E17180CBC0C3CC25D)
+  - Company: Cognizant | Bonnie, Utah County
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/land/ad/5972890726?se=bOe2Mxvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=7490EFC38097D1DB21A314EF3AE209005C972793)
+  - Company: Cognizant | Salem, Marion County
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/land/ad/5972888541?se=bOe2Mxvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=4D4490625F42B5AB0431901C73089AC48C3DCFE0)
+  - Company: Cognizant | Washington, D.C., US
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/land/ad/5972888145?se=bOe2Mxvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=D6C86DCF67CC301F471F61DC9FF22A930CA3FB70)
+  - Company: Cognizant | Des Moines, Polk County
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/land/ad/5972887269?se=bOe2Mxvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=46D3CBBBA326601D05473A21B5E10DE37AE8601D)
+  - Company: Cognizant | Chisolm, Montgomery County
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/land/ad/5972886587?se=bOe2Mxvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=177FA136EA31B9CC06EC4B21106A169938C2A7CC)
+  - Company: Cognizant | Boise, Ada County
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/land/ad/5972886534?se=bOe2Mxvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=11FCB0770167CAC9C57F64AB4C57A905F920E69C)
+  - Company: Cognizant | Talcott Village, Hartford County
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/land/ad/5972886507?se=bOe2Mxvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=FB34C40B25226FDD03560B4A3F1F9DCD1502045D)
+  - Company: Cognizant | Cammack Village, Pulaski County
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/details/5972881366?utm_medium=api&utm_source=632a28fd)
+  - Company: Cognizant | Penbrook, Dauphin County
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/land/ad/5972876365?se=bOe2Mxvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=98C6D22B984901A73C1A2C47E7E558A0CA0E92F3)
+  - Company: Cognizant | Glendale, Denver
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/land/ad/5972859998?se=bOe2Mxvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=B8B56ED3BD0D16D922AE5003A3B3A6DDC5E5C6BE)
+  - Company: Cognizant | Sacramento, Sacramento County
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/details/5972848973?utm_medium=api&utm_source=632a28fd)
+  - Company: Cognizant | Capitol, Richmond
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Site Reliability Engineer](https://www.adzuna.com/details/5972575008?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Sunnyvale, Santa Clara County
+  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/land/ad/5972571599?se=bOe2Mxvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=D657746A18742C901D09C93498B885BB53019E34)
+  - Company: Cognizant | Montpelier, Washington County
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/land/ad/5972459957?se=bOe2Mxvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=CEBB4782F115EE57093D9600D70AD874BA0D45A8)
+  - Company: Cognizant | Pierre, Hughes County
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/land/ad/5972459737?se=bOe2Mxvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=71EA9DEA0E458310A4E9BA57BAA9DFF6C1133738)
+  - Company: Cognizant | Wyoming, Kent County
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/land/ad/5972459587?se=bOe2Mxvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=5DB3CCE99B57FEF3EC9DE84894DA2AF0474DB397)
+  - Company: Cognizant | Bismarck, Burleigh County
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/details/5972459400?utm_medium=api&utm_source=632a28fd)
+  - Company: Cognizant | Douglas, Juneau
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/land/ad/5972458903?se=bOe2Mxvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=825744C4A365169A2A71D3AB6877EE4619612B29)
+  - Company: Cognizant | Archer, Laramie County
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/land/ad/5972380990?se=bOe2Mxvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=A46E35BDB95FE33C2DB5C6EC2F5B5AD78F18B932)
+  - Company: Cognizant | Augusta, Kennebec County
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/land/ad/5972381039?se=bOe2Mxvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=06B1FA13C03FB471988A13B0C818DAD8A1CEDDAF)
+  - Company: Cognizant | Wake Island, Honolulu
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Azure Site Reliability Engineer](https://www.adzuna.com/land/ad/5972380877?se=bOe2Mxvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=1960D84B6E7F2CA4ED15DC35D25604A7B9005116)
+  - Company: Cognizant | Helena, Lewis and Clark County
+  - Job Title: Site Reliability Engineer Job Location: Remote, USA. Job Summary We are seeking an experienced Azure Site Rel...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955276868?se=GrKNNBvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=8E858A6C766D920B0EECD1A4B542921694A33304)
+  - Company: SitusAMC | Montpelier, Washington County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955227520?se=GrKNNBvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=401F9EB954511EADB83E69336A9037419CF51687)
+  - Company: SitusAMC | Pierre, Hughes County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955227006?se=GrKNNBvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=3A49269711C10F5AD35D69FF45813C9570D4A2F0)
+  - Company: SitusAMC | Providence, Providence County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955219618?se=GrKNNBvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=B59C78246BCA023346CA11B140E9A4BA59F93B08)
+  - Company: SitusAMC | Bismarck, Burleigh County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955219376?se=GrKNNBvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=69E7D47A4E70689D5BB1E5C209CA0FE2C1A08499)
+  - Company: SitusAMC | Wyoming, Kent County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955048213?se=GrKNNBvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=7634C60DC824D4A509767E718BF27510BB20CAFE)
+  - Company: SitusAMC | Augusta, Kennebec County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Lead Site Reliability Engineer - Remote](https://www.adzuna.com/land/ad/5955046134?se=GrKNNBvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=632a28fd&v=93EEA24C93F595CEF46FB0FF62EB3FBF9B585E1E)
+  - Company: SitusAMC | Helena, Lewis and Clark County
+  - Remote Remote Full time JR03313 SitusAMC is where the best and most passionate people come to transform our client's bus...
+
+- [Microsoft Copilot Studio Power Platform Engineer](https://www.adzuna.com/land/ad/5973202028?se=9IWiNRvl8RGuPayoyp3FzQ&utm_medium=api&utm_source=632a28fd&v=90C4FD164CC206DF243DC5376E9C2BD4C2D9F75C)
+  - Company: ThinkNorth LLC | US
+  - Hi, Role: Microsoft Copilot Studio Power Platform Engineer Location: Dallas, TX (Remote) Duration: 12 Months Experience:...
+
+- [Data Platform Engineer](https://www.adzuna.com/land/ad/5973142756?se=9IWiNRvl8RGuPayoyp3FzQ&utm_medium=api&utm_source=632a28fd&v=C34865FBB45F8607D6F08C4640067B5B25B4492A)
+  - Company: iPeople Infosystems LLC | US
+  - Job Title: Data Platform Engineer Location Remote Job type: Fulltime Job Description 8 years building and operating larg...
+
+- [100% Remote Opportunity for a Senior Apigee Platform Engineer - Full Time Position](https://www.adzuna.com/land/ad/5973047216?se=9IWiNRvl8RGuPayoyp3FzQ&utm_medium=api&utm_source=632a28fd&v=58FE966A78A894EF0180F8A0A6B240C3FD281067)
+  - Company: Excelon Solutions LLC | US
+  - Senior Apigee Platform Engineer Remote Employment Type: Full Time Job Description: Assist the API Platform Team with set...
+
+- [Forward Deployed Engineer - Google Cloud Platform (GCP) - Remote](https://www.adzuna.com/land/ad/5972944439?se=9IWiNRvl8RGuPayoyp3FzQ&utm_medium=api&utm_source=632a28fd&v=5EED48198BCF00AC6ADB600771CB6B4535FA12B0)
+  - Company: UnitedHealth Group | Eden Prairie, Hennepin County
+  - Requisition number: 2402266 Job category: OptumInsight Consulting Optum Insight is improving the flow of health data and...
+
+- [Engineer Sr I - Product Security (AI Platform Engineer) -remote](https://www.adzuna.com/land/ad/5972597477?se=9IWiNRvl8RGuPayoyp3FzQ&utm_medium=api&utm_source=632a28fd&v=D797CB1B8C52DCF64AEBC07DAE0CE09A3CD5941A)
+  - Company: Arthrex | US
+  - Arthrex, Inc. is a global medical device company and a leader in new product development and medical education. We are a...
+
+- [Agentic Platform Senior Engineer](https://www.adzuna.com/details/5972366074?utm_medium=api&utm_source=632a28fd)
+  - Company: SoftPathTechnologies | Ludlow, Kenton County
+  - Role: Agentic Platform Senior Engineer Location: Remote (Local to Cincinnati, OH good to have) Duration: 6 Months Only W...
+
+- [Platform Engineer](https://www.adzuna.com/details/5972364590?utm_medium=api&utm_source=632a28fd)
+  - Company: Apptad Inc | Georgia, US
+  - Role: Platform Engineer Location: Remote (Candidate has to be in EST zone) Primary Skill:, Strong AWS experience, CI/CD ...
+
+- [Remote Full Time Role_Google Cloud Platform Data Engineer (Platform, ML & Analytics)_Remote, USA](https://www.adzuna.com/land/ad/5972231453?se=9IWiNRvl8RGuPayoyp3FzQ&utm_medium=api&utm_source=632a28fd&v=3018BB3E4B325F961D842C8254ED60D7968F29C5)
+  - Company: Amaze Systems Inc | US
+  - Role: Google Cloud Platform Data Engineer (Platform, ML & Analytics) Location: Remote, USA Duration: Long term contract ...
+
+- [Platform Engineer](https://www.adzuna.com/land/ad/5972181677?se=9IWiNRvl8RGuPayoyp3FzQ&utm_medium=api&utm_source=632a28fd&v=9B5201C8C2E01E61B99479DA69EED5A32DFF8DDB)
+  - Company: GeorgiaTEK Systems Inc. | West Virginia, US
+  - Job Description Kubernetes Administrator / Platform Engineer \n Location – Remote – must be willing to work PST \n Durat...
+
+- [Senior GitHub Platform Engineer](https://www.adzuna.com/land/ad/5972181208?se=9IWiNRvl8RGuPayoyp3FzQ&utm_medium=api&utm_source=632a28fd&v=6D4B5BD4165A2CA1FC16CAD0ABDDBBB6A2C6D476)
+  - Company: ADDSOURCE | Highland Park, Dallas
+  - Role: Senior GitHub Platform Engineer Location: Remote (US) Duration: Long Term Job Description: We are seeking highly s...
+
+- [MongoDB DBA](https://www.adzuna.com/land/ad/5972093415?se=9IWiNRvl8RGuPayoyp3FzQ&utm_medium=api&utm_source=632a28fd&v=8887E0425298E638683F3D06E43C78AE94DC010C)
+  - Company: Brooksource | US
+  - MongoDB DBA Remote This is a Remote role. Compensation: $65 - $70 per hour ABOUT THE ROLE Brooksource, in partnership wi...
+
+- [Senior Backend Engineer](https://www.adzuna.com/details/5971442975?utm_medium=api&utm_source=632a28fd)
+  - Company: AeroVect | US
+  - Who We Are AeroVect is transforming ground handling with autonomy, redefining how airlines and ground service providers ...
+
+- [Cloud Operations Engineer](https://www.adzuna.com/details/5973158612?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Irving, Dallas
+  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
+
+- [Azure Cloud Remediation Engineer](https://www.adzuna.com/land/ad/5973119502?se=8OPNNxvl8RGuPayoyp3FzQ&utm_medium=api&utm_source=632a28fd&v=DBD22615F8D5FFB11B4C24BC1F43A66FBD7BDE15)
+  - Company: Arnex Solutions LLC | US
+  - Azure Cloud Remediation Engineer - Remote Job Summary We are looking for an experienced Azure Cloud Remediation Engineer...
+
+- [AI Optimization & Cloud Engineer](https://www.adzuna.com/land/ad/5973117741?se=8OPNNxvl8RGuPayoyp3FzQ&utm_medium=api&utm_source=632a28fd&v=F523BEFE4408A04AF316B2CE9AA3EDFCEF88BD2C)
+  - Company: SDVS Technologies LLC | US
+  - AI Optimization & Cloud Engineer Location: Remote Required Experience: 10 years Overview: Build core mathematical optimi...
+
+- [Senior Cloud Data Engineer - Remote](https://www.adzuna.com/land/ad/5972944343?se=8OPNNxvl8RGuPayoyp3FzQ&utm_medium=api&utm_source=632a28fd&v=5140FA83F5DA4A44770BA28BBFFCFAE9AC8A538D)
+  - Company: UnitedHealth Group | Eden Prairie, Hennepin County
+  - Requisition number: 2383492 Job category: OptumInsight Consulting Optum Insight is improving the flow of health data and...
+
+- [Lead Cloud Engineer - Security Logging (Remote)](https://www.adzuna.com/details/5972849669?utm_medium=api&utm_source=632a28fd)
+  - Company: Ferguson Enterprises, LLC. | Newport News, Newport News City
+  - Remote Full time R-141828 Job Posting: Since 1953, Ferguson has been a source of quality supplies for a variety of indus...
+
+- [Cloud Computing Engineer](https://www.adzuna.com/details/5972479212?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Tampa, Hillsborough County
+  - Syms Strategic Group (SSG) is seeking a talented Cloud Computing Engineer (MCCF-Healthcare Systems) Location: Remote Dep...
+
+- [Cloud Computing Engineer](https://www.adzuna.com/details/5972479208?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Columbia, Howard County
+  - Syms Strategic Group (SSG) is seeking a talented Cloud Computing Engineer (MCCF-Healthcare Systems) Location: Remote Dep...
+
+- [Cloud Computing Engineer](https://www.adzuna.com/details/5972479183?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Orlando, Orange County
+  - Syms Strategic Group (SSG) is seeking a talented Cloud Computing Engineer (MCCF-Healthcare Systems) Location: Remote Dep...
+
+- [Cloud Computing Engineer](https://www.adzuna.com/details/5972479177?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Morgantown, Monongalia County
+  - Syms Strategic Group (SSG) is seeking a talented Cloud Computing Engineer (MCCF-Healthcare Systems) Location: Remote Dep...
+
+- [Cloud Computing Engineer](https://www.adzuna.com/details/5972479167?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Grand Rapids, Kent County
+  - Syms Strategic Group (SSG) is seeking a talented Cloud Computing Engineer (MCCF-Healthcare Systems) Location: Remote Dep...
+
+- [Cloud Computing Engineer](https://www.adzuna.com/details/5972479175?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Charleston, Kanawha County
+  - Syms Strategic Group (SSG) is seeking a talented Cloud Computing Engineer (MCCF-Healthcare Systems) Location: Remote Dep...
+
+- [Cloud Computing Engineer](https://www.adzuna.com/details/5972479181?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Shepherdstown, Jefferson County
+  - Syms Strategic Group (SSG) is seeking a talented Cloud Computing Engineer (MCCF-Healthcare Systems) Location: Remote Dep...
+
+- [Cloud Computing Engineer](https://www.adzuna.com/details/5972479173?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Richmond, Richmond County
+  - Syms Strategic Group (SSG) is seeking a talented Cloud Computing Engineer (MCCF-Healthcare Systems) Location: Remote Dep...
+
+- [Cloud Computing Engineer](https://www.adzuna.com/details/5972479166?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Arlington, Arlington County
+  - Syms Strategic Group (SSG) is seeking a talented Cloud Computing Engineer (MCCF-Healthcare Systems) Location: Remote Dep...
+
+- [Cloud Computing Engineer](https://www.adzuna.com/details/5972479174?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Charlottesville, Virginia
+  - Syms Strategic Group (SSG) is seeking a talented Cloud Computing Engineer (MCCF-Healthcare Systems) Location: Remote Dep...
+
+- [Cloud Computing Engineer](https://www.adzuna.com/details/5972479169?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Virginia Beach, Virginia Beach City
+  - Syms Strategic Group (SSG) is seeking a talented Cloud Computing Engineer (MCCF-Healthcare Systems) Location: Remote Dep...
+
+- [Cloud Computing Engineer](https://www.adzuna.com/details/5972479196?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Detroit, Wayne County
+  - Syms Strategic Group (SSG) is seeking a talented Cloud Computing Engineer (MCCF-Healthcare Systems) Location: Remote Dep...
+
+- [Cloud Computing Engineer](https://www.adzuna.com/details/5972479172?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Ashburn, Loudoun County
+  - Syms Strategic Group (SSG) is seeking a talented Cloud Computing Engineer (MCCF-Healthcare Systems) Location: Remote Dep...
+
+- [Cloud Computing Engineer](https://www.adzuna.com/details/5972479146?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Clearwater, Pinellas County
+  - Syms Strategic Group (SSG) is seeking a talented Cloud Computing Engineer (MCCF-Healthcare Systems) Location: Remote Dep...
+
+- [Cloud Computing Engineer](https://www.adzuna.com/details/5972479155?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Bethesda, Montgomery County
+  - Syms Strategic Group (SSG) is seeking a talented Cloud Computing Engineer (MCCF-Healthcare Systems) Location: Remote Dep...
+
+- [Cloud Computing Engineer](https://www.adzuna.com/details/5972479161?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Blacksburg, Montgomery County
+  - Syms Strategic Group (SSG) is seeking a talented Cloud Computing Engineer (MCCF-Healthcare Systems) Location: Remote Dep...
+
+- [Cloud Computing Engineer](https://www.adzuna.com/details/5972479151?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Overland Park, Johnson County
+  - Syms Strategic Group (SSG) is seeking a talented Cloud Computing Engineer (MCCF-Healthcare Systems) Location: Remote Dep...
+
+- [Cloud Computing Engineer](https://www.adzuna.com/details/5972479158?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Lansing, Ingham County
+  - Syms Strategic Group (SSG) is seeking a talented Cloud Computing Engineer (MCCF-Healthcare Systems) Location: Remote Dep...
+
+- [Cloud Computing Engineer](https://www.adzuna.com/details/5972479152?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Wichita, Sedgwick County
+  - Syms Strategic Group (SSG) is seeking a talented Cloud Computing Engineer (MCCF-Healthcare Systems) Location: Remote Dep...
+
+- [Cloud Computing Engineer](https://www.adzuna.com/details/5972479159?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Frederick, Frederick County
+  - Syms Strategic Group (SSG) is seeking a talented Cloud Computing Engineer (MCCF-Healthcare Systems) Location: Remote Dep...
+
+- [Cloud Computing Engineer](https://www.adzuna.com/details/5972479147?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Mobile, Mobile County
+  - Syms Strategic Group (SSG) is seeking a talented Cloud Computing Engineer (MCCF-Healthcare Systems) Location: Remote Dep...
+
+- [Cloud Computing Engineer](https://www.adzuna.com/details/5972479165?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Ann Arbor, Washtenaw County
+  - Syms Strategic Group (SSG) is seeking a talented Cloud Computing Engineer (MCCF-Healthcare Systems) Location: Remote Dep...
+
+- [Public Cloud Engineer (AWS)](https://www.adzuna.com/details/5972364600?utm_medium=api&utm_source=632a28fd)
+  - Company: Apptad Inc | New Jersey, US
+  - Job Title: Public Cloud Engineer (AWS) Location: Rahway, NJ 07065 / REMOTE Mode : Contract (6 Months) JOB DESCRIPTION:- ...
+
+- [Junior Java Developer / Cloud Data Engineer – Retail (Remote)](https://www.adzuna.com/details/5972296047?utm_medium=api&utm_source=632a28fd)
+  - Company: SynergisticIT | Raleigh, Wake County
+  - The Assessment Went Out. The Recruiter Never Came Back. Ghosting by recruiters after an assessment is still a no. You ap...
+
+- [Entry Level Java Developer / AWS Cloud Engineer (Remote)](https://www.adzuna.com/details/5972295888?utm_medium=api&utm_source=632a28fd)
+  - Company: SynergisticIT | San Jose, Santa Clara County
+  - Career Switchers: for People Moving from Non-Tech TO Tech Domain Knowledge Is an Asset Until You Cannot Query It Teacher...
+
+- [cloud security engineer support](https://www.adzuna.com/land/ad/5972231512?se=8OPNNxvl8RGuPayoyp3FzQ&utm_medium=api&utm_source=632a28fd&v=08A18ED78101DE8A5F2B3FC6D16486D64B7D1549)
+  - Company: Cyber Resource Provider LLC | US
+  - Job Description Role: cloud security engineer support Location : Remote Visa: USC/EAD At a high level, this is for cloud...
+
+- [AWS Certified Cloud Data Engineer / Remote Role](https://www.adzuna.com/land/ad/5972181401?se=8OPNNxvl8RGuPayoyp3FzQ&utm_medium=api&utm_source=632a28fd&v=F76C0E5182D63F841722C65A7AFAC2B0742B528F)
+  - Company: American IT Systems | US
+  - AWS Certified Cloud Data Engineer Remote Experience : 10 years 6 Months only W2 Contract We need a solid resource that h...
+
+- [Customer Success Engineer (CSE) Prisma Cloud](https://www.adzuna.com/land/ad/5961886084?se=ii-_OBvl8RGuPayoyp3FzQ&utm_medium=api&utm_source=632a28fd&v=2EFEC278055F14469CF70AB6EE6AFECB20AAD3DD)
+  - Company: Exl Neo Technologies | US
+  - Job Title: Customer Success Engineer (CSE) - Prisma Cloud Project Location: Remote Job Summary We are seeking a hands-on...
+
+- [Level 2 Desktop Technician](https://www.adzuna.com/land/ad/5972893747?se=kDznORvl8RGuPayoyp3FzQ&utm_medium=api&utm_source=632a28fd&v=EF1518F1AB2D0C5716A89ECEA39A0DDCE9E51F99)
+  - Company: CompuCom | Lathrup Village, Oakland County
+  - At CompucomStaffing (https://www1.jobdiva.com/portal/?a=xpjdnwd96pfzndejt5orrp7btv1uj90471yr05agwnk9h3kdkxgy44xuptw0m44x...
+
+- [Level 2 Desktop Technician](https://www.adzuna.com/land/ad/5972891080?se=kDznORvl8RGuPayoyp3FzQ&utm_medium=api&utm_source=632a28fd&v=F4D6E99F7F6C3D8EFC7F0840D4CC3F09D0951BDE)
+  - Company: CompuCom | Wilsonville, Clackamas County
+  - At CompucomStaffing (https://www1.jobdiva.com/portal/?a=xpjdnwd96pfzndejt5orrp7btv1uj90471yr05agwnk9h3kdkxgy44xuptw0m44x...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/land/ad/5973154182?se=vgjXOxvl8RGB-bDIy5dDgQ&utm_medium=api&utm_source=632a28fd&v=8F3E104FA0FE7007055CAD83CD6B40245BB30668)
+  - Company: Expert In Recruitment Solutions | Atlanta, Fulton County
+  - Job Description Job Description Senior DevSecOps Engineer \n REMOTE \n \n This role is focusing more build and moderniza...
+
+- [Senior DevSecOps Engineer / Clearance Required / Remote](https://www.adzuna.com/land/ad/5972929265?se=vgjXOxvl8RGB-bDIy5dDgQ&utm_medium=api&utm_source=632a28fd&v=6BCB905C2E349A1AD2D3022F67DF759D08E921F2)
+  - Company: Kelly Services | US
+  - $175000 - $195000 A technology solutions company supporting mission-critical Department of Defense (DoD) programs is loo...
+
+- [Senior DevSecOps Engineer (Remote)](https://www.adzuna.com/details/5972293221?utm_medium=api&utm_source=632a28fd)
+  - Company: Integrated Data Services | US
+  - Company Overview: Integrated Data Services (IDS) is a leading provider of custom software products and Government financ...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065525?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | San Antonio, Bexar County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065526?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Galveston, Galveston County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065539?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Roanoke, Roanoke County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065529?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Blacksburg, Montgomery County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065536?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Lynchburg, Lynchburg City
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065537?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Tysons Corner, Fairfax County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065527?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Arlington, Arlington County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065531?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Charlottesville, Virginia
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065540?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Virginia Beach, Virginia Beach City
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065530?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Waco, McLennan County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065533?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Harrisonburg, Harrisonburg City
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065524?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Corpus Christi, Nueces County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065535?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Richmond, Richmond County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065534?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Fredericksburg City, Virginia
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065532?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Beaumont, Jefferson County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065538?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Newport News, Newport News City
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065528?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Ashburn, Loudoun County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065485?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Orlando, Orange County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065489?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Tallahassee, Leon County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065521?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Lansing, Ingham County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065519?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Ann Arbor, Washtenaw County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065483?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Ocala, Marion County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065518?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Detroit, Wayne County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065488?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Sarasota, Manatee County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065500?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Warner Robins, Houston County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065512?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Potomac, Montgomery County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065522?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Austin, Travis County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065513?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Rockville, Montgomery County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065510?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Laurel, Prince George's County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065495?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Atlanta, Fulton County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065487?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Panama City, Bay County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065494?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Augusta, Richmond County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065516?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Silver Spring, Montgomery County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065515?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Salisbury, Wicomico County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065497?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Dunwoody, DeKalb County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065508?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Frederick, Frederick County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065514?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Severna Park, Anne Arundel County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065499?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Marietta, Cobb County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065481?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Gainesville, Alachua County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065496?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Columbus, Muscogee County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065511?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Olney, Montgomery County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065498?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Savannah, Chatham County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065480?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Clearwater, Pinellas County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065517?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Towson, Baltimore County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065505?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Columbia, Howard County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065490?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Saint Petersburg, Pinellas County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065523?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | El Paso, El Paso County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065493?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Alpharetta, Fulton County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065506?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Bethesda, Montgomery County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065520?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Grand Rapids, Kent County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065482?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Jacksonville, Duval County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065492?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Athens, Clarke County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065486?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Pensacola, Escambia County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065504?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Annapolis, Anne Arundel County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065491?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Tampa, Hillsborough County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5972065509?utm_medium=api&utm_source=632a28fd)
+  - Company: Syms Strategic Group, LLC  | Hagerstown, Washington County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Kubernetes Engineer](https://www.adzuna.com/details/5972987579?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Menlo Park, Middlesex County
+  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
