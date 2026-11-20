@@ -1,14 +1,10 @@
 # New jobs
 
-Generated: 2026-11-19 19:58 UTC
+Generated: 2026-11-20 19:37 UTC
 
-Total new jobs: 92
+Total new jobs: 91
 
 ## greenhouse
-
-- [Data Center Substation, Protection & Automation Engineer](https://job-boards.greenhouse.io/anthropic/jobs/5468380008)
-  - Company: anthropic
-  - Location: Remote
 
 - [DevOps / AgentOps Engineer, GTM Systems](https://job-boards.greenhouse.io/anthropic/jobs/5392856008)
   - Company: anthropic
@@ -142,6 +138,10 @@ Total new jobs: 92
   - Company: gitlab
   - Location: Remote
 
+- [Senior CX Platform Engineer](https://job-boards.greenhouse.io/gitlab/jobs/8957066002)
+  - Company: gitlab
+  - Location: Remote
+
 - [Senior CX Platform Engineer](https://job-boards.greenhouse.io/gitlab/jobs/8871406002)
   - Company: gitlab
   - Location: Remote
@@ -218,11 +218,11 @@ Total new jobs: 92
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8260950?gh_jid=8260950)
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8242984?gh_jid=8242984)
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8242984?gh_jid=8242984)
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8260950?gh_jid=8260950)
   - Company: okta
   - Location: Remote
 
@@ -246,10 +246,6 @@ Total new jobs: 92
   - Company: okta
   - Location: Remote
 
-- [Splunk Infrastructure Engineer](https://www.okta.com/company/careers/opportunity/7658254?gh_jid=7658254)
-  - Company: okta
-  - Location: Remote
-
 - [Database Reliability Engineer/Database Engineer (Rubrik Security Cloud Platform)](https://www.rubrik.com/company/careers/departments/job.8161018?gh_jid=8161018)
   - Company: rubrik
   - Location: Remote
@@ -268,8 +264,8 @@ Total new jobs: 92
 
 ## jobicy
 
-- [Platform Engineer (FedD145)](https://jobicy.com/jobs/162132-platform-engineer-fedd145)
-  - Company: Defense Unicorns
+- [Infrastructure Engineer](https://jobicy.com/jobs/153599-infrastructure-engineer-3)
+  - Company: Bayesian Health
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
@@ -282,6 +278,16 @@ Total new jobs: 92
   - Company: Discord
   - Location: USA
   - Level/Team: QA & Testing
+
+- [Infrastructure Software Engineer](https://jobicy.com/jobs/163396-infrastructure-software-engineer-3)
+  - Company: Dropbox
+  - Location: Mexico
+  - Level/Team: DevOps & Infrastructure
+
+- [Senior Atlassian Cloud Engineer](https://jobicy.com/jobs/163403-senior-atlassian-cloud-engineer)
+  - Company: Dropbox
+  - Location: Mexico
+  - Level/Team: DevOps & Infrastructure
 
 - [Senior DevOps Engineer](https://jobicy.com/jobs/155574-senior-devops-engineer-10)
   - Company: dscout
@@ -301,11 +307,6 @@ Total new jobs: 92
 - [Senior Platform Engineer](https://jobicy.com/jobs/155361-senior-platform-engineer-5)
   - Company: Fleetio
   - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
-- [Senior Site Reliability Engineer - Ceph Storage](https://jobicy.com/jobs/162618-senior-site-reliability-engineer-ceph-storage)
-  - Company: GoDaddy
-  - Location: UK
   - Level/Team: DevOps & Infrastructure
 
 - [Site Reliability Engineer (Remote)(Located in the United Kingdom)](https://jobicy.com/jobs/162686-site-reliability-engineer-remotelocated-in-the-united-kingdom)
@@ -361,10 +362,6 @@ Total new jobs: 92
   - Level/Team: Engineering
 
 ## remoteok
-
-- [DESARROLLADOR FULL STACK](https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062)
-  - Company: Kruger NearShore LLC - Rekluti
-  - Location: Worldwide
 
 - [Senior DevOps Engineer](https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557)
   - Company: Lemon.io
