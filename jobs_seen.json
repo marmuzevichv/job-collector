@@ -1,58 +1,4 @@
 {
-  "remoteok::1137805": {
-    "company": "Treatwell",
-    "title": "SEO Full Stack Engineer",
-    "url": "https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805",
-    "first_seen_utc": "2026-11-19 19:57:07"
-  },
-  "wwr::https://weworkremotely.com/remote-jobs/prove-site-reliability-engineer-sr-site-reliability-engineer": {
-    "company": "Prove",
-    "title": "Site Reliability Engineer, Sr. Site Reliability Engineer",
-    "url": "https://weworkremotely.com/remote-jobs/prove-site-reliability-engineer-sr-site-reliability-engineer",
-    "first_seen_utc": "2026-11-19 19:57:07"
-  },
-  "jobicy::155923": {
-    "company": "Discord",
-    "title": "QA/DevOps Engineer",
-    "url": "https://jobicy.com/jobs/155923-qa-devops-engineer",
-    "first_seen_utc": "2026-11-19 19:57:07"
-  },
-  "jobicy::146254": {
-    "company": "Softgic",
-    "title": "Atlassian Administrator 1726",
-    "url": "https://jobicy.com/jobs/146254-atlassian-administrator-1726",
-    "first_seen_utc": "2026-11-19 19:57:07"
-  },
-  "jobicy::155574": {
-    "company": "dscout",
-    "title": "Senior DevOps Engineer",
-    "url": "https://jobicy.com/jobs/155574-senior-devops-engineer-10",
-    "first_seen_utc": "2026-11-19 19:57:07"
-  },
-  "jobicy::162979": {
-    "company": "Supabase",
-    "title": "Platform Engineer - Compute",
-    "url": "https://jobicy.com/jobs/162979-platform-engineer-compute",
-    "first_seen_utc": "2026-11-19 19:57:07"
-  },
-  "greenhouse::8237695": {
-    "company": "okta",
-    "title": "Senior Software Engineer, Developer Experience (CI/CD & Release Engineering)",
-    "url": "https://www.okta.com/company/careers/opportunity/8237695?gh_jid=8237695",
-    "first_seen_utc": "2026-11-19 19:57:07"
-  },
-  "greenhouse::8328519": {
-    "company": "dropbox",
-    "title": "Senior Atlassian Cloud Engineer",
-    "url": "https://jobs.dropbox.com/listing/8328519?gh_jid=8328519",
-    "first_seen_utc": "2026-11-19 19:57:07"
-  },
-  "greenhouse::8328520": {
-    "company": "dropbox",
-    "title": "Senior Atlassian Cloud Engineer",
-    "url": "https://jobs.dropbox.com/listing/8328520?gh_jid=8328520",
-    "first_seen_utc": "2026-11-19 19:57:07"
-  },
   "remoteok::1137600": {
     "company": "Smile Digital Health",
     "title": "Cloud Engineer Automation",
@@ -544,5 +490,125 @@
     "title": "Site Reliability / Gitops Engineer",
     "url": "https://job-boards.greenhouse.io/canonical/jobs/1747487",
     "first_seen_utc": "2026-11-20 19:37:26"
+  },
+  "remoteok::1137902": {
+    "company": "BeyondTrust",
+    "title": "Sr Sales Ops Analyst",
+    "url": "https://remoteOK.com/remote-jobs/remote-sr-sales-ops-analyst-beyondtrust-1137902",
+    "first_seen_utc": "2026-11-21 18:42:17"
+  },
+  "remoteok::1137898": {
+    "company": "LaunchDarkly",
+    "title": "Security Analyst - Governance, Risk, and Compliance",
+    "url": "https://remoteOK.com/remote-jobs/remote-security-analyst-governance-risk-and-compliance-launchdarkly-1137898",
+    "first_seen_utc": "2026-11-21 18:42:17"
+  },
+  "remoteok::1137877": {
+    "company": "Sumo Logic",
+    "title": "PreSales Solutions Engineer",
+    "url": "https://remoteOK.com/remote-jobs/remote-presales-solutions-engineer-sumo-logic-1137877",
+    "first_seen_utc": "2026-11-21 18:42:17"
+  },
+  "remoteok::1137860": {
+    "company": "Dropbox",
+    "title": "Senior Atlassian Cloud Admininstrator",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-atlassian-cloud-admininstrator-dropbox-1137860",
+    "first_seen_utc": "2026-11-21 18:42:17"
+  },
+  "remoteok::1137805": {
+    "company": "Treatwell",
+    "title": "SEO Full Stack Engineer",
+    "url": "https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805",
+    "first_seen_utc": "2026-11-21 18:42:17"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/gemini-senior-platform-engineer": {
+    "company": "Gemini",
+    "title": "Senior Platform Engineer",
+    "url": "https://weworkremotely.com/remote-jobs/gemini-senior-platform-engineer",
+    "first_seen_utc": "2026-11-21 18:42:17"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/upgrade-senior-qa-automation-engineer-heloc": {
+    "company": "Upgrade",
+    "title": "Senior QA Automation Engineer (HELOC)",
+    "url": "https://weworkremotely.com/remote-jobs/upgrade-senior-qa-automation-engineer-heloc",
+    "first_seen_utc": "2026-11-21 18:42:17"
+  },
+  "wwr::https://weworkremotely.com/remote-jobs/prove-site-reliability-engineer-sr-site-reliability-engineer": {
+    "company": "Prove",
+    "title": "Site Reliability Engineer, Sr. Site Reliability Engineer",
+    "url": "https://weworkremotely.com/remote-jobs/prove-site-reliability-engineer-sr-site-reliability-engineer",
+    "first_seen_utc": "2026-11-21 18:42:17"
+  },
+  "jobicy::163601": {
+    "company": "Nebius",
+    "title": "Forward Deployed Engineer, Physical AI Infrastructure",
+    "url": "https://jobicy.com/jobs/163601-forward-deployed-engineer-physical-ai-infrastructure-2",
+    "first_seen_utc": "2026-11-21 18:42:17"
+  },
+  "jobicy::155923": {
+    "company": "Discord",
+    "title": "QA/DevOps Engineer",
+    "url": "https://jobicy.com/jobs/155923-qa-devops-engineer",
+    "first_seen_utc": "2026-11-21 18:42:17"
+  },
+  "jobicy::146254": {
+    "company": "Softgic",
+    "title": "Atlassian Administrator 1726",
+    "url": "https://jobicy.com/jobs/146254-atlassian-administrator-1726",
+    "first_seen_utc": "2026-11-21 18:42:17"
+  },
+  "jobicy::155574": {
+    "company": "dscout",
+    "title": "Senior DevOps Engineer",
+    "url": "https://jobicy.com/jobs/155574-senior-devops-engineer-10",
+    "first_seen_utc": "2026-11-21 18:42:17"
+  },
+  "jobicy::156214": {
+    "company": "Carrot",
+    "title": "Sr. IT Systems Engineer",
+    "url": "https://jobicy.com/jobs/156214-sr-it-systems-engineer-2",
+    "first_seen_utc": "2026-11-21 18:42:17"
+  },
+  "jobicy::156187": {
+    "company": "Astronomer",
+    "title": "Senior Software Engineer, Platform",
+    "url": "https://jobicy.com/jobs/156187-senior-software-engineer-platform-3",
+    "first_seen_utc": "2026-11-21 18:42:17"
+  },
+  "jobicy::156231": {
+    "company": "PerfectServe",
+    "title": "Senior Platform Engineer - US Remote",
+    "url": "https://jobicy.com/jobs/156231-senior-platform-engineer-us-remote",
+    "first_seen_utc": "2026-11-21 18:42:17"
+  },
+  "jobicy::163568": {
+    "company": "Nebius",
+    "title": "Field CTO, Media & Entertainment AI Infrastructure",
+    "url": "https://jobicy.com/jobs/163568-field-cto-media-entertainment-ai-infrastructure",
+    "first_seen_utc": "2026-11-21 18:42:17"
+  },
+  "greenhouse::8237695": {
+    "company": "okta",
+    "title": "Senior Software Engineer, Developer Experience (CI/CD & Release Engineering)",
+    "url": "https://www.okta.com/company/careers/opportunity/8237695?gh_jid=8237695",
+    "first_seen_utc": "2026-11-21 18:42:17"
+  },
+  "greenhouse::8406944": {
+    "company": "cloudflare",
+    "title": "Senior Platform Engineer, Replicate",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8406944?gh_jid=8406944",
+    "first_seen_utc": "2026-11-21 18:42:17"
+  },
+  "greenhouse::8328519": {
+    "company": "dropbox",
+    "title": "Senior Atlassian Cloud Engineer",
+    "url": "https://jobs.dropbox.com/listing/8328519?gh_jid=8328519",
+    "first_seen_utc": "2026-11-21 18:42:17"
+  },
+  "greenhouse::8328520": {
+    "company": "dropbox",
+    "title": "Senior Atlassian Cloud Engineer",
+    "url": "https://jobs.dropbox.com/listing/8328520?gh_jid=8328520",
+    "first_seen_utc": "2026-11-21 18:42:17"
   }
 }

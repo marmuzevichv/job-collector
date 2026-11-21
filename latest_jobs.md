@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-11-20 19:37 UTC
+Generated: 2026-11-21 18:42 UTC
 
-Total new jobs: 91
+Total new jobs: 102
 
 ## greenhouse
 
@@ -71,6 +71,10 @@ Total new jobs: 91
   - Location: Remote
 
 - [Senior Infrastructure Engineer, Storage Platform](https://boards.greenhouse.io/cloudflare/jobs/7629805?gh_jid=7629805)
+  - Company: cloudflare
+  - Location: Remote
+
+- [Senior Platform Engineer, Replicate](https://boards.greenhouse.io/cloudflare/jobs/8406944?gh_jid=8406944)
   - Company: cloudflare
   - Location: Remote
 
@@ -264,8 +268,18 @@ Total new jobs: 91
 
 ## jobicy
 
+- [Senior Software Engineer, Platform](https://jobicy.com/jobs/156187-senior-software-engineer-platform-3)
+  - Company: Astronomer
+  - Location: Ireland
+  - Level/Team: DevOps & Infrastructure
+
 - [Infrastructure Engineer](https://jobicy.com/jobs/153599-infrastructure-engineer-3)
   - Company: Bayesian Health
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Sr. IT Systems Engineer](https://jobicy.com/jobs/156214-sr-it-systems-engineer-2)
+  - Company: Carrot
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
@@ -324,18 +338,28 @@ Total new jobs: 91
   - Location: Costa Rica
   - Level/Team: DevOps & Infrastructure
 
+- [Field CTO, Media & Entertainment AI Infrastructure](https://jobicy.com/jobs/163568-field-cto-media-entertainment-ai-infrastructure)
+  - Company: Nebius
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Forward Deployed Engineer, Physical AI Infrastructure](https://jobicy.com/jobs/163601-forward-deployed-engineer-physical-ai-infrastructure-2)
+  - Company: Nebius
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
 - [IT Department Lead - Remote, Worldwide](https://jobicy.com/jobs/162315-it-department-lead-remote-worldwide)
   - Company: Nethermind
   - Location: Anywhere
   - Level/Team: DevOps & Infrastructure
 
-- [Atlassian Administrator 1726](https://jobicy.com/jobs/146254-atlassian-administrator-1726)
-  - Company: Softgic
-  - Location: Anywhere
+- [Senior Platform Engineer - US Remote](https://jobicy.com/jobs/156231-senior-platform-engineer-us-remote)
+  - Company: PerfectServe
+  - Location: USA
   - Level/Team: DevOps & Infrastructure
 
-- [Platform Engineer - Compute](https://jobicy.com/jobs/162979-platform-engineer-compute)
-  - Company: Supabase
+- [Atlassian Administrator 1726](https://jobicy.com/jobs/146254-atlassian-administrator-1726)
+  - Company: Softgic
   - Location: Anywhere
   - Level/Team: DevOps & Infrastructure
 
@@ -363,6 +387,18 @@ Total new jobs: 91
 
 ## remoteok
 
+- [Sr Sales Ops Analyst](https://remoteOK.com/remote-jobs/remote-sr-sales-ops-analyst-beyondtrust-1137902)
+  - Company: BeyondTrust
+  - Location: US Only
+
+- [Senior Atlassian Cloud Admininstrator](https://remoteOK.com/remote-jobs/remote-senior-atlassian-cloud-admininstrator-dropbox-1137860)
+  - Company: Dropbox
+  - Location: North America
+
+- [Security Analyst - Governance, Risk, and Compliance](https://remoteOK.com/remote-jobs/remote-security-analyst-governance-risk-and-compliance-launchdarkly-1137898)
+  - Company: LaunchDarkly
+  - Location: US Only
+
 - [Senior DevOps Engineer](https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557)
   - Company: Lemon.io
   - Location: Worldwide
@@ -370,6 +406,10 @@ Total new jobs: 91
 - [Cloud Engineer Automation](https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600)
   - Company: Smile Digital Health
   - Location: Toronto, Ontario
+
+- [PreSales Solutions Engineer](https://remoteOK.com/remote-jobs/remote-presales-solutions-engineer-sumo-logic-1137877)
+  - Company: Sumo Logic
+  - Location: US Only
 
 - [SEO Full Stack Engineer](https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805)
   - Company: Treatwell
@@ -385,6 +425,10 @@ Total new jobs: 91
   - Company: Edgewater Federal Solutions, Inc.
   - Location: Remote
 
+- [Senior Platform Engineer](https://weworkremotely.com/remote-jobs/gemini-senior-platform-engineer)
+  - Company: Gemini
+  - Location: Remote
+
 - [Senior Backend Cloud Engineer](https://weworkremotely.com/remote-jobs/halcyon-senior-backend-cloud-engineer)
   - Company: Halcyon
   - Location: Remote
@@ -395,4 +439,8 @@ Total new jobs: 91
 
 - [Site Reliability Engineer, Sr. Site Reliability Engineer](https://weworkremotely.com/remote-jobs/prove-site-reliability-engineer-sr-site-reliability-engineer)
   - Company: Prove
+  - Location: Remote
+
+- [Senior QA Automation Engineer (HELOC)](https://weworkremotely.com/remote-jobs/upgrade-senior-qa-automation-engineer-heloc)
+  - Company: Upgrade
   - Location: Remote

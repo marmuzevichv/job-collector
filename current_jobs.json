@@ -79,6 +79,21 @@
   },
   {
     "source_type": "jobicy",
+    "company": "Astronomer",
+    "title": "Senior Software Engineer, Platform",
+    "location": "Ireland",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/156187-senior-software-engineer-platform-3",
+    "external_id": "jobicy::156187",
+    "description_snippet": "Astronomer empowers data teams to bring mission-critical software, analytics, and AI to life and is the company behind Astro, the industry-leading unified DataOps platform powered by Apache Airflow®. Astro accelerates building reliable data products that unlock insights, unleash AI value, and powers",
+    "posted_at": "2026-11-21T03:15:08+00:00",
+    "collected_at_utc": "2026-11-21 18:42:17"
+  },
+  {
+    "source_type": "jobicy",
     "company": "Bayesian Health",
     "title": "Infrastructure Engineer",
     "location": "USA",
@@ -91,6 +106,21 @@
     "description_snippet": "In Brief We’re a rapidly growing startup on a mission to make healthcare proactive by empowering physicians, nurses, and care team members with real-time data to save lives. You will build and maintain the infrastructure for the Bayesian platform and develop CI/CD to enable other team members such a",
     "posted_at": "2026-11-20T03:15:10+00:00",
     "collected_at_utc": "2026-11-20 19:37:26"
+  },
+  {
+    "source_type": "remoteok",
+    "company": "BeyondTrust",
+    "title": "Sr Sales Ops Analyst",
+    "location": "US Only",
+    "team": "",
+    "categories": [
+      "devops"
+    ],
+    "url": "https://remoteOK.com/remote-jobs/remote-sr-sales-ops-analyst-beyondtrust-1137902",
+    "external_id": "remoteok::1137902",
+    "description_snippet": "BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our su",
+    "posted_at": "2026-11-20T08:20:16+00:00",
+    "collected_at_utc": "2026-11-21 18:42:17"
   },
   {
     "source_type": "greenhouse",
@@ -171,6 +201,21 @@
     "collected_at_utc": "2026-11-20 19:37:26"
   },
   {
+    "source_type": "jobicy",
+    "company": "Carrot",
+    "title": "Sr. IT Systems Engineer",
+    "location": "USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/156214-sr-it-systems-engineer-2",
+    "external_id": "jobicy::156214",
+    "description_snippet": "About Carrot: Carrot is the leading global fertility and family care platform, built on intelligent care orchestration: the right clinical guidance, at the right moment, in the context of each member’s life. More than a thousand multinational employers, health plans, and health systems trust Carrot ",
+    "posted_at": "2026-11-21T03:25:09+00:00",
+    "collected_at_utc": "2026-11-21 18:42:17"
+  },
+  {
     "source_type": "greenhouse",
     "company": "cloudflare",
     "title": "Customer Reliability Engineer",
@@ -238,6 +283,19 @@
   {
     "source_type": "greenhouse",
     "company": "cloudflare",
+    "title": "Senior Platform Engineer, Replicate",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8406944?gh_jid=8406944",
+    "external_id": "greenhouse::8406944",
+    "description_snippet": "",
+    "posted_at": "2026-11-21T12:47:15-05:00",
+    "collected_at_utc": "2026-11-21 18:42:17"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "cloudflare",
     "title": "Systems Reliability Engineer - Core",
     "location": "",
     "team": "",
@@ -264,6 +322,19 @@
     "collected_at_utc": "2026-11-20 19:37:26"
   },
   {
+    "source_type": "weworkremotely",
+    "company": "Discord",
+    "title": "QA/DevOps Engineer",
+    "location": "Remote",
+    "team": "",
+    "categories": [],
+    "url": "https://weworkremotely.com/remote-jobs/discord-qa-devops-engineer",
+    "external_id": "wwr::https://weworkremotely.com/remote-jobs/discord-qa-devops-engineer",
+    "description_snippet": "Headquarters: San Francisco Bay Area or Remote (U.S.) Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of ",
+    "posted_at": "Fri, 23 Oct 2026 07:31:21 +0000",
+    "collected_at_utc": "2026-11-20 19:37:26"
+  },
+  {
     "source_type": "jobicy",
     "company": "Discord",
     "title": "QA/DevOps Engineer",
@@ -276,20 +347,7 @@
     "external_id": "jobicy::155923",
     "description_snippet": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and mor",
     "posted_at": "2026-11-19T03:20:10+00:00",
-    "collected_at_utc": "2026-11-19 19:57:07"
-  },
-  {
-    "source_type": "weworkremotely",
-    "company": "Discord",
-    "title": "QA/DevOps Engineer",
-    "location": "Remote",
-    "team": "",
-    "categories": [],
-    "url": "https://weworkremotely.com/remote-jobs/discord-qa-devops-engineer",
-    "external_id": "wwr::https://weworkremotely.com/remote-jobs/discord-qa-devops-engineer",
-    "description_snippet": "Headquarters: San Francisco Bay Area or Remote (U.S.) Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of ",
-    "posted_at": "Fri, 23 Oct 2026 07:31:21 +0000",
-    "collected_at_utc": "2026-11-20 19:37:26"
+    "collected_at_utc": "2026-11-21 18:42:17"
   },
   {
     "source_type": "jobicy",
@@ -307,30 +365,19 @@
     "collected_at_utc": "2026-11-20 19:37:26"
   },
   {
-    "source_type": "greenhouse",
-    "company": "dropbox",
-    "title": "Senior Atlassian Cloud Engineer",
-    "location": "",
+    "source_type": "remoteok",
+    "company": "Dropbox",
+    "title": "Senior Atlassian Cloud Admininstrator",
+    "location": "North America",
     "team": "",
-    "categories": [],
-    "url": "https://jobs.dropbox.com/listing/8328519?gh_jid=8328519",
-    "external_id": "greenhouse::8328519",
-    "description_snippet": "",
-    "posted_at": "2026-11-19T07:15:27-05:00",
-    "collected_at_utc": "2026-11-19 19:57:07"
-  },
-  {
-    "source_type": "greenhouse",
-    "company": "dropbox",
-    "title": "Senior Atlassian Cloud Engineer",
-    "location": "",
-    "team": "",
-    "categories": [],
-    "url": "https://jobs.dropbox.com/listing/8328520?gh_jid=8328520",
-    "external_id": "greenhouse::8328520",
-    "description_snippet": "",
-    "posted_at": "2026-11-19T07:15:36-05:00",
-    "collected_at_utc": "2026-11-19 19:57:07"
+    "categories": [
+      "devops"
+    ],
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-atlassian-cloud-admininstrator-dropbox-1137860",
+    "external_id": "remoteok::1137860",
+    "description_snippet": "Role Description As a Senior Atlassian Cloud Engineer at Dropbox, you will design, build, and evolve the platforms that help our employees collaborate and get support. With a focus on Jira Service Management (JSM), you will own solutions that simplify service delivery, automate manual processes, and",
+    "posted_at": "2026-11-19T21:15:14+00:00",
+    "collected_at_utc": "2026-11-21 18:42:17"
   },
   {
     "source_type": "jobicy",
@@ -346,6 +393,32 @@
     "description_snippet": "Role Description As a Senior Atlassian Cloud Engineer at Dropbox, you will design, build, and evolve the platforms that help our employees collaborate and get support. With a focus on Jira Service Management (JSM), you will own solutions that simplify service delivery, automate manual processes, and",
     "posted_at": "2026-11-20T06:28:05+00:00",
     "collected_at_utc": "2026-11-20 19:37:26"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "dropbox",
+    "title": "Senior Atlassian Cloud Engineer",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://jobs.dropbox.com/listing/8328519?gh_jid=8328519",
+    "external_id": "greenhouse::8328519",
+    "description_snippet": "",
+    "posted_at": "2026-11-19T07:15:27-05:00",
+    "collected_at_utc": "2026-11-21 18:42:17"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "dropbox",
+    "title": "Senior Atlassian Cloud Engineer",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://jobs.dropbox.com/listing/8328520?gh_jid=8328520",
+    "external_id": "greenhouse::8328520",
+    "description_snippet": "",
+    "posted_at": "2026-11-19T07:15:36-05:00",
+    "collected_at_utc": "2026-11-21 18:42:17"
   },
   {
     "source_type": "greenhouse",
@@ -425,7 +498,7 @@
     "external_id": "jobicy::155574",
     "description_snippet": "At Dscout, we’re building the most flexible and powerful UX research platform on the market—trusted by the world’s top brands in finance (JP Morgan Chase, Intuit, Charles Schwab, PayPal), healthcare (Aya, Headspace), consumer goods (Keen, Verizon, Target, Northface), and tech (Google, Amazon, Facebo",
     "posted_at": "2026-11-17T03:00:27+00:00",
-    "collected_at_utc": "2026-11-19 19:57:07"
+    "collected_at_utc": "2026-11-21 18:42:17"
   },
   {
     "source_type": "jobicy",
@@ -536,6 +609,19 @@
     "description_snippet": "A little about us…Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we’re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D fund",
     "posted_at": "2026-11-15T03:40:13+00:00",
     "collected_at_utc": "2026-11-20 19:37:26"
+  },
+  {
+    "source_type": "weworkremotely",
+    "company": "Gemini",
+    "title": "Senior Platform Engineer",
+    "location": "Remote",
+    "team": "",
+    "categories": [],
+    "url": "https://weworkremotely.com/remote-jobs/gemini-senior-platform-engineer",
+    "external_id": "wwr::https://weworkremotely.com/remote-jobs/gemini-senior-platform-engineer",
+    "description_snippet": "Headquarters: New York, New York; Miami, Florida; Remote (USA) About the Company Gemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to individuals and institutions in over 70 ",
+    "posted_at": "Sat, 21 Nov 2026 18:32:07 +0000",
+    "collected_at_utc": "2026-11-21 18:42:17"
   },
   {
     "source_type": "greenhouse",
@@ -696,6 +782,21 @@
     "description_snippet": "Are you ready to unlock intelligence? If you don’t think you meet all of the criteria below but are still interested in the job, please apply. Nobody checks every box - we’re looking for candidates that are particularly strong in a few areas, and have some interest and capabilities in others. Senior",
     "posted_at": "2026-11-18T04:00:12+00:00",
     "collected_at_utc": "2026-11-20 19:37:26"
+  },
+  {
+    "source_type": "remoteok",
+    "company": "LaunchDarkly",
+    "title": "Security Analyst - Governance, Risk, and Compliance",
+    "location": "US Only",
+    "team": "",
+    "categories": [
+      "devops"
+    ],
+    "url": "https://remoteOK.com/remote-jobs/remote-security-analyst-governance-risk-and-compliance-launchdarkly-1137898",
+    "external_id": "remoteok::1137898",
+    "description_snippet": "About the Job: LaunchDarkly's Governance, Risk, and Compliance team is hiring a Security Analyst III to facilitate the definition, implementation, and operation of security and privacy programs at LaunchDarkly. LaunchDarkly is critical infrastructure. Our security team keeps it safe for the global s",
+    "posted_at": "2026-11-20T07:40:18+00:00",
+    "collected_at_utc": "2026-11-21 18:42:17"
   },
   {
     "source_type": "remoteok",
@@ -902,6 +1003,36 @@
   },
   {
     "source_type": "jobicy",
+    "company": "Nebius",
+    "title": "Field CTO, Media & Entertainment AI Infrastructure",
+    "location": "USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/163568-field-cto-media-entertainment-ai-infrastructure",
+    "external_id": "jobicy::163568",
+    "description_snippet": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-hou",
+    "posted_at": "2026-11-20T16:44:58+00:00",
+    "collected_at_utc": "2026-11-21 18:42:17"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Nebius",
+    "title": "Forward Deployed Engineer, Physical AI Infrastructure",
+    "location": "USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/163601-forward-deployed-engineer-physical-ai-infrastructure-2",
+    "external_id": "jobicy::163601",
+    "description_snippet": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-hou",
+    "posted_at": "2026-11-20T19:26:41+00:00",
+    "collected_at_utc": "2026-11-21 18:42:17"
+  },
+  {
+    "source_type": "jobicy",
     "company": "Nethermind",
     "title": "IT Department Lead - Remote, Worldwide",
     "location": "Anywhere",
@@ -1069,7 +1200,22 @@
     "external_id": "greenhouse::8237695",
     "description_snippet": "",
     "posted_at": "2026-11-17T15:18:46-05:00",
-    "collected_at_utc": "2026-11-19 19:57:07"
+    "collected_at_utc": "2026-11-21 18:42:17"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "PerfectServe",
+    "title": "Senior Platform Engineer - US Remote",
+    "location": "USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/156231-senior-platform-engineer-us-remote",
+    "external_id": "jobicy::156231",
+    "description_snippet": "What is PerfectServe? PerfectServe is a leading provider of clinical communication and physician scheduling solutions in the health IT space. The company was founded in 1997 and has grown steadily since then, with a notable jump after several major acquisitions were announced in 2019. PerfectServe n",
+    "posted_at": "2026-11-21T03:20:31+00:00",
+    "collected_at_utc": "2026-11-21 18:42:17"
   },
   {
     "source_type": "weworkremotely",
@@ -1082,7 +1228,7 @@
     "external_id": "wwr::https://weworkremotely.com/remote-jobs/prove-site-reliability-engineer-sr-site-reliability-engineer",
     "description_snippet": "Headquarters: United States (Remote) About Prove&nbsp; As the world moves to a mobile-first economy, businesses need to modernize how they acquire, engage with and enable consumers. Prove’s phone-centric identity tokenization and passive cryptographic authentication solutions reduce friction, enhanc",
     "posted_at": "Thu, 19 Nov 2026 18:31:23 +0000",
-    "collected_at_utc": "2026-11-19 19:57:07"
+    "collected_at_utc": "2026-11-21 18:42:17"
   },
   {
     "source_type": "greenhouse",
@@ -1170,7 +1316,7 @@
     "external_id": "jobicy::146254",
     "description_snippet": "This is a remote position. We are seeking an experienced Atlassian Administrator to manage, optimize, and continuously improve our Atlassian Cloud ecosystem. This role will be responsible for the administration, configuration, customization, and support of Jira Software, Confluence, and Jira Service",
     "posted_at": "2026-11-19T02:40:17+00:00",
-    "collected_at_utc": "2026-11-19 19:57:07"
+    "collected_at_utc": "2026-11-21 18:42:17"
   },
   {
     "source_type": "greenhouse",
@@ -1186,19 +1332,19 @@
     "collected_at_utc": "2026-11-20 19:37:26"
   },
   {
-    "source_type": "jobicy",
-    "company": "Supabase",
-    "title": "Platform Engineer - Compute",
-    "location": "Anywhere",
-    "team": "DevOps & Infrastructure",
+    "source_type": "remoteok",
+    "company": "Sumo Logic",
+    "title": "PreSales Solutions Engineer",
+    "location": "US Only",
+    "team": "",
     "categories": [
-      "['Full-Time']"
+      "devops"
     ],
-    "url": "https://jobicy.com/jobs/162979-platform-engineer-compute",
-    "external_id": "jobicy::162979",
-    "description_snippet": "About the Role We are seeking a platform engineer to join our Compute team. This team owns the critical systems that power project provisioning, scaling, and the compute that our users rely on every day. You’ll work on the core platform that ensures Supabase can seamlessly scaleacross multiple regio",
-    "posted_at": "2026-11-17T13:39:12+00:00",
-    "collected_at_utc": "2026-11-19 19:57:07"
+    "url": "https://remoteOK.com/remote-jobs/remote-presales-solutions-engineer-sumo-logic-1137877",
+    "external_id": "remoteok::1137877",
+    "description_snippet": "As a Sales Engineer , you will be the primary technical resource for our Account Executive team. You will share your product and technical expertise through presentations, product demonstrations, and technical evaluations (Proof Of Values). As the technical expert, you will work with clients to unde",
+    "posted_at": "2026-11-20T03:00:14+00:00",
+    "collected_at_utc": "2026-11-21 18:42:17"
   },
   {
     "source_type": "jobicy",
@@ -1281,6 +1427,19 @@
     "external_id": "remoteok::1137805",
     "description_snippet": "We're looking for a full-stack engineer to join our Product Engineering team, reporting to one of the Engineering Managers of the Marketplace area, with a dotted line to the Marketing SEO Manager, focused on supporting the Growth and Marketing area. This role will have a 60% focus on Front End, and ",
     "posted_at": "2026-11-18T16:00:31+00:00",
-    "collected_at_utc": "2026-11-19 19:57:07"
+    "collected_at_utc": "2026-11-21 18:42:17"
+  },
+  {
+    "source_type": "weworkremotely",
+    "company": "Upgrade",
+    "title": "Senior QA Automation Engineer (HELOC)",
+    "location": "Remote",
+    "team": "",
+    "categories": [],
+    "url": "https://weworkremotely.com/remote-jobs/upgrade-senior-qa-automation-engineer-heloc",
+    "external_id": "wwr::https://weworkremotely.com/remote-jobs/upgrade-senior-qa-automation-engineer-heloc",
+    "description_snippet": "Headquarters: United States (Remote) Upgrade helps customers move in the right direction with affordable and responsible financial products. Since 2017, we’ve helped over 7.5 million customers access over $42 billion in consumer credit. With a relentless focus on improving our customers' financial w",
+    "posted_at": "Sat, 21 Nov 2026 06:01:43 +0000",
+    "collected_at_utc": "2026-11-21 18:42:17"
   }
 ]
