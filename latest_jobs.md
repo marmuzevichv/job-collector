@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-11-21 18:42 UTC
+Generated: 2026-11-22 19:03 UTC
 
-Total new jobs: 102
+Total new jobs: 93
 
 ## greenhouse
 
@@ -82,15 +82,15 @@ Total new jobs: 102
   - Company: cloudflare
   - Location: Remote
 
-- [Senior Atlassian Cloud Engineer](https://jobs.dropbox.com/listing/8328519?gh_jid=8328519)
-  - Company: dropbox
-  - Location: Remote
-
 - [Senior Atlassian Cloud Engineer](https://jobs.dropbox.com/listing/8328520?gh_jid=8328520)
   - Company: dropbox
   - Location: Remote
 
-- [Senior Client Platform Engineer, Endpoint Platform & Automation](https://jobs.dropbox.com/listing/8356941?gh_jid=8356941)
+- [Senior Atlassian Cloud Engineer](https://jobs.dropbox.com/listing/8328519?gh_jid=8328519)
+  - Company: dropbox
+  - Location: Remote
+
+- [Senior Client Platform Engineer, Endpoint Platform & Automation](https://jobs.dropbox.com/listing/8356942?gh_jid=8356942)
   - Company: dropbox
   - Location: Remote
 
@@ -98,7 +98,7 @@ Total new jobs: 102
   - Company: dropbox
   - Location: Remote
 
-- [Senior Client Platform Engineer, Endpoint Platform & Automation](https://jobs.dropbox.com/listing/8356942?gh_jid=8356942)
+- [Senior Client Platform Engineer, Endpoint Platform & Automation](https://jobs.dropbox.com/listing/8356941?gh_jid=8356941)
   - Company: dropbox
   - Location: Remote
 
@@ -186,11 +186,11 @@ Total new jobs: 102
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7793634)
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
   - Company: mongodb
   - Location: Remote
 
-- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7743366)
+- [Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)](https://www.mongodb.com/careers/job/?gh_jid=7793634)
   - Company: mongodb
   - Location: Remote
 
@@ -214,10 +214,6 @@ Total new jobs: 102
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8184826?gh_jid=8184826)
-  - Company: okta
-  - Location: Remote
-
 - [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/7963271?gh_jid=7963271)
   - Company: okta
   - Location: Remote
@@ -227,6 +223,10 @@ Total new jobs: 102
   - Location: Remote
 
 - [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8260950?gh_jid=8260950)
+  - Company: okta
+  - Location: Remote
+
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8184826?gh_jid=8184826)
   - Company: okta
   - Location: Remote
 
@@ -251,10 +251,6 @@ Total new jobs: 102
   - Location: Remote
 
 - [Database Reliability Engineer/Database Engineer (Rubrik Security Cloud Platform)](https://www.rubrik.com/company/careers/departments/job.8161018?gh_jid=8161018)
-  - Company: rubrik
-  - Location: Remote
-
-- [Senior AI API Platform Engineer](https://www.rubrik.com/company/careers/departments/job.8273808?gh_jid=8273808)
   - Company: rubrik
   - Location: Remote
 
@@ -283,8 +279,8 @@ Total new jobs: 102
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
-- [Platform Engineer - FedD180/FedD181](https://jobicy.com/jobs/162137-platform-engineer-fedd180-fedd181)
-  - Company: Defense Unicorns
+- [GTM DevOps Engineer](https://jobicy.com/jobs/156285-gtm-devops-engineer)
+  - Company: ClickUp
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
@@ -293,24 +289,9 @@ Total new jobs: 102
   - Location: USA
   - Level/Team: QA & Testing
 
-- [Infrastructure Software Engineer](https://jobicy.com/jobs/163396-infrastructure-software-engineer-3)
-  - Company: Dropbox
-  - Location: Mexico
-  - Level/Team: DevOps & Infrastructure
-
-- [Senior Atlassian Cloud Engineer](https://jobicy.com/jobs/163403-senior-atlassian-cloud-engineer)
-  - Company: Dropbox
-  - Location: Mexico
-  - Level/Team: DevOps & Infrastructure
-
-- [Senior DevOps Engineer](https://jobicy.com/jobs/155574-senior-devops-engineer-10)
-  - Company: dscout
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
-- [Platform Engineer-Kubernetes Operators](https://jobicy.com/jobs/163175-platform-engineer-kubernetes-operators)
-  - Company: EDB
-  - Location: USA
+- [Senior SRE - Networks](https://jobicy.com/jobs/153756-senior-sre-networks)
+  - Company: Fastly
+  - Location: UK
   - Level/Team: DevOps & Infrastructure
 
 - [Senior DevOps Engineer - Storage Platforms](https://jobicy.com/jobs/153466-senior-devops-engineer-storage-platforms)
@@ -318,39 +299,14 @@ Total new jobs: 102
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
-- [Senior Platform Engineer](https://jobicy.com/jobs/155361-senior-platform-engineer-5)
-  - Company: Fleetio
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
-- [Site Reliability Engineer (Remote)(Located in the United Kingdom)](https://jobicy.com/jobs/162686-site-reliability-engineer-remotelocated-in-the-united-kingdom)
-  - Company: KnowBe4, Inc.
-  - Location: UK
-  - Level/Team: DevOps & Infrastructure
-
 - [Senior SRE, Managed Gateways](https://jobicy.com/jobs/155629-senior-sre-managed-gateways)
   - Company: Kong Inc.
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
-- [Senior Site Reliability Engineer](https://jobicy.com/jobs/162437-senior-site-reliability-engineer-7)
-  - Company: Monks
-  - Location: Costa Rica
-  - Level/Team: DevOps & Infrastructure
-
-- [Field CTO, Media & Entertainment AI Infrastructure](https://jobicy.com/jobs/163568-field-cto-media-entertainment-ai-infrastructure)
-  - Company: Nebius
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
 - [Forward Deployed Engineer, Physical AI Infrastructure](https://jobicy.com/jobs/163601-forward-deployed-engineer-physical-ai-infrastructure-2)
   - Company: Nebius
   - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
-- [IT Department Lead - Remote, Worldwide](https://jobicy.com/jobs/162315-it-department-lead-remote-worldwide)
-  - Company: Nethermind
-  - Location: Anywhere
   - Level/Team: DevOps & Infrastructure
 
 - [Senior Platform Engineer - US Remote](https://jobicy.com/jobs/156231-senior-platform-engineer-us-remote)
@@ -363,19 +319,14 @@ Total new jobs: 102
   - Location: Anywhere
   - Level/Team: DevOps & Infrastructure
 
-- [Platform Engineer, Managed Postgres](https://jobicy.com/jobs/155389-platform-engineer-managed-postgres)
-  - Company: Supabase
-  - Location: Anywhere
+- [Linux Systems Administrator](https://jobicy.com/jobs/156341-linux-systems-administrator)
+  - Company: Vultr
+  - Location: USA
   - Level/Team: DevOps & Infrastructure
 
-- [Postgres Deployment Engineer (Nix)](https://jobicy.com/jobs/153446-postgres-deployment-engineer-nix)
-  - Company: Supabase
-  - Location: Anywhere
-  - Level/Team: DevOps & Infrastructure
-
-- [Site Reliability Engineer](https://jobicy.com/jobs/155391-site-reliability-engineer-4)
-  - Company: Supabase
-  - Location: Anywhere
+- [Senior Linux System Administrator](https://jobicy.com/jobs/156326-senior-linux-system-administrator)
+  - Company: Vultr
+  - Location: USA
   - Level/Team: DevOps & Infrastructure
 
 ## lever
@@ -387,8 +338,16 @@ Total new jobs: 102
 
 ## remoteok
 
+- [Sr Analyst, Analytics & Insights](https://remoteOK.com/remote-jobs/remote-sr-analyst-analytics-insights-beyondtrust-1137962)
+  - Company: BeyondTrust
+  - Location: North America
+
 - [Sr Sales Ops Analyst](https://remoteOK.com/remote-jobs/remote-sr-sales-ops-analyst-beyondtrust-1137902)
   - Company: BeyondTrust
+  - Location: US Only
+
+- [Associate Counsel, Vendor and Provider Contracting](https://remoteOK.com/remote-jobs/remote-associate-counsel-vendor-and-provider-contracting-clover-health-1137933)
+  - Company: Clover Health
   - Location: US Only
 
 - [Senior Atlassian Cloud Admininstrator](https://remoteOK.com/remote-jobs/remote-senior-atlassian-cloud-admininstrator-dropbox-1137860)
@@ -399,27 +358,15 @@ Total new jobs: 102
   - Company: LaunchDarkly
   - Location: US Only
 
-- [Senior DevOps Engineer](https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557)
-  - Company: Lemon.io
-  - Location: Worldwide
-
-- [Cloud Engineer Automation](https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600)
-  - Company: Smile Digital Health
-  - Location: Toronto, Ontario
+- [Lead, Office of Software Assurance](https://remoteOK.com/remote-jobs/remote-lead-office-of-software-assurance-natera-1137940)
+  - Company: Natera
+  - Location: US Only
 
 - [PreSales Solutions Engineer](https://remoteOK.com/remote-jobs/remote-presales-solutions-engineer-sumo-logic-1137877)
   - Company: Sumo Logic
   - Location: US Only
 
-- [SEO Full Stack Engineer](https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805)
-  - Company: Treatwell
-  - Location: Worldwide
-
 ## weworkremotely
-
-- [QA/DevOps Engineer](https://weworkremotely.com/remote-jobs/discord-qa-devops-engineer)
-  - Company: Discord
-  - Location: Remote
 
 - [Full-Stack Platform Engineer](https://weworkremotely.com/remote-jobs/edgewater-federal-solutions-inc-full-stack-platform-engineer)
   - Company: Edgewater Federal Solutions, Inc.
@@ -442,5 +389,13 @@ Total new jobs: 102
   - Location: Remote
 
 - [Senior QA Automation Engineer (HELOC)](https://weworkremotely.com/remote-jobs/upgrade-senior-qa-automation-engineer-heloc)
+  - Company: Upgrade
+  - Location: Remote
+
+- [Senior QA Automation Engineer (Platform)](https://weworkremotely.com/remote-jobs/upgrade-senior-qa-automation-engineer-platform)
+  - Company: Upgrade
+  - Location: Remote
+
+- [Senior QA Automation Engineer - HELOC (LATAM)](https://weworkremotely.com/remote-jobs/upgrade-senior-qa-automation-engineer-heloc-latam)
   - Company: Upgrade
   - Location: Remote
