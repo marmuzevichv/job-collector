@@ -1,560 +1,572 @@
 {
+  "remoteok::1137975": {
+    "company": "Reddit",
+    "title": "Senior SRE, Site Experience",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-sre-site-experience-reddit-1137975",
+    "first_seen_utc": "2026-11-23 23:23:51"
+  },
+  "remoteok::1137970": {
+    "company": "Natera",
+    "title": "Sr. Forward Deployed Data Engineer",
+    "url": "https://remoteOK.com/remote-jobs/remote-sr-forward-deployed-data-engineer-natera-1137970",
+    "first_seen_utc": "2026-11-23 23:23:51"
+  },
   "remoteok::1137962": {
     "company": "BeyondTrust",
     "title": "Sr Analyst, Analytics & Insights",
     "url": "https://remoteOK.com/remote-jobs/remote-sr-analyst-analytics-insights-beyondtrust-1137962",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "remoteok::1137940": {
     "company": "Natera",
     "title": "Lead, Office of Software Assurance",
     "url": "https://remoteOK.com/remote-jobs/remote-lead-office-of-software-assurance-natera-1137940",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "remoteok::1137933": {
     "company": "Clover Health",
     "title": "Associate Counsel, Vendor and Provider Contracting",
     "url": "https://remoteOK.com/remote-jobs/remote-associate-counsel-vendor-and-provider-contracting-clover-health-1137933",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "remoteok::1137902": {
     "company": "BeyondTrust",
     "title": "Sr Sales Ops Analyst",
     "url": "https://remoteOK.com/remote-jobs/remote-sr-sales-ops-analyst-beyondtrust-1137902",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "remoteok::1137898": {
     "company": "LaunchDarkly",
     "title": "Security Analyst - Governance, Risk, and Compliance",
     "url": "https://remoteOK.com/remote-jobs/remote-security-analyst-governance-risk-and-compliance-launchdarkly-1137898",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "remoteok::1137877": {
     "company": "Sumo Logic",
     "title": "PreSales Solutions Engineer",
     "url": "https://remoteOK.com/remote-jobs/remote-presales-solutions-engineer-sumo-logic-1137877",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
-  "remoteok::1137860": {
-    "company": "Dropbox",
-    "title": "Senior Atlassian Cloud Admininstrator",
-    "url": "https://remoteOK.com/remote-jobs/remote-senior-atlassian-cloud-admininstrator-dropbox-1137860",
-    "first_seen_utc": "2026-11-22 19:02:43"
+  "wwr::https://weworkremotely.com/remote-jobs/gusto-inc-site-reliability-engineer": {
+    "company": "Gusto, Inc.",
+    "title": "Site Reliability Engineer",
+    "url": "https://weworkremotely.com/remote-jobs/gusto-inc-site-reliability-engineer",
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "wwr::https://weworkremotely.com/remote-jobs/upgrade-senior-qa-automation-engineer-platform": {
     "company": "Upgrade",
     "title": "Senior QA Automation Engineer (Platform)",
     "url": "https://weworkremotely.com/remote-jobs/upgrade-senior-qa-automation-engineer-platform",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "wwr::https://weworkremotely.com/remote-jobs/upgrade-senior-qa-automation-engineer-heloc-latam": {
     "company": "Upgrade",
     "title": "Senior QA Automation Engineer - HELOC (LATAM)",
     "url": "https://weworkremotely.com/remote-jobs/upgrade-senior-qa-automation-engineer-heloc-latam",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "wwr::https://weworkremotely.com/remote-jobs/gemini-senior-platform-engineer": {
     "company": "Gemini",
     "title": "Senior Platform Engineer",
     "url": "https://weworkremotely.com/remote-jobs/gemini-senior-platform-engineer",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "wwr::https://weworkremotely.com/remote-jobs/upgrade-senior-qa-automation-engineer-heloc": {
     "company": "Upgrade",
     "title": "Senior QA Automation Engineer (HELOC)",
     "url": "https://weworkremotely.com/remote-jobs/upgrade-senior-qa-automation-engineer-heloc",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "wwr::https://weworkremotely.com/remote-jobs/prove-site-reliability-engineer-sr-site-reliability-engineer": {
     "company": "Prove",
     "title": "Site Reliability Engineer, Sr. Site Reliability Engineer",
     "url": "https://weworkremotely.com/remote-jobs/prove-site-reliability-engineer-sr-site-reliability-engineer",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "wwr::https://weworkremotely.com/remote-jobs/knack-cloud-engineer-1": {
     "company": "Knack",
     "title": "Cloud Engineer",
     "url": "https://weworkremotely.com/remote-jobs/knack-cloud-engineer-1",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "wwr::https://weworkremotely.com/remote-jobs/edgewater-federal-solutions-inc-full-stack-platform-engineer": {
     "company": "Edgewater Federal Solutions, Inc.",
     "title": "Full-Stack Platform Engineer",
     "url": "https://weworkremotely.com/remote-jobs/edgewater-federal-solutions-inc-full-stack-platform-engineer",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "wwr::https://weworkremotely.com/remote-jobs/halcyon-senior-backend-cloud-engineer": {
     "company": "Halcyon",
     "title": "Senior Backend Cloud Engineer",
     "url": "https://weworkremotely.com/remote-jobs/halcyon-senior-backend-cloud-engineer",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
+  },
+  "jobicy::163973": {
+    "company": "Cologix, Inc.",
+    "title": "IT Systems DevOps Engineer",
+    "url": "https://jobicy.com/jobs/163973-it-systems-devops-engineer-2",
+    "first_seen_utc": "2026-11-23 23:23:51"
+  },
+  "jobicy::163925": {
+    "company": "Makai Labs",
+    "title": "Senior Azure Platform / DevOps Engineer",
+    "url": "https://jobicy.com/jobs/163925-senior-azure-platform-devops-engineer",
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "jobicy::156285": {
     "company": "ClickUp",
     "title": "GTM DevOps Engineer",
     "url": "https://jobicy.com/jobs/156285-gtm-devops-engineer",
-    "first_seen_utc": "2026-11-22 19:02:43"
-  },
-  "jobicy::153756": {
-    "company": "Fastly",
-    "title": "Senior SRE - Networks",
-    "url": "https://jobicy.com/jobs/153756-senior-sre-networks",
-    "first_seen_utc": "2026-11-22 19:02:43"
-  },
-  "jobicy::163601": {
-    "company": "Nebius",
-    "title": "Forward Deployed Engineer, Physical AI Infrastructure",
-    "url": "https://jobicy.com/jobs/163601-forward-deployed-engineer-physical-ai-infrastructure-2",
-    "first_seen_utc": "2026-11-22 19:02:43"
-  },
-  "jobicy::153599": {
-    "company": "Bayesian Health",
-    "title": "Infrastructure Engineer",
-    "url": "https://jobicy.com/jobs/153599-infrastructure-engineer-3",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "jobicy::155923": {
     "company": "Discord",
     "title": "QA/DevOps Engineer",
     "url": "https://jobicy.com/jobs/155923-qa-devops-engineer",
-    "first_seen_utc": "2026-11-22 19:02:43"
-  },
-  "jobicy::146254": {
-    "company": "Softgic",
-    "title": "Atlassian Administrator 1726",
-    "url": "https://jobicy.com/jobs/146254-atlassian-administrator-1726",
-    "first_seen_utc": "2026-11-22 19:02:43"
-  },
-  "jobicy::155629": {
-    "company": "Kong Inc.",
-    "title": "Senior SRE, Managed Gateways",
-    "url": "https://jobicy.com/jobs/155629-senior-sre-managed-gateways",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "jobicy::153466": {
     "company": "Five9",
     "title": "Senior DevOps Engineer - Storage Platforms",
     "url": "https://jobicy.com/jobs/153466-senior-devops-engineer-storage-platforms",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
-  "jobicy::156214": {
-    "company": "Carrot",
-    "title": "Sr. IT Systems Engineer",
-    "url": "https://jobicy.com/jobs/156214-sr-it-systems-engineer-2",
-    "first_seen_utc": "2026-11-22 19:02:43"
+  "jobicy::155574": {
+    "company": "dscout",
+    "title": "Senior DevOps Engineer",
+    "url": "https://jobicy.com/jobs/155574-senior-devops-engineer-10",
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
-  "jobicy::156187": {
-    "company": "Astronomer",
-    "title": "Senior Software Engineer, Platform",
-    "url": "https://jobicy.com/jobs/156187-senior-software-engineer-platform-3",
-    "first_seen_utc": "2026-11-22 19:02:43"
+  "jobicy::153756": {
+    "company": "Fastly",
+    "title": "Senior SRE - Networks",
+    "url": "https://jobicy.com/jobs/153756-senior-sre-networks",
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
-  "jobicy::156326": {
-    "company": "Vultr",
-    "title": "Senior Linux System Administrator",
-    "url": "https://jobicy.com/jobs/156326-senior-linux-system-administrator",
-    "first_seen_utc": "2026-11-22 19:02:43"
+  "jobicy::155629": {
+    "company": "Kong Inc.",
+    "title": "Senior SRE, Managed Gateways",
+    "url": "https://jobicy.com/jobs/155629-senior-sre-managed-gateways",
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
-  "jobicy::156231": {
-    "company": "PerfectServe",
-    "title": "Senior Platform Engineer - US Remote",
-    "url": "https://jobicy.com/jobs/156231-senior-platform-engineer-us-remote",
-    "first_seen_utc": "2026-11-22 19:02:43"
+  "jobicy::163175": {
+    "company": "EDB",
+    "title": "Platform Engineer-Kubernetes Operators",
+    "url": "https://jobicy.com/jobs/163175-platform-engineer-kubernetes-operators",
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
-  "jobicy::156341": {
-    "company": "Vultr",
-    "title": "Linux Systems Administrator",
-    "url": "https://jobicy.com/jobs/156341-linux-systems-administrator",
-    "first_seen_utc": "2026-11-22 19:02:43"
+  "jobicy::156483": {
+    "company": "Thumbtack",
+    "title": "Software Engineer, AI/ML Infrastructure (US-Based)",
+    "url": "https://jobicy.com/jobs/156483-software-engineer-ai-ml-infrastructure-us-based",
+    "first_seen_utc": "2026-11-23 23:23:51"
+  },
+  "jobicy::163601": {
+    "company": "Nebius",
+    "title": "Forward Deployed Engineer, Physical AI Infrastructure",
+    "url": "https://jobicy.com/jobs/163601-forward-deployed-engineer-physical-ai-infrastructure-2",
+    "first_seen_utc": "2026-11-23 23:23:51"
+  },
+  "jobicy::163568": {
+    "company": "Nebius",
+    "title": "Field CTO, Media & Entertainment AI Infrastructure",
+    "url": "https://jobicy.com/jobs/163568-field-cto-media-entertainment-ai-infrastructure",
+    "first_seen_utc": "2026-11-23 23:23:51"
+  },
+  "jobicy::163396": {
+    "company": "Dropbox",
+    "title": "Infrastructure Software Engineer",
+    "url": "https://jobicy.com/jobs/163396-infrastructure-software-engineer-3",
+    "first_seen_utc": "2026-11-23 23:23:51"
+  },
+  "jobicy::153599": {
+    "company": "Bayesian Health",
+    "title": "Infrastructure Engineer",
+    "url": "https://jobicy.com/jobs/153599-infrastructure-engineer-3",
+    "first_seen_utc": "2026-11-23 23:23:51"
+  },
+  "jobicy::156583": {
+    "company": "Supabase",
+    "title": "Cloud Platform Engineer",
+    "url": "https://jobicy.com/jobs/156583-cloud-platform-engineer",
+    "first_seen_utc": "2026-11-23 23:23:51"
+  },
+  "jobicy::163403": {
+    "company": "Dropbox",
+    "title": "Senior Atlassian Cloud Engineer",
+    "url": "https://jobicy.com/jobs/163403-senior-atlassian-cloud-engineer",
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "lever::1b702919-4d0b-4085-baec-8947f9b7e4ee": {
     "company": "metabase",
     "title": "Senior SRE/DevOps Engineer",
     "url": "https://jobs.lever.co/metabase/1b702919-4d0b-4085-baec-8947f9b7e4ee",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::8207939": {
     "company": "elastic",
     "title": "Sr. Salesforce DevOps Engineer",
     "url": "https://jobs.elastic.co/jobs?gh_jid=8207939&gh_jid=8207939",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::7617976": {
     "company": "okta",
     "title": "Senior Database Reliability Engineer (DBRE)",
     "url": "https://www.okta.com/company/careers/opportunity/7617976?gh_jid=7617976",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::8286405": {
     "company": "okta",
     "title": "Senior Platform Engineer (Auth0)",
     "url": "https://www.okta.com/company/careers/opportunity/8286405?gh_jid=8286405",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::7963271": {
     "company": "okta",
     "title": "Senior Site Reliability Engineer",
     "url": "https://www.okta.com/company/careers/opportunity/7963271?gh_jid=7963271",
-    "first_seen_utc": "2026-11-22 19:02:43"
-  },
-  "greenhouse::8242984": {
-    "company": "okta",
-    "title": "Senior Site Reliability Engineer",
-    "url": "https://www.okta.com/company/careers/opportunity/8242984?gh_jid=8242984",
-    "first_seen_utc": "2026-11-22 19:02:43"
-  },
-  "greenhouse::8260950": {
-    "company": "okta",
-    "title": "Senior Site Reliability Engineer",
-    "url": "https://www.okta.com/company/careers/opportunity/8260950?gh_jid=8260950",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::8184826": {
     "company": "okta",
     "title": "Senior Site Reliability Engineer",
     "url": "https://www.okta.com/company/careers/opportunity/8184826?gh_jid=8184826",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
+  },
+  "greenhouse::8242984": {
+    "company": "okta",
+    "title": "Senior Site Reliability Engineer",
+    "url": "https://www.okta.com/company/careers/opportunity/8242984?gh_jid=8242984",
+    "first_seen_utc": "2026-11-23 23:23:51"
+  },
+  "greenhouse::8260950": {
+    "company": "okta",
+    "title": "Senior Site Reliability Engineer",
+    "url": "https://www.okta.com/company/careers/opportunity/8260950?gh_jid=8260950",
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::7418982": {
     "company": "okta",
     "title": "Senior Site Reliability Engineer (Auth0)",
     "url": "https://www.okta.com/company/careers/opportunity/7418982?gh_jid=7418982",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::8268917": {
     "company": "okta",
     "title": "Senior Site Reliability Engineer  - EPG",
     "url": "https://www.okta.com/company/careers/opportunity/8268917?gh_jid=8268917",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::8255904": {
     "company": "okta",
     "title": "Senior Site Reliability Engineer (K8s, Terraform, Python)",
     "url": "https://www.okta.com/company/careers/opportunity/8255904?gh_jid=8255904",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::8237695": {
     "company": "okta",
     "title": "Senior Software Engineer, Developer Experience (CI/CD & Release Engineering)",
     "url": "https://www.okta.com/company/careers/opportunity/8237695?gh_jid=8237695",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::8263916": {
     "company": "okta",
     "title": "Senior Software Engineer - SRE",
     "url": "https://www.okta.com/company/careers/opportunity/8263916?gh_jid=8263916",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::8161018": {
     "company": "rubrik",
     "title": "Database Reliability Engineer/Database Engineer (Rubrik Security Cloud Platform)",
     "url": "https://www.rubrik.com/company/careers/departments/job.8161018?gh_jid=8161018",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::8209928": {
     "company": "rubrik",
     "title": "Senior Software Engineer - Backend & Cloud Infrastructure",
     "url": "https://www.rubrik.com/company/careers/departments/job.8209928?gh_jid=8209928",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::8889193002": {
     "company": "gitlab",
     "title": "Cloud Platform Engineer",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8889193002",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::8730125002": {
     "company": "gitlab",
     "title": "Release Engineer, Salesforce",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8730125002",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::8689243002": {
     "company": "gitlab",
     "title": "Senior Backend Engineer, Core DevOps",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8689243002",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::8687958002": {
     "company": "gitlab",
     "title": "Senior Backend Engineer, Core DevOps: Artifact Central",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8687958002",
-    "first_seen_utc": "2026-11-22 19:02:43"
-  },
-  "greenhouse::8957066002": {
-    "company": "gitlab",
-    "title": "Senior CX Platform Engineer",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8957066002",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::8871406002": {
     "company": "gitlab",
     "title": "Senior CX Platform Engineer",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8871406002",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
+  },
+  "greenhouse::8957066002": {
+    "company": "gitlab",
+    "title": "Senior CX Platform Engineer",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8957066002",
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::8623389002": {
     "company": "gitlab",
     "title": "Site Reliability Engineer, Infrastructure Platforms — AMER (Intermediate to Senior Staff)",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8623389002",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::8773546002": {
     "company": "gitlab",
     "title": "Site Reliability Engineer, Infrastructure Platforms — UK (Intermediate to Senior Staff)",
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8773546002",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::8301586": {
     "company": "fastly",
     "title": "Global AV Events and Production Engineer",
     "url": "https://www.fastly.com/about/jobs/apply?gh_jid=8301586",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::8045052": {
     "company": "fastly",
     "title": "Senior SRE - Networks",
     "url": "https://www.fastly.com/about/jobs/apply?gh_jid=8045052",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::8317751": {
     "company": "cloudflare",
     "title": "Customer Reliability Engineer",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8317751?gh_jid=8317751",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::8018536": {
     "company": "cloudflare",
     "title": "Senior Customer Reliability Engineer",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8018536?gh_jid=8018536",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::8331153": {
     "company": "cloudflare",
     "title": "Senior Customer Reliability Engineer",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8331153?gh_jid=8331153",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::8256332": {
     "company": "cloudflare",
     "title": "Senior Forward Deployed Infrastructure Engineer",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8256332?gh_jid=8256332",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::7629805": {
     "company": "cloudflare",
     "title": "Senior Infrastructure Engineer, Storage Platform",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/7629805?gh_jid=7629805",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::8406944": {
     "company": "cloudflare",
     "title": "Senior Platform Engineer, Replicate",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8406944?gh_jid=8406944",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::8324908": {
     "company": "cloudflare",
     "title": "Systems Reliability Engineer - Core",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8324908?gh_jid=8324908",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::5481206008": {
     "company": "newrelic",
     "title": "Associate IT infrastructure Engineer",
     "url": "https://job-boards.greenhouse.io/newrelic/jobs/5481206008",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::8184637": {
     "company": "mongodb",
     "title": "Cloud Operations Engineer",
     "url": "https://www.mongodb.com/careers/job/?gh_jid=8184637",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::8071475": {
     "company": "mongodb",
     "title": "Senior Platform Engineer",
     "url": "https://www.mongodb.com/careers/job/?gh_jid=8071475",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::8366599": {
     "company": "mongodb",
     "title": "Senior Site Reliability Engineer, Agent Engine",
     "url": "https://www.mongodb.com/careers/job/?gh_jid=8366599",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::8278897": {
     "company": "mongodb",
     "title": "Senior Site Reliability Engineer, InfraSec",
     "url": "https://www.mongodb.com/careers/job/?gh_jid=8278897",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::7668289": {
     "company": "mongodb",
     "title": "Senior Site Reliability Engineer, Infrastructure Security",
     "url": "https://www.mongodb.com/careers/job/?gh_jid=7668289",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::8274765": {
     "company": "mongodb",
     "title": "Senior Software Engineer (SRE), Infrastructure Security",
     "url": "https://www.mongodb.com/careers/job/?gh_jid=8274765",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::7821316": {
     "company": "mongodb",
     "title": "Site Reliability Engineer 3",
     "url": "https://www.mongodb.com/careers/job/?gh_jid=7821316",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::7727964": {
     "company": "mongodb",
     "title": "Site Reliability Engineer (Senior or Staff), Atlas",
     "url": "https://www.mongodb.com/careers/job/?gh_jid=7727964",
-    "first_seen_utc": "2026-11-22 19:02:43"
-  },
-  "greenhouse::7743366": {
-    "company": "mongodb",
-    "title": "Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=7743366",
-    "first_seen_utc": "2026-11-22 19:02:43"
-  },
-  "greenhouse::7793634": {
-    "company": "mongodb",
-    "title": "Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=7793634",
-    "first_seen_utc": "2026-11-22 19:02:43"
-  },
-  "greenhouse::6984814": {
-    "company": "mongodb",
-    "title": "Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=6984814",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::8044038003": {
     "company": "fivetran",
     "title": "Senior Site Reliability Engineer",
     "url": "https://www.fivetran.com/careers/job?gh_jid=8044038003",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::5416975008": {
     "company": "starburst",
     "title": "AI Platform Engineer",
     "url": "https://job-boards.greenhouse.io/starburst/jobs/5416975008",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::5392856008": {
     "company": "anthropic",
     "title": "DevOps / AgentOps Engineer, GTM Systems",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392856008",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::5456018008": {
     "company": "anthropic",
     "title": "IT Systems Engineer, Client Platform Engineer, ChromeOS",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456018008",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::5445625008": {
     "company": "anthropic",
     "title": "IT Systems Engineer, Client Platform Engineer, macOS",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5445625008",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::5396384008": {
     "company": "anthropic",
     "title": "IT Systems Engineer, Mobile Client Platform Engineer",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5396384008",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::5364804008": {
     "company": "anthropic",
     "title": "Machine Learning Infrastructure Engineer, Safeguards Research",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5364804008",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::4973067008": {
     "company": "anthropic",
     "title": "Pre-training Data Infrastructure Engineer",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/4973067008",
-    "first_seen_utc": "2026-11-22 19:02:43"
-  },
-  "greenhouse::8328520": {
-    "company": "dropbox",
-    "title": "Senior Atlassian Cloud Engineer",
-    "url": "https://jobs.dropbox.com/listing/8328520?gh_jid=8328520",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::8328519": {
     "company": "dropbox",
-    "title": "Senior Atlassian Cloud Engineer",
+    "title": "Senior Atlassian Cloud Engineer, Jira Service Management",
     "url": "https://jobs.dropbox.com/listing/8328519?gh_jid=8328519",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
-  "greenhouse::8356942": {
+  "greenhouse::8328520": {
     "company": "dropbox",
-    "title": "Senior Client Platform Engineer, Endpoint Platform & Automation",
-    "url": "https://jobs.dropbox.com/listing/8356942?gh_jid=8356942",
-    "first_seen_utc": "2026-11-22 19:02:43"
-  },
-  "greenhouse::8356939": {
-    "company": "dropbox",
-    "title": "Senior Client Platform Engineer, Endpoint Platform & Automation",
-    "url": "https://jobs.dropbox.com/listing/8356939?gh_jid=8356939",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "title": "Senior Atlassian Cloud Engineer, Jira Service Management",
+    "url": "https://jobs.dropbox.com/listing/8328520?gh_jid=8328520",
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::8356941": {
     "company": "dropbox",
     "title": "Senior Client Platform Engineer, Endpoint Platform & Automation",
     "url": "https://jobs.dropbox.com/listing/8356941?gh_jid=8356941",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
+  },
+  "greenhouse::8356939": {
+    "company": "dropbox",
+    "title": "Senior Client Platform Engineer, Endpoint Platform & Automation",
+    "url": "https://jobs.dropbox.com/listing/8356939?gh_jid=8356939",
+    "first_seen_utc": "2026-11-23 23:23:51"
+  },
+  "greenhouse::8356942": {
+    "company": "dropbox",
+    "title": "Senior Client Platform Engineer, Endpoint Platform & Automation",
+    "url": "https://jobs.dropbox.com/listing/8356942?gh_jid=8356942",
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::8280094": {
     "company": "dropbox",
     "title": "Senior Corporate Enterprise Platform Engineer, Windows",
     "url": "https://jobs.dropbox.com/listing/8280094?gh_jid=8280094",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::8280093": {
     "company": "dropbox",
     "title": "Senior Corporate Enterprise Platform Engineer, Windows",
     "url": "https://jobs.dropbox.com/listing/8280093?gh_jid=8280093",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::7334725": {
     "company": "canonical",
     "title": "Kernel Build Automation Engineer - Ubuntu Linux",
     "url": "https://job-boards.greenhouse.io/canonical/jobs/7334725",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::6177790": {
     "company": "canonical",
     "title": "MAAS Data Center Infrastructure Engineer (Toronto area)",
     "url": "https://job-boards.greenhouse.io/canonical/jobs/6177790",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::3029798": {
     "company": "canonical",
     "title": "Senior Site Reliability Engineer",
     "url": "https://job-boards.greenhouse.io/canonical/jobs/3029798",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::5517891": {
     "company": "canonical",
     "title": "Senior Site Reliability / Gitops Engineer",
     "url": "https://job-boards.greenhouse.io/canonical/jobs/5517891",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::4468036": {
     "company": "canonical",
     "title": "Site Reliability Engineer",
     "url": "https://job-boards.greenhouse.io/canonical/jobs/4468036",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   },
   "greenhouse::1747487": {
     "company": "canonical",
     "title": "Site Reliability / Gitops Engineer",
     "url": "https://job-boards.greenhouse.io/canonical/jobs/1747487",
-    "first_seen_utc": "2026-11-22 19:02:43"
+    "first_seen_utc": "2026-11-23 23:23:51"
   }
 }
