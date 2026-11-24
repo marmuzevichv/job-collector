@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-11-23 23:24 UTC
+Generated: 2026-11-24 21:56 UTC
 
-Total new jobs: 95
+Total new jobs: 106
 
 ## greenhouse
 
@@ -230,6 +230,10 @@ Total new jobs: 95
   - Company: okta
   - Location: Remote
 
+- [Senior Site Reliability Engineer - Kubernetes & AWS](https://www.okta.com/company/careers/opportunity/8255907?gh_jid=8255907)
+  - Company: okta
+  - Location: Remote
+
 - [Senior Software Engineer - SRE](https://www.okta.com/company/careers/opportunity/8263916?gh_jid=8263916)
   - Company: okta
   - Location: Remote
@@ -252,8 +256,23 @@ Total new jobs: 95
 
 ## jobicy
 
+- [Senior Software Engineer, Platform](https://jobicy.com/jobs/156187-senior-software-engineer-platform-3)
+  - Company: Astronomer
+  - Location: Ireland
+  - Level/Team: DevOps & Infrastructure
+
 - [Infrastructure Engineer](https://jobicy.com/jobs/153599-infrastructure-engineer-3)
   - Company: Bayesian Health
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Sr. IT Systems Engineer](https://jobicy.com/jobs/156214-sr-it-systems-engineer-2)
+  - Company: Carrot
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [IT Lead](https://jobicy.com/jobs/156646-it-lead)
+  - Company: ClassDojo
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
@@ -292,6 +311,11 @@ Total new jobs: 95
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
+- [IT Engineer](https://jobicy.com/jobs/155006-it-engineer-2)
+  - Company: Elevenlabs
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
 - [Senior SRE - Networks](https://jobicy.com/jobs/153756-senior-sre-networks)
   - Company: Fastly
   - Location: UK
@@ -299,6 +323,16 @@ Total new jobs: 95
 
 - [Senior DevOps Engineer - Storage Platforms](https://jobicy.com/jobs/153466-senior-devops-engineer-storage-platforms)
   - Company: Five9
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Senior Site Reliability Engineer II](https://jobicy.com/jobs/156598-senior-site-reliability-engineer-ii)
+  - Company: Juniper Square
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [IT Systems Administrator](https://jobicy.com/jobs/164115-it-systems-administrator)
+  - Company: Kairos Power
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
@@ -322,7 +356,22 @@ Total new jobs: 95
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
+- [DevOps Engineer](https://jobicy.com/jobs/164108-devops-engineer-8)
+  - Company: Oddball
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Senior Platform Engineer - US Remote](https://jobicy.com/jobs/156231-senior-platform-engineer-us-remote)
+  - Company: PerfectServe
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
 - [Cloud Platform Engineer](https://jobicy.com/jobs/156583-cloud-platform-engineer)
+  - Company: Supabase
+  - Location: Anywhere
+  - Level/Team: DevOps & Infrastructure
+
+- [Release Engineer](https://jobicy.com/jobs/156579-release-engineer)
   - Company: Supabase
   - Location: Anywhere
   - Level/Team: DevOps & Infrastructure
@@ -330,6 +379,11 @@ Total new jobs: 95
 - [Software Engineer, AI/ML Infrastructure (US-Based)](https://jobicy.com/jobs/156483-software-engineer-ai-ml-infrastructure-us-based)
   - Company: Thumbtack
   - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Sr. Engineer, Database Reliability](https://jobicy.com/jobs/156564-sr-engineer-database-reliability)
+  - Company: Zapier
+  - Location: EMEA,  Canada,  USA
   - Level/Team: DevOps & Infrastructure
 
 ## lever

@@ -568,5 +568,71 @@
     "title": "Site Reliability / Gitops Engineer",
     "url": "https://job-boards.greenhouse.io/canonical/jobs/1747487",
     "first_seen_utc": "2026-11-23 23:23:51"
+  },
+  "jobicy::164108": {
+    "company": "Oddball",
+    "title": "DevOps Engineer",
+    "url": "https://jobicy.com/jobs/164108-devops-engineer-8",
+    "first_seen_utc": "2026-11-24 21:55:27"
+  },
+  "jobicy::156598": {
+    "company": "Juniper Square",
+    "title": "Senior Site Reliability Engineer II",
+    "url": "https://jobicy.com/jobs/156598-senior-site-reliability-engineer-ii",
+    "first_seen_utc": "2026-11-24 21:55:27"
+  },
+  "jobicy::155006": {
+    "company": "Elevenlabs",
+    "title": "IT Engineer",
+    "url": "https://jobicy.com/jobs/155006-it-engineer-2",
+    "first_seen_utc": "2026-11-24 21:55:27"
+  },
+  "jobicy::156579": {
+    "company": "Supabase",
+    "title": "Release Engineer",
+    "url": "https://jobicy.com/jobs/156579-release-engineer",
+    "first_seen_utc": "2026-11-24 21:55:27"
+  },
+  "jobicy::156214": {
+    "company": "Carrot",
+    "title": "Sr. IT Systems Engineer",
+    "url": "https://jobicy.com/jobs/156214-sr-it-systems-engineer-2",
+    "first_seen_utc": "2026-11-24 21:55:27"
+  },
+  "jobicy::156187": {
+    "company": "Astronomer",
+    "title": "Senior Software Engineer, Platform",
+    "url": "https://jobicy.com/jobs/156187-senior-software-engineer-platform-3",
+    "first_seen_utc": "2026-11-24 21:55:27"
+  },
+  "jobicy::156564": {
+    "company": "Zapier",
+    "title": "Sr. Engineer, Database Reliability",
+    "url": "https://jobicy.com/jobs/156564-sr-engineer-database-reliability",
+    "first_seen_utc": "2026-11-24 21:55:27"
+  },
+  "jobicy::164115": {
+    "company": "Kairos Power",
+    "title": "IT Systems Administrator",
+    "url": "https://jobicy.com/jobs/164115-it-systems-administrator",
+    "first_seen_utc": "2026-11-24 21:55:27"
+  },
+  "jobicy::156646": {
+    "company": "ClassDojo",
+    "title": "IT Lead",
+    "url": "https://jobicy.com/jobs/156646-it-lead",
+    "first_seen_utc": "2026-11-24 21:55:27"
+  },
+  "jobicy::156231": {
+    "company": "PerfectServe",
+    "title": "Senior Platform Engineer - US Remote",
+    "url": "https://jobicy.com/jobs/156231-senior-platform-engineer-us-remote",
+    "first_seen_utc": "2026-11-24 21:55:27"
+  },
+  "greenhouse::8255907": {
+    "company": "okta",
+    "title": "Senior Site Reliability Engineer - Kubernetes & AWS",
+    "url": "https://www.okta.com/company/careers/opportunity/8255907?gh_jid=8255907",
+    "first_seen_utc": "2026-11-24 21:55:27"
   }
 }

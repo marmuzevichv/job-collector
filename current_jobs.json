@@ -79,6 +79,21 @@
   },
   {
     "source_type": "jobicy",
+    "company": "Astronomer",
+    "title": "Senior Software Engineer, Platform",
+    "location": "Ireland",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/156187-senior-software-engineer-platform-3",
+    "external_id": "jobicy::156187",
+    "description_snippet": "Astronomer empowers data teams to bring mission-critical software, analytics, and AI to life and is the company behind Astro, the industry-leading unified DataOps platform powered by Apache Airflow®. Astro accelerates building reliable data products that unlock insights, unleash AI value, and powers",
+    "posted_at": "2026-11-21T03:15:08+00:00",
+    "collected_at_utc": "2026-11-24 21:55:27"
+  },
+  {
+    "source_type": "jobicy",
     "company": "Bayesian Health",
     "title": "Infrastructure Engineer",
     "location": "USA",
@@ -199,6 +214,36 @@
     "description_snippet": "",
     "posted_at": "2026-08-05T18:23:33-04:00",
     "collected_at_utc": "2026-11-23 23:23:51"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Carrot",
+    "title": "Sr. IT Systems Engineer",
+    "location": "USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/156214-sr-it-systems-engineer-2",
+    "external_id": "jobicy::156214",
+    "description_snippet": "About Carrot: Carrot is the leading global fertility and family care platform, built on intelligent care orchestration: the right clinical guidance, at the right moment, in the context of each member’s life. More than a thousand multinational employers, health plans, and health systems trust Carrot ",
+    "posted_at": "2026-11-21T03:25:09+00:00",
+    "collected_at_utc": "2026-11-24 21:55:27"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "ClassDojo",
+    "title": "IT Lead",
+    "location": "USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/156646-it-lead",
+    "external_id": "jobicy::156646",
+    "description_snippet": "ClassDojo's goal is to give every child on Earth an education they love. We started by building a powerful network for communication. ClassDojo’s flagship app is the #1 communication app connecting K-12 teachers, children, and families globally. Teachers use it to share what’s happening throughout t",
+    "posted_at": "2026-11-23T03:45:16+00:00",
+    "collected_at_utc": "2026-11-24 21:55:27"
   },
   {
     "source_type": "jobicy",
@@ -529,6 +574,21 @@
     "collected_at_utc": "2026-11-23 23:23:51"
   },
   {
+    "source_type": "jobicy",
+    "company": "Elevenlabs",
+    "title": "IT Engineer",
+    "location": "USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/155006-it-engineer-2",
+    "external_id": "jobicy::155006",
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_at": "2026-11-23T03:30:41+00:00",
+    "collected_at_utc": "2026-11-24 21:55:27"
+  },
+  {
     "source_type": "greenhouse",
     "company": "fastly",
     "title": "Global AV Events and Production Engineer",
@@ -739,6 +799,36 @@
     "description_snippet": "Headquarters: United States URL: http://www.halcyon.ai What we do: Halcyon is the industry’s first dedicated, adaptive security platform that combines multiple proprietary advanced prevention engines along with AI models focused specifically on stopping ransomware. Who we are: Halcyon was formed in ",
     "posted_at": "Mon, 09 Nov 2026 01:53:23 +0000",
     "collected_at_utc": "2026-11-23 23:23:51"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Juniper Square",
+    "title": "Senior Site Reliability Engineer II",
+    "location": "USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/156598-senior-site-reliability-engineer-ii",
+    "external_id": "jobicy::156598",
+    "description_snippet": "About Juniper Square Private markets are one of the largest, most complex, and most underserved corners of global finance. Our mission at Juniper Square is to unlock their full potential. We’re the Operations Partner trusted by 2,300+ GPs, unifying technology, data, and fund administration services ",
+    "posted_at": "2026-11-23T03:45:19+00:00",
+    "collected_at_utc": "2026-11-24 21:55:27"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Kairos Power",
+    "title": "IT Systems Administrator",
+    "location": "USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/164115-it-systems-administrator",
+    "external_id": "jobicy::164115",
+    "description_snippet": "Company Overview Kairos Power is a new nuclear energy technology and engineering company whose mission is to enable the world’s transition to clean energy, with the ultimate goal to dramatically improve people’s quality of life while protecting the environment. This goal will be accomplished through",
+    "posted_at": "2026-11-24T13:00:20+00:00",
+    "collected_at_utc": "2026-11-24 21:55:27"
   },
   {
     "source_type": "weworkremotely",
@@ -991,6 +1081,21 @@
     "collected_at_utc": "2026-11-23 23:23:51"
   },
   {
+    "source_type": "jobicy",
+    "company": "Oddball",
+    "title": "DevOps Engineer",
+    "location": "USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/164108-devops-engineer-8",
+    "external_id": "jobicy::164108",
+    "description_snippet": "Oddball believes that we can bring change and improve the daily lives of millions by bringing quality software to the federal space. Our team is full of experienced engineering, product, and user experience professionals who love bringing scalable solutions to life as much as they love working with ",
+    "posted_at": "2026-11-24T12:58:50+00:00",
+    "collected_at_utc": "2026-11-24 21:55:27"
+  },
+  {
     "source_type": "greenhouse",
     "company": "okta",
     "title": "Senior Database Reliability Engineer (DBRE)",
@@ -1110,6 +1215,19 @@
   {
     "source_type": "greenhouse",
     "company": "okta",
+    "title": "Senior Site Reliability Engineer - Kubernetes & AWS",
+    "location": "",
+    "team": "",
+    "categories": [],
+    "url": "https://www.okta.com/company/careers/opportunity/8255907?gh_jid=8255907",
+    "external_id": "greenhouse::8255907",
+    "description_snippet": "",
+    "posted_at": "2026-11-24T00:58:17-05:00",
+    "collected_at_utc": "2026-11-24 21:55:27"
+  },
+  {
+    "source_type": "greenhouse",
+    "company": "okta",
     "title": "Senior Software Engineer - SRE",
     "location": "",
     "team": "",
@@ -1132,6 +1250,21 @@
     "description_snippet": "",
     "posted_at": "2026-11-17T15:18:46-05:00",
     "collected_at_utc": "2026-11-23 23:23:51"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "PerfectServe",
+    "title": "Senior Platform Engineer - US Remote",
+    "location": "USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/156231-senior-platform-engineer-us-remote",
+    "external_id": "jobicy::156231",
+    "description_snippet": "What is PerfectServe? PerfectServe is a leading provider of clinical communication and physician scheduling solutions in the health IT space. The company was founded in 1997 and has grown steadily since then, with a notable jump after several major acquisitions were announced in 2019. PerfectServe n",
+    "posted_at": "2026-11-21T03:20:31+00:00",
+    "collected_at_utc": "2026-11-24 21:55:27"
   },
   {
     "source_type": "weworkremotely",
@@ -1232,6 +1365,21 @@
   },
   {
     "source_type": "jobicy",
+    "company": "Supabase",
+    "title": "Release Engineer",
+    "location": "Anywhere",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/156579-release-engineer",
+    "external_id": "jobicy::156579",
+    "description_snippet": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We're lo",
+    "posted_at": "2026-11-23T03:40:24+00:00",
+    "collected_at_utc": "2026-11-24 21:55:27"
+  },
+  {
+    "source_type": "jobicy",
     "company": "Thumbtack",
     "title": "Software Engineer, AI/ML Infrastructure (US-Based)",
     "location": "USA",
@@ -1283,5 +1431,20 @@
     "description_snippet": "Headquarters: Argentina (Remote) Upgrade helps customers move in the right direction with affordable and responsible financial products. Since 2017, we’ve helped over 7.5 million customers access over $42 billion in consumer credit. With a relentless focus on improving our customers' financial well-",
     "posted_at": "Sun, 22 Nov 2026 06:02:04 +0000",
     "collected_at_utc": "2026-11-23 23:23:51"
+  },
+  {
+    "source_type": "jobicy",
+    "company": "Zapier",
+    "title": "Sr. Engineer, Database Reliability",
+    "location": "EMEA,  Canada,  USA",
+    "team": "DevOps & Infrastructure",
+    "categories": [
+      "['Full-Time']"
+    ],
+    "url": "https://jobicy.com/jobs/156564-sr-engineer-database-reliability",
+    "external_id": "jobicy::156564",
+    "description_snippet": "AI at Zapier At Zapier, we build and use automation every day to make work more efficient, creative, and human. So if you’re using AI tools while applying here - that’s great! We just ask that you use them responsibly and transparently. Check out our guidance on How to Collaborate with AI During Zap",
+    "posted_at": "2026-11-23T03:40:18+00:00",
+    "collected_at_utc": "2026-11-24 21:55:27"
   }
 ]
