@@ -1,7 +1,7 @@
 # Jobs via Adzuna API
 
-Generated: 2026-11-23 23:36 UTC
-Total jobs (24h window): 595
+Generated: 2026-11-24 22:06 UTC
+Total jobs (24h window): 639
 
 - [Salesforce DevOps Engineer / Lead (W2 Contract) - Remote](https://www.adzuna.com/land/ad/5976511160?se=VuMCtpbn8RGOPqj9_oCmyg&utm_medium=api&utm_source=632a28fd&v=691D98FE29D551E3B44F8FF83F530D35863FAD1B)
   - Company: HPTech Inc. | US
@@ -2382,3 +2382,179 @@ Total jobs (24h window): 595
 - [Engineer II - Site Reliability, Kubernetes (Remote, EST)](https://www.adzuna.com/land/ad/5941107000?se=6nXpwZbn8RGBUuiRoBjMvg&utm_medium=api&utm_source=632a28fd&v=D4001D5DB1DA0CADE15B01B5F57DF5109D47C29A)
   - Company: CrowdStrike | Archer, Laramie County
   - USA - Remote Full time R30302 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Azure Devops Engineer](https://www.adzuna.com/land/ad/5977377266?se=2M3TR1Po8RGUNbceY1_rPw&utm_medium=api&utm_source=632a28fd&v=4AAF76614C2E667CC008D69874998D2B87EFFDB6)
+  - Company: Lorhan Corporation | US
+  - Hello, I have an immediate opening for Sr Azure Devops Engineer at Remote. Role: Senior Azure DevOps Engineer Location: ...
+
+- [Senior Full Stack Developer / Lead DevOps](https://www.adzuna.com/land/ad/5977371896?se=2M3TR1Po8RGUNbceY1_rPw&utm_medium=api&utm_source=632a28fd&v=A6368B9B920951AEBE868297E4B9F9F09E703D87)
+  - Company: INSPYR Solutions | East Case, Baltimore
+  -  NOW HIRING: Senior Full Stack / DevOps Engineer  Location: Baltimore, Maryland (Remote)  Employment Type: Full-Time We ...
+
+- [Senior Cloud DevOps Engineer](https://www.adzuna.com/land/ad/5977279625?se=2M3TR1Po8RGUNbceY1_rPw&utm_medium=api&utm_source=632a28fd&v=23C3B3C92E2F0811DAB0CEB3C2B712D4AD7FCBF9)
+  - Company: S3 | Saint Louis, Saint Louis County
+  - Job Description STRATEGIC STAFFING SOLUTIONS (S3) HAS AN OPENING! Senior Cloud DevOps Engineer St. Louis, MO (Remote in ...
+
+- [DevSecOps / Platform Engineer – AWS - US Remote](https://www.adzuna.com/details/5977216761?utm_medium=api&utm_source=632a28fd)
+  - Company: xStear Incorporation | US
+  - Company Description xStear Incorporation is a trusted provider of digital transformation solutions, helping businesses m...
+
+- [GenAI DevOps Engineer /AI Engineer - Remote/Hybrid with Travel](https://www.adzuna.com/details/5976985910?utm_medium=api&utm_source=632a28fd)
+  - Company: Simple Solutions | Jacksonville, Duval County
+  - Senior GenAI DevOps Engineer /AI Engineer - Remote/Hybrid with Travel The key is time zone coverage and so we can expand...
+
+- [Senior Full Stack DevOps Engineer - Remote / Telecommute](https://www.adzuna.com/details/5976695489?utm_medium=api&utm_source=632a28fd)
+  - Company: CYNET SYSTEMS | East Case, Baltimore
+  - Pay Range: $60.00hr - $65.00hr Job Overview: We are seeking an experienced Senior Full Stack / DevOps Engineer to suppor...
+
+- [Senior DevOps Engineer - Remote / Telecommute](https://www.adzuna.com/details/5976695397?utm_medium=api&utm_source=632a28fd)
+  - Company: CYNET SYSTEMS | Austin, Travis County
+  - Pay Range: $55.00hr - $60.00hr Job Overview: Our client is seeking an experienced DevOps / GitLab Migration Engineer wit...
+
+- [Junior Java DevOps Engineer / Python Developer (Remote)](https://www.adzuna.com/details/5976606527?utm_medium=api&utm_source=632a28fd)
+  - Company: SynergisticIT | The Gap, Chicago
+  - Degree on the Wall, Interview Inbox on Empty You did the coursework. Nobody taught you how hiring actually works. You wa...
+
+- [DevSecOps / Platform Engineer](https://www.adzuna.com/land/ad/5976572662?se=2M3TR1Po8RGUNbceY1_rPw&utm_medium=api&utm_source=632a28fd&v=D3D8BF2D53EF0AB94508139F805E188514293A58)
+  - Company: Quebec solutions inc | US
+  - WE'RE HIRING | DevOps Engineer (DevSecOps / Platform Engineer)  Location: Remote – USA  Open Positions: 2  Experience: 5...
+
+- [DevOps Engineer](https://www.adzuna.com/land/ad/5976572643?se=2M3TR1Po8RGUNbceY1_rPw&utm_medium=api&utm_source=632a28fd&v=9FAEA0D57FCC5E33FBB8059BD18A6C15FC71786B)
+  - Company: Raas Infotek LLC | Charlotte, Mecklenburg County
+  - Job Title: Senior DevOps Engineer Experience: 12 Years Location: Remote / Hybrid / Onsite Employment Type: Contract (W2)...
+
+- [Senior Full Stack DevOps Engineer - Remote / Telecommute](https://www.adzuna.com/land/ad/5976380940?se=2M3TR1Po8RGUNbceY1_rPw&utm_medium=api&utm_source=632a28fd&v=30D626A216F70922B423BACAF38E59096F2AD78A)
+  - Company: Cynet Systems | East Case, Baltimore
+  - We are looking for Senior Full Stack DevOps Engineer - Remote / Telecommute for our client in Baltimore, MD Job Title: S...
+
+- [Site Reliability Engineer Team Lead](https://www.adzuna.com/land/ad/5977497899?se=Ss2DSVPo8RG3CcCV_YsU0g&utm_medium=api&utm_source=632a28fd&v=7C31F2AC28E6374E10A0BE018123A3914220CBFE)
+  - Company: SeaGlass IT | US
+  - FULL TIME OPPORTUNITY  ONLY W2 CANDIDATE - NO VENDORS OR C2C *SRE , Cloud or Hosting Titles with CloudFlare experience -...
+
+- [Lead Software Engineer](https://www.adzuna.com/land/ad/5977277747?se=LPNMS1Po8RGUNbceY1_rPw&utm_medium=api&utm_source=632a28fd&v=A4E7652F8805138EA412C2D4A2CB32FAFDE883DA)
+  - Company: Techgroup America Inc. | US
+  - Lead Software Engineer – Core Platform Location: Remote Duration: 12 Months Experience: 8 Years Position Summary We are ...
+
+- [Sr. Engineer - Platform Data Engineer (Remote)](https://www.adzuna.com/details/5975976600?utm_medium=api&utm_source=632a28fd)
+  - Company: CrowdStrike | US
+  - As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organ...
+
+- [Cloud Infrastructure Engineer](https://www.adzuna.com/details/5977391181?utm_medium=api&utm_source=632a28fd)
+  - Company: Bright Vision Technologies | Irving, Dallas
+  - Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and e...
+
+- [Azure Cloud Remediation Engineer](https://www.adzuna.com/land/ad/5977375161?se=4lb1TFPo8RGLYqZYfSmpUQ&utm_medium=api&utm_source=632a28fd&v=3CA5B38003074712FDEB4D52F46DE696E838FB8D)
+  - Company: Arnex Solutions LLC | US
+  - Azure Cloud Remediation Engineer - Remote Job Summary We are looking for an experienced Azure Cloud Remediation Engineer...
+
+- [AWS Certified Cloud Data Engineer / Remote Role](https://www.adzuna.com/land/ad/5977373349?se=4lb1TFPo8RGLYqZYfSmpUQ&utm_medium=api&utm_source=632a28fd&v=69799222CA05917662B3369BE0F2AA73F8B5FFA9)
+  - Company: American IT Systems | US
+  - AWS Certified Cloud Data Engineer Remote Experience : 10 years 6 Months only W2 Contract We need a solid resource that h...
+
+- [GRC Cloud Engineer (Remote)](https://www.adzuna.com/details/5977316473?utm_medium=api&utm_source=632a28fd)
+  - Company: A.C. Coy | Dallas, Texas
+  - PLEASE NOTE: No corp-to-corp candidates will be accepted. Tier One Technologies is looking for a GRC Cloud Engineer for ...
+
+- [Cloud Computing Engineer](https://www.adzuna.com/details/5977280829?utm_medium=api&utm_source=632a28fd)
+  - Company: SSG | University, Charlottesville
+  - Syms Strategic Group (SSG) is seeking a talented Cloud Computing Engineer (MCCF-Healthcare Systems) Location: Remote Dep...
+
+- [AWS Cloud Engineer - US Remote](https://www.adzuna.com/details/5977216888?utm_medium=api&utm_source=632a28fd)
+  - Company: xStear Incorporation | US
+  - JD: Advisor AWS Cloud Engineer Location: Remote, US Summary As a Cloud Engineer, you can contribute your skills as we ha...
+
+- [Senior Software Engineer, Cloud Capacity](https://www.adzuna.com/details/5977022335?utm_medium=api&utm_source=632a28fd)
+  - Company: Temporal Technologies | San Francisco, California
+  - Summary The Cloud Capacity team plays a critical role in ensuring the Temporal Cloud is scalable, efficient, and reliabl...
+
+- [Contract Discovery Paralegal](https://www.adzuna.com/details/5976950535?utm_medium=api&utm_source=632a28fd)
+  - Company: Jobot | Textile Finance, Los Angeles County
+  - Tech Unicorn / Engineering Manager with strong data engineering & cloud experience / 100% remote This Jobot Job is hoste...
+
+- [Senior AI/ML Engineer – Cloud & Agentic Systems](https://www.adzuna.com/details/5976693419?utm_medium=api&utm_source=632a28fd)
+  - Company: SFE | US
+  - Job Title: Senior AI/ML Engineer Cloud & Agentic Systems Location: Remote ( FLORHAM PARK, NJ) Duration: Fulltime Job Sum...
+
+- [Junior Java Developer / Cloud Data Engineer – Retail (Remote)](https://www.adzuna.com/details/5976607067?utm_medium=api&utm_source=632a28fd)
+  - Company: SynergisticIT | Raleigh, Wake County
+  - The Assessment Went Out. The Recruiter Never Came Back. Ghosting by recruiters after an assessment is still a no. You ap...
+
+- [Entry Level Java Developer / AWS Cloud Engineer (Remote)](https://www.adzuna.com/details/5976606708?utm_medium=api&utm_source=632a28fd)
+  - Company: SynergisticIT | San Jose, Santa Clara County
+  - Career Switchers: for People Moving from Non-Tech TO Tech Domain Knowledge Is an Asset Until You Cannot Query It Teacher...
+
+- [Senior AI/ML Engineer, Cloud & Agentic Systems](https://www.adzuna.com/land/ad/5976291347?se=4lb1TFPo8RGLYqZYfSmpUQ&utm_medium=api&utm_source=632a28fd&v=7E0CF3CC4046DA30D2BCF64317E1A384DB694D58)
+  - Company: HR Pundits | US
+  - Job Title: Senior AI/ML Engineer, Cloud & Agentic Systems Location: Remote Full Time Only Overview We are seeking a Seni...
+
+- [Cloud Engineer](https://www.adzuna.com/land/ad/5968360957?se=tr-8TVPo8RGUNbceY1_rPw&utm_medium=api&utm_source=632a28fd&v=BD077FE4FB4D4FABE5FCC3225F43862EEA5295B7)
+  - Company: Zyxware Technologies | US
+  - Title : Cloud Engineer Location : Fully Remote Type : Fulltime Responsibilities: We are seeking a cloud engineer to join...
+
+- [Data Engineer (STRICTLY OUR W2  Do NOT respond if you're looking for C2C)](https://www.adzuna.com/land/ad/5968301316?se=tr-8TVPo8RGUNbceY1_rPw&utm_medium=api&utm_source=632a28fd&v=E031E0FC0D2428F682C4DB8940EE7BE9749524DB)
+  - Company: Infoweb Systems, Inc. | Urbandale, Polk County
+  - InfoWeb Systems Inc. has the following requirement with our direct client, John Deere. If you feel that you’re a good fi...
+
+- [Senior Cloud Engineer – Ransomware Protection (Azure)—Remote](https://www.adzuna.com/details/5968052579?utm_medium=api&utm_source=632a28fd)
+  - Company: DELTASOFT SOLUTIONS LLC | Tenderloin, San Francisco
+  - Benefits: 401(k) 401(k) matching Bonus based on performance Senior Cloud Engineer – Ransomware Protection (Azure)—Remote...
+
+- [Senior Threat Modeler](https://www.adzuna.com/land/ad/5963696752?se=tr-8TVPo8RGUNbceY1_rPw&utm_medium=api&utm_source=632a28fd&v=FAC82B935C009FF2DDFB2EA5DAA286E9CDC1448D)
+  - Company: Nasscomm, Inc. | US
+  - Job Title: Senior Threat Modeler – Python Software Engineering / Cloud Security Location- 100% remote Duration-11 months...
+
+- [Lead Network Engineer, Cloud](https://www.adzuna.com/details/5962850841?utm_medium=api&utm_source=632a28fd)
+  - Company: Genworth Financial | US
+  - At Genworth, we empower families to navigate the aging journey with confidence. We are compassionate, experienced allies...
+
+- [Senior Data Engineer - Contract - Columbia, SC](https://www.adzuna.com/details/5962147705?utm_medium=api&utm_source=632a28fd)
+  - Company: SUNSHINE ENTERPRISE USA LLC | Pineridge, Lexington County
+  - Senior Data Engineer / Data Solutions Architect – Java, Python & Cloud Data Engineering Location: Remote Interview Proce...
+
+- [Customer Success Engineer (CSE) Prisma Cloud](https://www.adzuna.com/land/ad/5961886084?se=tr-8TVPo8RGUNbceY1_rPw&utm_medium=api&utm_source=632a28fd&v=2EFEC278055F14469CF70AB6EE6AFECB20AAD3DD)
+  - Company: Exl Neo Technologies | US
+  - Job Title: Customer Success Engineer (CSE) - Prisma Cloud Project Location: Remote Job Summary We are seeking a hands-on...
+
+- [Senior Cloud Engineers (Remote USA)](https://www.adzuna.com/details/5961732064?utm_medium=api&utm_source=632a28fd)
+  - Company: Rearc | US
+  - What You Bring Strong expertise in compute, storage, networking, and security services, along with cloud-native best pra...
+
+- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5961632085?se=tr-8TVPo8RGUNbceY1_rPw&utm_medium=api&utm_source=632a28fd&v=56B87A63FEA5162E26859C0CF483E7B68C727796)
+  - Company: CrowdStrike | Nashville, Davidson County
+  - USA - Remote Full time R29897 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5961632053?se=tr-8TVPo8RGUNbceY1_rPw&utm_medium=api&utm_source=632a28fd&v=7058E634B3CBA5691CCE8B0A24EB84BD285AEBE6)
+  - Company: CrowdStrike | Tumwater, Thurston County
+  - USA - Remote Full time R29897 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5961631884?se=tr-8TVPo8RGUNbceY1_rPw&utm_medium=api&utm_source=632a28fd&v=51FF59FFA2CD54B8E0782B27D88587BFC621D284)
+  - Company: CrowdStrike | Boston, Suffolk County
+  - USA - Remote Full time R29897 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5961631605?se=tr-8TVPo8RGUNbceY1_rPw&utm_medium=api&utm_source=632a28fd&v=F446FBD72DE5B3AEECBE97B2A219BDE343EE3115)
+  - Company: CrowdStrike | Lansing, Ingham County
+  - USA - Remote Full time R29897 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://www.adzuna.com/land/ad/5961629637?se=tr-8TVPo8RGUNbceY1_rPw&utm_medium=api&utm_source=632a28fd&v=61CF36C3E769C4DBFC451742CA0B153782E64694)
+  - Company: CrowdStrike | Trenton, Mercer County
+  - USA - Remote Full time R29897 As a global leader in cybersecurity, CrowdStrike protects the people, processes and techno...
+
+- [Infrastructure/System Engineer (REMOTE)](https://www.adzuna.com/land/ad/5977274635?se=VPe9TlPo8RGUNbceY1_rPw&utm_medium=api&utm_source=632a28fd&v=D8EF1379B5722B86F5C9034D60EDA1B79DA61810)
+  - Company: Russell, Tobin & Associates | Johns Creek, Fulton County
+  - Our client is looking to hire an Infrastructure/System Engineer in Alpharetta, GA (100% Remote) Role: Infrastructure/Sys...
+
+- [Azure Infrastructure Engineer](https://www.adzuna.com/details/5976868913?utm_medium=api&utm_source=632a28fd)
+  - Company: Vaco LLC | Addison, Dallas
+  - Azure Infrastructure Engineer DETAILS Location: Remote Position Type: 6M C2H Hourly / Salary: to $120K (based on experie...
+
+- [Senior Systems & Infrastructure Engineer](https://www.adzuna.com/details/5976338477?utm_medium=api&utm_source=632a28fd)
+  - Company: GEM Technologies | New York City, New York
+  - Senior Systems & Infrastructure Engineer New York Metropolitan Area | Primarily Remote with Occasional Client-Site Work ...
+
+- [Senior DevSecOps Engineer](https://www.adzuna.com/details/5977277344?utm_medium=api&utm_source=632a28fd)
+  - Company: SSG | Phenix City, Russell County
+  - Syms Strategic Group (SSG) is seeking a talented Senior Development, Security, and Operations (DevSecOps) Engineer (CPAC...
+
+- [Senior DevSecOps Engineer (Remote)](https://www.adzuna.com/details/5976603119?utm_medium=api&utm_source=632a28fd)
+  - Company: Integrated Data Services | US
+  - Company Overview: Integrated Data Services (IDS) is a leading provider of custom software products and Government financ...
