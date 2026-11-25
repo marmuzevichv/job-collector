@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-11-24 21:56 UTC
+Generated: 2026-11-25 21:04 UTC
 
-Total new jobs: 106
+Total new jobs: 108
 
 ## greenhouse
 
@@ -82,11 +82,11 @@ Total new jobs: 106
   - Company: cloudflare
   - Location: Remote
 
-- [Senior Atlassian Cloud Engineer, Jira Service Management](https://jobs.dropbox.com/listing/8328519?gh_jid=8328519)
+- [Senior Atlassian Cloud Engineer, Jira Service Management](https://jobs.dropbox.com/listing/8328520?gh_jid=8328520)
   - Company: dropbox
   - Location: Remote
 
-- [Senior Atlassian Cloud Engineer, Jira Service Management](https://jobs.dropbox.com/listing/8328520?gh_jid=8328520)
+- [Senior Atlassian Cloud Engineer, Jira Service Management](https://jobs.dropbox.com/listing/8328519?gh_jid=8328519)
   - Company: dropbox
   - Location: Remote
 
@@ -102,12 +102,36 @@ Total new jobs: 106
   - Company: dropbox
   - Location: Remote
 
+- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280093?gh_jid=8280093)
+  - Company: dropbox
+  - Location: Remote
+
 - [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280094?gh_jid=8280094)
   - Company: dropbox
   - Location: Remote
 
-- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280093?gh_jid=8280093)
-  - Company: dropbox
+- [Site Reliability Engineer - Platform Reliability](https://jobs.elastic.co/jobs?gh_jid=8176967&gh_jid=8176967)
+  - Company: elastic
+  - Location: Remote
+
+- [Site Reliability Engineer - Platform Reliability](https://jobs.elastic.co/jobs?gh_jid=8232039&gh_jid=8232039)
+  - Company: elastic
+  - Location: Remote
+
+- [Site Reliability Engineer - Platform Reliability](https://jobs.elastic.co/jobs?gh_jid=8232032&gh_jid=8232032)
+  - Company: elastic
+  - Location: Remote
+
+- [Site Reliability Engineer - Platform Reliability](https://jobs.elastic.co/jobs?gh_jid=8232037&gh_jid=8232037)
+  - Company: elastic
+  - Location: Remote
+
+- [Site Reliability Engineer - Platform Reliability](https://jobs.elastic.co/jobs?gh_jid=8232033&gh_jid=8232033)
+  - Company: elastic
+  - Location: Remote
+
+- [Site Reliability Engineer - Platform Reliability](https://jobs.elastic.co/jobs?gh_jid=8232131&gh_jid=8232131)
+  - Company: elastic
   - Location: Remote
 
 - [Sr. Salesforce DevOps Engineer](https://jobs.elastic.co/jobs?gh_jid=8207939&gh_jid=8207939)
@@ -142,11 +166,11 @@ Total new jobs: 106
   - Company: gitlab
   - Location: Remote
 
-- [Senior CX Platform Engineer](https://job-boards.greenhouse.io/gitlab/jobs/8871406002)
+- [Senior CX Platform Engineer](https://job-boards.greenhouse.io/gitlab/jobs/8957066002)
   - Company: gitlab
   - Location: Remote
 
-- [Senior CX Platform Engineer](https://job-boards.greenhouse.io/gitlab/jobs/8957066002)
+- [Senior CX Platform Engineer](https://job-boards.greenhouse.io/gitlab/jobs/8871406002)
   - Company: gitlab
   - Location: Remote
 
@@ -206,15 +230,15 @@ Total new jobs: 106
   - Company: okta
   - Location: Remote
 
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8260950?gh_jid=8260950)
+  - Company: okta
+  - Location: Remote
+
 - [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8184826?gh_jid=8184826)
   - Company: okta
   - Location: Remote
 
 - [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8242984?gh_jid=8242984)
-  - Company: okta
-  - Location: Remote
-
-- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8260950?gh_jid=8260950)
   - Company: okta
   - Location: Remote
 
@@ -301,16 +325,6 @@ Total new jobs: 106
   - Location: Mexico
   - Level/Team: DevOps & Infrastructure
 
-- [Senior DevOps Engineer](https://jobicy.com/jobs/155574-senior-devops-engineer-10)
-  - Company: dscout
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
-- [Platform Engineer-Kubernetes Operators](https://jobicy.com/jobs/163175-platform-engineer-kubernetes-operators)
-  - Company: EDB
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
 - [IT Engineer](https://jobicy.com/jobs/155006-it-engineer-2)
   - Company: Elevenlabs
   - Location: USA
@@ -321,8 +335,8 @@ Total new jobs: 106
   - Location: UK
   - Level/Team: DevOps & Infrastructure
 
-- [Senior DevOps Engineer - Storage Platforms](https://jobicy.com/jobs/153466-senior-devops-engineer-storage-platforms)
-  - Company: Five9
+- [Forward Deployed Engineer - DevOps/SRE](https://jobicy.com/jobs/164235-forward-deployed-engineer-devops-sre)
+  - Company: Harness
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
@@ -333,11 +347,6 @@ Total new jobs: 106
 
 - [IT Systems Administrator](https://jobicy.com/jobs/164115-it-systems-administrator)
   - Company: Kairos Power
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
-- [Senior SRE, Managed Gateways](https://jobicy.com/jobs/155629-senior-sre-managed-gateways)
-  - Company: Kong Inc.
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
@@ -395,10 +404,6 @@ Total new jobs: 106
 
 ## remoteok
 
-- [Sr Analyst, Analytics & Insights](https://remoteOK.com/remote-jobs/remote-sr-analyst-analytics-insights-beyondtrust-1137962)
-  - Company: BeyondTrust
-  - Location: North America
-
 - [Sr Sales Ops Analyst](https://remoteOK.com/remote-jobs/remote-sr-sales-ops-analyst-beyondtrust-1137902)
   - Company: BeyondTrust
   - Location: US Only
@@ -406,6 +411,10 @@ Total new jobs: 106
 - [Associate Counsel, Vendor and Provider Contracting](https://remoteOK.com/remote-jobs/remote-associate-counsel-vendor-and-provider-contracting-clover-health-1137933)
   - Company: Clover Health
   - Location: US Only
+
+- [Security Engineer, Offensive Security](https://remoteOK.com/remote-jobs/remote-security-engineer-offensive-security-dropbox-1138096)
+  - Company: Dropbox
+  - Location: North America
 
 - [Security Analyst - Governance, Risk, and Compliance](https://remoteOK.com/remote-jobs/remote-security-analyst-governance-risk-and-compliance-launchdarkly-1137898)
   - Company: LaunchDarkly
@@ -421,10 +430,6 @@ Total new jobs: 106
 
 - [Senior SRE, Site Experience](https://remoteOK.com/remote-jobs/remote-senior-sre-site-experience-reddit-1137975)
   - Company: Reddit
-  - Location: US Only
-
-- [PreSales Solutions Engineer](https://remoteOK.com/remote-jobs/remote-presales-solutions-engineer-sumo-logic-1137877)
-  - Company: Sumo Logic
   - Location: US Only
 
 ## weworkremotely
