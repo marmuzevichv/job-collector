@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-11-25 21:04 UTC
+Generated: 2026-11-26 20:56 UTC
 
-Total new jobs: 108
+Total new jobs: 104
 
 ## greenhouse
 
@@ -280,23 +280,8 @@ Total new jobs: 108
 
 ## jobicy
 
-- [Senior Software Engineer, Platform](https://jobicy.com/jobs/156187-senior-software-engineer-platform-3)
-  - Company: Astronomer
-  - Location: Ireland
-  - Level/Team: DevOps & Infrastructure
-
 - [Infrastructure Engineer](https://jobicy.com/jobs/153599-infrastructure-engineer-3)
   - Company: Bayesian Health
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
-- [Sr. IT Systems Engineer](https://jobicy.com/jobs/156214-sr-it-systems-engineer-2)
-  - Company: Carrot
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
-- [IT Lead](https://jobicy.com/jobs/156646-it-lead)
-  - Company: ClassDojo
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
@@ -307,6 +292,11 @@ Total new jobs: 108
 
 - [IT Systems DevOps Engineer](https://jobicy.com/jobs/163973-it-systems-devops-engineer-2)
   - Company: Cologix, Inc.
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [Sr. DevOps Engineer](https://jobicy.com/jobs/157082-sr-devops-engineer)
+  - Company: Cyware
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
@@ -325,28 +315,18 @@ Total new jobs: 108
   - Location: Mexico
   - Level/Team: DevOps & Infrastructure
 
-- [IT Engineer](https://jobicy.com/jobs/155006-it-engineer-2)
-  - Company: Elevenlabs
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
 - [Senior SRE - Networks](https://jobicy.com/jobs/153756-senior-sre-networks)
   - Company: Fastly
   - Location: UK
   - Level/Team: DevOps & Infrastructure
 
+- [Cloud Platform Engineer](https://jobicy.com/jobs/157196-cloud-platform-engineer-2)
+  - Company: GitLab
+  - Location: Canada,  USA
+  - Level/Team: DevOps & Infrastructure
+
 - [Forward Deployed Engineer - DevOps/SRE](https://jobicy.com/jobs/164235-forward-deployed-engineer-devops-sre)
   - Company: Harness
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
-- [Senior Site Reliability Engineer II](https://jobicy.com/jobs/156598-senior-site-reliability-engineer-ii)
-  - Company: Juniper Square
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
-- [IT Systems Administrator](https://jobicy.com/jobs/164115-it-systems-administrator)
-  - Company: Kairos Power
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
@@ -370,17 +350,7 @@ Total new jobs: 108
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
-- [Senior Platform Engineer - US Remote](https://jobicy.com/jobs/156231-senior-platform-engineer-us-remote)
-  - Company: PerfectServe
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
 - [Cloud Platform Engineer](https://jobicy.com/jobs/156583-cloud-platform-engineer)
-  - Company: Supabase
-  - Location: Anywhere
-  - Level/Team: DevOps & Infrastructure
-
-- [Release Engineer](https://jobicy.com/jobs/156579-release-engineer)
   - Company: Supabase
   - Location: Anywhere
   - Level/Team: DevOps & Infrastructure
@@ -390,9 +360,9 @@ Total new jobs: 108
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
-- [Sr. Engineer, Database Reliability](https://jobicy.com/jobs/156564-sr-engineer-database-reliability)
-  - Company: Zapier
-  - Location: EMEA,  Canada,  USA
+- [Senior Software Engineer, Data Infrastructure (RDBMS)](https://jobicy.com/jobs/164449-senior-software-engineer-data-infrastructure-rdbms)
+  - Company: TRM Labs
+  - Location: Canada,  USA
   - Level/Team: DevOps & Infrastructure
 
 ## lever
@@ -415,6 +385,10 @@ Total new jobs: 108
 - [Security Engineer, Offensive Security](https://remoteOK.com/remote-jobs/remote-security-engineer-offensive-security-dropbox-1138096)
   - Company: Dropbox
   - Location: North America
+
+- [Intermediate Security Engineer, Security Incident Response Team (SIRT)](https://remoteOK.com/remote-jobs/remote-intermediate-security-engineer-security-incident-response-team-sirt-gitlab-1138104)
+  - Company: GitLab
+  - Location: US Only
 
 - [Security Analyst - Governance, Risk, and Compliance](https://remoteOK.com/remote-jobs/remote-security-analyst-governance-risk-and-compliance-launchdarkly-1137898)
   - Company: LaunchDarkly
@@ -440,6 +414,10 @@ Total new jobs: 108
 
 - [Senior Platform Engineer](https://weworkremotely.com/remote-jobs/gemini-senior-platform-engineer)
   - Company: Gemini
+  - Location: Remote
+
+- [Cloud Platform Engineer](https://weworkremotely.com/remote-jobs/gitlab-cloud-platform-engineer)
+  - Company: GitLab
   - Location: Remote
 
 - [Site Reliability Engineer](https://weworkremotely.com/remote-jobs/gusto-inc-site-reliability-engineer)
