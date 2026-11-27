@@ -1,8 +1,8 @@
 # New jobs
 
-Generated: 2026-11-26 20:56 UTC
+Generated: 2026-11-27 20:42 UTC
 
-Total new jobs: 104
+Total new jobs: 97
 
 ## greenhouse
 
@@ -94,15 +94,11 @@ Total new jobs: 104
   - Company: dropbox
   - Location: Remote
 
-- [Senior Client Platform Engineer, Endpoint Platform & Automation](https://jobs.dropbox.com/listing/8356939?gh_jid=8356939)
-  - Company: dropbox
-  - Location: Remote
-
 - [Senior Client Platform Engineer, Endpoint Platform & Automation](https://jobs.dropbox.com/listing/8356942?gh_jid=8356942)
   - Company: dropbox
   - Location: Remote
 
-- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280093?gh_jid=8280093)
+- [Senior Client Platform Engineer, Endpoint Platform & Automation](https://jobs.dropbox.com/listing/8356939?gh_jid=8356939)
   - Company: dropbox
   - Location: Remote
 
@@ -110,11 +106,11 @@ Total new jobs: 104
   - Company: dropbox
   - Location: Remote
 
-- [Site Reliability Engineer - Platform Reliability](https://jobs.elastic.co/jobs?gh_jid=8176967&gh_jid=8176967)
-  - Company: elastic
+- [Senior Corporate Enterprise Platform Engineer, Windows](https://jobs.dropbox.com/listing/8280093?gh_jid=8280093)
+  - Company: dropbox
   - Location: Remote
 
-- [Site Reliability Engineer - Platform Reliability](https://jobs.elastic.co/jobs?gh_jid=8232039&gh_jid=8232039)
+- [Site Reliability Engineer - Platform Reliability](https://jobs.elastic.co/jobs?gh_jid=8176967&gh_jid=8176967)
   - Company: elastic
   - Location: Remote
 
@@ -126,11 +122,15 @@ Total new jobs: 104
   - Company: elastic
   - Location: Remote
 
+- [Site Reliability Engineer - Platform Reliability](https://jobs.elastic.co/jobs?gh_jid=8232131&gh_jid=8232131)
+  - Company: elastic
+  - Location: Remote
+
 - [Site Reliability Engineer - Platform Reliability](https://jobs.elastic.co/jobs?gh_jid=8232033&gh_jid=8232033)
   - Company: elastic
   - Location: Remote
 
-- [Site Reliability Engineer - Platform Reliability](https://jobs.elastic.co/jobs?gh_jid=8232131&gh_jid=8232131)
+- [Site Reliability Engineer - Platform Reliability](https://jobs.elastic.co/jobs?gh_jid=8232039&gh_jid=8232039)
   - Company: elastic
   - Location: Remote
 
@@ -166,11 +166,11 @@ Total new jobs: 104
   - Company: gitlab
   - Location: Remote
 
-- [Senior CX Platform Engineer](https://job-boards.greenhouse.io/gitlab/jobs/8957066002)
+- [Senior CX Platform Engineer](https://job-boards.greenhouse.io/gitlab/jobs/8871406002)
   - Company: gitlab
   - Location: Remote
 
-- [Senior CX Platform Engineer](https://job-boards.greenhouse.io/gitlab/jobs/8871406002)
+- [Senior CX Platform Engineer](https://job-boards.greenhouse.io/gitlab/jobs/8957066002)
   - Company: gitlab
   - Location: Remote
 
@@ -226,19 +226,19 @@ Total new jobs: 104
   - Company: okta
   - Location: Remote
 
-- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/7963271?gh_jid=7963271)
-  - Company: okta
-  - Location: Remote
-
-- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8260950?gh_jid=8260950)
-  - Company: okta
-  - Location: Remote
-
 - [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8184826?gh_jid=8184826)
   - Company: okta
   - Location: Remote
 
 - [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8242984?gh_jid=8242984)
+  - Company: okta
+  - Location: Remote
+
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/7963271?gh_jid=7963271)
+  - Company: okta
+  - Location: Remote
+
+- [Senior Site Reliability Engineer](https://www.okta.com/company/careers/opportunity/8260950?gh_jid=8260950)
   - Company: okta
   - Location: Remote
 
@@ -255,10 +255,6 @@ Total new jobs: 104
   - Location: Remote
 
 - [Senior Site Reliability Engineer - Kubernetes & AWS](https://www.okta.com/company/careers/opportunity/8255907?gh_jid=8255907)
-  - Company: okta
-  - Location: Remote
-
-- [Senior Software Engineer - SRE](https://www.okta.com/company/careers/opportunity/8263916?gh_jid=8263916)
   - Company: okta
   - Location: Remote
 
@@ -280,44 +276,34 @@ Total new jobs: 104
 
 ## jobicy
 
-- [Infrastructure Engineer](https://jobicy.com/jobs/153599-infrastructure-engineer-3)
-  - Company: Bayesian Health
-  - Location: USA
+- [Senior Site Reliability / Gitops Engineer](https://jobicy.com/jobs/149544-senior-site-reliability-gitops-engineer)
+  - Company: Canonical
+  - Location: Anywhere
   - Level/Team: DevOps & Infrastructure
 
-- [GTM DevOps Engineer](https://jobicy.com/jobs/156285-gtm-devops-engineer)
-  - Company: ClickUp
-  - Location: USA
+- [Senior Site Reliability Engineer](https://jobicy.com/jobs/149557-senior-site-reliability-engineer-5)
+  - Company: Canonical
+  - Location: Anywhere
   - Level/Team: DevOps & Infrastructure
 
-- [IT Systems DevOps Engineer](https://jobicy.com/jobs/163973-it-systems-devops-engineer-2)
-  - Company: Cologix, Inc.
+- [Site Reliability / Gitops Engineer](https://jobicy.com/jobs/149553-site-reliability-gitops-engineer)
+  - Company: Canonical
+  - Location: Anywhere
+  - Level/Team: DevOps & Infrastructure
+
+- [Site Reliability Engineer](https://jobicy.com/jobs/149547-site-reliability-engineer)
+  - Company: Canonical
+  - Location: Anywhere
+  - Level/Team: DevOps & Infrastructure
+
+- [IT Lead](https://jobicy.com/jobs/156646-it-lead)
+  - Company: ClassDojo
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
 - [Sr. DevOps Engineer](https://jobicy.com/jobs/157082-sr-devops-engineer)
   - Company: Cyware
   - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
-- [QA/DevOps Engineer](https://jobicy.com/jobs/155923-qa-devops-engineer)
-  - Company: Discord
-  - Location: USA
-  - Level/Team: QA & Testing
-
-- [Infrastructure Software Engineer](https://jobicy.com/jobs/163396-infrastructure-software-engineer-3)
-  - Company: Dropbox
-  - Location: Mexico
-  - Level/Team: DevOps & Infrastructure
-
-- [Senior Atlassian Cloud Engineer](https://jobicy.com/jobs/163403-senior-atlassian-cloud-engineer)
-  - Company: Dropbox
-  - Location: Mexico
-  - Level/Team: DevOps & Infrastructure
-
-- [Senior SRE - Networks](https://jobicy.com/jobs/153756-senior-sre-networks)
-  - Company: Fastly
-  - Location: UK
   - Level/Team: DevOps & Infrastructure
 
 - [Cloud Platform Engineer](https://jobicy.com/jobs/157196-cloud-platform-engineer-2)
@@ -330,18 +316,18 @@ Total new jobs: 104
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
+- [Senior Site Reliability Engineer II](https://jobicy.com/jobs/156598-senior-site-reliability-engineer-ii)
+  - Company: Juniper Square
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
+- [IT Systems Administrator](https://jobicy.com/jobs/164115-it-systems-administrator)
+  - Company: Kairos Power
+  - Location: USA
+  - Level/Team: DevOps & Infrastructure
+
 - [Senior Azure Platform / DevOps Engineer](https://jobicy.com/jobs/163925-senior-azure-platform-devops-engineer)
   - Company: Makai Labs
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
-- [Field CTO, Media & Entertainment AI Infrastructure](https://jobicy.com/jobs/163568-field-cto-media-entertainment-ai-infrastructure)
-  - Company: Nebius
-  - Location: USA
-  - Level/Team: DevOps & Infrastructure
-
-- [Forward Deployed Engineer, Physical AI Infrastructure](https://jobicy.com/jobs/163601-forward-deployed-engineer-physical-ai-infrastructure-2)
-  - Company: Nebius
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
@@ -350,14 +336,19 @@ Total new jobs: 104
   - Location: USA
   - Level/Team: DevOps & Infrastructure
 
-- [Cloud Platform Engineer](https://jobicy.com/jobs/156583-cloud-platform-engineer)
+- [DevOps - Remote (Only Mexico)](https://jobicy.com/jobs/164497-devops-remote-only-mexico-2)
+  - Company: Orion Innovation
+  - Location: Mexico
+  - Level/Team: DevOps & Infrastructure
+
+- [Platform Engineer - Compute Capacity](https://jobicy.com/jobs/156946-platform-engineer-compute-capacity)
   - Company: Supabase
   - Location: Anywhere
   - Level/Team: DevOps & Infrastructure
 
-- [Software Engineer, AI/ML Infrastructure (US-Based)](https://jobicy.com/jobs/156483-software-engineer-ai-ml-infrastructure-us-based)
-  - Company: Thumbtack
-  - Location: USA
+- [Release Engineer](https://jobicy.com/jobs/156579-release-engineer)
+  - Company: Supabase
+  - Location: Anywhere
   - Level/Team: DevOps & Infrastructure
 
 - [Senior Software Engineer, Data Infrastructure (RDBMS)](https://jobicy.com/jobs/164449-senior-software-engineer-data-infrastructure-rdbms)
@@ -374,14 +365,6 @@ Total new jobs: 104
 
 ## remoteok
 
-- [Sr Sales Ops Analyst](https://remoteOK.com/remote-jobs/remote-sr-sales-ops-analyst-beyondtrust-1137902)
-  - Company: BeyondTrust
-  - Location: US Only
-
-- [Associate Counsel, Vendor and Provider Contracting](https://remoteOK.com/remote-jobs/remote-associate-counsel-vendor-and-provider-contracting-clover-health-1137933)
-  - Company: Clover Health
-  - Location: US Only
-
 - [Security Engineer, Offensive Security](https://remoteOK.com/remote-jobs/remote-security-engineer-offensive-security-dropbox-1138096)
   - Company: Dropbox
   - Location: North America
@@ -390,23 +373,11 @@ Total new jobs: 104
   - Company: GitLab
   - Location: US Only
 
-- [Security Analyst - Governance, Risk, and Compliance](https://remoteOK.com/remote-jobs/remote-security-analyst-governance-risk-and-compliance-launchdarkly-1137898)
-  - Company: LaunchDarkly
-  - Location: US Only
-
-- [Lead, Office of Software Assurance](https://remoteOK.com/remote-jobs/remote-lead-office-of-software-assurance-natera-1137940)
-  - Company: Natera
-  - Location: US Only
-
-- [Sr. Forward Deployed Data Engineer](https://remoteOK.com/remote-jobs/remote-sr-forward-deployed-data-engineer-natera-1137970)
-  - Company: Natera
-  - Location: US Only
-
-- [Senior SRE, Site Experience](https://remoteOK.com/remote-jobs/remote-senior-sre-site-experience-reddit-1137975)
-  - Company: Reddit
-  - Location: US Only
-
 ## weworkremotely
+
+- [Senior Platform Engineer](https://weworkremotely.com/remote-jobs/coder-technologies-inc-senior-platform-engineer)
+  - Company: Coder Technologies Inc.
+  - Location: Remote
 
 - [Full-Stack Platform Engineer](https://weworkremotely.com/remote-jobs/edgewater-federal-solutions-inc-full-stack-platform-engineer)
   - Company: Edgewater Federal Solutions, Inc.
